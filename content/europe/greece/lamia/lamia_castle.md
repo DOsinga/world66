@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Archaeological_Museum_of_Lamia
 story: >
   The castle was one of the few Frankish fortifications in mainland Greece to hold out successfully against repeated Ottoman assault. After the Ottomans finally took it in 1394, it served as a garrison for centuries — you can still see the Turkish tower built into the medieval walls on the north side of the complex.
+score: 7.8
 ---
 
 The hill of Lamia has been fortified since antiquity, and the current walls — a layered accumulation of Macedonian, Frankish, and Ottoman construction — wrap around the summit above the modern city. The views from the battlements across the Spercheios valley and toward Mount Othrys are excellent and well worth the uphill walk.

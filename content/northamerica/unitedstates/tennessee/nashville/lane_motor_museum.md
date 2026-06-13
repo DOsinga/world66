@@ -6,6 +6,7 @@ longitude: -86.7405
 tags:
   - things_to_do
   - museum
+score: 7.9
 ---
 
 The Lane Motor Museum, in a former 1950s Sunbeam Bakery on Murfreesboro Pike, houses one of the largest collections of European, microcar, and "strange" vehicles in the country — more than 500 cars and motorcycles, almost all road-ready and rotated out for periodic drives. The emphasis is on the obscure: Eastern Bloc Trabants and Wartburgs, French Citroëns, British amphibious cars, three-wheelers, propeller-driven cars, military oddities.

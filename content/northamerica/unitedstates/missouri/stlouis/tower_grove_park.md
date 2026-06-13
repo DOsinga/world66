@@ -8,6 +8,7 @@ tags:
 - shaw
 latitude: 38.6063
 longitude: -90.2528
+score: 7.8
 ---
 
 Tower Grove Park is a 289-acre park immediately south of the Missouri Botanical Garden, gifted to the city in 1868 by the same Henry Shaw who founded the garden. It is the most intact 19th-century park in the United States, designed in the romantic English style — a National Historic Landmark in its entirety.

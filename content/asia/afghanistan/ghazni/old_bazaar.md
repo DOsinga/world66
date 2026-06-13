@@ -8,6 +8,7 @@ tags:
   - sight
   - market
 snippet: Covered bazaar in the centre of the walled town
+score: 8.9
 ---
 
 Despite the damage of the last forty years, parts of Ghazni's covered **bazaar** still function as the commercial heart of the old town, especially the streets between the citadel and the main mosque. The merchants sell carpets, *postin* sheepskin coats, dried fruit and nuts, brass and copper work, and the **embroidered hats** for which the region was once well known.

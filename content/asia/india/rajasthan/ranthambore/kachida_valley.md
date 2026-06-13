@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 26.0400
 longitude: 76.5500
+score: 7.8
 ---
 
 Kachida Valley, in the northern buffer zone of Ranthambore, is the best area in the park for leopard sightings. While tigers dominate the core zone around the lakes, leopards are more cryptic and generally range across the rockier terrain of the outer zones. Kachida's combination of ridges, ravines, and scrubby vegetation suits them perfectly.

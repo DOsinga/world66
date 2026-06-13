@@ -14,6 +14,7 @@ story: >
   photographs like a set from another era. It still bears the coat of arms of
   Grand Master António Manoel de Vilhena, who ordered the rebuilding of the
   entire city entrance.
+score: 7.8
 ---
 
 Mdina Gate is the ceremonial entrance to the Silent City, built in 1724 under Grand Master António Manoel de Vilhena in the French Baroque style. The architect Charles François de Mondion designed a structure that manages to be both imposing and welcoming: a carved limestone arch flanked by pilasters and decorated with the arms of Vilhena and the city itself, approached over a short bridge across what was once the defensive ditch.

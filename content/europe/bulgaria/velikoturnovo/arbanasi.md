@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.1
 longitude: 25.6667
+score: 8.5
 ---
 
 Arbanasi is a village 4km from Veliko Turnovo, set on a plateau above the Yantra valley with sweeping views down to the town and the river gorge. In the 17th and 18th centuries it was a wealthy merchant settlement — its residents enjoyed special tax privileges from the Ottoman authorities — and the houses and churches they built reflect that prosperity. Several large fortified mansion-houses have been preserved or restored, their forbidding exterior walls concealing beautifully decorated interior rooms.

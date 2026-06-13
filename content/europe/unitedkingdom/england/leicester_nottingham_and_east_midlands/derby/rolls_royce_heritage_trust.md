@@ -8,6 +8,7 @@ latitude: 52.9380
 longitude: -1.4580
 sources:
   - https://en.wikipedia.org/wiki/Rolls-Royce_Heritage_Trust
+score: 7.3
 ---
 
 Rolls-Royce has been making aero engines in Derby since 1908, and the Rolls-Royce Heritage Trust operates a museum on the Sinfin site that traces that history from the first Silver Ghost to the Trent engines that power modern wide-bodied jets. The collection includes complete engines, workshop equipment, archival photographs, and personal items from engineers who worked through the great eras of aviation.

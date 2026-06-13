@@ -8,6 +8,7 @@ tags:
   - sight
   - shopping
 address: 9 Mher Mkrtchyan Street
+score: 8.1
 ---
 
 One of the few working traditional Armenian carpet workshops left, founded by the Megerian family in New Jersey in the 1980s and re-established in Armenia after independence. Tours of the factory show the entire process: wool sorting and washing, natural dyeing using pomegranate, walnut, and madder root, and weavers at the looms producing carpets in classical Armenian patterns.

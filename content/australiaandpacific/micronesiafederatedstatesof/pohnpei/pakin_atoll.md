@@ -9,6 +9,7 @@ latitude: 6.9167
 longitude: 157.8167
 sources:
   - https://en.wikipedia.org/wiki/Pakin_Atoll
+score: 8.4
 ---
 
 Smaller and more remote than Ant Atoll, Pakin lies about 35 kilometres west of Pohnpei. It is one of the few places in Micronesia where you can dive in near-complete solitude. The atoll has a small resident community and receives very few visitors. The diving is wall diving with strong currents, suited to experienced divers — the shark action in the passes can be intense, and the outer walls hold very large fish rarely seen closer to civilisation.

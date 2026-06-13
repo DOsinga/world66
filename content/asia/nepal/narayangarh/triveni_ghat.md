@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7006
 longitude: 84.4279
+score: 6.2
 ---
 
 Triveni Ghat is the confluence of the Narayani and Rapti rivers at the southern edge of town. It is a pleasant spot for an hour — locals come here at dusk to bathe and perform small rituals, and the sandy riverbanks offer views across the water toward the Chitwan forest. A Hindu shrine marks the meeting point of the two rivers, which is considered auspicious.

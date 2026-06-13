@@ -14,6 +14,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 League Park was the home of the Cleveland Indians (and earlier teams) from 1891 to 1946, and the surviving fragment — the brick ticket office, a small section of the original outfield wall, and a re-laid baseball diamond — has been preserved as a small park and museum in the Hough neighbourhood. The dimensions of the original field have been marked on the ground, and the foul lines still meet at home plate.

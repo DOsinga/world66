@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 story: "Hamburgers are deeply fond of the old Elbtunnel — a 426-metre pedestrian-and-vehicle tunnel finished in 1911, with cars lowered into the shaft on enormous lifts. Even though a modern tunnel takes the motorway traffic now, the old tunnel still carries about 15 million people across the river each year, mostly cyclists and pedestrians."
+score: 8.6
 ---
 
 The St. Pauli Elbtunnel — known locally as the Alter Elbtunnel — is a remarkable piece of Edwardian engineering and one of Hamburg's most-loved curiosities. Two parallel cast-iron tubes run 24 metres below the river bed, connecting St. Pauli with the southern bank at Steinwerder. To reach them you ride down in one of the original 1911 lifts; cars and bicycles share the cage with the pedestrians.

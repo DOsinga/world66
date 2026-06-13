@@ -13,6 +13,7 @@ story: >
   "meet me at the Ghanta Ghar" is still a common instruction. The clock mechanism was
   imported from England and has been maintained through various political upheavals,
   earthquakes, and revolutions, running for over a century.
+score: 4.9
 ---
 
 Ghanta Ghar is Kathmandu's oldest clock tower, built in 1894 during the Rana regime that ruled Nepal under British influence. It stands in the busy junction near Rani Pokhari, its ornate Victorian design somewhat incongruous amid the surrounding chaos of modern Kathmandu. The tower is not open to climb but is a recognisable landmark worth noting as you navigate the city.

@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 12.785
 longitude: 45.022
+score: 7.5
 ---
 
 On the slopes of the Shamsan range above western Crater stand the remains of a Zoroastrian dakhma — a "tower of silence" where Parsi communities exposed their dead to be cleaned by vultures. The structure is a low circular wall of dressed stone, mostly intact, with the central well still visible. It dates from the British colonial period, when a community of Parsi merchants from Bombay settled in Aden to run the port's commercial agencies.

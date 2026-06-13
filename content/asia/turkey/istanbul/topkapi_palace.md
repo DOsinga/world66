@@ -13,6 +13,7 @@ story: >
   found in a rubbish heap in Istanbul in the 17th century, sold for three spoons by the man who
   found it, passed through several hands, and eventually ending up in the Ottoman treasury. The
   name has stuck for 300 years.
+score: 9.8
 ---
 
 Topkapı Palace was the administrative heart of the Ottoman Empire for nearly four centuries. It is not a single building but a sprawling complex of courts, pavilions, and gardens on the promontory above the Bosphorus — a city within a city that could house 4,000 people at its peak. The four main courtyards take you progressively deeper into the imperial world, from the outer public court (where the Imperial Mint still stands) to the innermost Harem.

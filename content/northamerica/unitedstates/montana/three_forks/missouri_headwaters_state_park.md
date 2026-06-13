@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Missouri_Headwaters_State_Park
 story: >
   When Lewis and Clark arrived here on 25 July 1805, they had been traveling up the Missouri for over a year. Clark wrote in his journal that he was "unwell" with a high fever, and the party was exhausted. They named the three rivers for President Jefferson, Secretary of State Madison, and Treasury Secretary Gallatin — political choices as much as geographic ones. Sacagawea recognized the area immediately: she had been captured by Hidatsa raiders near this spot five years earlier.
+score: 8.5
 ---
 
 Missouri Headwaters State Park occupies 535 acres at the confluence of the Jefferson, Madison, and Gallatin rivers — the point where the Missouri River officially begins. It is one of the most historically charged spots in the American West: Lewis and Clark camped here in July 1805, and the confluence was a landmark in the fur trade era that followed.

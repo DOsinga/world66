@@ -13,6 +13,7 @@ story: >
   City — across rivers, jungle, and mountains — to be loaded onto ships bound
   for Seville. Drake raided the town in 1572, but by then the treasure fleets
   had already moved east to Portobelo.
+score: 7.1
 ---
 
 Nombre de Dios was the Caribbean terminus of the original Camino Real, the royal road that connected Panama City on the Pacific to the Atlantic coast. From 1510 until the late 16th century, this was where the wealth of the Spanish Empire funnelled before crossing the ocean. Mule trains arrived laden with silver from Potosi and gold from Peru, unloaded onto galleons waiting in the protected bay.

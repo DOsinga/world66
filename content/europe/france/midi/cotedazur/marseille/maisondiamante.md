@@ -8,6 +8,7 @@ tags:
 - palace
 title: Maison Diamantée
 type: poi
+score: 6.6
 ---
 
 Built in 1570 in the old quarter of Marseille, the Maison Diamantée takes its name from the faceted "diamond point" stones that make up its striking facade. It is one of the oldest surviving secular buildings in the city and a fine example of Provencal Renaissance architecture.

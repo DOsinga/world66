@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 31.7318
 longitude: -106.4751
+score: 6.4
 ---
 
 The Salón México is one of the few surviving traditional cantinas in the border zone with genuine history and character. Located on Avenida 16 de Septiembre, it has operated for decades and maintains the cantina format that defines old Mexico: cheap beer, botanas (free bar food) with every round, and a large dance floor where a band plays norteño and cumbia on weekends.

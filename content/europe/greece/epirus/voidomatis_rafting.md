@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9267
 longitude: 20.7100
+score: 7.8
 ---
 
 The Voidomatis is considered one of the cleanest rivers in Europe — glacially cold (around 6°C year-round), crystal-clear, and running through the lower reaches of the Vikos-Aoos National Park. Rafting trips on the river depart from the village of Aristi and run for about 9 kilometres through a landscape of plane trees, limestone cliffs, and the occasional ruined Ottoman bridge.

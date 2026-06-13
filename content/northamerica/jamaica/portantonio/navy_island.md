@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.1872
 longitude: -76.4533
+score: 6.4
 ---
 
 Navy Island is a small, uninhabited island of about 64 acres lying just off the Port Antonio waterfront, separated from the town by a narrow channel. It was used as a naval base by the British in the 18th century and later, famously, owned by Errol Flynn, who bought it in the 1940s as part of his Jamaican landholding.

@@ -6,6 +6,7 @@ longitude: -72.0968
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The US Coast Guard Academy occupies a handsome campus on a hill overlooking the Thames River, and unusually for a military academy, it is open to the public without prior arrangement. Walk the grounds, visit the museum in Chase Hall, and if timing is right, watch the cadets on parade — Friday afternoon parade drills are a tradition during the academic year.

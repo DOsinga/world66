@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Lenk_im_Simmental
 story: >
   The Iffigenalp is the upper cirque of the Iffigtal, a side valley running northwest from Lenk. The Iffigbach river in the valley floor feeds the Iffigensee, a small lake at the valley head, before tumbling down in a series of falls visible from the main path. The area has been a summer pasture for valley farms since the medieval period.
+score: 8.3
 ---
 
 Iffigenalp is an alpine cirque above Lenk at around 1,600 metres, reached by a PostBus from Lenk village (summer service) or a 90-minute walk from the valley floor. It is one of the more appealing high-valley destinations in the Bernese Oberland — a broad green bowl ringed by rock faces, with an alpine restaurant and several waymarked trails continuing to the higher ground.

@@ -12,6 +12,7 @@ story: >
   Philippine coastlines. As of the early 2020s, the stretch of white sand
   remains accessible without booking ahead or paying resort fees — an
   increasingly rare thing in the Philippines.
+score: 7.5
 ---
 
 Tahusan Beach is the main reason to come to Hinunangan: a stretch of fine white sand on the shore of Hinunangan Bay, facing east toward the Pacific Ocean. The water is calm within the bay, clear and warm, and the beach sees far fewer visitors than comparable beaches in more heavily promoted parts of the Philippines.

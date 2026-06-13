@@ -6,6 +6,7 @@ tags:
   - budget
 latitude: 33.8555
 longitude: 72.3930
+score: 4.7
 ---
 
 The tea stalls scattered along the Grand Trunk Road through Kamra are the social infrastructure of the town. Small, often open-fronted, with benches or plastic chairs outside, they exist to serve the constant flow of road traffic with hot, sweet chai and a brief rest.

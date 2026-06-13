@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Barkajoli — Zadar's traditional rowing ferrymen — have been carrying passengers across the inner harbour for at least six hundred years. The first reference to the service dates to 1387, making it one of the oldest continuously operating public transport systems in Europe. Today a single rower can still take you across to the suburb of Brodarica for a modest fare."
+score: 7.7
 ---
 
 A short, single-rower ferry across Zadar's inner harbour. The boats run from a small landing near the bridge between the old town and the mainland suburb of Brodarica, and the crossing takes about two minutes. The Barkajoli operate from dawn to about 11pm in summer, with a slightly shorter winter schedule.

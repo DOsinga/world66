@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cycling
+score: 7.8
 ---
 
 The Sunset Coast is the name given to the chain of beaches running north of Perth's mouth of the Swan — Cottesloe, City Beach, Floreat, Scarborough, Trigg, North Beach — and a paved cycle and pedestrian path links them all. From Scarborough you can walk north to Trigg in 25 minutes for a coffee, or south to City Beach in an hour for a swim, all with the Indian Ocean on your right and a string of well-tended dune reserves on the left.

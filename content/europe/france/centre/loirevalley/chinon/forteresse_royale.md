@@ -13,6 +13,7 @@ tags:
 - castle
 title: Forteresse Royale de Chinon
 type: poi
+score: 9.0
 ---
 
 The fortress is actually three castles in one, strung along a limestone ridge above the town: the Fort Saint-Georges, the Château du Milieu (the main residence), and the Fort du Coudray. Most of what stands today dates from the reign of Henry II of England, who made Chinon one of his primary strongholds and died here in 1189 — reportedly on hearing that his son Richard had joined the rebellion against him.

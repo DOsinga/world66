@@ -6,6 +6,7 @@ tags:
 - sight
 title: Park City
 type: poi
+score: 7.9
 ---
 
 Park City lies 30 miles east of Salt Lake City through Parley's Canyon on I-80, sitting at 7,000 feet in the Wasatch Back. It hosted several events for the 2002 Winter Olympics and is now home to the Utah Olympic Park (a museum and active training facility) and two major ski resorts: Park City Mountain and Deer Valley. It is also the annual home of the Sundance Film Festival each January.

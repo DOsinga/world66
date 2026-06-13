@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 49.22604
 longitude: 28.47019
+score: 6.0
 ---
 
 Saint Nicholas Church (*Mykolayivska Tserkva*) is one of the older surviving religious buildings in Vinnytsia, a Ukrainian Orthodox church in the southern part of the city centre. The church dates from the late 18th or early 19th century and survived the Soviet period in modified form, having been repurposed for a time before returning to religious use after Ukrainian independence.

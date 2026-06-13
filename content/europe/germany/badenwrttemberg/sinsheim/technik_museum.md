@@ -14,6 +14,7 @@ story: >
   Sinsheim bought one of the survivors in 2001 and trucked it across
   Europe before lifting it onto the museum's roof beside a real
   Air France Concorde.
+score: 9.2
 ---
 
 The Auto & Technik Museum is one of Europe's great transport collections and the only reason most people come to Sinsheim. The roof carries the headline act: a Tupolev Tu-144 and a Concorde mounted nose-up at takeoff angle, with staircases inside both so you can walk the cabins. They are the only two supersonic airliners ever to enter passenger service, and this is the only place in the world where they sit side by side.

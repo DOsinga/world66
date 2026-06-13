@@ -6,6 +6,7 @@ longitude: 73.4564
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 A small circular resort island near the southern end of the atoll, around 4 hectares, surrounded by an unusually healthy house reef. The reef has been a marine protected area since the early 1990s and is one of the few places in the central Maldives where coral cover has remained good through repeated bleaching events.

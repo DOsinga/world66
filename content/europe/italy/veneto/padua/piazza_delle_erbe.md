@@ -8,6 +8,7 @@ tags:
 - sight
 - market
 snippet: "The two great market squares either side of the Palazzo della Ragione"
+score: 7.3
 ---
 
 The twin market squares Piazza delle Erbe (Herbs Square) and Piazza della Frutta (Fruit Square), one on each side of the Palazzo della Ragione, are the daytime heart of central Padua. Stalls of fruit, vegetables, flowers, salami, and cheese fill the squares every morning from Monday to Saturday — one of the best surviving urban food markets in northern Italy.

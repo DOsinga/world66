@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.5
 ---
 
 The Roman Catholic Dome of St. George, completed in 1774, dominates the northern side of Union Square. The building is the work of the Viennese architects Joseph Emanuel Fischer von Erlach and Hannes Lechner, and is one of the purest examples of Austrian Baroque outside Vienna itself. The twin towers and the gently curving cream-and-white façade are the square's defining set piece.

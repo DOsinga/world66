@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 24.7800
 longitude: 110.4900
+score: 7.6
 ---
 
 Beer fish (pijiu yu) is the dish of Yangshuo — fresh river fish, usually grass carp or carp, braised in local Guilin beer with chilli peppers, garlic, tomato, and fermented black bean until the sauce reduces to a rich, slightly bitter glaze. It exists throughout Guangxi, but the version here uses fish pulled from the Li River that morning, and the local beer adds a sweetness that distinguishes it from the dish as made elsewhere.

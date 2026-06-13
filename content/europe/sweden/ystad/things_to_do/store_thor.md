@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Stora Thor
 type: poi
+score: 6.1
 ---
 
 Stora Thor is a 1620s merchant's house on Stortorget, named after the Norse god — a relatively common practice for grand houses in Skåne. The half-timbered facade with its plastered infill and the surviving carved beams have been preserved through restoration. The building is not normally open to the public but is one of the showpiece houses on the square.

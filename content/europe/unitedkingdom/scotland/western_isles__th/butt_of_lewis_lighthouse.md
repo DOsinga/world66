@@ -13,6 +13,7 @@ story: >
   here in winter. The lighthouse was built in 1862 by David and Thomas
   Stevenson — the family of engineers who built most of Scotland's
   lighthouses, and uncles of Robert Louis Stevenson.
+score: 7.7
 ---
 
 The Butt of Lewis — the northern tip of Lewis — is one of the most exposed headlands in Britain. The red-brick lighthouse here, built in 1862, stands at the edge of cliffs above the open Atlantic. The sea stacks below are nesting grounds for gannets, fulmars, and puffins in summer; in winter, the same cliffs are among the best places in Britain to watch storm petrels and other seabirds driven inshore by Atlantic gales.

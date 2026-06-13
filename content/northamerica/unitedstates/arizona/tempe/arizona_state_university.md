@@ -10,6 +10,7 @@ tags:
 story: ASU is one of the largest universities in the United States by enrolment.
   Its sprawling Tempe campus combines century-old red brick buildings with futuristic
   glass and steel structures, all stitched together by palm-shaded walks.
+score: 7.4
 ---
 
 The Tempe campus of Arizona State University is the city's reason for being. Founded in 1885 as a normal school for teacher training, it now enrolls more than 70,000 students on this campus alone. The campus is open to the public and worth a slow walk through.

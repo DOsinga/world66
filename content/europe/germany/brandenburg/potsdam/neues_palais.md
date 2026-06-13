@@ -15,6 +15,7 @@ story: >
   never stayed here.
 sources:
   - https://en.wikipedia.org/wiki/Neue_Palais
+score: 9.0
 ---
 
 The Neues Palais is the grandest building in Sanssouci Park and the antithesis of its intimate namesake. Built between 1763 and 1769 as a statement of Prussian power after the Seven Years' War, it has 322 rooms, a central dome, and two flanking wings. The scale is deliberately overwhelming — this was a guest palace for state visits, designed to impress rather than to be lived in.

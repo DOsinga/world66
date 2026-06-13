@@ -6,6 +6,7 @@ longitude: 20.7744
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 A reliable bazaar konoba serving Korçë staples — lakror, grilled lamb chops, pickled vegetables, house wine in carafes. Wooden tables inside on the ground floor, a few more on the cobbles outside when the weather allows.

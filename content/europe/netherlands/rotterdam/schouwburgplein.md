@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 51.9234
 longitude: 4.4737
 snippet: "Modernist square with hydraulic lamp-posts; concert hall next door"
+score: 8.1
 ---
 
 Schouwburgplein, redesigned by West 8 in 1996, is one of Rotterdam's signature pieces of public space: a flat raised deck with four hydraulic lamp-posts that visitors can move by pressing a button — bright red, twenty metres tall, the kind of useless beautiful gesture the city does well. The deck doubles as a film and concert venue in summer; the International Film Festival uses it as a centrepoint each February.

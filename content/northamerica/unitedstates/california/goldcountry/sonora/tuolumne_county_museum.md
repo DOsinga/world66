@@ -7,6 +7,7 @@ tags:
 latitude: 37.9831
 longitude: -120.3811
 story: "The building served as Sonora's jail from 1857 through 1960 — prisoners were held in the same stone cells that now hold photographs and mining artifacts. One inmate scratched a crude map into the cell wall that visitors can still see today."
+score: 8.0
 ---
 
 Housed in Sonora's original 1857 county jail and courthouse, this compact museum is one of the best Gold Rush history collections in the Sierra foothills. The exhibits cover the full arc of Tuolumne County life: the Mexican miners who founded Sonora and named it after their home state, the Chinese laborers who worked claims after the 49ers moved on, the hydraulic mining operations that reshaped entire hillsides, and the timber and ranching industries that carried the region through the lean decades after gold ran out.

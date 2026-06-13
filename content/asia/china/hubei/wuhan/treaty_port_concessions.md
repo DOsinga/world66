@@ -10,6 +10,7 @@ tags:
   - hankou
 neighbourhood: Hankou
 story: "Between 1861 and 1925 the riverfront at Hankou hosted five foreign concessions in a row — British, French, German, Russian, and Japanese — each with its own customs, police force, and architectural style. Walking the kilometre stretch of Yanjiang Dadao today is a physical encyclopedia of 19th-century colonialism on the Yangtze."
+score: 8.8
 ---
 
 The old treaty-port concessions in Hankou are the largest surviving complex of European colonial architecture in central China, a half-mile-long bracelet of stone-faced banks, churches, consulates, and warehouses along Yanjiang Dadao and the side streets running back from the river. The British concession came first in 1861, followed by the French, Russian, German, and Japanese.

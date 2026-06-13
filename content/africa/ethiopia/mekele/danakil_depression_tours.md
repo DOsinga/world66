@@ -13,6 +13,7 @@ story: >
   metres below sea level, records the highest average annual temperature of any
   inhabited place on earth — over 34°C year-round. Erta Ale, one of the world's
   few continuously active lava lakes, has been bubbling since at least 1906.
+score: 8.9
 ---
 
 The Danakil Depression — the sunken plain stretching northeast of Mekele toward the Eritrean and Djibouti borders — is one of the most extreme landscapes on earth, and Mekele is the primary jumping-off point for organised tours into it. At up to 125 metres below sea level, with temperatures regularly exceeding 50°C, this is among the lowest, hottest, and most geologically active places on the planet.

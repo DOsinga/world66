@@ -12,6 +12,7 @@ tags:
 title: Green Spot Antiques
 type: poi
 url: http://greenspotantiques.com
+score: 5.5
 ---
 
 A large antique and salvage dealer occupying several thousand square feet on Cedar Street. Stock turns over fast — truckloads in and out each week — so there's always something different: small collectables, paper and media ephemera, furniture, farm equipment, fine china and glass. Items are sold in the rough or refinished. Wholesale buyers are welcome. Local delivery available within Cambridge and surrounding cities.

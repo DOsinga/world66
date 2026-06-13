@@ -7,6 +7,7 @@ tags:
 - sight
 title: "Church of St. Elias (Mar Elian)"
 type: poi
+score: 8.1
 ---
 
 One of the oldest Christian sites in the Homs region, the Church of St. Elias dates to at least the 6th century and possibly earlier. In 1970 a remarkable discovery was made in the crypt: a series of fine early Christian murals had been whitewashed over and hidden beneath plaster, preserving them for centuries. When uncovered, they proved to be among the most significant examples of early Byzantine religious art found in Syria.

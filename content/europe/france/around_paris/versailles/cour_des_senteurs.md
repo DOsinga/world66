@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 48.80278
 longitude: 2.12333
+score: 5.4
 ---
 
 The Cour des Senteurs (Court of Scents) is a perfumery atelier within the palace complex, operated by Guerlain in a courtyard near the north wing. It offers workshops and experiences based on 17th and 18th-century Versailles scents — the palace was strongly associated with a culture of perfume, partly because running water and regular bathing were not universal even among the aristocracy.

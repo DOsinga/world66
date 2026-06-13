@@ -9,6 +9,7 @@ latitude: 46.1836
 longitude: 21.3247
 sources:
   - https://en.wikipedia.org/wiki/Holy_Trinity_Cathedral,_Arad
+score: 7.1
 ---
 
 The Holy Trinity Orthodox Cathedral is the largest church in Arad, a large Byzantine-Romanian Revival building completed in 1939 in the northern part of the city centre. Its exterior combines Byzantine domes with Romanian folk decorative elements — a style developed in the early 20th century to express a specifically Romanian Orthodox identity distinct from both Habsburg Catholicism and Greek-influenced Orthodoxy.

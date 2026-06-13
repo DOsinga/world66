@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -35.5914
 longitude: 138.6039
+score: 8.2
 ---
 
 Rosetta Head — known almost universally as The Bluff — is the prominent headland 4 km south-west of Victor Harbor town centre, rising about 100 metres above Encounter Bay. It marks the western boundary of the bay and provides the best land-based whale-watching position in South Australia, with views along the full sweep of the bay from the elevated lookout at the summit.

@@ -16,6 +16,7 @@ story: >
   middle class adopted it as the place for weekend picnics and outdoor concerts,
   making it one of the earliest examples of public-leisure planning in a Nigerian
   industrial city.
+score: 5.9
 ---
 
 The Port Harcourt Pleasure Park is a large recreational area on the western edge of the city, situated on the bank of the Bonny River. The park covers a substantial area of landscaped grounds and riverfront, and on weekends it fills with families, joggers, and young couples. There are amusement rides, boat rides on the river, and several informal food and drink stalls scattered through the grounds.

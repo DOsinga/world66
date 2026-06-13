@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 48.3883
 longitude: -4.5003
+score: 7.4
 ---
 
 The Recouvrance neighbourhood occupies the right bank of the Penfeld, across the water from the main commercial centre of Brest. It is the most historically layered part of the city — partly because it sits within the military zone and partly because it escaped the worst of the wartime destruction. The older streets around the Rue Saint-Malo and the Rue de la Porte have a rougher, more authentic quality than the rebuilt left bank.

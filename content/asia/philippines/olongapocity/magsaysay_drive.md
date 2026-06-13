@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - neighbourhood
 story: "Magsaysay Drive was the famous 'Sin City' strip that served the US Navy from the 1960s through the 1980s — at its peak it had over 500 bars and a reputation that drew sailors from across the Pacific. After the base closed in 1992 the strip emptied almost overnight; the surviving bars today are a faint, slightly melancholy echo of that era."
+score: 5.8
 ---
 
 Magsaysay Drive (locally just 'Magsaysay') is the main drag through downtown Olongapo, lined with bars, karaoke joints, pawn shops, and cheap eateries. It has calmed considerably since the US Navy left, but the strip still has more nightlife than anywhere else in the city outside the freeport.

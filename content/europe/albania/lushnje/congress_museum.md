@@ -14,6 +14,7 @@ story: >
   Over six days they declared the partition unacceptable, rejected the Italian protectorate,
   moved the provisional capital to Tirana, and named a new four-man regency. The
   partition plan was abandoned within months.
+score: 7.4
 ---
 
 A modest one-storey building near the centre of Lushnjë, the museum marks the site of the Congress of Lushnjë — the assembly that in late January 1920 declared Albania's continued independence in the face of a proposed great-power partition. The Congress moved the country's capital to Tirana, established a regency council, and is rightly counted as the moment Albania survived its post-WWI crisis.

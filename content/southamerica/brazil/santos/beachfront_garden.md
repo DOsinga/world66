@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The garden is registered with the Guinness Book of Records as the world's largest beachfront garden — a 5.3-kilometre strip running unbroken along seven of Santos's beaches, planted with more than 3,000 trees in flower beds and lawns."
+score: 8.5
 ---
 
 The Jardins da Orla, the seafront garden of Santos, runs in an unbroken strip for more than five kilometres along the city's beaches. Wide lawns, flower beds, and shaded paths separate the sand from the parallel avenues of high-rise apartment blocks, giving the seafront a softness that most Brazilian beach cities lack.

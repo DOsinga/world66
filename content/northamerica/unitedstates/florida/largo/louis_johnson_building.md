@@ -10,6 +10,7 @@ latitude: 27.9153
 longitude: -82.7886
 sources:
   - https://en.wikipedia.org/wiki/Louis_Johnson_Building
+score: 5.2
 ---
 
 The Louis Johnson Building is one of the few historic structures remaining in Largo's downtown area, a modest but well-preserved example of early 20th-century commercial architecture in Pinellas County. It is listed on the National Register of Historic Places and stands as a reminder of what Largo's main street looked like before the postwar strip-mall sprawl took over.

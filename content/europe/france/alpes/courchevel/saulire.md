@@ -7,6 +7,7 @@ tags:
 latitude: 45.3833
 longitude: 6.6106
 story: "The Saulire summit at 2,738 metres is the link between the Courchevel and Méribel valleys and one of the few points in the Trois Vallées where you can see four different valleys at once. The cable car runs in both summer and winter, so non-skiers can ride up for the view."
+score: 8.5
 ---
 
 The Sommet de la Saulire is the high point on the ridge between Courchevel and Méribel, reached by the Saulire Express cable car from the top of Courchevel 1850. From the summit at 2,738 metres you can see across the Tarentaise and into the Vanoise National Park, with Mont Blanc visible to the north on a clear day.

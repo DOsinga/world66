@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.5950
 longitude: -112.0268
+score: 6.9
 ---
 
 The Montana Club Building is one of the finest commercial facades on Last Chance Gulch, a four-story Romanesque Revival structure from the early 1890s that was built as the home of the Montana Club — the exclusive private dining and social club where Helena's gold-rush millionaires entertained each other and their guests from the East. The stonework is confident and heavily detailed: rounded arches, banded columns, carved ornament that doesn't repeat itself. As statements of civic ambition go, it's among the most assured on the street.

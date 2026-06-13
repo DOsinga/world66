@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 story: "The architect Élizabeth de Portzamparc wrapped the building in a glass-mosaic facade meant to evoke a Roman toga in motion. The 7,000 glass panels each curve differently, so the facade ripples in changing light."
+score: 8.2
 ---
 
 The Musée de la Romanité, opened in 2018 directly opposite the Arena, holds the city's collection of Roman antiquities — mosaics, sculpture, funerary stelae, household objects, and a partial reconstruction of the Maison Carrée's frieze. It is one of the best Roman museums in France and the obvious complement to the city's monuments themselves.

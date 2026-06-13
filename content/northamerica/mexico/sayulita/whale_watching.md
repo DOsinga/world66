@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - wildlife
   - sight
+score: 8.0
 ---
 
 From November through March, humpback whales migrate into Banderas Bay to breed and give birth, and the waters around Sayulita become one of the more reliably productive spots on the Pacific coast for watching them. The peak is January and February, when sightings are common enough that most tours offer a money-back guarantee.

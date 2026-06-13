@@ -7,6 +7,7 @@ tags:
 latitude: 52.3686
 longitude: 9.7414
 snippet: State museum of art, archaeology, ethnography and natural history
+score: 7.3
 ---
 
 The Lower Saxon state museum sits at the southern end of the Maschpark, opposite the New Town Hall. The collection has four parts under one roof: a fine-art gallery of European painting from Cranach to Beckmann, a strong archaeology department centred on the bog people of the region, an ethnographic collection from across the colonial-era Pacific and Africa, and a natural-history department with live aquariums of native fish.

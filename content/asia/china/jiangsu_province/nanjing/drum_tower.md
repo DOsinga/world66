@@ -8,6 +8,7 @@ tags:
 - sight
 - historic_site
 - tower
+score: 6.5
 ---
 
 The Drum Tower (鼓楼) stands on a low hill at the centre of Gulou district, giving its name to the surrounding neighbourhood. Built in 1382 by the Hongwu Emperor, it was used to mark time — drums were sounded to announce the hours of the night — and to signal alarm in emergencies. The current structure is a Qing-era reconstruction on the original Ming platform.

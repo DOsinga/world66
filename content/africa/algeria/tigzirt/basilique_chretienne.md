@@ -9,6 +9,7 @@ title: Basilique Chrétienne de Tigzirt
 type: poi
 story: >
   Tigzirt was the seat of a Christian bishop in Late Antiquity — its bishop attended the Council of Carthage in 411, a gathering that tried to resolve the bitter Donatist schism tearing apart North African Christianity. The basilica where his congregation worshipped still stands at the centre of the town, its mosaic floors intact after sixteen centuries.
+score: 7.7
 ---
 
 The Christian basilica at the heart of Tigzirt is one of the better-preserved early Christian monuments on the Algerian coast. Dating from the 4th or 5th century, it was built at the height of the town's prosperity as the Roman port of Iomnium, and its floor retains sections of geometric mosaic work that have survived remarkably well under the Mediterranean sun.

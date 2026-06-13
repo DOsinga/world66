@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Salamon Tower stands at the riverside on the southern edge of Visegrad, a 13th-century keep that once anchored the lower castle complex at the waterline. Its name derives from a legend — King Solomon of Hungary was allegedly imprisoned here in the 11th century — though historians are skeptical. The tower is the best-preserved medieval structure in Visegrad and displays a small collection of medieval finds from the site.

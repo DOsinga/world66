@@ -7,6 +7,7 @@ tags:
   - town
 title: Forks
 type: poi
+score: 5.8
 ---
 
 Forks is a former logging town on the wet west side of the peninsula, now better known to many visitors through the Twilight novels and films. Strip away the pop-culture layer and it remains a practical base for rainforest and coast.

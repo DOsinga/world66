@@ -8,6 +8,7 @@ latitude: 39.1590
 longitude: -75.5310
 story: >
   The track's guardian is Miles the Monster — a 46-foot-tall concrete giant holding a race car, positioned at the entrance to the speedway. Miles has become an unofficial mascot for the city, and images of him appear on local merchandise. The speedway itself is one of the most demanding one-mile ovals in NASCAR: the steep banking, high speeds, and abrasive concrete surface have ended many a championship bid.
+score: 6.8
 ---
 
 Dover Motor Speedway is one of the most prestigious tracks on the NASCAR circuit, a concrete one-mile oval with some of the steepest banking in the sport. The speedway hosts two major NASCAR race weekends per year — typically in May and October — that transform the otherwise quiet city into a temporary city of racing fans. On race weekends, Dover becomes the most densely populated place in Delaware.

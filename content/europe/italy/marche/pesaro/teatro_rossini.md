@@ -15,6 +15,7 @@ story: >
   Rossini's less-known works — the bel canto operas that fell out of the repertoire
   after his death — restoring them to the stage with period instruments and
   historically informed performance practice.
+score: 8.0
 ---
 
 The Teatro Rossini on Piazza Lazzarini is Pesaro's main opera house, built in 1818 and beautifully proportioned — four tiers of boxes, a decorated ceiling, and the warm acoustic of a traditional Italian horseshoe theatre. For most of the year it functions as a regular performance venue; in August it becomes the centrepiece of the Rossini Opera Festival, one of the most important bel canto events in Italy.

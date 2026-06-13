@@ -17,6 +17,7 @@ story: >
 sources:
   - https://tourismeouestcameroun.com/chefferie_musee/chefferie-bafoussam/
   - https://aroundus.com/p/6443657-chefferie-de-bafoussam
+score: 8.3
 ---
 
 The Chefferie Supérieure is the seat of the Fon (paramount chief) of Bafoussam, set a short walk from the central bus station. The compound is a textbook example of Bamiléké royal architecture: a cluster of bamboo and carved-wood structures arranged around a ceremonial ground, with an ancient hanging tree at the centre whose shade has sheltered palavers for generations. Sacred huts hold large ceremonial drums that are still brought out for royal occasions.

@@ -6,6 +6,7 @@ longitude: -105.2406
 tags:
 - things_to_do
 - activity
+score: 9.0
 ---
 
 The Arkansas River through Cañon City and the Royal Gorge is one of the most popular whitewater rafting destinations in the United States, with hundreds of thousands of trips run each season between May and August. The runs span the full range of difficulty: the gentle Cottonwood Wash for families with young children; the lively Bighorn Sheep Canyon for first-time rafters; the famous Royal Gorge run with Class IV–V rapids walled in by 300-metre granite cliffs.

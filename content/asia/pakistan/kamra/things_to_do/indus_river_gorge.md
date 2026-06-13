@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 33.8698
 longitude: 72.3568
+score: 7.4
 ---
 
 West of Kamra, where the Grand Trunk Road descends toward Attock, the Indus squeezes through a rocky gorge before spreading out across the plains. This is one of the most dramatic river crossings in Punjab — the water is fast, brown, and powerful, and the gorge walls are steep enough to make the crossing feel like a genuine threshold between two worlds.

@@ -6,6 +6,7 @@ longitude: 103.184
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 Small Lao-Western restaurant on the main street that has made a deliberate decorative statement of its location: deactivated bomb casings flank the entrance, fragments and shells line the walls, and the menu and napkins continue the theme. It would be a gimmick anywhere else; in Phonsavan it serves as a low-key memorial.

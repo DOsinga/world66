@@ -11,6 +11,7 @@ snippet: "Centuries-old daily street market where fishers and farmers sell their
 story: >
   The Wajima market is said to have begun over a thousand years ago as an exchange of goods between the townspeople and the local Buddhist temple. 
   It has run every morning since, except on the 10th and 25th of each month, making it one of the oldest continuously operating markets in Japan.
+score: 8.0
 ---
 
 The morning market in Wajima stretches along Asaichi-dori street in the heart of town, opening around 8am and winding down by noon. Stalls run by local women sell dried seafood, pickles, vegetables, and lacquerware alongside the kinds of practical goods — miso, tofu, fresh fish — that still feed the town. It is genuinely functional rather than performed for tourists, though visitors are warmly received.

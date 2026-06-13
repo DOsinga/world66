@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 11.9346
 longitude: 79.8300
+score: 6.8
 ---
 
 The Government Museum of Pondicherry occupies a colonial building on Saint Louis Street in the French Quarter. It covers the archaeology of the region — particularly finds from the Roman trading settlement at Arikamedu, a site 3 km south of Pondicherry where Roman amphorae and glass have been excavated, confirming that this coast was engaged in direct trade with the Mediterranean world two millennia ago.

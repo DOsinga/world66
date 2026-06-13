@@ -8,6 +8,7 @@ latitude: 55.8638
 longitude: -4.2355
 story: >
   When the St Mungo Museum opened in 1993 it contained Dalí's Christ of St John of the Cross (since moved to Kelvingrove). The remaining collection includes a 17th-century Japanese garden — Glasgow's only Zen garden — in the rear courtyard, where religious meaning is maintained through raked gravel and carefully positioned stones. It is unexpectedly peaceful three minutes from the Cathedral.
+score: 6.9
 ---
 
 The St Mungo Museum of Religious Life and Art sits adjacent to Glasgow Cathedral and holds a collection examining religion as a global human phenomenon rather than promoting any particular faith. The galleries cover Christianity, Islam, Hinduism, Buddhism, Sikhism, and Judaism through art and material culture, with the explicit aim of promoting understanding between traditions.

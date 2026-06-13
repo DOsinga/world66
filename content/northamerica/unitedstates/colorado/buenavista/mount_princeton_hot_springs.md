@@ -12,6 +12,7 @@ story: >
   they built bathhouses over the springs almost immediately — treating them as a recovery 
   tool between stints in the mines. The water comes out of the ground at around 132°F 
   and is cooled to comfortable soaking temperatures before entering the pools.
+score: 8.0
 ---
 
 Mount Princeton Hot Springs Resort, about eight miles south of Buena Vista, sits along Chalk Creek at the foot of Mount Princeton — one of Colorado's 14,000-foot peaks. The mineral-rich geothermal water feeds a series of outdoor pools set against a dramatic backdrop of granite cliffs and aspens. Temperatures vary by pool, ranging from warm wading areas to properly hot soaking pools.

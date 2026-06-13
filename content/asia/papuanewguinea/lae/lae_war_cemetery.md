@@ -11,6 +11,7 @@ story: >
   Salamaua-Lae campaign of 1943, but others perished in Japanese detention camps across
   the region. As remains of missing soldiers are still occasionally recovered, new
   interments continue to this day.
+score: 8.0
 ---
 
 Adjacent to the Botanic Gardens, the Lae War Cemetery is one of the most moving sites in Papua New Guinea. Established in 1944 and maintained by the Commonwealth War Graves Commission, it is the resting place of over 2,800 Allied soldiers who died during the fierce fighting in the Morobe Province during World War II. The Lae Memorial, a flat-topped colonnade rising from the forecourt, commemorates a further 300 Australian servicemen — including merchant navy and air force — who have no known grave.

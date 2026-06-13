@@ -14,6 +14,7 @@ story: >
   of the main dune face adds a specifically Vietnamese touch to the surrealism.
 sources:
   - https://theculturetrip.com/asia/vietnam/articles/a-guide-to-mui-ne-vietnams-white-and-red-sand-dunes
+score: 8.6
 ---
 
 The white sand dunes (Bau Trang) lie about 40 kilometres north of central Mui Ne — a longer drive than the red dunes, but worth it for the scale and the quality of the landscape. The dunes here are dramatically white, contrasting with a small freshwater lagoon fringed by lotus flowers at their base. The combination is beautiful and strange in equal measure.

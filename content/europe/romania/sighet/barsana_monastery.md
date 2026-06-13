@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.1
 ---
 
 About 25 km south of Sighet, the village of Bârsana holds two things worth the drive. The original **wooden church** in the village centre is one of the eight Maramureș wooden churches on the UNESCO World Heritage list — a small, perfectly proportioned wooden building from 1720 with a tall single steeple. A few hundred metres on, the **Bârsana Monastery** — built between 1993 and 2010 — is a remarkable modern reinterpretation of the traditional Maramureș style: a complex of carved wooden buildings (church, bell tower, refectory, guesthouse) climbing a hillside, all built without nails by local craftsmen. The two together make the strongest day trip from Sighet.

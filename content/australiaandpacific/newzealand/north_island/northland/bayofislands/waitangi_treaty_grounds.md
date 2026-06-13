@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 story: "On 6 February 1840, more than 40 Maori chiefs signed the founding document of modern New Zealand on the lawn in front of the Treaty House. The Maori-language and English-language versions disagreed on what was being signed away — sovereignty in English, governance in te reo — and the consequences of that translation gap are still being argued in court today."
+score: 9.5
 ---
 
 The Waitangi Treaty Grounds, across the bay from Paihia, are the single most important historical site in New Zealand. The treaty between Maori chiefs and the British Crown was signed here in 1840, marking the formal beginning of New Zealand as a nation and the start of nearly two centuries of dispute over what exactly was promised on each side.

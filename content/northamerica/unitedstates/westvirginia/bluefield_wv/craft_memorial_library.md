@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 1920s Beaux-Arts library housing the regional history room.
+score: 7.6
 ---
 
 The Craft Memorial Library was built in 1923 in a confident Beaux-Arts manner — limestone columns, pedimented entry, fan-lit windows — and remains one of downtown Bluefield's handsomest buildings. It still functions as the main public library for Mercer County and is open to walk-in visitors.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Corktown
 title: Slows Bar-B-Q
 type: poi
+score: 6.8
 ---
 
 When Slows opened in 2005 on a desolate stretch of Michigan Avenue across from the abandoned train station, it almost single-handedly put Corktown on the map as a dining destination. The brisket, pulled pork, and burnt-end sandwiches are excellent; the sides are taken as seriously as the meats; the beer list is deep and Michigan-heavy. The room is warm and a little raucous.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.2
 ---
 
 The old quarter — the maze of lanes around the Grand Mosque — is the most atmospheric part of Bondoukou. The Dyula merchant families have been here for centuries, and their compounds still show traces of the original mud-brick architecture under more recent concrete additions.

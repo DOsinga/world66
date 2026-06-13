@@ -6,6 +6,7 @@ longitude: -7.16137
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Tucked just outside the old town walls is one of the oldest British military cemeteries still in existence. It was established in 1811 during the Peninsular War, when Elvas was a key allied base for Wellington's campaign against the French in Spain, and continued in use through the nineteenth century.

@@ -10,6 +10,7 @@ latitude: 27.2299
 longitude: 112.6841
 story: >
   The Grand Temple was first built in 725 AD under Emperor Xuanzong of the Tang dynasty, who ordered it constructed after a dream of the mountain god. It has burned down and been rebuilt ten times since then; the present buildings are Qing dynasty. The temple complex is deliberately designed to mirror the layout of the imperial palace in Beijing, with 98 structures arranged along a formal south-north axis — one structure for each of Mount Heng's 72 named peaks plus the 26 administrative temples on the mountain.
+score: 8.7
 ---
 
 Nanyue Damiao, the Grand Temple of Mount Heng, sits at the base of the mountain in Nanyue town before the main park entrance. Dating in its current form to the Song dynasty (rebuilt repeatedly since its Tang origins), it is one of the largest surviving temple complexes in southern China — comparable in overall scale to the Forbidden City, though entirely different in style and atmosphere. The 98 structures are arranged along a formal north-south axis through a series of courtyards, gates, and pavilions.

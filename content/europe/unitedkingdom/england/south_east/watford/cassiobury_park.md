@@ -14,6 +14,7 @@ story: >
   — was demolished in 1927 after the family ran out of money, and the
   surrounding estate was sold to the borough as a public park. Two stone
   gateposts and the kitchen-garden walls are all that remain of the mansion.
+score: 7.3
 ---
 
 Watford's largest open space and one of the best Victorian-era public parks in Hertfordshire. The estate of the Earls of Essex was opened to the public in 1909 and runs for 190 acres along the Gade and the Grand Union Canal — formal lawns and avenues at the top, mature woodland and water meadows below.

@@ -8,6 +8,7 @@ tags:
 latitude: 38.9096
 longitude: -77.0435
 story: "The Dupont Underground occupies former streetcar tunnels that were used as a fallout shelter during the Cold War — Washington being an obvious nuclear target. The tunnels were never properly converted for the purpose and were quietly decommissioned. They sat sealed and unused for decades before the arts organisation took them over."
+score: 5.9
 ---
 
 Beneath the Dupont Circle roundabout, long-abandoned trolley tunnels from the 1940s have been slowly converted into an underground arts space. The Dupont Underground hosts temporary art installations, film screenings, performances, and events in the vaulted concrete passages that once carried streetcars across the city.

@@ -13,6 +13,7 @@ story: >
   to have defeated the Ligurian Apuani here in the 2nd century BC. The village's tight
   rectangular street grid is unusual for the area and is sometimes attributed to a Roman
   *castrum* on the same hilltop.
+score: 8.5
 ---
 
 Montemarcello is the pastel-painted hill village that sits 280 metres above Bocca di Magra, at the centre of the Montemarcello-Magra Natural Park. The walk up from the river takes about an hour on a well-marked trail through pine and holm oak; a road bus links the two for those who would rather save the climb for elsewhere.

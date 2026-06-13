@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Plachkovica
 story: >
   The ancient Thracians called this range Pangaeum, and the Greeks believed Mount Pangaeum was where Orpheus played his lyre. Whether or not the myths apply to this particular massif, the Plačkovica range has been geologically active enough — mostly granite and marble — to produce one of North Macedonia's only working copper and gold mines at its foot, just outside Radoviš.
+score: 7.5
 ---
 
 The Plačkovica range rises to 1,754 metres at its highest peak, Lisec, forming the natural eastern and southern border of the Radoviš basin. The mountains are largely forested with oak and beech at lower elevations and open subalpine meadows near the summits, and the trails are blissfully uncrowded — you can walk for hours without encountering another hiker.

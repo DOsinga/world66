@@ -10,6 +10,7 @@ story: >
 sources:
   - https://www.zimparks.org.zw/gonarezhou-national-park/
   - https://www.victoriafalls-guide.net/gonarezhou-national-park.html
+score: 6.6
 ---
 
 The Mabalauta section in the far south of Gonarezhou is a separate world from the Chilojo Cliffs and Chipinda Pools. Here the landscape is dominated by the Mwenezi River — a broader, slower waterway than the Runde — and the extraordinary baobab woodland that fills the valley. Swimuwini rest camp, the main accommodation in this sector, sits on a bluff overlooking a bend in the Mwenezi known as Buffalo Bend, where buffalo herds of several hundred can congregate during the dry season.

@@ -8,6 +8,7 @@ latitude: 63.1244
 longitude: 7.7413
 sources:
   - https://en.wikipedia.org/wiki/Kirklandet
+score: 5.1
 ---
 
 Gomalandet (also known as Kirklandet) is the largest of Kristiansund's four main islands and primarily residential in character. The Atlanten Stadion — the main sports ground, used by Kristiansund BK for football — occupies a substantial portion of the island's northern end. The island gives a picture of ordinary Norwegian town life away from the harbour and museum areas: residential streets, a supermarket, a swimming hall, and the open fjord views that come with living on an island.

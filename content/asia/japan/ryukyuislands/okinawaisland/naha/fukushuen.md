@@ -15,6 +15,7 @@ story: >
   annexation.
 sources:
   - https://en.wikipedia.org/wiki/Fukush%C5%ABen
+score: 6.9
 ---
 
 Fukushuen is a classical Chinese garden built in 1992 in the Kumemura district of Naha, designed as a tribute to the ancient cultural ties between Okinawa and China. The garden's design draws on Fujian provincial garden traditions, with pavilions, ponds, ornamental rocks, and carefully arranged plantings in the Chinese style.

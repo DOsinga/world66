@@ -8,6 +8,7 @@ tags:
 - sport
 title: Fort Erie Race Track
 type: poi
+score: 6.5
 ---
 
 Fort Erie Live Racing Complex is one of the oldest thoroughbred racetracks in Canada, operating continuously since 1897. The season runs from late spring through autumn, with live racing on selected evenings and weekend afternoons. The track is set on a long flat oval and betting is available both at the track and through online accounts.

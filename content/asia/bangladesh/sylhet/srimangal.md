@@ -13,6 +13,7 @@ story: >
   The town's most famous café serves a seven-layer tea, each stratum a
   different brew of black, milk, and spiced varieties poured carefully so
   they don't mix.
+score: 8.1
 ---
 
 Srimangal is the centre of the Bangladesh tea industry and the easiest place to actually walk through tea estates and visit a working factory. The countryside around the town is some of the most beautiful in Bangladesh: rolling green plantations, scattered villages of Khasi and Manipuri tribal people, and lush rainforest reserves.

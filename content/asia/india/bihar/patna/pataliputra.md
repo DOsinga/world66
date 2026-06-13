@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The excavated remains of the Mauryan capital Pataliputra, including the columns of Ashoka's hundred-pillared hall
 story: "When the Chinese pilgrim Faxian visited Pataliputra in the early fifth century CE, he wrote that the palaces of Ashoka were so grand they could only have been built by spirits, not men. By the time Xuanzang arrived two centuries later, the city was in ruins. Archaeologists at Kumhrar in 1912 found the carbonised remains of an enormous wooden hall that may have been the audience hall Faxian described."
+score: 7.7
 ---
 
 Kumhrar, in the southern part of Patna, is the archaeological site where the ancient city of Pataliputra has been excavated. Pataliputra was the capital of the Maurya and Gupta empires -- the city of Ashoka, Chandragupta, and the philosopher Chanakya -- and one of the largest cities in the ancient world, with a population estimated at 400,000 around 300 BCE.

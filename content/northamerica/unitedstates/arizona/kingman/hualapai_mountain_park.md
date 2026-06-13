@@ -8,6 +8,7 @@ latitude: 35.094
 longitude: -113.890
 story: >
   The park rises so abruptly above the desert floor that you climb through four distinct vegetation zones in a single twenty-minute drive. The peak summit, Hualapai Peak, tops out at 2,560 metres — high enough that the elk herd planted here from Yellowstone in the 1940s has thrived, and high enough that the pines and ponderosa look genuinely surprising after the cactus flats below.
+score: 7.4
 ---
 
 A 9,000-hectare county park in the Hualapai Mountains, about 20 kilometres southeast of downtown. The drive up alone is worth doing — the road switchbacks through changing scenery from yucca and ocotillo to oak woodland to dense pine forest.

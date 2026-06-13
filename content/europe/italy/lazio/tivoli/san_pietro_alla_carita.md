@@ -8,6 +8,7 @@ tags:
 snippet: "Romanesque church with reused ancient columns"
 latitude: 41.9636
 longitude: 12.7969
+score: 6.7
 ---
 
 A small Romanesque parish church on the lower edge of the old town, San Pietro alla Carità is worth ten minutes for one striking detail: the central nave is supported by twelve mismatched ancient columns, plundered from the nearby Roman ruins when the church was first built in the early Middle Ages.

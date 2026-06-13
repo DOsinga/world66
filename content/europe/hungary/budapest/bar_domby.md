@@ -12,6 +12,7 @@ tags:
 - jewish_quarter
 title: Bar Domby
 type: poi
+score: 6.5
 ---
 
 A tiny, packed cocktail bar near Deak ter that draws a young local crowd. The mixologists know what they are doing, the music is good, and the vibe is unpretentious. Arrive early if you want a seat; this place fills up fast.

@@ -6,6 +6,7 @@ longitude: 3.0615
 tags:
   - eating_out
   - market
+score: 6.9
 ---
 
 The Casbah is the best place in Algiers for street food. The alleys around the lower Casbah, particularly the stretch between Place des Martyrs and the mid-Casbah, are lined with small stalls and hole-in-the-wall restaurants selling mechoui (whole roasted sheep or lamb, sold by weight), merguez sausages in baguettes, msemen flatbread, and bowls of chorba. The food is cheap, fresh, and consistently good.

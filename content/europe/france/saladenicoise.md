@@ -4,6 +4,7 @@ tags:
 - food
 title: Salade Niçoise
 type: poi
+score: 7.4
 ---
 
 The salade niçoise is Nice's most famous export to menus worldwide, and also the dish most likely to start an argument among locals. The traditional version — as codified by purists — uses raw vegetables only: tomatoes, radishes, spring onions, broad beans, green peppers, hard-boiled eggs, olives niçoises, anchovies, and olive oil. Good tinned tuna is acceptable; cooking any vegetable is not. No lettuce. No potatoes. No green beans.

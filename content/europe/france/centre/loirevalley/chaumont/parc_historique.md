@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.4796
 longitude: 1.1810
+score: 7.1
 ---
 
 The 20-hectare park around the château was redesigned in the late 19th century by Henri Duchêne, the landscape architect more famous for his work at Vaux-le-Vicomte. Duchêne kept the English-style lawns and specimen trees added by an earlier owner and ran sweeping avenues through them down to the river.

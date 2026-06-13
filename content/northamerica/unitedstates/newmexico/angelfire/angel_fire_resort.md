@@ -13,6 +13,7 @@ story: >
   a distinction it has held since the snowboard park opened. The mountain's gentler 
   terrain has made it the go-to resort for families from Albuquerque and Santa Fe who 
   find Taos Ski Valley too demanding for young learners.
+score: 7.8
 ---
 
 Angel Fire Resort sits at 8,600 feet in the Moreno Valley and operates New Mexico's most family-friendly alpine ski mountain. The base area has a compact, walkable layout — you can ski from the slopes directly to the lodges — and the 80-plus runs cover beginner through intermediate terrain with one or two genuinely challenging black diamonds on the upper lifts.

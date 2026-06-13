@@ -8,6 +8,7 @@ latitude: 56.69847
 longitude: -3.72083
 sources:
   - https://en.wikipedia.org/wiki/Blair_Athol_distillery
+score: 7.3
 ---
 
 Blair Athol distillery sits on the south edge of Pitlochry, an easy ten-minute walk from the town centre. It is one of the larger distilleries in the area, owned by Diageo and producing the whisky that goes into the Bell's blend as well as its own single malt expressions. The buildings date from 1798, though the distillery was rebuilt in the nineteenth century and again in the twentieth.

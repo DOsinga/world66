@@ -7,6 +7,7 @@ tags:
   - dal_lake_area
 latitude: 34.1333
 longitude: 74.8833
+score: 6.9
 ---
 
 The Zabarwan Hills rise steeply from the eastern shore of Dal Lake, forming the immediate backdrop to the Mughal Gardens and visible from almost everywhere in the city. The range runs northeast from Srinagar, reaching around 3,000 metres at its highest points. The lower slopes carry the Mughal gardens, Pari Mahal, and Chashme Shahi; higher up are forest walks and, eventually, alpine terrain leading to the ridge connecting with Dachigam National Park.

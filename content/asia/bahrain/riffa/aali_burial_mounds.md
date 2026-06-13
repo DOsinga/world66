@@ -15,6 +15,7 @@ story: >
   the dead. British archaeologist Ernest Mackay excavated here in the early 20th century,
   and his finds — including a woman's statuette dated 2000–1500 BC — now sit in the British
   Museum.
+score: 8.9
 ---
 
 A'ali is a village just north of Riffa that has two claims on a visitor's attention: the ancient burial mounds that surround and penetrate the settlement, and a tradition of pottery-making that has persisted for centuries. The mounds date from approximately 3200 to 330 BC, the period when Bahrain was the heart of the Dilmun civilisation — a trading hub mentioned in Sumerian texts as a kind of paradise island. UNESCO inscribed the mounds in 2019 as a World Heritage Site.

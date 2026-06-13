@@ -6,6 +6,7 @@ tags:
 - winery
 latitude: -32.763
 longitude: 151.079
+score: 6.8
 ---
 
 A small family-run winery on the Broke Road that works entirely with estate fruit from its own block of old vines. The approach here is minimal-intervention: whole-bunch fermentation for the reds, long skin contact for some of the whites, and a reluctance to interfere beyond what is necessary. The results can be angular and demanding when young but reward patience.

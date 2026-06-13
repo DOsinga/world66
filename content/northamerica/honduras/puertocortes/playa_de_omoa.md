@@ -8,6 +8,7 @@ tags:
 latitude: 15.7717
 longitude: -88.0464
 snippet: "Long dark-sand beach below the Spanish fortress at Omoa"
+score: 7.4
 ---
 
 Playa de Omoa is a wide stretch of grey-brown volcanic sand running along the bay just below the village of Omoa. It is quieter than the more developed beaches further east toward Tela, and on weekdays you may have long stretches to yourself. The water is warm and shallow for a good way out, which makes it popular with Honduran families on weekends.

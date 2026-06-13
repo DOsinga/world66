@@ -7,6 +7,7 @@ tags:
 - sight
 title: Iguana Bridge
 type: poi
+score: 6.0
 ---
 
 The narrow pedestrian bridge crossing the Río Cuale just before it reaches the sea is named for the resident iguanas that bask on its handrails and on the rocks below. Crossing it gives you the most photogenic view in town: the river spilling toward the Pacific, [Isla Cuale](/northamerica/mexico/puertovallarta/isla_cuale) in the middle, and the steeple of the Church of Guadalupe rising above the rooftops.

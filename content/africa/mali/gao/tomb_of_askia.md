@@ -16,6 +16,7 @@ story: >
   Gao, and was buried in the pyramid he had built decades earlier.
 sources:
   - https://en.wikipedia.org/wiki/Tomb_of_Askia
+score: 9.4
 ---
 
 The Tomb of Askia is the most important sight in Gao and one of the great monuments of West Africa. This 15-metre adobe pyramid, built around 1495, is the burial place of Askia Muhammad I, the greatest ruler of the Songhai Empire. In 2004 it was designated a UNESCO World Heritage Site — the only such site in Mali outside of [Timbuktu](/africa/mali/timbuktu) and Djenné.

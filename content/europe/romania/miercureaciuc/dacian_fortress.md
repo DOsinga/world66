@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, historic]
 latitude: 46.3400
 longitude: 25.8000
+score: 6.4
 ---
 
 The Dacian Fortress of Jigodin sits on a wooded ridge a few kilometres south of central Miercurea Ciuc and represents one of the easternmost Dacian fortified settlements known. The ruins are modest — earthen ramparts and stone foundations rather than standing walls — but the setting and the historical context are worth the short walk for anyone interested in pre-Roman Carpathian archaeology.

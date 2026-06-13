@@ -13,6 +13,7 @@ story: >
   nearly 30 years that involved importing limestone from Bermuda's own quarries
   and stone from Scotland. The resulting building draws on three different Gothic
   Revival traditions at once, giving the interior an unusually eclectic character.
+score: 6.8
 ---
 
 The Cathedral of the Most Holy Trinity on Church Street is the Anglican cathedral of Bermuda and the island's most prominent church. The Gothic Revival building in local limestone was consecrated in 1911 after decades of construction following the destruction of its predecessor, and the tower is visible from much of the city.

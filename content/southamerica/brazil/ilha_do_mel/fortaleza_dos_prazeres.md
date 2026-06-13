@@ -13,6 +13,7 @@ tags:
 - sight
 title: Fortaleza dos Prazeres
 type: poi
+score: 8.4
 ---
 
 The most substantial historical site on the island, the Fortaleza de Nossa Senhora dos Prazeres sits on the rocky north-east tip, looking out over the entrance to Paranaguá Bay. The thick stone walls, the gun emplacements, and the powder magazines are mostly intact, and the views from the ramparts back along the curve of empty beaches are among the best on the island.

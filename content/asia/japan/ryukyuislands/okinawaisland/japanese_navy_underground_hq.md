@@ -9,6 +9,7 @@ latitude: 26.1866
 longitude: 127.6844
 story: >
   Admiral Ota Minoru, the commander of the naval forces who directed operations from these tunnels, sent a final telegraph to Tokyo headquarters on 6 June 1945 before the position was overrun. The message asked the Japanese government to extend its gratitude to the Okinawan people, who had fought alongside soldiers, cared for the wounded, and died in disproportionate numbers. He then killed himself in the command room. The room still bears the marks of that death.
+score: 7.5
 ---
 
 Below a quiet residential area in Tomigusuku, south of Naha, a network of tunnels was hand-dug by the Japanese Navy during the final stages of the Pacific War. The underground headquarters served as the command centre for naval forces defending Okinawa against the American invasion in 1945. Parts of the tunnel complex are now open to visitors, reached by descending 13 metres below ground via narrow concrete steps.

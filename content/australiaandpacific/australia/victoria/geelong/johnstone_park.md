@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 6.8
 ---
 
 Johnstone Park is the landscaped Victorian square at the heart of central Geelong, set in a natural amphitheatre and ringed by the Town Hall, the Gallery, the National Wool Museum and the war memorial. The trees are mature elms, oaks and Moreton Bay figs; the lawns slope down to a central rose garden and a band rotunda.

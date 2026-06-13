@@ -16,6 +16,7 @@ story: >
   been surveyed. The monument's name refers to a geological staircase of sedimentary
   layers that climb northward from the Grand Canyon to Bryce Canyon, each step representing
   tens of millions of years of Earth history.
+score: 9.1
 ---
 
 Grand Staircase-Escalante National Monument, designated in 1996, is the largest national monument in the lower 48 states and one of the most remote. The monument covers nearly 2,900 square kilometres of canyon country, desert plateaus, and badlands, most of it accessible only on dirt roads or on foot. Kanab serves as the western gateway, with the Kanab field office of the BLM providing maps and permits.

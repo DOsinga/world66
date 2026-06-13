@@ -16,6 +16,7 @@ story: >
   defenders remained alive. The battle was later depicted in two major Chinese
   films, including a 2010 production with Russell Crowe as a journalist
   witness.
+score: 7.4
 ---
 
 The Battle of Changde in November-December 1943 was one of the most brutal urban battles of the Sino-Japanese War. A Japanese force of approximately 100,000 men besieged and fought through the city against a Chinese garrison determined to hold every street. The defenders were outnumbered roughly twelve to one. The battle lasted sixteen days; by the time Chinese relief forces retook the city, the garrison had been reduced from eight thousand to a few hundred survivors. The Japanese deployment of chemical weapons during the siege was documented extensively and remains part of the city's historical memory.

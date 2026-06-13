@@ -7,6 +7,7 @@ tags:
 latitude: 41.78
 longitude: 3.0354
 story: "Sant Feliu's first lifeboat station was one of the earliest established on the Spanish Mediterranean coast, in 1898. The wooden hand-rowed lifeboat on display, the 'Acción', was in active service for forty years and is credited with at least twenty rescues."
+score: 5.7
 ---
 
 A small museum at the eastern end of the seafront covering the history of the Spanish maritime rescue service, with model boats, signalling equipment, photographs, and one preserved 19th-century lifeboat. Friendly, free, and short — twenty minutes is enough.

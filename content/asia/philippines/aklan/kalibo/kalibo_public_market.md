@@ -8,6 +8,7 @@ tags:
 latitude: 11.7080
 longitude: 122.3620
 opening_hours: "Daily 05:00–19:00; busiest 06:00–10:00"
+score: 6.9
 ---
 
 The wet market three blocks south of Pastrana Park is the unfiltered version of provincial Philippines: live chickens in stacked bamboo cages, fresh tuna landed that morning at the small port, durian and lanzones in season, mountains of dried fish strung on rattan, and the smell of every one of these things at once.

@@ -11,6 +11,7 @@ story: >
   of an ambitious commercial complex, the cinema was caught on the Green Line
   during the civil war and never finished. During the 2019 protests it briefly
   reopened as a self-managed cultural space.
+score: 8.2
 ---
 
 The Egg is a half-built, war-scarred modernist cinema that has become one of Beirut's defining ruins. Its bulging concrete dome sits incongruously next to the gleaming new towers of downtown, with rusted reinforcement bars sticking out where the rest of the complex was never built.

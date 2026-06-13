@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 56.1417
 longitude: 10.1848
+score: 7.5
 ---
 
 Den Permanente is a historic bathing facility on the coast south of Aarhus harbour, originally built in 1935 and now a listed building. The wooden piers extend out into the sea, with separate bathing areas, diving boards, and changing rooms. In summer it fills with locals — families, swimmers, and people who simply come to sit on the wooden decking and watch the water.

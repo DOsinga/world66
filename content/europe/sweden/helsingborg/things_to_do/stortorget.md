@@ -8,6 +8,7 @@ latitude: 56.0458
 longitude: 12.6972
 sources:
   - https://en.wikipedia.org/wiki/Helsingborg
+score: 7.0
 ---
 
 Stortorget is the broad main square that forms the heart of the city, sitting at the foot of the terraced staircase leading up to Kärnan. The square is framed by the grand Rådhuset (town hall) on one side and the steps to the Stortorget terrace on another, with cafes spilling onto the cobblestones in summer. The equestrian statue of Magnus Stenbock, the Swedish general who defeated the Danes here in 1710, dominates the centre.

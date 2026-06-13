@@ -9,6 +9,7 @@ latitude: 45.3735
 longitude: -121.6960
 story: >
   Mount Hood is a stratovolcano and the highest peak in Oregon, at 3,429 metres. It last erupted in the early 19th century — lava flows from the early 1800s are visible in Zigzag Canyon, and the eruption was likely observed by Native Americans whose oral histories describe the mountain as periodically active. The Timberline Lodge, built by the Works Progress Administration between 1936 and 1938, was used as the exterior of the Overlook Hotel in Stanley Kubrick's The Shining.
+score: 8.5
 ---
 
 Mount Hood, visible from central Portland on clear days as a snow-capped cone above the eastern horizon, is about 80 km and one hour's drive from the city. Timberline Lodge near the summit is the destination for most visitors: a stunning WPA-era lodge built entirely by hand during the Depression, with hand-carved woodwork, wrought iron, and murals depicting Oregon's history. The ski area around the lodge operates year-round on the Palmer Glacier — the only year-round skiing in North America outside Alaska.

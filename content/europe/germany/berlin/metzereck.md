@@ -12,6 +12,7 @@ tags:
 - prenzlauerberg
 title: Metzer Eck
 type: poi
+score: 6.4
 ---
 
 Old pub that survived the wars and shows its history on the walls. One of the few Prenzlauer Berg locals that hasn't been refitted for a gentrified crowd — the decor is authentically scruffy and the clientele happily mixed. Good for a long evening beer.

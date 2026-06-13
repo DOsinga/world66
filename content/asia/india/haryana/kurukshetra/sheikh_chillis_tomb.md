@@ -8,6 +8,7 @@ tags:
 latitude: 29.97666
 longitude: 76.82812
 snippet: '17th-century Mughal tomb of a Sufi mystic and royal spiritual teacher'
+score: 8.1
 ---
 
 The 17th-century tomb of Abd-ur-Rahim, nicknamed Sheikh Chilli, a Sufi mystic who served as the spiritual preceptor of Prince Dara Shikoh — eldest son of the Mughal emperor Shah Jahan and the most intellectually eclectic of the imperial princes. The complex includes a mosque, an octagonal tomb chamber with a carved marble cenotaph, and a small Archaeological Survey of India museum housing finds from the surrounding region.

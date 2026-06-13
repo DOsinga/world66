@@ -9,6 +9,7 @@ tags:
 - charlottenburg
 title: Marga Schoeller
 type: poi
+score: 6.5
 ---
 
 A well-stocked independent bookshop on Knesebeckstrasse in Charlottenburg, with a strong English-language section and a good selection of books on film. Regular author readings and events. A Savignyplatz institution.

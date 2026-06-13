@@ -11,6 +11,7 @@ tags:
 title: Centrale Montemartini
 type: poi
 url: www.centralemontemartini.org
+score: 8.5
 ---
 
 Around 450 Greek and Roman sculptures from the Capitoline Museums collection displayed in a decommissioned early-20th-century power station in the Ostiense district. The contrast between white marble gods and athletes and the giant turbines and boilers of the industrial plant is genuinely striking — this is one of Rome's most atmospheric museum spaces.

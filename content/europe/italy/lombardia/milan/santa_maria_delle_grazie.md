@@ -13,6 +13,7 @@ tags:
 title: Santa Maria delle Grazie & The Last Supper
 type: poi
 url: cenacolovinciano.vivaticket.com
+score: 9.5
 ---
 
 Leonardo da Vinci's Last Supper (Il Cenacolo) covers an entire wall of the refectory of this UNESCO-listed Dominican church, painted directly onto the plaster between 1495 and 1498. Entry is strictly limited to 30 people at a time in 15-minute slots — book online weeks or even months ahead, especially in summer.

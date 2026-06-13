@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Iba_Airfield
+score: 4.9
 ---
 
 Iba Airfield has the distinction of being one of the first targets struck by Japanese aircraft in the opening hours of the Pacific War. On 8 December 1941 — the same day as Pearl Harbor in the Hawaiian time zone — Japanese planes destroyed the airfield and the P-40 fighters of the 3rd Pursuit Squadron based here, killing dozens of American and Filipino servicemen. The attack effectively neutralised American air power in central Luzon within hours of the war's beginning.

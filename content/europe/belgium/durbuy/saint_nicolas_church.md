@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.3520
 longitude: 5.4562
+score: 6.3
 ---
 
 The Church of Saint-Nicolas is a robust Walloon Baroque structure built across the 17th and 18th centuries, standing at the heart of Durbuy's old town alongside the castle. The baptismal fonts date from the early period of the church's construction and are worth examining if you step inside.

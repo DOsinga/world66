@@ -8,6 +8,7 @@ latitude: 6.4667
 longitude: 2.4167
 sources:
   - https://en.wikipedia.org/wiki/Ganvie
+score: 6.7
 ---
 
 The small museum in the village documents the history of the Tofinu people and the founding of Ganvié during the period of the Atlantic slave trade. The exhibits include photographs, traditional objects from daily life on the lake, and displays explaining the social organisation of a community that has lived without solid ground for over three centuries.

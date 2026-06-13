@@ -6,6 +6,7 @@ longitude: 20.6300
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 A small fishing village on the west coast that has grown into a low-key resort without losing its core. Whitewashed houses spill down a single narrow lane to a small fishing harbour; restaurants on the beach grill the local catch on charcoal in the evenings.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The small Cathedral of the Ascension of the Lord, on the western edge of Union Square, is the Romanian Orthodox parish church for the central district. It was built in the early 20th century in a Brâncovenesc revival style — the late-baroque Romanian vernacular originally associated with the 17th-century princely architecture of Wallachia.

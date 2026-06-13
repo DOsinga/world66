@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.0463
 longitude: 19.9459
+score: 8.1
 ---
 
 Podgórze, on the southern bank of the Vistula directly opposite Kazimierz, was an independent town until 1915 and retains a distinct character from the rest of Krakow. During the German occupation it became the site of the Krakow Ghetto — the Germans chose Podgórze deliberately, building a wall to enclose a section of the district's streets and forcing Krakow's Jews into what had been an ordinary working-class neighbourhood. The ghetto was liquidated in March 1943; Schindler's Factory stands at the district's eastern edge.

@@ -13,6 +13,7 @@ story: The museum was founded by Aki Ra, a man who was conscripted as a child so
   has personally defused more than 50,000 mines; the museum now funds professional
   demining operations and provides housing, education, and care for children with
   disabilities caused by landmines.
+score: 6.7
 ---
 
 The **Cambodia Landmine Museum** on the road to Banteay Srei is one of the most sobering and important stops in the Siem Reap area. Founded by former Khmer Rouge child soldier and self-taught deminer Aki Ra, the museum displays a large collection of defused mines, bombs, artillery shells, and other ordnance recovered from Cambodian fields, along with detailed explanations of their origins and the human cost of their legacy. Cambodia remains one of the most heavily mined countries in the world — an estimated 4 to 6 million mines were laid during decades of conflict — and deaths and injuries from unexploded ordnance continue to occur every year.

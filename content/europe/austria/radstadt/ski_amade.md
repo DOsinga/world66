@@ -7,6 +7,7 @@ tags:
 latitude: 47.3833
 longitude: 13.4667
 story: "Ski Amadé brings together five separate ski regions — Schladming-Dachstein, Salzburger Sportwelt, Gastein, Hochkönig, and Grossarltal — under a single lift pass, totalling around 760 km of pistes and 270 lifts. It is one of the largest ski networks in the Alps and the largest in Austria."
+score: 7.8
 ---
 
 Radstadt is one of the entry points to Ski Amadé, with the local mountain — Schwemmberg-Marbachhöhe — connected by lift and shared piste to the wider Salzburger Sportwelt and Schladming-Dachstein sectors. Around 760 km of piste and a single lift pass make it one of the largest connected ski areas in Europe.

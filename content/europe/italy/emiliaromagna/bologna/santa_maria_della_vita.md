@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 8.6
 ---
 
 Tucked down a side street just east of Piazza Maggiore, Santa Maria della Vita is a small Baroque church that hides one of the most powerful sculptures in Italy. The Lamentation over the Dead Christ by Niccolò dell'Arca, finished around 1463, is a group of seven life-sized terracotta figures arranged around the body of Christ.

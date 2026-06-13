@@ -7,6 +7,7 @@ tags:
   - eating_out
   - klcc
   - restaurant
+score: 5.9
 ---
 
 A reliable mid-priced Malaysian restaurant chain that started in 1999 and is now a fixture in most of the city's bigger malls. The Suria KLCC branch is the original. The menu sticks to the Malaysian classics done well — nasi lemak (with chicken curry, beef rendang or grilled chicken), nasi bojari with the rainbow rice, char kuey teow, and a strong drinks list of fresh juices and the iced jelly drink cendol.

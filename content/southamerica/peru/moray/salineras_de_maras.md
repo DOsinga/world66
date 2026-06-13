@@ -11,6 +11,7 @@ story: >
   The salt pools at Maras are fed by a single underground spring that carries brine up from an ancient sea-bed deep in the mountain. Families who work these pools inherit the right to farm specific terraces — the same terraces their ancestors have worked for centuries. Salt from Maras carries a faint pink tint from the mineral content of the spring water.
 sources:
   - https://en.wikipedia.org/wiki/Maras,_Peru
+score: 8.3
 ---
 
 The Salineras de Maras are one of the most photogenic sights in the Sacred Valley: more than three thousand small salt pans stepped down a hillside, each filled with mineral-rich water from a natural spring. The brine evaporates in the sun, leaving behind a crystalline layer of salt that families harvest by hand using pre-Inca techniques unchanged in the essentials for over a thousand years.

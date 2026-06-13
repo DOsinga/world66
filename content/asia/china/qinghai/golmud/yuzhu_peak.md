@@ -8,6 +8,7 @@ tags:
   - sight
   - mountain
   - climbing
+score: 7.8
 ---
 
 The highest peak of the eastern Kunlun, Yuzhu rises to 6,178 metres immediately east of the road and railway south of Golmud. Snow-streaked and broad-shouldered, it is the dominant mountain on the long climb to Tibet and visible for hours from the train.

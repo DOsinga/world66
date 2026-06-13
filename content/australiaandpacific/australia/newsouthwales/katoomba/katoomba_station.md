@@ -11,6 +11,7 @@ title: Katoomba Railway Station
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Katoomba_railway_station
+score: 6.4
 ---
 
 Katoomba railway station is the town's main transport hub — a heritage-listed station building opened in 1891 that sits right in the centre of town, a short walk from the main street and about 2 km from Echo Point. All Blue Mountains Line trains from Sydney Central stop here, taking about two hours. An Opal card is all you need.

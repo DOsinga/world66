@@ -9,6 +9,7 @@ latitude: 41.9009
 longitude: 13.0704
 sources:
   - https://en.wikipedia.org/wiki/Sacro_Speco
+score: 9.4
 ---
 
 The Sacro Speco — the Holy Cave — is one of the most extraordinary religious sites in Italy. The Benedictine monastery is built directly into the cliff face of a steep gorge above the Aniene River, constructed around the grotto where Saint Benedict of Nursia lived as a hermit from around 500 AD. It was here, in this cave, that Western monasticism was born.

@@ -7,6 +7,7 @@ tags:
 latitude: 24.2929
 longitude: 55.7899
 story: "The circular tomb at the centre of Hili was built around 2,500 BCE during the Umm an-Nar culture, contemporary with the early Egyptian dynasties. The carved stone reliefs of human and animal figures on the entrance are among the earliest figurative art in the Arabian peninsula."
+score: 8.2
 ---
 
 The Hili Archaeological Park sits just inside the UAE, about ten minutes from central Buraimi. It contains the most important Bronze Age archaeological remains in the United Arab Emirates — most strikingly the **Great Hili Tomb**, a circular stone-faced burial chamber of around 4,500 years ago, with carved reliefs of figures around its entrance.

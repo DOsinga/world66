@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.7429
 longitude: -74.0323
+score: 6.9
 ---
 
 The Hoboken Public Library is a small but handsome Beaux-Arts building of 1897, with a colonnaded limestone façade and a wood-panelled reading room that has barely changed in a century. It sits a block off Washington Street and is open to anyone passing through.

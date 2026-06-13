@@ -7,6 +7,7 @@ tags:
 latitude: 46.3593
 longitude: 15.1079
 story: "Velenje was a socialist model city, built almost from scratch after World War II to house the workers of the Velenje coal mine — the largest underground mine in the former Yugoslavia. The city's main square still features the world's largest statue of Tito."
+score: 7.9
 ---
 
 The Velenje Coal Mining Museum is one of the most distinctive museums in Slovenia — part of it is located underground inside the actual mine. Guided tours descend into the tunnels where miners worked for well over a century, and the experience of being underground while learning about the industry that built the city is genuinely compelling.

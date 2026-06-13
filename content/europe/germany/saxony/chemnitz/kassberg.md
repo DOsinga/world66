@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 latitude: 50.8333
 longitude: 12.9028
+score: 8.3
 ---
 
 The Kaßberg is one of the largest surviving Gründerzeit and Jugendstil neighbourhoods in Germany — a dense quarter of late-19th and early-20th-century apartment buildings that escaped the wartime bombing that levelled much of the rest of the city. Street after street of decorated facades, bay windows, corner turrets, and carved sandstone doorways runs uphill to the west of the city centre.

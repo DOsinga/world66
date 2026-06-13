@@ -5,6 +5,7 @@ tags: [things_to_do, beaches, nature]
 latitude: 41.1858
 longitude: -8.7028
 story: Praia de Matosinhos is the closest proper Atlantic surf beach to Porto's historic centre, accessible in about 20 minutes on the metro. The beach has been adopted by Porto's surf culture since the 1980s — local surf clubs, a surf school strip along the esplanade, and morning lineups that include people who commuted from the centre — making it less a day-trip beach than a functional part of the city's everyday life.
+score: 6.6
 ---
 
 Praia de Matosinhos is Porto's nearest Atlantic beach, a proper sandy stretch with consistent surf that is genuinely easy to get to from the city centre. The metro (Line A) runs directly from Trindade in the city centre to Matosinhos-Sul in about 20 minutes, which means the beach is practical for a half-day rather than requiring a full-day expedition.

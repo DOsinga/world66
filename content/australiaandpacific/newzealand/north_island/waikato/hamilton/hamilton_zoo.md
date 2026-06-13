@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 snippet: Compact zoo with Australasian and African wildlife
+score: 6.6
 ---
 
 Hamilton Zoo is a small but well-run zoo in the northern suburbs of the city, spread across 25 hectares of bush and open enclosures. It focuses on Australasian and African species, with good exhibits for white rhino, cheetah, red panda, and kea. The walk-through native bird forest, where you share space with free-roaming kiwi, tui, and other species, is a genuine highlight.

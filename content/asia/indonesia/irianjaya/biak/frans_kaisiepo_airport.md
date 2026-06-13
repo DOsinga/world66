@@ -4,6 +4,7 @@ type: poi
 tags: [getting_there, sight]
 latitude: -1.19
 longitude: 136.1075
+score: 4.8
 ---
 
 The main airport serving Biak and the surrounding islands, named after Frans Kaisiepo, a prominent Papuan leader and later Governor of Irian Jaya (1964–1973) who advocated for the integration of West New Guinea into Indonesia. The airport has a single runway and handles regular flights to Jayapura, Makassar, and occasionally Jakarta and other Indonesian cities.

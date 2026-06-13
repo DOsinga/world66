@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The city's main concert hall, in a 1950s public-park setting
+score: 5.0
 ---
 
 The city's main public auditorium, set in a park near the centre. It hosts local political meetings, school prize-givings, and occasional cultural performances. The building itself is unremarkable but the surrounding park — Jalal Baba Park — is a pleasant green space with mature trees and benches, busy in the cool of the late afternoon when locals gather to walk.

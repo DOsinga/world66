@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Sidi El Houari is named for the 14th-century Sufi scholar whose tomb is the spiritual heart of the quarter. According to local tradition, he predicted both the Spanish conquest of 1509 and its eventual undoing — a prophecy that earned him posthumous credit when the Ottomans finally drove the Spanish out in 1792."
+score: 9.0
 ---
 
 The Sidi El Houari quarter, on the lower slopes between the city centre and the port, is the old medina of Oran — pre-Ottoman, pre-Spanish — and the most atmospheric part of the city. Narrow streets, blue-painted doors, small mosques tucked into impossible corners, the Bey's Palace, the Hassan Pasha Mosque, the tomb of Sidi El Houari himself.

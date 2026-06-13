@@ -7,6 +7,7 @@ tags:
 snippet: The famous Bandung batagor place, in business since 1969
 latitude: -6.9112
 longitude: 107.6029
+score: 7.0
 ---
 
 Batagor — *bakso tahu goreng*, fried fish dumplings with tofu, served drowning in peanut sauce — is one of Bandung's signature snack dishes. Kingsley on Jalan Veteran has been doing it since 1969 and is widely considered the best. The dumplings are made fresh through the day, fried to order, and dressed with the house peanut sauce, sweet soy, lime, and a slosh of chilli.

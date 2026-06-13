@@ -10,6 +10,7 @@ tags:
   - cidade_historica
 sources:
   - https://en.wikipedia.org/wiki/Porto_Seguro
+score: 6.2
 ---
 
 A small cafe on the edge of the Cidade Histórica plateau, serving coffee, fruit juices, cold beer, and simple snacks — tapioca with cheese, *biscoitos* — from a terrace that looks out over the sea and the curve of coast to the south. It is the only place on the bluff to sit down with a drink in the late afternoon, and the view at that hour is hard to beat.

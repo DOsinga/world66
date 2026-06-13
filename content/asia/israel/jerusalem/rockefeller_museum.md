@@ -6,6 +6,7 @@ tags:
   - museum
 title: Rockefeller Archaeological Museum
 type: poi
+score: 8.5
 ---
 
 Built in 1938 with a grant from American oil magnate John D. Rockefeller Jr, this graceful Mandate-era building outside the northeast corner of the Old City walls houses one of the most important archaeological collections in the Middle East. The artefacts span 500,000 years of human habitation in the region — Stone Age tools, Bronze Age Canaanite objects, carved ivories from Megiddo, Byzantine mosaics, and crusader-era sculptures removed from the Church of the Holy Sepulchre for protection.

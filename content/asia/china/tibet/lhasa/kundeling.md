@@ -7,6 +7,7 @@ tags:
 - monastery
 title: Kundeling Monastery
 type: poi
+score: 6.5
 ---
 
 Kundeling is one of the four "royal monasteries" of Lhasa — institutions whose abbots, the Ling Rinpoches, served as regents of Tibet between Dalai Lamas. It sits below the western flank of Chagpori, a short walk from the Potala, and is much smaller than the great teaching monasteries on the city's outskirts. The compound was almost entirely destroyed in the Cultural Revolution and rebuilt from the 1980s onwards.

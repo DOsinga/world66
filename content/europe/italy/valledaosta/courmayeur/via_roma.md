@@ -12,6 +12,7 @@ story: >
   destination in its own right. The evening passeggiata — the slow promenade that Italians
   have elevated into an art form — arrived with it, and now draws as many as the slopes
   themselves on winter weekends.
+score: 7.2
 ---
 
 Via Roma is the main street and social spine of Courmayeur, a pedestrianised lane lined with old stone buildings that house boutiques, cafes, and restaurants under low arcades. It is at its best in the early evening when the ski day is done and the village fills with people in good boots and expensive down jackets, doing what Italians do best: walking slowly, looking good, and stopping frequently for coffee or prosecco.

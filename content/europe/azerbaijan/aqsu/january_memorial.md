@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - memorial
+score: 4.6
 ---
 
 A small memorial in central Aqsu commemorates the victims of the 20 January 1990 events, when the Soviet army intervened in Baku to crush the Azerbaijani independence movement. Memorials to "Black January" stand in town and village centres across Azerbaijan; the one in Aqsu is modest, with engraved names and a low marble plinth.

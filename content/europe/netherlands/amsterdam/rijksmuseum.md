@@ -16,6 +16,7 @@ tags:
 title: Rijksmuseum
 type: poi
 url: rijksmuseum.nl
+score: 9.8
 ---
 
 The number one museum in the city. The 1885 building by Pierre Cuypers is itself a monument — he also designed Central Station — and inside it holds the Night Watch, Vermeer's milkmaid, and rooms of Dutch Golden Age masters that justify every superlative. Come after 16:00 to avoid the worst crowds.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 27.4694
 longitude: 83.2762
+score: 9.6
 ---
 
 The southernmost of the three planned zones, containing **Lumbini's actual archaeological core** — the Mayadevi Temple, the Ashoka Pillar, the Puskarini Pond, the foundations of devotional stupas built by pilgrims over many centuries, and the **excavated brick mounds** of ancient monasteries.

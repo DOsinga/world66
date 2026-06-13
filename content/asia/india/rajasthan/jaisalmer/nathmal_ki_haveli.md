@@ -14,6 +14,7 @@ story: >
   the other's progress. When the scaffolding came down, the two halves were almost
   identical — but if you look closely, the differences in detail reveal where each
   man's individual style took over.
+score: 7.2
 ---
 
 Nathmal ki Haveli is the youngest of Jaisalmer's three great havelis, built in the late 19th century by the diwan (prime minister) Nathmal. It occupies an irregular corner plot on the road below the fort, and the builders adapted the design around the site rather than imposing a symmetrical plan. The facade is carved entirely from yellow sandstone and features some unusual motifs for a Rajasthani haveli — there are two stone elephants flanking the entrance, and close inspection of the carvings reveals bicycles, which were a novelty at the time of construction.

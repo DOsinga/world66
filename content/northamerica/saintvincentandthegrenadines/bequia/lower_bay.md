@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9944
 longitude: -61.2358
+score: 7.8
 ---
 
 Lower Bay is the quieter, wilder continuation of Princess Margaret Beach further along the south coast. The sand is broader here, and the beach is backed by palms and sea grapes. On calm days the water is the clearest blue-green you will find in the Grenadines. On days when the Atlantic swell reaches around the southern point, there is a gentle surf.

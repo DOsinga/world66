@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.5859
 longitude: 91.8681
+score: 7.1
 ---
 
 The Tawang War Memorial stands in the centre of town, a stone and bronze monument dedicated to the Indian soldiers who died in the 1962 Sino-Indian War. The conflict reached its climax just outside Tawang, and the memorial lists the names of those who fell defending the Sela Pass and the town itself. A small museum attached to the memorial displays weapons, equipment, and photographs from the war.

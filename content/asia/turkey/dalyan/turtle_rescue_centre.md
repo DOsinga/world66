@@ -7,6 +7,7 @@ tags:
 - sight
 title: DEKAMER Sea Turtle Rescue Centre
 type: poi
+score: 6.3
 ---
 
 DEKAMER (the Sea Turtle Research, Rescue and Rehabilitation Centre) sits behind Iztuzu Beach, on the spit between the river and the sea. It treats loggerhead and green turtles found injured along the Turkish coast — many of them victims of boat propellers or fishing gear — and releases them when they recover.

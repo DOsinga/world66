@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 48.4554
 longitude: -2.0478
+score: 6.8
 ---
 
 The large square at the western end of the old town is named for Bertrand du Guesclin, the 14th-century Breton knight whose equestrian statue dominates the space. Du Guesclin was one of the great military commanders of medieval France — rough, apparently ugly, tactically brilliant — and Dinan claims him as its own even though he was born at a castle some distance away.

@@ -15,6 +15,7 @@ tags:
 - museum
 title: Fort William Historical Park
 type: poi
+score: 8.9
 ---
 
 Billed as the largest living history attraction in North America, and for once the superlative is earned. The reconstructed 1815 fur trade post on the banks of the Kaministiquia River employs dozens of interpreters in period dress — voyageurs, tradespeople, Indigenous guides — who make the whole thing feel genuinely alive rather than museum-stiff. You can watch canoe-building, blacksmithing, and Indigenous craft demonstrations, and the site explains the Anishinaabe perspective on the fur trade alongside the European one.

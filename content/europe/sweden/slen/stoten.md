@@ -8,6 +8,7 @@ tags:
 latitude: 61.2350
 longitude: 13.0917
 snippet: Quieter, independently owned ski area west of Sälen
+score: 6.8
 ---
 
 Stöten sits the furthest west of the Sälen resorts, just shy of the Norwegian border. It is independently owned — not part of the SkiStar group that runs Lindvallen, Högfjället, Tandådalen and Hundfjället — so the lift pass is separate and the prices a little lower.

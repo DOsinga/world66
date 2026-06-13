@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Romanian Orthodox church in a quiet park setting east of the centre
+score: 5.8
 ---
 
 The Biserica Sfânta Treime stands a few minutes' walk east of Union Square, set back from the street in a small park. Built in the late 19th century for the growing Romanian Orthodox community in this part of the city, it is a calmer counterpoint to the busy Church with the Moon and St. Nicholas Cathedral on the main square.

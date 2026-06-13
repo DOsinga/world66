@@ -7,6 +7,7 @@ tags:
   - sight
 title: Pajarito Mountain Ski Area
 type: poi
+score: 6.4
 ---
 
 Pajarito Mountain is a small, locally owned ski area on the western edge of the Jemez Mountains, about 12 miles from downtown Los Alamos. It operates primarily on weekends and holidays when snowpack allows, and it has the relaxed atmosphere of a community hill rather than a resort — no slopeside hotels, no apres-ski scene, just good terrain and a manageable crowd.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Standing on a small island in Gaib Sagar Lake, the Badal Mahal — "cloud palace" — is a three-domed white pavilion that the Dungarpur royals used as a summer retreat and music room. It is small, photogenic, and best seen from the shore at sunset.

@@ -10,6 +10,7 @@ tags:
 - museum
 - history
 story: When archaeologist Manolis Andronikos opened Tomb II in November 1977, he found it sealed and untouched — extraordinary for any royal tomb, almost unimaginable for a Macedonian one. Inside the antechamber sat a gold larnax holding a woman's bones; in the main chamber, a second larnax bore the bones of a man buried with a gold oak-leaf crown, gilded greaves and an ivory portrait identified as Philip II.
+score: 9.5
 ---
 
 The Museum of the Royal Tombs is built inside the Great Tumulus itself — a vast artificial mound originally raised over the burials of the Macedonian royal family. Visitors descend into a darkened, climate-controlled space where the original tomb facades, sealed for over two thousand years, are still in situ behind glass, and the grave goods are displayed in cases around them.

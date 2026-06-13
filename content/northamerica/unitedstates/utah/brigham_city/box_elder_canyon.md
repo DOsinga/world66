@@ -8,6 +8,7 @@ snippet: Scenic canyon cutting through the Wasatch Range just east of Brigham Ci
 latitude: 41.4994
 longitude: -111.9944
 story: "Box Elder Canyon is named for the box elder maple tree, which is so common along Utah canyon streams that early settlers used it as a landmark. The canyon road was one of the first routes through the Wasatch built specifically for recreation — it was graded in the 1920s as a Sunday drive destination."
+score: 6.5
 ---
 
 Box Elder Canyon is a short canyon drive east of Brigham City, climbing into the Wellsville Mountains through a narrow gorge of limestone and oak. The road follows a creek through stands of maple, box elder, and cottonwood that turn brilliant orange and gold in late September and October — this is one of the better fall colour drives in northern Utah, close enough to reach in under 30 minutes from downtown.

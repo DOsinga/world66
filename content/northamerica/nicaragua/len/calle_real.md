@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 12.4346
 longitude: -86.877
+score: 7.2
 ---
 
 Calle Real is the pedestrianised street that runs through the heart of old León, lined with low colonial buildings painted in bright colours, artisan workshops, cafes, and the occasional political mural. It is the most pleasant street in the city for a slow walk, and in the evenings it comes alive with vendors and students from the nearby university.

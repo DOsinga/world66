@@ -13,6 +13,7 @@ tags:
 title: Oishii Boston
 type: poi
 url: www.oishiiboston.com
+score: 7.1
 ---
 
 Oishii's South End flagship serves some of the best sushi in Boston. The front dining room has an open sushi bar where you can watch the chefs work, and the atmosphere manages to feel upscale without being stiff. The menu centers on sushi and sashimi, but the cooked Japanese dishes hold their own — the miso-glazed black cod is a standout.

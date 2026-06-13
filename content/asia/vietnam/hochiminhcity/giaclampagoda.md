@@ -10,6 +10,7 @@ longitude: 106.6492
 snippet: "Ho Chi Minh City's oldest pagoda, built in 1744 and dense with incense and history"
 sources:
   - https://en.wikipedia.org/wiki/Giac_Lam_Pagoda
+score: 8.5
 ---
 
 Built in 1744, Giac Lam is the oldest Buddhist pagoda in Ho Chi Minh City. The interior is packed with over a hundred wooden statues of Buddhas and bodhisattvas, many gilded and centuries old, arranged in rows that fill the dim, incense-heavy main hall. Coiled incense spirals hang from the ceiling, burning slowly over days.

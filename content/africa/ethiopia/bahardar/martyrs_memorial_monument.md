@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - monument
+score: 5.9
 ---
 
 The Martyrs Memorial Monument is one of Bahir Dar's most visible modern landmarks, a large memorial on the city side of the lakefront. It commemorates Amhara people who died fighting the Derg regime, and it gives a different kind of context from the monasteries and waterfalls.

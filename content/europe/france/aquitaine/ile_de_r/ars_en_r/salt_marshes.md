@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 46.2120
 longitude: -1.5250
+score: 8.4
 ---
 
 The salt marshes north of Ars-en-Ré are among the most extensive on the Île de Ré, a landscape of shallow pans, channels, and dikes managed by paludiers — traditional salt farmers — who harvest fleur de sel and grey salt by hand using the same techniques used for centuries. The marshes are habitat for a remarkable variety of wading birds, and in spring and autumn the migration brings avocets, godwits, egrets, and dunlins through in large numbers.

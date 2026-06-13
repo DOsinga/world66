@@ -12,6 +12,7 @@ story: >
   to the post by the Sultan — refused every offer of evacuation. He believed it was his sacred duty to remain
   at his post on the slopes. His body was found days later, face-down in a prayer position, encased in the
   hardened ash of a pyroclastic flow. He was 83. The Sultan attended his funeral.
+score: 8.4
 ---
 
 Mount Merapi — whose name means 'Mountain of Fire' in Javanese — is one of the most active volcanoes in the world. It looms 28 kilometres north of Yogyakarta, and on clear days its perfect cone is visible from the city centre. The mountain is in near-constant low-level activity, with major eruptions every few decades: 1930, 1994, 2006, 2010. Despite this, several villages on its slopes remain inhabited, partly out of necessity and partly because the volcanic soil is extraordinarily fertile.

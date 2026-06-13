@@ -9,6 +9,7 @@ latitude: 35.8172
 longitude: 51.4236
 story: >
   In August 1979, six months after the revolution, crowds stormed the Sa'dabad complex. They tore out the carpets, smashed the mirrors, and removed everything with the Shah's face on it. The guide shows you where a large bronze statue of Mohammad Reza Shah's feet still stand in the garden — the legs were cut off at the ankles during the storming, and the feet were left as a symbol of the revolution's triumph. His torso and head are gone. The feet remain.
+score: 8.3
 ---
 
 Sa'dabad is the summer palace complex of the Qajar and Pahlavi dynasties — a large forested estate in the Shemiran district of northern Tehran that served as the royal residence during the hot months when the smog-laden lower city became unbearable. It is now a museum complex of 18 buildings spread over 110 hectares of mature gardens at around 1,600 metres altitude.

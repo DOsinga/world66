@@ -3,6 +3,7 @@ title: Upper and Lower Circuits
 type: poi
 latitude: -25.6896
 longitude: -54.4451
+score: 9.4
 ---
 
 The Upper and Lower circuits are the two main trail systems on the Argentine side of the falls, connected by elevated metal walkways that bring you face-to-face with individual cascades.

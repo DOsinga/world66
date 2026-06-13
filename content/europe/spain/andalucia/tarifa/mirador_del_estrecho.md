@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mirador del Estrecho
 type: poi
+score: 6.8
 ---
 
 A small terraced viewpoint perched at 320 metres above the strait, eight kilometres east of Tarifa on the coast road towards Algeciras. The drive up is steep but quick, and the reward is the textbook view of the Strait of Gibraltar — the white town below, the strait laid out in front, the green hills of Morocco rising directly across the water.

@@ -8,6 +8,7 @@ tags:
 latitude: 48.7289
 longitude: -3.1451
 snippet: A well-preserved 15th-century castle above the Trieux valley, with formal gardens and river views
+score: 8.0
 ---
 
 Château de la Roche Jagu stands on a rocky promontory above the River Trieux about 9 km downstream from Pontrieux, commanding views down the wooded valley towards the sea. The castle dates from the early 15th century and is one of the best-preserved medieval buildings in the Côtes-d'Armor — its silhouette of towers and machicoulis is unmistakably military despite the elegant stone finish.

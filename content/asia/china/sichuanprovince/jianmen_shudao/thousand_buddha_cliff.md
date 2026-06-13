@@ -16,6 +16,7 @@ story: >
   the largest figures date from the early Tang while the smallest and most
   numerous date from the Song. Some have been damaged by water and weathering,
   but many retain their original painted surfaces in the more sheltered niches.
+score: 8.1
 ---
 
 The Thousand-Buddha Cliff is a long sandstone escarpment along the ancient Shu Road between Mingyang and Guangyuan, carved with Buddhist figures that accumulated over several dynasties. The name is modest — there are significantly more than a thousand individual figures, ranging from small votive niches containing a single Buddha to large compositions with multiple figures and attendants. The most impressive sections have figures reaching several metres in height.

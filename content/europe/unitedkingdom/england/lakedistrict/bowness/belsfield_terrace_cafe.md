@@ -5,6 +5,7 @@ latitude: 54.3672
 longitude: -2.9224
 snippet: "Lakeside café with outdoor seating directly above the water — one of the better spots in Bowness to sit with coffee and watch the boats."
 tags: [bars_and_cafes]
+score: 5.4
 ---
 
 The Belsfield Terrace is attached to the hotel of the same name and sits on a terrace cut into the hillside above the promenade, giving an elevated view over Windermere without requiring any effort to reach it. The café is open to non-guests and serves straightforward hot drinks, cakes, and light lunches. The quality is consistent rather than exceptional, but the location makes up for any deficiencies in the food.

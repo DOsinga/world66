@@ -8,6 +8,7 @@ latitude: 52.6302
 longitude: 1.2926
 story: >
   The Maddermarket Theatre is named after the plant (woad/madder) that was traded in this area in the Middle Ages for dyeing cloth — an echo of Norwich's textile heritage. The building itself was a Roman Catholic chapel before being converted into a theatre in 1921 by Nugent Monck, who based its design on an Elizabethan playhouse. It was one of the first amateur repertory companies in England to produce the complete works of Shakespeare.
+score: 7.3
 ---
 
 The Maddermarket Theatre is a small and atmospheric theatre in the Norwich Lanes, run by an amateur company that has performed here since 1921. The interior replicates an Elizabethan open-stage layout, with audience on three sides and minimal scenery — an arrangement that puts the focus on performance rather than spectacle.

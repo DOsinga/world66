@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 27.9019
 longitude: -81.59
+score: 6.4
 ---
 
 The Dixie Walesbilt Hotel is a striking 1920s Mediterranean Revival building on Park Avenue in downtown Lake Wales, testimony to the Florida land boom that swept through the state before the 1926 bust. Built in 1926, it is listed on the National Register of Historic Places and has been restored over the years, its Moorish arches and tiled facades looking incongruously grand in a town this size.

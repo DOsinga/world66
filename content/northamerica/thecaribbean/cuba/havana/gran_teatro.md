@@ -17,6 +17,7 @@ story: >
   an interior modelled on European opera houses. Its home company, the Ballet
   Nacional de Cuba, was founded in 1948 by Alicia Alonso, who continued to
   dance and direct into her seventies despite near-total blindness.
+score: 8.6
 ---
 
 The Gran Teatro de La Habana Alicia Alonso, to give it its full name, is one of the finest surviving examples of early 20th-century theatrical architecture in Latin America — a flamboyant Baroque Revival building that faces the Parque Central on the Paseo del Prado. The building seats around 1,500 in a horseshoe auditorium with excellent sight lines and acoustics.

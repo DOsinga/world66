@@ -6,6 +6,7 @@ longitude: -4.6383
 tags:
   - things_to_do
   - museum
+score: 6.3
 ---
 
 The Ucheldre Centre occupies the former chapel of a Bon Sauveur convent on the edge of the town centre. The Sisters arrived from France in the 1940s and ran a girls' school here until the 1990s; when they left, the community took over the buildings and converted them into one of the most ambitious arts centres in north Wales.

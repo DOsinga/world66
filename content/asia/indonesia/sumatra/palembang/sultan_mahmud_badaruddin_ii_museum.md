@@ -6,6 +6,7 @@ longitude: 104.7611
 tags:
   - things_to_do
   - museum
+score: 7.9
 ---
 
 The Sultan Mahmud Badaruddin II Museum is housed in a fine colonial-era building on the north bank of the Musi River, immediately east of Kuto Besak. The two-storey building, with its tall arched windows and dark teak floors, was originally the residence of the Dutch Resident of Palembang.

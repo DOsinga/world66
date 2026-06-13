@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
 story: "The 2008 building, by the Los Angeles architect Randall Stout, was meant to mark Roanoke's emergence as a regional cultural centre. The folded glass-and-steel exterior was openly modelled on Frank Gehry's work, and the museum's opening sparked vigorous local debate about whether the building fit a town built around brick warehouses and railway architecture. A decade later the answer seems to be: more or less."
+score: 7.8
 ---
 
 The Taubman Museum of Art sits in a sharp-angled glass and aluminium building on the eastern edge of downtown, a deliberate piece of contemporary architecture in a town largely built of brick. The collection focuses on American art, with strong holdings of 19th- and 20th-century works, regional Virginia art, and contemporary craft and folk art.

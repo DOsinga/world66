@@ -9,6 +9,7 @@ latitude: 17.8911
 longitude: -76.9136
 story: >
   Hellshire is named not for any infernal quality but for the plantation that occupied the peninsula in the colonial era. The beach operates entirely on an informal economy: the fish fry operators set up early, the sound systems arrive by noon, and by late Saturday afternoon the whole stretch has the quality of a spontaneous party that has been happening in this exact form for decades. No beach in Jamaica more accurately captures what a working-class Jamaican seaside day actually looks like.
+score: 7.7
 ---
 
 Hellshire Beach in Portmore, about 25 km west of Kingston across the Harbour View causeway, is the beach that Kingstonians go to — a long, busy stretch of coast backed by a dense row of fish fry shacks where the cooking is exceptional. The water is not as clear as the north coast beaches, but the atmosphere on weekends is genuinely exhilarating: sound systems, fresh fish, cold beer, and the full demographic range of the Kingston metropolitan area.

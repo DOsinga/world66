@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Arvid Blumenthal — universally known as Crocodile Harry — was a Latvian-born former crocodile hunter who arrived in Coober Pedy in the 1970s and spent decades carving his dugout into a sprawling cave-warren of homemade sculpture, bras left by women who visited him, and graffiti. He died in 2006; the dugout has been preserved as he left it. Scenes from *Mad Max Beyond Thunderdome* were filmed inside."
+score: 7.8
 ---
 
 Crocodile Harry's underground nest, a few kilometres north of the town centre, is the strangest individual house in a town full of strange houses. It is a hand-dug warren of low tunnels and chambers, every surface plastered with sculpture, signs, photographs, and decades of graffiti from visitors. Harry himself was a fixture of the local mining scene from the 1970s until his death.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 13.8292
 longitude: 20.8324
+score: 8.0
 ---
 
 The central market of Abeche is one of the most compelling in eastern Chad. It operates as a genuine frontier market, drawing traders from the desert fringes: Zaghawa camel herders leading strings of animals through the crowd, Arab merchants with piles of dried goods and fabric, and nomads from as far as Sudan selling livestock and leather. The market has a spontaneous, unscripted energy that the more touristic markets in N'Djamena lack.

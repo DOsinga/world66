@@ -6,6 +6,7 @@ tags:
 - day_trips
 latitude: 52.0116
 longitude: 4.3571
+score: 5.7
 ---
 
 Delft and The Hague sit side by side south of Amsterdam — 45 minutes by train — and combine well into a full day out.

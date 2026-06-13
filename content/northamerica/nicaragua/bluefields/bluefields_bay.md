@@ -8,6 +8,7 @@ tags:
   - boat
 latitude: 12.0
 longitude: -83.76
+score: 6.4
 ---
 
 Bluefields Bay is the large natural lagoon that the town looks out over — several kilometres of open water enclosed by low-lying jungle coast, with Rama Cay and other islands scattered in it. The bay is not a beach destination in the conventional sense: the town waterfront is a working dock area rather than a swimming beach, and the lagoon water itself is murky from river sediment. What the bay offers is a working Caribbean waterscape — fishing boats, water taxis heading to Rama Cay and Pearl Lagoon, the occasional coastal freighter — and the particular sensation of a town that has its back to the land and its face to the water.

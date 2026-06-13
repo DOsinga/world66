@@ -8,6 +8,7 @@ tags:
 - museum
 title: Parque Explora
 type: poi
+score: 7.2
 ---
 
 A red-clad block of interactive science museum on the north side of the city, next to the [Jardín Botánico](/southamerica/colombia/medellin/jardin_botanico). Hands-on physics, dinosaurs, a 3D cinema, a vivarium with Colombian reptiles, and a freshwater aquarium devoted to Amazon and Orinoco basin species — the largest in South America. Built deliberately for families and packed at weekends; quieter on weekday mornings.

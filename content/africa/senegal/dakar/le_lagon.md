@@ -8,6 +8,7 @@ tags:
   - restaurant
 snippet: "Long-running seafood restaurant on stilts over the harbour, classic Dakar night out"
 address: "Route de la Petite Corniche Est"
+score: 5.5
 ---
 
 Le Lagon 1 sits on a pier over the water on the eastern Corniche, near the port — a thatched, slightly faded but reliably good seafood restaurant that has been a Dakar fixture since the 1960s. The setting is the appeal: open sides, tables right above the lapping water, the harbour lights coming on over dinner.

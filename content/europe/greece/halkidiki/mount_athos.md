@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Mount Athos has been continuously inhabited by Orthodox monks for over a thousand years, and an imperial edict from 1045 — the so-called Avaton — still bars women, female animals, and beardless boys from setting foot on the peninsula. Boats are even forbidden to approach within 500 metres of the coast with a female passenger on board."
+score: 9.3
 ---
 
 The eastern of Halkidiki's three peninsulas is the autonomous monastic republic of Mount Athos — twenty Orthodox monasteries strung along sixty kilometres of cliff and forest, with a 2,033-metre marble peak rising at the southern tip. Access is severely restricted: only male visitors with a four-day diamonitirion permit may enter, with about a hundred permits issued per day.

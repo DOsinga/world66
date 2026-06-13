@@ -8,6 +8,7 @@ tags:
 latitude: 44.8887
 longitude: 1.2158
 snippet: "The main square of Sarlat's medieval centre, site of the Saturday market"
+score: 8.2
 ---
 
 The Place de la Liberté is the heart of Sarlat — an elongated square bordered by golden limestone facades, the 17th-century town hall, and the side wall of the cathedral. It is the natural gathering point and the site of the famous Saturday market that takes over the surrounding streets from early morning.

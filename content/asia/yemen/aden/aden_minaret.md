@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 12.776
 longitude: 45.038
+score: 7.0
 ---
 
 The Minaret of Aden — also called the Manarat Aden or simply the old minaret — is a 13th-century tower standing on a hillside in central Crater, all that survives of a Rasulid-era mosque destroyed long ago. The shaft is octagonal, slightly tapering, with bands of decorative brickwork; the original cap is gone, replaced by a flat top.

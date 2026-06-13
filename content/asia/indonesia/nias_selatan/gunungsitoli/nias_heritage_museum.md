@@ -8,6 +8,7 @@ latitude: 1.2833333333333332
 longitude: 97.61666666666666
 story: >
   Nias Island has a megalithic culture that is among the most intact surviving examples in the world. Stone-jumping — young men leaping over a 2-metre stone pillar as a rite of passage into warrior status — is still practised in the southern villages of Bawömataluo and Hilisimaetanö. The ancestor figures, war shields, and throne-chairs in the museum were made for actual use, not for display; many were collected from village chiefs' houses over decades by the museum's founding priests of the Salesian Catholic mission.
+score: 8.7
 ---
 
 The Nias Heritage Museum (Museum Pusaka Nias) in Gunungsitoli is the best introduction to Nias Island's remarkable megalithic culture. The collection includes traditional stone ancestor figures (adu zatua), carved wooden throne-chairs used by village chiefs (osa-osa), war shields and weapons, traditional jewellery, and documentary photographs of traditional village life from the early 20th century.

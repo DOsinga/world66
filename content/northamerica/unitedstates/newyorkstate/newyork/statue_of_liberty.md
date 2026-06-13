@@ -14,6 +14,7 @@ story: >
   who failed it were sent back on the next ship. It is estimated that about 40% of Americans
   can trace at least one ancestor through Ellis Island — which means the registry records,
   accessible online, are among the most genealogically significant documents in American history.
+score: 9.3
 ---
 
 The Statue of Liberty stands on Liberty Island in New York Harbour, visible from lower Manhattan and the Staten Island Ferry. The crown and torch are accessible only by advance reservation (book weeks ahead in summer); the grounds and museum are accessible with a ferry ticket alone. The ferry from Battery Park takes about 15 minutes and the trip across the harbour is itself one of the better experiences in New York.

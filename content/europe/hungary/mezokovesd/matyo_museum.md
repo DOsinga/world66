@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.8156
 longitude: 20.5694
+score: 8.4
 ---
 
 The Matyó Museum holds the most comprehensive collection of Matyó folk costume, embroidery, and ethnography in the country. The displays trace the development of the embroidery from simple white-on-white work to the explosively colourful floral style that made Mezőkövesd famous in the late nineteenth and early twentieth centuries.

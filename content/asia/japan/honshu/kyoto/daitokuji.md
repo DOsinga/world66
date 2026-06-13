@@ -8,6 +8,7 @@ tags:
 - sight
 title: Daitoku-ji
 type: poi
+score: 8.9
 ---
 
 Daitoku-ji is a walled monastic complex in north-west Kyoto containing more than twenty sub-temples, several of them open to the public. It was founded in 1315 and grew under the patronage of the unconventional fourteenth-century abbot Ikkyū Sōjun (the same Ikkyū later imagined as a child-monk hero in postwar Japanese cartoons) into one of the most influential Zen institutions in the country, deeply connected to the development of the tea ceremony — the great tea master Sen no Rikyū studied here, and is buried in one of the sub-temples.

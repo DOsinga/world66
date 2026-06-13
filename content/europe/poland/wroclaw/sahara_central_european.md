@@ -7,6 +7,7 @@ tags:
 latitude: 51.111
 longitude: 17.035
 address: "Kuźnicza 31, 50-138 Wrocław"
+score: 5.5
 ---
 
 A long-running Egyptian-Lebanese restaurant in the centre, one of the few good Middle Eastern places in the city. The hummus, kofta, falafel and grilled chicken are the staples; mezze platters work well for groups. Mint tea served properly.

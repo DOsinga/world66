@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
   - downtown
+score: 5.7
 ---
 
 A tiny but well-curated free museum on the side of the Tucson Station, covering the role of the Southern Pacific in turning Tucson from a Mexican border town into a small American city. Photographs, dining-car china, brakemen's lanterns, and dispatch logbooks.

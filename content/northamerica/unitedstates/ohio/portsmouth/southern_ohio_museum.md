@@ -7,6 +7,7 @@ tags:
 snippet: "Regional art museum with a notable collection of Clarence Carter paintings"
 latitude: 38.7345
 longitude: -82.9954
+score: 6.8
 ---
 
 The Southern Ohio Museum, housed in a converted 1918 bank building on Gallia Street, is the only serious art museum in the area. Its core holding is a large collection of works by Clarence Holbrook Carter, a Portsmouth native and important American regionalist painter, donated by the artist's estate.

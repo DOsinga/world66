@@ -13,6 +13,7 @@ story: >
   and scenes from the Old Testament, while the upper basin carries statues of saints and civic
   figures. For centuries it was the most costly artistic commission the city had ever undertaken,
   a statement of Perugia's independence and wealth at the height of its communal power.
+score: 9.1
 ---
 
 The Fontana Maggiore stands at the centre of Piazza IV Novembre — and at the centre of everything that Perugia does well. Built between 1275 and 1278, it is one of the finest medieval fountains in Italy: two pink-and-white marble basins covered in reliefs by Nicola and Giovanni Pisano, depicting the months, the zodiac, Aesop's fables, and biblical scenes with a vitality that doesn't feel 750 years old.

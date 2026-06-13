@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -2.528
 longitude: -44.3
+score: 6.3
 ---
 
 São Luís has a small but growing craft beer scene, and Cervejaria do Ribamar is the most established local producer, making beers that use Maranhão ingredients — tucupi, cupuaçu, and various regional fruits — in their recipes. Their taproom near the historic centre is a relaxed place for an afternoon beer, and the *tucupi sour* is genuinely interesting.

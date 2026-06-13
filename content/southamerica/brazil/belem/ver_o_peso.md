@@ -14,6 +14,7 @@ story: >
   heart of Belém: rows of stalls piled with exotic fish, medicinal herbs, alligator teeth, river
   turtles, and fresh açaí hauled in by boat from the estuary. Arrive early in the morning when
   the catch is fresh and the vendors are at their loudest.
+score: 9.2
 ---
 
 The market spills across several blocks of the Cidade Velha waterfront, split between the iron-roofed fish market, the fruit and vegetable stalls, and the herb sellers who will confidently prescribe a remedy for any ailment. The cast-iron structure dates to 1901, and the four distinctive turrets have become the symbol of the city.

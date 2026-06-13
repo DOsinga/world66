@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - market
 snippet: A small Saturday morning market with regional produce, baked goods, and live music
+score: 6.1
 ---
 
 The **Scenic Rim Farmers Market** runs on Saturday mornings in the centre of Beaudesert, with stalls selling olives, cheese and yoghurt from the surrounding dairy country, free-range pork, jams, sourdough, and seasonal fruit and vegetables from the Logan Valley farms. It is small — half a dozen rows of stalls in good weather — but a useful sample of the region and a fixture for locals.

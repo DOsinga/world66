@@ -12,6 +12,7 @@ story: >
   wind but has never fallen. Japanese soldiers during the Second World War
   reportedly tried to topple it as a morale-breaking gesture; they tied
   cables to it and pulled with a gunboat. The rock refused to move.
+score: 8.9
 ---
 
 Dongshan Peninsula (东山岛) is an island county at the southern tip of Fujian, connected to the mainland by a causeway. Its coastline has some of the best beach scenery in the province: sandy bays backed by granite outcrops, sea stacks, and arches in the characteristic red-orange rock that gives the area its Danxia landscape character. The Mazu Temple at Tongling has been a sailors' and fishermen's shrine for several centuries; the offshore views from the headland beside it are excellent.

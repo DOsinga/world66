@@ -7,6 +7,7 @@ tags:
   - coffee
 latitude: 8.8300
 longitude: -82.9700
+score: 7.2
 ---
 
 The highlands around San Vito are coffee country, and the farms here carry an unusual origin story. In the 1950s, a group of Italian immigrants — many of them from the Veneto region — arrived with a government concession and set about clearing forest to plant coffee. The Coto Brus valley turned out to be well-suited: elevation around 1,000 metres, reliable rain, rich volcanic soil. The cooperatives and family farms they founded still operate today.

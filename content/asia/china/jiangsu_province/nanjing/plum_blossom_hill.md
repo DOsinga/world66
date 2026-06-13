@@ -9,6 +9,7 @@ tags:
 - garden
 - seasonal
 story: The Plum Blossom Hill was part of the grounds of the Ming Xiaoling Tomb complex; the blossoms were planted as landscaping around the emperor's burial site. The irony of one of China's most festive seasonal attractions occupying an imperial grave complex is not lost on local visitors, who come in their thousands regardless.
+score: 7.5
 ---
 
 Plum Blossom Hill (梅花山) is a garden and hillside at the foot of Purple Mountain, planted with over 35,000 plum trees. In late February and early March, the hillside blooms in waves of white, pink, and red, attracting visitors from across Jiangsu and neighbouring provinces. Nanjing considers itself the plum blossom capital of China, and the annual blossom season is the city's most celebrated natural event.

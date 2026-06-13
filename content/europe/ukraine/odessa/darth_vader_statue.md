@@ -14,6 +14,7 @@ story: >
   A local art collective proposed — and the city approved — replacing Lenin's head with
   Darth Vader's helmet. The swap happened in 2015. The statue now contains a working
   Wi-Fi router in its base, accessible to anyone who sits in the nearby park.
+score: 4.6
 ---
 
 One of Odessa's most photographed landmarks is a full-height statue of Darth Vader — formerly a statue of Lenin — on the corner of Korolova and Staroportofrankivska Street. The transformation happened in 2015 after Ukraine's decommunisation law required the removal of Soviet monuments. Rather than simply demolishing it, the city allowed a local artist to cap the Lenin figure with a Vader helmet, creating an instant tourist attraction.

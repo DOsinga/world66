@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Michelin-recognised contemporary Andalusian on Calle Fermín Palma."
+score: 6.9
 ---
 
 Casa Antonio is the most ambitious kitchen in Jaén — contemporary Andalusian cooking that respects local ingredients but plates them with serious craft. Pedro Sánchez has held a Michelin star here for years (and has opened the standalone two-star Bagá next door for those who want to spend more).

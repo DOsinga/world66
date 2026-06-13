@@ -6,6 +6,7 @@ longitude: 60.6536
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 In the suburb of Verkhnyaya Pyshma, 15 km north of the city, an extraordinary open-air collection of Soviet military hardware spreads across 30 hectares. Tanks, anti-aircraft systems, fighter jets, cosmonaut capsules, armoured trains — over 500 exhibits in total, all maintained in working order or close to it.

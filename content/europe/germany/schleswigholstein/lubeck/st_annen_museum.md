@@ -7,6 +7,7 @@ snippet: Medieval and modern art in a converted Augustinian convent
 tags:
 - things_to_do
 - museum
+score: 8.5
 ---
 
 The St Annen Museum complex occupies what was once an Augustinian convent founded in 1502 and dissolved in the Reformation. The two-storey cloister and refectory now house Lübeck's main collection of medieval art — altarpieces stripped from city churches at the Reformation, Bernt Notke's painted panels, gilded shrines, and a remarkable group of carved Madonnas.

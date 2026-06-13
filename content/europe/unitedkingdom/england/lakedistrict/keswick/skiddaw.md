@@ -8,6 +8,7 @@ tags:
   - mountain
 latitude: 54.6473
 longitude: -3.1467
+score: 9.1
 ---
 
 The huge slate dome rising directly behind Keswick is Skiddaw, the fourth-highest mountain in England at 931 m. From its summit you can see the Solway Firth, the Galloway hills, and the entire central Lake District laid out in folded ranks below.

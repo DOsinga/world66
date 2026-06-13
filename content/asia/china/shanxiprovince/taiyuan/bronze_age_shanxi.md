@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.865
 longitude: 112.5264
+score: 8.3
 ---
 
 The Bronze Age galleries of the Shanxi Museum are worth treating as a separate visit even for those who have already seen the museum's general collection. The material comes from the Jin-state tombs excavated in the Houma and Tianma-Qucun areas south of Taiyuan — aristocratic burials from roughly 1000 to 500 BCE that contained some of the most spectacular ritual bronzes, jade, and lacquerwork ever found in China.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - el_silencio
   - museum
+score: 8.2
 ---
 
 The Bolivarian Museum stands next door to the Casa Natal de Simón Bolívar and the two are usually visited together. While the Casa Natal is the period-furnished birthplace, the museum holds the substantial collection: Bolívar's own pistols, military sabres, personal correspondence, the bed he died in (transported back from Santa Marta in the nineteenth century), and the casket that brought his remains home in 1842.

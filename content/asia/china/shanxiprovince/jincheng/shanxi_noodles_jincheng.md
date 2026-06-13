@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.4910
 longitude: 112.8510
+score: 6.2
 ---
 
 Jincheng has its own noodle traditions within the broader Shanxi canon. The local version of daoxiao mian — knife-cut noodles shaved directly from a block of dough — is typically served with a braised pork and tomato sauce or a clear lamb broth, and the noodle texture here tends to be slightly thicker and chewier than in Taiyuan. Small noodle shops around the city centre, particularly in the streets near the Yuhuang Temple, serve the most reliable versions from early morning through midday.

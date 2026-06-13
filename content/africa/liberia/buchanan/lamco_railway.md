@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 5.8836
 longitude: -10.0480
+score: 5.9
 ---
 
 The LAMCO railway runs 267 km from the iron-ore mountain at Yekepa, near the Guinean border, down to the Port of Buchanan. Built in the early 1960s by a Swedish-American consortium, it was one of the largest engineering projects of its era in West Africa, crossing dense forest, rivers and hill country to get the ore to tide-water.

@@ -4,6 +4,7 @@ type: poi
 snippet: "Relaxed Thai beach town, easy weekend escape from Bangkok"
 latitude: 12.799834
 longitude: 99.96621
+score: 6.0
 ---
 
 Cha Am is a low-key beach town about 160 km south of Bangkok, popular with Thai families on weekend getaways. The beach stretches for several kilometers along a palm-lined road, with seafood vendors, deck chairs for rent, and a relaxed atmosphere that contrasts with the more developed Hua Hin just 25 km to the south.

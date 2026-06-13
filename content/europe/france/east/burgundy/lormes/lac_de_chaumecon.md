@@ -12,6 +12,7 @@ story: >
   elevation and surrounded by Morvan forest, the lake runs cold enough that
   even in July the water takes some getting used to; hardy swimmers treat this
   as a selling point.
+score: 7.5
 ---
 
 Lac de Chaumeçon is an artificial reservoir about 7 kilometres east of Lormes, created by damming the Chalaux river in the forested hills of the Morvan. It stretches four kilometres through the trees, with a small island towards the eastern end, and the surrounding woodland keeps the banks wild-feeling despite being easily accessible by car.

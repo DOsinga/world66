@@ -5,6 +5,7 @@ snippet: "Old episcopal town on the south side of the valley with a striking hil
 tags: [things_to_do, sight, town]
 latitude: 41.1008
 longitude: -7.81
+score: 7.7
 ---
 
 Lamego is a small bishopric town about ten kilometres south of Régua, on the higher ground above the Douro. It has been important since the Visigothic period — there has been a cathedral here since the 12th century — and the old town below the castle hill is pleasant for an hour's wander among narrow streets, granite houses and small squares.

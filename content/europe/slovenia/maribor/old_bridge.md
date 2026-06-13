@@ -8,6 +8,7 @@ tags:
 latitude: 46.5558
 longitude: 15.6459
 snippet: "Steel pedestrian bridge across the Drava connecting the old town to the north bank"
+score: 6.2
 ---
 
 The Old Bridge (Stari most) crosses the Drava River between the Lent promenade and the Studenci district on the north bank. The current structure dates from the mid-20th century — earlier bridges on this crossing were destroyed or deteriorated — but it serves the same function as the river crossing that has existed here since the city's founding. The bridge is pedestrian and cycling only, which makes it a pleasant place to stop and look both up and down the river.

@@ -15,6 +15,7 @@ story: >
   created on what was otherwise a treeless island. The castle later passed to
   Lord Leverhulme, the soap magnate, who had ambitious plans to industrialise
   the islands — plans the islanders largely rejected.
+score: 7.5
 ---
 
 Lews Castle is a turreted Victorian pile on the western edge of Stornoway, built in 1847 and surrounded by the only substantial woodland on Lewis — the Woodland Trust now manages the Castle Grounds as a community forest. The castle itself was restored and opened as the **Museum nan Eilean** in 2016, telling the story of the Western Isles from prehistory to the present day. The Lewis Chessmen — the famous set of 12th-century Norse chess pieces found on the island in 1831 — are represented here by replicas (the originals are split between the British Museum and the National Museum of Scotland).

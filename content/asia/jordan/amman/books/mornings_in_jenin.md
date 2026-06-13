@@ -5,6 +5,7 @@ type: poi
 tags:
   - books
 isbn: "978-1608193875"
+score: 5.7
 ---
 
 Susan Abulhawa's novel follows four generations of a Palestinian family from their village in northern Palestine through the 1948 Nakba, to a refugee camp in Jenin, and eventually to the Palestinian diaspora. It is sentimental in places but its account of the daily reality of Palestinian refugee life — including life in Jordan, where many Palestinian families rebuilt their existence — is vivid and useful for understanding the population that makes up so much of modern Amman.

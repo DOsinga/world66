@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.5
 ---
 
 The southern end of Seminyak's beach takes its name from the legendary (and long-defunct) Double Six nightclub that once stood here. The strip of sand between Jalan Arjuna and the Legian end is busy with surfers — the break is shallow, fast, and beginner-friendly — and at dusk fills with beanbags, fire-show performers, and Bintangs.

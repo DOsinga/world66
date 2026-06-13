@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 snippet: 1860s courthouse and gaol, now galleries and studios
+score: 6.9
 ---
 
 ArtGeo occupies the cluster of stone-and-brick colonial buildings on Queen Street, built between 1860 and 1896 as Busselton's courthouse, police station, gaol, and bond store. The Vasse magistrate's court ran here until 1971; the cells in the gaol block kept some of the original iron-strapped doors.

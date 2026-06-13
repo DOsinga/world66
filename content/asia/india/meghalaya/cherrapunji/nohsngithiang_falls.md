@@ -10,6 +10,7 @@ story: >
   The Seven Sisters waterfall drops over 315 metres in seven parallel streams — which is why it's named for the seven states of northeast India. It is at its most dramatic in August during the peak of the monsoon, when all seven sections flow simultaneously; in the dry season some may reduce to trickles. The viewpoint is at the cliff edge looking south over the Bangladesh plains.
 sources:
   - https://en.wikipedia.org/wiki/Nohsngithiang_Falls
+score: 8.2
 ---
 
 Nohsngithiang Falls — also called the Seven Sisters Waterfall — is a spectacular seven-segmented waterfall near Mawsmai village, about six kilometres from Cherrapunji. The falls drop 315 metres over a broad cliff face into a gorge below, with seven separate streams visible from the viewpoint above when the monsoon is running at full force.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.1
 ---
 
 The old village of Benalmádena, perched in the hills about 280 metres above the coast, is the historic heart of the municipality and a relief from the resort strip below. Narrow whitewashed streets climb to the Plaza de España, where flower boxes and a small fountain make for a properly Andalusian square.

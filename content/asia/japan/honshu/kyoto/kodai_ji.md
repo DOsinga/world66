@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kōdai-ji
 type: poi
+score: 8.2
 ---
 
 Kōdai-ji was founded in 1606 by *Nene* — Lady Kita-no-mandokoro — in memory of her husband, the warlord Toyotomi Hideyoshi, who had died eight years earlier. The temple was designed and decorated by some of the best artists of the early Edo period (the garden by Kobori Enshū, the lacquerware by craftsmen of the imperial workshop) and survives in something close to its original form despite a series of fires elsewhere on the grounds.

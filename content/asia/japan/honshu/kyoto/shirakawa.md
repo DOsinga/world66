@@ -8,6 +8,7 @@ tags:
 - sight
 title: Shirakawa
 type: poi
+score: 7.4
 ---
 
 Shirakawa ("white river") is a small canal running east–west through the northern part of Gion, lined with cherry trees, willows, and a row of two-storey wooden tea houses with low stone walls. It is more atmospheric and considerably less crowded than the main Hanamikōji a few blocks south, and the views down the canal in cherry-blossom season are some of the most photographed in Kyoto.

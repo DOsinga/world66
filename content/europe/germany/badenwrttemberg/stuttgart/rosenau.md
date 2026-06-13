@@ -8,6 +8,7 @@ tags:
 - nightlife
 title: Rosenau
 type: poi
+score: 5.3
 ---
 
 A Stuttgart institution since the 1980s, the Rosenau is a cultural venue and bar in the city center near Feuersee. The program mixes live jazz, world music, readings, and comedy nights, with a relaxed bar area that fills up after shows. The building — a converted 19th-century bathhouse — has character, and the courtyard garden is a draw in summer.

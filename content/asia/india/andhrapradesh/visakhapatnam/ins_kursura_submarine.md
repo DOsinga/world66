@@ -11,6 +11,7 @@ story: >
   covering over 40,000 nautical miles during its operational life. After decommissioning it was converted
   into this beachside museum — one of only a handful of submarines in the world that have been preserved
   as museums on dry land, and the only one in India.
+score: 8.1
 ---
 
 The INS Kursura, a decommissioned Indian Navy submarine, has been beached on the RK Beach promenade and converted into one of the more unusual museums in India. Visitors walk through the full length of the vessel — torpedo tubes, control room, sleeping quarters, and engine room — with exhibits explaining the mechanics of submarine warfare and the vessel's operational history.

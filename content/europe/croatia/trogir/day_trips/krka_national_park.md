@@ -11,6 +11,7 @@ story: >
   The Krka River has been carving through the Šibenik hinterland for thousands of years, depositing calcium carbonate as it falls and building up the stepped travertine barriers that create the series of waterfalls and lakes. The most visited section, around Skradinski Buk, has a wooden boardwalk that loops through and around the falls — giving visitors the impression of walking on water in the middle of a roaring cascade.
 sources:
   - https://en.wikipedia.org/wiki/Krka_National_Park
+score: 8.8
 ---
 
 Krka National Park, about 50 km north of Trogir, centres on the Krka River and its series of travertine waterfalls. Skradinski Buk, the lower cascade, is the most accessible and most visited: the boardwalk through the falls is one of the most dramatic short walks in Croatia, with water thundering on all sides and kingfishers darting through the spray. Swimming in the pools below the falls was a long-standing tradition and is still permitted at designated spots, though restrictions have tightened in recent years.

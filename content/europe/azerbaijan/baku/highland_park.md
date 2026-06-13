@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.5
 ---
 
 Highland Park, known locally as Dağüstü Park or sometimes Upland Park, sits on the ridge directly below the Flame Towers and offers the best panoramic view in Baku — out across the Old City, the curve of the bay, and the seafront boulevard. It's a five-minute funicular ride from Neftchilar Avenue, or about fifteen minutes' walk up the steep paths from the Old City.

@@ -7,6 +7,7 @@ tags:
 latitude: 50.3608
 longitude: 7.5980
 story: "The Augenroller is supposedly modelled on Johann Lutter von Cobern, a sixteenth-century robber knight executed in the square in 1536. Local tradition says the carved face still rolls its eyes at the spot where his head fell; the mechanism is in fact entirely modern."
+score: 5.9
 ---
 
 Set into the gable of the Altes Kaufhaus (the old market hall) on the Florinsmarkt, the Augenroller is a wooden grotesque face that rolls its eyes and sticks out its tongue every half hour, on the half hour. A bell strikes; the mechanism kicks in; passing tourists usually miss it.

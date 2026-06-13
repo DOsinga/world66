@@ -9,6 +9,7 @@ longitude: 21.0058
 snippet: "Bronze monument to the fighters of the 1944 Warsaw Uprising, near the Warsaw Rising Museum"
 sources:
   - https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument
+score: 7.1
 ---
 
 The Warsaw Uprising Monument, unveiled in 1989, depicts fighters of the Home Army during the 1944 Uprising — some emerging from a manhole cover that symbolises the sewers used to move between parts of the city, others advancing in the street. The figures are larger than life and rendered with great specificity; this is not an abstract monument but a very physical one.

@@ -6,6 +6,7 @@ longitude: 80.9948
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 On a rocky knoll above the western bund of Parakrama Samudra stands a 3.5-metre rock-cut figure of a bearded man holding what looks like a palm-leaf book or a yoke. Tradition has identified him as King Parakramabahu I, the builder of the reservoir behind him, although some scholars argue it is a sage or a portrait of the rishi Pulastya.

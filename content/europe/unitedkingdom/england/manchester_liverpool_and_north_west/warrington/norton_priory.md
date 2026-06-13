@@ -9,6 +9,7 @@ address: "Tudor Road, Manor Park, Runcorn WA7 1SX"
 latitude: 53.3600
 longitude: -2.6700
 story: "Norton Priory is the most excavated monastic site in Europe. When archaeologists began digging in 1971, they uncovered the complete ground plan of a 12th-century Augustinian priory — foundations, cloister, chapter house and all — buried intact beneath centuries of farmland."
+score: 8.9
 ---
 
 The remains of a medieval Augustinian priory founded in 1134 and dissolved in 1536, now managed as a museum and garden by an independent charitable trust. The excavated ruins are remarkable in their completeness — the foundations of the church, cloister walks, and domestic ranges are all visible — and the on-site museum explains the monastic life that played out here over four centuries.

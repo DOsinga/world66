@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.7195
 longitude: -116.3823
+score: 5.9
 ---
 
 The view from the top floor of the Gardens on El Paseo, with the Santa Rosa Mountains stretching south and west, is the headline. The cooking is straightforward upscale seafood — oysters on ice, miso black cod, sashimi-grade tuna, a credible bouillabaisse — and the room is energetic without being loud.

@@ -13,6 +13,7 @@ tags:
 - sight
 title: Drvengrad (Küstendorf)
 type: poi
+score: 8.3
 ---
 
 On Mećavnik Hill above Mokra Gora, director Emir Kusturica built a village from scratch — entirely out of wood — as a home, a film set, and an ongoing creative project. The result is eccentric and charming: winding lanes of wooden buildings named after cultural heroes (streets named after Bruce Lee, Che Guevara, Ingmar Bergman), a small orthodox church, a cinema, a hotel, and a picture gallery that is genuinely good.

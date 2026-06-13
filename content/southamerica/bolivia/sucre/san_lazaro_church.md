@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Believed to be the first church built in Sucre, founded 1538
+score: 7.2
 ---
 
 San Lázaro is reputedly the first church established in Sucre, traditionally dated to 1538, the year the Spanish founded the city as La Plata. The current building dates from later restorations but preserves the simple single-nave plan and squat bell tower typical of the earliest colonial churches in Bolivia. It sits a few blocks north-east of the central plaza on a small square named after it.

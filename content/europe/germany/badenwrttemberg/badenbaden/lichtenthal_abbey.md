@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7453
 longitude: 8.2556
+score: 7.4
 ---
 
 Lichtenthal Abbey is a Cistercian nunnery founded in 1245 by Margravine Irmengard of Baden, who is buried here. It has been in continuous operation for nearly eight centuries — one of the few medieval foundations in southwestern Germany that survived the Reformation, secularisation, and two world wars without being shut.

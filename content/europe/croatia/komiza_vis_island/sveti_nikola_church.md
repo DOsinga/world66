@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0506
 longitude: 16.0872
+score: 7.1
 ---
 
 The Church of St Nicholas sits on the waterfront at Komiža and is the town's oldest surviving building, with parts of it dating back to the 13th century. Nicholas is the patron saint of fishermen, and the church's position directly on the harbour gives it an intimate connection with the fishing community that has always defined Komiža.

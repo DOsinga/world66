@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - museum
+score: 7.1
 ---
 
 The *Dharohar* — "Heritage" — Museum occupies the old Customs House on the Mandovi waterfront, a Portuguese-era building that served the same function for two centuries. The displays are the unclaimed seized property of the Indian Customs Department, spanning everything from antiquities and ivory to confiscated artworks, contraband currency, and counterfeit liquor.

@@ -6,6 +6,7 @@ longitude: -8.6308
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 Tucked into Pery Square, opposite the People's Park, is a small but unusual monument — two cast bronze busts on a low plinth, set face to face. The two figures are George W. Bush and Tony Blair, and the plaque underneath is a roll of the Iraqi and coalition dead from the 2003 war. The sculpture, by Irish artist Mick O'Dea, was installed in 2009 and is officially titled the "Iraq War Memorial," though most of the city calls it the Anti-War Memorial.

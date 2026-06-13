@@ -7,6 +7,7 @@ tags:
 - promenade
 title: Samaná Malecón
 type: poi
+score: 6.4
 ---
 
 The waterfront promenade running along the bay is the heart of Samaná town life. Restaurants and bars line the inland side; fishing boats, charter boats, and the pelicans that loiter on the moorings line the seaward side. Sunset over the bay, with the karst islands of Los Haitises picked out in silhouette, is the daily set piece.

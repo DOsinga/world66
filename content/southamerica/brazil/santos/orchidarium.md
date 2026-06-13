@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.3
 ---
 
 The Orquidário Municipal de Santos, opened in 1945, is a small zoo and orchid garden a few blocks back from the beach. It has a respectable collection of tropical orchids in a glasshouse, plus enclosures of Brazilian birds, monkeys, alligators, and (the local favourites) two-toed sloths.

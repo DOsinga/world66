@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 52.3571
 longitude: 5.2285
+score: 7.1
 ---
 
 The 60-hectare site on the southern shore of the Weerwater hosted the **Floriade 2022**, the once-a-decade Dutch horticultural world expo. The theme was *Growing Green Cities* and the site was laid out as a grid of garden plots — one for every letter of the alphabet — with a wooden food forest, a cable car, and pavilions from forty countries.

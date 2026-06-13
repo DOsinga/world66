@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.318775
 longitude: 57.526294
+score: 7.5
 ---
 
 The hand-crafted wooden model ship is one of Mauritius's most distinctive exports, and Curepipe is one of the main centres of the trade. Craftsmen build scale replicas of famous sailing vessels — the Bounty, HMS Victory, the Endeavour, 18th-century frigates and galleons — using camphor wood, with individually shaped hull planks, hand-turned masts, and rigging strung from real thread. A large, complex model can take months to build.

@@ -9,6 +9,7 @@ latitude: -28.1174
 longitude: -57.2882
 story: >
   The creation of Iberá National Park in 2018 was the culmination of nearly 20 years of patient land acquisition and rewilding work by the Conservation Land Trust, founded by the American conservationists Doug and Kristine Tompkins. They began buying former cattle ranches in 1999 and eventually donated the assembled properties — totalling 195,000 hectares — to the Argentine state. It was one of the largest private conservation donations in history.
+score: 9.4
 ---
 
 Iberá National Park, formally established by Argentine Congress in December 2018, covers nearly 200,000 hectares of wetland, marsh, savannah, and gallery forest in Corrientes Province. It sits within the much larger Iberá Provincial Reserve, creating a protected complex that represents South America's most ambitious rewilding experiment.

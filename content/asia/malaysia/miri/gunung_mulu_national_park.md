@@ -9,6 +9,7 @@ longitude: 114.8125
 story: "Sarawak Chamber, discovered by British and Malaysian cavers in 1981, is the world's largest underground cave chamber — 600 metres long, 415 metres wide, and at least 80 metres high. Its unsupported roof span of 300 metres means you could park 40 Boeing 747s inside it, wing-tip to wing-tip."
 sources:
   - https://en.wikipedia.org/wiki/Gunung_Mulu_National_Park
+score: 9.6
 ---
 
 Gunung Mulu National Park, a UNESCO World Heritage Site since 2000, is a 30-minute flight from Miri (MASwings runs daily Twin Otter services). It contains some of the most spectacular cave systems in the world, embedded in 528 square kilometres of dense Borneo rainforest.

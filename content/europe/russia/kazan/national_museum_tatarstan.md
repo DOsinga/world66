@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - kremlin_district
+score: 8.0
 ---
 
 The National Museum of the Republic of Tatarstan occupies the late-19th-century Gostiny Dvor (trading rows) on Kremlyovskaya Street, just south of the Kremlin's main gate. The collection covers the region from prehistoric times through the Volga Bulgar state, the Khanate of Kazan, and the Russian and Soviet periods.

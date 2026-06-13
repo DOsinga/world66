@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Sultan's Express
 type: poi
+score: 5.7
 ---
 
 A no-frills Middle Eastern counter near downtown Lansing, Sultan's Express turns out solid shawarma, falafel, and hummus made from fresh ingredients. The juice bar is a nice bonus. Portions are filling and prices are fair, making it a reliable lunch stop. They also handle catering if you're planning an event.

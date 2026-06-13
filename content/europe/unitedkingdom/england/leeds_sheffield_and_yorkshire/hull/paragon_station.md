@@ -7,6 +7,7 @@ tags:
 title: Paragon Interchange
 type: poi
 snippet: "Combined railway station and bus terminal under a sweeping Victorian glass roof, with a bronze of Philip Larkin"
+score: 7.5
 ---
 
 Hull Paragon Interchange combines the railway terminus and the bus station under one of the best surviving Victorian train sheds in Britain. The station opened in 1848 and was rebuilt in the 1900s with the iron and glass overall roof you walk under today. The bus station was bolted on in the 2000s, sensitively enough that the original architecture still leads the eye.

@@ -5,6 +5,7 @@ latitude: 9.1911
 longitude: 12.4996
 tags: [sight]
 story: Founded in 2005 by Atiku Abubakar, the former vice-president of Nigeria, on the model of liberal arts colleges in the United States. The university played an unusually visible role during the Boko Haram insurgency, hosting displaced families and running humanitarian programmes from its Yola campus.
+score: 5.4
 ---
 
 A private university on the southern edge of Yola, modelled on the American liberal arts campus. The grounds are unusually green and orderly for a Nigerian institution, with a large library, a hospital, and the city's most reliable conference and seminar facilities.

@@ -8,6 +8,7 @@ snippet: The downtown arena, home of the Cleveland Cavaliers
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The downtown arena originally known as Gund Arena and most recently as Rocket Mortgage FieldHouse — and now simply Rocket Arena — has been the home of the Cleveland Cavaliers (NBA) since 1994. A 2019 renovation added a glass-walled atrium on the south side and reorganised the concourse around an expanded promenade.

@@ -7,6 +7,7 @@ snippet: The rebuilt square around the Frauenkirche — Dresden's old town rebor
 tags:
 - things_to_do
 - sight
+score: 7.3
 ---
 
 The Neumarkt is the historic market square at the heart of Dresden's old town, and its reconstruction over the past two decades is one of the most ambitious urban rebuilding projects in Germany. The focal point is the Frauenkirche, which dominates the square from the south, but the square itself — ringed by restored Baroque and Neoclassical facades — tells a story about how Dresden has chosen to remember and rebuild.

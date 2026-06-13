@@ -5,6 +5,7 @@ tags: [things_to_do, sight, beach, nature]
 latitude: 42.2143
 longitude: -8.8994
 story: "The Cíes Islands were declared a National Park in 2002, but they had been protected long before — in Roman times they were known as the Insulae Deorum (Islands of the Gods). The Guardian newspaper voted Rodas beach on the Cíes the world's best beach in 2007, and the turquoise water and powder-white sand make it easy to see why. Only 2,200 visitors are permitted per day in summer, and you must book your ferry ticket in advance."
+score: 9.4
 ---
 
 Three uninhabited islands forming the mouth of the Ría de Vigo, the Islas Cíes are one of the great natural treasures of Spain. Access is by seasonal ferry from Vigo's passenger terminal — the journey takes about 45 minutes. Once there, the options are simple: swim, walk the trails through pine and eucalyptus forest, snorkel in the clear water, or eat at the single campsite-restaurant on the island.

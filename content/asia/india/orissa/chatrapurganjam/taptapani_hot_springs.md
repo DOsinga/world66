@@ -7,6 +7,7 @@ tags:
 latitude: 19.7333
 longitude: 84.3333
 snippet: "Sulphurous hot springs in the Eastern Ghats forest, 50km inland"
+score: 7.5
 ---
 
 Taptapani is a set of natural hot springs in the forested hills of the Eastern Ghats, about 50 kilometres inland from Chatrapur. The water emerges at around 60°C from a rock fissure and flows into bathing pools that have been in use for centuries. A small Odisha Tourism Development Corporation (OTDC) resort sits alongside, with a warm-water swimming pool fed by the springs.

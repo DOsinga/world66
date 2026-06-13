@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Cerreto_Guidi
+score: 6.0
 ---
 
 The parish church of Santo Stefano stands in the central piazza alongside the Medici Villa, forming the historic heart of the town. The church dates to the medieval period and was modified over the following centuries. Its interior holds a number of works in the local Tuscan tradition, including votive paintings and devotional sculpture typical of small-town churches in the Florentine hinterland. The façade and bell tower overlook the piazza where the town's weekly market is held.

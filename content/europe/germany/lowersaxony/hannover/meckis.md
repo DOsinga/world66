@@ -12,6 +12,7 @@ tags:
 - nightlife
 title: Mecki's
 type: poi
+score: 5.9
 ---
 
 A dim, candle-lit jazz cave with patina on the walls and Agathe — a shop-window mannequin — hanging from the ceiling. Mecki himself runs the place and bans techno on principle. Live jazz most nights, sometimes from name musicians who happen to be in town, sometimes from Mecki himself when the mood strikes. The kind of bar that has not changed in twenty years and does not intend to.

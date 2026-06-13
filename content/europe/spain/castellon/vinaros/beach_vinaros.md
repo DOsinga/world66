@@ -6,6 +6,7 @@ tags:
 - sight
 title: Vinaròs Beach
 type: poi
+score: 6.4
 ---
 
 Vinaròs has two small beaches north and south of the port, sandy and generally uncrowded compared to the major resorts further south on the Costa del Azahar. The Playa Norte (north beach) is slightly larger; both have clear water and lifeguard cover in summer. The seafront promenade (Passeig Marítim) connects them and is the town's main evening passeggiata.

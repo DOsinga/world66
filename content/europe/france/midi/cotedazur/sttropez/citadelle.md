@@ -9,6 +9,7 @@ latitude: 43.2726
 longitude: 6.6424
 story: >
   The citadel was built in the early 17th century to defend the port from Spanish raids, and during World War II it became a place of grim significance: on 15 August 1944, Allied forces landed on the beaches near St Tropez as part of Operation Dragoon, and the citadel saw the town change hands within hours. A monument in the old naval museum honours the 133 American sailors killed in the Gulf of Saint-Tropez during those landings.
+score: 8.4
 ---
 
 The Citadelle is the one place in St Tropez that puts the whole spectacle below into perspective. Built in the early seventeenth century and topped by a distinctive hexagonal keep, it sits above the town on a rocky promontory and offers the best views of the harbour, the gulf, and the mountains of the Maures behind. The ramparts are well-preserved and free to walk.

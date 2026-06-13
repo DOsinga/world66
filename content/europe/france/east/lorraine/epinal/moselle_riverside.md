@@ -8,6 +8,7 @@ tags:
   - walking
 title: "Moselle Riverside"
 type: poi
+score: 6.0
 ---
 
 The Moselle gives Epinal its softest edge. Paths and bridges along the water make an easy walk, especially in the evening when the town centre begins to quiet down.

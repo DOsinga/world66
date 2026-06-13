@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - archaeological_site
+score: 5.8
 ---
 
 The pyramid of Zawyet el-Maiyitin is a small step pyramid of the Third or early Fourth Dynasty, one of a series of provincial step pyramids built across Egypt by an early Old Kingdom king. Its function is debated — there are no burial chambers, and it may have been a symbolic structure marking royal presence in the provinces rather than an actual tomb.

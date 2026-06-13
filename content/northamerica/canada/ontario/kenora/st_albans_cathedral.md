@@ -8,6 +8,7 @@ tags:
 - architecture
 title: St Alban's Cathedral
 type: poi
+score: 6.5
 ---
 
 St Alban's is a small Gothic Revival stone cathedral built between 1900 and 1905, the seat of what was the Anglican Diocese of Keewatin (which covered much of northwestern Ontario and Manitoba). The interior has a notable hammer-beam roof and several memorial windows to early missionaries. The building was given cathedral status in 1903.

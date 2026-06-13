@@ -16,6 +16,7 @@ story: >
   moved the remains to Seville — but whether it was truly Columbus in that
   casket has been disputed by historians ever since. DNA testing in 2006
   suggested the remains in Seville may not be Columbus at all.
+score: 8.3
 ---
 
 The Catedral de San Cristóbal de La Habana is the most ornate church in Old Havana, its asymmetric baroque facade — two towers of different sizes, a swooping curved front — one of the most photographed in the Caribbean. It was built by the Jesuits between 1748 and 1777, and the asymmetry of the facade is not a mistake but a deliberate adaptation to the uneven colonial lot the Jesuits were given.

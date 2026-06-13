@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
 story: "Barbara Hepworth was born here in 1903, the daughter of a county surveyor, and the city has had a long, slightly proprietorial relationship with her work. When she died in 1975, her studio in St Ives held an extraordinary collection of plasters — the working models used to make her bronzes. Most museums had passed on them; Wakefield took the lot, and they form the spine of the permanent collection here."
+score: 8.9
 ---
 
 The Hepworth Wakefield opened in 2011 in a building by David Chipperfield, a low, faceted concrete pavilion on the south bank of the River Calder that looks as if a series of dark grey blocks has been pushed against each other. The galleries inside, lit only from above, have the calm sequencing of a Roman bath complex.

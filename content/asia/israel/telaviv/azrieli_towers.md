@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.0741
 longitude: 34.7926
+score: 6.9
 ---
 
 The Azrieli Towers are the three signature skyscrapers — circular, triangular, and square in plan — of central Tel Aviv, standing over the largest shopping mall in the city centre. They were completed in 1999 and remain the most-photographed skyscraper composition in Israel.

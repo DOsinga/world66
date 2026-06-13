@@ -10,6 +10,7 @@ tags:
 - sight
 title: Hermitage of San Giovanni all'Orfento
 type: poi
+score: 8.6
 ---
 
 The Hermitage of San Giovanni all'Orfento is one of the Majella's most evocative religious sites, cut into the rock above the Orfento valley near Caramanico Terme. It is not grand architecture; the power is in the setting.

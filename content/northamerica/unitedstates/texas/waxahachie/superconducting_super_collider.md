@@ -15,6 +15,7 @@ story: >
   spring.
 sources:
   - https://en.wikipedia.org/wiki/Superconducting_Super_Collider
+score: 4.8
 ---
 
 The strangest landmark in Ellis County is the one you cannot see. In the late 1980s the US Department of Energy chose a site south-west of Waxahachie for the Superconducting Super Collider, an 87-kilometre underground particle accelerator that was supposed to keep American physics ahead of CERN. Above-ground laboratory buildings went up, shafts were sunk, and tunnel-boring machines began carving an oval ring through the chalk beneath the cotton fields.

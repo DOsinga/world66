@@ -13,6 +13,7 @@ story: >
   inside the crater fills and drains repeatedly depending on volcanic activity;
   on some visits the caldera holds water, on others it is dry. The crater is
   almost a mile across.
+score: 9.0
 ---
 
 Mount Karthala rises 2,361 metres from the southern third of Ngazidja, its massive shield shape dominating the entire island. The trek to the summit is the signature outdoor experience in the Comoros, taking six to eight hours through tropical forest, shrub land, and bare volcanic rock. The caldera at the top — one of the largest active calderas in the world at nearly 4km wide — is extraordinary: a moonscape of lava fields and fumaroles surrounding a depression that sometimes holds an acidic lake.

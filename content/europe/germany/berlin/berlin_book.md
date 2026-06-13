@@ -8,6 +8,7 @@ tags:
 title: Berlin
 type: poi
 snippet: "Sweeping narrative history of Berlin between two unifications"
+score: 2.2
 ---
 
 **From Publishers Weekly**

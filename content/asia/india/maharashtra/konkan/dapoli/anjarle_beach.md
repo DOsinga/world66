@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 17.7653
 longitude: 73.0869
+score: 7.5
 ---
 
 Anjarle is a long, uncrowded beach on the north side of Dapoli, accessible via a road through the Konkan countryside. The beach is less developed than many comparable spots on the Maharashtra coast — there are a handful of homestays and guesthouses in the village behind the beach, but very little else in the way of tourist infrastructure.

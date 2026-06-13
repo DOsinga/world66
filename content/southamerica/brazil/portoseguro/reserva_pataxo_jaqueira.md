@@ -8,6 +8,7 @@ tags:
   - sight
   - indigenous
 story: "The reserve was established in 1997 by Pataxó elders who wanted to recover and teach traditional knowledge — language, body painting, plant medicine, the *Awê* circle dance — to a younger generation that had grown up almost entirely in the cash economy of nearby Porto Seguro."
+score: 8.5
 ---
 
 A 700-hectare Atlantic Forest reserve managed by the Pataxó indigenous community, about ten kilometres inland from Porto Seguro. Guided visits introduce traditional plant use, archery, body painting with *jenipapo* and *urucum*, and the Pataxó language; a meal of fish or chicken cooked in banana leaves and *beiju* (cassava flatbread) is part of the standard tour.

@@ -11,6 +11,7 @@ story: >
   The Loreley legend was invented in 1801 by the poet Clemens Brentano, who wrote a poem about a beautiful woman sitting on the rock and combing her golden hair, distracting sailors to their doom. The story had no previous existence in folklore, but the image caught on so powerfully that within decades it was being recounted as ancient myth. Heinrich Heine's 1823 version, set to music by Friedrich Silcher, became one of the best-known German songs.
 sources:
   - https://en.wikipedia.org/wiki/Lorelei
+score: 8.4
 ---
 
 The Loreley is a 132-metre slate cliff rising sheer from the river at the narrowest point of the Rhine Gorge, where the current is swift and the channel shallow — genuinely dangerous for boats before the river was properly charted. The rock juts from the right bank near St. Goarshausen, its silhouette visible for kilometres upstream and downstream.

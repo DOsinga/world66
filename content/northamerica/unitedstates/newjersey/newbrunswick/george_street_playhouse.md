@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - theatre
+score: 7.5
 ---
 
 George Street Playhouse is a regional theatre company that punches well above its station. Founded in 1974, it has premiered work that went on to Broadway and the Tony Awards — most famously "The Toxic Avenger" musical and "I Am My Own Wife." Today it shares the New Brunswick Performing Arts Center on Livingston Avenue with Crossroads Theatre.

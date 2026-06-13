@@ -7,6 +7,7 @@ tags:
 - sight
 title: Monte di Portofino Trails
 type: poi
+score: 9.0
 ---
 
 The Monte di Portofino headland is protected as a regional natural park, and Camogli is its best starting point for hiking. The network of well-maintained paths traverses the headland through pine and olive groves, cistus, and rosemary, with frequent views down to the sea. The most popular route from Camogli is to San Fruttuoso — about 7 km one way, taking roughly two hours at a comfortable pace, with a descent to the abbey and beach at the end. From there, ferries run back to Camogli so you don't need to retrace your steps.

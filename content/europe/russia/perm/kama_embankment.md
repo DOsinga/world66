@@ -12,6 +12,7 @@ story: >
   is in flood in spring, the embankment becomes a spectacle: the Kama
   can rise ten metres above its summer level, covering the lower terraces
   entirely and making the city look almost like a port town.
+score: 6.3
 ---
 
 The Kama River embankment is the main promenade in Perm, stretching along the river for several kilometres below the city centre. In summer, it fills with locals walking, cycling, and sitting on the stepped terraces that descend toward the water. In winter, sections freeze over and are used for skating.

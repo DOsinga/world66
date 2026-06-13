@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 21.3858
 longitude: -157.7528
 story: "By tradition the temple was built by the menehune — a legendary people of small stature said to have raised great stone works overnight. Whoever built it, the structure is a 140-by-180-foot stone platform constructed without mortar, with stones reportedly carried by a chain of workers stretching back to Kāneʻohe."
+score: 8.1
 ---
 
 Ulupō Heiau is the largest surviving pre-contact temple platform on the windward coast and one of the more atmospheric sights in Kailua. It sits, almost incongruously, behind the Windward YMCA — a stepped platform of dry-laid stones, around 9 metres high, on the edge of Kawainui Marsh.

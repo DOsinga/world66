@@ -8,6 +8,7 @@ tags:
 latitude: 30.452
 longitude: 78.033
 snippet: Ruined residence of the surveyor who gave his name to the world's highest peak
+score: 8.0
 ---
 
 About six kilometres west of Mussoorie on the Park Estate Road, the ruined residence and laboratory of Sir George Everest stands on a ridge spur with panoramic views in three directions. Everest was the Surveyor General of India who supervised the Great Trigonometric Survey of the subcontinent in the 19th century — the survey that eventually calculated the height of Peak XV and determined it to be the tallest mountain on Earth. The peak was later named after him, against his own wishes.

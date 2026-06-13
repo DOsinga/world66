@@ -6,6 +6,7 @@ longitude: 73.7250
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Jhelum River is not just the city's backdrop — it is the reason the city exists, and the reason this particular stretch of the Punjab has been strategically important for more than two thousand years. The Greeks called it the Hydaspes. In 326 BCE, Alexander the Great crossed it in a night march upstream of the main Macedonian camp, bringing his cavalry and infantry across in a pre-dawn operation to outflank the army of King Porus, who had positioned his war elephants along the opposite bank to prevent exactly such a crossing. The battle that followed was the last and hardest of Alexander's campaign — after it, his troops refused to go further east, and the great march turned back at last. The river changed the shape of the known world.

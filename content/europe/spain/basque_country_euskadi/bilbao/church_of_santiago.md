@@ -10,6 +10,7 @@ tags:
 - sight
 title: Cathedral of Santiago
 type: poi
+score: 7.0
 ---
 
 The fourteenth-century Gothic cathedral at the heart of the Casco Viejo is Bilbao's oldest surviving building of note. The interior is relatively austere, in keeping with Basque religious tradition, but the cloister is a calm refuge from the busy streets outside. The cathedral is one of the stopping points on the northern Camino de Santiago route.

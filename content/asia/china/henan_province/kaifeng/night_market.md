@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 34.7900
 longitude: 114.3450
+score: 8.0
 ---
 
 The night market area around Gulou Square in central Kaifeng is one of the best evening food scenes in Henan, expanding after dark into a sprawl of stalls serving the city's specialities. The most famous is baozi — steamed buns with various fillings, particularly the soupy xiaolongbao-style variants — but you'll also find osmanthus glutinous rice cakes (a Kaifeng signature), lamb kebabs, five-spice roasted meats, sweet mung bean soups, and a dozen varieties of noodles. The whole area is crowded and loud from about 6pm, which is exactly the point.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The oldest and largest university in Bulgaria, founded in 1888. The main building on Tsar Osvoboditel Boulevard is a Neo-Baroque palace of yellow stone, finished in 1934 with funds from the philanthropist brothers Evlogi and Hristo Georgiev — whose statues sit either side of the main entrance.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sagarmatha_National_Park
 story: >
   Sagarmatha National Park was established in 1976 and designated a UNESCO World Heritage Site in 1979 — partly for its natural significance and partly for its cultural importance as the homeland of the Sherpa people. The park boundary starts at the national park checkpoint at Monjo, a few hours' walk above Lukla. Every trekker pays a park entry fee here; the revenue funds trail maintenance and conservation work in a region where the sheer number of visitors creates significant environmental pressure.
+score: 9.0
 ---
 
 Sagarmatha National Park covers 1,148 square kilometres of the high Himalayan Khumbu region, encompassing three of the world's highest peaks — Everest (8,849m), Lhotse (8,516m), and Cho Oyu (8,188m) — as well as dozens of peaks above 6,000m. The park is a UNESCO World Heritage Site, recognised for both its extraordinary mountain environment and its cultural significance as the traditional territory of the Sherpa people.

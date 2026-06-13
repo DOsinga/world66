@@ -13,6 +13,7 @@ story: >
   like Broccostella developed their characteristic defensive layout — tight stone
   streets, a central church, walls that could be closed — in response to
   centuries of traffic and occasional violence on the valley floor below.
+score: 5.8
 ---
 
 Broccostella's medieval core sits on a ridge above the Comino Valley, its stone streets and piazza arranged in the compact pattern of a village that was built to be defensible. The parish church of Sant'Agata anchors the centre, and the surrounding lanes of stone-built houses have changed little in character over the centuries.

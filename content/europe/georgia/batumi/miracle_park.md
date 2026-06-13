@@ -7,6 +7,7 @@ tags:
 - park
 title: Miracle Park
 type: poi
+score: 5.5
 ---
 
 Miracle Park sits between the Alphabetic Tower and the Ali and Nino statue at the north end of the boulevard, and is the part of Batumi the new buildings cluster around. It is a planned, open green space with walking paths, palm trees, fountains, and a scattering of modern sculptures — including a sculpture of a chess piece that doubles as a children's plaything.

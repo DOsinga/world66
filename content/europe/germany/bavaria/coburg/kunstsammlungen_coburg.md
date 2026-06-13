@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.2670
 longitude: 10.9720
+score: 9.0
 ---
 
 The Kunstsammlungen Coburg — the Coburg Art Collections — are spread across two sites: the main holdings are in the Veste Coburg fortress above the town, with a branch at the Schloss Ehrenburg in the centre. Together they form one of the most significant art museums in northern Bavaria, with a collection that reflects centuries of ducal patronage and acquisition.

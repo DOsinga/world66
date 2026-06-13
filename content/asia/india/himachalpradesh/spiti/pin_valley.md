@@ -9,6 +9,7 @@ latitude: 31.9667
 longitude: 78.1833
 sources:
   - https://en.wikipedia.org/wiki/Pin_Valley_National_Park
+score: 8.8
 ---
 
 Pin Valley National Park protects the cold desert landscape of the Pin River catchment, a side valley that joins Spiti near Attargo village. Established in 1987, it covers 675 square kilometres of some of the most austere terrain on the Subcontinent — treeless brown mountains, narrow gorges, and a river that runs green-grey with glacial melt.

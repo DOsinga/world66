@@ -7,6 +7,7 @@ tags:
 latitude: 38.0393
 longitude: 14.0228
 story: "The 'Portrait of a Man' by Antonello da Messina that anchors the Mandralisca collection was originally the door of a triptych kept on Lipari. Baron Mandralisca spotted it in a pharmacy on the island, being used as a cupboard door. He bought it in 1840 and brought it to Cefalù, where it has stayed ever since. The subject's slight, knowing smile has led some art historians to call it the 'Sicilian Mona Lisa.'"
+score: 7.5
 ---
 
 The Museo Mandralisca on Via Mandralisca occupies the 19th-century palazzo of Baron Enrico Piraino di Mandralisca, a local nobleman, naturalist, and archaeologist who spent his life collecting curiosities. The collection ranges across ancient Greek vases, coins, Arab-Norman ceramics, shells, and natural history specimens — eclectic in the old-fashioned sense of someone who found everything interesting.

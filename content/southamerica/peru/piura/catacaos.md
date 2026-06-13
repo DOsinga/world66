@@ -10,6 +10,7 @@ story: >
   Catacaos is also known for its chicha de jora — a fermented maize beer with pre-Columbian roots. The traditional chicharras (chicha bars) in the village are often identified by a red or white flag hung outside the door, a custom that dates back centuries. The chicha here is made fresh daily and tastes nothing like the commercial versions sold in Lima.
 sources:
   - https://en.wikipedia.org/wiki/Catacaos
+score: 8.1
 ---
 
 Catacaos is a small town 12 kilometres south of Piura that is famous across northern Peru for its craftspeople. The main street is lined with stalls selling gold and silver filigree jewellery, straw hats (similar to Panama hats and just as finely woven), ceramics, and embroidered textiles — all produced locally. Prices are considerably lower than in Lima shops and the quality is high.

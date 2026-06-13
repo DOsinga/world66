@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 24.8144
 longitude: -107.4006
+score: 5.8
 ---
 
 Tres Rios is Culiacan's most ambitious modern urban project — a planned district built on reclaimed land where three rivers converge, with wide boulevards, a striking urban plaza, and a concentration of restaurants, shops, and office towers. It represents the city's aspirations as a modern regional capital and is notably different from the older colonial center.

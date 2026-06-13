@@ -8,6 +8,7 @@ tags:
 latitude: 37.3960
 longitude: 25.2673
 story: Delos was considered so sacred in antiquity that births and deaths were eventually forbidden on the island entirely — the dying and pregnant were ferried to the neighbouring island of Rhenia so as not to contaminate the sacred ground. At its commercial and religious peak in the 2nd century BC, Delos handled more slave trade than any other site in the ancient world, with up to 10,000 people sold there in a single day.
+score: 9.6
 ---
 
 The most important archaeological site within reach of Mykonos, and arguably one of the most significant in Greece. Delos is a tiny, uninhabited island just two kilometres offshore — according to Greek myth, the birthplace of Apollo and Artemis. For centuries it was the religious and commercial centre of the Aegean, home to temples, warehouses, a large civilian population, and one of antiquity's busiest slave markets.

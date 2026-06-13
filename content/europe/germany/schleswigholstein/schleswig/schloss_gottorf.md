@@ -17,6 +17,7 @@ tags:
 - sight
 title: Schloss Gottorf
 type: poi
+score: 8.7
 ---
 
 Schleswig's palace sits on a small island at the western end of the Schlei and houses the Schleswig-Holstein Landesmuseen — two serious state museums under one roof. The archaeology collection contains the Thorsberg finds, an extraordinary cache of Iron Age objects including preserved weapons, textiles, and the only complete Roman cavalry helmet found north of the Alps. The art and cultural history museum covers regional art from the Middle Ages through the 20th century. Budget at least two hours.

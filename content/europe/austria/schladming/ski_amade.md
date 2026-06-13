@@ -7,6 +7,7 @@ tags:
   - sight
 title: Ski amadé
 type: poi
+score: 7.8
 ---
 
 Ski amadé is the largest single-pass ski area in Austria, linking 760 kilometres of marked runs across 25 ski resorts in Salzburg and Styria. Schladming is one of its principal centres, and a Ski amadé pass gives access not only to the four mountains directly above the town — Planai, Hochwurzen, Hauser Kaibling, and Reiteralm — but to resorts as far away as Filzmoos, Wagrain, and Flachau.

@@ -10,6 +10,7 @@ tags:
   - wuchang
 neighbourhood: Wuchang
 story: "East Lake is roughly six times the size of West Lake in Hangzhou — China's most famous urban lake — yet relatively few foreign tourists know it exists. Mao swam in it forty-two times, and a villa on the lakeshore where he stayed is preserved as a museum."
+score: 8.6
 ---
 
 East Lake is the largest urban lake in China, covering about 33 square kilometres on the eastern side of Wuchang — bigger than the entire municipality of Macao. The shoreline is a series of parks, gardens, and quiet bays, with cycling and walking paths running the full perimeter for those willing to take a full day over it.

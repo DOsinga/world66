@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 6.7
 ---
 
 The Caracas Botanical Garden — 70 hectares wedged between the Universidad Central, the Río Guaire, and the autopista — was laid out in the 1940s under the direction of the Swiss botanist Henri Pittier. The collection emphasises Venezuelan native flora, particularly tropical orchids, bromeliads, and Caribbean palm species. The garden was designated a UNESCO World Heritage Site in 2000 as part of the Villanueva-designed Ciudad Universitaria.

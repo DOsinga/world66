@@ -8,6 +8,7 @@ tags:
 title: Van Cat House
 type: poi
 story: "The Van cat is unusual among felines for actively liking water — they will swim in the lake when the weather is warm. Their characteristic odd-eyed look (one blue, one amber) is the result of a recessive gene that also produces their pure white coat."
+score: 6.6
 ---
 
 The Van Cat (Van kedisi) is a regional breed and something close to a local mascot — white-coated, often odd-eyed, and uncommonly fond of swimming. Pure-bred Van cats are now rare and protected; the Van Cat Research and Application Centre at Yüzüncü Yıl University, on the western edge of the city, keeps a colony of around 100 of them.

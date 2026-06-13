@@ -7,6 +7,7 @@ snippet: A vegetarian and vegan favourite in a beautifully restored old house
 tags:
 - eating_out
 - restaurant
+score: 6.5
 ---
 
 Samsara Foodhouse is the city's most enduring vegetarian restaurant, in a handsome restored old house just off Piața Unirii. The menu is generous: Indian curries, Middle Eastern mezze, vegan burgers, and Romanian dishes recast without meat.

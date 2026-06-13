@@ -7,6 +7,7 @@ tags:
 latitude: 15.506
 longitude: 80.049
 story: "The Ongole bull is the genetic foundation of Brazil's Nelore cattle, which today number in the tens of millions. The first animals were shipped from this coast in the 1860s and 1870s and gave rise to one of the largest beef herds on the planet — a transformation almost no one in Ongole itself realises happened."
+score: 5.4
 ---
 
 Ongole is the headquarters of Prakasam district and the only town in the area large enough to call a city. It sits on the Chennai–Kolkata highway and railway line, about 100 km north of Nellore, and serves as the obvious base for visiting the district's temples and beaches.

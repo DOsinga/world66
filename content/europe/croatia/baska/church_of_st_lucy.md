@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "The Baška Tablet, discovered embedded in the church's floor in 1851, is one of the oldest surviving monuments of the Croatian language. Carved around 1100 AD in Glagolitic script — Croatia's own pre-Latin alphabet — it records a land grant by King Zvonimir to a Benedictine abbey. The original is in Zagreb; a replica stands inside the church."
+score: 8.4
 ---
 
 The small Romanesque Church of St. Lucy stands in Jurandvor, two kilometres inland from Baška along a flat road through vineyards. From the outside it looks unremarkable: a low stone building with a modest bell-cote, set among cypress trees. The interest is what was found inside.

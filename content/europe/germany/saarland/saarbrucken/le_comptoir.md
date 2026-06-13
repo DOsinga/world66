@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.2327
 longitude: 6.9963
+score: 5.6
 ---
 
 Le Comptoir is a brasserie on the St Johanner Markt that captures Saarbrücken's Franco-German character more neatly than most. The menu runs to steak frites, charcuterie, French onion soup, and Flammkuchen — the alsatian flatbread with crème fraîche and lardons that is the signature dish of this corner of Europe. The wine list leans heavily French.

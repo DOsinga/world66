@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.3530
 longitude: 76.7959
+score: 8.1
 ---
 
 Coonoor is 18 km south of Ooty and considerably less crowded, which makes it the better base for anyone interested in tea estates rather than tourist bustle. The surrounding slopes are covered in Nilgiri tea — the estates around Coonoor produce some of the most prized black tea in India, with a distinctive muscatel character unlike Darjeeling or Assam.

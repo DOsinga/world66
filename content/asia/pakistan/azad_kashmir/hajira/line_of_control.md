@@ -13,6 +13,7 @@ story: >
   of 1972 but has never been accepted by either side as a permanent
   international border — a legal ambiguity that has kept the Kashmir question
   unresolved for more than seven decades.
+score: 5.7
 ---
 
 The Line of Control lies only a few kilometres to the east of Hajira — close enough that military checkpoints are a routine part of the local landscape and the political geography is impossible to ignore. For travellers with an interest in contested borders and post-partition history, this proximity gives Hajira a particular character: you are at the edge of one of the world's longest-running territorial disputes.

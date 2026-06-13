@@ -7,6 +7,7 @@ address: F-6 Super Market
 tags:
   - bars_and_cafes
   - cafe
+score: 6.4
 ---
 
 Chaaye Khana is the most beloved local cafe chain in Islamabad — five branches around the city, the F-6 original being the busiest. The interior is bookshelves, mismatched wooden tables and dim lighting; the menu is loose-leaf Kashmiri pink chai, Karak doodh patti, gourmet versions of paratha rolls and a long all-day breakfast menu.

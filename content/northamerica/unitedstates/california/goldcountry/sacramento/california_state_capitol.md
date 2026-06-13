@@ -9,6 +9,7 @@ latitude: 38.5766
 longitude: -121.4939
 story: >
   The Capitol dome is modelled on the United States Capitol in Washington but has one significant upgrade: the rotunda floor is set with state seals in marble, and the basement holds a full-scale museum of California political history, including the restored offices of governors from the 1900s. Governor Ronald Reagan's original office survives intact.
+score: 8.8
 ---
 
 The grandest building in Sacramento, completed in 1874 in Italian Renaissance style with a distinctive copper-clad dome visible from much of downtown. It is fully open to visitors, which makes it more accessible than most state capitals — you can walk the floors of both legislative chambers, visit the restored Victorian-era committee rooms, and wander the rotunda without booking in advance (security screening required).

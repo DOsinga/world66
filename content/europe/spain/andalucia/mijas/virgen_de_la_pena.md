@@ -8,6 +8,7 @@ tags:
 latitude: 36.597
 longitude: -4.638
 snippet: Rock-hewn chapel carved into the cliff face, patron saint of Mijas
+score: 7.1
 ---
 
 The Sanctuary of the Virgen de la Peña is a small chapel carved directly into the rock of the cliff at the edge of Mijas Pueblo. According to local tradition, the image of the Virgin was hidden in the rock during the Moorish occupation and rediscovered centuries later, making the site one of the oldest places of Christian devotion in the village.

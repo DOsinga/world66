@@ -11,6 +11,7 @@ tags:
   - sight
   - park
 snippet: "1.6-km curving sand beach on Lake Champlain with the best swimming in the region"
+score: 7.5
 ---
 
 The best beach in Clinton County — a long crescent of fine sand on Cumberland Bay, with shallow water, no waves to speak of, and views east across Lake Champlain to Vermont and the Green Mountains. The water is genuinely warm in July and August (mid-20s°C, much warmer than the Atlantic at the same latitude), and the swim is one of the local summer institutions.

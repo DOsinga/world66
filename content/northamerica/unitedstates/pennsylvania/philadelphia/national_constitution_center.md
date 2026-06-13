@@ -8,6 +8,7 @@ latitude: 39.9505
 longitude: -75.1497
 snippet: "The only museum in the world dedicated solely to the US Constitution"
 story: "The center opened July 4, 2003 — exactly 227 years after the Declaration was signed. It is the only museum in the world dedicated solely to the US Constitution. Interactive exhibits let you take the presidential oath of office."
+score: 8.1
 ---
 
 At the north end of Independence Mall, the National Constitution Center makes a strong case for being the best starting point for any visit to Philadelphia's historic district. The building holds the original text of the Constitution and the Bill of Rights alongside a surprisingly engaging set of interactive exhibits that bring the founding debates to life. The centerpiece, "Freedom Rising," is a theatrical presentation that covers 225 years of constitutional history in eighteen minutes — far more stirring than it sounds.

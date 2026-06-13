@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 29.6800
 longitude: 116.0500
+score: 8.3
 ---
 
 Poyang Lake is the largest freshwater lake in China, and its northern shore is accessible from Jiujiang by bus or taxi in about an hour. The lake supports one of the most important wintering habitats for migratory birds in East Asia — hundreds of thousands of cranes, including the critically endangered Siberian Crane, arrive between November and March when the lake level drops and expose vast mudflats. In good years, concentrations of Siberian Cranes at the Poyang Lake National Nature Reserve are among the largest in the world.

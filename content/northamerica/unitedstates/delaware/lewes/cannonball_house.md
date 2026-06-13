@@ -9,6 +9,7 @@ tags:
   - history
   - historic_house
 story: "During the 1813 British naval bombardment of Lewes, a cannonball lodged itself in the foundation of this house and stayed there. It is still visible from the street, embedded just below the second-storey windowsill."
+score: 7.2
 ---
 
 The Cannonball House on Front Street is a late 18th-century captain's house that took a hit during the 1813 War of 1812 bombardment and never quite let go. The British, blockading Delaware Bay, demanded the town surrender provisions. The town refused. The Royal Navy spent two days lobbing shot at Lewes; most of it missed or did little damage, but several cannonballs hit houses, and the one in the foundation of this house is the most visible.

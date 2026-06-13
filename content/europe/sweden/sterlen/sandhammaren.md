@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.7
 ---
 
 Sandhammaren is a long arc of fine white sand near the southeasternmost point of Sweden, regularly named one of the finest beaches in Europe. It runs for several kilometres, backed by dunes that rise to 15 metres in places, with a small pine forest behind.

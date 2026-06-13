@@ -8,6 +8,7 @@ tags:
   - landmark
   - sight
 snippet: Red-and-white striped colonial lighthouse at the Mole, active since 1910
+score: 6.8
 ---
 
 The red-and-white striped lighthouse at the Mole is one of Swakopmund's most recognisable landmarks. Built in 1902 and heightened in 1910, it stands about 28 metres tall and is still operational as an active navigational aid — though the harbour that justified it never really functioned. On clear days it is visible for miles along the coast; on the fog-bound mornings that define much of the Swakopmund year, it disappears entirely, which is its own kind of atmosphere.

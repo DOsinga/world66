@@ -9,6 +9,7 @@ tags:
 - museum
 title: Goethe Museum
 type: poi
+score: 6.7
 ---
 
 The Goethe Museum occupies Schloss Jägerhof, a graceful Baroque hunting palace at the north end of the Hofgarten. The collection focuses on Johann Wolfgang von Goethe's life and work — manuscripts, first editions, portraits, and personal objects — and is one of the more intimate literary museums in Germany.

@@ -7,6 +7,7 @@ tags:
   - old_naples
 latitude: 26.1368
 longitude: -81.8054
+score: 5.8
 ---
 
 The Naples Beach Hotel is the oldest beachfront resort in the city, operating since 1946, and its open-air HB's on the Gulf bar is where you go for a drink with the Gulf of Mexico directly in front of you. The setting is the point — a thatched-roof bar on the sand, cold beer and frozen cocktails, pelicans and Gulf light, the kind of low-key tropical ambience that Naples' wealthier hotels sometimes try too hard to manufacture. This one just has it.

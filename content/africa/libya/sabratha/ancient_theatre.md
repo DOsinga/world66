@@ -15,6 +15,7 @@ story: >
   than strictly accurate, but standing in the orchestra and looking up at 96 columns
   rising against a backdrop of the Saharan coast and Mediterranean sky, it is hard
   to argue with the effect.
+score: 9.5
 ---
 
 The theatre of Sabratha was built in the late 2nd century AD under the Severan dynasty and could seat an audience of around 5,000. The scaenae frons — the elaborate three-storey screen behind the stage — is the defining image of the site: three tiers of columns in local limestone with carved marble friezes, reconstructed to their full height by Italian archaeologists in the 1920s and 30s. The columns bear Corinthian capitals and the wall is punctuated by niches that once held statues. When the light is right in the morning or late afternoon, the effect against sea and sky is extraordinary.

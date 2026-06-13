@@ -9,6 +9,7 @@ tags:
   - bar
   - music_venue
   - downtown
+score: 8.4
 ---
 
 The honky-tonk most musicians and locals will tell you to visit first. Robert's Western World on Lower Broadway started life as a country shirt and boot store in the 1990s; the boots and shirts are still on display, but the floor is now packed for live country and Western swing from 11 a.m. to 3 a.m., seven nights a week. The house band, **Brazilbilly**, has been performing here for over twenty years.

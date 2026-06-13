@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3736
 longitude: 16.7589
+score: 5.6
 ---
 
 An 18-hole championship golf course on the edge of Bük, designed in the 1990s and integrated with the four-star Greenfield Hotel resort next door. It is one of the better courses in western Hungary — wide fairways, mature trees, water on roughly half the holes, and a flat enough walk to enjoy at amateur pace.

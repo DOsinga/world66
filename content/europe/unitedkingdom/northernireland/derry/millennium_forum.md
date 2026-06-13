@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 54.997
 longitude: -7.320
+score: 5.8
 ---
 
 The Millennium Forum is the main theatre and conference venue in Derry, a purpose-built facility that opened in 2001. The 1,000-seat main auditorium hosts touring musicals, theatre productions, concerts, and pantomimes; a smaller studio space accommodates more intimate work. The programme is broad and populist by design — this is the primary entertainment venue for a city and its wider hinterland.

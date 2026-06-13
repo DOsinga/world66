@@ -7,6 +7,7 @@ tags:
   - sight
 title: Stadtkirche St Wenzel
 type: poi
+score: 7.6
 ---
 
 The Stadtkirche St Wenzel — the main Protestant parish church on the Marktplatz — is less famous than the cathedral but contains two remarkable objects. The Cranach altarpiece (1518), painted by Lucas Cranach the Elder, depicts the Passion of Christ and includes portraits of some of the Naumburg clergy of the day as witnesses. The organ was rebuilt in 1746, and Johann Sebastian Bach — then at Leipzig, an hour away — was brought in to test and approve it. He declared it excellent.

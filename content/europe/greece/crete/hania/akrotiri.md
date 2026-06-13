@@ -10,6 +10,7 @@ latitude: 35.5500
 longitude: 24.1167
 sources:
   - https://en.wikipedia.org/wiki/Akrotiri,_Chania
+score: 7.9
 ---
 
 The Akrotiri Peninsula juts northeast from Hania into the Sea of Crete, enclosing the bay on which the city sits. It has several good beaches (Stavros beach is particularly fine, with calm clear water), three historic monasteries, and some excellent fish restaurants. The peninsula is where Hania airport sits, which can make approaching it by road slightly confusing.

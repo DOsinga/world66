@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Fresh South Island seafood done simply
+score: 7.2
 ---
 
 A long-running seafood restaurant just off the lakefront focused on what comes out of the surrounding waters: Stewart Island blue cod, Marlborough king salmon, Bluff oysters in season, scampi from Otago. Cooking is restrained — pan-fried with brown butter, grilled, the occasional ceviche.

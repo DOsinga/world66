@@ -7,6 +7,7 @@ tags:
 latitude: 25.730000
 longitude: 32.612000
 snippet: "Hire a bicycle on the West Bank and explore the agricultural fringe between temples at your own pace"
+score: 7.2
 ---
 
 The West Bank of Luxor is flat near the Nile and hilly beyond the cultivation line, and the lower agricultural zone is well suited to exploring by bicycle. Hire shops are clustered near the West Bank ferry landing, and a half-day hire costs very little. The route between the main sites — the Colossi of Memnon, Medinet Habu, the Valley of the Queens, and the turn-off for the Valley of the Kings — can be cycled comfortably in a morning if you are not stopping at every site.

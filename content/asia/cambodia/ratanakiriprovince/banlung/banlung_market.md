@@ -6,6 +6,7 @@ longitude: 106.9883
 tags:
   - things_to_do
   - market
+score: 7.6
 ---
 
 The central market of Ban Lung is one of the most unusual in Cambodia — a low corrugated-iron building and open stalls where every morning the hilltribe people of Ratanakiri (Tampuan, Kreung, Jarai, Brao) bring forest produce in to sell: wild honey, mountain rice, river fish, baskets of unfamiliar greens, freshly slaughtered jungle pig.

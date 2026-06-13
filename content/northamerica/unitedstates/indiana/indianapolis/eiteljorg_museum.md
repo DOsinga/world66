@@ -6,6 +6,7 @@ longitude: -86.1681
 tags:
   - things_to_do
   - museum
+score: 8.5
 ---
 
 The only museum east of the Mississippi devoted to Native American and Western American art, with a strong holding of pieces by Georgia O'Keeffe, Frederic Remington, T.C. Cannon, Allan Houser, and contemporary Indigenous artists. The collection is unusually thoughtful in how it juxtaposes 19th-century Western painting against contemporary critique.

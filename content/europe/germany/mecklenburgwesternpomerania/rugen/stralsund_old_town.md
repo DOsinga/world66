@@ -6,6 +6,7 @@ longitude: 13.0816
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Hanseatic port of Stralsund sits on the mainland at the gateway to Rügen, just across the bridge. It is a UNESCO-listed brick-Gothic town with three towering medieval churches — St. Nikolai, St. Marien, St. Jakobi — and a beautifully restored Altstadt of stepped gables and cobbled streets.

@@ -8,6 +8,7 @@ tags:
 latitude: 42.8155
 longitude: 10.3295
 snippet: "The Medici-planned old town between the forts — stepped lanes, pastel houses, and the harbour-facing main piazza."
+score: 8.7
 ---
 
 Cosmopoli — "city of Cosimo" — is the name Cosimo I de' Medici gave to the new fortified town he founded here in 1548. The plan is still legible: a single main artery, the **Salita Napoleone**, climbs from the harbour up between the two forts, with a regular grid of cross-lanes branching off. The houses are simple but well-proportioned, painted in faded ochres and pinks, and the steep gradient means that most lanes are stepped rather than ramped.

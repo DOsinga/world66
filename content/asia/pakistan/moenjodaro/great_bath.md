@@ -14,6 +14,7 @@ tags:
   - sight
 title: The Great Bath
 type: poi
+score: 9.6
 ---
 
 The Great Bath is the most famous structure at Moenjodaro and one of the most remarkable ancient structures in South Asia. Measuring 12 metres by 7 metres, with walls still standing to nearly a metre, it was built around 2600 BC with a sophisticated waterproofing system of bitumen-sealed bricks. Steps at either end lead down into the pool. Around it ran a corridor and a series of smaller rooms — perhaps changing rooms, perhaps the quarters of priests.

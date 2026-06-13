@@ -7,6 +7,7 @@ tags:
 - sight
 title: Clift Park
 type: poi
+score: 7.4
 ---
 
 Clift Park is the small lakeside park where Genesee Street meets the water — the centre of village life in summer. Wednesday evening band concerts in the wooden gazebo, occasional sailing regattas just offshore, and a community swimming pier make it busy from June through August.

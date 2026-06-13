@@ -8,6 +8,7 @@ story: The gatehouse appears on the German two-euro coin and was for decades on 
 tags:
 - things_to_do
 - sight
+score: 8.9
 ---
 
 The Holstentor is the most photographed thing in Lübeck and the one image that flashes through anyone's mind when the city's name is spoken. The two squat round brick towers with their conical roofs flank a defensive gateway built in 1478, the only one of four medieval gates on the western side of the Altstadt to survive.

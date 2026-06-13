@@ -13,6 +13,7 @@ story: >
   rituals were certainly conducted here; the cave has yielded Thracian artefacts, and its
   roaring underground river seems to have been regarded as the boundary between the living
   and the dead.
+score: 9.0
 ---
 
 The Trigrad Gorge is the most dramatic landscape feature in the Rhodope Mountains: a narrow slot canyon carved by the Trigrad River through pale limestone cliffs that rise 300 metres above the narrow valley floor. The road through the gorge is barely wide enough for two cars passing; the walls close in to near-vertical above, and in the depths the river disappears entirely into the rock.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.5
 ---
 
 The Valle Grande reservoir sits at the top of the Atuel Canyon, the upper of two artificial lakes that step the river down toward San Rafael. Catamaran tours leave from a small pier on the lakeside — an easy hour-long loop that takes in the canyon walls from the water.

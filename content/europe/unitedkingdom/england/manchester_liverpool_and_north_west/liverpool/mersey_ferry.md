@@ -10,6 +10,7 @@ tags:
 - waterfront
 title: Mersey Ferry
 type: poi
+score: 7.3
 ---
 
 The Mersey ferries have crossed the river between Liverpool and the Wirral since the 13th century, though today's service is more tourist trip than commuter run. The 50-minute "Mersey River Explorer" cruise loops between Pier Head, Seacombe and Birkenhead with recorded commentary on the buildings, history and music of the city.

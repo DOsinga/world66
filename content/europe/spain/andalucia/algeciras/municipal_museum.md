@@ -10,6 +10,7 @@ story: >
   Among the museum's most striking objects is a collection of artefacts from the Roman fish-salting factories that once operated along the waterfront — a reminder that Algeciras has been a working port for over two millennia. The Romans processed garum here, a fermented fish sauce that was the ketchup of the ancient world, exported across the empire in amphorae that have been found as far away as Britain.
 sources:
   - https://en.wikipedia.org/wiki/Municipal_Museum_of_Algeciras
+score: 6.1
 ---
 
 The Municipal Museum of Algeciras occupies a building at the northern end of the Parque de las Acacias and holds collections covering the city's history from prehistoric times through the 20th century. The archaeological sections are the most interesting, documenting the Phoenician, Roman, and Moorish presence at this strategic maritime crossroads.

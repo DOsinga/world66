@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Poon_Hill
 story: >
   On a clear morning, the sunrise panorama from Poon Hill takes in Dhaulagiri I (8,167m), Tukuche, Nilgiri, Annapurna South, Hiunchuli, Annapurna I, Annapurna III, Machhapuchhre, Lamjung Himal, and Manaslu — a continuous wall of peaks above 7,000m stretching across the entire horizon. It is one of the widest and most accessible Himalayan panoramas available without technical climbing, and it is genuinely overwhelming the first time you see it.
+score: 8.2
 ---
 
 Poon Hill (3,210m) is the most-visited viewpoint in the Annapurna region and one of the iconic short treks in Nepal. The Ghorepani–Poon Hill loop takes three to five days from Nayapul near Pokhara, climbing through dense rhododendron forest to the ridgeline village of Ghorepani (2,860m) before ascending to the hilltop viewpoint at dawn. The sunrise here, with the full Annapurna and Dhaulagiri ranges turning pink against a black sky, is one of the finest mountain views in the world.

@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 17.6658
 longitude: -61.7903
+score: 6.4
 ---
 
 Highland House is the shell of an 18th-century colonial mansion that once served as the headquarters of the Codrington family, who leased the entire island of Barbuda from the British Crown between 1685 and 1870. At its peak the estate managed hundreds of enslaved workers producing cotton and livestock. The ruins — thick stone walls, arched doorways, the outline of a substantial building — stand alone on the Barbuda Highlands plateau, surrounded by dry scrub.

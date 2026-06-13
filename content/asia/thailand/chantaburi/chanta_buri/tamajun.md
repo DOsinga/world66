@@ -7,6 +7,7 @@ tags:
 snippet: "Riverside Thai restaurant with a terrace over the water"
 latitude: 12.6105
 longitude: 102.1095
+score: 6.3
 ---
 
 Tamajun occupies a restored wooden shophouse on the waterfront community street, with a small dining terrace built out over the river. The kitchen does central Thai food well — sour curry with sea bass, prawn cakes, stir-fried morning glory — and uses river fish when they have it.

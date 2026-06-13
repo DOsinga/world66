@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7066
 longitude: 44.5146
+score: 5.8
 ---
 
 The Cathedral of Our Lady of Kazan is the main Orthodox church of Volgograd, a large white-and-gold structure with blue domes that was rebuilt and expanded following the Soviet period. The original church on this site was destroyed; the current building dates from the post-Soviet reconstruction era and is one of the largest Orthodox churches in the Volga region.

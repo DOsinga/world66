@@ -14,6 +14,7 @@ story: >
   ladies, several monks, and a group of nuns. Most of the tiny Buddhas carved
   on the walls have lost their heads to looters; the bodies remain, row upon
   row, in a kind of fractured magnificence.
+score: 8.1
 ---
 
 The Wanfo Cave, carved in 680 CE, is one of the most densely populated spaces at Longmen. Its walls are covered with tiny seated Buddhas arranged in registers so tight they look like wallpaper from a distance; the effect close up is of an infinite, formally ordered multiplication of the same gesture of meditation. Despite centuries of looting that removed most of the heads, the remaining bodies and the relief frieze running around the base of the walls retain their Tang-dynasty vitality and precision.

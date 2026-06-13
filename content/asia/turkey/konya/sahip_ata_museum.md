@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Small ethnography museum in the dervish lodge of the Sahib Ata complex"
+score: 6.8
 ---
 
 The Sahip Ata Museum occupies the rebuilt thirteenth-century dervish lodge attached to the Sahib Ata mosque. The collection focuses on objects from the lodge's original function as a Mevlevi tekke — manuscripts, calligraphy, ceremonial robes, prayer rugs, and musical instruments used in the sema ritual — alongside a more general ethnographic display of clothing, jewellery, and domestic items from the Konya region.

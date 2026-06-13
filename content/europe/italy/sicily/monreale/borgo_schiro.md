@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.0750
 longitude: 13.2650
+score: 6.5
 ---
 
 Borgo Schiro is an abandoned village in the hills of the Monreale municipality, built during Mussolini's agricultural reform programme of the 1930s. The regime constructed dozens of these borghi rurali across Italy and Sicily in the fascist period, intended to house rural workers and showcase the productivity of reclaimed land. Borgo Schiro was built but eventually depopulated as the region's agriculture changed and people moved to the cities.

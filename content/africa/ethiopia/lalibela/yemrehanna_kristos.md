@@ -8,6 +8,7 @@ latitude: 12.1678
 longitude: 38.9511
 story: >
   Yemrehanna Kristos predates the Lalibela churches by around a century, built during the earlier Zagwe dynasty. Unlike the rock-hewn churches in town, it is constructed from alternating courses of wood and white-plastered stone in the Axumite style — the same technique used in palaces and churches a thousand years earlier. Behind the church, the cave is filled with the mummified remains of pilgrims who died here and were interred in the sacred site: thousands of bodies stacked along the cave walls, some with their grave goods still beside them.
+score: 9.0
 ---
 
 Yemrehanna Kristos is a 12th-century church built inside a cave about 35 kilometres northwest of Lalibela. The cave itself, a high natural chamber in the limestone escarpment, would be remarkable even without the church — the structure inside it, constructed in Axumite style with horizontal bands of olive wood and white plaster, is extraordinary. It predates King Lalibela's rock-hewn churches and represents an earlier phase of Zagwe dynasty building.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 A small wooden fisherman's chapel in the hamlet of Barsta on the coast south-east of Nordingrå, built in 1652 and largely unaltered since. The interior — painted by Roland Johansson Öberg in the 1730s — is an astonishing piece of folk baroque, walls and ceilings covered with biblical scenes in warm reds and ochres.

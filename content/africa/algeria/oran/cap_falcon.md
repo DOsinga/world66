@@ -6,6 +6,7 @@ longitude: -0.7472
 tags:
   - beaches
   - beach
+score: 6.2
 ---
 
 Cap Falcon is a low rocky cape about 25 km west of Oran, marking the boundary of the bay. The beaches here — sheltered coves backed by sandstone cliffs — are quieter than the closer-in city beaches and the water is much cleaner. The cape itself has a small lighthouse and an Ottoman-era watchtower; both are derelict but the views are worth the short walk.

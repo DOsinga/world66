@@ -11,6 +11,7 @@ tags:
 - shibuya
 title: Bic Camera
 type: poi
+score: 6.0
 ---
 
 Bic Camera is a Japanese electronics chain with a store right at Hachiko Plaza, a minute's walk from Shibuya station's scramble crossing. The store spreads across multiple floors and covers the full range of consumer electronics: cameras, computers, smartphones, audio equipment, home appliances, and gaming gear.

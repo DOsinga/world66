@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Compendium
 type: poi
+score: 5.2
 ---
 
 On Plaza Bolivar in Cartagena's walled city, Compendium offers a curated selection of Colombian artesanías — handwoven mochilas, ceramics, jewellery, and other crafts sourced from artisans around the country. It's a good one-stop shop if you want quality souvenirs without haggling through multiple street vendors.

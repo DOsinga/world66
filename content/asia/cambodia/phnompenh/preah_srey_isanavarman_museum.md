@@ -7,6 +7,7 @@ tags:
 title: Preah Srey Isanavarman Museum of Economy and Money
 type: poi
 snippet: Cambodia's monetary history in the elegant former National Bank
+score: 7.5
 ---
 
 A small but engaging museum inside the original 1920s National Bank of Cambodia, restored when the new bank tower opened next door. The displays trace Khmer currency from Funan-era barter to the riel — including the strange episode of the Khmer Rouge years, when money was abolished entirely and the central bank building blown up.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.7658
 longitude: -118.1643
+score: 6.9
 ---
 
 The Long Beach Museum of Art occupies a 1912 Craftsman-style house on a bluff overlooking Bluff Park and the Pacific Ocean. The museum's permanent collection focuses on California art from the early twentieth century onward, with particular strengths in video art — it was an early adopter of video as a medium and holds one of the better video art collections in the country.

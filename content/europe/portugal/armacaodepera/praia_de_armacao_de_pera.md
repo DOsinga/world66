@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.6
 ---
 
 The main beach is a wide, gently shelving arc of pale sand that stretches for kilometres west from the village. It is one of the longest continuous sand beaches on the Algarve and, unlike the cliff coves on either side, it is fully accessible from the seafront promenade.

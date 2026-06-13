@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 snippet: Late-night basement bar with a strict vinyl-only DJ booth
+score: 6.1
 ---
 
 A small basement bar off Cow Lane where the DJ booth plays vinyl only, six nights a week. The crowd is the after-midnight one — ski-season workers, off-shift hospitality, the occasional curious traveller — and the room runs deep into the early hours. Cocktails are competent rather than ambitious.

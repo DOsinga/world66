@@ -6,6 +6,7 @@ longitude: 4.0362
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Porte d'Avallon is the surviving medieval gate at the entrance to the upper village. Built into the old ramparts, it carries the village's coat of arms and frames a postcard view back down the rue Principale toward the church tower. A second, smaller gate — the Porte d'En-Bas — closes the lower end of the same street.

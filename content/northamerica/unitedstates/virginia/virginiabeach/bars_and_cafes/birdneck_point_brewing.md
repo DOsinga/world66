@@ -1,6 +1,7 @@
 ---
 title: "The Virginia Beach Craft Beer Scene"
 type: poi
+score: 5.8
 ---
 
 Virginia Beach has developed a genuine craft beer scene over the past decade, anchored by several breweries within the city limits and a short hop from others in the Norfolk metro area. The local taprooms tend to be informal, family-friendly spaces that welcome the beach-vacation demographic without pandering to it — wood interiors, long communal tables, and rotating tap lists that reward return visits.

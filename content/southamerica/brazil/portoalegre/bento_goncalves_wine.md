@@ -5,6 +5,7 @@ tags:
 - sight
 title: Bento Gonçalves and the Vale dos Vinhedos
 type: poi
+score: 8.1
 ---
 
 Bento Gonçalves, about 120 kilometres north of Porto Alegre, is the capital of Brazilian wine — a declaration that would have been laughable thirty years ago and is now defensible with a straight face. The **Vale dos Vinhedos** wine region around the town holds Brazil's first and only DOC appellation, awarded in 2012 for wines made from Merlot, Cabernet Franc, and Chardonnay grapes grown in the hills settled by Italian immigrants in the 19th century. The wines are not yet internationally famous but they have improved enormously and several estates — **Miolo**, **Cave de Amadeu**, **Pizzato** — now produce genuinely good bottles.

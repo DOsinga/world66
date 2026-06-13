@@ -14,6 +14,7 @@ story: >
   first kayak memory on this river; it was for many years the training ground
   for competitive Polish kayakers and is still the benchmark by which other
   Mazurian rivers are judged.
+score: 9.0
 ---
 
 The Krutynia is the classic kayak river of the Mazurian Lakes: a slow-moving, forest-edged waterway that winds through eleven lakes over about 100 kilometres from its source to Lake Roś. The standard multi-day kayak route — typically done over four to six days — begins at Sorkwity or Krutyń village and finishes at Ruciane-Nida, passing through state forest, quiet lakes, and villages with campsites at reasonable intervals.

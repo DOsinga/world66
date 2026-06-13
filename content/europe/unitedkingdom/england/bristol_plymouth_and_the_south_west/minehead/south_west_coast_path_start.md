@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 630-mile path was originally a coastguard patrol route, walked every day to spot smugglers landing brandy and tobacco from across the Channel. The full walk from Minehead to South Haven Point at Poole takes most people around eight weeks; the record is held by Mark Berry, who ran it in just over ten days."
+score: 7.1
 ---
 
 A large bronze sculpture of two open hands holding a map marks the official start of the South West Coast Path on Minehead's seafront, just past the harbour. From here, 630 miles of waymarked path run round the entire peninsula to Poole in Dorset — England's longest National Trail and one of the great long-distance walks in Europe.

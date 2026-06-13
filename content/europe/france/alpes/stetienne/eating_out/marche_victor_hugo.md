@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 45.4388
 longitude: 4.3862
+score: 7.5
 ---
 
 Saint-Étienne's covered market, open Tuesday through Sunday mornings, is the best place in the city to eat cheaply and well. The stalls run to everything from local charcuterie and unpasteurised cheese to vegetables from the Forez plain and the occasional truffled preparation from the region. Several vendors sell prepared dishes — soupe au pistou, gratins, terrines — that make an excellent lunch eaten standing at the counter.

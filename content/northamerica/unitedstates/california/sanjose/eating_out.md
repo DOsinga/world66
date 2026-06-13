@@ -5,6 +5,7 @@ longitude: -121.878904
 phone: 408-288-5343
 title: Eating Out
 type: poi
+score: 3.5
 ---
 
 Thanks to San Jose's large Vietnamese population you will find a variety of Vietnamese restaurants in and around the San Jose area. A handy list of some of these restaurants can be found here:

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 7.7
 ---
 
 The Roman Agora, built between 19 and 11 BCE under Julius Caesar and Augustus, was the marketplace of Roman Athens. It replaced the older Greek Agora as the main commercial centre of the city, and its broad colonnaded courtyard once held shops, food stalls, and public offices.

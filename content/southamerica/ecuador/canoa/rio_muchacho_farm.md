@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Rio Muchacho Organic Farm
 type: poi
+score: 7.8
 ---
 
 Rio Muchacho is a working organic farm in the hills a few kilometres inland from Canoa, running day tours and multi-day homestays that offer a genuine look at sustainable agriculture in coastal Ecuador. The farm grows cacao, fruit, and vegetables using traditional and ecological methods, and tours take you through the production process from planting through to chocolate-making.

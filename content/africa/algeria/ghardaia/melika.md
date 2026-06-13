@@ -10,6 +10,7 @@ story: >
   Melika's cemetery is considered the most beautiful in the M'zab Valley, a walled garden on a hillside above the town with graves marked by flat stone slabs in muted colours, surrounded by roses and herbs. The Ibadi burial tradition emphasises simplicity and equality in death: there are no grand monuments, no difference between the grave of a merchant and a shepherd, only the uniform whitewashed markers.
 sources:
   - https://en.wikipedia.org/wiki/Melika
+score: 7.7
 ---
 
 Melika is the second-largest of the M'zab ksour, perched on a ridge above the valley with a dramatically photogenic skyline of white houses and a stark minaret. From below, the town looks like a crown on its hill. The interior is a maze of vaulted streets and painted plaster walls in blue, white, and yellow — slightly more colourful than Ghardaia's monochrome earthen tones.

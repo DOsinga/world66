@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.8575
 longitude: -4.0258
+score: 6.2
 ---
 
 Bar Ludeña claims to have invented carcamusas — Toledo's signature stew of pork, tomatoes, and peas — and whether or not the claim is strictly true, this is still the best place in town to eat it. The restaurant occupies a corner of Plaza de la Magdalena, a small square a few minutes' walk from the Cathedral, with tables spilling out onto the stone.

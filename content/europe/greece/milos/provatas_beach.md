@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 36.6793
 longitude: 24.5039
+score: 5.9
 ---
 
 Provatas is the most accessible of the south coast beaches and the one best suited to a relaxed, uncomplicated day at the sea. The beach is wide and sandy, the water shelves gently — making it good for children — and the surrounding cliffs provide natural shelter from the meltemi winds that can make the northern shores choppy in July and August. There are sunbeds for hire, a beach bar, and a taverna nearby, which means you can arrive empty-handed and spend the day comfortably.

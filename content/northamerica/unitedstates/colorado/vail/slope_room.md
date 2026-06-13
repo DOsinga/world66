@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.6430
 longitude: -106.3925
+score: 6.0
 ---
 
 The Slope Room at the Sebastian hotel in Vail Village is the more design-conscious end of Vail's après-ski scene — lower ceilings, better cocktails, and a crowd that has changed out of ski boots. The cocktail menu leans on Colorado spirits and seasonal ingredients; the small plates are shareable and well-executed.

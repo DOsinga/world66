@@ -12,6 +12,7 @@ story: >
   Spanish. It was built in 1769 as part of a chain of coastal watchtowers commissioned by the
   Bishop of the Canary Islands, who funded defensive fortifications across Lanzarote after
   repeated Berber pirate raids had depopulated entire coastal villages.
+score: 6.5
 ---
 
 The Castillo de las Coloradas is a small circular watchtower built in 1769 on a volcanic headland about two kilometres east of the Playa Blanca harbour. The tower stands on a low sea cliff above the rocky beach of Las Coloradas, with a clear view west towards town and east towards the Papagayo coves. It was built to warn against Berber pirate raids from the North African coast — for centuries Lanzarote's southern shore was one of the most dangerous coastlines in the Atlantic.

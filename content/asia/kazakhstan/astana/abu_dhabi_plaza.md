@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 51.1221
 longitude: 71.4282
+score: 6.3
 ---
 
 Abu Dhabi Plaza is a mixed-use skyscraper complex on the left bank, with the tallest of its towers reaching around 320 metres — the tallest building in Central Asia. The project was financed by the Mubadala investment fund of Abu Dhabi (hence the name) and combines offices, a hotel, residential apartments, and a small shopping mall in the lower floors.

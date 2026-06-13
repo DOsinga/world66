@@ -8,6 +8,7 @@ latitude: 37.5652
 longitude: -119.9651
 sources:
   - https://saltandwind.com/mariposa-california/
+score: 6.7
 ---
 
 The Yosemite Climbing Museum is a small but dedicated collection documenting the history of technical climbing in Yosemite Valley — one of the most important chapters in the global history of rock climbing. Yosemite's big walls, particularly El Capitan and Half Dome, were the proving ground for the equipment, techniques, and ethics that shaped modern alpinism, and this museum collects the artefacts and stories of the people who pioneered those routes from the 1950s onwards.

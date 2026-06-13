@@ -10,6 +10,7 @@ tags:
 neighbourhood: Downtown
 title: Lafayette Coney Island
 type: poi
+score: 6.7
 ---
 
 Lafayette Coney Island shares a wall — and a 1917 founding date — with American Coney Island. The Keros brothers from Greece opened American first; the family disagreement that led one brother to open Lafayette next door is the founding myth of a Detroit institution. Both serve nearly identical chili dogs, fries, and Greek-influenced diner food, and Detroiters argue about which is better with religious conviction.

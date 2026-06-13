@@ -11,6 +11,7 @@ story: >
   exhibit displays handcuffs, straitjackets, and stage equipment from his
   actual performances — the lock he picked to escape a Scottish jail is
   among the collection.
+score: 8.0
 ---
 
 Housed inside a turreted former Masonic temple dating to 1923, the History Museum at the Castle is the best place to understand both Appleton's past and its most famous son. The main galleries cover Fox Valley history — paper mills, the fur trade, immigrant communities — with well-designed permanent displays and rotating special exhibitions.

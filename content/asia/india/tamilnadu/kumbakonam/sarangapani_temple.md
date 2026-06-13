@@ -8,6 +8,7 @@ tags:
 - sight
 - temple
 snippet: "Largest Vishnu temple in Kumbakonam, with a 173-foot rajagopuram"
+score: 8.3
 ---
 
 The Sarangapani Temple is the largest of the three principal Vishnu temples of Kumbakonam and one of the 108 Divya Desams — the temples revered in the hymns of the Alvar saints, the medieval Tamil Vaishnavite poet-mystics. The towering eastern gopuram, around 173 feet (53 metres) high and eleven storeys tall, is visible from much of the town.

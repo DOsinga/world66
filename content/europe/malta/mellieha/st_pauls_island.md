@@ -7,6 +7,7 @@ tags:
 latitude: 35.9653
 longitude: 14.4006
 story: "St Paul is traditionally said to have been shipwrecked on this small twin-peaked island in 60 AD, on his way to Rome — an event recorded in the Acts of the Apostles. He spent the winter on Malta, was kindly received, and is credited with converting the island to Christianity. A nineteenth-century statue of the apostle stands on the higher peak, replacing a wooden cross that had been there for centuries."
+score: 6.5
 ---
 
 A short barren island off Selmun, two interlinked peaks of grey limestone facing the open sea, St Paul's Island looks empty but is one of the most visually familiar landmarks on Malta. The statue at its summit is the apostle, hand raised in blessing toward the mainland.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5665
 longitude: 68.8168
+score: 7.1
 ---
 
 The Russian Orthodox cathedral on the edge of the Sinos neighborhood is a reminder of Dushanbe's Soviet and pre-Soviet Russian history. The congregation is small — the Russian and Slavic population of Dushanbe declined sharply after independence and the civil war — but the church remains active and the building is well-maintained.

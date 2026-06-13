@@ -15,6 +15,7 @@ story: >
   ever stayed there. The result is architecturally accurate on the outside
   but bizarrely decorated inside with Roman mosaics looted from the island of
   Kos.
+score: 9.2
 ---
 
 The Palace of the Grand Master crowns the northern tip of the Old Town and has dominated the skyline of Rhodes for seven centuries. The Knights of St. John built it over an earlier Byzantine citadel in the fourteenth century, and for two hundred years it served as the administrative and military headquarters of the Order. The exterior, with its cylindrical towers and battlemented walls, is as formidable as anything medieval Europe produced.

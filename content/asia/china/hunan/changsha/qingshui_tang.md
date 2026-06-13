@@ -14,6 +14,7 @@ story: >
   house as his base for organising labour unions across Hunan. When Yang Kaihui
   was arrested and executed by the Nationalist government in 1930, Mao was
   already in Jiangxi with the Red Army. He never returned to the house.
+score: 7.1
 ---
 
 Qingshui Tang is the former residence of Mao Zedong in Changsha, preserved as a museum complex covering the two-year period from 1921 to 1923 when he lived here with his wife Yang Kaihui and helped establish the early Hunan Communist Party organisation. The house itself is modest — a traditional courtyard dwelling of the type common in early Republican-era Changsha — and the rooms contain period furnishings, photographs, and documents relating to Mao's Changsha years.

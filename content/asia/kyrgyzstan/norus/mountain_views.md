@@ -10,6 +10,7 @@ story: >
   The Kyrgyz Ala-Too translates roughly as "Motley Mountains" in Kyrgyz — a reference to the way the
   range appears striped with snow and dark rock from the valley below. The range forms the northern
   edge of the Tian Shan system and separates the Chüy Valley from the high interior of the country.
+score: 7.2
 ---
 
 The ridgeline above Norus gives one of the most accessible views of the northern Kyrgyz Ala-Too range within easy reach of Bishkek. From the upper ski slopes or the meadows above the treeline, you look south into a wall of rocky peaks, their upper reaches snow-covered for most of the year, while the Chüy Valley floor is visible to the north.

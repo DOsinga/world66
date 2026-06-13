@@ -12,6 +12,7 @@ story: >
   — the largest of all lion subspecies, significantly bigger than African lions — was not yet 
   extinct; the last confirmed wild sighting in Morocco was in 1942. The carving now serves as 
   an accidental memorial to a vanished animal.
+score: 6.2
 ---
 
 In the park at the centre of Ifrane, a large stone lion crouches in a clearing. Carved from a single boulder in 1930, it has become the symbol of the town and appears on almost every postcard. The craftsmanship is considerable — the mane and musculature are finely detailed, and the lion's calm gaze gives it an unexpected dignity.

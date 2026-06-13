@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - eating_out
   - market
+score: 5.8
 ---
 
 The city's main market is a typical Mexican mercado — concrete halls full of butchers, fishmongers, fruit and vegetable stands, and the cheap fondas (food stalls) that locals visit for breakfast and lunch. Order *panuchos* (refried-bean-stuffed tortillas) or *salbutes* (puffy fried tortillas with shredded turkey), washed down with horchata or a cold *agua de chaya* made from a leafy Yucatecan green.

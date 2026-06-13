@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 56.0358
 longitude: 12.6155
+score: 7.7
 ---
 
 The old town street network around Stengade and the nearby lanes preserves some fine 16th and 17th-century merchant houses — the wealth that the Sound Dues brought to Helsingør is visible in the quality of the old buildings. Walking these streets gives a clearer sense of the prosperous medieval and Renaissance city than the castle alone.

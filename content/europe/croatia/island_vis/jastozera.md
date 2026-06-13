@@ -8,6 +8,7 @@ tags:
 neighbourhood: Komiža
 latitude: 43.0467
 longitude: 16.0942
+score: 6.3
 ---
 
 Jastožera occupies the old lobster-storage building on the Komiža waterfront — a stone-and-timber structure built out over the water, with grilles in the floor through which the day's catch used to be lowered into pens. The restaurant specialises in lobster spaghetti, the dish Komiža is famous for, and grilled fish straight from the boats moored a few metres away.

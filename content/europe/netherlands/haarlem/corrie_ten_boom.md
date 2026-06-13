@@ -12,6 +12,7 @@ story: >
   hiding in the secret room were never found — they stayed silent behind the false wall
   for nearly three days until the resistance could extract them. The Ten Boom family
   was sent to concentration camps; Corrie's father and sister both died in captivity.
+score: 8.2
 ---
 
 The house on the Barteljorisstraat where the Ten Boom family hid Jewish refugees during the German occupation, made famous by Corrie ten Boom's book *The Hiding Place*. The secret room — a tiny space behind a false wall in Corrie's bedroom, just large enough for several people to stand in — can still be seen on the guided tour. It is astonishingly small.

@@ -17,6 +17,7 @@ tags:
   - sport
 title: Shaolin Monastery
 type: poi
+score: 9.2
 ---
 
 The Shaolin Monastery on Mount Song, about 80 kilometres east of Luoyang, is the birthplace of Chan (Zen) Buddhism and the origin of Shaolin kung fu. Founded in 495 AD and rebuilt several times since, the present complex is large and somewhat commercialised, with martial arts performances staged several times daily for tour groups. This should not put you off: the monastery itself, the forest of memorial pagodas (the largest pagoda forest in China), and the cave where Bodhidharma reputedly meditated are genuinely significant places.

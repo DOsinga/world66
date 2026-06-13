@@ -9,6 +9,7 @@ latitude: 14.5515
 longitude: 120.9825
 story: >
   The CCP was conceived by Imelda Marcos as part of her "edifice complex" — the grand building programme that sought to project the Philippines as a modern, cultured nation while Martial Law was in force. Designed by National Artist Leandro Locsin in a bold Brutalist style, the building opened in 1969 on reclaimed land along Manila Bay. Locsin described his intent as "floating masses" — the concrete structure appears to hover above its base, with deep overhangs that create dramatic shadow.
+score: 8.4
 ---
 
 The Cultural Center of the Philippines (CCP) is the country's premier arts venue, housing a main theatre, a smaller performance hall, galleries, and a library. The building — designed by Leandro Locsin, one of the Philippines' greatest architects — is a striking piece of Brutalist architecture on the Manila Bay reclamation area, worth seeing even if you are not attending a performance.

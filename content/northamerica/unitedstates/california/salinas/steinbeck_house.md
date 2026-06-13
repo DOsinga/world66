@@ -14,6 +14,7 @@ story: >
   in 1939 the book was briefly banned from the county library. Steinbeck rarely
   returned after leaving for New York. The house is now run by a volunteer organisation
   that has kept it in excellent condition.
+score: 7.7
 ---
 
 The John Steinbeck House is the Victorian home at 132 Central Avenue where the author was born in 1902 and spent his childhood. The house has been carefully preserved and is listed on the National Register of Historic Places. Tours are available and take you through the rooms where Steinbeck grew up, with period furnishings and photographs that give a sense of the comfortable, middle-class Salinas household he came from.

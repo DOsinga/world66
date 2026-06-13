@@ -10,6 +10,7 @@ tags:
   - nature
   - uzupis
 neighbourhood: Užupis
+score: 6.5
 ---
 
 The Vilnia River is the small tributary of the Neris that flows through Užupis and gives the city its name. The stretch of river through the Užupis valley offers one of the city's nicest short walks: a path follows the bank through light woodland, past the republic's main bridge and the mermaid sculpture, before reaching a small waterfall and valley where willows trail into the water.

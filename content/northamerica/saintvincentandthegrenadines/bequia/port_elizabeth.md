@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, town]
 latitude: 13.0111
 longitude: -61.2344
+score: 7.2
 ---
 
 Port Elizabeth is Bequia's only town — a small, easy-going collection of shops, ferry dock, market, and a few churches strung along the head of Admiralty Bay. The whole place can be walked in 20 minutes. The ferry from Kingstown lands at the main jetty, where minibus drivers and water taxis wait for arriving passengers.

@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "Baishuitai is sacred to the Naxi people as the birthplace of their Dongba religion. The shaman-priests of the Dongba tradition come here to perform rituals; for two thousand years the terraces have been called 'the bowls left behind by the gods' in Naxi creation stories."
+score: 7.8
 ---
 
 Baishuitai — "White Water Terraces" — is a wide cascade of mineral-deposit terraces, in some ways a smaller, cooler cousin of Pamukkale in Turkey. The calcium-rich spring water has built up bone-white limestone pools and step-faced waterfalls over the millennia; the colour is brilliant against the surrounding green hills.

@@ -13,6 +13,7 @@ story: >
   The decorative programme is politically pointed: a Venetian lion of St. Mark gazes imperiously
   from the keystone, while a turbaned Ottoman head is placed below — a reminder of Venice's
   long wars with the Ottoman Empire that were still ongoing when the arch was built.
+score: 6.8
 ---
 
 Balbi's Arch is the ceremonial entrance to Rovinj's old town, built in 1678–79 to replace an earlier medieval gate. The arch marks the transition from the newer parts of town into the tightly packed lanes of the historic centre. It was designed by the Venetian architect Antonio Manopola and is one of the best-preserved examples of Baroque civic architecture on the Istrian peninsula.

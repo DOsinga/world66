@@ -6,6 +6,7 @@ tags:
 - sight
 title: Luray Caverns
 type: poi
+score: 8.5
 ---
 
 Luray Caverns, 45 kilometres north of Harrisonburg near the town of Luray, is the largest cavern system open to the public in the eastern United States and a National Natural Landmark since 1974. The cave passages are enormous — some chambers are 9 metres high — and decorated with an unusually dense concentration of stalactites, stalagmites, columns, and flowstone formations, many of them reflected in still underground pools.

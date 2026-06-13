@@ -9,6 +9,7 @@ latitude: 27.9153
 longitude: -82.7852
 sources:
   - https://en.wikipedia.org/wiki/Largo_Central_Park
+score: 5.8
 ---
 
 Largo Central Park is the city's main gathering space, a well-maintained green in the heart of the city that hosts the Largo Cultural Center and an outdoor amphitheatre used for concerts and community events. The park has walking paths, a small lake, and mature trees that provide shade from the Florida sun.

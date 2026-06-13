@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2250
 longitude: 7.9750
+score: 6.4
 ---
 
 The mountains around Chebika are composed of fossilised seabed from the Cretaceous period, when this part of North Africa lay under a shallow tropical ocean. The rock is full of shell impressions, sea urchin tests, and the occasional ammonite, pressed into the pale limestone and sandstone of the cliff faces.

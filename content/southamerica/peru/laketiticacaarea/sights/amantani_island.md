@@ -9,6 +9,7 @@ tags:
 - sights
 title: Amantani Island
 type: poi
+score: 8.4
 ---
 
 A quiet island on Lake Titicaca, about three hours by boat from Puno. Amantani sees far fewer tourists than nearby Taquile, and the community maintains a traditional agricultural way of life that feels genuinely unchanged.

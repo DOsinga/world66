@@ -7,6 +7,7 @@ tags:
 - sight
 title: Rochdale Canal
 type: poi
+score: 7.4
 ---
 
 The Rochdale Canal runs 32 miles from Manchester to Sowerby Bridge across the watershed of the Pennines, climbing through 91 locks — among the densest stretches of canal-locking anywhere in Britain. The whole canal closed in 1952 but reopened in 2002 after a vast restoration effort.

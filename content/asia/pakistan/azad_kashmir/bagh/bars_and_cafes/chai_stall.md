@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 33.9802
 longitude: 73.7742
+score: 4.2
 ---
 
 Chai stalls are the lifeblood of any Pakistani town and Bagh is no exception. They are found at the bus stand, the bazaar, outside government offices, and along the road to Sudhan Gali — essentially wherever there is foot traffic. A glass of strong, sweet, milky chai costs next to nothing and is the universal accompaniment to conversation, waiting, and rest.

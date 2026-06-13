@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_san_juan
 neighbourhood: Old San Juan
+score: 7.4
 ---
 
 A 1929 lunch counter on Calle San Francisco with the original Formica tables, white-coated waiters who have worked here longer than most of the guests have been alive, and the best mallorca de queso in San Juan — a buttered, pressed, slightly sweet roll filled with cheese and ham, dusted with powdered sugar.

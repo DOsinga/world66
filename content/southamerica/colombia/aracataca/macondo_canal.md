@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The river-canal that runs through the centre of "Macondo"
+score: 6.6
 ---
 
 The Aracataca river — locals call it the canal — runs straight through the centre of the town and is a constant presence in García Márquez's writing. The riverside path along the southern bank is where most of the bookish circuit ends: shallow brown water, almond and mango trees, white herons in the reeds.

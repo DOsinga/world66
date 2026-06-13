@@ -7,6 +7,7 @@ snippet: Seaside's signature souvenir, pulled and cut in the window since the ea
 tags:
   - eating_out
   - shopping
+score: 4.3
 ---
 
 Seaside has been making salt-water taffy since the early days of the resort era, and several shops on Broadway still pull and cut the candy in the front window as a demonstration. The process is genuinely interesting to watch: the cooked sugar is stretched repeatedly on a mechanical hook until it lightens in color and develops a chewy, slightly aerated texture. Flavors run from the traditional (peppermint, vanilla, strawberry) to things that are clearly aimed at children with no sense of restraint.

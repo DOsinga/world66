@@ -7,6 +7,7 @@ snippet: "Self-guided tour of the village's preserved tuberculosis cure cottages
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 Saranac Lake holds the largest collection of preserved tuberculosis cure cottages in the United States — dozens of buildings designed around the long-debunked but then-mainstream practice of treating TB with rest, fresh mountain air, and an outdoor sleeping porch in all weather. The village has marked them with a self-guided walking tour that runs through the Berkeley Square and Church Street historic districts.

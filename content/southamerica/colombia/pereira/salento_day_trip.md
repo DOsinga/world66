@@ -8,6 +8,7 @@ longitude: -75.5703
 story: The wax palms of the Cocora valley grow up to 60 metres tall — the world's
   tallest palm species and Colombia's national tree. Their improbable silhouettes
   against rolling green hills are one of the country's most photographed scenes.
+score: 8.5
 ---
 
 The most picturesque pueblo in the coffee country, two hours south of Pereira and reachable by frequent buses via Armenia. Salento is small — a few brightly painted streets, a couple of squares, and a viewpoint over the surrounding hills — but its setting is what people come for.

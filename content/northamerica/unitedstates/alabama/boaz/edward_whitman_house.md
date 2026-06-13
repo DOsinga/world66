@@ -7,6 +7,7 @@ tags:
 - historic_house
 title: Edward Fenns Whitman House
 type: poi
+score: 4.5
 ---
 
 The Edward Fenns Whitman House is a historic residence in Boaz listed on the National Register of Historic Places, representing a well-preserved example of the domestic architecture of the late nineteenth-century Alabama uplands. The house reflects the prosperity of the region's agricultural and commercial class before and after the Civil War.

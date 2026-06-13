@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.8150
 longitude: 111.6600
+score: 7.0
 ---
 
 Khoomei, the Mongolian throat singing tradition in which a single vocalist simultaneously produces multiple pitches through careful manipulation of the vocal tract, is one of the most distinctive musical practices in the world and Hohhot is one of the few places outside Mongolia proper where you can hear it performed by practitioners who have grown up in the tradition. The technique — which produces a haunting, overtone-rich sound that seems to come from somewhere beyond the human body — is a UNESCO Intangible Cultural Heritage.

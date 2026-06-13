@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The arch is made from the jawbones of a single bowhead whale, the species the Iñupiat have hunted here for at least a thousand years. Adult bowheads can weigh a hundred tonnes and live over two centuries — older specimens have been killed with stone harpoon points still embedded in their blubber from earlier hunts in the 1800s.
+score: 8.1
 ---
 
 The Whale Bone Arch on the seafront — two giant bowhead jawbones planted upright with a third laid across the top — is Barrow's most photographed object. It frames a view straight out over the Chukchi Sea, which is ice for most of the year and open black water for a few weeks in late summer.

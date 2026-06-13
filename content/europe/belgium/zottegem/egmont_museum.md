@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.8698
 longitude: 3.8108
+score: 6.6
 ---
 
 A small free museum in the former town hall on the central square, dedicated to Lamoral van Egmont and the broader history of the Flemish nobility he came from. Portraits, family trees, documents, and a copy of the death warrant signed by the Duke of Alba.

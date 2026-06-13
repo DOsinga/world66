@@ -7,6 +7,7 @@ tags:
 latitude: 56.0783
 longitude: 9.7014
 story: "Gammel Rye is older than the current town of Ry — the present town grew up around the railway station when the line arrived in the nineteenth century, while Gammel Rye (Old Rye) had been the village in the area for centuries. The old church in Gammel Rye dates to the twelfth century and contains medieval frescoes."
+score: 7.1
 ---
 
 Gammel Rye — Old Rye — is a village about four kilometres west of Ry town, the original settlement in the area before the railway came and created a new town around the station. It is a pleasant small village worth visiting for the twelfth-century church, which contains medieval frescoes and a churchyard with some old carved gravestones.

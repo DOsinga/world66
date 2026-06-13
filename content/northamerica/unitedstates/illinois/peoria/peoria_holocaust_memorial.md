@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.6980
 longitude: -89.5885
+score: 5.4
 ---
 
 The Peoria Holocaust Memorial takes an unusual approach to commemoration: it displays eleven million buttons — six million representing Jewish victims, five million representing other victims of the Nazi genocide. The buttons, contributed by community members and donors over many years, fill a display installation that makes the scale of the Holocaust tangible in a way that statistics alone cannot. Each button represents a life.

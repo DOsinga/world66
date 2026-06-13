@@ -12,6 +12,7 @@ story: >
   Hari Pahlawan (Heroes' Day) across Indonesia. The obelisk's tapering, ribbed design —
   it resembles a tall cracker broken into segments — is said to represent the destruction
   of Dutch imperialism.
+score: 7.3
 ---
 
 Tugu Pahlawan is the 41-metre obelisk at the heart of Surabaya's civic life, commemorating the 1945 Battle of Surabaya that became a defining moment in Indonesia's independence struggle. The monument stands in a plaza that is a gathering point for the city — ceremonies, protests, and daily life all pass through here.

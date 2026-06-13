@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 14.3505
 longitude: -3.6113
+score: 6.6
 ---
 
 Bandiagara's Monday market is one of the largest in the Dogon Country, drawing traders, farmers, and herders from villages across the plateau and the plains below. Millet, sorghum, dried fish, cloth, and livestock change hands in a sprawling space at the edge of town that expands dramatically on market day.

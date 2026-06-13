@@ -8,6 +8,7 @@ tags:
 title: Medellín Metro
 type: poi
 story: "Inaugurated in 1995, it is still the only working metro system in Colombia. The city's relationship with it is unusually proud — civic 'metro culture' campaigns enforce a level of cleanliness and order on stations and trains that is striking compared to most South American transit systems."
+score: 9.4
 ---
 
 Colombia's only metro, opened in 1995, running on two main elevated lines along the valley floor plus six Metrocable gondola lines climbing the hillsides. Clean, cheap, fast, and a civic point of pride — locals refer to "metro culture" with the seriousness others reserve for national institutions. A single fare gets you onto the whole network including the cable cars.

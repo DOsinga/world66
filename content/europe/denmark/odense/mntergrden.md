@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Odense's city history museum in a courtyard of half-timbered houses
+score: 8.2
 ---
 
 Møntergården is the cultural history museum of Odense, set in a cluster of half-timbered merchants' houses around a cobbled courtyard. The displays cover Funen from the Stone Age to the 20th century — Viking silver hoards, medieval tools, early industrial Odense, and a strong run of objects on daily life under occupation in the 1940s.

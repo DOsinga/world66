@@ -11,6 +11,7 @@ tags:
 - sight
 title: Mystic Seaport Museum
 type: poi
+score: 9.2
 ---
 
 Mystic Seaport Museum is one of the reasons Mystic works as more than a quick highway stop. The village is small, so even the major attractions feel tied to the river, the bridge, and the working-waterfront history around them.

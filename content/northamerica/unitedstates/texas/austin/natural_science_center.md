@@ -8,6 +8,7 @@ tags:
 address: "301 Nature Center Dr"
 latitude: 30.2702
 longitude: -97.7762
+score: 6.2
 ---
 
 The Austin Nature and Science Center in Zilker Park is a small but appealing natural history and wildlife rehabilitation centre, particularly well-suited for families with children. The exhibits cover the natural history of the Texas Hill Country — geology, native plants, reptiles, birds, and mammals — with live animal displays featuring injured wildlife that cannot be released back to the wild.

@@ -6,6 +6,7 @@ latitude: 45.8793
 longitude: 6.9200
 story: >
   The Vallée Blanche was first skied in 1908 by Joseph Ravanel and Fernand Tournier. At the time, reaching the start required a full day's mountaineering. Today the cable car makes it accessible to any competent off-piste skier, though the arête walk from the cable car station — 40 centimetres wide with a 1,000-metre drop on each side — concentrates the mind wonderfully.
+score: 9.6
 ---
 
 The Vallée Blanche is the most famous off-piste ski run in the world and one of the great mountain experiences in Europe. Starting from the Aiguille du Midi at 3,842 metres, it descends 24 kilometres across the upper Mer de Glace glacier to arrive back in Chamonix — a drop of 2,800 metres. On a clear winter's day, the route takes you past seracs, crevasse fields, and the full sweep of the Mont Blanc massif in absolute silence.

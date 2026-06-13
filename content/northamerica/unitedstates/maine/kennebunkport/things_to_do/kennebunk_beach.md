@@ -7,6 +7,7 @@ tags:
 latitude: 43.3456
 longitude: -70.4786
 snippet: Three connected beaches on the western shore, the most accessible from town
+score: 7.2
 ---
 
 Kennebunk Beach is actually three beaches — Mother's Beach, Middle Beach, and Gooch's Beach — running along the western shore of the Kennebunk River mouth. Together they form the most accessible stretch of sand near Kennebunkport, and the most popular in summer. Gooch's Beach, the southernmost section, is the largest and has some surf.

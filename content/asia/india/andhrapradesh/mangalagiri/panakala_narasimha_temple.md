@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Hilltop cave temple where the deity drinks jaggery water from devotees
 story: "The deity, an open mouth carved into the rock, accepts panakam — water sweetened with jaggery, ginger and pepper — and drinks roughly half of every offering. Priests pour the cup in slowly; you can hear a clear gulping sound as the liquid is drawn into the cave. Whatever happens hydrologically, no one has ever poured in enough panakam to fill the mouth."
+score: 8.4
 ---
 
 The Panakala Narasimha Swamy Temple sits about two-thirds of the way up Mangalagiri Hill, reached by a long staircase from the foot. The deity here is a self-manifested form of Vishnu — Narasimha, the man-lion — in the form of a gaping mouth carved into the living rock of the cave, with no body, hands or feet.

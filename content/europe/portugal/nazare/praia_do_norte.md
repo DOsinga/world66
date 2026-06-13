@@ -12,6 +12,7 @@ story: >
   swells travel up this canyon, they slow, compress, and stack into walls of water up to
   30 metres high. In November 2011, Hawaiian big-wave surfer Garrett McNamara rode what was
   then certified as the largest wave ever surfed — 23.77 metres — here at Praia do Norte.
+score: 9.3
 ---
 
 Praia do Norte is the beach that made Nazaré world-famous — not for swimming but for the most extraordinary surfing waves on the planet. Driven by the Nazaré Canyon, the waves here can reach 20 to 30 metres in the right winter swell conditions. Even in a modest swell, standing on the clifftop at the Fort of São Miguel Arcanjo and watching the sets roll in is an experience unlike anything else on the Portuguese coast.

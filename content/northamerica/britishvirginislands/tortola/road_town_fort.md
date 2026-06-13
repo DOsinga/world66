@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 5.7
 ---
 
 Road Town Fort sits on Russell Hill above the main wharf, a small colonial fort built by the British in the late 18th century to defend the harbour. Only the lower stone walls and a few cannon emplacements survive, but the position gives a clear view across Road Harbour and the Sir Francis Drake Channel to Norman Island and Peter Island — exactly the line of sight the fort was built to command.

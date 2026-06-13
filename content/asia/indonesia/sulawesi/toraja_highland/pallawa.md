@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.912
 longitude: 119.882
+score: 8.3
 ---
 
 Pallawa is one of the most impressive traditional villages in the Toraja highlands, a cluster of twelve tongkonan houses arranged in two facing rows on a hillside north of Rantepao. The houses here are authentic family dwellings, not restorations or tourist reconstructions — the families who own them live nearby and maintain them for ceremonial use. The carved facades are painted in red, black, and yellow geometric patterns, with buffalo horns mounted in stacked rows on the front posts, each horn representing a family member honoured in past funeral rites.

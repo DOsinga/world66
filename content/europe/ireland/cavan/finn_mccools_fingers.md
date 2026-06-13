@@ -10,6 +10,7 @@ longitude: -7.2914
 story: "Local legend insists these five standing stones are the petrified fingers of the giant Finn McCool, left behind after he plunged his hand into the hillside. The more prosaic reality is that they have stood on Shantemon mountain since the Bronze Age, aligned in a row that may track a solar event — though nobody has yet settled the question definitively."
 sources:
   - https://en.wikipedia.org/wiki/Finn_McCools_Fingers
+score: 6.8
 ---
 
 Five standing stones rise from the boggy shoulder of Shantemon mountain, just south of Cavan town, in a row known locally as Finn McCool's Fingers. They are part of a wider tradition of Bronze Age monument-building across the Irish uplands, and the alignment here — though modest in scale — carries a genuine sense of ancient purpose that the empty hillside only amplifies.

@@ -10,6 +10,7 @@ story: >
   Sundance started in 1978 as the Utah/US Film Festival, a minor regional event. Robert Redford brought it to Park City in 1981 and renamed it Sundance — after his character in Butch Cassidy and the Sundance Kid — and by the 1990s it had become the launching pad for some of the most important independent films of the era. The Blair Witch Project, Reservoir Dogs (in competition, not technically a premiere), and Napoleon Dynamite all broke through at Sundance.
 sources:
   - https://en.wikipedia.org/wiki/Sundance_Film_Festival
+score: 9.2
 ---
 
 The Sundance Film Festival is the most important independent film festival in the United States and one of the most influential in the world, held every January in Park City. For ten days, the town transforms: Main Street fills with filmmakers, distributors, press, and celebrity-watchers; screenings happen in converted theatres, ski lodges, and pop-up venues; and the distribution deals made here shape the art-house film calendar for the coming year.

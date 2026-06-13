@@ -15,6 +15,7 @@ story: >
   world.
 sources:
   - https://en.wikipedia.org/wiki/Nationaltheater_Mannheim
+score: 8.1
 ---
 
 The Mannheim National Theatre is one of the most historically significant theatres in Germany — and one of the most respected currently active ones. Its repertoire spans opera, ballet, drama, and children's theatre, performed across four stages of different sizes. The building is a post-war structure (the original was destroyed in 1943) but the institution is one of the oldest permanent theatres in the German-speaking world, founded in 1779.

@@ -13,6 +13,7 @@ story: >
   that made Sinhala the sole official language. The statue's position overlooking the entire
   city was deliberately chosen to make it visible from the Temple of the Tooth — a visual
   statement of Buddhist primacy in the former royal capital.
+score: 7.2
 ---
 
 A large white Buddha statue sits on a hilltop south of the lake, visible from much of the city and easily identified by its brilliant white silhouette against the green hillside. The statue is 26.8 metres tall and stands on a multi-storey base containing a small museum and meditation rooms. A steep flight of steps leads from the road to the base; the climb takes about fifteen minutes.

@@ -6,6 +6,7 @@ longitude: -105.2675
 tags:
 - things_to_do
 - hike
+score: 7.1
 ---
 
 The Tunnel Drive is an old water supply road on the south side of the Arkansas River that has been converted into a popular walking and cycling trail. The route hugs the canyon wall about 30 metres above the water and runs through three small tunnels cut into the rock — a feature children find magical.

@@ -8,6 +8,7 @@ tags:
   - sight
   - old_portsmouth
 neighbourhood: Old Portsmouth
+score: 7.2
 ---
 
 A small, working tidal dock at the heart of Old Portsmouth — the only place in the city where you can still see the inshore fishing fleet land their catch. Trawlers and small fishing boats come and go all day; a stack of wooden lobster pots usually sits on the quayside.

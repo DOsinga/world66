@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Cesaria Evora — the Barefoot Diva — performed almost all her concerts without shoes, in honour, she said, of the poor women of her childhood neighbourhood Mindelo who could not afford them. The statue in front of her old theatre shows her barefoot, microphone in hand, mid-song."
+score: 5.6
 ---
 
 The bronze statue of Cesaria Evora stands just outside the Mindelo cultural centre, a couple of blocks from the seafront. The Cape Verdean singer (1941–2011) is the city's most famous daughter — she grew up here, sang for decades in the bars and clubs of Mindelo before being discovered at the age of forty-seven, and is buried in the city cemetery.

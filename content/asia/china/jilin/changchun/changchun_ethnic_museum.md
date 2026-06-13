@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.8700
 longitude: 125.3000
+score: 8.0
 ---
 
 The Jilin Ethnic Museum documents the cultural history of the non-Han peoples who have lived in Jilin Province — Manchu, Korean, Mongolian, Hui, and other groups whose presence predates and extends beyond the Chinese state. The collections include traditional clothing, tools, ritual objects, and everyday items from communities whose cultural practices were significantly disrupted by twentieth-century events.

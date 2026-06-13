@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.8505
 longitude: 7.6236
+score: 6.9
 ---
 
 The regional wine bar in the Borgo near the bridge is the easiest way to taste your way through the Rossese di Dolceacqua DOC and its smaller producers. Half a dozen wines by the glass on any visit, a sketch map of the surrounding vineyards on the wall, and a friendly staff who will point you towards the cellars worth visiting up the valley.

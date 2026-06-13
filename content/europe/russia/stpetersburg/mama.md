@@ -10,6 +10,7 @@ tags:
 - petrogradsky
 title: Mama
 type: poi
+score: 5.1
 ---
 
 A favorite techno spot on the Petrograd Side, open Friday and Saturday nights from midnight until 6:00. Small and sweaty — come for the music, not the decor. Nearest metro: Gorkovskaya.

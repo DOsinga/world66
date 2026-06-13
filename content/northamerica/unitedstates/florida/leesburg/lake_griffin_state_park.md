@@ -8,6 +8,7 @@ tags:
 latitude: 28.8647
 longitude: -81.8934
 snippet: Ancient cypress hammock, alligators, and boardwalk birdwatching on the east side of Leesburg
+score: 7.8
 ---
 
 Lake Griffin State Park sits on the east edge of Leesburg, protecting a stretch of wetland and cypress hammock that gives a sense of what central Florida looked like before drainage and development transformed most of it. The park's boardwalk threads through a stand of ancient bald cypress trees — some estimated at over 200 years old — and early morning here you are likely to see great blue herons, anhingas, wood storks, and ospreys working the shallows.

@@ -10,6 +10,7 @@ longitude: 6.7779
 sources:
   - https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord
 story: "The blast furnaces here shut down in 1985 after a century of steel production. Rather than demolishing the site, landscape architect Peter Latz designed an intervention that left the industrial structures almost entirely intact and let nature colonise around them. The gasometer — a sealed vessel 13 metres deep — was flooded and converted into Europe's largest inland dive centre. Rock climbers scale the ore bunkers. At night, lighting designer Jonathan Park illuminates the whole complex in changing colours."
+score: 9.5
 ---
 
 Landschaftspark Duisburg-Nord is the Ruhr's greatest act of industrial imagination. The former Thyssen ironworks — five blast furnaces, ore bunkers, coking plant, and associated infrastructure covering 180 hectares — was shut down in 1985 and rather than demolished, converted into a public park that leaves the industrial structures essentially intact. The result is extraordinary: vast concrete and steel forms rising out of lawns and wildflower meadows, accessible by footpaths and stairs that take you up into the superstructure.

@@ -18,6 +18,7 @@ tags:
 - museum
 title: Santa María a Nova
 type: poi
+score: 8.4
 ---
 
 A 14th-century Gothic church that is no longer used for services — it functions now as a museum of medieval tombstones. The building itself is fine, but it is the surrounding graveyard that makes this one of the most singular sights in Galicia. The carved gravestones depicting the tools of each deceased person's trade are remarkably well preserved and genuinely moving to walk among.

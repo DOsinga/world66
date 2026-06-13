@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - nature
+score: 6.9
 ---
 
 Torrent Bay, known officially as Rākauroa / Torrent Bay, is one of the most photographed inlets on the Coast Track — a wide horseshoe of pale sand backed by bush, with the small private holiday settlement of Torrent Bay village at its head. At low tide the bay drains almost completely; at high tide it is a shallow, warm swimming lagoon.

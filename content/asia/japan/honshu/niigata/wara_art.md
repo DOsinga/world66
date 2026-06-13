@@ -13,6 +13,7 @@ story: >
   quantities of rice straw left after the Koshihikari harvest. Their answer — massive
   animals built from tightly woven wara straw — has become one of the most photographed
   sights in Japan. The sculptures are built new each year, so no two seasons look the same.
+score: 6.8
 ---
 
 Every autumn after the rice harvest, students from Musashino Art University descend on Uwasekigata Park near Niigata city to build enormous animals from the leftover straw (wara) of the Koshihikari harvest. The results — bears, crabs, dinosaurs, foxes, boar — stand up to four metres tall and are scattered around the lakeside park for visitors to walk among and climb on.

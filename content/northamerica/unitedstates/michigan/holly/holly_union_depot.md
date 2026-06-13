@@ -7,6 +7,7 @@ tags:
 - sight
 title: Holly Union Depot
 type: poi
+score: 6.8
 ---
 
 A few blocks south of Battle Alley sits the restored Holly Union Depot, built in 1886 when Holly was a junction of the Detroit and Milwaukee and the Flint and Pere Marquette railways. The depot's main waiting room and ticket office have been preserved with original woodwork and benches; the building hosts community events and the occasional open day for visitors.

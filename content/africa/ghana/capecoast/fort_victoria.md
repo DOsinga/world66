@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Fort Victoria
 type: poi
+score: 6.6
 ---
 
 A small British signalling fort built in 1837 on Smith's Hill, west of Cape Coast Castle. It was used as a lookout post to watch for ships approaching the coast and to communicate with the larger forts along the shore. The structure is modest — square plan, low walls, a few cannons — and is now half-overgrown, but the hilltop position gives another good view over the town and the bay.

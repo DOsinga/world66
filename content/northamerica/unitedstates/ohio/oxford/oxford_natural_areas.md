@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.507
 longitude: -84.745
+score: 6.9
 ---
 
 Miami University maintains over 17 miles of hiking trails through its natural preserves on the edges of campus. These aren't manicured parkland — they are genuine second-growth forest, wetlands, and creek corridors that feel surprisingly wild for a university setting. The Ecology Research Center tract off Bachelor Road is particularly good for birdwatching and wildflower walks in spring.

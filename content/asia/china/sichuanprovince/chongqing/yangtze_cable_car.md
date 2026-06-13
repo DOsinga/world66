@@ -8,6 +8,7 @@ latitude: 29.5577
 longitude: 106.5700
 story: >
   The Yangtze River Cable Car was the only crossing between Yuzhong and the south bank for much of the 20th century. Opened in 1987, it carried commuters, workers, and schoolchildren across the river for nearly 25 years before being retired in 2011 when sufficient bridges had been built. In 2020 it was restored as a heritage attraction, though now only tourists ride it — the commuters it once served have faster options.
+score: 7.4
 ---
 
 The Yangtze River Cable Car (长江索道, Cháng Jiāng Suǒ Dào) carries passengers on a 10-minute crossing from the Yuzhong district to the south bank of the Yangtze, suspended on cables 140 metres above the river. The journey provides spectacular views of the river, the city on both banks, and the bridges spanning the gorge.

@@ -8,6 +8,7 @@ latitude: 43.0833
 longitude: 25.6528
 story: >
   Tsarevets fell to the Ottoman Turks on 17 July 1393, after a three-month siege. The Bulgarian Patriarch Evtimiy was expelled and the city was destroyed. The fall of Tsarevets effectively ended the Second Bulgarian Empire — the most powerful Balkan state of its time — and Bulgaria would remain under Ottoman rule for nearly 500 years. The sound-and-light show staged against the fortress walls in summer is a theatrical retelling of that ending.
+score: 9.4
 ---
 
 Tsarevets is the dominant sight in Veliko Turnovo and one of the best-preserved medieval fortresses in Bulgaria. It sits on a rocky hill enclosed on three sides by a dramatic horseshoe bend in the Yantra River, connected to the surrounding city only by a narrow neck of land and a reconstructed stone bridge. The hilltop was the political and spiritual centre of the Second Bulgarian Empire (1185–1396): the royal palace, the Patriarchal Cathedral, dozens of churches, and a large residential complex all stood within the walls.

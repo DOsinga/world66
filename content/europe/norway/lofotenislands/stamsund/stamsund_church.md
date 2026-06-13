@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 68.14394
 longitude: 13.83914
+score: 5.8
 ---
 
 A white wooden church typical of the Norwegian coastal tradition, on a hillside above the village with views over the fjord and surrounding mountains. The church was built in 1891 and serves the scattered communities of this part of Vestvågøy. Like most Norwegian rural churches, it holds a simplicity that suits its setting — painted white against the dark rock and grey water of Lofoten.

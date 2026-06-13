@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 31.5150
 longitude: -5.5330
+score: 5.4
 ---
 
 The Maison Berbere in the centre of Tineghir is reliably good for Berber crafts at prices that don't require heroic bargaining. The selection runs to hand-knotted carpets from the High Atlas, silver Berber jewellery, leather goods, and carved wooden objects. The quality is consistently higher than the tourist-market average, and the prices, while not fixed, are broadly reasonable for the quality on offer.

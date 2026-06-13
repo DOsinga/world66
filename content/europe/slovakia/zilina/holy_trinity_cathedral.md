@@ -11,6 +11,7 @@ story: >
   The church was built in the 14th century as a parish church, converted to a cathedral only in 2008. Its most distinctive feature is the free-standing Baroque bell tower, built in 1540 — one of the oldest such structures in Slovakia. The tower was originally designed to also function as a watchtower and fire lookout for the medieval town.
 sources:
   - https://en.wikipedia.org/wiki/Holy_Trinity_Cathedral,_%C5%BDilina
+score: 6.9
 ---
 
 The Holy Trinity Cathedral stands at the corner of Mariánske námestie, its Baroque bell tower visible from most of the old town. The church itself dates from the 14th century, with later Gothic and Baroque additions that create a satisfyingly layered interior. The nave is tall and relatively austere, with fine carved altarpieces and some good Gothic stonework.

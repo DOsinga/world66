@@ -12,6 +12,7 @@ story: >
   boat capsized and sank. The image disappeared for years before being recovered from
   the riverbed — the fact that it survived intact, while two companion images were lost,
   was taken as a sign of its extraordinary power and sanctity.
+score: 7.9
 ---
 
 Wat Pho Chai is Nong Khai's most revered temple and the spiritual heart of the town. The main building houses the Luangpho Phra Sai, a sacred Buddha image with a gold head and a bronze body studded with rubies — one of the most venerated Buddha images in northeastern Thailand. The temple itself is large and well maintained, with gilded buildings, beautiful murals, and a constant stream of Thai worshippers.

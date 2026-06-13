@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.868
 longitude: 121.5636
+score: 8.4
 ---
 
 Qita Temple, founded in the Tang dynasty, is a working Chan (Zen) Buddhist monastery that sits in the eastern part of Ningbo's old city. The temple's main distinction is architectural: it preserves several wooden halls from the Song and Yuan dynasties in remarkably complete condition, making it one of the more authentic examples of pre-Ming Buddhist architecture in Zhejiang. The three-dimensional wooden bracket systems in the main hall are particularly fine.

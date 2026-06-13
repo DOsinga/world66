@@ -6,6 +6,7 @@ longitude: 49.1180
 tags:
   - things_to_do
   - neighbourhood
+score: 6.3
 ---
 
 The City Centre, running from the Kremlin south down Bauman Street to Tukay Square, is the visitor's main territory in Kazan. Restored 19th-century merchant houses, large early-Soviet government buildings, churches, cafes, and shops crowd the few square blocks; the streets are mostly pedestrianised or carry minimal traffic.

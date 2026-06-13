@@ -5,6 +5,7 @@ tags: [beaches, things_to_do]
 latitude: 36.0631
 longitude: 14.2950
 address: San Blas, Nadur, Gozo
+score: 6.8
 ---
 
 San Blas is a small, hard-to-reach red-sand beach in the northeast of the island, set at the foot of a steep terraced valley. The drive ends at a small parking area at the top of the hill — from there, it's a fifteen-minute walk down a rough track to the sand. Small four-wheel-drive shuttles are sometimes available for the return climb, for a small fee.

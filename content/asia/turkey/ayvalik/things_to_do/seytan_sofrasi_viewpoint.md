@@ -1,6 +1,7 @@
 ---
 title: "Şeytan Sofrası (Devil's Table)"
 type: poi
+score: 6.7
 ---
 
 Şeytan Sofrası — the Devil's Table — is a hilltop viewpoint about 8 km north of Ayvalık town, reachable by road or on foot through olive groves. The name comes from a flat-topped rock at the summit that local legend associates with the devil pausing to eat here while surveying his domain, leaving a footprint in the stone.

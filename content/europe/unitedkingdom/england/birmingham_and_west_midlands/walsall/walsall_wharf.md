@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 Walsall Wharf is the regenerated canal basin at the edge of the town centre, now anchored by the New Art Gallery and a handful of bars and cafes in former industrial buildings. The basin was part of the Birmingham Canal Navigations — the dense network of canals that supplied raw materials to the Black Country's foundries and workshops.

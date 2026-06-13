@@ -15,6 +15,7 @@ story: >
   city. Artillery damage is still visible on some sections of the outer walls. Since 2009
   it has been steadily restored, and the contrast between its colonial elegance and its recent
   history gives the place an unusually layered quality.
+score: 8.5
 ---
 
 One of the finest examples of Dutch colonial military architecture in Asia, Jaffna Fort sits near the waterfront on the southwestern edge of the city. The Dutch began building it in 1680 on Portuguese foundations, and the bastioned star fort design — with its geometrically precise earthworks and water-filled moats — remains largely intact despite centuries of conflict.

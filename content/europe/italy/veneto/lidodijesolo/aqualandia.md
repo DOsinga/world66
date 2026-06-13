@@ -7,6 +7,7 @@ snippet: Large water park, the busiest summer attraction after the beach
 tags:
 - things_to_do
 - park
+score: 5.4
 ---
 
 Aqualandia is the region's biggest water park, just behind the beach at Piazza Brescia. Around twenty water slides, a wave pool, a lazy river, and a couple of high-platform stunt acts each day. It is unapologetically commercial and unapologetically fun, geared at families with children of any age.

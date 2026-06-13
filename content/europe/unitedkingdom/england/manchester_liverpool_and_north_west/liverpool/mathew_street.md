@@ -10,6 +10,7 @@ tags:
 - beatles
 title: Mathew Street
 type: poi
+score: 6.9
 ---
 
 A short narrow street in the cathedral end of the city centre, given over almost entirely to Beatles tourism and pub crawls. The original Cavern Club was at number 10 (the rebuilt Cavern occupies most of the site), and a bronze statue of John Lennon leans nonchalantly against a wall opposite. The "Wall of Fame" lists every act ever to have played the Cavern.

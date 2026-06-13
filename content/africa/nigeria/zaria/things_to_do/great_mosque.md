@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Great_Mosque_of_Zaria
+score: 8.4
 ---
 
 The Great Mosque of Zaria is one of the finest examples of Hausa-Fulani Islamic architecture in Nigeria. Built in the nineteenth century during the height of the Sokoto Caliphate's influence, the mosque is constructed almost entirely from mud brick, with a forest of interior columns supporting the prayer hall roof and a distinctive minaret in the Sudano-Sahelian tradition. The building is still in active use, and non-Muslim visitors should observe respectfully from outside during prayer times. Early morning light catches the textured surface of the exterior walls at its best.

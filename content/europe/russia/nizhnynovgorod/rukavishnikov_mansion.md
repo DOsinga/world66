@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.8
 ---
 
 The Rukavishnikov Mansion (Dom Rukavishnikova) is one of the most extravagant private houses in Russia from the 19th century — a baroque-eclectic palace built between 1877 and 1877 for the merchant Sergei Rukavishnikov, who wanted a house that would make the neighbours (and his rivals) feel small. The facade is a riot of sculptural ornament: atlantes supporting the balconies, elaborate window surrounds, caryatids, and a roofline of urns.

@@ -8,6 +8,7 @@ snippet: Over-the-water seafood dining at Manly Cove
 tags:
 - eating_out
 - restaurant
+score: 6.3
 ---
 
 Perched on stilts right over Manly Cove, this is one of the better waterfront dining spots on Sydney's northern beaches. The focus is modern Australian with a strong seafood lean — think pan-seared barramundi, Sydney rock oysters, and grilled king prawns. The outdoor tables under their Italian umbrellas look straight across the harbour, and on a warm evening there's no better seat in Manly.

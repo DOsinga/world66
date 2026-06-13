@@ -13,6 +13,7 @@ story: >
   walk-around of all five icons is treated by pilgrims as a quick equivalent of
   visiting all five terraces of the mountain — a useful shortcut for those who
   cannot manage the long climbs to each summit.
+score: 7.3
 ---
 
 Dailuoding sits on a small bump in the ridge directly opposite Taihuai, reached by 1,080 stone steps cut into the hillside or, less penitentially, by cable car from the riverbed. The climb is steep but not long — most reasonably fit walkers manage it in under an hour. At the top is a modest temple compound built up in the Ming dynasty, with a main hall, a few side shrines, and a wide terrace that gives the single best view of the central Taihuai valley.

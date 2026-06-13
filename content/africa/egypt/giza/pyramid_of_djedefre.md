@@ -11,6 +11,7 @@ type: poi
 sources:
   - https://en.wikipedia.org/wiki/Pyramid_of_Djedefre
   - https://en.wikipedia.org/wiki/Abu_Rawash
+score: 7.9
 ---
 
 Eight kilometres north of Giza, on a high ridge at Abu Rawash, stands what remains of the pyramid of Djedefre — Khufu's son and immediate successor, who chose this dramatic hilltop site rather than the family plateau. The pyramid is largely destroyed: much of it was quarried for building materials in Roman times and later, leaving a deep pit at the centre rather than a mound. It is sometimes called the "lost pyramid" because so little of it survives above ground.

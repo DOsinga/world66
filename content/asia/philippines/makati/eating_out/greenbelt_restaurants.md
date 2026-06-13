@@ -1,6 +1,7 @@
 ---
 title: "Greenbelt Restaurants"
 type: poi
+score: 6.3
 ---
 
 The Greenbelt complex houses some of the most reliable mid-to-upscale dining in Makati, concentrated around Greenbelt 3 and 5. The combination of park terrace seating, air-conditioned interiors, and a wide range of cuisines makes it the default choice for business lunches, date nights, and group dinners that need to please a mixed crowd. The quality across the board is high even if the setting is unapologetically mall-adjacent.

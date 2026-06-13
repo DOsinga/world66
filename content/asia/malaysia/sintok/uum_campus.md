@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.4660
 longitude: 100.5010
+score: 6.1
 ---
 
 The campus of Universiti Utara Malaysia (UUM) is the principal landmark of Sintok and an unexpectedly pleasant place to spend a few hours. Set in rolling hills above a reservoir, the campus grounds are green and well-maintained, with a distinctly different atmosphere from the dense tropical heat of the lowlands. The university's central lake is the focal point — students cycle along its banks in the early morning and late afternoon, and the views across the water to the forested hills are calming.

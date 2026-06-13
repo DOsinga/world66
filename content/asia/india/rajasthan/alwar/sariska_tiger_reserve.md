@@ -13,6 +13,7 @@ story: >
   of tiger protection across India. Tigers were relocated from Ranthambore beginning
   in 2008, and the reserve today has a small but growing population — a recovery that
   remains one of Indian conservation's more cautious success stories.
+score: 8.8
 ---
 
 Sariska Tiger Reserve covers 866 sq km of the Aravalli hills, 35 km west of Alwar, and is one of India's less-visited wildlife sanctuaries despite being easily accessible from Delhi. That relative obscurity works in its favour — jeep tracks that in Ranthambore would be traffic-jammed are here often empty, and the scrub forest has an untouched quality that feels genuinely wild.

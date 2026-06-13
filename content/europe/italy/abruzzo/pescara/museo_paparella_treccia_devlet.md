@@ -9,6 +9,7 @@ latitude: 42.4725
 longitude: 14.2083
 sources:
   - https://en.wikipedia.org/wiki/Museo_Paparella_Treccia_Devlet
+score: 7.3
 ---
 
 The Paparella Treccia Devlet Museum occupies a late 19th-century villa in the northern part of Pescara, one of the few grand bourgeois residences in a city that lost most of its architectural heritage in the Second World War. The museum takes its name from the families who donated the building and its contents to the city.

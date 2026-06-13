@@ -8,6 +8,7 @@ latitude: 37.1997
 longitude: 112.1758
 address: Intersection of Ming Qing Jie and Xi Da Jie, Pingyao Old Town
 snippet: The central market tower at the crossroads of Pingyao's main streets — the visual heart of the old city
+score: 7.1
 ---
 
 The Market Tower (Shi Lou) stands at the central crossroads of Pingyao's old city, at the intersection of the north-south and east-west main streets. A multi-storey timber and brick tower on a stone platform, it was the commercial and administrative center of the old city — the point from which distances were measured, market activities regulated, and official announcements made.

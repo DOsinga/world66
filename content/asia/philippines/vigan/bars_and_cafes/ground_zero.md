@@ -1,6 +1,7 @@
 ---
 title: "Ground Zero Café"
 type: poi
+score: 5.4
 ---
 
 Ground Zero is one of the few proper bars in Vigan's heritage zone, tucked into a colonial-era building a short walk from Calle Crisologo. It draws a mixed crowd of backpackers, local students, and the occasional traveller who has decided to extend their Vigan stay by a day or two, which is most of them. The atmosphere is relaxed and unpretentious — cold San Miguel beer, basic cocktails, and a small food menu that covers Filipino comfort food and snacks.

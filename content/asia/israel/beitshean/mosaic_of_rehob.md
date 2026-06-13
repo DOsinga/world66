@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 32.4631
 longitude: 35.4936
+score: 7.2
 ---
 
 In the floor of an ancient synagogue at Kibbutz Ein HaNetziv, south of Beit Shean, lies one of the longest Hebrew inscriptions from the Byzantine period found anywhere in the world. The Mosaic of Rehob is a 6th-century synagogue floor mosaic containing an elaborate halakhic text — rabbinic legal rulings about the boundaries of the Land of Israel, details about Shemita (the sabbatical year), and lists of towns exempt from various agricultural laws.

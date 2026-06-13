@@ -14,6 +14,7 @@ story: >
   kilometres from the Earth's centre, beating Everest by more than two
   kilometres. Alexander von Humboldt reached 5,878 metres on the mountain in
   1802, setting a world altitude record that stood for 30 years.
+score: 9.2
 ---
 
 Chimborazo, the dormant volcano that dominates the skyline west of Riobamba, is the obvious day trip from the city. Its permanent snowcap is visible on clear mornings from the streets below, and the journey up — through páramo grassland and then into the rocky, windswept high zone — is dramatic. A paved road leads to the first refuge at around 5,000 metres, which is reachable in a hired truck or guided tour from Riobamba. From there the views of the surrounding Andes are immense.

@@ -8,6 +8,7 @@ tags:
 address: "3101 W Harvard St, Santa Ana, CA 92704"
 latitude: 33.7207
 longitude: -117.9107
+score: 7.2
 ---
 
 A 12-acre outdoor history museum built around two Victorian-era houses — the 1898 Kellogg House and the 1895 Palmyra House — set in restored citrus groves that evoke Orange County's agricultural past before the freeways and suburbs arrived. The museum runs craft demonstrations, living history programmes, and seasonal events.

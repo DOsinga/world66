@@ -7,6 +7,7 @@ tags:
 title: BKK1
 type: poi
 neighbourhood: BKK1
+score: 6.1
 ---
 
 Officially Boeung Keng Kang I, but always called BKK1: the expat-and-NGO heart of Phnom Penh. The grid of leafy streets south of Sihanouk Boulevard is the easiest neighbourhood to walk in, with the city's densest concentration of cafés, bookshops, embassies, mid-range restaurants and yoga studios.

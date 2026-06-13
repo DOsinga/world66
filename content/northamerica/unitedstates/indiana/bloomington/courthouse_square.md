@@ -12,6 +12,7 @@ story: >
   ambition repeatedly outpaced fire-resistant construction. The 1908 building cost $175,000, an
   enormous sum at the time, and was financed partly by local limestone quarry owners who saw it as
   an advertisement for Indiana stone. The dome is visible from most of downtown Bloomington.
+score: 8.5
 ---
 
 The Monroe County Courthouse anchors the centre of Bloomington, sitting in a small square surrounded by the independent shops, restaurants, and bars that give the city its character. The 1908 Beaux Arts building — limestone, of course — has a copper dome that turns green in the rain and a grand interior rotunda open to the public during business hours.

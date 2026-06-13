@@ -11,6 +11,7 @@ story: >
   to build a public library. The building was completed in 1655 and the books have
   remained in place ever since — the same shelves, the same room, the same collection,
   for nearly four centuries.
+score: 8.0
 ---
 
 A 17th-century public library that has remained essentially unchanged since it opened in 1655. The single reading room is lined floor to ceiling with its original wooden bookcases, still holding the same academic books — theology, law, medicine, classical literature — that Johannes Thysius bequeathed to the city. The room is small, quiet, and extraordinarily atmospheric.

@@ -9,6 +9,7 @@ latitude: 44.4163
 longitude: 12.1992
 story: >
   The goldfish that live in San Francesco's flooded crypt have become famous enough that the church now charges a small entry fee specifically to view them. Carl Jung visited the crypt in the 1930s and reported a mystical experience there — the shimmer of the water reflecting off ancient mosaics, and a sense that time had become unstable. He wrote about it in Memories, Dreams, Reflections as one of the most uncanny moments of his life.
+score: 8.3
 ---
 
 The Basilica of San Francesco stands beside Dante's tomb and provided the setting for the poet's funeral in 1321. The church itself is a 10th-century structure, rebuilt several times, with a calm Romanesque interior that is often overlooked by visitors who come only for the tomb. But the real reason to go inside is the crypt.

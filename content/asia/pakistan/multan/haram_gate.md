@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.1901
 longitude: 71.4694
+score: 6.6
 ---
 
 The **Haram Gate** stands at the southern end of Alang Road and is one of the six surviving gates of the old walled city. The name — meaning "forbidden" or "sanctuary" — reflects the fact that this gate gave the most direct access to the fort precinct and was the route used by visiting officials and pilgrims to the great Sufi shrines. It was rebuilt in the eighteenth century in the standard Multani style: a tall brick portal with flanking guard chambers.

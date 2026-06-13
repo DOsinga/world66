@@ -8,6 +8,7 @@ latitude: 5.3645
 longitude: 100.4607
 story: >
   The hill rises sharply from the flat Penang mainland, making it visible from much of the surrounding district. During the Japanese occupation of Malaya in World War II, it served as a navigation point for aircraft. Today the same prominence that made it militarily useful makes it a favourite weekend escape for families from Seberang Perai and George Town.
+score: 7.4
 ---
 
 Bukit Mertajam hill is a 443-metre forested peak that dominates the mainland Penang skyline. The main trailhead begins at the Cherok Tok Kun recreational forest at the hill's base, where the forest department maintains a car park and basic facilities. The trail climbs through dense secondary rainforest of dipterocarp and fig trees; the ascent takes around two hours at a moderate pace, and the path is well-marked with concrete steps on the steeper sections.

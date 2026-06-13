@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - lekki
+score: 8.6
 ---
 
 Nike Davies-Okundaye's five-storey private gallery in Lekki is the single best place in Lagos to see contemporary Nigerian visual art under one roof. The collection runs to thousands of paintings, sculptures, textiles, beadwork, masks and ceramics from artists across the country and across decades. The third floor is dedicated to Nike's own adire (indigo-dyed cloth) and textile work. Nike herself is often in the gallery and is famously generous with her time. Entry is free; many pieces are for sale, often at fixed prices.

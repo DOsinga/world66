@@ -12,6 +12,7 @@ story: >
   railway engineering facilities in the world, and virtually the entire town existed because of it.
   The works built 77 of the famous Castles and 30 of Collett's Kings in this shed. When it closed
   in 1986 after 143 years, 2,500 people lost their jobs in a single afternoon.
+score: 8.4
 ---
 
 STEAM occupies part of the original GWR works that made Swindon what it is — a massive redbrick complex where the locomotives that ran Britain's western lines were designed, built, and repaired for over a century. The museum tells that story with real engines rather than just models: you can walk alongside Caerphilly Castle and other preserved locomotives, inspect the machinery up close, and understand the scale of what was accomplished here.

@@ -9,6 +9,7 @@ latitude: 16.2003
 longitude: 108.1283
 story: >
   The pass marks the historic divide between the kingdoms of Dai Viet to the north and Champa to the south, and it is still a sharp climatic boundary — the cool, drizzly air of Hue can give way to bright sun on the Da Nang side within minutes. Top Gear's 2008 Vietnam Special memorably called it "a deserted ribbon of perfection — one of the best coast roads in the world."
+score: 9.0
 ---
 
 The Hai Van Pass — Den Mountain Pass, the Pass of the Ocean Clouds — climbs 500 metres above the sea just south of Lang Co, separating Thua Thien Hue province from Da Nang. Until the tunnel below it opened in 2005, every car, truck and motorbike heading down the coast had to crawl over the top, and the road has been beautifully empty ever since.

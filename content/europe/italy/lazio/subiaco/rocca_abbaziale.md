@@ -9,6 +9,7 @@ latitude: 41.9267
 longitude: 13.0944
 sources:
   - https://en.wikipedia.org/wiki/Rocca_Abbaziale
+score: 7.8
 ---
 
 The Rocca Abbaziale sits at the highest point of the medieval town, a castle-abbey whose towers and crenellated walls have dominated the skyline of Subiaco since the thirteenth century. It served as the residence of the Benedictine abbots who controlled the town, and later passed briefly to the Borgia family — hence its popular name. The views from the walls over the Aniene valley and the Simbruini mountains are exceptional.

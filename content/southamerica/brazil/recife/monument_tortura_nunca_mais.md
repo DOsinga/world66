@@ -4,6 +4,7 @@ type: poi
 latitude: -8.05645
 longitude: -34.87773
 tags: [sight, monument]
+score: 5.8
 ---
 
 A stark public sculpture in Praça Padre Henrique, dedicated to victims of torture under the Brazilian military dictatorship. The work, by Demetrio Albuquerque, shows a suspended human figure being broken — an unambiguous and uncomfortable piece that locals walk past every day.

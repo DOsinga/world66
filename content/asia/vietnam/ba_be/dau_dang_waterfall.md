@@ -7,6 +7,7 @@ tags:
   - boat
 latitude: 22.3717
 longitude: 105.6350
+score: 7.0
 ---
 
 Dau Dang Waterfall marks the southern end of the boat route from Ba Be Lake. The Nang River cascades over a wide basalt shelf in a series of low drops rather than a single plunge — it is broad rather than tall, and the surrounding forest crowds in close on both sides. The boat ties up on the bank and you walk a short distance to the viewing point along the riverside.

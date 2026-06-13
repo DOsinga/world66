@@ -16,6 +16,7 @@ story: >
   N'Guigmi has retreated many kilometres from where it stood within living
   memory. What was once a thriving fishing port is now a walk through scrubland
   to reach the water.
+score: 8.3
 ---
 
 The shore of Lake Chad lies roughly 30 km east of N'Guigmi along a track through the Sahel, though the exact distance from town changes as the lake continues to retreat. Fishing communities still work the shallow waters from pirogues, and the lake remains a critical water source for the people and animals of this hyperarid region. The shoreline at dawn or dusk, with fishermen landing their catch and birds moving across the pale water, is one of the quietly extraordinary sights of this part of Africa.

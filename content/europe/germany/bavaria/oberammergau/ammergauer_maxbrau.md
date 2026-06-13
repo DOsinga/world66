@@ -9,6 +9,7 @@ tags:
   - restaurant
   - bar
 address: Ettaler Strasse 5
+score: 6.5
 ---
 
 Ammergauer Maxbräu is the brewpub and restaurant attached to the Maximilian Hotel at the southern end of the village. The beer is brewed on site — a Helles, a Weissbier, and seasonal specials — served at copper-clad tables that line the room.

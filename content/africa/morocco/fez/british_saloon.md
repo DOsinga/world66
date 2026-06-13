@@ -8,6 +8,7 @@ tags:
 title: British Saloon
 type: poi
 snippet: "Bar in a former British consulate — one of the most atmospheric in Fez"
+score: 6.6
 ---
 
 The British Saloon occupies what was once the British consulate in the Ville Nouvelle, and the building's former life gives it more character than most Moroccan bar interiors. Dark wood, old photographs, a long bar — it is a proper drinking place with a hint of colonial-era atmosphere, neither a tourist trap nor a grim local dive. Beer and spirits are both available; the Moroccan wines hold up.

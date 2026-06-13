@@ -9,6 +9,7 @@ tags:
 - daan
 title: Indulge Experimental Bistro
 type: poi
+score: 6.5
 ---
 
 Down a quiet residential alley off Fuxing South Road, Indulge is one of Taipei's best cocktail bars and a regular fixture on the Asia's 50 Best Bars list. The room is small and dim — leather banquettes, brass-and-walnut bar, a single counter where the bartenders work — and the drinks are dense, complex, and rooted in Taiwanese ingredients (oolong tea, mountain-grown coffee, local liqueurs).

@@ -13,6 +13,7 @@ story: >
   The story is almost certainly apocryphal, but it captures something true about Light's character: he was a
   pragmatist who founded a trading post with no formal colonial mandate, acquiring Penang from the Sultan of
   Kedah in a deal the Sultan would spend the rest of his life trying to reverse.
+score: 6.7
 ---
 
 Fort Cornwallis stands at the northeastern tip of George Town where Francis Light first landed in 1786 to establish the British East India Company's trading post. The star-shaped fortification is the largest surviving British fort in Malaysia. It was built in two stages: a wooden stockade initially, then a brick fort in the 1810s. The cannons that line the ramparts are originals from the colonial period; the most famous is the Seri Rambai, a 17th-century Dutch cannon with a legend attached to it involving fertility.

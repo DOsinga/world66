@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Smallest_House_in_Great_Britain
 story: >
   The house measures just 3.05 metres high and 1.8 metres wide. It was lived in until 1900, when the last tenant — a 6-foot-3 fisherman named Robert Jones — was told by the local council that it no longer met minimum standards for human habitation. He was reportedly the last of a long line of tenants who had somehow managed to live in a space smaller than most modern bathrooms.
+score: 6.1
 ---
 
 The Smallest House in Britain is a genuine record-holder: at 3.05 metres tall and 1.8 metres wide, it is the smallest domestic dwelling ever recorded in the country, and it continued to be lived in until 1900. The red-painted façade is unmissable on the quayside, and it has been a tourist attraction of a sort since the early 20th century.

@@ -7,6 +7,7 @@ tags:
 latitude: -9.4490
 longitude: 147.1800
 snippet: "Port Moresby's largest shopping mall and a useful air-conditioned refuge"
+score: 4.2
 ---
 
 Vision City in Waigani is Port Moresby's largest shopping mall, holding supermarkets, international brand stores, electronics shops, cafes, and a cinema. It is a practical place to stock up before heading into the provinces, and the food court offers one of the wider ranges of affordable food in the city.

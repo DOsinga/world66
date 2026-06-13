@@ -5,6 +5,7 @@ snippet: The largest and most architecturally important Ottoman mosque in Herzeg
 tags: [things_to_do, sight, mosque]
 latitude: 43.3411
 longitude: 17.8139
+score: 8.4
 ---
 
 Built in 1557 by the Ottoman vizier Mehmed-Beg Karađoz, this is the largest and architecturally most significant mosque in Herzegovina. It sits a few minutes' walk north of the Stari Most on the east bank, on Braće Fejića street. The single-domed prayer hall, the portico of three smaller domes, and the elegant pencil minaret follow the classical Ottoman style.

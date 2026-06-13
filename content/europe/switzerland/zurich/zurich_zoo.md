@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Major modern zoo with a glass-domed Madagascan rainforest you can walk inside"
+score: 8.1
 ---
 
 Zurich Zoo, on the slope of the Zürichberg next to Fluntern, is one of Europe's most thoughtfully designed modern zoos. The headline attraction is the **Masoala Rainforest** — a glazed dome 120 metres long enclosing a 1.1-hectare slice of Madagascan habitat, with free-flying birds, lemurs, geckos and an actively planted forest at full ambient temperature and humidity. You can walk inside on raised walkways.

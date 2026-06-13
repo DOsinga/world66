@@ -9,6 +9,7 @@ latitude: 41.3817
 longitude: 43.3064
 story: >
   Unlike Vardzia, Vanis Kvabebi has never been restored or stabilised, and large sections of its cliff face have collapsed since medieval times. The caves that remain open give the impression of a place abandoned mid-use: carved niches, faded fresco fragments, and the geometry of rooms that once housed a community of monks suspended in the rock.
+score: 8.1
 ---
 
 Vanis Kvabebi — "Vani's Caves" — is a cave monastery carved into a basalt cliff in the Kura River gorge, a few kilometres from Tsunda toward Aspindza. It is smaller and far less visited than Vardzia, but arguably more atmospheric: there are no entrance fees, no guides, and no crowds. The caves were inhabited by monks from at least the 10th century and possibly earlier.

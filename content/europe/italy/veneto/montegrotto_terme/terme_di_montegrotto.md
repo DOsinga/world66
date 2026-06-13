@@ -9,6 +9,7 @@ tags:
 - sight
 title: Thermal Spa Complex
 type: poi
+score: 8.0
 ---
 
 The thermal pools at Montegrotto are fed by springs that rise at around 87°C, rich in bromine and iodine. The main spa hotels — including Terme Preistoriche and Hotel Augustus Terme — sell day passes to their outdoor and indoor pools. The outdoor pools are the most enjoyable: warm water even on cool days, with views of the Euganean Hills.

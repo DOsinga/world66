@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Local tradition has it that the Treaty of Limerick, ending the Williamite war in Ireland on terms favourable to Catholics, was signed in October 1691 on this irregular limestone block on the riverbank. The terms of the treaty were later broken by the English parliament, which gave the stone its second meaning as a symbol of betrayed promises."
+score: 5.3
 ---
 
 A rough limestone block on a stone pedestal on the western (Thomond Bridge) side of the Shannon, the Treaty Stone marks — by tradition rather than documented fact — the place where the 1691 Treaty of Limerick was signed at the end of the Williamite war in Ireland. The treaty promised toleration to Catholics on terms that the Westminster parliament subsequently abrogated, and "the broken treaty" became one of the foundational grievances of Irish nationalism in the centuries that followed.

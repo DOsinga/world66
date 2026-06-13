@@ -6,6 +6,7 @@ longitude: 73.6831
 tags:
   - eating_out
   - restaurant
+score: 6.9
 ---
 
 A converted 17th-century lakeside haveli, **Jagat Niwas Palace Hotel** runs one of Udaipur's better rooftop restaurants — covered in season, with carved jharokha windows facing the lake and a menu that does the Mewari classics (*laal maas*, *safed maas*, *gatte ki sabzi*) properly. Live ghazal music most evenings.

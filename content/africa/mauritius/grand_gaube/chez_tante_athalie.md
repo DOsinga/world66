@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -20.0017
 longitude: 57.6675
+score: 5.4
 ---
 
 A small open-air restaurant in a colonial-era plantation house on the road into Grand Gaube, set in a garden of vintage cars and tropical plants. The set Creole lunch — fish or chicken curry, rice, salads, dessert — is generous and reliable, and the setting is the main attraction.

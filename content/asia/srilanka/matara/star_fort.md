@@ -8,6 +8,7 @@ latitude: 5.9481
 longitude: 80.5483
 story: >
   The Star Fort was built by the Dutch in 1763 specifically to guard the eastern approach to the main Matara Fort across the river. Its distinctive six-pointed star shape — a design popular with European military engineers of the era because the angled walls deflected cannonballs — was copied from continental European defensive architecture. It is one of only two surviving star forts in Sri Lanka, the other being at Hammenhiel in the north.
+score: 7.8
 ---
 
 The Star Fort stands on the eastern bank of the Nilwala River, about 350 metres from the main Matara Fort gate, connected to the mainland by a small bridge. The Dutch built it in 1763 as a secondary defensive position to cover the river approach. The six-pointed star plan — each point forming a bastion — is textbook 18th-century military engineering, and the fort is in remarkably good condition for its age.

@@ -8,6 +8,7 @@ latitude: 21.8800
 longitude: 83.8900
 story: >
   The paintings were largely unknown outside the region until the Archaeological Survey of India documented them in the 1990s. The site includes paintings in multiple styles and eras, suggesting the cave shelter was used continuously by different human groups over thousands of years — a rare instance of layered prehistoric use in eastern India.
+score: 7.5
 ---
 
 The rock paintings at Bikramkhol, about 20 kilometres from Jharsuguda town, are the most significant prehistoric site in the district. Painted on a sandstone cliff face in a natural rock shelter, the images include human figures, animals, geometric patterns, and scenes of hunting and ritual — a visual record of occupation dating back at least to the Mesolithic period, several thousand years BCE.

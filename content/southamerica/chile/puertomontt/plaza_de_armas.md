@@ -6,6 +6,7 @@ longitude: -72.9405
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 The main square is the orientation point for the centre — the cathedral on one side, the Casa del Arte Diego Rivera on another, the regional government building on a third, and a low fountain in the middle. Tour-bus arrivals usually pause here before pushing on to Puerto Varas, so it can get busy at midday in summer.

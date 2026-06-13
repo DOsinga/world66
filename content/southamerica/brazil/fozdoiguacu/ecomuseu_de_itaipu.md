@@ -8,6 +8,7 @@ latitude: -25.4547
 longitude: -54.5851
 sources:
   - https://en.wikipedia.org/wiki/Itaipu_Dam
+score: 7.8
 ---
 
 The Ecomuseu de Itaipu tells the human and environmental story behind the dam — a story that the dam's official tours tend to skip over. The museum occupies a building near the dam's administrative complex and covers the archaeology of the region before the reservoir was created, including the indigenous Guaraní communities whose lands were flooded, and the history of the city of Guaíra, which was partially submerged.

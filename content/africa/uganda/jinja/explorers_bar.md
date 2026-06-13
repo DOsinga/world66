@@ -6,6 +6,7 @@ tags:
   - bar
 title: Explorers Bar
 type: poi
+score: 4.3
 ---
 
 The bar at Explorers Backpackers in the Bujagali area has become one of the social centres of the Jinja adventure scene. It sits above the river with a long terrace, cold Nile Special lager, and a steady stream of travellers comparing stories from the day's rafting. The setting is hard to beat — you can hear the rapids from the bar on a quiet night.

@@ -6,6 +6,7 @@ longitude: 18.5500
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 A preserved fishing harbour on a sheltered inlet, Bönhamn is a cluster of red and ochre wooden boathouses (*sjöbodar*) clinging to a steep ravine that drops into the Bothnian Sea. A small fleet of working boats still fishes from here for herring and salmon, and the smokehouse on the quay sells freshly smoked fish in season.

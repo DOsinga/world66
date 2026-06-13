@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 8.0
 ---
 
 Bue Marino is one of Favignana’s most dramatic coastal places, where old tuff quarries meet deep blue water. The cut stone, caves, and ledges make the landscape feel partly natural and partly carved by hand.

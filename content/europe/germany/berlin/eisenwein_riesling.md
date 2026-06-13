@@ -8,6 +8,7 @@ tags:
 - berlinmitte
 title: Eisenwein Rieslinghaus
 type: poi
+score: 6.2
 ---
 
 A fine wine shop in the Mitte district specialising in German Riesling and sparkling wines. They carry winemaker bottles from across the German wine regions, from everyday drinking to serious collectors' bottles. The staff know their stock well.

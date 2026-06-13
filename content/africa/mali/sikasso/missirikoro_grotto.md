@@ -7,6 +7,7 @@ tags:
 latitude: 11.4500
 longitude: -5.7000
 story: "Missirikoro is one of the rare sites in West Africa where Muslims, Christians, and traditional Senufo believers all worship at the same place. The grotto contains an active mosque inside the rock; Christians light candles in adjacent chambers; and animist offerings still appear at the natural altars deeper in the cave."
+score: 8.2
 ---
 
 About fifteen kilometres west of Sikasso, the Missirikoro grotto is a granite outcrop riddled with caves that has been a sacred site for centuries. A small mosque sits in the largest chamber, and pilgrims of three faiths come to make offerings.

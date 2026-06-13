@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Agricultural Palace (Dvorets Zemledeltsev) is one of Kazan's most photographed modern buildings, a wildly ornate Italian-Renaissance-style government office finished in 2010 just below the Kremlin walls on the Kazanka embankment. A giant bronze tree built into the central archway is the most striking feature; the rest is a confection of arches, columns, and pediments.

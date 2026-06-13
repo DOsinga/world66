@@ -7,6 +7,7 @@ tags:
 - historic
 title: Quetta Railway Station
 type: poi
+score: 7.5
 ---
 
 Quetta Station is the northern terminus of one of Pakistan's most dramatic rail journeys: the approach from Karachi via the Bolan Pass, climbing more than 1,600 metres through desert and bare rock on the line that the British built between 1879 and 1887. The station building, in a functional colonial style, dates from the British period; the surviving infrastructure — loop lines, sheds, the long platform that once handled troop trains and mail cars — gives a sense of Quetta's strategic importance as a garrison town on the road to Afghanistan.

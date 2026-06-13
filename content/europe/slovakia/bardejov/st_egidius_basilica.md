@@ -14,6 +14,7 @@ story: >
   Nativity of the Virgin, dating to around 1480, is considered the masterpiece
   of the set — art historians rank it alongside the finest workshop output of
   Veit Stoss, who was working in Kraków at the same time just over the mountains.
+score: 8.6
 ---
 
 The Basilica of St. Egidius is the dominant building on Bardejov's main square — a substantial Gothic church whose construction began in the early 15th century and continued for decades, producing a three-aisled interior of considerable grandeur. It was elevated to the status of a minor basilica by Pope John Paul II in 2000, the same year the town received its UNESCO inscription.

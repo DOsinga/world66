@@ -12,6 +12,7 @@ story: >
   continued without interruption. The weavers today use foot-operated looms of
   considerable complexity, producing aingyi (shirt fabric) and longyi (sarong) cloth
   in patterns specific to the region.
+score: 7.2
 ---
 
 The main road through Amarapura is lined with open-fronted workshops where you can watch cotton and silk weavers at work on traditional looms. This is not a tourist performance — the weavers are producing cloth for sale, working quickly and with evident skill, and the sound of the shuttles creates a rhythmic background noise that carries down the street.

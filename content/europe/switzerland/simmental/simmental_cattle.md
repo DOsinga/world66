@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Simmental_cattle
 story: >
   The Simmental breed was formally registered in the mid-nineteenth century but had been selectively developed by valley farmers for several centuries before that. By the late 1800s it was already the most exported Swiss cattle breed, valued equally for milk and beef. Today there are more Simmental cattle outside Switzerland than in it — but the original breeding population still grazes the same valley slopes.
+score: 8.0
 ---
 
 The large red-and-white cattle grazing the steep slopes of the Simmental are not merely picturesque — they are the reason this valley is known at all beyond Switzerland. The Simmental breed is one of the oldest and most widespread dual-purpose cattle breeds in the world, producing both milk and beef. The valley that gave them their name is still dotted with the traditional dark wooden farmsteads where the breed was developed over centuries.

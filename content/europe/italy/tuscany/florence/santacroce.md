@@ -9,6 +9,7 @@ tags:
 - square
 title: Santa Croce
 type: poi
+score: 8.8
 ---
 
 This Franciscan basilica, begun in 1295 to plans by Arnolfo di Cambio, is Florence's most famous burial church. Michelangelo, Galileo, Machiavelli, and Ghiberti are all interred here, along with a cenotaph for Dante. Inside are Giotto's frescoes in the Peruzzi and Bardi chapels, and tombs by Canova, Rossellino, and Bartolini. The square outside is one of Florence's most attractive piazzas.

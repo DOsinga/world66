@@ -6,6 +6,7 @@ longitude: -76.5169
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 A long limestone cave system on the central west coast, with a single entrance accessed by a small rope ladder and several internal chambers full of bats, stalactites, and the carved names of generations of Eleutherans (including, allegedly, the pirate Henry Morgan).

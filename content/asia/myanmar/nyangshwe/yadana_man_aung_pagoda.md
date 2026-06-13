@@ -7,6 +7,7 @@ tags:
 snippet: Tiered, stepped stupa at the centre of Nyangshwe town
 latitude: 20.6592
 longitude: 96.9211
+score: 6.7
 ---
 
 The most prominent sight in Nyangshwe itself, Yadana Man Aung Pagoda is an unusual stepped, pyramid-shaped stupa rather than the standard bell-shaped Burmese form. Said to be the oldest pagoda in the town, it has a small museum attached with a collection of antique Buddha images, lacquerware, and royal regalia from the old Yawnghwe court.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 62.2414
 longitude: 25.7446
+score: 7.3
 ---
 
 The Jyväskylä Art Museum (Jyväskylän taidemuseo) is the main fine art museum for the Central Finland region, housed in a handsome 1930s functionalist building on Kauppakatu, the main shopping street. The permanent collection focuses on Finnish art from the 19th century to the present, with a good representation of the Finnish Romantic period alongside 20th-century modernism.

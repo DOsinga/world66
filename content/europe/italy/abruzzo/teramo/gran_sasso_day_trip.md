@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - day_trips
 - outdoor
+score: 8.5
 ---
 
 The Gran Sasso massif, the highest mountain group in the Apennines, rises directly south of Teramo and is the city's natural hinterland. The Corno Grande peak (2,912 m) is the highest point on the Italian peninsula south of the Alps; the plateau of Campo Imperatore on its southern flank is one of the most striking landscapes in central Italy.

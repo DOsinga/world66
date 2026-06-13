@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Pj. Hajenius
 type: poi
+score: 7.4
 ---
 
 P.G.C. Hajenius has been Amsterdam's premier tobacco and cigar shop since 1826. The Rokin flagship, built in 1915, is one of the most beautiful retail interiors in the city — all dark wood, brass fittings, and display cases arranged like a jeweller's. The stock ranges from Cuban Cohibas to Dutch pipe tobacco blends, and the staff know what they're selling.

@@ -8,6 +8,7 @@ tags:
 latitude: 4.79321
 longitude: -1.94484
 story: "Fort Metal Cross was built by the English in 1692, not the Dutch as its Dutch design suggests — the English East India Company hired Dutch builders and architects for much of its West African construction. The fort changed hands repeatedly between the English, Dutch, and local Ahanta chiefs over the following century, with the Ahanta sometimes controlling it outright and charging Europeans for the right to trade."
+score: 8.0
 ---
 
 Fort Metal Cross stands on a rocky promontory at the village of Dixcove, about two kilometres west of Busua, commanding sweeping views over the bay and the Atlantic. Built in 1692, it is one of the best-preserved colonial-era forts on Ghana's coast, less visited and less commercialised than the more famous Elmina or Cape Coast castles further east. The fort's position on its rocky headland above the fishing community of Infuma gives it a dramatic setting.

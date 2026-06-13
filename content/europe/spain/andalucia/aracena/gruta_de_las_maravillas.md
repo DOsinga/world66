@@ -8,6 +8,7 @@ title: Gruta de las Maravillas
 type: poi
 story: >
   The cave was discovered at the end of the 19th century by a boy following his lost pig into a hole in the hillside. When he lowered a lamp into the opening, he found the largest cave system in Andalucia waiting below.
+score: 8.9
 ---
 
 The Cave of Wonders is the centrepiece of Aracena and one of the finest cave systems in Spain. Twelve chambers and six underground lakes stretch beneath the castle hill, hung with formations of stalactites, stalagmites, and crystalline curtains built up over millions of years.

@@ -7,6 +7,7 @@ tags:
 latitude: 39.9577
 longitude: 26.2386
 snippet: "The large rectangular hall where Schliemann found the gold cache he called the Treasure of Priam."
+score: 7.8
 ---
 
 At the centre of the mound, partly cut through by Schliemann's trench, are the foundations of the **megaron** complex of Troy II — the large rectangular halls of the Early Bronze Age city of around 2500 BC. The megaron form is unmistakable: a long rectangular room with a porch, a central hearth, and a hipped roof supported on columns. This was the form that later evolved into the central hall of Mycenaean palaces and ultimately into the Greek temple.

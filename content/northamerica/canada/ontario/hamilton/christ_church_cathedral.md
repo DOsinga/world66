@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Anglican cathedral on James Street North, with a fine Gothic Revival interior"
+score: 7.4
 ---
 
 Christ's Church Cathedral is the cathedral of the Anglican Diocese of Niagara — a Gothic Revival sandstone church on James Street North, completed in 1854 to a design by William Thomas, one of Toronto's most influential mid-19th-century architects. The spire is a Hamilton landmark, visible across the lower city.

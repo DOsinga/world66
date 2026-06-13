@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.9
 ---
 
 The Gorges du Tarn cut through the limestone plateaus north of Millau for around fifty kilometres between Le Rozier and Ispagnac. Cliffs rise three hundred to five hundred metres above the river, and the road that follows the bank — the D907 — is one of the great drives in France, slow and twisting, with stop-offs at medieval villages like Sainte-Énimie and La Malène.

@@ -7,6 +7,7 @@ tags:
 title: Phnom Penh Railway Station
 type: poi
 snippet: Restored Art Deco station with trains to Sihanoukville and Battambang
+score: 7.7
 ---
 
 The original 1932 Art Deco station, abandoned during the long civil war and dormant for decades, was restored in 2016 and once again handles passenger trains — south to Sihanoukville and (intermittently) west towards Poipet via Battambang. The yellow stucco façade and shaded forecourt are a quiet pocket of the colonial city.

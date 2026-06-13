@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.1
 ---
 
 Hirsholmene is a small archipelago of low islands about 7 km northeast of Frederikshavn in the Kattegat. The largest island, Hirsholm, has a lighthouse, a tiny year-round population, and a handful of fishermen's cottages; the surrounding islets are uninhabited and used as a breeding ground by thousands of seabirds.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.0072
 longitude: 101.4076
+score: 6.0
 ---
 
 The Luang Namtha night market runs along a section of the main road from around 5pm to 10pm, offering a mix of Lao food stalls, grilled items, fresh fruit shakes, and a small selection of handicrafts. It is smaller than the famous night market in Luang Prabang but draws a genuine local crowd alongside travellers, and the food is cheap and reliably prepared.

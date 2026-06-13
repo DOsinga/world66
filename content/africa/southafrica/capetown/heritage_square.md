@@ -9,6 +9,7 @@ tags:
 - de_waterkant
 title: Heritage Square
 type: poi
+score: 6.9
 ---
 
 Heritage Square is a block of restored 18th and early 19th-century Cape Dutch and Georgian townhouses around a central courtyard in the lower part of De Waterkant, near the junction of Shortmarket and Bree streets. It is one of the better-preserved examples of early Cape Town architecture remaining in the city centre.

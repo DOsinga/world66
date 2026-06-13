@@ -6,6 +6,7 @@ tags:
 title: Bergamo Airport Shuttle Bus
 type: poi
 url: www.orioshuttle.com
+score: 2.0
 ---
 
 The Orio Shuttle Bus takes you straight from Central Milan Train Station to the Bergamo (Orio al Serio) Airport. From there Taxis or city buses take you to the Bergamo Train Station which is in the middle of the town of Bergamo.

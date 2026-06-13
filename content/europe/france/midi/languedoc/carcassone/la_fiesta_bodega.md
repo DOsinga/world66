@@ -8,6 +8,7 @@ tags:
   - bastide_saint_louis
   - bar
 neighbourhood: Bastide Saint-Louis
+score: 5.1
 ---
 
 A relaxed Spanish-style bar in the Bastide, with respectable tapas and a Mediterranean tilt to the wine list. One of the better casual evening stops down in the lower town when you want a drink without committing to a whole sit-down meal.

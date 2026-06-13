@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: De Dampkring
 type: poi
+score: 5.3
 ---
 
 One of Amsterdam’s most visually striking coffeeshops, De Dampkring is worth stepping into even if you have no intention of smoking. The interior is an explosion of colour — mosaic tiles, sculpted walls, and ornate lanterns that give the place an Ali Baba-meets-Gaudi atmosphere. The name means "atmosphere" but also loosely translates as "smokers’ circle."

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 62.5710
 longitude: 11.3840
+score: 9.4
 ---
 
 The historic wooden town of Røros — the Bergstaden — is the reason for the UNESCO listing and the reason to visit. The rows of dark-timbered houses, many built in the 17th and 18th centuries, line the main street (Bergmannsgata) and the lanes leading down toward the smelting works. The buildings are a mix of miners' cottages and the larger houses of the foremen and officials; the social hierarchy of the mining community is readable in the architecture.

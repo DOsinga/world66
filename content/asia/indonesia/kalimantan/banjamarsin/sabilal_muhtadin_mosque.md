@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious
+score: 5.6
 ---
 
 The Sabilal Muhtadin Grand Mosque is the main mosque of Banjarmasin, completed in 1981 in a striking modernist style — a vast aluminium-clad dome over an octagonal prayer hall, flanked by a single tall minaret. It occupies a green park in the centre of the city, across the river from the colonial quarter, and is visible from most of the riverfront.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.9952
 longitude: -4.1018
+score: 5.8
 ---
 
 One of the better crêperies in Quimper's old town, on a quiet lane a short walk from the cathedral. The galettes here are made with local buckwheat flour and filled with serious local ingredients — andouille de Guémené, Breton ham, farmhouse eggs — rather than the generic versions you find in tourist-facing establishments.

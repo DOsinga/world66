@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 41.9520
 longitude: 12.0700
+score: 7.4
 ---
 
 Ladispoli's beach is unusual for Lazio: the sand is dark grey, almost black, a result of volcanic deposits from the Monti Sabatini. The colour makes the beach less immediately picturesque than the white-sand beaches to the south, but the sand retains heat well, and the sea here is generally clean and calm. Beach clubs (stabilimenti) line much of the shore, offering sunbeds, umbrellas, showers, and bars.

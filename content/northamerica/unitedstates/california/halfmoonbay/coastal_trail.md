@@ -8,6 +8,7 @@ tags:
 - walking
 title: Coastside Trail
 type: poi
+score: 8.2
 ---
 
 The Coastside Trail (sometimes signed as the Half Moon Bay Coastal Trail) runs about seven miles from Pillar Point Harbor in the north to Poplar Beach in the south, hugging the bluffs above the state beach for most of its length. It is paved, almost completely flat, and open to walkers, runners, and cyclists. The full length and back is a good half-day; most visitors do a section.

@@ -7,6 +7,7 @@ tags:
 latitude: 47.4742
 longitude: -94.8819
 snippet: "1902 Richardsonian Romanesque courthouse in red sandstone, still in active use"
+score: 6.4
 ---
 
 Built in 1902, the Beltrami County Courthouse is the most architecturally serious building in Bemidji. It is Richardsonian Romanesque in style — the heavy, rounded arches, rough-cut red sandstone exterior, and corner tower that Henry Hobson Richardson made fashionable in American civic architecture in the 1880s. The building reads as substantial and permanent in a way that most of Bemidji's downtown does not, which makes it stand out clearly on the block.

@@ -6,6 +6,7 @@ tags:
   - culture
 latitude: 6.9630
 longitude: 158.2120
+score: 7.5
 ---
 
 Sakau is Pohnpei's ceremonial drink, made from the root of the pepper plant Piper methysticum — the same species used across the Pacific for kava, though Pohnpei's preparation is distinctive. The roots are pounded on a flat basalt stone, then the pulp is wrapped in hibiscus bark and wrung by hand into a coconut shell, producing a muddy grey liquid with a mild narcotic effect. The ceremony surrounding its preparation and serving is as important as the drink itself.

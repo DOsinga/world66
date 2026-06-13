@@ -15,6 +15,7 @@ story: >
   (relatives of Pope Julius II), who enlarged it further. Later it became
   a papal legation, then a law court, and it now houses the prefecture — a
   common fate for great Renaissance palaces that have outlived their dynasties.
+score: 6.8
 ---
 
 The Ducal Palace occupies the entire north side of the Piazza del Popolo and gives the square its character. Built for the Sforza lords of Pesaro in the mid-fifteenth century, it is a confident example of early Renaissance architecture: a rusticated stone facade with arched windows, a courtyard of elegant proportions, and the general air of a family that wanted to be taken seriously.

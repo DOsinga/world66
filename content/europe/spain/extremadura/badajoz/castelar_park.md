@@ -8,6 +8,7 @@ tags:
 - park
 title: Castelar Park
 type: poi
+score: 5.2
 ---
 
 The green heart of modern Badajoz, laid out in 1892 on a former tobacco field just south of the old town walls. The park is informally landscaped with palm trees, magnolias, an artificial lake with ducks, a bandstand, and gravel paths popular with morning joggers and evening passeggiata.

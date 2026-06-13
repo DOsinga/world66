@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Santa_Maria_della_Verit%C3%A0,_Viterbo
+score: 8.5
 ---
 
 Santa Maria della Verità is a 13th-century church and former Augustinian monastery on the eastern edge of the historic centre, now home to the Museo Civico di Viterbo. The church itself is worth visiting for a single overwhelming reason: the frescoed cloister by Lorenzo da Viterbo, painted around 1469. It is one of the finest Renaissance fresco cycles in Lazio outside Rome, strongly influenced by Piero della Francesca with whom Lorenzo had studied.

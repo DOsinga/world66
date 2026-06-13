@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 34.6664
 longitude: 133.9300
+score: 6.7
 ---
 
 The Okayama Orient Museum is an unexpectedly focused museum for a mid-sized Japanese city, with collections from West Asia and the ancient Near East. The displays cover ceramics, glass, metalwork, and archaeological objects.

@@ -14,6 +14,7 @@ story: >
   by celebrating their own conquest, the city's leaders hoped to demonstrate loyalty and
   secure good terms. It worked. Lille became the capital of the new French province of
   Flanders and retained significant commercial privileges.
+score: 7.5
 ---
 
 The Porte de Paris is the only surviving city gate of old Lille, built between 1685 and 1692 in honour of Louis XIV's 1667 conquest of the city from Spain. It is a triumphal arch in the Roman tradition — 35 metres high, faced in white limestone, decorated with allegories of Fame, Victory, and the River Scheldt — and one of the most elaborate expressions of Sun King self-promotion outside Versailles itself. The irony that the city being celebrated for conquest commissioned and paid for the arch is a detail Louis apparently did not find troubling.

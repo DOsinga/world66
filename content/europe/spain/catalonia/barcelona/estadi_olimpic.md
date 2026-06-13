@@ -16,6 +16,7 @@ tags:
 title: Estadi Olimpic
 type: poi
 url: www.fundaciobarcelonaolimpica.es
+score: 6.9
 ---
 
 The main stadium for the 1992 Barcelona Olympics holds 70,000 spectators and anchors the sports complex on Montjuic hill. The original shell dates from 1929 — built for an Olympics that never happened — and was extensively rebuilt for 1992. Inside, the Galeria Olimpica museum traces the story of those games, with the Samaranch Collection and a Hall of Fame. The nearby Palau Sant Jordi, Arata Isozaki's swooping sports arena, is part of the same complex.

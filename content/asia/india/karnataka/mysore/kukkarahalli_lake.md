@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.3
 longitude: 76.63
+score: 7.1
 ---
 
 Kukkarahalli Lake sits in the centre of the city, encircled by the campus of the University of Mysore. It is the city's principal urban green space — a 2-kilometre walkway runs around the lake, popular with students, joggers, and retirees from early morning onward. The lake supports a resident population of waterbirds including purple moorhens, spot-billed ducks, and painted storks; winter brings migratory visitors.

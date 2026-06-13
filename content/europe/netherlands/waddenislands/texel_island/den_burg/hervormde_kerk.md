@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.9
 ---
 
 The Dutch Reformed Church on the main square is the oldest building in Den Burg, with foundations and Romanesque elements going back to the eleventh century and a Gothic brick tower added in the fifteenth. After a lightning strike in 1537 the nave was enlarged into the three-aisle basilica that stands today.

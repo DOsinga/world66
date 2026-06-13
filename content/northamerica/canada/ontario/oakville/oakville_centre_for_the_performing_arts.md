@@ -8,6 +8,7 @@ tags:
   - old_oakville
 latitude: 43.4472
 longitude: -79.6700
+score: 6.4
 ---
 
 The Oakville Centre for the Performing Arts is the main cultural venue in town, a purpose-built theatre that hosts drama, dance, comedy, and music from touring Canadian companies as well as community productions. The main hall seats around 680 and has good sightlines throughout. The program runs September to May, with classical concerts, theatrical productions, and the occasional children's show.

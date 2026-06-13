@@ -7,6 +7,7 @@ tags:
 latitude: 5.5534
 longitude: -0.2060
 snippet: "Military history museum in Burma Camp, covering Ghana's forces from colonial service to UN peacekeeping"
+score: 6.4
 ---
 
 A small museum in Burma Camp, the main military garrison in Accra, covering the history of Ghana's armed forces from colonial service in the Gold Coast Regiment through the world wars, independence, and Ghana's extensive contribution to UN peacekeeping operations across Africa. Tanks, aircraft, and artillery pieces are displayed in the compound outside; uniforms, weapons, and documents fill the indoor galleries.

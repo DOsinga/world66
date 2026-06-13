@@ -8,6 +8,7 @@ tags:
 story: "Oscar Niemeyer designed Edifício JK in 1951 as a vertical neighbourhood — 1,086 apartments, shops, schools, a cinema, and a chapel within two massive curved blocks. It was conceived as a prototype for what residential modernism could be; the residents have been campaigning for decades to keep the original interiors intact."
 title: Edifício JK
 type: poi
+score: 7.0
 ---
 
 The Conjunto Governador Kubitschek, universally called Edifício JK, is one of Niemeyer's lesser-known residential masterpieces — a pair of enormous serpentine blocks, 23 and 35 storeys high, set on a single base in the Santo Agostinho neighbourhood. Completed in stages from the late 1950s, it contains over a thousand apartments and a full set of commercial and community spaces.

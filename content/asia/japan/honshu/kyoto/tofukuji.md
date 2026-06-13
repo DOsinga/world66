@@ -8,6 +8,7 @@ tags:
 - sight
 title: Tōfuku-ji
 type: poi
+score: 8.6
 ---
 
 Tōfuku-ji is one of the original five great Zen temples of Kyoto, founded in 1236 and named, in deliberate ambition, by combining characters from Tōdai-ji (the great Nara temple) and Kōfuku-ji (the great Fujiwara family temple). The temple was extensively rebuilt after fires and the present main hall and *sanmon* — the latter, from 1425, is the oldest surviving Zen *sanmon* in Japan — are imposing in scale.

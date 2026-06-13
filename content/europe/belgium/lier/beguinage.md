@@ -11,6 +11,7 @@ story: >
   taking formal monastic vows. They worked as nurses and teachers, supporting themselves, and enjoyed a
   degree of independence that was exceptional for medieval women. In 1998 it was inscribed as a UNESCO
   World Heritage Site, grouped with the other Flemish Beguinages as a collective cultural treasure.
+score: 8.9
 ---
 
 The Groot Begijnhof is one of the largest and best-preserved beguinages in Flanders. Founded in 1258, it grew into a self-contained community of brick houses, gardens, and a church arranged around quiet cobbled streets — a small town within the town. Today the beguinage is still inhabited, maintaining an atmosphere of calm that stands in sharp contrast to the bustle outside its gates.

@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Mountainlair
   - https://en.wikipedia.org/wiki/Woodburn_Circle
+score: 7.8
 ---
 
 The West Virginia University downtown campus occupies a compact hillside above the river, its centerpiece Woodburn Circle — a semicircle of solid red-brick Victorian buildings from the 1870s and 1880s that gives the university a sense of weight and history. The buildings survived while much around them changed, and the circle remains one of the more handsome university quadrangles in the region.

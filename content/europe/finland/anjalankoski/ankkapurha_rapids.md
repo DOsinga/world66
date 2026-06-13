@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ankkapurha Rapids
 type: poi
+score: 7.2
 ---
 
 The Ankkapurha rapids are the most powerful stretch of the Kymijoki within the former Anjalankoski municipality — a wide, fast-moving section of the river just east of the village. The site has been used for fishing since prehistoric times and remains popular with anglers (mostly salmon and trout in season, under strict licence).

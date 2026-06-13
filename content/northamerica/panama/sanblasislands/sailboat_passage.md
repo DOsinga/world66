@@ -7,6 +7,7 @@ tags:
   - adventure
 title: Cartagena to Panama Sailboat Passage
 type: poi
+score: 7.4
 ---
 
 The sailing passage between Cartagena in Colombia and Panama, stopping through the San Blas, is one of the classic small-boat journeys in the Western Hemisphere. Typically four to five days in total, the trip involves two or three days at sea crossing the Gulf of Darién, followed by two to three days anchored in the San Blas. Most boats carry six to eight passengers in basic berths; the experience is more camping at sea than yacht cruising.

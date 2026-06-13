@@ -8,6 +8,7 @@ tags:
 latitude: 22.2808
 longitude: 114.1545
 snippet: Hong Kong's main nightlife district — a grid of bars and clubs in the Central hillside
+score: 6.6
 ---
 
 Lan Kwai Fong is a cluster of streets in Central where the bars and clubs have operated since the 1980s. The area began as a local expat hangout and has grown into Hong Kong's most concentrated nightlife district: over a hundred bars and restaurants in a few steep streets and alleyways running up from D'Aguilar Street. On weekends and public holidays the streets are closed to traffic and the crowd spills onto the pavement.

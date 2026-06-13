@@ -9,6 +9,7 @@ tags:
   - lakeside
 neighbourhood: Lakeside
 snippet: Small Lakeside dive bar with live blues and classic-rock acts
+score: 5.7
 ---
 
 A smaller, dimmer and more atmospheric alternative to Busy Bee, with a focus on blues, classic rock and the occasional jazz set. The decor is suitably scruffy — band posters on the walls, fairy lights, low ceilings — and the regulars are mostly long-stay travellers and expatriates rather than passing trekkers.

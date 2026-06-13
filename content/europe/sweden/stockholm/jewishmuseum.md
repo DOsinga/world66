@@ -11,6 +11,7 @@ tags:
 - norrmalm
 title: Jewish Museum
 type: poi
+score: 6.5
 ---
 
 A small museum tracing the history of Jewish life in Sweden from the first arrivals in the 18th century to the present day. Exhibits cover religious traditions, immigration stories, and the experiences of Holocaust survivors who settled in Sweden. The collection includes ceremonial objects, photographs, and personal narratives. Housed in a quiet building near Vasaparken.

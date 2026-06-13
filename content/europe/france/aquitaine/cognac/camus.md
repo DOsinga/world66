@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The largest family-owned cognac house, a quieter alternative to the grandes maisons
 type: poi
+score: 7.8
 ---
 
 Camus is the largest cognac producer that remains entirely family-owned — now in its fifth generation — and makes for a more personal visit than the multinational houses. Founded in 1863, the company focuses on single-estate cognacs from its own vineyards in the Borderies cru, a small growing area just north of Cognac that produces particularly floral, nutty spirits.

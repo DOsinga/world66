@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 36.7734
 longitude: -6.3580
+score: 7.5
 ---
 
 The Castillo de Santiago was built in the 15th century by the Dukes of Medina Sidonia, the powerful noble family who dominated this stretch of the Andalucían coast for centuries. It sits on a hill in the upper town, its tower visible from most of the old centre, and commands views across the river to the Doñana marshes.

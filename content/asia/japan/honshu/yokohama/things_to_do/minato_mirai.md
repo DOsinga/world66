@@ -1,6 +1,7 @@
 ---
 title: "Minato Mirai 21"
 type: poi
+score: 7.4
 ---
 
 Minato Mirai 21 — the name means "harbour of the future" — is Yokohama's modern waterfront district, developed from the 1980s on reclaimed land between the old port and the city centre. It is dominated by the 296-metre Landmark Tower, which was Japan's tallest building for many years; the Sky Garden observation deck on the 69th floor offers a sweeping panorama that, on a clear day, extends to Mount Fuji and across the entire Kanto plain.

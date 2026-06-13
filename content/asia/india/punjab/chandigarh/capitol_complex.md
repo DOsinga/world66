@@ -9,6 +9,7 @@ tags:
   - architecture
   - unesco
 story: "Le Corbusier worked on the complex from 1951 until his death in 1965, and the buildings he completed here form part of a 17-site transnational UNESCO listing of his work spread across seven countries — the only inscription of its kind."
+score: 9.4
 ---
 
 The Capitol Complex is the great civic stage of Le Corbusier's Chandigarh, a triangle of monumental concrete buildings — the High Court, the Secretariat and the Palace of Assembly — arranged around a vast open plaza at the northern edge of the city. Inscribed by UNESCO in 2016 as part of a transnational listing of Le Corbusier's work, the complex is one of the most important pieces of 20th-century architecture in Asia.

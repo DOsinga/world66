@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shrine
+score: 6.3
 ---
 
 Itatehyozu is the old guardian shrine of Himeji, sitting east of the castle on the route the historical processions took into town. It is far smaller than the famous shrines of Kyoto and Nara, but the cedar trees in the precinct are old and the courtyard is usually empty.

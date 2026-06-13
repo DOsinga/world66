@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: "Switzerland's biggest railway station — also one of its grandest 19th-century interiors"
 story: "Under the great roof of the main hall hangs Niki de Saint Phalle's huge 1997 sculpture *L'Ange Protecteur* — a candy-coloured female angel with chubby outstretched arms, watching over the half-million passengers a day who pass beneath it."
+score: 7.4
 ---
 
 Zurich Hauptbahnhof, often shortened to Zurich HB or just HB, is Switzerland's largest railway station and one of the busiest in Europe, handling around 2,900 trains and over half a million passengers every day. The grand 1871 sandstone Hauptgebäude — the work of Jakob Friedrich Wanner — fronts onto the Bahnhofplatz, with the modern through-platforms hidden behind.

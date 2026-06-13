@@ -9,6 +9,7 @@ latitude: 39.7093
 longitude: 2.6225
 story: >
   Chopin's Pleyel piano only arrived in Valldemossa on 9 January 1839, having been held up by Spanish customs for weeks. The delay nearly broke him — he wrote increasingly frantic letters from the monastery while composing his 24 Preludes, Op. 28 in a cold, damp cell. Cell 4, authenticated by a French musicologist in 1932 and confirmed by a court ruling in 2013, is the one he actually occupied, and the original piano is still there.
+score: 8.7
 ---
 
 The Real Cartuja de Valldemossa is a former Carthusian monastery built on the site of a royal palace commissioned by King Sancho of Majorca in the early fourteenth century. The monks were expelled during the liberal reforms of the 1830s, and thereafter the cells were rented to visitors — which is how Frédéric Chopin and George Sand came to spend the winter of 1838–39 here.

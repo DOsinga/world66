@@ -8,6 +8,7 @@ longitude: 3.9603
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 The Eglise Notre-Dame stands at the western end of the Avenue de Champagne and is one of Epernay's main landmarks. The current building, completed in 1925, replaces a medieval church destroyed by shelling in the First World War.

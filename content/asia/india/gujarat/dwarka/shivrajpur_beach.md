@@ -7,6 +7,7 @@ tags:
 - sight
 title: Shivrajpur Beach
 type: poi
+score: 7.9
 ---
 
 Shivrajpur Beach is the cleanest and most appealing beach near Dwarka, with pale sand, clear shallows in good weather, and a more relaxed mood than the temple town. It is the place to go when you need space after the pilgrimage crowds.

@@ -13,6 +13,7 @@ tags:
 - restaurant
 title: Lotus
 type: poi
+score: 4.5
 ---
 
 Chinese restaurant sitting on Coral Beach near the Ceasar Hotel, away from the busier central strip. Options in Eilat skew heavily towards Israeli and international hotel dining, so Lotus fills a gap for anyone wanting something different. The menu covers the standard range of stir-fries, soups, and rice dishes. Prices are modest by Eilat standards.

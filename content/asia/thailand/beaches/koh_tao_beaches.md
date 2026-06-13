@@ -7,6 +7,7 @@ tags:
 - beach
 title: Koh Tao Beaches
 type: poi
+score: 9.1
 ---
 
 Koh Tao is a small island in the Gulf of Thailand that has become one of the world's most popular places to learn to dive — dozens of dive schools compete for business, keeping prices low. But even if you never strap on a tank, the beaches are worth the ferry ride.

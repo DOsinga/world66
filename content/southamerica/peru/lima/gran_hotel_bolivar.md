@@ -11,6 +11,7 @@ tags:
 neighbourhood: Centro Histórico
 snippet: 1924 Beaux-Arts hotel on Plaza San Martín, home of the Lima pisco sour
 story: "Orson Welles, Ava Gardner, and a young John Wayne drank in the Bolívar Lounge in the 1940s. House legend has it that Ernest Hemingway downed twelve pisco sours in a single afternoon here in 1956 while on his way to Cabo Blanco to fish for marlin."
+score: 7.2
 ---
 
 The **Gran Hotel Bolívar**, opened in 1924 on Plaza San Martín, was Lima's premier hotel through the first half of the 20th century — a five-storey Beaux-Arts pile with stained glass, marble staircases, and a domed glass roof over the central lobby. Every visiting head of state and celebrity stayed here from the 1920s to the 1960s; the wood-panelled lobby bar is where the **catedral**, an oversized double-portion pisco sour, was invented.

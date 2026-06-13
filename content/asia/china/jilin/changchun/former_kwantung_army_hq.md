@@ -9,6 +9,7 @@ latitude: 43.8941
 longitude: 125.3163
 story: >
   The Kwantung Army was the real power in Manchukuo — the Japanese military force that controlled the state from behind the puppet government. Its headquarters building was deliberately positioned to dominate the city's administrative district, a spatial arrangement of power that left no ambiguity about who actually governed. The army commanders who sat here made decisions that affected millions of people across Manchuria; Puyi's opinions were not among the factors they considered.
+score: 7.3
 ---
 
 The former Kwantung Army Headquarters building is now a People's Liberation Army facility, and the interior is not accessible. But the exterior — one of the most imposing military administrative buildings of the Manchukuo era — can be seen from the street and represents the architectural statement of colonial military power at its most direct.

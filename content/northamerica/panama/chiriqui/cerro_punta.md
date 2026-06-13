@@ -6,6 +6,7 @@ longitude: -82.57
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Cerro Punta sits at 1,970 metres on the western side of Volcán Barú, the highest settlement in Panama and the country's main vegetable-growing area. The valley floor is a checkerboard of strawberry, lettuce, broccoli, and onion plots that supply Panama City's restaurants and supermarkets.

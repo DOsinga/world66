@@ -14,6 +14,7 @@ tags:
 - outdoors
 title: Paria Canyon
 type: poi
+score: 8.8
 ---
 
 The Paria River canyon system begins east of Cannonville and flows south into Arizona, cutting through some of the most remote and visually spectacular landscape in the American Southwest. The canyon walls narrow to slot canyon dimensions in places, with striated sandstone rising hundreds of feet on both sides. The classic Paria Canyon backpacking route covers 38 miles over four to six days and requires significant logistics: a permit from the Bureau of Land Management, a car shuttle between start and finish points, and careful attention to weather forecasts given the flash flood risk.

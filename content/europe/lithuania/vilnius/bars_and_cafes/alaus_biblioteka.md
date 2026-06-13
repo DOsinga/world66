@@ -9,6 +9,7 @@ tags:
   - bar
   - new_town
 neighbourhood: New Town
+score: 6.8
 ---
 
 The Beer Library on Gedimino Avenue takes its concept seriously: a long wall of Lithuanian and Baltic craft beers available by the glass or bottle, with staff who know what they're talking about. It is one of the best places to work through the Lithuanian craft brewing scene systematically — Dundulis, Apynys, Sakiškių, and seasonal releases from smaller breweries all appear here.

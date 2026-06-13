@@ -9,6 +9,7 @@ latitude: 39.26167
 longitude: -121.01472
 address: "107 Sacramento St, Nevada City, CA"
 snippet: "1856 stone brewhouse — one of the oldest surviving industrial buildings in the Gold Country"
+score: 6.6
 ---
 
 The Nevada Brewery on Sacramento Street is a thick-walled stone structure built in 1856, making it one of the oldest surviving industrial buildings in the Gold Country. It operated as a brewery through the late 19th century, then passed through various uses before ending up as a restaurant and bar — the Atlas Obscura listing calls it the "Old Stonehouse Brewery," and it's a reliable spot for a drink.

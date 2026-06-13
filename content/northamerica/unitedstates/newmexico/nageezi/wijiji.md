@@ -6,6 +6,7 @@ longitude: -107.8693
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Wijiji is the latest and most symmetrical of the Chacoan great houses, a compact rectangular block of about 100 rooms built in a single phase around AD 1110–1115. The architecture is unusually regular, almost machine-laid, and unlike most of the canyon pueblos it shows no signs of remodelling or earlier construction underneath.

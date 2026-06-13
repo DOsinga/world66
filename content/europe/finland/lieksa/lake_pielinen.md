@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.9
 ---
 
 Finland's sixth-largest lake, ninety kilometres long, stretches north from Joensuu past Lieksa to the Russian border country. The lake is the visual centre of everything in this part of Karelia — dark water, low islands, the ridges of Koli rising 250 metres straight from the western shore.

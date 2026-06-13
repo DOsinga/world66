@@ -8,6 +8,7 @@ latitude: 29.9878
 longitude: 31.1239
 story: >
   The Grand Egyptian Museum was under construction for over 20 years and cost more than one billion dollars, making it one of the most expensive museum projects in history. Its completion was repeatedly delayed; partial openings began in 2021. The full Tutankhamun collection — all 5,000 objects from the tomb, many previously in storage — is finally on display together for the first time since their discovery in 1922.
+score: 9.2
 ---
 
 The Grand Egyptian Museum sits at the edge of the Giza plateau, within sight of the Pyramids, and is one of the largest archaeological museums in the world. Its collection of ancient Egyptian artefacts is the most comprehensive anywhere, built around the complete contents of Tutankhamun's tomb (5,000 objects) and supplemented by pieces transferred from the Egyptian Museum downtown and from storage.

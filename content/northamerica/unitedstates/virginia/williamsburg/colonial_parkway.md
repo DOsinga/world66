@@ -9,6 +9,7 @@ latitude: 37.270879
 longitude: -76.707404
 snippet: A scenic federal road connecting Williamsburg, Jamestown, and Yorktown through forest and along the river
 story: The Colonial Parkway was built by the National Park Service in the 1930s and 1940s and is the physical expression of the Historic Triangle concept — the idea that Williamsburg, Jamestown, and Yorktown together tell the founding narrative of America. The road is completely free of commercial development by federal law; no billboards, no petrol stations, nothing except forest, river views, and the occasional colonial interpretive sign. It is one of the most beautifully designed drives in the eastern United States.
+score: 7.4
 ---
 
 The Colonial Parkway is a 23-mile scenic road built and maintained by the National Park Service, connecting the three points of the Historic Triangle: Williamsburg, Jamestown Island, and Yorktown. The road runs through mature forest along the York River and the James River, with no commercial development or signage permitted along its length.

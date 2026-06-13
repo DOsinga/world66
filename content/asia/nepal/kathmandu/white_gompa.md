@@ -8,6 +8,7 @@ tags:
 latitude: 27.7220
 longitude: 85.3615
 address: Boudhanath, Kathmandu
+score: 8.0
 ---
 
 Ka-Nying Shedrub Ling — known informally as the White Monastery for its white-painted exterior — is one of the largest and most active Tibetan Buddhist monasteries at Boudhanath, its main hall capable of holding several hundred monks in assembly. It is associated with the Nyingma tradition of Tibetan Buddhism and is led by Chokyi Nyima Rinpoche, a widely respected teacher in the Tibetan diaspora.

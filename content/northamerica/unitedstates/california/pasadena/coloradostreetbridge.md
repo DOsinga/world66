@@ -13,6 +13,7 @@ story: "The Colorado Street Bridge was built in 1913 and is one of the earliest 
   but the name stuck."
 snippet: Graceful 1913 concrete arch bridge over the Arroyo Seco, a Pasadena landmark
 type: poi
+score: 7.8
 ---
 
 The Colorado Street Bridge spans the Arroyo Seco canyon at the western end of Colorado Boulevard, connecting Pasadena proper to the area near the Rose Bowl. The seven concrete arches, each 150 feet wide, are elegant — the bridge is genuinely beautiful, especially from below in the canyon or from the parkway running alongside. It appears on the National Register of Historic Places and is a well-known location for photographers.

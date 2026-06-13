@@ -7,6 +7,7 @@ tags:
   - beyoglu
 latitude: 41.0275
 longitude: 28.9810
+score: 8.1
 ---
 
 Istanbul Modern is Turkey's leading museum of contemporary art, relocated to a striking new waterfront building in Karaköy designed by Renzo Piano and reopened in 2023. The permanent collection covers Turkish art from the early 20th century to the present, with particular strength in works from the 1950s to 1980s — a period when Turkish abstraction and expressionism developed in productive tension with both European modernism and traditional forms.

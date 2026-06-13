@@ -8,6 +8,7 @@ latitude: 36.5651
 longitude: -4.8506
 story: >
   Ojén was famous throughout Andalusia in the 19th century for a local anise-based liqueur called aguardiente de Ojén, considered one of the finest in Spain. The recipe was exported to New Orleans in the 1870s, where "Ojen cocktails" became a fixture of Mardi Gras celebrations. When the last Ojén distillery closed in the early 20th century, New Orleans bars maintained a supply through careful rationing until the last bottle was gone sometime in the 1990s.
+score: 7.8
 ---
 
 A small white village in the Sierra Blanca mountains behind Marbella, about eight kilometres inland and connected by a winding road through cork oak forests. Ojén has the compact prettiness of an authentic Andalusian hill town — narrow streets, whitewashed walls, a small church on a terraced square — without the tourist overlay of better-known villages like Mijas.

@@ -7,6 +7,7 @@ tags:
 latitude: 4.6465
 longitude: -74.0637
 snippet: "Bohemian, LGBT-friendly neighbourhood with bars, cafes, and independent culture"
+score: 7.4
 ---
 
 Chapinero, stretching along the eastern foothills between La Candelaria and the Zona Rosa, is Bogota's most bohemian and openly LGBT-friendly neighbourhood. The lower part of the barrio, around Avenida Chapinero and Calle 57–65, has a dense concentration of cheap restaurants, coffee shops, and LGBTQ bars that stay open late.

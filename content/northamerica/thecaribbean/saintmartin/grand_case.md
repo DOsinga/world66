@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Grand_Case,_Saint-Martin
+score: 8.5
 ---
 
 Grand Case is a single road running along a small beach on the French side's north coast, and it has more restaurants per metre than almost anywhere in the Caribbean. The sit-down restaurants — French, Creole, fusion, Italian — line both sides of Boulevard de Grand Case, with prices to match. At the northern end of the strip, the **lolos** offer the same fresh fish, ribs, chicken, and rice for a fraction of the cost, eaten at plastic tables in the open air. Both ends of the street are worth your time on the same evening.

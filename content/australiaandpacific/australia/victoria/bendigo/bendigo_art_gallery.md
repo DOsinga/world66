@@ -10,6 +10,7 @@ longitude: 144.2770
 sources:
   - https://en.wikipedia.org/wiki/Bendigo_Art_Gallery
   - https://www.bendigoartgallery.com.au/
+score: 8.6
 ---
 
 The Bendigo Art Gallery is one of the oldest and largest regional galleries in Australia, founded in 1887 with money that flowed directly from gold rush wealth. The permanent collection spans Australian and European art from the nineteenth century to the present, with particular strength in colonial-era works and contemporary Australian painting and sculpture.

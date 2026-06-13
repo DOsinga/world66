@@ -10,6 +10,7 @@ latitude: 42.4956
 longitude: -73.2419
 sources:
   - https://en.wikipedia.org/wiki/Pontoosuc_Lake
+score: 5.8
 ---
 
 Pontoosuc Lake stretches along the northern edge of Pittsfield and into Lanesborough, with open water, boat traffic, and views toward the surrounding hills. It is a good choice if you want the lake-country side of the Berkshires without driving far.

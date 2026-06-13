@@ -11,6 +11,7 @@ story: >
   The centrepiece mural along the trail depicts Cash at life size, rendered in a style that echoes the stark black-and-white of his album covers. The trail was inaugurated in 2014 and connects the historic downtown with the area near Folsom State Prison, linking Cash's two Folsom identities — the free-spirited performer who championed prisoners' humanity, and the grim institution that gave him his most famous subject.
 sources:
   - https://en.wikipedia.org/wiki/Johnny_Cash_Trail
+score: 6.8
 ---
 
 The Johnny Cash Trail is a paved multi-use path running about three kilometres along the American River Parkway near Folsom. It was named and developed to honour Cash's lasting connection with the city — specifically the two concerts he played at Folsom State Prison in 1968 that produced one of the most celebrated live albums in country music history.

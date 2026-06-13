@@ -9,6 +9,7 @@ latitude: 35.5840
 longitude: 112.9990
 story: >
   Chen Tingjing, the official for whom the compound was built, tutored the Kangxi Emperor and served as chief editor of the great Kangxi Dictionary — the most comprehensive Chinese dictionary compiled before the modern era. The compound's scale reflects not just his personal wealth but the enormous rewards the Qing state poured on scholar-officials who served successfully. His clan occupied the complex for nine generations.
+score: 8.7
 ---
 
 The Huangcheng Chancellor's Residence is a walled compound 40 km northeast of Jincheng city, built between 1632 and 1703 for Chen Tingjing, a high Qing official who served as tutor and confidant to the Kangxi Emperor. The complex spreads across several hectares of courtyards, towers, and residential halls arranged on a hillside above a stream, with a fortified outer wall that makes the whole ensemble look more like a small city than a private home.

@@ -7,6 +7,7 @@ tags:
 latitude: 35.3125
 longitude: 139.5331
 story: "The eleven-headed Kannon statue at Hase-dera is said to have been carved from a single camphor tree in 721 by the monk Tokudo, who then cut the tree in two and cast one half into the sea at Nara, praying it would wash ashore where it was needed. The statue floated for fifteen years before arriving at Kamakura in 736."
+score: 8.6
 ---
 
 One of the most rewarding temples in Kamakura, perched on a hillside with a wonderful garden and terrace views over the town and out to Sagami Bay. The main object of worship is a 9.18-metre gilded wooden statue of Juichimen Kannon (eleven-headed Kannon), one of the largest wooden sculptures in Japan.

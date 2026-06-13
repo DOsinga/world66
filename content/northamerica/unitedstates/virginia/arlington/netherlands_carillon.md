@@ -15,6 +15,7 @@ story: >
   Netherlands dedicated it in 1960. Free carillon concerts are performed on the
   tower's exterior platform — the bells are played by striking them from the outside
   rather than using internal clappers, making performances visible as well as audible.
+score: 6.9
 ---
 
 The Netherlands Carillon stands near the north end of Arlington National Cemetery, beside the Iwo Jima Memorial — easy to reach but often overlooked. The 127-foot steel tower holds 50 bells given to the United States by the Dutch people in 1954 as thanks for American liberation in World War II and Marshall Plan reconstruction aid.

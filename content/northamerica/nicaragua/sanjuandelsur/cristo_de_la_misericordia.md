@@ -13,6 +13,7 @@ story: >
   defining emblem of San Juan del Sur. Every Sunday evening, hundreds of
   travellers and locals make the short steep hike up to watch the sun set into
   the Pacific from its base.
+score: 8.1
 ---
 
 The giant white statue of Christ stands on the hill directly behind San Juan del Sur, arms outstretched toward the bay. From the feet of the statue the view is extraordinary: the crescent beach below, the town's colourful rooftops, the Pacific stretching south to Costa Rica, and on clear days the twin volcanoes of Ometepe island visible to the northeast.

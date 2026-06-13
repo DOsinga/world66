@@ -8,6 +8,7 @@ latitude: 44.6000
 longitude: 81.2000
 story: >
   Sayram means "blessing" or "good wishes" in Kazakh, a name that reflects the lake's role in Kazakh pastoral tradition as a place of abundance: good grass, fresh water, summer grazing. The Kazakh families who bring their animals here each summer are following a pattern established over many generations, and the lake's character as a place of cultural continuity is as important as its scenery.
+score: 9.0
 ---
 
 Sayram Lake is the largest alpine lake in Xinjiang, covering about 454 square kilometres at an elevation of 2,073 metres. It is brilliantly blue in the manner of high-altitude lakes where cold temperatures and high transparency produce intense colour, and the surrounding landscape of bare ridgelines, grassland, and distant snow peaks frames it without interruption. The scale is larger than most visitors expect from photographs.

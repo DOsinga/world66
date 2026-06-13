@@ -9,6 +9,7 @@ latitude: 39.8571
 longitude: -4.0239
 story: >
   The cathedral took 267 years to build — construction began in 1226 and ended in 1493. During that time, the Moors were expelled, two dynasties changed, and Columbus reached the Americas. The building absorbed every passing style: Gothic arches, a Mudéjar ceiling, a Baroque transparente altar that punches a hole through the stone to let light fall dramatically on the tabernacle.
+score: 9.7
 ---
 
 The Primatial Cathedral of Toledo is one of the great Gothic churches of Spain and was, for centuries, the most powerful religious seat in the country. It looms at the heart of the old city, its single tower visible from almost every approach. Inside, the scale is extraordinary — five naves, dozens of side chapels, and a treasury that reads like a catalogue of centuries of accumulated wealth.

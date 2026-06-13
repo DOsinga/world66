@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 15.1650
 longitude: 120.5920
+score: 5.5
 ---
 
 The Oasis is one of the better arguments for getting away from the neon of Fields Avenue. It runs a weekly rotation of live music — jazz on Monday, retro on Tuesday, acoustic and R&B on Thursday — and the quality is genuinely good. The bar stocks a full range of spirits and runs a happy hour from 6 to 8 p.m. with half-price local beers.

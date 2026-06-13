@@ -9,6 +9,7 @@ latitude: 44.104024
 longitude: -77.548428
 sources:
   - https://en.wikipedia.org/wiki/Afghanistan_Repatriation_Memorial
+score: 6.1
 ---
 
 This memorial at CFB Trenton commemorates the 158 Canadian Forces members who died during the Afghanistan mission from 2002 to 2011. The repatriation ceremonies — when fallen soldiers were returned home through this base — gave rise to the "Highway of Heroes," the stretch of Highway 401 between Trenton and Toronto that crowds of civilians lined for every cortege.

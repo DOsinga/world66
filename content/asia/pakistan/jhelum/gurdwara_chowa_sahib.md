@@ -6,6 +6,7 @@ longitude: 73.5733
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Just outside the northern perimeter of [Rohtas Fort](/asia/pakistan/jhelum/rohtas_fort), Gurdwara Chowa Sahib marks the site of a spring that tradition holds was created during Guru Nanak's travels through the Punjab in the early 16th century. According to the account, Nanak struck the ground with his staff and water welled up — chowa means spring in Punjabi — and the spot has been considered sacred ever since. The timing is striking: Nanak's journey and Sher Shah's construction of the fort were roughly contemporaneous, and the two sites sit only a few hundred metres apart.

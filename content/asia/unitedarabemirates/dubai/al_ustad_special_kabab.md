@@ -7,6 +7,7 @@ tags:
 - deira
 title: Al Ustad Special Kabab
 type: poi
+score: 7.7
 ---
 
 A tiny Iranian kebab shop in Deira that has been serving the same menu since 1978: lamb and chicken kebab platters with rice, bread, grilled tomatoes, and raw onion. The portions are enormous, the bread comes fresh from the wood-fired oven, and the price is under 30 AED for a full meal.

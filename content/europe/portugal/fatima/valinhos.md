@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6183
 longitude: -8.67
+score: 6.8
 ---
 
 Valinhos is a small countryside hollow just outside Fátima where the Virgin Mary is said to have appeared to the three children on 19 August 1917. That apparition was out of sequence with the monthly 13th pattern because the children had been arrested and imprisoned by the administrator of Ourém, who was attempting to extract the secrets they claimed to have received. Released in time, they went to Valinhos instead of Cova da Iria.

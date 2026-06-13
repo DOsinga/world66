@@ -9,6 +9,7 @@ latitude: 36.2253
 longitude: 140.1066
 sources:
   - https://en.wikipedia.org/wiki/Mount_Tsukuba
+score: 8.1
 ---
 
 Mount Tsukuba offers two distinct hiking trails to its twin peaks, Nantai (871m) and Nyotai (877m), plus a cable car option for those who prefer an easier ascent. The mountain has been a pilgrimage destination since the eighth century, and the trails reflect that long history — stone lanterns line sections of the path, and the forest has the feel of somewhere that has been walked for a very long time.

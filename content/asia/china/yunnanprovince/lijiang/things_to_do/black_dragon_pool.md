@@ -9,6 +9,7 @@ tags:
   - park
 sources:
   - https://en.wikipedia.org/wiki/Black_Dragon_Pool
+score: 8.2
 ---
 
 The Black Dragon Pool is a large, spring-fed pond in Jade Spring Park at the northern edge of the old town, and it frames what is arguably the most photographed view in Yunnan: the Moon Embracing Pavilion reflected in the still water with the snow-capped peaks of Jade Dragon Snow Mountain rising directly behind it. On a clear morning the reflection is near-perfect. On a cloudy day there is nothing to see.

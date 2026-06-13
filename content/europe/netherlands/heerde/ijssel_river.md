@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.4056
 longitude: 6.02
+score: 7.0
 ---
 
 The IJssel river forms the western boundary of Heerde municipality, its broad floodplain a reminder that this part of the Netherlands was formed and shaped by water. The river here is still relatively natural — wide, with sandy banks and a handful of islands — compared to its channelised course further north. Cycling along the IJssel dike offers long views across the polders to the Veluwe hills.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - monument
+score: 7.1
 ---
 
 India Gate stands at the eastern end of Rajpath, the grand ceremonial boulevard running from the President's House. Designed by Edwin Lutyens and completed in 1931, the 42-metre triumphal arch is a war memorial honouring the 80,000 Indian soldiers who died serving in World War I and the Third Anglo-Afghan War of 1919. Their names are inscribed on the arch. Beneath the canopy burns the Amar Jawan Jyoti, an eternal flame added after 1971 in memory of India's unknown soldier.

@@ -9,6 +9,7 @@ tags:
 latitude: -4.2773
 longitude: 143.1174
 story: "Margaret Mead's 1935 book Sex and Temperament drew much of its material from her work among the Chambri people; her widely-cited claim that Chambri women were dominant while men were 'decorative and emotional' has been argued over by anthropologists ever since. The fact remains that the Chambri are matrilineal and that women run most of the fish trade."
+score: 8.5
 ---
 
 The Chambri Lakes are a great inland delta that opens off the Sepik south of the main river, fed by seasonal floodwaters. In the dry months the lakes shrink back to ponds and channels; in the wet season they spread for tens of kilometres, and the villages — Aibom, Chambri, Indingai — sit on small dry mounds or float on rafts of vegetation.

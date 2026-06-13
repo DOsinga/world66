@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -4.3574
 longitude: 55.8261
+score: 6.2
 ---
 
 La Passe is the island's main settlement and the point where ferries from Praslin and Mahe arrive. It is not picturesque in the way that the beaches and granite landscapes are, but it has a relaxed, genuine village atmosphere that rewards a slow wander. The dock area has bicycle rentals, a few small grocery shops, and the island's most convenient cluster of guesthouses and restaurants.

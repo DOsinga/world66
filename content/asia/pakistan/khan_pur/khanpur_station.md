@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 5.5
 ---
 
 Khanpur Katora is a small junction on the main Karachi-to-Peshawar railway line, the spinal route of Pakistan Railways. The yellow-painted colonial-era station building has barely changed since it was built in the late 19th century — a single-platform stop with arched verandas, a station-master's office, and a small tea stall on the platform.

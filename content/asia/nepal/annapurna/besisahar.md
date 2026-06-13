@@ -8,6 +8,7 @@ latitude: 28.2417
 longitude: 84.3750
 sources:
   - https://en.wikipedia.org/wiki/Besisahar
+score: 4.8
 ---
 
 Besisahar (823m) is the traditional starting point for the Annapurna Circuit, a town of guesthouses, gear shops, and trekking agencies on the main road from Kathmandu. It is reached by bus in six to eight hours from Kathmandu or three to four hours from Pokhara. Most trekkers spend a night here before beginning the circuit the following morning.

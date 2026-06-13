@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Late-19th-century military barracks, namesake of the more famous defensive line"
+score: 3.8
 ---
 
 The Caserne Maginot in the western suburb of Thierville-sur-Meuse was one of several major barrack complexes built in the 1880s to garrison the strengthened Verdun fortress system. It served as French headquarters in 1916 and as US Army headquarters in both World Wars.

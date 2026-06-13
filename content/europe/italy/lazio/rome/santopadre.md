@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Santopadre
 type: poi
+score: 6.8
 ---
 
 Small upscale restaurant near Via Veneto with a strong reputation for quality cooking and attentive service. Dinner only. Closed Sundays and for two weeks in August.

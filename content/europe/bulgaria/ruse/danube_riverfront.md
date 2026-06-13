@@ -9,6 +9,7 @@ latitude: 43.8551
 longitude: 25.9594
 story: >
   The Danube here marks the border between Bulgaria and Romania — the river is about 1 km wide at Ruse, and the low Romanian bank on the far side is clearly visible. The Friendship Bridge connecting Ruse to Giurgiu was the only road crossing of the Danube between Bulgaria and Romania for over 50 years after it was built in 1954, until the Vidin–Calafat bridge opened in 2013. For travellers, the Ruse riverfront offers the unusual experience of watching heavy Danube barge traffic from central Europe on its way to the Black Sea.
+score: 7.2
 ---
 
 The Danube Promenade (крайбрежна алея) runs along the northern edge of Ruse on the bank of the river, offering views over the water to Romania. The promenade is a pleasant evening walk — a wide path lined with trees, benches, and small cafes, with the river itself as the backdrop. The National Transport Museum and the first railway terminus are near the eastern end of the promenade.

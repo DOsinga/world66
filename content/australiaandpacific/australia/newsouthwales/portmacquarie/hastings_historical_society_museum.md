@@ -9,6 +9,7 @@ latitude: -31.4294
 longitude: 152.9101
 address: 22 Clarence Street, Port Macquarie NSW 2444
 snippet: Local history museum in a heritage-listed building, covering the district's convict and settler past
+score: 6.6
 ---
 
 The Hastings District Historical Society Museum occupies one of the town's heritage-listed buildings on Clarence Street and holds a substantial collection of objects, photographs, and documents relating to Port Macquarie and the Hastings River district from the convict era through the 20th century.

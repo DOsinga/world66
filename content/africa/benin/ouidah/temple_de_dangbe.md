@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Small Vodun shrine to the python deity, often visited alongside the Python Temple"
+score: 5.8
 ---
 
 A smaller Vodun shrine a short walk from the better-known Python Temple, dedicated to Dangbé, the python divinity from which the larger compound takes its sacred snakes. Of interest mainly to those wanting a fuller picture of Ouidah's Vodun landscape: smaller, less polished, more locally used than the larger temple.

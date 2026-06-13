@@ -10,6 +10,7 @@ tags:
 - landmark
 title: City Palace
 type: poi
+score: 9.5
 ---
 
 The largest palace complex in Rajasthan, built over nearly 400 years by successive Mewar rulers starting with Maharana Udai Singh II in 1559. It is a sprawling fusion of Rajasthani and Mughal architecture — balconies, towers, cupolas, and courtyards stacked along the eastern shore of Lake Pichola. The views over the lake from the upper terraces are the best in the city.

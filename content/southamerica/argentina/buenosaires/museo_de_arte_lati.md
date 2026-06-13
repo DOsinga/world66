@@ -10,6 +10,7 @@ tags:
 title: MALBA (Museum of Latin American Art)
 type: poi
 url: malba.org.ar
+score: 8.9
 ---
 
 The best museum in Buenos Aires for 20th and 21st-century Latin American art — Frida Kahlo, Diego Rivera, Xul Solar, Antonio Berni, Fernando Botero. Housed in a striking 2001 glass-and-concrete building in the leafy Palermo district. Wednesday evenings offer half-price admission.

@@ -13,6 +13,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Fulda_Cathedral
   - https://en.wikipedia.org/wiki/Princely_Abbey_of_Fulda
+score: 8.8
 ---
 
 Fulda Cathedral is a confident piece of Roman Baroque architecture, built between 1704 and 1712 over the site of the original 8th-century abbey church where Saint Boniface is buried. The design was influenced by Borromini's Sant'Agnese in Agone in Rome — an unusual choice for provincial Germany, but the Prince-Abbots of Fulda were ambitious patrons. The twin towers and wide facade dominate the cathedral square with a theatricality that still surprises visitors approaching from the old town.

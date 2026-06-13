@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 39.1352
 longitude: 16.0762
+score: 8.0
 ---
 
 The old town of Amantea climbs the hill above the modern seafront on a maze of stepped lanes, archways, and small piazzas. Most of the buildings are 17th and 18th century, layered over older medieval and Byzantine foundations. The big landmark is the Convent of San Bernardino at the top of the rise; below it sit the church of San Biagio, an arched cisterna probably of Arab origin, and the old town hall.

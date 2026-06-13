@@ -7,6 +7,7 @@ tags:
 latitude: 44.7580
 longitude: -72.0830
 snippet: West shore ridge hike with views over Lake Willoughby
+score: 8.1
 ---
 
 Mount Hor stands on the western shore of Lake Willoughby, directly across the water from Mount Pisgah. While not as high as its neighbour, it offers an equally rewarding hike and the added benefit of being considerably less crowded. The trailhead is off Hinton Hill Road on the western side of the lake.

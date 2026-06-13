@@ -5,6 +5,7 @@ tags: [things_to_do, sight, scenic_drive]
 latitude: 37.4530
 longitude: -113.1916
 snippet: Quieter northwest section of Zion with red finger canyons and big views
+score: 8.1
 ---
 
 Kolob Canyons is Zion's quieter northwest corner, reached from Interstate 15 rather than Springdale. A short scenic road climbs into red finger canyons, with overlooks that feel spacious and uncrowded compared with the main canyon.

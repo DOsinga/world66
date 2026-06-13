@@ -5,6 +5,7 @@ tags: [things_to_do, waterfront, walk]
 latitude: 38.8028
 longitude: -77.0389
 story: The Potomac waterfront here was once one of the busiest wharves in the mid-Atlantic, receiving tobacco from Virginia plantations and exporting goods across the Atlantic — the same docks were later used as an embarkation point for Union troops during the Civil War.
+score: 7.8
 ---
 
 The Old Town waterfront along the Potomac River is the most pleasant stretch of public space in Alexandria, running from the marina at the foot of King Street north past a series of piers and green spaces. The river views across to the Maryland shore and to the monuments of Washington are excellent on clear days.

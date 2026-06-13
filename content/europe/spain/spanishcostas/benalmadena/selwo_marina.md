@@ -6,6 +6,7 @@ longitude: -4.5319
 tags:
   - things_to_do
   - sight
+score: 5.1
 ---
 
 Selwo Marina is the dolphinarium-cum-mini-zoo near Puerto Marina. It has dolphin and sea lion shows, a small penguin enclosure, and a few South American animals (sloths, agoutis, capybaras, exotic birds). Aimed squarely at families with young children.

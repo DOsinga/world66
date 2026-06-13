@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: The painter's house and studio, restored to its 17th-century state
 story: "Rubens bought the property in 1610 with the proceeds from his eight years in Italy, and rebuilt it as an Italianate palace surrounding two courtyards. He lived and worked here for the rest of his life. The garden — an Italian Renaissance design unlike anything else in the Low Countries — is original."
+score: 4.9
 ---
 
 The house and studio Rubens built for himself in 1610 with the proceeds of his Italian years. It is the only surviving Italian Renaissance palazzo in northern Europe, designed by the painter himself in a deliberately Italianate idiom and finished over a decade. The studio on the upper floor is where he produced most of his great paintings, with a system of assistants whose finished work he would touch up himself.

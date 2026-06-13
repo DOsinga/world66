@@ -7,6 +7,7 @@ tags:
 - bars
 title: Boulevard Brewing Company
 type: poi
+score: 7.5
 ---
 
 Boulevard Brewing Company is the largest specialty brewer in the Midwest and Kansas City's most recognized culinary export alongside barbecue. Founded in 1989, it has grown substantially while retaining its identity as a Kansas City institution. The brewery on Southwest Boulevard offers free 30-minute tours of the production facility, which must be reserved in advance and fill up quickly on weekends. The associated tasting room — the Bierhall — has a rooftop patio with views toward downtown and serves a full menu alongside the full Boulevard portfolio.

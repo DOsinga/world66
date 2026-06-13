@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3402
 longitude: 69.2877
+score: 6.3
 ---
 
 A genuinely good Japanese garden, designed by Japanese landscape architects and opened in 2001. Wooden bridges curve over koi ponds, stone lanterns line crushed-gravel paths, and the planting follows the strict Japanese vocabulary of pines, maples, and bamboo.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 54.5996
 longitude: -5.9313
+score: 6.1
 ---
 
 Mourne Seafood Bar on Bank Street is the best place in Belfast to eat fresh fish and shellfish. The menu changes daily based on what comes in from the boats, but Strangford Lough oysters, Mourne lobster, and Kilkeel crab are reliably available. The cooking is straightforward — fish this good doesn't need much — and the prices are reasonable.

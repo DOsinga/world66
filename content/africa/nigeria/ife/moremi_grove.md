@@ -13,6 +13,7 @@ story: >
   the last remnants of primary forest in southwestern Nigeria; their
   survival is a direct result of their sacred status — they are places
   no one clears.
+score: 7.7
 ---
 
 Ile-Ife has several sacred groves within and around the city where traditional Yoruba religion is still actively practised. These are living religious sites, not heritage parks. Shrines to the orishas (Yoruba deities) stand among ancient trees, and ceremonies and offerings take place at regular intervals throughout the year.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 51.8933
 longitude: -2.0700
+score: 7.4
 ---
 
 A heated outdoor pool dating from 1935, set in a small park in the residential streets south of the town centre. Grade II listed and still operating, it is one of the best surviving examples of the 1930s municipal lido boom — proper outdoor swimming, with a learner pool, grass banks for lying in the sun, and a cafe. The main pool is 50 metres long.

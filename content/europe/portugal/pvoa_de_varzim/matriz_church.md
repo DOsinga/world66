@@ -8,6 +8,7 @@ tags:
 latitude: 41.3809
 longitude: -8.7569
 story: "Construction began in 1743 and dragged on through three reigns and a long argument about funding between the city and the diocese; the parish finally took matters into its own hands and finished the building with private donations in 1757. The richly carved gilt-wood altarpieces inside are the work of Porto's leading Baroque ateliers."
+score: 7.3
 ---
 
 The Matriz Church, formally the Igreja da Nossa Senhora da Conceição, is Póvoa's main parish church and the most ambitious religious building in town. Construction ran from 1743 to 1757 in a sober mid-18th-century Baroque style — a single rectangular nave, plain stone facade, and a notable bell tower visible across the centre.

@@ -8,6 +8,7 @@ tags:
 - monument
 title: Lion's Head
 type: poi
+score: 4.9
 ---
 
 About 25 km southeast of central Baguio along Kennon Road, a 40-foot-tall stone lion's head bursts out of a roadside mountain — the unofficial gateway to Baguio for everyone driving up from the lowlands. The sculpture was commissioned in 1972 by the local Lions Club International chapter and carved into the existing rock face over a year by sculptor Reynaldo da Jesus.

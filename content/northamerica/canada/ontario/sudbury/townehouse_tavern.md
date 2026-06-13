@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 46.4933
 longitude: -80.9961
+score: 6.9
 ---
 
 The Townehouse, on Elgin Street, has been Sudbury's main live music venue for decades. Indie rock, folk, punk, country — almost everything that tours through Northern Ontario passes through here. The interior is small and dark with low ceilings, sticky floors, and a long bar.

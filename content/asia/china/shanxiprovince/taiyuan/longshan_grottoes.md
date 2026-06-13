@@ -8,6 +8,7 @@ latitude: 37.7820
 longitude: 112.4800
 story: >
   The Longshan Grottoes are the only surviving Taoist grotto complex in China — every other grotto site cut into rock face is Buddhist. They were commissioned in the 1230s and 1240s by Song Defang, a Taoist priest who had the ear of Kublai Khan's court, at a moment when Quanzhen Taoism was reaching the height of its political influence in the Yuan empire. The figures carved here belong to a Taoist iconographic program that was never repeated at this scale anywhere else.
+score: 8.0
 ---
 
 The Longshan Grottoes, carved into the hillside above Tianlongshan during the Yuan dynasty, are unique in Chinese religious art history: the only rock-cut grotto complex dedicated to Taoist deities rather than Buddhist figures. The complex was commissioned by the Quanzhen Taoist priest Song Defang and contains eight caves with carved figures of Taoist deities, celestial officials, and narrative scenes executed in the Yuan sculptural style.

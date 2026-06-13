@@ -13,6 +13,7 @@ story: >
   Bronze Bird Tower (Tongquetai) here in 210 CE to celebrate his military
   victories — and it became so associated with pleasure and poetry that it was
   legendary for centuries after the city fell.
+score: 8.1
 ---
 
 The Yecheng ruins in Linzhang County, about 40 kilometres southeast of Handan, are one of the more substantial archaeological sites in northern China. The city was successively the capital of Cao Wei, the Former Zhao, Eastern Wei, and Northern Qi dynasties, and at its peak in the third to sixth centuries it was among the largest cities in the world. Today, substantial sections of the rammed-earth city walls survive above ground, and ongoing excavations continue to uncover palace foundations, drainage systems, and artefacts from the various dynasties that used the site.

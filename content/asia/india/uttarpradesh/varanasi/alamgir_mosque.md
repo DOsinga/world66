@@ -13,6 +13,7 @@ story: >
   legal controversy and remains more accessible to visitors.
 sources:
   - https://en.wikipedia.org/wiki/Alamgir_Mosque
+score: 6.9
 ---
 
 The Alamgir Mosque (also called Aurangzeb Mosque or Beni Madhav ka Darera) overlooks the Ganges from a prominent position on the riverbank in the old city. The structure is a hybrid: the lower portions are the remains of a large Hindu temple demolished by Aurangzeb, while the upper portions — the minarets and the domes — are Muslim additions. The combination creates an architecturally distinctive profile visible from the river.

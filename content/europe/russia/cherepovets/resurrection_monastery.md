@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: The 14th-century monastic settlement that grew into the city of Cherepovets
+score: 6.9
 ---
 
 The Resurrection Monastery is the origin point of Cherepovets. It was founded in the late 14th century by two monks, Feodosy and Afanasy, both disciples of Sergius of Radonezh — the great monastic reformer whose Trinity Monastery outside Moscow remains the spiritual heart of Russian Orthodoxy. Their small settlement on the hill above the Sheksna River slowly attracted a community around it, and that community became the city. Without the monastery, there would be no Cherepovets.

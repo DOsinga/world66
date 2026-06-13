@@ -14,6 +14,7 @@ story: >
   War. The French retook it, the English seized it again, then the French again. By the time
   the Germans occupied it in 1940, the castle had been garrisoned by virtually every European
   power that had any business in northern France.
+score: 8.2
 ---
 
 The castle that William the Conqueror built around 1060 still dominates the centre of Caen, its massive walls enclosing an area the size of several city blocks. Entry to the grounds is free, and you can walk the ramparts for views over the city and climb what remains of the 12th-century keep. Inside the walls sit two good museums — the Musée des Beaux-Arts and the Musée de Normandie — plus a restaurant and pleasant gardens.

@@ -14,6 +14,7 @@ story: >
   destinations.
 sources:
   - https://en.wikipedia.org/wiki/PortAventura_World
+score: 8.4
 ---
 
 PortAventura World is a large resort complex straddling the boundary between Salou and Vila-seca, about 2 km from the beach. The main theme park divides into themed areas — the Mediterranean, Polynesia, the American Far West, Mexico, and China — each with its own rides, restaurants, and entertainment. Dragon Khan, the park's signature roller coaster, was Europe's most inversions record holder when it opened.

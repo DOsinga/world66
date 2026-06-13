@@ -9,6 +9,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Tombstone_Historic_District
+score: 8.4
 ---
 
 Allen Street is the spine of the Tombstone Historic District, a boardwalk-lined stretch of Victorian commercial buildings that has been a National Historic Landmark since 1961. The district covers about six blocks and contains most of Tombstone's saloons, museums, and shops — all within easy walking distance of each other.

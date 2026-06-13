@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.6190
 longitude: -3.9430
+score: 6.2
 ---
 
 Swansea Minster — formally the Minster Church of St Mary — was granted minster status in 2012 and serves as the principal Anglican church of the city. The current building is the 1950s rebuild of the medieval parish church flattened in the Blitz of February 1941.

@@ -15,6 +15,7 @@ story: >
   freezing, providing reliable winter feeding. Within a few decades the numbers
   grew from a handful to tens of thousands, transforming a dam's side effect
   into one of China's great wildlife spectacles.
+score: 7.8
 ---
 
 Swan Lake Wetland Park, along the Yellow River below the Sanmenxia Dam, hosts one of the largest concentrations of migrating Siberian whooper swans in China between October and February. The birds — up to 60,000 or more in peak years — arrive from breeding grounds in Siberia and Inner Mongolia and overwinter here where the dam's regulated water keeps sections of the river open and food-rich. Access to the wetland is free, and the swans are typically close enough to photograph without a telephoto lens; on good days the entire surface of some sections of the river appears white with birds.

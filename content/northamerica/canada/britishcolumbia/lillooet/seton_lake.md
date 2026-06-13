@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.6688
 longitude: -121.9886
+score: 8.3
 ---
 
 Seton Lake is a narrow, deep glacial lake west of Lillooet, squeezed between dramatic mountains that drop almost directly to the water. The lake is connected to the Fraser River by the short Seton River, and a hydroelectric project has added a canal alongside it. For visitors, it's one of the most beautiful spots near town — the turquoise water, the mountain walls, and the dry benchland landscape combine in a way that's distinctly unlike any other lake in BC.

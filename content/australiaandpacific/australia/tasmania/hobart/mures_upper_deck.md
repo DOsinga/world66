@@ -12,6 +12,7 @@ tags:
   - restaurant
   - sullivans_cove
 snippet: "Tasmanian seafood institution on Victoria Dock — flathead, oysters, and the freshest catch the family fleet brings in"
+score: 6.9
 ---
 
 Mures has been Hobart's seafood institution since 1973 and still operates its own fishing fleet — the boats moored just outside the restaurant unload their catch directly to the kitchen. The **Upper Deck** is the sit-down restaurant on the first floor, with windows over the dock; the cheaper **Lower Deck** below sells fish and chips at counter service to be eaten on the dock wall.

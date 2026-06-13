@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: 1907 ATSF depot turned model railroad museum, with working layouts and railroad history
+score: 6.8
 ---
 
 Clovis owes its existence to the Atchison, Topeka and Santa Fe Railway, which laid out the town as a division point in 1906 and built this depot a year later. The Mission Revival building was restored in the 1990s and now houses a model train museum, with working operating layouts on several scales depicting Clovis and the AT&SF mainline in different eras.

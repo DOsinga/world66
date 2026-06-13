@@ -7,6 +7,7 @@ tags:
 - bar
 title: Spirit House
 type: poi
+score: 6.1
 ---
 
 Spirit House occupies a French colonial villa on Fa Ngum Road, right on the embankment overlooking the Mekong. It is the most ambitious cocktail bar in Vientiane — well-mixed classics, a serious whisky list, and a few Lao-inflected concoctions using local spirits and herbs. Prices are higher than the average bar but still modest by any international comparison.

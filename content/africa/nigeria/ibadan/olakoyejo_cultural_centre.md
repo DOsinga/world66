@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Olakoyejo Cultural Centre
 type: poi
+score: 6.5
 ---
 
 Perched on Mokola Hill, the Olakoyejo Cultural Centre offers one of the best panoramic views in Ibadan, looking out across the city's distinctive brown corrugated rooftops and the green hills beyond. The centre hosts occasional exhibitions and cultural events, though the real draw is the vantage point itself. It is a pleasant spot for a quiet moment away from the bustle of the markets below, and worth combining with a walk through the Mokola neighbourhood.

@@ -11,6 +11,7 @@ story: >
   of up to 15 metres in places. Its depth — reaching 128 metres — keeps the
   water cold enough that it barely freezes even in hard winters, and cold
   enough year-round to preserve shipwrecks in near-pristine condition.
+score: 7.8
 ---
 
 Lake Vättern, Sweden's second-largest lake, defines Jönköping. The city sits at the lake's southern tip, and the long promenade stretching along the waterfront is the focus of outdoor life in summer. Sunsets over the lake are famously beautiful — the water turns gold and the sky often produces dramatic cloud formations over the flat expanse.

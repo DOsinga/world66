@@ -7,6 +7,7 @@ tags:
   - church
 latitude: 43.0702
 longitude: 12.6158
+score: 5.7
 ---
 
 This minute medieval oratory, set into a wall opposite the Chiesa Nuova, marks the spot traditionally identified as the stable where Francis was born — his mother, Pica, supposedly retreated to the family's stable to give birth on the model of Bethlehem. A Latin inscription above the door makes the claim explicit.

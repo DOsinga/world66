@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 67.8558
 longitude: 20.2253
+score: 9.2
 ---
 
 Kiruna sits at 68 degrees north — well inside the auroral oval, the band around the magnetic pole where the Northern Lights are most reliably visible. On clear nights between November and March, the aurora is a near-nightly occurrence when solar activity is even moderate. The key requirement is darkness and a clear sky away from city lights.

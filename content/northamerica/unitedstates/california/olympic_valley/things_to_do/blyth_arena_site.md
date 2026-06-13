@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Blyth_Arena
 story: >
   Blyth Arena was the centrepiece of the 1960 Winter Olympics — at the time the largest clear-span roof structure in the world, covering 30,000 square feet without a single interior support column. It hosted figure skating and ice hockey during the games. The arena was demolished in 1983 after decades of use as a concert and events venue, but the site near the current village marks where Carol Heiss won figure skating gold and the US ice hockey team took silver.
+score: 5.6
 ---
 
 The site near the Palisades Tahoe village base marks where Blyth Arena once stood — the iconic ice arena that served as the centrepiece of the 1960 Winter Olympics. The arena itself was demolished in 1983, but historical markers near the village recall its role in the games.

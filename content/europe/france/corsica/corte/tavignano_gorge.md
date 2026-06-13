@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3070
 longitude: 9.1650
+score: 8.2
 ---
 
 The Gorges du Tavignano is the less-visited alternative to the Restonica, and it is in many ways the finer walk. The trail starts from near the Chapelle Sainte-Croix at the edge of the old town and follows the river upstream through a deep granite canyon, crossing on stepping stones and under overhanging walls of rock. There are good swimming holes along the way.

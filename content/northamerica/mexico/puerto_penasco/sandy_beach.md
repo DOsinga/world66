@@ -11,6 +11,7 @@ story: >
   contracts to a fraction of its size. Time your visit right and you get a
   vast flat expanse of wet sand reflecting the desert sky; arrive at high tide
   on a busy weekend and you will be fighting for towel space.
+score: 6.0
 ---
 
 Sandy Beach is the main resort area of Puerto Peñasco, a long stretch of sand northwest of the old town where the high-rises and vacation rentals cluster. It is the beach that most visitors from Arizona come for: warm, calm, easily accessible, with vendors selling cold drinks and boat trips up the coast. The water in the Sea of Cortez is warmer and more sheltered than the Pacific beaches further south, which makes it particularly suitable for families and for those who prefer their ocean experience without strong currents.

@@ -6,6 +6,7 @@ longitude: -79.8865
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 The Blue Ridge Parkway, the 469-mile scenic road that follows the crest of the Blue Ridge Mountains from Virginia to North Carolina, passes immediately south and east of Roanoke. The Parkway is administered by the National Park Service, has no commercial development along its length, and has a strict 45 mph speed limit — it is a driving destination in itself, not a route from A to B.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 38.5156
 longitude: 48.8617
+score: 6.3
 ---
 
 Astara's Caspian shoreline is cleaner than the heavily industrialized beaches around Baku and the Absheron peninsula. The water is calm and the sand grey-brown, backed by low dunes. Local families use it in summer, and the beach is rarely crowded.

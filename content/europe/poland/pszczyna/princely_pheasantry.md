@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 49.9897
 longitude: 18.8928
+score: 5.7
 ---
 
 The Princely Pheasantry (Bażantarnia Książęca) is a late 18th-century neoclassical building about 4 kilometres from the centre of Pszczyna, in the village of Poręba. It was built as part of the von Hochberg estate complex — originally to house the family's pheasant-breeding operation — and is a handsome example of neoclassical architecture set in quiet countryside.

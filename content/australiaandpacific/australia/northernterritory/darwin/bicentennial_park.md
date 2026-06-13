@@ -9,6 +9,7 @@ longitude: 130.8371
 snippet: Darwin's main waterfront park on the Esplanade, with sunset views over the Timor Sea
 sources:
   - https://en.wikipedia.org/wiki/Bicentennial_Park_(Darwin)
+score: 7.4
 ---
 
 Bicentennial Park runs along Darwin's Esplanade above the harbour, a long strip of tropical parkland with excellent views over the Timor Sea. It is where Darwin comes to walk, jog, and watch the sunset — and the sunsets here are remarkable, the sky often turning deep orange and red across the water.

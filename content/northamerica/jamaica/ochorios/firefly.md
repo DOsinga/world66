@@ -8,6 +8,7 @@ tags:
 latitude: 18.4383
 longitude: -76.9906
 story: "Coward bought the property after visits to his neighbour Ian Fleming at GoldenEye, just along the coast. He is buried in the garden, beneath a simple marble slab, with the views of the Caribbean that he loved. Queen Elizabeth II visited him here in 1965 — he walked up the hill to meet her car and collapsed with exhaustion, a story he told with great amusement afterward."
+score: 7.8
 ---
 
 Firefly is the hilltop home where Noël Coward lived from 1956 until his death in 1973, preserved more or less as he left it. The house sits above the village of Port Maria, about 30 kilometres east of Ocho Rios, with views down the coast that Coward painted repeatedly. Inside, his studio, dining room, and bedroom remain intact — his piano is still there, his paintings on the walls, his collection of theatrical mementoes exactly placed.

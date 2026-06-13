@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sport
 snippet: International cricket ground in the heart of Hamilton
+score: 5.5
 ---
 
 Seddon Park is New Zealand's premier cricket venue in the Waikato region and one of the country's most attractive grounds. It has hosted international test matches and one-day internationals and is the home ground of the Central Districts and Northern Districts cricket teams. The intimacy of the ground — it seats just under 10,000 — makes watching cricket here more enjoyable than at many larger venues.

@@ -14,6 +14,7 @@ story: >
   houses have survived almost intact — a rarity in Finland, where fire took
   so many historic town centres. On summer evenings the lanes smell of
   warm timber and the light stays golden until nearly midnight.
+score: 8.7
 ---
 
 Naantali's old town occupies the ridge above the harbour, a compact grid of painted wooden houses in yellow, red, and ochre. The streets are narrow enough that neighbours could almost shake hands across them. Today the ground floors hold small galleries, artisan shops, and cafés — the kind of places that close in September and reopen with the Moominworld season.

@@ -7,6 +7,7 @@ tags:
   - history
 latitude: -7.49
 longitude: 178.6936
+score: 7.4
 ---
 
 On the night of 9 March 2000 a fire broke out in a girls' dormitory at Motufoua Secondary School. The building's doors had been locked from the outside, in line with the school's policy at the time, and the windows were barred. Nineteen students and one teacher died.

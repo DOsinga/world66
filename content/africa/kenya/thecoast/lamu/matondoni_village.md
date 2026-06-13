@@ -6,6 +6,7 @@ longitude: 40.8333
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Matondoni, on the western side of Lamu Island, is the centre of dhow-building on the Kenyan coast. The boats — the small lateen-rigged jahazi and the larger mtepe-derived ngalawa — are still built here by hand, plank by plank, with techniques unchanged since the 19th century.

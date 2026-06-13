@@ -10,6 +10,7 @@ tags:
   - historic
 sources:
   - https://en.wikipedia.org/wiki/Northern_Pacific_Warehouse
+score: 5.6
 ---
 
 The Northern Pacific Warehouse was built in 1900 to service the railroad that had reached Thompson Falls in the 1880s, and it remains one of the most intact early-twentieth-century commercial buildings in western Montana's smaller towns. It is on the National Register of Historic Places, listed in 1986. The building is a straightforward timber-frame warehouse, nothing ornate, but its solidity reflects the brief optimism of a period when the Northern Pacific was driving settlement across the region.

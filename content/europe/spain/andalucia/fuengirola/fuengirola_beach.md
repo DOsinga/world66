@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, sight]
 latitude: 36.5350
 longitude: -4.6200
+score: 6.5
 ---
 
 Fuengirola's beach runs for seven kilometres from the Sohail Castle headland in the west to the Los Boliches neighbourhood in the east. It is a wide, sandy beach with calm Mediterranean water — the Costa del Sol geography shields it from Atlantic swells, making it reliably flat and safe for swimming. The water temperature reaches 24–25°C by late summer.

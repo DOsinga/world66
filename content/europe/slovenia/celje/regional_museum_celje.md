@@ -14,6 +14,7 @@ story: >
   the 1920s. The panels depict scenes from Roman daily life and mythology in
   remarkably vivid colour, and are considered among the finest examples of Roman
   decorative painting north of the Alps.
+score: 8.1
 ---
 
 The Regional Museum of Celje occupies the reconstructed Counts' Palace in the old town — a handsome 16th-century building that was built on the foundations of an earlier Roman and medieval structure. The museum covers the full sweep of the region's history, from prehistoric finds through the Roman city of Celeia, the medieval period of the Counts of Celje, and the more recent industrial and social history of Styria.

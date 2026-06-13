@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: -36.1225
 longitude: 144.7219
+score: 7.3
 ---
 
 The river flats around Echuca are threaded with cycling tracks through stands of river red gum — massive, silver-barked eucalypts that grow only in the floodplains of the Murray-Darling system and can live for a thousand years. The riding is flat, the tracks are well-maintained, and there are enough loops of varying length (from 10 kilometres to over 40) to fill a day or spread across two.

@@ -5,6 +5,7 @@ tags: [things_to_do, museum, history]
 latitude: 62.6008
 longitude: 8.1503
 story: The Romsdal Museum contains a remarkable collection of historical buildings relocated from across the region — a practice common in Scandinavian open-air museums since the late 19th century, when it was recognised that rural buildings were disappearing faster than they could be documented. One of the most unusual structures is a medieval log farmhouse from Bjørnstad, dating to around 1400, which was moved to the museum site piece by piece and reassembled. The woodcarving on some of the doorways and interior panels is among the finest surviving examples of Norwegian regional craft.
+score: 8.0
 ---
 
 The Romsdal Museum (Romsdalsmuseet) is an open-air museum covering traditional life in the Romsdal region across several centuries. It consists of about 50 historic buildings relocated from their original sites — farmhouses, a smithy, a schoolhouse, a church — arranged on a hillside site above Molde and linked by paths through gardens and woodland.

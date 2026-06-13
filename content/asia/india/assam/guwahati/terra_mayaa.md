@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 26.1480
 longitude: 91.7670
+score: 5.4
 ---
 
 A rooftop cafe-bar on G.S. Road in Six Mile with views over the city's southern sprawl and good cocktails. The menu is wide — pasta, pizza, burgers, Asian — and reliable rather than spectacular, but the place is popular with Guwahati's young professional crowd for drinks. Live music on weekends.

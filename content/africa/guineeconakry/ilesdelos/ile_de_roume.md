@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Robert Louis Stevenson is often said to have used Roume's outline as the model for the map in Treasure Island. The claim is more romantic than provable, but the shape of the island, the lagoon, and the surrounding reefs do bear an uncanny resemblance to the famous frontispiece."
+score: 8.1
 ---
 
 Roume is the quietest and most picturesque of the three main islands -- a slender crescent of forest and beach with a small population, a couple of basic guesthouses, and clear water on the leeward side. Expats from Conakry come here for the weekend to disappear.

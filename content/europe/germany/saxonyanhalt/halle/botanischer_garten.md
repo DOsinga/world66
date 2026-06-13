@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 51.4889
 longitude: 11.9604
+score: 6.7
 ---
 
 The university botanical garden was founded in 1698 and is one of the older such gardens in Germany. It occupies a calm, slightly sunken site below the old town, with palm houses, a Victorian-style fern house, and the usual systematic beds of European flora.

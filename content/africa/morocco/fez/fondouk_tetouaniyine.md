@@ -8,6 +8,7 @@ tags:
 title: Fondouk Tetouaniyine
 type: poi
 snippet: "One of the best-preserved caravanserais in Fez, still partly used as a warehouse"
+score: 7.8
 ---
 
 A *fondouk* (caravanserai) was the medieval equivalent of a combined warehouse, stable, and inn — merchants arriving in the city stored their goods on the ground floor and slept in rooms above a central courtyard. The Fondouk Tetouaniyine is one of the best-preserved examples in Fez, with a large central courtyard surrounded by arched galleries on two levels, some of the woodwork still intact.

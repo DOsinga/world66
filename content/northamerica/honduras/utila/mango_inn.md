@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 16.0894
 longitude: -86.8964
+score: 5.5
 ---
 
 The pizza oven at the Mango Inn turns out the most reliable pizza on the island — proper thin-crust pies cooked over wood. The dining room is set in a tropical garden away from the main street, which makes it a calmer dinner option than the beachfront places.

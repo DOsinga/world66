@@ -7,6 +7,7 @@ tags:
   - cafe
 title: Town Centre Cafés
 type: poi
+score: 5.3
 ---
 
 Around the main square and along the central streets there are several small cafés and canteen-style eateries serving Armenian staples: soup, grilled meats, salads, fresh bread, strong coffee. These are working-local places rather than tourist restaurants, with prices to match. If you are just passing through for the churches, a stop at one of these for coffee and a snack is the easiest option.

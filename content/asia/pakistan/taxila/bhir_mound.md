@@ -10,6 +10,7 @@ story: >
   This is the city that Alexander the Great entered in 326 BC when the king of Taxila submitted to him without a fight, hoping to use Macedonian power against a rival. Alexander spent some weeks here, held athletic and cavalry competitions in the Greek tradition, then marched on toward the Punjab. Whether he appreciated the sophistication of the city he was visiting is not recorded.
 sources:
   - https://en.wikipedia.org/wiki/Bhir_Mound
+score: 7.3
 ---
 
 Bhir Mound is the oldest of Taxila's three excavated cities, and the hardest to read. Unlike Sirkap — with its orderly Greek grid — Bhir Mound is an organic maze of walls and chambers that reflect centuries of piecemeal growth. It was occupied from roughly the 6th century BC until the Bactrian Greeks replaced it with Sirkap around 180 BC, and the layers of rebuilding on rebuilding make the archaeology complex.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.3
 ---
 
 **Riverside Park** runs along the south bank of the South Thompson River for about a kilometre west of downtown. It is the city's most-used outdoor space — a wide grass strip with mature shade trees, a sandy swimming beach, an outdoor stage, a small bandstand, walking paths and a playground. In summer it fills with picnicking families, dog-walkers and the audience for the free **Music in the Park** concert series, which runs nightly through July and August.

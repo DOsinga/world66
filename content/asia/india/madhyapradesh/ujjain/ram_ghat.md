@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.1822
 longitude: 75.7631
+score: 8.5
 ---
 
 Ram Ghat is the main bathing ghat on the Kshipra River — a broad flight of stone steps descending to the water, lined with small temples, prayer flags, and the stalls of priests who officiate at the riverside rituals. At dawn, the ghat fills with pilgrims coming to bathe in the sacred river, and the scene — incense, flower offerings floating downstream, the sound of bells and mantras — is one of the most affecting anywhere along the Kshipra.

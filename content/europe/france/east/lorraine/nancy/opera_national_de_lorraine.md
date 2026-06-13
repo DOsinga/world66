@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 48.6931
 longitude: 6.1825
+score: 7.7
 ---
 
 The Opéra national de Lorraine occupies one of the pavilions on Place Stanislas, making it one of the most beautifully situated opera houses in France. The building dates from the 18th century and has hosted opera, ballet, and orchestral performances for over two hundred years. The program today leans toward the mainstream — Verdi, Mozart, Puccini — but visiting a performance here, in a gilded 18th-century hall looking out over the illuminated square, is an experience worth arranging your trip around.

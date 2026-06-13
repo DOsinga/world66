@@ -9,6 +9,7 @@ latitude: 48.727
 longitude: -3.987
 story: >
   The Station Biologique was founded in 1872 by Henri de Lacaze-Duthiers, inspired by his work at the marine station in Concarneau. It was one of the first marine research institutions in the world, and its aquarium — opened to the public in the late 19th century — was among the earliest public aquaria in France.
+score: 6.2
 ---
 
 The Station Biologique de Roscoff is one of Europe's most important marine biology research centres, founded in 1872. The facility sits right on the waterfront and has been a centre for oceanographic research ever since, with the surrounding waters providing a rich laboratory for studying Atlantic marine life.

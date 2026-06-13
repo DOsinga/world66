@@ -12,6 +12,7 @@ story: >
   deliberately, hiding the capital from pirate raids that regularly struck the
   coast. Even so, it was sacked and burned by Algerian pirates in 1593. The
   current church was rebuilt over the ruins.
+score: 8.1
 ---
 
 Betancuria is the old capital of Fuerteventura, tucked into a green valley in the volcanic interior about 30 kilometres south of Puerto del Rosario. It is a small and genuinely pretty colonial town — palm-lined streets, white-washed houses, and the handsome 17th-century church of Santa María de Betancuria that anchors the modest main square. The church is among the most historic buildings in the Canary Islands and contains some notable religious art. The Archaeological Museum of Betancuria next door is small but worthwhile, with pre-conquest Guanche artefacts.

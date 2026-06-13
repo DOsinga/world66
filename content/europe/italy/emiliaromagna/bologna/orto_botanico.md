@@ -8,6 +8,7 @@ snippet: One of the oldest botanical gardens in Europe, founded in 1568
 tags:
 - things_to_do
 - park
+score: 6.4
 ---
 
 Founded in 1568 by Ulisse Aldrovandi — the same Aldrovandi who built up the cabinet of natural history that became the city's zoological museum — Bologna's Orto Botanico is among the oldest university botanical gardens in the world. The original site was elsewhere; the present garden on Via Irnerio dates from the eighteenth century and covers about two hectares.

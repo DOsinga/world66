@@ -6,6 +6,7 @@ longitude: 8.7615
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The cobbled street of **Sønderportsgade** running south from Torvet is the architectural showcase of medieval Ribe — a row of leaning half-timbered houses, some of them dating from the 1500s, all painted in soft yellows, ochres and greys. The whole stretch is listed and protected, which is why the town centre has the deeply un-Danish density of original sixteenth- and seventeenth-century buildings that is its main visual draw.

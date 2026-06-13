@@ -8,6 +8,7 @@ latitude: 50.0097
 longitude: 5.7389
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_the_Bulge_Monument
+score: 7.8
 ---
 
 The Mardasson Memorial, now officially called the Battle of the Bulge Monument, stands on a hill just outside Bastogne and is visible for some distance across the surrounding farmland. Built in the shape of a five-pointed star — the American military emblem — it was dedicated in 1950 and honors the American soldiers wounded or killed during the Battle of the Bulge. The names of all American states are inscribed around the outer ring, and a crypt beneath the monument contains three altars, one each for Catholic, Protestant, and Jewish services.

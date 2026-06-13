@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8973
 longitude: 14.5148
+score: 7.4
 ---
 
 The Lower Barrakka Gardens sit at the southeastern tip of Valletta's fortifications, below and east of the more famous Upper Barrakka. The viewpoint here looks out over the mouth of the Grand Harbour toward the open Mediterranean, a very different prospect from the upper gardens' view toward the Three Cities. A neoclassical temple on the terrace was erected as a memorial to Sir Alexander Ball, the British naval officer who captured Malta from the French in 1800.

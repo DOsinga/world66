@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 1.8785
 longitude: -76.3667
+score: 7.8
 ---
 
 The Estrecho del Magdalena — the Narrows of the Magdalena — is where the great Río Magdalena, which runs the length of Colombia and drains much of the Andes, is squeezed through a gap between rock walls to a width of just 2 metres. The contrast is startling: one of South America's longest rivers, reduced to something you could jump across with a running start, rushing through a slot in the rock.

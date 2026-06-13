@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The **Istana Iskandariah** is the official residence of the **Sultan of Perak** — a striking white modernist palace built in 1933 on a hilltop overlooking the Perak River at Kuala Kangsar. The architecture is a confident streamline-moderne, with a square central block crowned by a stepped tower, four corner pavilions and long porticoed wings. It is one of the most distinctive royal palaces in Malaysia.

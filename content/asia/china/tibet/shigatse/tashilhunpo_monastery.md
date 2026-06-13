@@ -9,6 +9,7 @@ latitude: 29.1085
 longitude: 86.8588
 story: >
   The monastery was founded in 1447 by Gendun Drup, the first Dalai Lama, and later became the seat of the Panchen Lama — a figure nearly co-equal in Tibetan Buddhism with the Dalai Lama himself. The Chinese government's installation of its own Panchen Lama candidate here in 1995, after the Dalai Lama recognised a six-year-old boy who immediately vanished into Chinese custody, turned Tashilhunpo into a contested symbol of religious authority still felt today.
+score: 9.3
 ---
 
 Tashilhunpo is the largest functioning monastery in Tibet, home to around 600 monks and sprawling across the lower slope of Drolma Ri hill on the western edge of Shigatse. Founded in 1447 and expanded over centuries, it covers some 300,000 square metres and contains dozens of chapels, colleges, and ceremonial halls arranged around a walled complex the size of a small town.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 51.6018
 longitude: -55.524
+score: 7.4
 ---
 
 A kilometre east of the UNESCO site, Norstead is a private, full-scale reconstruction of a Viking Age port of trade — the kind of settlement that might have grown up had the Norse stayed longer in Vinland. The centrepiece is a replica Viking knarr (the cargo ship that would have brought settlers across the Atlantic), which you can board and climb around. Craftspeople demonstrate rope-making, weaving, and blacksmithing in the surrounding longhouses.

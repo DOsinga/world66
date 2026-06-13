@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - art
+score: 7.4
 ---
 
 The Garrotxa Museum, on Carrer Hospici in the old centre of Olot, is the regional history and art museum and the home of the canonical collection of the Escola d'Olot — the 19th-century landscape painters who made the local light famous. Joaquim Vayreda, Modest Urgell, and Josep Berga i Boix all painted here, working outdoors in the manner of the French Barbizon school and creating images of the Garrotxa countryside that helped shape Catalan visual culture.

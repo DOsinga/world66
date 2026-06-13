@@ -7,6 +7,7 @@ tags: [things_to_do, sight, nature]
 snippet: Dramatic eroded gullies and ravines in the hills east of Kondoa — geological spectacle and cautionary tale
 story: >
   The Irangi Hills are one of East Africa's most severe examples of accelerated soil erosion. Colonial-era land policies and overgrazing stripped the hill slopes of their protective cover; the thin laterite soils, once exposed to the seasonal rains, carved into ravines within decades. Some gullies are now ten metres deep and growing. Tanzanian soil scientists have studied this area as a textbook case of irreversible land degradation.
+score: 7.5
 ---
 
 The countryside around the Haubi area, east of Kondoa, has been devastated by erosion on a scale dramatic enough to attract visitors in its own right. Huge gullies — badlands in miniature, with knife-edged ridges, red earth amphitheatres, and orange ravines — scar the hillsides in a landscape that manages to be both beautiful and sobering. Standing at the rim of the largest gully you can look across to eroded pillars and ridgelines that would not be out of place in the American Southwest.

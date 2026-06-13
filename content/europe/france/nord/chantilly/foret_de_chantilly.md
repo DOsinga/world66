@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - park
 - forest
+score: 7.8
 ---
 
 The Chantilly forest spreads over 6,300 hectares south of the château and is one of the largest forests in the Île-de-France. It was preserved across centuries as a royal hunting reserve and never fragmented by intensive agriculture; the result is a near-continuous canopy of oak and beech, criss-crossed by long avenues that the Princes of Condé carved through it for hunting and forestry rides.

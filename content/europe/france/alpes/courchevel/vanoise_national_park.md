@@ -7,6 +7,7 @@ tags:
 latitude: 45.35
 longitude: 6.85
 story: "Vanoise was the first French national park, established in 1963, and the only one wholly within the country's mountain ranges. Its creation was driven partly by the need to save the Alpine ibex from extinction — the goat-like animals had been reduced to a handful of individuals before protection brought them back."
+score: 8.7
 ---
 
 The Vanoise National Park lies directly east of Courchevel and is the wild counterweight to all the resort glitter. Created in 1963, it was France's first national park, and shares a border with Italy's Gran Paradiso to form the largest protected area in Western Europe. Inside its 530 square kilometres of high peaks, glaciers, and lakes you can see ibex, chamois, marmots, golden eagles, and bearded vultures.

@@ -8,6 +8,7 @@ latitude: 36.2694
 longitude: -6.0785
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 6.9
 ---
 
 Conil's working fishing port lies at the southern end of the main beach. It is not a picturesque harbour in the manner of a Cornish fishing village — the facilities are industrial, with processing buildings, ice machines, and refrigerator trucks — but it gives a clear picture of what the local fishing economy actually looks like. In the early morning, the boats return from the night's work and the fish market at the port building handles the day's catch.

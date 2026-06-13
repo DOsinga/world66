@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.9540
 longitude: -7.8390
+score: 7.4
 ---
 
 The estuary at the mouth of the River Blackwater is one of the scenic highlights of this part of Ireland. The river marks the ancient boundary between Cork and Waterford, and the wide tidal expanse flanked by wooded hills gives Youghal its distinctive setting. Walking the waterfront from the old quays northward, or crossing the bridge to look back at the town, reveals the full sweep of the medieval settlement against its natural backdrop.

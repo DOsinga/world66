@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2812
 longitude: -120.6640
+score: 7.2
 ---
 
 San Luis Creek runs through the middle of downtown, and Mission Plaza is the park that grew up along it directly below the Mission. It's a genuinely pleasant patch of green: big trees, benches along the water, the creek running shallow and clear enough that you can see the bottom. On warm afternoons people eat lunch here, and during the Thursday Night Farmers Market the plaza is full from mid-evening on.

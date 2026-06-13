@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The whitewashed parish church on the high point of the island, built in stages between the 1690s and the early 19th century on the foundations of the principal Itza temple after the Spanish finally subdued Nojpeten in 1697. A modest two-towered front, a single nave, a stone floor that slopes slightly with the underlying mound.

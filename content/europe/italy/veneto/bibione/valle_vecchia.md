@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 45.6500
 longitude: 12.9583
+score: 7.6
 ---
 
 Valle Vecchia is a 900-hectare reclaimed area between Bibione and Caorle, with farmland, woodland, a long undeveloped beach and the surrounding lagoon. It was created in the 1960s when the channels were drained for agriculture, but a large part has since been let go back to nature and now supports herons, egrets, marsh harriers and migrating waders.

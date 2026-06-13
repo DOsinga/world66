@@ -4,6 +4,7 @@ type: poi
 latitude: 53.1460
 longitude: 0.3260
 tags: [things_to_do, sight, museum]
+score: 7.1
 ---
 
 An open-air museum of Lincolnshire rural life, occupying a complex of 18th-century farm buildings on the western edge of town. The exhibits cover everything from a fully furnished cottage of around 1900 to a working blacksmith's forge, a thatched mud-and-stud Lincolnshire farmhouse, and a barn full of agricultural implements that explain how this coast was farmed before the railways turned it over to tourism.

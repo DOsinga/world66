@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.2573
 longitude: 10.9630
+score: 5.9
 ---
 
 The Natural History Museum of Coburg occupies a building on the edge of the old town and holds a regional collection focused on the geology, fauna, and flora of northern Bavaria and the Franconian highlands. It is the sort of museum that works best with children, though the geological sections — covering the Jurassic limestone landscapes of the nearby Franconian Switzerland and Altmühl Valley — are genuinely interesting for adults with any interest in the region's landscape.

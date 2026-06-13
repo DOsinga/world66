@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 16th-century Ottoman mosque named for the iron chains that once hung from its dome
+score: 6.9
 ---
 
 The Zincirli Mosque -- "the mosque of the chains" -- was built around 1500 by an Ottoman vizier as part of a small complex that also included a religious school and a public fountain. The name refers to the iron chains that once hung from the dome to support the central chandelier; they were melted down for the Greek war effort during the Second World War.

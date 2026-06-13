@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 38.4145
 longitude: 77.2480
+score: 7.8
 ---
 
 The Yarkand bazaar runs daily in the old quarter, with the main concentration in the lanes around the mosque and the Amanisahan complex. Unlike the more famous Kashgar Sunday Market, Yarkand's bazaar has not been extensively renovated or managed for tourism, which gives it a rawer character: the stalls are less ordered, the selection more varied, and the vendors less accustomed to foreign visitors.

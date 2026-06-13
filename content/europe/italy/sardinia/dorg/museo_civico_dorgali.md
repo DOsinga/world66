@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.2905
 longitude: 9.5859
+score: 6.6
 ---
 
 A small but well-organised archaeological museum in the centre of town, housing finds from the Nuragic sites of the surrounding area. The collection includes bronze figurines, ceramics, and jewellery from local nuraghi, along with material from the Tiscali cave village and the Ispinigoli grotto. The displays are contextualised well enough that you come away understanding the Nuragic civilisation rather than just looking at objects.

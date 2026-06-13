@@ -7,6 +7,7 @@ tags:
 latitude: 43.6940
 longitude: -70.3066
 story: "Rob Tod founded Allagash in 1995 in a small Portland industrial space with a single beer — a witbier inspired by Belgian abbeys, in a state where the local taste ran to thin lagers. By the time he won the James Beard Award for Outstanding Wine, Spirits, or Beer Producer in 2019, Allagash White had become the second-best-selling craft beer in Maine and a fixture on bar menus across the country."
+score: 7.8
 ---
 
 The Allagash brewery on Industrial Way, north of downtown, runs a free taproom and brewery tour that is one of the best beer experiences in New England. Beyond the classic Allagash White, look for the limited-release lambic-style and spontaneously fermented beers from their famous coolship — only one of a handful of American breweries doing this seriously.

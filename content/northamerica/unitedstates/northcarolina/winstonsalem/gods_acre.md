@@ -6,6 +6,7 @@ longitude: -80.2425
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 God's Acre is the Moravian cemetery just north of Old Salem — long, level, and unlike any other graveyard in America. The Moravians believed all souls are equal in death, so every gravestone is identical: a flat marble slab roughly 50 cm square, laid flush with the ground. Burials are arranged not by family but by "choir" — single brothers, single sisters, married couples — and within each section, simply in the order people died.

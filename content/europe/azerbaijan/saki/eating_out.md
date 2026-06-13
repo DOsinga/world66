@@ -7,6 +7,7 @@ phone: '+994557957489'
 price: good price
 title: Eating Out
 type: poi
+score: 2.5
 ---
 
 **Restaurants:**

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -8.1098
 longitude: -79.0255
+score: 7.7
 ---
 
 The archaeology museum of the Universidad Nacional de Trujillo holds one of the best collections of Moche and Chimú artefacts in the region, most of it excavated from the sites surrounding the city. The collection includes ceramics, metalwork, and textiles, with particularly strong representation of Moche portrait vessels — highly individualised ceramic heads that are among the most sophisticated portrait art produced in the pre-Columbian Americas.

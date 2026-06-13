@@ -5,6 +5,7 @@ latitude: 33.5635
 longitude: 35.3705
 snippet: "Vaulted alleys of the old town — spice merchants, copper workshops, sweet shops"
 tags: [things_to_do, sight, neighbourhood]
+score: 8.8
 ---
 
 The old town of Sidon is one of the most atmospheric in Lebanon — a dense warren of vaulted stone alleys, dark passages, and tiny squares that have changed remarkably little in centuries. Many of the souks are partly covered, the roofs of ribbed stone vaulting providing welcome shade in summer. Spice merchants pile their goods in cones on the counters; copper and silver workshops still produce traditional vessels by hand.

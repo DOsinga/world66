@@ -8,6 +8,7 @@ tags:
 - sight
 title: Roman Theatre of Montaudou
 type: poi
+score: 6.8
 ---
 
 The Roman theatre of Montaudou is an excavated site on the hillside south of the Clermont city centre, revealing the remains of a significant Gallo-Roman theatre that was part of the ancient city of Augustonemetum — the predecessor of modern Clermont. The site dates to the 1st and 2nd centuries AD and would have held several thousand spectators during its active period.

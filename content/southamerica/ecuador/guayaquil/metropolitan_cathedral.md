@@ -8,6 +8,7 @@ tags:
 title: Metropolitan Cathedral
 type: poi
 story: "The current cathedral is the sixth church to stand on or near this site since the Spanish founded Guayaquil in 1538. The previous five were all destroyed by fire — an occupational hazard for colonial coastal cities built almost entirely of wood. The first stone cathedral was begun in the early 20th century using materials that might actually survive a blaze."
+score: 6.8
 ---
 
 Guayaquil's Metropolitan Cathedral — officially the Cathedral of Saint Peter — faces Parque Semánario (Parque Bolívar) in the heart of the city. The current building was constructed in the early 20th century in a neo-Gothic style, with twin towers visible from much of the surrounding neighbourhood. The interior is relatively spare but has stained glass that casts attractive light in the morning.

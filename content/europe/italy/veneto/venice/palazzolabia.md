@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Palazzo Labia
 type: poi
+score: 7.6
 ---
 
 A grand 18th-century palace in Cannaregio notable for its extraordinary frescoes by Giambattista Tiepolo depicting the story of Antony and Cleopatra. The palazzo is owned by RAI, Italy's public broadcaster, and open for limited hours.

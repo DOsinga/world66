@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -2.4379
 longitude: -54.7039
+score: 7.3
 ---
 
 The Museu João Fona, housed in a nineteenth-century building on the Praça Barão do Rio Branco, is the main cultural museum of Santarém. It covers the archaeology of the Tapajós region — including the striking Santarém ceramic tradition produced by the Tapajó people, whose geometric and figurative pottery ranked among the finest in pre-Columbian Amazonia — alongside natural history exhibits and material from the Amazonian rubber boom era.

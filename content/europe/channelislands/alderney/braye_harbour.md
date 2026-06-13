@@ -9,6 +9,7 @@ longitude: -2.2022
 story: "The massive Alderney Breakwater, extending nearly a mile into the sea from Braye Harbour, was built between 1847 and 1864 at enormous cost to give the Royal Navy a harbour of refuge between Plymouth and Portsmouth. It cost more per metre to build than the Great Wall of China. The Navy abandoned it within years of completion."
 sources:
   - https://en.wikipedia.org/wiki/Braye_Harbour
+score: 7.8
 ---
 
 Braye Harbour is the island's main port and the first thing most visitors see: the ferry and Manche Iles Express boat services arrive here, and the lifeboat station and working harbour are on the north side of the bay. The harbour area is lively during the sailing season, with yachts from England and France stopping over on Channel crossings.

@@ -10,6 +10,7 @@ tags:
 title: Art Gallery of Ontario
 type: poi
 url: https://ago.ca
+score: 9.2
 ---
 
 The Art Gallery of Ontario — the AGO — has a permanent collection of roughly 100,000 works, with particular strengths in Canadian art (including the Group of Seven), Indigenous art, and European paintings from Rubens through Picasso. The collection of works by Henry Moore is one of the largest in the world; Moore donated the pieces himself after visiting the city.

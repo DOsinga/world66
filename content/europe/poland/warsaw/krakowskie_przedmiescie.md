@@ -9,6 +9,7 @@ longitude: 21.0147
 snippet: "Warsaw's most elegant boulevard, running south from the Old Town past palaces and churches"
 sources:
   - https://en.wikipedia.org/wiki/Krakowskie_Przedmieście
+score: 8.6
 ---
 
 Krakowskie Przedmieście is Warsaw's grandest street and the beginning of the Royal Route, which runs south from the Old Town through Nowy Świat to Łazienki Park. The boulevard is lined with Baroque and Neoclassical palaces, embassies, university buildings, and churches. The Church of the Holy Cross midway along the street contains the urn with Chopin's heart. The Presidential Palace, where the official residence of Poland's president is located, faces the street behind a large forecourt.

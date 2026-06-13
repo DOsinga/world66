@@ -14,6 +14,7 @@ story: "Francis I of France was born in this château in 1494. He would grow up 
   the cellars ideal for cognac ageing."
 snippet: Medieval château birthplace of Francis I, now home to Otard cognac cellars
 type: poi
+score: 9.0
 ---
 
 The Château de Cognac is the most historically significant building in the city: a medieval royal castle built into the rock above the Charente, where the French king Francis I was born in 1494. The building passed to the cognac merchant Jean-Baptiste Otard after the Revolution, and has been a cognac maison ever since — the ageing cellars cut into the medieval foundations are some of the most atmospheric in the region.

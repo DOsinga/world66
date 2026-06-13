@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.1071
 longitude: 120.9609
+score: 5.7
 ---
 
 Sky Ranch is a theme park and amusement complex on the Tagaytay Ridge, dominated by the Sky Eye — a giant Ferris wheel that at 63 metres high is one of the tallest in the Philippines. The ride lifts you above the ridge with clear views over Taal Lake and, on good days, toward Manila Bay. It is at its most dramatic at dusk.

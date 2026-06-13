@@ -19,6 +19,7 @@ story: >
   anything else in Columbus: low horizontal profiles, deep roof overhangs,
   natural materials, and houses that open toward the landscape rather than the
   street.
+score: 7.6
 ---
 
 On the western side of Worthington, backing onto the Olentangy River floodplain, Rush Creek Village is a mid-century residential development built on Usonian principles — the approach to modest organic housing developed by Frank Lloyd Wright. The neighbourhood was constructed between 1956 and 1960 by Columbus architects who had studied Wright's ideas and applied them to a speculative development of around 100 homes.

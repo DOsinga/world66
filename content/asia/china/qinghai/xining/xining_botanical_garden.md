@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6600
 longitude: 101.7500
+score: 5.4
 ---
 
 The Xining Botanical Garden in the northern part of the city preserves and displays the plant life of the Tibetan Plateau — a surprisingly rich flora for an environment many visitors assume to be barren. The garden contains specimens of Himalayan and plateau medicinal plants, specimens of the many wild grass species that support the plateau's grazing animals, and a section dedicated to the ornamental plants found in traditional Tibetan courtyard gardens.

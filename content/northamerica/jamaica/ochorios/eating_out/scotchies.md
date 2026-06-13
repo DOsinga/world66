@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 18.4069
 longitude: -77.0948
+score: 6.8
 ---
 
 Scotchies is an open-air jerk restaurant that has become something of a benchmark for proper Jamaican jerk. Pork, chicken, and sausage are slow-cooked over pimento wood on long pits, which gives the meat a smokiness that gas-fired imitations rarely match. The pork is the standout: crackling skin, moist flesh, and a seasoning that's genuinely hot without being incendiary. Bammy (cassava flatbread) and festival come with most orders.

@@ -9,6 +9,7 @@ tags:
 - nature
 - desert
 story: "The Grand Erg Oriental covers roughly 600 kilometres east to west and stretches well into Tunisia. The dunes near El Oued can reach 150 metres — among the highest in the Sahara — and shift visibly over the course of a single windy afternoon."
+score: 8.2
 ---
 
 The Grand Erg Oriental is the great eastern sand sea of the Algerian Sahara — a 600-kilometre stretch of dunes that extends across the border into southern Tunisia. El Oued sits on its northwestern edge, which makes the town the most practical base for trips into the sand from anywhere in Algeria.

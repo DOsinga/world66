@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.3420
 longitude: 14.1700
+score: 7.2
 ---
 
 Radovljica sits on a flat-topped bluff above the Sava river, and the old town walls run along its western and southern edges. A short walk along the top of the bluff gives views straight down to the river and across the valley to the Karavanke mountains to the north and the Kamnik–Savinja Alps to the southeast.

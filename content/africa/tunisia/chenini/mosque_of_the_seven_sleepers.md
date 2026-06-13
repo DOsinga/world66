@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Seven_Sleepers
 story: >
   The Qur'an tells of young men who hid in a cave to escape persecution and slept there for centuries, guarded by a faithful dog named Qitmir. Sites across the Islamic world claim to be the real location of this miracle — from Turkey to Spain to Algeria. Chenini is among the claimants. The mosque here is said to mark the cave where the Seven Sleepers rested, and a small tomb inside is venerated as theirs.
+score: 7.8
 ---
 
 The white mosque at the top of Chenini's ridge is the village's most recognisable landmark, visible from the plain far below long before you reach the base of the hill. It is a simple whitewashed structure, as mosques in southern Tunisia tend to be, but its position — alone on the crest against the sky — gives it an otherworldly quality.

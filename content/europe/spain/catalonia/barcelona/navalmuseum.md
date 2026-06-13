@@ -11,6 +11,7 @@ tags:
 - sight
 title: Maritime Museum
 type: poi
+score: 8.7
 ---
 
 The Museu Maritim occupies the Drassanes Reials, the medieval royal shipyards where the Catalan-Aragonese fleet was built from the 13th century onward. The Gothic halls themselves -- vast stone naves that once held ships under construction -- are as impressive as anything inside them.

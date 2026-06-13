@@ -13,6 +13,7 @@ story: >
   and decorated with the face of Singa — a mythological creature combining the features of a water
   buffalo, a horse, and a lizard — believed to guard against evil. The oldest tomb dates from around
   the 16th century and is still the site of occasional ceremony.
+score: 7.7
 ---
 
 Tomok is a village on the eastern shore of Samosir, a short walk from the main ferry pier, and contains one of the most visited Batak cultural sites on the island: the royal cemetery of the Sidabutar clan. The carved stone sarcophagi here are some of the oldest surviving examples of Batak funerary architecture, set in a shaded compound among old trees, with smaller carved stone figures standing as guardians between the graves.

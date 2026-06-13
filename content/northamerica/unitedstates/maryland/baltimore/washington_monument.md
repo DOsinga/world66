@@ -15,6 +15,7 @@ story: >
   had nothing to do with this one — it was designed by Maximilian Godefroy. The base
   of the column houses a small museum about Washington's life. Washingtonians tend to
   be unamused when told their version is the second one.
+score: 8.1
 ---
 
 The Washington Monument at the heart of Mount Vernon Square is a 178-foot Doric column completed in 1829, the first public monument to George Washington in the country. It stands at the top of Charles Street, giving the thoroughfare a formal conclusion, and the neighbourhood that grew up around it — Mount Vernon — became Baltimore's most architecturally distinguished district in the 19th century.

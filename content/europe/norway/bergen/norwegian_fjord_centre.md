@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, nature]
 latitude: 60.3848
 longitude: 5.3241
+score: 7.0
 ---
 
 The University of Bergen's Natural History Museum, in the museum quarter near Nygårdsparken, holds extensive geological and zoological collections focused on western Norway's extraordinary natural environment. The whale skeleton in the main hall is a perennial favourite; the geology collection explains how the fjords were carved and why Bergen's mountains have the shapes they do.

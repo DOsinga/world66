@@ -6,6 +6,7 @@ longitude: -114.7144
 tags:
   - eating_out
   - restaurant
+score: 7.9
 ---
 
 About 24 miles north of Ketchum on Highway 75, Galena Lodge is the trailhead for an extensive cross-country ski network in winter and a mountain-biking and hiking base in summer. The lodge itself is a small log restaurant with a deck overlooking the Sawtooth foothills, run as a non-profit by the Blaine County Recreation District.

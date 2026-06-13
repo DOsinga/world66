@@ -10,6 +10,7 @@ tags:
 neighbourhood: Belle Isle
 title: Dossin Great Lakes Museum
 type: poi
+score: 7.3
 ---
 
 The Dossin Great Lakes Museum sits on Belle Isle, on the Detroit River with the Canadian shore as backdrop. The collection is devoted to Great Lakes maritime history: ship models, navigation equipment, an enormous restored steam engine, and the bow anchor recovered from the Edmund Fitzgerald, the freighter that sank in Lake Superior in 1975 and was immortalised by Gordon Lightfoot. The pilothouse of the William Clay Ford was relocated here intact and is open to walk through.

@@ -15,6 +15,7 @@ story: >
   Soviet forces broke through the Masurian line in January 1945; the garrison
   surrendered on 26 January. The retreating Germans had stripped the fortress
   but not destroyed it, leaving the walls and gates largely intact.
+score: 7.9
 ---
 
 Boyen Fortress is one of the best-preserved 19th-century Prussian fortifications in Poland: a hexagonal star-shaped fort built in the 1840s on the isthmus between Lake Niegocin and Lake Kisajno, controlling the strategic passage between the lakes. The thick earthen ramparts, the baroque-style gates, and the internal buildings have been restored and are accessible to visitors year-round.

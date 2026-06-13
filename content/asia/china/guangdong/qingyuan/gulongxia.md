@@ -13,6 +13,7 @@ story: >
   the mountain, screaming through tunnels at considerable speed with no paddle
   required. It is entirely a theme park ride, but it draws hundreds of thousands
   of visitors every year from the Pearl River Delta.
+score: 6.3
 ---
 
 Gulongxia, about forty kilometres north of the city, is a river gorge where the attraction is less the scenery than the infrastructure built over it. The centrepiece is the canyon chute system — concrete channels that follow the contours of the gorge, sending visitors in rubber dinghies down steep drops, through dark tunnels, and around tight bends with the water pressure alone doing the steering. Families from Guangzhou come specifically for this, particularly in summer when the temperature makes cold water appealing.

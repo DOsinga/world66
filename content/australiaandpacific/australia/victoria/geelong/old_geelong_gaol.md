@@ -11,6 +11,7 @@ tags:
 - museum
 - sight
 story: "The gaol's most-told story is the 1894 escape of Andrew Vair, who hid in the kitchen flue and dropped out a sewer in broad daylight; he was recaptured within a fortnight, eating fish and chips in a Melbourne pub."
+score: 8.0
 ---
 
 The Old Geelong Gaol, built from local bluestone in 1849, was the second penal institution in Victoria and one of the few examples of the radial-spoke "Pentonville" prison design left in Australia. It was in continuous use until 1991 — every cell originally had an iron-cot and a slop bucket and not much else.

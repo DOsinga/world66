@@ -7,6 +7,7 @@ tags:
   - seafood
 title: Shelley's Restaurant
 type: poi
+score: 5.5
 ---
 
 A small restaurant in Lynmouth named after the poet Percy Bysshe Shelley, who spent his honeymoon in the village in 1812. The cooking focuses on local seafood — crab, lobster, and whatever the day boats have landed — alongside Exmoor beef and lamb. The room is compact and unpretentious; the cooking is better than the surroundings might suggest.

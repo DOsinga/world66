@@ -16,6 +16,7 @@ story: >
   fish and breathe river air. The pattern has not changed much: Lisbon office workers
   still pile off the 1pm ferry and head straight to the same riverside restaurants
   their grandparents knew.
+score: 8.1
 ---
 
 Cacilhas is the natural arrival point for visitors crossing from Lisbon, and the waterfront immediately rewards the twelve-minute ferry ride. The Tagus here is wide enough to feel like an inland sea, and the view back to Lisbon — the old city climbing its hills, the dome of the Basilica da Estrela visible in the middle distance, the Ponte 25 de Abril to the west — is one of the best of the capital you will find anywhere.

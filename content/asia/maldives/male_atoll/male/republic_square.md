@@ -8,6 +8,7 @@ tags:
 latitude: 4.1788
 longitude: 73.5111
 snippet: "The capital's main civic square, between the Islamic Centre and the harbour"
+score: 5.9
 ---
 
 Republic Square — Jumhooree Maidan — is the main civic open space of Malé, a rectangle of paving and grass between the President's Office, the Islamic Centre and the northern waterfront. The giant Maldivian flag in the centre is the city's most photographed object, and the square fills up for national-day celebrations and the occasional political rally.

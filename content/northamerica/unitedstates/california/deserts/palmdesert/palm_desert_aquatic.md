@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7222
 longitude: -116.3733
+score: 5.6
 ---
 
 A surprisingly large municipal aquatic complex behind Civic Center Park, with three pools — a 50-metre competition pool, an activity pool with slides and lazy river, and a children's wading area. It is open year-round and heated, so it works as a winter break too.

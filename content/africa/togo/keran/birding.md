@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 10.0833
 longitude: 1.0833
+score: 8.0
 ---
 
 Kéran is one of the best birding sites in Togo. The mix of savanna, gallery forest along the river, and seasonal wetlands packs together a wide range of species — ground hornbills, several rollers and bee-eaters, brilliant parrots and turacos, and a rich variety of raptors. The dry season from December to April is the prime period: migrants from the Palearctic add a layer of European and North African species to the rich resident community.

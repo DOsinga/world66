@@ -5,6 +5,7 @@ snippet: "Mud-brick fortified palace in Tarim, a striking example of Hadrami mil
 tags: [things_to_do, sight, architecture, fort]
 latitude: 16.0549
 longitude: 48.9963
+score: 7.7
 ---
 
 Al-Ranad Fort, in Tarim, is one of the better-preserved fortified palaces of the Hadramawt. Despite the name, it is not a true military fortress but a heavily defended residence — the wadi was a dangerous place for centuries and even merchant houses were built with crenellations, narrow windows and a single fortified entrance.

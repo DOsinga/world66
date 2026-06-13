@@ -8,6 +8,7 @@ latitude: 42.0060
 longitude: 128.0570
 story: >
   Heaven Lake straddles the China-North Korea border — roughly half the water lies in the DPRK. When Chinese and North Korean diplomats have met to discuss the boundary, they have done so in boats on the lake itself, negotiating over a crater of water that was created by one of the most powerful volcanic eruptions in recorded history. The border runs along the ridge, and the North Korean side has no tourist access at all.
+score: 9.6
 ---
 
 Tianchi — Heaven Lake — is the volcanic crater lake at the summit of Changbaishan, sitting at 2,189 metres and ringed by bare rocky peaks that rise another few hundred metres above the waterline. The lake is large (9.8 square kilometres), deep (384 metres at maximum), and in favourable conditions a startling blue-green against the grey volcanic rock around it. It is among the most visually dramatic natural sites in northeast China, and the combination of altitude, remoteness, and geological improbability makes a strong impression on nearly everyone who reaches it.

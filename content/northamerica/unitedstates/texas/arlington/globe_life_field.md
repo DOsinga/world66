@@ -7,6 +7,7 @@ tags:
 latitude: 32.7475
 longitude: -97.0842
 story: "Globe Life Field opened in 2020 and hosted its first World Series in the same year — the only World Series in history to be played entirely at a neutral site, as all games took place at the stadium due to COVID-19 protocols. The Los Angeles Dodgers beat the Tampa Bay Rays in six games without playing a single game in either team's home city."
+score: 6.9
 ---
 
 Globe Life Field is the home of the Texas Rangers, the American League baseball franchise, and opened in 2020 as the successor to the old Rangers Ballpark. The new stadium has a retractable roof — which matters considerably in Arlington, where summer temperatures regularly exceed 38°C — and can seat around 40,000 fans. The design is explicitly modelled on the classic ballparks of the early 20th century, with brick exterior and a traditional grass field.

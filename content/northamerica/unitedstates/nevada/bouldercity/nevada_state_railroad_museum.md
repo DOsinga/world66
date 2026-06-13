@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 35.9703
 longitude: -114.8567
+score: 6.8
 ---
 
 The Nevada State Railroad Museum's Boulder City branch is small but appealing — a collection of restored diesel locomotives and passenger cars used on the line that originally hauled materials to Hoover Dam. Most of the rolling stock is parked outside; a couple of cars are open to walk through.

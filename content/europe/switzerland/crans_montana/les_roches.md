@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 46.3089
 longitude: 7.4972
 story: "Les Roches was founded in 1954 in Bluche, just east of Montana, by a Swiss educator who believed hotel management should be taught in a working hotel environment rather than a classroom. For its first decades, students lived in the school's own hotel, took classes in the morning, and worked in the kitchens, front desk, and dining room in the afternoon. The model still shapes the curriculum today."
+score: 4.5
 ---
 
 Les Roches International School of Hotel Management sits at Bluche, on the eastern edge of the Crans-Montana plateau at around 1,300 metres, and has been one of the world's most prestigious hospitality schools since its founding in 1954. The school occupies a cluster of buildings that look part alpine hotel, part campus, with views down toward Sierre and the Rhône Valley below.

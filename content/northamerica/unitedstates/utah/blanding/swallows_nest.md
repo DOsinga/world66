@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.6250
 longitude: -109.4717
+score: 5.2
 ---
 
 The Swallow's Nest is a small sandstone building in central Blanding — the former study of Albert R. Lyman, a Mormon pioneer writer who built it in the early 20th century as a retreat for writing and reading. It is listed on the National Register of Historic Places, which makes it one of the few historic structures in a town that otherwise shows little of its past. The building is compact and vernacular in the best sense: made from local stone, fitted to the landscape, and built for use rather than display.

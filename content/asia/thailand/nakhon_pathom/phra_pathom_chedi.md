@@ -7,6 +7,7 @@ tags:
 latitude: 13.8198
 longitude: 100.0614
 story: Phra Pathom Chedi stands 127 metres tall, making it the tallest Buddhist stupa in the world. The original chedi on this site was built in the 6th century to mark the place where Buddhist missionaries from India first arrived in mainland Southeast Asia — the name Nakhon Pathom means "first city" in Pali, reflecting this foundational status. The current structure is a later restoration built around the ruined original during the reign of King Mongkut (Rama IV) in the 1850s.
+score: 9.4
 ---
 
 Phra Pathom Chedi is the dominant landmark of Nakhon Pathom province and one of the most important religious sites in Thailand. The stupa's orange-glazed dome rises 127 metres from its base — taller than St Paul's Cathedral in London — and can be seen from well outside the town. The surrounding temple complex (Wat Phra Pathom Chedi) is spacious and well-maintained, with four viharns at the cardinal points, a museum inside the base of the chedi, and numerous smaller shrines and spirit houses in the grounds.

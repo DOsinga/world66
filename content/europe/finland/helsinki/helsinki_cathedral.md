@@ -9,6 +9,7 @@ story: When Carl Ludwig Engel died in 1840, the cathedral was only half-built. H
   successor Ernst Lohrmann added the four corner domes and the apostle statues on
   the roof — features Engel had not designed — making the silhouette far more
   Russian-Orthodox in feel than the architect had intended.
+score: 7.8
 ---
 
 The white neoclassical cathedral on top of the broad flight of granite steps above Senate Square. Begun in 1830 to Carl Ludwig Engel's design and finished, with substantial modifications, in 1852. The interior is far plainer than the exterior promises — Lutheran restraint, white walls, organ — but the views from the steps over Senate Square, the harbour, and across to Suomenlinna are the obligatory Helsinki photograph.

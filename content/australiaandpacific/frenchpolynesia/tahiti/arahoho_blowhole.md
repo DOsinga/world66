@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 snippet: Pacific waves forced through a rock formation create a dramatic natural water jet on Tahiti's north coast
+score: 6.8
 ---
 
 The Arahoho Blowhole sits on the north coast of Tahiti, about 15 km east of Papeete along the coastal Route 5, and is one of the island's easiest-to-reach natural spectacles. Ocean swell forces water through a gap in the lava rock at the shore, compressing it into a jet that can shoot 10–15 metres into the air when the swell is significant. It is the kind of phenomenon where timing matters — come on a day with a westerly swell and the performance is dramatic; on a flat day it is underwhelming.

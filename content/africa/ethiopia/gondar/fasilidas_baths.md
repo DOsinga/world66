@@ -8,6 +8,7 @@ latitude: 12.6020
 longitude: 37.4640
 sources:
   - https://en.wikipedia.org/wiki/Fasiladas%27_Bath
+score: 8.2
 ---
 
 On the western edge of the city, about 2km from the Royal Enclosure, stands the Fasilidas Baths — a large rectangular pool surrounded by stone walls, with a two-storey pavilion at one end. The structure was built by Emperor Fasilidas as a retreat and was likely used for ceremonial bathing and as a pleasure garden.

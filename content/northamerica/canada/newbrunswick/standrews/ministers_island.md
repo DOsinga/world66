@@ -18,6 +18,7 @@ story: >
   driving across the bottom of the Bay of Fundy at low tide.
 sources:
   - https://en.wikipedia.org/wiki/Ministers_Island
+score: 8.3
 ---
 
 A few kilometres east of town, Ministers Island is accessible only at low tide, when the Bay of Fundy's giant tidal range exposes a gravel bar wide enough to drive a car across. Cross at the wrong time and you wait six hours for the next low water — or pay for a boat back. Tides are posted at the gate of the access road.

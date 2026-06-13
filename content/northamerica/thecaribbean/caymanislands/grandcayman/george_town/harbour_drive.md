@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 19.293
 longitude: -81.3828
+score: 5.1
 ---
 
 The waterfront road and the heart of cruise-ship George Town — a string of duty-free jewellery shops, T-shirt vendors, watch dealers, and a handful of restaurants. Architecturally not much: most of the buildings are 1980s and later. The interest is in the harbour itself, where tenders ferry cruise passengers from ships moored just offshore in the deeper water.

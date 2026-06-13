@@ -6,6 +6,7 @@ tags:
 - sight
 title: Monument for Mongol States
 type: poi
+score: 5.5
 ---
 On the edge of town stands a modern monument commemorating the Mongol states that have existed across history — a central stone stele surrounded by individual markers representing the various khanates, empires, and successor polities that trace their origin to the Mongol imperial tradition. It is a quietly ambitious monument, one that positions Karakorum not merely as a historical ruin but as a living symbol of Mongol identity across the centuries.
 

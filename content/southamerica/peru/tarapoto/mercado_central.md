@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
 snippet: Tarapoto's jungle produce market, full of unfamiliar fruit
+score: 7.1
 ---
 
 The Mercado Central runs in a block of low concrete halls a few streets east of the Plaza de Armas, busiest from dawn until about ten in the morning. The food side is where the visit happens: stalls heaped with **aguaje** (a scaly orange palm fruit eaten in pulp form), **camu camu** (a tiny red berry with extraordinary vitamin C content), **cocona**, **carambola**, **macambo**, and the soft white **chonta** palm hearts used in regional salads.

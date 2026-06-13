@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.2333
 longitude: -48.8389
+score: 5.7
 ---
 
 Expoville is the city's exhibition centre on the road north towards Curitiba. It is best known as the venue for the Festa das Flores (Flower Festival) in November and for the Joinville version of the Oktoberfest each October — a smaller, more family-oriented affair than the better-known Blumenau event but a good window onto the local German-Brazilian community.

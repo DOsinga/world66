@@ -13,6 +13,7 @@ tags:
 - history
 title: Simon's Town
 type: poi
+score: 8.3
 ---
 
 Simon's Town is the historic Royal Navy base on the False Bay side of the peninsula, with a Victorian main street still lined with naval-themed shops, pubs and small museums. It has been the South African Navy's main base since the British handed over the dockyard in 1957, and the harbour is dominated by grey warships and frigates.

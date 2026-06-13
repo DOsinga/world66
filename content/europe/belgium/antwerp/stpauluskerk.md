@@ -12,6 +12,7 @@ tags:
 - church
 title: Sint-Pauluskerk
 type: poi
+score: 8.1
 ---
 
 A late-Gothic Dominican church begun in 1517 and finished in the early seventeenth century, with one of the most theatrically Baroque interiors in the Low Countries. The church holds three major paintings by Rubens — *The Scourging of Christ*, *The Adoration of the Shepherds*, and *The Dispute over the Holy Sacrament* — alongside works by van Dyck and Jordaens. The carved wooden confessionals are particularly fine.

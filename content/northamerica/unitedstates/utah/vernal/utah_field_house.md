@@ -8,6 +8,7 @@ latitude: 40.45527777777778
 longitude: -109.51916666666666
 story: >
   The museum's outdoor dinosaur garden features life-size replicas that have been on the grounds since the 1940s. The originals were constructed based on the best scientific knowledge of the time — which means some of them are now outdated in posture and proportion, giving the garden an inadvertently nostalgic quality alongside the more accurate modern exhibits inside.
+score: 7.6
 ---
 
 The Utah Field House of Natural History is the main museum in Vernal and serves as the town's introduction to the Uintah Basin's extraordinary fossil record. The collection includes dinosaur bones excavated from local sites, geological specimens, and natural history exhibits covering the region's ecology and Indigenous cultures.

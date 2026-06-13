@@ -8,6 +8,7 @@ latitude: 34.6440
 longitude: -97.1650
 story: >
   The Wynnewood Refinery traces its roots to 1913, making it one of the oldest continuously operating oil refineries in the United States. Its survival while larger, newer facilities have closed is partly due to its position on the Mid-Continent crude oil pipeline system and partly to several periods of modernisation that kept it economically viable.
+score: 4.3
 ---
 
 The Wynnewood Refinery is a working petroleum refinery that has been operating since the early oil boom era of the 1910s, making it one of the oldest continuously operating refineries in the United States. It processes light sweet crude oil from the surrounding Mid-Continent fields into gasoline, diesel, and other petroleum products.

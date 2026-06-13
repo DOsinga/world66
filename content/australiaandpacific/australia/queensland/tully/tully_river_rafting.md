@@ -11,6 +11,7 @@ story: >
   means the rapids run year-round at grade three to four, unlike many Australian rivers that go flat in the
   dry season. The river drops about 150 metres over the rafting section, generating enough water volume and
   gradient to produce challenging rapids even in the lightest rainfall months.
+score: 8.6
 ---
 
 The Tully River offers the best white-water rafting in Queensland, with grade three and four rapids running through a gorge carved into the rainforest hills above the town. The standard day trip covers about 44 km of river and takes a full day including transport from Cairns or Mission Beach. The section includes around 40 named rapids — the most famous being Theatre, Alarm Clock, and Double D — with calmer stretches in between for swimming and recovering.

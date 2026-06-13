@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 68.4042
 longitude: 27.4108
+score: 8.4
 ---
 
 Kiilopää, a 546-metre fell about 10 km southwest of Saariselkä, is the most popular gateway into the wider Urho Kekkonen wilderness. A trail to the rocky summit takes about an hour return and is one of the few hikes here that crosses obvious bare rock rather than the usual peat and birch.

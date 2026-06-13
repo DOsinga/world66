@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 32.0664
 longitude: 34.7634
+score: 7.0
 ---
 
 The Hassan Bek Mosque sits between Charles Clore Park and the southern end of central Tel Aviv. It is one of two functioning mosques remaining from the Arab Jaffa villages that once stretched along this coastline, built in 1916 by the Ottoman military governor of Jaffa, Hassan Bek.

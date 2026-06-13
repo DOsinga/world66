@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Ollantaytambo
   - https://en.wikipedia.org/wiki/Battle_of_Ollantaytambo
+score: 9.2
 ---
 
 The fortress of Ollantaytambo is a towering complex of agricultural terraces, ceremonial plazas, and temple ruins that rises in dramatic steps from the main plaza up to a ridge with views across the entire Sacred Valley. The scale is immediately impressive — the terraces alone stand ten to fifteen metres high at their faces, built of precisely fitted stones without mortar in the Inca manner. At the summit, the unfinished Temple of the Sun displays six massive monoliths of pink rhyolite, each weighing more than 50 tonnes, that were being assembled into a wall when the Spanish conquest halted construction permanently.

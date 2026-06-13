@@ -7,6 +7,7 @@ tags:
   - west_end
 latitude: 55.8693
 longitude: -4.2870
+score: 7.7
 ---
 
 Kelvingrove Park is the West End's central green space, following the wooded gorge of the River Kelvin between the Kelvingrove Museum and the Botanic Gardens. The park was laid out in 1852 by Joseph Paxton — designer of Crystal Palace — and hosted the 1888 and 1901 International Exhibitions; the Kelvingrove Museum was built for the latter.

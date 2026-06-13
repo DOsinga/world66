@@ -14,6 +14,7 @@ story: >
   came from is unknown — there are no mainland Korean equivalents. The enlarged
   eyes and button nose are standardised, but each statue has a slightly different
   expression, and no two are identical.
+score: 6.4
 ---
 
 The dol hareubang — "stone grandfather" in the Jeju dialect — are the island's defining symbol: squat basalt figures with bulging eyes, large noses, and hands folded over a rounded belly. They were originally placed at town gates as protective symbols and markers of authority; today reproductions appear everywhere from hotel lobbies to airport souvenir shops, but the originals are scattered around the island.

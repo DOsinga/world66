@@ -8,6 +8,7 @@ tags:
 neighbourhood: Gemmayzeh
 latitude: 33.8957
 longitude: 35.5163
+score: 7.9
 ---
 
 Le Chef is a tiny, formica-tabled diner on Gouraud Street that has been serving Lebanese home cooking to Gemmayzeh's workers and writers for half a century. The menu is hand-written on the wall and changes daily — kibbeh in yoghurt, mlukhia, stuffed cabbage, lentil rice with caramelised onions.

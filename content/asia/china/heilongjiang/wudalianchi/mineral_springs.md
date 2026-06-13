@@ -11,6 +11,7 @@ story: >
   The mineral water at Wudalianchi is naturally carbonated by volcanic CO₂ and contains high concentrations 
   of iron, calcium, and magnesium. The iron content is so high that it stains the rocks and soil 
   rusty-red for metres around each spring source — visible geology you can taste.
+score: 7.4
 ---
 
 The mineral springs that emerge throughout the Wudalianchi area are the second major attraction after the volcanic landscape, and the entire health tourism industry of the town is built around them. The water is naturally carbonated, heavily mineralised, slightly metallic on the tongue, and intensely fizzy — more like a pharmaceutical mineral water than the mild springs found elsewhere. Locals drink it directly from designated spring outlets, filling bottles to take home, and the commercial bathing facilities nearby offer immersion in the same water at various temperatures.

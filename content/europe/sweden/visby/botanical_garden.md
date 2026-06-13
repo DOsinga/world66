@@ -7,6 +7,7 @@ snippet: "Lush English-style garden with exotic plants thriving in Gotland's mil
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Gotland's improbably mild climate — sometimes called "the rose island" because the roses flower as late as December — supports plants that should not grow this far north. The botanical garden, laid out in 1855 just inside the northern stretch of the city wall, takes full advantage. Fig trees, mulberries, monkey-puzzle trees, magnolias and a serious collection of roses all thrive here.

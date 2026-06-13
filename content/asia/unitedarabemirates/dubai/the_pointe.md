@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: The Pointe
 type: poi
+score: 4.7
 ---
 
 The Pointe is an outdoor waterfront dining and leisure development at the tip of Palm Jumeirah, with a semicircular promenade of restaurants and cafes facing the Burj Al Arab across the water. It opened in 2019 and is the most accessible part of the Palm for visitors who are not staying at the Atlantis or one of the villas.

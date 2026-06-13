@@ -14,6 +14,7 @@ story: >
   around the world. The most famous copy stands in Riyadh, Saudi Arabia.
   Örebro does not usually advertise this fact, but it is a genuine piece of
   global design history.
+score: 7.1
 ---
 
 Svampen — Swedish for "the mushroom" — is Örebro's most distinctive landmark after the castle. Built in 1958, it was the world's first mushroom-shaped water tower, and the design proved so functional and attractive that it has been copied hundreds of times worldwide, most famously in Riyadh.

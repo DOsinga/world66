@@ -10,6 +10,7 @@ story: >
   The Ariston has hosted the Sanremo Music Festival every year since 1977, but the festival itself predates the venue by more than two decades: in its early years it was held at the casino. The theatre's broad proscenium was chosen partly because it was the only hall in town large enough to accommodate the television cameras and the increasingly elaborate staging.
 sources:
   - https://en.wikipedia.org/wiki/Teatro_Ariston
+score: 6.9
 ---
 
 The Teatro Ariston is Sanremo's main theatre and cinema, and has been the permanent home of the Sanremo Music Festival since 1977. For five nights each February it becomes the most-watched stage in Italy, broadcast live on RAI 1 to audiences of ten million or more. The rest of the year it functions as a regular cinema and concert venue.

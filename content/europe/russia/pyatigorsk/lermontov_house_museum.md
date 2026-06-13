@@ -12,6 +12,7 @@ story: >
   Mikhail Lermontov came to Pyatigorsk in May 1841, ostensibly to take the waters. He was 26, already the most celebrated young poet in Russia after Pushkin's death, and already in exile for his poem about Pushkin's death. He spent his last months in Pyatigorsk writing, gambling, and quarrelling. On 15 July 1841, he was shot in a duel by a former classmate. It is still debated whether the duel was provoked, arranged, or — as some suspected at the time — encouraged by the tsarist secret police.
 sources:
   - https://en.wikipedia.org/wiki/Lermontov_Museum,_Pyatigorsk
+score: 8.1
 ---
 
 The small clay-walled cottage on Ulitsa Lermontova is where Mikhail Lermontov rented rooms in the final weeks of his life. The house has been preserved as a museum since 1912, making it one of the oldest literary museums in Russia. The furnishings are period pieces rather than original Lermontov property, but the house conveys the modest domestic scale of provincial Caucasian life in the 1840s.

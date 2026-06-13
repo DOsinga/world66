@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 40.0478
 longitude: -86.4717
+score: 6.1
 ---
 
 The Strange Nathanial Cragun House is one of Lebanon's notable historic residences, listed on the National Register of Historic Places. The house dates from the nineteenth century and represents the domestic architecture of prosperous Indiana families in the post-Civil War period. It sits close to the courthouse square in the older residential section of town.

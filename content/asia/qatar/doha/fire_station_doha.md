@@ -8,6 +8,7 @@ latitude: 25.3025
 longitude: 51.5078
 sources:
   - https://en.wikipedia.org/wiki/Fire_Station,_Doha
+score: 7.5
 ---
 
 Doha's former Central Fire Station has been converted into a contemporary arts complex housing studios, galleries, and a residency programme for Qatari and international artists. The building dates from 1982 and retains the garage bays and operational feel of a working station, which gives the galleries an industrial texture absent from Doha's grander cultural institutions.

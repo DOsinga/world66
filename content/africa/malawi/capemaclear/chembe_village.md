@@ -7,6 +7,7 @@ tags:
 latitude: -14.0190
 longitude: 34.8390
 snippet: "Working fishing village at the northern end of the beach"
+score: 7.7
 ---
 
 Chembe is the fishing village that gives Cape Maclear its other name. It runs along the northern half of the beach and is one of the oldest continuously inhabited settlements on Lake Malawi — its population, around 12,000, was here long before any of the lodges arrived. The contrast between the backpacker strip and the working village is sharp and only a few minutes' walk apart.

@@ -15,6 +15,7 @@ story: >
   classical style), most projects were halted mid-construction. Some of the finest examples
   in Ekaterinburg were left unfinished for decades, their original revolutionary aesthetics
   preserved by neglect rather than care.
+score: 9.0
 ---
 
 Ekaterinburg has one of the world's finest collections of constructivist architecture outside Moscow — a legacy of its role as the USSR's industrial showcase city in the 1920s and 1930s. The style, which emerged from the Russian Avant-Garde movement and sought to use pure form and industrial materials to create a new socialist aesthetic, produced some of the most radical buildings of the 20th century. Several excellent examples are concentrated within walking distance of each other in the central city.

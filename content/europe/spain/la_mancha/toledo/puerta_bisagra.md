@@ -9,6 +9,7 @@ latitude: 39.8622
 longitude: -4.0262
 story: >
   When Charles V entered Toledo in 1539, the city built him the New Bisagra Gate as a monument to imperial power. The design by Alonso de Covarrubias features the double-headed eagle of the Habsburg dynasty — Spain's imperial emblem — carved above the central arch in stone large enough to be seen from the road approaching the city. It remains the main ceremonial entrance to the old town.
+score: 7.0
 ---
 
 The Puerta de Bisagra Nueva (New Bisagra Gate) is the grandest of Toledo's surviving city gates, built by Alonso de Covarrubias in 1559 to replace the older Moorish gate nearby. It marks the main entrance into the historic center from the north and sets the tone for what lies beyond: the double-headed Habsburg eagle over the arch, the towers flanking the passage, and the view through to the narrow streets of the old city.

@@ -7,6 +7,7 @@ tags:
 - market
 title: Rasht Bazaar
 type: poi
+score: 8.3
 ---
 
 Rasht Bazaar is the city's stomach and voice. The covered and open lanes sell Caspian fish, rice, garlic, olives, herbs, pickles, tea, fruit, and household goods, with vendors calling over one another in a rhythm that feels much closer to the Caucasus than to the desert bazaars of central Iran.

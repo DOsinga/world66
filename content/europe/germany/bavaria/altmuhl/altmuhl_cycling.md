@@ -7,6 +7,7 @@ tags:
 latitude: 48.9351
 longitude: 10.9762
 snippet: "160-kilometre cycling route along the valley, one of Germany's most popular"
+score: 8.7
 ---
 
 The Altmühltal Radweg runs for about 160 kilometres along the Altmühl river from Gunzenhausen in the west to Kelheim in the east, where the river meets the Danube. It is consistently rated among Germany's best cycling routes — waymarked throughout, mostly flat (following the river), on good surfaces, and passing a succession of medieval towns, limestone cliffs, Roman ruins, and quiet villages.

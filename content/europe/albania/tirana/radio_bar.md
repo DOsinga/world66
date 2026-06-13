@@ -8,6 +8,7 @@ tags:
   - bar
   - blloku
 neighbourhood: Blloku
+score: 5.7
 ---
 
 A small craft-cocktail bar a couple of doors from Komiteti, with a stripped-back industrial look and a soundtrack that runs the length of the room. The cocktails are taken seriously: original drinks built around Albanian raki, mulberry, and herbs, alongside the classic list.

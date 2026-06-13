@@ -7,6 +7,7 @@ snippet: Bologna's nineteenth-century cemetery, a quiet open-air sculpture museu
 tags:
 - things_to_do
 - sight
+score: 8.9
 ---
 
 The Certosa was a Carthusian monastery for four centuries until Napoleon suppressed the order in 1797 and the buildings became the city's main cemetery. Walking through the long arcaded courtyards is the easiest free way to see late-Romantic and Liberty-style funerary sculpture in Italy: portraits, allegories, mourning figures, occasional bursts of severe modernism.

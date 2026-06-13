@@ -14,6 +14,7 @@ story: >
   be reached by climbing a near-vertical rock face with no safety equipment —
   the approach itself serves as a kind of pilgrimage. Inside, 5th-century
   frescoes of apostles and saints remain bright enough to read the faces.
+score: 9.3
 ---
 
 The highlands surrounding Mekele contain more than 120 rock-hewn churches carved directly into cliff faces and mountains, most of them between the 4th and 14th centuries. They are among the oldest functioning Christian churches in the world, and many remain active places of worship today, still serving the local Orthodox communities.

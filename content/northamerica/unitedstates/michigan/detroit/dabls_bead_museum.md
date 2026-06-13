@@ -9,6 +9,7 @@ tags:
 - sight
 title: MBAD African Bead Museum
 type: poi
+score: 7.3
 ---
 
 Olayami Dabls has been building this complex on the corner of Grand River and 16th Street since the 1990s. The MBAD African Bead Museum is part collection of ceremonial and trade beads from across Africa, part bead store, and part outdoor sculptural installation — a series of mixed-media artworks across the surrounding buildings and lot, using mirrors, iron, rock, and wood to retell African stories on a Detroit corner.

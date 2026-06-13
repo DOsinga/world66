@@ -9,6 +9,7 @@ tags:
 - restaurant
 - pelourinho
 snippet: Bahian restaurant on the main square
+score: 5.9
 ---
 
 A reliable Bahian restaurant on the Largo do Pelourinho with a balcony overlooking the square. The menu does the classics — moquecas, bobós, grilled fish — at fair prices for the location. Best for lunch when the sun is on the square; the evening crowd is mostly tour groups.

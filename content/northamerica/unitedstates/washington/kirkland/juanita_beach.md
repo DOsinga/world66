@@ -11,6 +11,7 @@ story: >
   freshwater wetlands along Lake Washington's eastern shore. The bay's protected
   status as a wetland preserve means it was never filled or developed — an accident
   of geography that left a functioning marsh ecosystem within city limits.
+score: 6.3
 ---
 
 Juanita Beach Park is Kirkland's largest public beach, located at the north end of the city near the Juanita neighbourhood. The park has a sandy swimming beach popular with families in summer, a large grassy area, picnic facilities, and a boat launch. The adjacent Juanita Bay Wetlands form a separate natural area where herons, ducks, and other waterbirds can be seen from a short trail.

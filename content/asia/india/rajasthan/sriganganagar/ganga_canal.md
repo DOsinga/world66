@@ -14,6 +14,7 @@ story: >
   was near-uninhabitable scrubland. The maharaja named the city after himself;
   within a generation it had become a significant agricultural hub. The canal
   remains one of the oldest large-scale irrigation works in Rajasthan.
+score: 6.8
 ---
 
 The Ganga Canal is the foundational reason Sri Ganganagar exists. Built in the 1920s by Maharaja Ganga Singh of Bikaner, it carries water from the Sutlej River (in what is now Pakistani Punjab) across the desert fringe into Rajasthan, converting arid land into some of the most productive farmland in the state. The city grew up around the canal's administrative headquarters.

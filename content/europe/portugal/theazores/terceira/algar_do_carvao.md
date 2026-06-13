@@ -7,6 +7,7 @@ tags:
 latitude: 38.7087
 longitude: -27.1724
 story: "Algar do Carvão is one of fewer than a dozen lava tube volcanic chimneys in the world accessible on foot. The tube formed during a volcanic eruption about 2,000 years ago when the outer crust of a lava flow solidified while molten lava drained through the core, leaving a hollow tunnel. The interior lake at the bottom is fed by rainwater filtering through the volcanic rock — the water is slightly acidic and has a distinctive teal colour."
+score: 9.0
 ---
 
 Algar do Carvão is Terceira's most dramatic natural sight: a volcanic chimney that plunges 90 metres into the earth, with a descent via lit stairs to a cavern containing stalactites, mineral deposits, and a small underground lake. The cave system was formed by a volcanic eruption roughly 2,000 years ago and is classified as one of the best examples of a volcanic tube in the world.

@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The main Methodist church of Tonga and the seat of the royal family's Sunday worship.
 story: "The Centenary Chapel — Sione 'i Kolomotu'a — seats two thousand and was paid for in 1885 by contributions from every Methodist family in Tonga. The Tongan monarch and queen still attend most Sundays when in residence, arriving by motorcade from the Royal Palace. Visitors are welcome to slip into the back pews."
+score: 7.3
 ---
 
 A large white wooden barn of a church on Vaha'akolo Road, the Centenary Chapel is the headquarters of the Free Wesleyan Church of Tonga, the country's largest denomination. It is enormous from the outside and even larger inside, with a simple wooden ceiling and almost no decoration beyond the painted royal coat of arms above the chancel.

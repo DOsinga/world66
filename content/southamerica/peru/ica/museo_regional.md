@@ -5,6 +5,7 @@ latitude: -14.0833
 longitude: -75.7333
 tags: [things_to_do, museum]
 story: "The museum holds some of the best examples of Paracas trepanned and elongated skulls — a practice in which infants' heads were bound with cloth and boards to produce the distinctive cone shape that marked the elite of the Paracas culture two thousand years ago."
+score: 8.0
 ---
 
 The Museo Regional Adolfo Bermúdez Jenkins covers the cultures that flourished in this stretch of the Peruvian coast — Paracas, Nazca, Wari, and Inca — and does it well, considering the best pieces have long since been moved to Lima. The Paracas textiles are the highlight, intricately woven and still vivid in colour despite being more than two thousand years old.

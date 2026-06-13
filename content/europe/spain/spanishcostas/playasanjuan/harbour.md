@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Working fishing harbour with daily catches and seafood restaurants
+score: 7.4
 ---
 
 The harbour is what gives Playa San Juan its character. Fishing boats still go out in the early morning and bring back the catch around midday — tuna, vieja, sardines, sometimes barracuda. The pier and slipway are open to walk, and at midday you can watch the boats unload directly to the restaurants ranged along the quay.

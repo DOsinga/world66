@@ -6,6 +6,7 @@ longitude: -46.3025
 tags:
   - things_to_do
   - museum
+score: 6.2
 ---
 
 The municipal aquarium, near the Ponta da Praia at the eastern end of the city beaches, was the first public aquarium in Brazil when it opened in 1945. It is small by modern standards but well kept, with tanks of Atlantic and Amazonian fish, freshwater turtles, a small penguin colony and (in season) rescued sea lions.

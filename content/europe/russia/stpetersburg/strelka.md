@@ -8,6 +8,7 @@ tags:
   - vasilievsky_island
 latitude: 59.9442
 longitude: 30.3070
+score: 8.5
 ---
 
 The Strelka — the "spit" — is the eastern tip of Vasilievsky Island where the Neva divides into the Big and Little Neva and the imperial city laid out its most ceremonial water frontage. The two terracotta Rostral Columns, decorated with the prows of captured ships and topped with bowls that were once lit as navigation beacons, frame a semicircular plaza facing the old Stock Exchange — now the Central Naval Museum.

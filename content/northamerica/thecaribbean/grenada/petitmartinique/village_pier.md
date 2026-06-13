@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.5164
 longitude: -61.3844
+score: 6.8
 ---
 
 The village pier is where Petite Martinique announces itself: boats from Carriacou arrive, groceries and fuel move ashore, and news travels faster than cargo. Spend a few minutes here before setting off and you will understand the island better.

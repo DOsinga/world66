@@ -9,6 +9,7 @@ latitude: 56.33969
 longitude: -2.79555
 sources:
   - https://en.wikipedia.org/wiki/Holy_Trinity_Church,_St_Andrews
+score: 7.3
 ---
 
 Holy Trinity Church on South Street is the town's main parish church and has been at the centre of St Andrews's religious life since 1412. The current building is mostly 15th-century, though heavily restored in the 19th century; the tower is original medieval work and visually anchors the mid-section of South Street.

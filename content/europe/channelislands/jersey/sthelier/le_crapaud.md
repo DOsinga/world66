@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.185
 longitude: -2.106
+score: 4.7
 ---
 
 Le Crapaud — "The Toad" — is a bronze statue erected in honour of the peculiar nickname the French have long applied to Jersey people. The islanders are called "crapauds" (toads) in Norman-French tradition, supposedly because of the abundance of toads on the island compared to neighbouring Guernsey, whose residents are nicknamed "donkeys." The Jerseyans have, with good humour, adopted the insult and made it a mascot.

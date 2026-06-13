@@ -8,6 +8,7 @@ tags:
   - waterfront
 latitude: 38.191
 longitude: 15.557
+score: 7.2
 ---
 
 The Messina waterfront is where the city's identity comes into focus. You can stand at the edge and see Calabria — mainland Italy — just 3km across the water, the closest Europe gets to being two countries separated by nothing more than a narrow channel. The ferries crossing back and forth make it vivid: this is one of the busiest short crossings in the Mediterranean, and watching the traffic says more about Messina's transit role than any amount of explanation.

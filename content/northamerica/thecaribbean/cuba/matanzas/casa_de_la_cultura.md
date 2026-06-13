@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.0466
 longitude: -81.5753
+score: 6.6
 ---
 
 Matanzas's main cultural centre, housed in a colonial building near the central square. The Casa de la Cultura hosts regular music performances, dance events, and local celebrations — it is one of the places where the city's living traditions of danzón, rumba, and Afro-Cuban religious music are actively performed rather than just commemorated. Events are typically free or very cheap.

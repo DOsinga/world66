@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 Via Paleocapa is Savona’s handsome nineteenth-century main street, running inland from the harbour through arcades and shopfronts. It is not a single monument, but it is where the city feels most like itself: practical, commercial, and faintly grand.

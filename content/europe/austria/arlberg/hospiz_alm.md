@@ -7,6 +7,7 @@ tags:
   - st_christoph
 latitude: 47.1322
 longitude: 10.2438
+score: 6.6
 ---
 
 The Hospiz Alm is one of the legendary restaurants of the Arlberg — a great wooden chalet at St. Christoph, attached to the historic Arlberg-Hospiz Hotel, with a fireplace large enough to walk into and a wine cellar that holds over 30,000 bottles. The signature show is the giant rum bottles paraded through the dining room by waiters in lederhosen, but the food is genuinely excellent: classic Tyrolean dishes done with precision.

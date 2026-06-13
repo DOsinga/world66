@@ -6,6 +6,7 @@ tags:
 - sight
 title: Puerto de Coquimbo
 type: poi
+score: 7.8
 ---
 
 The port is the reason Coquimbo exists, and it still gives the city its working character. Fishing boats, cargo activity, seafood stalls, and harbour views make a useful counterweight to La Serena's more decorative seaside.

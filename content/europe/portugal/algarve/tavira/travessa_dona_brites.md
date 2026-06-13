@@ -14,6 +14,7 @@ story: >
   it were the same families whose ships were loading tuna and cork for the Mediterranean trade.
   Most of the houses have been modified repeatedly since then, but the windows survived
   because replacing carved stonework was more expensive than leaving it in place.
+score: 7.9
 ---
 
 The Travessa de Dona Brites, a narrow lane in the old town between the castle and the Misericórdia church, contains some of the finest surviving medieval domestic architecture in the Algarve. Several houses along the lane retain their original fifteenth-century Gothic windows and portals — carved limestone frames of simple but elegant design that predates most of what survived the 1755 earthquake elsewhere in the region.

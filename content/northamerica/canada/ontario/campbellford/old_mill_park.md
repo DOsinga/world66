@@ -6,6 +6,7 @@ longitude: -77.8005
 tags:
   - things_to_do
   - park
+score: 5.6
 ---
 
 Old Mill Park is the centre of Campbellford's riverside life, a grassy strip running alongside the Trent River right in the heart of town. The Giant Toonie monument is here, along with a small pavilion, picnic tables, a bandstand and direct access to the waterway towpath. It is the standard meeting place for the town's summer markets, free concerts and the annual Canada Day celebrations.

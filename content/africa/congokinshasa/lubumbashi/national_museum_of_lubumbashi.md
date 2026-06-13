@@ -12,6 +12,7 @@ story: >
   catalogued Katanga's many ethnic groups — including the Luba, Lunda, and Tabwa peoples — with
   systematic thoroughness. The colonial logic was documentation and control; the result is an archive
   of traditional material culture that would otherwise have been largely lost.
+score: 8.1
 ---
 
 The National Museum of Lubumbashi holds the most significant collection of Katanga's traditional art, archaeology, and ethnographic objects in the country. The exhibits cover the pre-colonial cultures of the Luba, Lunda, Tabwa, and other peoples of the Katanga region — sculpture, masks, regalia, and everyday objects that document a richly varied set of traditions.

@@ -6,6 +6,7 @@ latitude: 43.9625
 longitude: 11.3516
 story: >
   La Marzocco's name comes from the heraldic lion of Florence — the same symbol that guards the entrance of the Palazzo della Signoria. The company's founders named their espresso machine after it in 1927, and the double-boiler design they invented is now standard in every high-end café on earth.
+score: 6.3
 ---
 
 La Marzocco makes the espresso machines found in specialty coffee shops worldwide — those substantial, beautifully engineered machines with the twin group heads are almost certainly La Marzocco. Founded in Florence in 1927, the company moved its manufacturing operations to this facility in the Mugello, just outside San Piero a Sieve, and has been based here ever since.

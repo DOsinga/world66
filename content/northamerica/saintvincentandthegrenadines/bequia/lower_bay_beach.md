@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, beaches]
 latitude: 12.9961
 longitude: -61.2492
+score: 7.9
 ---
 
 Lower Bay is Bequia's other great beach — half a mile of white sand on the south side of the island, separated from Princess Margaret Beach by a low headland and reached either by a footpath over the headland from Princess Margaret or by minibus from Port Elizabeth.

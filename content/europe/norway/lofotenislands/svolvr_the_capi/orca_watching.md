@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 68.2321
 longitude: 14.5646
+score: 8.5
 ---
 
 From October to January, Atlantic herring move into the fjords around the Lofoten Islands and Vesterålen, followed by killer whales in numbers that can reach into the dozens. Svolvær is one of the main bases for whale watching in this period: the fjords are close, the boat operators are experienced, and on good days pods of orca can be observed from very close range as they herd herring into tight bait balls at the surface.

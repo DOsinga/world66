@@ -9,6 +9,7 @@ tags:
   - bar
 neighbourhood: Ville Haute
 address: 2 Rue de la Boucherie
+score: 5.7
 ---
 
 A reliable expat-friendly bar a short walk off Place Guillaume. Long happy hours, English-speaking staff, and decent burgers if you stay for food. The crowd is mostly Anglo office workers and travellers, which is exactly what it's pitched at.

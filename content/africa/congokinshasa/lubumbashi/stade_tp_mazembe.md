@@ -12,6 +12,7 @@ story: >
   the final of the FIFA Club World Cup in 2010, where they became the first African team to reach that
   stage. The club is owned by the Katanga governor Moïse Katumbi, who spent heavily on facilities and
   players in the 2000s to transform a provincial club into a continental power.
+score: 7.8
 ---
 
 The stadium in the Kamalondo suburb is the home ground of TP Mazembe (Tout Puissant Mazembe), the most decorated football club in African history. The club has won the Confederation of African Football Champions League five times and the Congolese league more often than any other side. Matches draw passionate crowds, and the atmosphere at a home game is worth experiencing if you happen to be in Lubumbashi during the season.

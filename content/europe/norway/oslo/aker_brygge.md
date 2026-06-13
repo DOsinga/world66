@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 59.9108
 longitude: 10.7274
+score: 6.9
 ---
 
 Aker Brygge and the adjacent Tjuvholmen are Oslo's waterfront redevelopment districts, stretching west of City Hall along the Oslofjord. Once a shipyard, Aker Brygge was Oslo's first major post-industrial conversion in the 1980s; Tjuvholmen was completed more recently, with the Astrup Fearnley Museum of Contemporary Art as its centrepiece.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.3158
 longitude: 9.4978
+score: 7.7
 ---
 
 The **Museum für Sepulkralkultur** is one of those uniquely German museums that pursues a single niche to its limit. Its subject: the culture of death, burial, mourning, and memorial across European history. The collection ranges from medieval ossuaries and Baroque memento mori to modern crematorium architecture and AIDS quilts.

@@ -15,6 +15,7 @@ story: >
   cultural assertion: that the foundations of Chinese civilisation were laid here, in
   a valley that later became the Wei River's headwaters, before the Yellow Emperor
   moved east to the Central Plains.
+score: 8.1
 ---
 
 The Fuxi Temple in the old quarter of Tianshui is one of China's oldest surviving Taoist temple complexes dedicated to a mythological ancestor figure. The buildings visible today are Ming Dynasty reconstructions, but veneration of Fuxi at this site is documented from the Song Dynasty and the tradition almost certainly goes back further. The courtyard is planted with ancient Chinese cypress trees — some are over 1,500 years old — that create a canopy impressive enough to draw visitors who have no particular interest in the mythology.

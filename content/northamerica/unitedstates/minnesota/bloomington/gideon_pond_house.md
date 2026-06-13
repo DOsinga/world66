@@ -13,6 +13,7 @@ tags:
 - museum
 title: Gideon H. Pond House
 type: poi
+score: 6.2
 ---
 
 The oldest surviving building in Bloomington, a brick house built in 1851 by Gideon Pond, one of the first missionaries to the Dakota people. The house is a National Historic Landmark and is managed as a historic site by the City of Bloomington. Seasonal tours give access to the interior, which is preserved much as it appeared in the mid-19th century. The site provides an honest look at the early history of European settlement in Minnesota, including Pond's complicated legacy as both a Dakota-language scholar and a missionary who worked to change Dakota culture.

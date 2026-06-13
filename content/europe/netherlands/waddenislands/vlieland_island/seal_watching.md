@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Boat trips and beach walks to see the harbour and grey seal colonies"
 latitude: 53.2972
 longitude: 5.0656
+score: 7.9
 ---
 
 The waters around Vlieland are home to one of the largest seal populations in north-west Europe — both harbour seals (*gewone zeehond*) and grey seals (*grijze zeehond*), with several thousand individuals on the sandbanks at low tide. From the western beach you can often see them hauled out on the Richel sandbank to the east of the harbour. With binoculars from the right viewpoint a colony is almost guaranteed.

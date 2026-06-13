@@ -7,6 +7,7 @@ tags:
 - park
 title: Waterfront Park
 type: poi
+score: 7.6
 ---
 
 Waterfront Park stretches along the south side of Bay Street, looking across the Beaufort River to Lady's Island. Mature live oaks shade the lawn, and the boardwalk that runs the length of the park is set with porch swings facing the water — an unusually pleasant detail. Shrimp boats and pleasure craft pass by; in the mornings, locals walk dogs, and in the evenings the park fills up with families and street musicians.

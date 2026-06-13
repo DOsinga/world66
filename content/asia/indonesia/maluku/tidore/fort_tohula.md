@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 0.6500
 longitude: 127.4400
+score: 6.9
 ---
 
 Fort Tohula — sometimes spelled Torre, and not to be confused with the larger Tahula — is the second of the surviving Spanish forts above Soasio. It sits on a separate ridge a short walk uphill from the town and is considerably smaller and more ruinous than its neighbour. The walls are still standing in places, and the platform on which the fort was built gives another good viewpoint across the strait to Ternate and Halmahera.

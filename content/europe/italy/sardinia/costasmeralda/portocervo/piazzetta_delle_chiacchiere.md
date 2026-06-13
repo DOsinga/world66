@@ -6,6 +6,7 @@ longitude: 9.5351
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Piazzetta delle Chiacchiere — "the little square of chatter" — is the social centre of Porto Cervo. Designed by Luigi Vietti as part of the original Costa Smeralda plan in the early 1960s, it is an arcaded space of whitewashed walls, terracotta roofs, and granite paving stones that intentionally evokes a Sardinian village square. The shops underneath the arcade are all designer boutiques — Gucci, Cavalli, Hermès — but the square itself is open to anyone.

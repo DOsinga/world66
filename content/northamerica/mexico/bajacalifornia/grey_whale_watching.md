@@ -16,6 +16,7 @@ story: >
   a few hundred left. Under full protection since 1947, they have recovered
   to around 25,000 — and since the 1970s have shown a baffling willingness
   to approach human boats and allow themselves to be petted.
+score: 9.1
 ---
 
 From December through March, grey whales migrate from their feeding grounds in the Bering Sea to three lagoons on Baja's Pacific coast — Laguna Ojo de Liebre (Scammon's Lagoon) near Guerrero Negro, Laguna San Ignacio, and Bahía Magdalena further south. These sheltered waters serve as calving and mating grounds for the entire eastern North Pacific grey whale population.

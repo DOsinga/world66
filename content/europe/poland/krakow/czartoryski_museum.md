@@ -9,6 +9,7 @@ latitude: 50.0635
 longitude: 19.9323
 story: >
   Leonardo da Vinci's Lady with an Ermine was hidden from the Germans during the Second World War and survived intact, but the collection's other Old Master — Raphael's Portrait of a Young Man — was stolen from the museum by Hans Frank, the Nazi governor of Poland, and has never been recovered. It is considered one of the most significant missing artworks in the world. The empty wall space where it once hung is sometimes marked with a reproduction and a notice about the theft.
+score: 9.1
 ---
 
 The Czartoryski Museum holds one of Poland's greatest private art collections, assembled by Princess Izabela Czartoryska in the early 19th century as a deliberate act of cultural preservation during the period when Poland had been partitioned and ceased to exist as an independent state. The museum reopened after an extensive restoration in 2019 with new display spaces in the renovated arsenal buildings adjacent to the original palace.

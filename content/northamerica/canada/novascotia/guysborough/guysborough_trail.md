@@ -7,6 +7,7 @@ tags:
 latitude: 45.3952
 longitude: -61.5022
 snippet: Rail-trail through Eastern Shore countryside for cyclists and hikers
+score: 6.4
 ---
 
 The Guysborough Trail follows a former rail line along the Eastern Shore, forming part of the Trans Canada Trail network. The converted railbed makes for easy, level walking and cycling through forests of spruce and birch, crossing small bridges over tidal inlets and offering glimpses of Chedabucto Bay through the trees.

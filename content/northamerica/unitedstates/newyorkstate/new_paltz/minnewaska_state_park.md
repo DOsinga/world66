@@ -11,6 +11,7 @@ latitude: 41.7220
 longitude: -74.1200
 sources:
   - https://en.wikipedia.org/wiki/Survival_of_the_Shawangunks
+score: 9.2
 ---
 
 Minnewaska State Park Preserve occupies the southern end of the Shawangunk Ridge and protects two sky lakes — Lake Minnewaska and Lake Awosting — that sit in natural basins in the quartzite. The water in these lakes is strikingly clear and acidic, tinted amber by the tannins of the surrounding pitch pine barrens, and swimming in Lake Minnewaska from the smooth rock ledges is one of the best free (well, park admission fee) pleasures in the Hudson Valley.

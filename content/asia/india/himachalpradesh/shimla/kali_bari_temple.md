@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.105975
 longitude: 77.166813
+score: 6.9
 ---
 
 The Kali Bari Temple on Bantony Hill is the oldest temple in Shimla proper, dedicated to Shyamala Devi — the dark manifestation of the goddess from whom the city is said to take its name (Shimla being a corruption of Shyamala). The temple predates the British settlement; local tradition holds that the goddess was worshipped on this hill before the British arrived in 1819.

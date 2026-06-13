@@ -13,6 +13,7 @@ story: >
   over two weeks — remarkable for a city of 65,000. Unlike Oktoberfest,
   admission to the festival grounds is free and the atmosphere is noticeably
   more local, with fewer international tourists.
+score: 6.8
 ---
 
 The **Rosenheim Herbstfest** (Autumn Festival) is one of the largest beer festivals in Bavaria after Munich's Oktoberfest, held annually for two weeks in late August and September at the Mangfallpark festival grounds. Several large beer tents from Bavarian breweries fill the site, along with fairground rides and food stalls.

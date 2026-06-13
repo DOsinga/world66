@@ -11,6 +11,7 @@ tags:
 - berlinmitte
 title: Schipper & Krome
 type: poi
+score: 6.5
 ---
 
 A well-regarded contemporary art gallery in Berlin's Mitte district, Schipper & Krome relocated from Cologne in the early 2000s to join the wave of galleries that transformed this part of the city. The gallery built a reputation for showing emerging and mid-career international artists working across installation, sculpture, and video.

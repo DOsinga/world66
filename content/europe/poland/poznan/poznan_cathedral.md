@@ -16,6 +16,7 @@ story: >
   here, making this the closest thing Poland has to Westminster Abbey.
 sources:
   - https://en.wikipedia.org/wiki/Pozna%C5%84_Cathedral
+score: 9.0
 ---
 
 Poznan Cathedral — officially the Cathedral Basilica of St Peter and St Paul — stands on Cathedral Island (Ostrów Tumski), the sandy island in the Warta River where Poland's Christian history began. The current Gothic structure is mostly 14th to 15th century, though the crypt below is older and holds remnants of the first Romanesque cathedral from the 10th century. The cathedral was badly damaged in 1945 and rebuilt over the following decade, with the work done sufficiently carefully that the interior retains much of its historic character.

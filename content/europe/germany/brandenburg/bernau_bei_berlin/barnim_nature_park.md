@@ -6,6 +6,7 @@ longitude: 13.5382
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Barnim_Nature_Park
+score: 7.1
 ---
 
 Bernau sits on the southern edge of Barnim Nature Park, a large protected landscape of forests, lakes, and glacial ridges stretching north and east from the city. The park covers around 750 square kilometres and is one of the principal green lungs between Berlin and the Polish border. Much of it is accessible on foot or by bicycle from Bernau's northern outskirts.

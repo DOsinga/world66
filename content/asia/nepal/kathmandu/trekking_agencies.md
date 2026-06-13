@@ -8,6 +8,7 @@ tags:
 latitude: 27.7167
 longitude: 85.3128
 address: Thamel, Kathmandu
+score: 4.8
 ---
 
 Thamel is the hub of Nepal's trekking industry, with hundreds of agencies competing for business. The quality varies enormously. For standard routes like the Everest Base Camp or Annapurna Circuit, a reputable agency should be able to provide a licensed guide, all necessary permits (the TIMS card and national park entry permit), equipment rental, and accommodation bookings. For technical climbs or off-trail routes, experience and licensing become critical.

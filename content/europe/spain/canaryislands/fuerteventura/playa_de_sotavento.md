@@ -12,6 +12,7 @@ story: >
   wind while flattening the water. At low tide the lagoon almost disappears;
   at high tide it fills and becomes the ideal flat-water training ground. The
   Windsurfing World Cup has used it since 1983.
+score: 8.6
 ---
 
 Playa de Sotavento on the Jandía peninsula is the most famous windsurfing beach in the world — a vast stretch of white sand backed by a shallow turquoise lagoon formed by a dramatic sandspit. The lagoon provides flat water for freestylers and beginners; the open ocean beyond the spit gives wave riders what they need. The Windsurfing and Kitesurfing World Cup takes place here each summer, drawing the best riders in the world to compete in front of what becomes a sizable beach audience.

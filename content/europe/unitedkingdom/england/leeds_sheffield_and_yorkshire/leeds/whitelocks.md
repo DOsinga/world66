@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 type: poi
+score: 7.8
 ---
 
 Leeds's oldest pub, tucked down a narrow alleyway off Briggate, Whitelock's has been serving beer since 1715. The Victorian bar fittings — copper bar tops, stained glass, ornate mirrors, and tiled walls — are largely original, and the long narrow room still operates much as it always has. It serves a rotating selection of well-kept real ales alongside straightforward pub food.

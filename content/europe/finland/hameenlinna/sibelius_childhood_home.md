@@ -9,6 +9,7 @@ latitude: 60.9974
 longitude: 24.4636
 story: >
   Jean Sibelius was born in Hämeenlinna in 1865 but grew up speaking Swedish — the language of the Finnish educated class — rather than Finnish. His decision to learn Finnish and compose music that drew on Kalevala mythology and Finnish folk traditions was a deliberate political act at a time when Finland was a Russian grand duchy. Finlandia, his most famous piece, was banned by Russian censors because it aroused nationalist sentiment.
+score: 7.4
 ---
 
 The childhood home of Jean Sibelius, born in Hämeenlinna in 1865, has been preserved as a small museum on Hallituskatu in the centre of town. The building is a modest wooden house typical of prosperous Finnish provincial families of the mid-19th century, and the interior has been restored with period furniture to suggest how the young Sibelius grew up.

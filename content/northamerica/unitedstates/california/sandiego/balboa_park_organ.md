@@ -15,6 +15,7 @@ story: >
   one of the few cities in the world that employs a full-time civic organist. The Sunday concerts,
   free and open to the public, have run without interruption since 1915 except for the years
   of World War II.
+score: 7.8
 ---
 
 The Spreckels Organ Pavilion at the centre of Balboa Park holds the world's largest outdoor pipe organ: 4,518 pipes in a horseshoe-shaped bandshell built in 1915 for the Panama-California Exposition. The pavilion seats 2,400 on curved stone benches facing the console, which the organist plays in full view of the audience.

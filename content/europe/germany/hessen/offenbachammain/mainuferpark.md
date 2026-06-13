@@ -8,6 +8,7 @@ latitude: 50.1055
 longitude: 8.7500
 story: >
   The park was created in the 1990s on land that had been occupied by industrial facilities since the 19th century. The removal of the old infrastructure and the creation of a riverside promenade was part of a long effort to reconnect Offenbach to the Main — a river that the city had turned its back on during the industrial era.
+score: 5.9
 ---
 
 The Mainuferpark is Offenbach's riverside promenade, running along the north bank of the Main with views across to the wooded southern shore and, to the west, the Frankfurt skyline. The park is a pleasant open space for walking and cycling, with the old factory buildings of the former industrial zone converted into offices, studios, and creative businesses behind.

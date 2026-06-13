@@ -1,6 +1,7 @@
 ---
 title: "Twin Falls Circuit"
 type: poi
+score: 8.5
 ---
 
 The Twin Falls Circuit is one of Springbrook's most rewarding walks — a four-kilometre loop through subtropical rainforest that passes two waterfalls and some of the most lush and mossy terrain on the plateau. Allow two to three hours at a comfortable pace. The track runs along the rim of Springbrook Creek canyon before descending to the falls, where a series of cascades tumble through a narrow gorge.

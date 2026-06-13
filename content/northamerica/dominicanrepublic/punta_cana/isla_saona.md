@@ -9,6 +9,7 @@ snippet: Government-protected island with turquoise shallows and wild starfish f
 latitude: 18.1167
 longitude: -68.7333
 story: "Isla Saona is so pristine-looking that it doubled as a filming location for a shipwreck survival sequence — it is the kind of beach that directors reach for when they need to suggest the idea of paradise. The government declared it a national park in 1975 specifically to keep hotels off it."
+score: 8.6
 ---
 
 Isla Saona is the largest island off the southeastern Dominican Republic coast and one of the most popular day-trip destinations in the Caribbean. Catamaran tours leave from Bayahibe, two hours west of Punta Cana, stopping at Natural Pool — a shallow sandbar in the middle of the ocean, knee-deep and kilometres long — before reaching the island.

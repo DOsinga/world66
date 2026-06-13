@@ -11,6 +11,7 @@ story: >
   shaped post-independence Phnom Penh, the hotel was abandoned during the Khmer
   Rouge years and used as a sniper position. Restoration in the early 2000s
   preserved the original geometry while updating the interiors.
+score: 4.4
 ---
 
 The Independence Hotel is the most architecturally significant building in Sihanoukville — a stark concrete modernist tower built in 1963, perched on a low cliff above its own beach. The geometry is pure Vann Molyvann: clean horizontal lines, deep overhangs against the tropical sun, generous public spaces.

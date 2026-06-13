@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 40.0381
 longitude: -76.3085
+score: 5.8
 ---
 
 Prince Street Cafe is the centre of Lancaster's coffee culture, in a corner storefront a block from the Fulton Theatre. The roastery operation supplies many of the smaller cafes around town, and the flagship is a busy all-day spot with long tables, free wifi, and a small food menu of pastries, sandwiches, and breakfast bowls.

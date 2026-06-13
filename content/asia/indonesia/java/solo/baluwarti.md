@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -7.5775
 longitude: 110.8268
+score: 7.3
 ---
 
 Baluwarti is the walled neighbourhood immediately surrounding the Keraton Kasunanan — the palace's inner city, reserved historically for the royal family, court servants, and craftsmen in service to the Susuhunan. The name comes from the Dutch "baluarte" (bulwark), referring to the walls that once enclosed it.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A small stone tower guarding the mouth of the Norin river, the last surviving fortress of the Ottoman-Venetian frontier.
+score: 5.9
 ---
 
 Norinska Kula — "the Norin Tower" — is a squat stone fortress on a low ridge above the marshes where the Norin river joins the Neretva. Built in the late 16th century by the Ottomans as part of a chain of border watchtowers along the Venetian frontier, it changed hands repeatedly during the Cretan and Morean wars and was finally abandoned after the Treaty of Karlowitz in 1699.

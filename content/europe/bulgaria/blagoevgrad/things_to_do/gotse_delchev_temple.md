@@ -10,6 +10,7 @@ longitude: 23.4897
 snippet: Former synagogue that survived Nazi deportation orders through local resistance
 sources:
   - https://en.wikipedia.org/wiki/Blagoevgrad_Synagogue
+score: 7.1
 ---
 
 The former Jewish synagogue of Blagoevgrad — now used as a cultural centre named after the Bulgarian revolutionary Gotse Delchev — carries a remarkable history. During the Second World War, when Bulgarian Jews were subject to deportation orders under the German alliance, the Jewish community of Blagoevgrad was protected by a combination of local civic leaders, Orthodox clergy, and ordinary citizens who refused to comply. The community survived intact; the synagogue survived with them.

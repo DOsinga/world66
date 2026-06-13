@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Construction of the aqueduct began in 1537 and took more than a century to finish — when it finally delivered water to the fountain on Rossio square in 1622 the engineer Francisco de Arruda had been dead for nearly eighty years."
+score: 8.7
 ---
 
 The Amoreira Aqueduct is the most photographed structure in Elvas and probably the most extraordinary thing in the Alentejo. Nearly seven kilometres long, with four tiers of arches reaching 30 metres high at its most dramatic stretch on the western approach to town, it was built specifically to allow Elvas to withstand a siege — and it did, repeatedly, through the Restoration War with Spain.

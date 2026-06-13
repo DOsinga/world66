@@ -8,6 +8,7 @@ tags:
 title: Capitol Theater
 type: poi
 snippet: 1924 vaudeville house, now Olympia Film Society's home cinema
+score: 8.1
 ---
 
 A two-storey 1924 theatre on 5th Avenue that began life as a vaudeville and silent film house, was nearly demolished in the 1980s, and rescued by the Olympia Film Society — which still operates it as a year-round arthouse cinema, live music venue and festival space.

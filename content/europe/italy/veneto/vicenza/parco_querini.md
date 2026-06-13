@@ -7,6 +7,7 @@ tags:
 latitude: 45.5530
 longitude: 11.5417
 story: "In the centre of the park's pond stands a small neoclassical temple — the Temple of Ceres — surrounded by water. Turtles that have lived in the pond for generations can be found sunning themselves on the stone steps of the temple, a scene that is either charming or slightly surreal depending on your disposition."
+score: 6.3
 ---
 
 Parco Querini is Vicenza's main public garden, laid out in English landscape style in the early 19th century on the northern edge of the historic centre. It covers about 10 hectares with specimen trees, broad lawns, and a central pond that gives the park its most distinctive feature.

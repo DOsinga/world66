@@ -6,6 +6,7 @@ longitude: 101.6870
 tags:
   - eating_out
   - restaurant
+score: 6.0
 ---
 
 A South Indian vegetarian institution in the heart of Brickfields, part of a small Chennai-based chain that opened its Brickfields branch in 2010 and quickly became one of the busier vegetarian restaurants in KL. The menu runs through the standard Tamil Nadu repertoire — masala dosa, idli, vada, uthappam, biryani — with a long list of regional thali sets at lunch.

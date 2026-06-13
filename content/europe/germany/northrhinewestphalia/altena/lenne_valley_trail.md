@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.3010
 longitude: 7.6680
+score: 7.2
 ---
 
 The forested hills surrounding Altena are part of the Sauerland, one of Germany's most popular hiking regions. The trails above the Lenne valley offer good walking through beech and oak forest with views over the valley and the castle, and the network connects to longer routes through the Märkisches Sauerland. The trail from the Altena Bahnhof up to Burg Altena, though steep, is a scenic introduction to the landscape.

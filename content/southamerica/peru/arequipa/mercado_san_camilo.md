@@ -9,6 +9,7 @@ tags:
 - centro_historico
 title: Mercado San Camilo
 type: poi
+score: 8.1
 ---
 
 San Camilo is Arequipa's century-old central market and an excellent place to feel the rhythm of the city away from the cathedral tour buses. The iron-and-glass building dates from 1881 and was designed in part by Gustave Eiffel's office. Inside, the layout is the traditional Peruvian one: fruit and juice stalls at the entrances, butchers and fish at the back, dry goods upstairs, and a long aisle of *menú* stalls along one side where you eat lunch shoulder-to-shoulder with market workers for under 15 soles.

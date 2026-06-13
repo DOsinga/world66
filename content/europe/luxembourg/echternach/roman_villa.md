@@ -14,6 +14,7 @@ story: >
   almost half a hectare — large by north European standards — and finds
   ranging from hypocaust heating systems to wall paintings that survived
   the building's destruction in the 4th century.
+score: 8.3
 ---
 
 A short walk south of the old town, on the modern recreation lake, sits the foundation of a Roman villa rustica that is one of the largest known north of the Alps. The site is presented as an open-air ruin under a protective roof, with explanatory panels and a small interpretive centre.

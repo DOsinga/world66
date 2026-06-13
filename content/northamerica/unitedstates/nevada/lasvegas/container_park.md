@@ -8,6 +8,7 @@ snippet: "Outdoor mall built from shipping containers, anchored by a fire-breath
 tags:
 - shopping
 - downtown
+score: 5.9
 ---
 
 The Container Park is part of Tony Hsieh's Downtown Project — a Zappos-founder-funded redevelopment effort that aimed to revive the Fremont East district. The complex is built from stacked shipping containers and modified cargo crates, with around 40 small independent shops, bars, and restaurants set around a central courtyard. A treehouse-style play structure for kids dominates the middle.

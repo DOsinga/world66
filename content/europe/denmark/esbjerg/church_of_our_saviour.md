@@ -8,6 +8,7 @@ tags:
   - church
 latitude: 55.4675
 longitude: 8.4489
+score: 6.5
 ---
 
 The Church of Our Saviour (Vor Frelsers Kirke) is the larger and more imposing of central Esbjerg's two main churches, completed in 1887 in red brick with neo-Gothic detailing. The architect, Ludvig Knudsen, gave the building a tall, slim tower visible from most of the central streets — useful for navigation on a flat town plan that can otherwise feel anonymous.

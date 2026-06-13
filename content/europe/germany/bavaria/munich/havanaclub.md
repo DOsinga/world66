@@ -7,6 +7,7 @@ tags:
 - altstadt
 title: Havana Club
 type: poi
+score: 4.3
 ---
 
 How to experience Cuban life the way it was back in the 1950s? Go and check out the Havana Club.

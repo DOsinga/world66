@@ -12,6 +12,7 @@ story: >
   1857 as for its religious significance. The temple was renovated and
   expanded in the 20th century, but the inner sanctum is believed to occupy
   an ancient site of Shiva worship predating the Mughal period.
+score: 6.8
 ---
 
 One of the oldest and most revered temples in Meerut, Augarnath is dedicated to Lord Shiva and is considered the presiding deity of the city. The temple is a major centre of worship during the Hindu months of Shravan (July–August) and Mahashivratri, when enormous numbers of Kanwar yatris — pilgrims carrying sacred Ganga water from Haridwar — pass through Meerut and stop at Augarnath to offer water to the lingam.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.0
 ---
 
 The North Jetty extends out from the southern end of the Ocean Shores peninsula into the entrance of Grays Harbor, forming one half of the channel markers that guide ships into the harbor. It is a favourite spot for surf fishing and for watching the dramatic wave action where the river current meets Pacific swells. On stormy days the spray can reach spectacular heights.

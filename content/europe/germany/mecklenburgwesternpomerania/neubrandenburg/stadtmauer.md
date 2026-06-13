@@ -9,6 +9,7 @@ latitude: 53.5557
 longitude: 13.2603
 story: >
   Of the four medieval gates, each was decorated with terracotta figurines of women — the Wiekhäuser, small guard chambers built into the wall's towers, still have some of their original decorated frontages intact. The gates were built not just for defence but as a statement of civic pride, faced with glazed brickwork imported from Lübeck.
+score: 9.0
 ---
 
 The medieval city wall of Neubrandenburg is one of the best-preserved in Germany. Begun in the mid-13th century and substantially completed by the 14th, it encircles the entire old town for about 2.3 kilometres, standing up to 7 metres high and reinforced by 56 round towers. What makes it exceptional is that it is almost entirely intact — rare for a city that was heavily bombed and fought over in 1945.

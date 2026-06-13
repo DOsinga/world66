@@ -8,6 +8,7 @@ tags:
 latitude: 51.6676
 longitude: -1.2829
 story: "St Helen's is one of the very few English churches that is wider than it is long — five aisles span 33 metres of nave but only about 30 metres of length. The fourteenth-century painted ceiling in the inner north aisle, showing kings, prophets, and the Tree of Jesse, is one of the oldest surviving wooden church ceilings in the country."
+score: 8.8
 ---
 
 St Helen's sits where the River Ock meets the Thames, surrounded by almshouses that frame one of the most photogenic spots in Oxfordshire. The church itself is unusual: it has been expanded sideways rather than lengthened, giving it five parallel aisles and that broad, hall-like interior that English churches almost never have.

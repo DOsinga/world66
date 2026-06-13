@@ -8,6 +8,7 @@ tags:
   - bar
   - southsea
 neighbourhood: Southsea
+score: 6.2
 ---
 
 A small, dim, perfectly preserved Victorian street-corner pub on Great Southsea Street, hidden away in the back streets behind the cathedral. Real ales from local breweries (Irving, Suthwyk, Langham), a fire in winter, conversation rather than music.

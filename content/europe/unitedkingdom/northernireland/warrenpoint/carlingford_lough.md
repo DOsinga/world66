@@ -6,6 +6,7 @@ latitude: 54.0733
 longitude: -6.1994
 story: >
   The lough is the only sea-flooded glacial fjord in Ireland, gouged out at the end of the last ice age. By tradition the name comes from the Norse Kerlingfjǫrðr — "the old woman's fjord" — a reminder that Viking raiders from Dublin reached this coast as well.
+score: 7.8
 ---
 
 Carlingford Lough is the narrow inlet of the Irish Sea that frames Warrenpoint to the south. It is bordered by the Mourne Mountains on the County Down side and the Cooley Mountains on the County Louth side, so the views across the water in both directions are extraordinary — granite ridges falling almost directly into the sea, with small villages strung along the shore at their feet.

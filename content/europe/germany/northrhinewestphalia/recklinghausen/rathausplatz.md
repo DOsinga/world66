@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 51.6141
 longitude: 7.1955
+score: 6.7
 ---
 
 Recklinghausen's old town centre is a pleasant surprise. The Rathausplatz and the surrounding pedestrianized streets survived the Second World War better than most Ruhr cities, and while nothing here is architecturally exceptional, the ensemble of market square, church, and surrounding lanes feels genuinely old rather than reconstructed.

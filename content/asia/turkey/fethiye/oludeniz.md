@@ -8,6 +8,7 @@ tags:
 snippet: The Blue Lagoon — probably the most photographed beach in Turkey
 latitude: 36.5497
 longitude: 29.1156
+score: 7.9
 ---
 
 Ölüdeniz (literally "dead sea," for its calm waters) is the turquoise lagoon that appears on every Turkish tourism poster. The beach curves around a shallow, sheltered bay where the water shades from pale green to deep blue. There is an entrance fee for the national park section of the beach, which keeps it cleaner and less crowded than the free public beaches nearby.

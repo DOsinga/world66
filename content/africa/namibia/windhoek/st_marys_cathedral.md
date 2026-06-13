@@ -8,6 +8,7 @@ tags:
 - sight
 title: St. Mary's Cathedral
 type: poi
+score: 6.9
 ---
 
 St. Mary's Cathedral, consecrated in 1908, is the seat of the Roman Catholic Archdiocese of Windhoek and one of the more imposing buildings of the German colonial era. Twin red-brick towers face Werner List Street; the interior is plainer than the exterior suggests but the stained glass windows are worth a look.

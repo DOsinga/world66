@@ -7,6 +7,7 @@ tags:
 latitude: 41.4031
 longitude: -75.6661
 story: "Harry Houdini performed his famous suspended straitjacket escape over Scranton's Main Street in 1916, dangling from a crane in front of an estimated 25,000 spectators. He was paid 100 dollars and ate at a local restaurant afterwards. The museum here is the only one in the world devoted to him."
+score: 5.4
 ---
 
 The Houdini Museum is a small, eccentric collection occupying an old building on North Main Avenue, run by professional magicians who present an in-person magic show as part of every visit. It houses original Houdini posters, props, letters, and recordings, along with a number of historic stage illusions you can see worked at close range.

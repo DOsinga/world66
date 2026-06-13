@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6200
 longitude: 101.7700
+score: 5.5
 ---
 
 The Huangshui River runs through the centre of Xining from west to east, and its banks have been developed into a long linear park that provides the city's main outdoor recreation space. The riverside path runs for several kilometres through the central district, with benches, exercise areas, and good views of the city's geology — the red sandstone cliffs visible to the north mark the same rock formation that colours the valley walls around Xining.

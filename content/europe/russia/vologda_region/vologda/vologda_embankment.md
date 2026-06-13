@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.2200
 longitude: 39.8870
+score: 7.7
 ---
 
 The south bank of the Vologda River, running along the front of the Kremlin complex, is lined with 18th and 19th-century merchant houses that were the homes of the families who built Vologda's prosperity from the fur trade, the river trade, and later from the linen and butter industries. The embankment itself — a broad paved riverside promenade — is the main public space in the city centre.

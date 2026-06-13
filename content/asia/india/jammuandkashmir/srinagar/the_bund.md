@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 34.0867
 longitude: 74.7933
+score: 7.0
 ---
 
 The Bund is Srinagar's oldest formal promenade, a tree-lined embankment along the Jhelum River near the main business district. Built during the British period when Residency Road was the colonial administrative centre, it has the slightly faded grandeur of a promenade that was once more important than it is now. Old plane trees shade the path; a few colonial-era buildings face the river from the opposite bank.

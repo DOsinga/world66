@@ -9,6 +9,7 @@ latitude: 51.8848
 longitude: 0.8950
 snippet: Only known Roman chariot-racing arena in Britain
 story: "The circus was unknown until 2004, when archaeologists working on the redevelopment of the Garrison parade ground stumbled across its foundations. Roman Britain was thought to have had no chariot-racing arenas at all — Colchester's discovery rewrote a chapter of the historical record overnight."
+score: 7.4
 ---
 
 On the southern edge of the town, beyond St Botolph's Priory, lie the foundations of the only known Roman chariot-racing arena in Britain. The starting gates, central spine, and curving end of the track are visible as low brick outlines set into the grass of the modern recreation ground; an information centre run by Colchester Archaeological Trust sits at the eastern end and explains what was there.

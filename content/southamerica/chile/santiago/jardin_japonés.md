@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4216
 longitude: -70.6380
+score: 5.1
 ---
 
 The Jardín Japonés (Japanese Garden) occupies a quiet corner of the Parque Metropolitano on Cerro San Cristóbal, a short walk from the cable car station. It was a gift from the Japanese community in Chile and has the standard elements of a formal Japanese garden — koi ponds, stone lanterns, curved bridges, manicured shrubs — executed with reasonable fidelity to the tradition.

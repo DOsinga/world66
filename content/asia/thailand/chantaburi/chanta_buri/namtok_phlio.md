@@ -7,6 +7,7 @@ tags:
 snippet: "Multi-tiered waterfall and royal monuments in a forest park"
 latitude: 12.5160
 longitude: 102.1820
+score: 7.9
 ---
 
 Namtok Phlio is a small but pretty waterfall about fourteen kilometres southeast of Chantaburi, the centrepiece of a national park dotted with royal monuments. The falls run year-round, drop in three tiers into a clear pool full of sizeable carp (you can buy fish food at the entrance), and are a popular swimming spot at weekends.

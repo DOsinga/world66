@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 10.8961
 longitude: 123.4155
+score: 6.8
 ---
 
 The mangrove forests along Sagay's coastline are among the most extensive on Negros Island, and a section of them has been developed into an eco-park with boardwalks and interpretive trails. The mangroves function as a nursery for many of the fish species in the marine reserve, and the connection between the two — mangrove health and reef health — is something the park tries to explain.

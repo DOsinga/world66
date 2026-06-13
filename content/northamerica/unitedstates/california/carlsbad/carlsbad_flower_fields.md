@@ -8,6 +8,7 @@ latitude: 33.1322
 longitude: -117.3138
 story: >
   The ranunculus variety grown here — Tecolote Giant — was developed in the 1930s by Luther Gage, a local gardener working from a San Diego nursery. The Flower Fields only became a public attraction in the 1960s; before that, the blooms were purely a commercial cut-flower crop and most visitors only glimpsed them from the highway.
+score: 7.3
 ---
 
 Each spring, from roughly late February through early May, 50 acres of hillside above Carlsbad turn into an enormous striped canvas of colour. The Tecolote Giant ranunculus flowers grow in bold horizontal bands — deep red, vivid orange, hot pink, and white — visible from the highway long before you reach the entrance. The timing and intensity of the bloom depend on winter rains and temperature, so no two years are quite identical.

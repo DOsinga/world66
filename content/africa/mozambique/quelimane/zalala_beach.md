@@ -5,6 +5,7 @@ tags: [things_to_do, beach, sight]
 latitude: -17.8678
 longitude: 36.9908
 story: "Zalala Beach is one of Mozambique's least-visited and most beautiful stretches of Indian Ocean coastline — 7 kilometres of golden sand lined with coconut palms, almost entirely empty on weekdays. The beach is 30 km east of Quelimane on a dirt road and has no tourist infrastructure beyond a basic rest camp, which is exactly why it is worth the trip."
+score: 6.8
 ---
 
 Zalala Beach lies about 30 kilometres east of Quelimane along a dirt road that passes through coconut plantations and small farming villages. The beach itself stretches for approximately 7 kilometres and is backed by a dense stand of palm trees that provides shade even at midday. Swimming is generally safe in calm conditions, though local advice should be sought regarding currents. The water is warm year-round.

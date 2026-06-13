@@ -6,6 +6,7 @@ longitude: 14.5749
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Kamplin is the heart of old Krk — a stone square pressed between the Frankopan Castle, the cathedral complex, and the medieval town walls, opening out toward the sea. The name comes from the Latin campus, the Roman field where troops once drilled.

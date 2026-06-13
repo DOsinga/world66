@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - roman
+score: 7.4
 ---
 
 The Porte d'Auguste is one of the surviving city gates from Augustan Nîmes, dating from around 15 BC. Two large central arches for vehicles and two smaller side arches for pedestrians give a clear picture of how Roman city gates worked. The dedicatory inscription names Augustus and records the city's foundation.

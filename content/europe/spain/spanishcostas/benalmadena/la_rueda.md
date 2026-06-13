@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 neighbourhood: Pueblo
+score: 6.4
 ---
 
 A long-running, family-run restaurant in the old pueblo, La Rueda does proper Andalusian home cooking: grilled meats over charcoal, rabo de toro (oxtail), stewed chickpeas, and a generous spread of tapas. The dining room is small, cluttered with photographs and football memorabilia, and full of locals at lunchtime.

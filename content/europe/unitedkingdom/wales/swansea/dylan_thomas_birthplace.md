@@ -9,6 +9,7 @@ tags:
 latitude: 51.6217
 longitude: -3.9601
 neighbourhood: Uplands
+score: 7.6
 ---
 
 5 Cwmdonkin Drive, a steep-stepped Edwardian semi-detached house in the Uplands, is where Dylan Thomas was born in October 1914 and lived until he was twenty-three. The house has been restored to its 1914 appearance and is open for tours, overnight stays and Thomas-themed dinners.

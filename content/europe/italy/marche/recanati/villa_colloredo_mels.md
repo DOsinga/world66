@@ -10,6 +10,7 @@ tags:
 snippet: "Renaissance villa-turned-museum holding four Lorenzo Lotto paintings"
 story: >
   Lorenzo Lotto, the Venetian painter who spent the last decades of his life in the Marche, finished his great *Annunciation* in Recanati around 1534 — the moment of Mary's startled fright, with the angel arriving without warning and a small house-cat caught arching its back in alarm. It is one of Lotto's most quietly extraordinary paintings, and it is here.
+score: 8.0
 ---
 
 The Villa Colloredo Mels is a Renaissance villa on the western edge of the old town, set in a large park and looking out across the open country toward the Apennines. The building was the country seat of a noble family from Friuli and was acquired by the comune in the 1980s; it now houses the **Museo Civico**, the town's civic museum.

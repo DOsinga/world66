@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Havannah Harbour was a major American forward base during the Pacific War — at one point host to more than 100,000 servicemen. The wartime equipment dumped here forms the basis of much of the diving in the area, including the wreck of SS President Coolidge off Espiritu Santo to the north."
+score: 6.8
 ---
 
 Havannah Harbour is the wide protected bay on Efate's northwest coast, an hour from Port Vila by car. It is the calmest stretch of coast on the island — superb for kayaking, paddleboarding, and snorkelling over scattered war wrecks.

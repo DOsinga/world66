@@ -11,6 +11,7 @@ story: >
   Association's expedition confirmed its 31-kilometre length, making it one of the longest dry caves in
   Asia. The first kilometre, open to tourists on a boardwalk, represents perhaps five percent of the cave's
   total extent.
+score: 8.6
 ---
 
 Thien Duong — known in English as Paradise Cave — is the national park's most spectacular accessible cave, and the most popular destination after Son Doong. A boardwalk leads 1 kilometre into a cathedral-scale passage, with stalactites and stalagmites in extraordinary formations covering the floor and ceiling. The lighting is restrained, which is unusual for Vietnamese show caves, and the scale only becomes apparent as you move deeper into the passage and the entrance disappears behind you.

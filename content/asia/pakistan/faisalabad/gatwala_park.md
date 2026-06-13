@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.4339
 longitude: 73.0649
+score: 6.3
 ---
 
 Gatwala Forest Park is a large green space on the western edge of Faisalabad — one of the more unusual parks in Punjab, developed around a planted forest rather than the usual manicured lawns. The park includes walking paths through the trees, a small zoo, boating on a lake, and various recreational areas that draw families from across the city, especially on weekends and public holidays.

@@ -15,6 +15,7 @@ story: >
   returned to the Wiyot Tribe in 2004 after a century-long campaign, making it one
   of the first land repatriations of its kind in California. The Wiyot have since
   restored the site and resumed the World Renewal ceremony.
+score: 7.8
 ---
 
 Tuluwat Island in Humboldt Bay is the ancestral home of the Wiyot Tribe and the site of one of the most notorious massacres in California history. In February 1860, settlers attacked a Wiyot gathering there, killing dozens of people during a World Renewal ceremony. The community of Eureka was largely silent in the aftermath; the journalist Bret Harte, then working at the local paper, was the only one who publicly condemned the killings and was forced to leave town as a result.

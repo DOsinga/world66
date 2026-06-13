@@ -8,6 +8,7 @@ tags:
 - jumeirah
 title: Wild Wadi Water Park
 type: poi
+score: 6.2
 ---
 
 Wild Wadi is a 12-acre waterpark on Jumeirah Beach Road, immediately adjacent to the Burj Al Arab and Jumeirah Beach Hotel. The park is themed around an Arabian wadi (desert oasis) and the 30-plus rides and slides are mostly interconnected — once you enter, you ride continuously without exiting and re-queuing for each attraction separately.

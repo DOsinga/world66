@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The 91-metre Ranney Falls suspension bridge swings high over the gorge of the Trent River. Cross it slowly — the bridge bounces gently underfoot, and the drop to the rapids below is sudden and considerable."
+score: 8.4
 ---
 
 Ferris Provincial Park sits on the south edge of town along the gorge cut by the Trent River. Its centrepiece is the high suspension footbridge that spans the rapids at Ranney Falls — the most photographed view in the area and a satisfying short walk from the day-use parking. The park has 12 km of marked hiking trails through mixed hardwood forest, with several lookouts over the river.

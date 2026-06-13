@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa de Bocagrande
 type: poi
+score: 5.0
 ---
 
 The beach at Bocagrande is Cartagena's main in-city swimming beach, a 3km stretch of sand running along the western side of the Bocagrande peninsula. It's backed by high-rise hotels and apartment blocks, so the setting is more Miami than Caribbean, but the water is warm, the waves are gentle, and it's easily reached from anywhere in the city. On weekends it becomes extremely busy.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Pennsylvania's official history and natural history museum, covering geology to the Civil War
+score: 7.5
 ---
 
 The State Museum occupies a large purpose-built building directly adjacent to the Capitol, and it covers Pennsylvania's natural and human history from the Cambrian period to the 20th century. The natural history galleries — with a planetarium, a full-scale mastodon skeleton, and extensive geology and mineralogy collections — are strong. The Pennsylvania military history collections span the French and Indian War through to World War II, with particular depth around the Civil War, in which Pennsylvania played a central role.

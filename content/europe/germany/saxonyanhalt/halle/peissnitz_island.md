@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 51.4929
 longitude: 11.9628
+score: 6.3
 ---
 
 A long, thin island in the Saale river just north of the old town, given over to parkland, sports fields, and an open-air swimming pool. It is the city's favourite warm-weather hangout: locals come with picnic blankets, students bring beer, and the miniature railway loops the perimeter.

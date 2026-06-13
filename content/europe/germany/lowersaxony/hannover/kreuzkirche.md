@@ -8,6 +8,7 @@ tags:
 latitude: 52.3734
 longitude: 9.7326
 snippet: Small late-Gothic church with an altar by Lucas Cranach the Elder
+score: 7.4
 ---
 
 A modest brick-Gothic church a block north of the Marktplatz, finished in the late 13th century and tucked between newer buildings. The big draw is the late-medieval altar attributed to Lucas Cranach the Elder's workshop in the Duve Chapel, one of the few major works of art in Hanover to survive the war intact.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4902
 longitude: -80.9902
+score: 5.5
 ---
 
 The civic square at the heart of downtown, ringed by the brutalist municipal complex that houses Sudbury's city hall. It is a busy public space in summer, with a farmers' market on Thursdays, lunchtime concerts, and food trucks lining Brady Street.

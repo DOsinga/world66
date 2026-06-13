@@ -6,6 +6,7 @@ longitude: 8.7583
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The curved harbour quay below the citadel is the heart of Calvi. Sailing yachts line up bow-on to the quay, restaurants spread tables across the pavement, and the evening passeggiata draws everyone who can walk.

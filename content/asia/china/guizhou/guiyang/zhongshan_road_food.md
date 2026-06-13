@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 26.5763
 longitude: 106.7115
+score: 7.6
 ---
 
 Zhongshan Road and the adjacent Qingyan Food Street area constitute the most concentrated street food district in Guiyang. After dark, the area transforms into a working Guizhou food market, with stalls selling the full range of the province's snack culture: rice noodles in spiced broth (changwang noodles, a Guiyang variant made with intestines and blood curd), "silk baby" rice-flour pancakes wrapped around pickled vegetables, barbecued skewers of quail eggs and tofu, and the sour plum drinks particular to this part of southwest China.

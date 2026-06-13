@@ -6,6 +6,7 @@ longitude: 2.345
 tags:
   - things_to_do
   - sport
+score: 5.9
 ---
 
 The Aude offers gentle kayaking through the city and out into the surrounding plain, with the walls of the Cité visible from the water for much of the trip. The river is calm in summer; spring meltwater from the Pyrenees makes it livelier in March and April.

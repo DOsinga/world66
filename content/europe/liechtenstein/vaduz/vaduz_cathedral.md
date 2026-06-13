@@ -8,6 +8,7 @@ tags:
 - church
 title: Vaduz Cathedral
 type: poi
+score: 6.2
 ---
 
 The Cathedral of St Florin on Städtle was built in 1873 in a sober neo-Gothic style, replacing an older parish church. It became a cathedral only in 1997, when Pope John Paul II elevated Liechtenstein out of the Diocese of Chur and created the Archdiocese of Vaduz — making it one of the very few cathedrals in Europe whose status post-dates the building of the European Union.

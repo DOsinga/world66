@@ -8,6 +8,7 @@ tags:
   - sight
   - mountain
   - hiking
+score: 8.5
 ---
 
 The Tour d'Aï (2,331 m) is the most striking summit on the ridge north of Leysin, a sheer limestone tower visible from across the Rhône valley. The walk up from La Berneuse via the Lac d'Aï is one of the best half-day mountain hikes in the area — about three hours each way, with one short scrambling section near the top.

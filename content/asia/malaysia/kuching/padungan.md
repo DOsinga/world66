@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 latitude: 1.5589
 longitude: 110.3468
 snippet: "Kuching's liveliest neighbourhood for food, coffee shops, and evening street eating"
+score: 7.5
 ---
 
 Padungan is the neighbourhood east of the city centre where Kuching's food culture is most concentrated. The streets here are lined with Chinese coffee shops, hawker stalls, and small restaurants that open from early morning for kopi-o (black coffee) and kolo mee through to late evening for supper. The area is almost entirely local in orientation — few tour groups make it this far from the waterfront.

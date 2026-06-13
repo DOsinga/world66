@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9159
 longitude: -6.3449
+score: 6.4
 ---
 
 The Plaza de España is Mérida's main civic square, an arcaded space lined with cafes and the seventeenth-century town hall, set just inside the old town between the cathedral and the Roman bridge. It is the obvious meeting point in the city, the place to start a morning with coffee and end an evening with a beer.

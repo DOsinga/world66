@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Bolivia's Supreme Court, in a grand 1920s neoclassical building
+score: 7.4
 ---
 
 The Palace of Justice is the seat of Bolivia's Supreme Court and the constitutional symbol of Sucre's status as the country's "judicial" capital — a status it clings to ever since La Paz took the executive and legislative branches after the civil war of 1899. The current building was completed in 1925 for the centenary of Bolivian independence and is a grandiose neoclassical pile, all white columns and pediments, set on a small plaza opposite Parque Bolívar.

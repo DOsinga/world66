@@ -14,6 +14,7 @@ story: >
   visit. The park's role shifted from royal garden to public promenade — a transition
   that says something about how the colonial administration understood its relationship
   to the Kandyan legacy.
+score: 6.2
 ---
 
 Wales Park — also known as the Royal Palace Park or Wace Park — sits on a small hill overlooking the lake from the south, offering one of the best viewpoints in central Kandy. The park is small and well maintained, with benches overlooking the water and good views across to the Temple of the Tooth. It is quiet during the week and popular with local families on weekends.

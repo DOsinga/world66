@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.0506
 longitude: 10.2332
+score: 6.4
 ---
 
 St. Johannis is the main Protestant church of Schweinfurt, a Gothic hall church built in the 14th and 15th centuries that survived the wartime bombing of the city. The interior is spacious and relatively plain — Reformation-period whitewashing removed most of the medieval decoration — but the proportions are good and the Gothic vaulting over the nave is well preserved.

@@ -11,6 +11,7 @@ address: "505 N Main St, Roswell, NM"
 phone: "+1 575-627-0776"
 latitude: 33.4016
 longitude: -104.5227
+score: 5.2
 ---
 
 The closest thing downtown Roswell has to a gastropub: a long bar with rotating local craft beers, burgers cooked properly, and an atmosphere that gets busy on weekend nights. The green chile cheeseburger is the standard order, with sweet potato fries.

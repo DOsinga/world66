@@ -15,6 +15,7 @@ story: >
   The fort was abandoned in 1891 and largely demolished — what stands now is a reconstruction.
 sources:
   - https://en.wikipedia.org/wiki/Fort_Abraham_Lincoln_State_Park
+score: 8.1
 ---
 
 Fort Abraham Lincoln State Park, about 8 km south of Bismarck on the west bank of the Missouri River, is where General George Custer was stationed from 1872 until his fateful departure for the Little Bighorn campaign in 1876. The fort has been partially reconstructed, including the Custer House (a large, handsome building that has been furnished as it appeared during the Custers' occupancy), the commissary, the granary, and several infantry blockhouses. Guided tours bring the history to life — the guides are well-informed and the Custer story is told with appropriate complexity.

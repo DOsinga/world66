@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Josh Emett's fine-dining restaurant in a converted courtyard
+score: 7.7
 ---
 
 The most ambitious restaurant in Queenstown, opened by Josh Emett (an alumnus of Gordon Ramsay's London kitchens). The cooking is contemporary New Zealand — short menu, strong producer credits, plates that look quiet but cook hard. Rabbit and lamb from local farms, fish from the southern coast, an excellent native-herb-forward vegetarian thread.

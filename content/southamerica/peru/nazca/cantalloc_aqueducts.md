@@ -14,6 +14,7 @@ story: >
   Americas.
 sources:
   - https://en.wikipedia.org/wiki/Cantalloc_Aqueducts
+score: 7.9
 ---
 
 A network of stone-lined underground channels and spiral-shaped access shafts built by the Nazca people to bring water from the Andes to their desert settlements. The aqueducts — known locally as puquios — are located about 3 km east of Nazca town and are still in use for irrigation. There are 36 puquios in the Nazca drainage system; the ones at Cantalloc are the most accessible.

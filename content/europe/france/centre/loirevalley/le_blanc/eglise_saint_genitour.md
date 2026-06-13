@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.633229
 longitude: 1.06323
+score: 6.3
 ---
 
 Saint-Génitour is Le Blanc's principal church, with origins in the 12th century — its Romanesque tower is visible from the surrounding countryside. Subsequent building campaigns in the 13th and 15th centuries added the nave and choir, creating the layered architectural character typical of French parish churches that have been in continuous use for eight centuries.

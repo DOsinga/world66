@@ -9,6 +9,7 @@ latitude: 56.0478
 longitude: 12.6892
 sources:
   - https://en.wikipedia.org/wiki/Dunker_Culture_House
+score: 8.1
 ---
 
 Dunkers Kulturhus is the cultural anchor of Helsingborg's waterfront — a long, low building of copper and glass designed by Kim Utzon (son of the Sydney Opera House architect Jørn Utzon) and opened in 2002. It houses the city museum, the city art gallery, and a concert venue under one roof, and its café terrace sits right on the harbour with an unobstructed view of Denmark.

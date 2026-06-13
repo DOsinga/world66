@@ -11,6 +11,7 @@ story: >
   house still stands, and the interpretive displays inside are an honest
   account of what isolation meant for the people who were sent here with no
   possibility of return.
+score: 8.9
 ---
 
 Curieuse Island lies just two kilometres off the north coast of Praslin, a 15-minute boat ride from the main jetty. It is a Seychelles national park and one of only two places in the world where the coco de mer grows wild (the other being Praslin's Vallée de Mai). The island is also home to a managed population of Aldabra giant tortoises — over 300 of them wander freely through the palm forest, and they are entirely unafraid of humans, which makes close encounters routine.

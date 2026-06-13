@@ -9,6 +9,7 @@ latitude: -2.5167
 longitude: -44.3
 story: >
   São Luís is the only Brazilian city founded by the French, in 1612 — a fact the city still wears with some pride. The Portuguese took it eight years later and turned it into one of the wealthiest ports in colonial Brazil, exporting cotton and sugar. The azulejo tiles that now define the skyline were added throughout the 18th and 19th centuries, partly as insulation against the tropical heat, partly as fashion imported from Portugal.
+score: 9.5
 ---
 
 The Historic Centre of São Luís is a UNESCO World Heritage Site and one of the best-preserved colonial urban landscapes in the Americas. Hundreds of townhouses line the steep cobbled streets of the old city, their facades covered in hand-painted ceramic tiles — *azulejos* — in blues, whites, and greens, depicting biblical scenes, landscapes, and geometric patterns. No two facades are quite alike.

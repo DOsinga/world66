@@ -6,6 +6,7 @@ tags:
 - books
 title: 23 Unforgettable Days in Bosnia and Herzegovina
 type: poi
+score: 7.4
 ---
 
 A collection of over 700 photographs taken on journeys through Bosnia and Herzegovina, portraying the natural beauty and versatile landscapes of the country. The photographs are grouped into 23 sections representing 23 days of travel, each with a map and suggestions for outings.

@@ -7,6 +7,7 @@ tags:
   - bar
 title: Elephant and Castle
 type: poi
+score: 3.3
 ---
 
 The Elephant and Castle sits in Bangeojin, close to the Hyundai Heavy Industries complex, and caters primarily to the British and European engineers who work at the shipyards. The pub formula is recognisable: draught beer, a dartboard, football on the screens, and a menu that attempts to cover the bases of British pub food with varying degrees of success.

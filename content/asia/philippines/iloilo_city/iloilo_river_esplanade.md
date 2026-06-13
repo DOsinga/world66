@@ -8,6 +8,7 @@ latitude: 10.7027
 longitude: 122.5604
 story: >
   The Iloilo River was one of the most polluted waterways in the Philippines as recently as the 1990s. An ambitious rehabilitation programme cleared the squatter settlements along its banks, cleaned the water, and built the esplanade, transforming an eyesore into an attraction. The project won international urban planning recognition and is now cited as a model for Philippine river rehabilitation.
+score: 6.9
 ---
 
 The Iloilo River Esplanade stretches for several kilometres along both banks of the Iloilo River, connecting the city centre to the Smallville Complex entertainment district to the west. Built over a decade of gradual expansion, it provides a walking and cycling path with benches, gardens, and public art installations that give the city its most pleasant outdoor space.

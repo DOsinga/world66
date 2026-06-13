@@ -15,6 +15,7 @@ story: >
   the language and culture, and also the primary agent of a colonial enterprise that would
   transform Greenlandic society irrevocably. The statue faces outward toward the fjord
   he arrived on in 1721, with his back to the city his mission created.
+score: 6.2
 ---
 
 The bronze statue of Hans Egede stands on the slope above the old colonial harbour, looking out over Nuuk Fjord. Egede — Norwegian Lutheran missionary, founder of the colonial settlement, and the figure most responsible for the Danish colonization of Greenland — arrived in 1721 and stayed for fifteen years. His statue is the most prominent landmark in the old quarter.

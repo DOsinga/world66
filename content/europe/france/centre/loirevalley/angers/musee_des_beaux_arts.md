@@ -8,6 +8,7 @@ longitude: -0.55472
 tags:
 - things_to_do
 - museum
+score: 7.5
 ---
 
 The Musée des Beaux-Arts occupies the Logis Barrault, a late 15th-century mansion near the cathedral that is itself worth seeing before you even look at the collections. The permanent holdings run from medieval religious art through the Italian Renaissance to 19th-century French painting, with a particularly strong representation of works from the Anjou region.

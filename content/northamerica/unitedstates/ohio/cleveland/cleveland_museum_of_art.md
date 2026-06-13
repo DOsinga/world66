@@ -16,6 +16,7 @@ tags:
   - museum
   - university_circle
 neighbourhood: University Circle
+score: 9.6
 ---
 
 The Cleveland Museum of Art is the city's signal cultural achievement and, by most measures, one of the five best comprehensive art museums in the United States. The collection of around 60,000 works covers six millennia — from Old Kingdom Egyptian sculpture and Asian bronzes to Caravaggio, Picasso, and Warhol — and the building itself, a 1916 neoclassical core enlarged by a luminous Rafael Viñoly atrium in 2012, is a pleasure to walk through.

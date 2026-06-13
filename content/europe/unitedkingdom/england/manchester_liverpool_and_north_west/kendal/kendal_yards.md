@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.3285
 longitude: -2.7465
+score: 8.2
 ---
 
 One of the characteristic features of Kendal's medieval town plan is its network of narrow yards — passages leading from the main street back to the buildings behind, each named after the family or trade that originally occupied it. Dozens of yards branch off Highgate and Stramongate, their names a partial roll call of the town's history: Elephant Yard, Websters Yard, Captain French Lane.

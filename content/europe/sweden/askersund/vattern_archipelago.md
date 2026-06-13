@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.3
 ---
 
 The northern end of Lake Vättern breaks into an archipelago of around fifty islands just off Askersund. Most are forested and uninhabited, making this one of the best inland kayaking destinations in Sweden. The water is extraordinarily clear — Vättern is oligotrophic, meaning very low in nutrients, which keeps the water transparent to depths of ten metres or more.

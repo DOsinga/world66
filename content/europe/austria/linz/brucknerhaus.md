@@ -8,6 +8,7 @@ address: "Untere Donaulände 7, 4020 Linz"
 latitude: 48.3103
 longitude: 14.2925
 snippet: "Modern concert hall named after the city's most famous composer"
+score: 6.7
 ---
 
 The Brucknerhaus is Linz's main concert and events venue, a modernist building on the north bank of the Danube opened in 1974 and named after Anton Bruckner. The acoustic in the main hall is considered among the best in Austria for orchestral music. The Bruckner Orchester Linz, the city's resident symphony orchestra, performs its main season here.

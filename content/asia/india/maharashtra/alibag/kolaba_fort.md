@@ -12,6 +12,7 @@ story: >
   When Kanhoji Angre made it his base of operations in the early 18th century, it became the nerve 
   centre of a naval empire that harassed British, Portuguese, and Dutch ships for decades. The British 
   called Angre a pirate; the Marathas called him their admiral.
+score: 8.2
 ---
 
 Alibag's most recognisable landmark sits on a low tidal island just off the main beach — at high tide it rises from the sea on its own, at low tide a strip of wet sand connects it to the shore. The fort was built by Shivaji in 1662 and later became the headquarters of Kanhoji Angre, the Maratha admiral who effectively controlled the Konkan coast for over thirty years.

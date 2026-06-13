@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Orta Jame Mosque
 type: poi
+score: 7.3
 ---
 
 The Orta Jame ("middle mosque") is the only working mosque in Batumi, a small brick-and-stone building built in 1866 in the old town. Adjara, the region Batumi sits in, was under Ottoman rule for nearly three centuries before being absorbed into the Russian Empire in 1878, and the population is still partly Muslim — though the mosque has been outgrowing its single small prayer hall for decades.

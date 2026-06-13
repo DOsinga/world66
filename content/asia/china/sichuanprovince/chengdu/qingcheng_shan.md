@@ -8,6 +8,7 @@ latitude: 30.9000
 longitude: 103.5700
 story: >
   Qingcheng Shan is one of the birthplaces of Taoism — Zhang Ling, who founded the religious Taoist movement in the 2nd century AD, established his first institution here and reportedly achieved immortality on the mountain. The mountain is covered in ancient Taoist temples and monastery complexes that have been continually inhabited and maintained for nearly 2,000 years. The inscription at the main gate reads: "There is only one Qingcheng Shan in the world" — a modest boast, by Chinese mountain marketing standards.
+score: 8.1
 ---
 
 Qingcheng Shan (Green City Mountain) is a sacred Taoist mountain 65 km northwest of Chengdu, a UNESCO World Heritage Site, and one of the most atmospheric mountain landscapes in Sichuan. The front mountain has well-maintained stone paths leading through forest to ancient Taoist temples, interspersed with teahouses serving rabbit meat and Sichuan snacks to hiking tourists.

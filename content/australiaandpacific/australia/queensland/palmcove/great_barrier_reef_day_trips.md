@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: -16.7472
 longitude: 145.6685
+score: 7.8
 ---
 
 Palm Cove is one of several northern beaches used as a departure point for reef day trips, with the added advantage of shorter road transfer times than central Cairns. Several operators run from Palm Cove directly, taking guests to the outer reef for snorkelling and diving. The crossing takes around 90 minutes each way; a full day trip typically gives you four to five hours on the reef.

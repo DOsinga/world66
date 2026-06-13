@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.8700
 longitude: 125.2900
+score: 6.6
 ---
 
 Zuojia Tun is Changchun's arts and culture district, a neighbourhood that has developed from old industrial and residential fabric into a concentration of galleries, studios, independent cafes, bookshops, and cultural businesses. The name comes from a historical village that occupied the area before the city expanded to absorb it.

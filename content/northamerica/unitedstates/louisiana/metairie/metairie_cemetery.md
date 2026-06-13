@@ -9,6 +9,7 @@ latitude: 29.9760
 longitude: -90.1070
 story: >
   Metairie Cemetery was built on the site of a racetrack — the Metairie Jockey Club — that refused to admit a wealthy cotton broker named Charles Howard. Howard, furious at the snub, bought the racetrack and converted it into a cemetery. The oval shape of the original track is still visible in the main road layout. Howard is buried here, having had the last word.
+score: 8.4
 ---
 
 Metairie Cemetery is one of the finest examples of above-ground burial architecture in the United States, and it draws visitors who are not ordinarily interested in cemeteries. The elaborate tombs, mausoleums, and family monuments along its curving lanes represent the full range of New Orleans funerary tradition, from elaborate Victorian marble to Egyptian Revival to the Society tombs that house the remains of Mardi Gras krewe members.

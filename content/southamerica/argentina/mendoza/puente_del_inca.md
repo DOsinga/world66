@@ -18,6 +18,7 @@ story: >
   once drew the wealthy of Buenos Aires.
 sources:
   - https://en.wikipedia.org/wiki/Puente_del_Inca
+score: 8.1
 ---
 
 Puente del Inca is a natural arch spanning the Las Cuevas River at 2,744 metres altitude in the high Andes, about 165 kilometres from Mendoza along the road to Chile. The arch is the product of mineral-rich hot springs that have encrusted glacial debris into a solid, brightly coloured structure — yellows, oranges, and reds from sulphur deposits contrasting with the grey rock walls of the valley. It is genuinely striking and worth the drive even on a day trip.

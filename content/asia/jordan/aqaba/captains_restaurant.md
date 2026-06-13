@@ -7,6 +7,7 @@ snippet: "Aqaba mainstay for grilled seafood and Jordanian mezze"
 tags:
 - eating_out
 - restaurant
+score: 5.9
 ---
 
 A two-floor Aqaba institution on Al-Nahda Street, Captain's has been a reliable choice for grilled fish, kebabs, and an enormous mezze spread for over two decades. The room is large and brisk, designed to feed full coach parties at high season as well as families on the weekend; the cooking is consistent rather than thrilling.

@@ -9,6 +9,7 @@ tags:
 - bar
 title: The Keg
 type: poi
+score: 5.6
 ---
 
 Lodge-style bar with fireplaces at the Banff Caribou Lodge and a second location at 117 Banff Avenue. Known for its warm, rustic atmosphere — good for a relaxed drink after dinner.

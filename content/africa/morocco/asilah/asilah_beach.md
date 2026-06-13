@@ -7,6 +7,7 @@ tags:
 latitude: 35.4552
 longitude: -6.0398
 snippet: A long Atlantic beach south of the medina, clean and uncrowded outside Moroccan summer holidays
+score: 6.7
 ---
 
 Asilah's beach stretches south from the medina walls along a long arc of Atlantic coast. It is a broad, clean beach with a strong Atlantic swell — better for walking and watching the waves than swimming for most of the year, though conditions are calmer in summer. The beach is backed by dunes and low scrub for much of its length, with the whitewashed ramparts of the medina visible to the north.

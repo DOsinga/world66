@@ -8,6 +8,7 @@ tags:
 latitude: 10.7717
 longitude: 106.7040
 snippet: "The city's working waterfront, with boat tours and views of the river traffic"
+score: 7.4
 ---
 
 The Saigon River waterfront along the eastern edge of District 1 has been transformed in recent years from a working port into a promenade, though container ships and cargo vessels still pass constantly, giving the waterfront a sense of real economic life rather than pure tourism. The riverside walk from the Bach Dang ferry terminal north toward the American consulate area is pleasant in the early morning.

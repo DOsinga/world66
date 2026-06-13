@@ -13,6 +13,7 @@ story: >
   complex already in partial decay, used its stones in local construction, and ignored what
   remained. Systematic excavation only began in the late 20th century, revealing layers of
   occupation spanning more than a thousand years.
+score: 7.7
 ---
 
 Wari Willka — also spelled Huariwillka or Huarivilca — is a pre-Inca archaeological site about 5 kilometres south of central Huancayo in the Huancán district. The complex was one of the major ceremonial sites of the Wari Empire, which dominated the Andes from around AD 600 to 1000, and was later incorporated into the Inca system as a huaca (sacred place).

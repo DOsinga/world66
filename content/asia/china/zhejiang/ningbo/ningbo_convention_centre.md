@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 29.8650
 longitude: 121.6080
+score: 6.3
 ---
 
 The Ningbo International Convention Centre, completed in 2014 and designed by Wang Shu (the same architect responsible for the History Museum and Art Museum conversion), continues the architect's exploration of traditional Chinese building techniques and recycled material in a large contemporary building. The centre's roof and facades incorporate locally fired tile and stone elements in patterns derived from traditional Zhejiang craft, set within a contemporary structural framework.

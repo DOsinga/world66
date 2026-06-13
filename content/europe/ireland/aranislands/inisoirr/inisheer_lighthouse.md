@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Black-and-white striped lighthouse on the southern tip of the island"
+score: 6.8
 ---
 
 The lighthouse on Fardurris Point at the southernmost tip of Inis Oirr was built in 1857 to mark the southern approach to Galway Bay, replacing an older light on the larger Inis Mór. Its distinctive black-and-white striped tower stands 34 metres high and is automated today, though a keeper's cottage and outbuildings remain.

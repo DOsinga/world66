@@ -6,6 +6,7 @@ longitude: 23.7256
 tags:
   - things_to_do
   - neighbourhood
+score: 6.7
 ---
 
 Psiri (or Psyri) is the formerly run-down warehouse district immediately north-west of Monastiraki, gentrified since the early 2000s into the city's most enjoyable area for eating, drinking, and wandering at night. The neighbourhood is a tight grid of narrow streets lined with small mezedopoleia, late-night bars, gallery-shops, and the occasional surviving traditional taverna of the kind that has been there for decades.

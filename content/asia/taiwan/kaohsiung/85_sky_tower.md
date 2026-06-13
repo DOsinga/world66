@@ -8,6 +8,7 @@ tags:
 latitude: 22.6116
 longitude: 120.3000
 snippet: Taiwan's tallest building outside Taipei, with an observatory on the 74th floor
+score: 6.8
 ---
 
 A 348-metre, 85-storey skyscraper completed in 1997 — until Taipei 101 opened in 2004, it was the tallest building in Taiwan. The two-leg shape is unusual: the building is split for the lower 35 floors and then merges into a single tower above. The form is meant to suggest the character for "high".

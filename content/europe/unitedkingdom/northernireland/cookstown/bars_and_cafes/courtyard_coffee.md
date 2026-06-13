@@ -7,6 +7,7 @@ tags:
 latitude: 54.6442
 longitude: -6.7410
 snippet: "Daytime coffee shop, a useful stop between site visits"
+score: 4.7
 ---
 
 Courtyard Coffee is a small daytime cafe in central Cookstown serving good coffee, teas, and light snacks. It fills a gap in the town's daytime offering — somewhere quiet to sit and recharge after a morning at Beaghmore or Ardboe before heading out again. The atmosphere is calm and the coffee is better than the average town-centre option. Closes in the early afternoon.

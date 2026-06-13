@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_centre
+score: 7.6
 ---
 
 The city pond — an artificial reservoir created in 1723 to power the iron foundries that gave Yekaterinburg its existence — is the centre's chief open space. A paved embankment runs around it, planted with limes and birches, and serves as the city's main promenade.

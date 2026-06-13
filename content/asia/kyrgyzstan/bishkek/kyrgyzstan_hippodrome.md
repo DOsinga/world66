@@ -8,6 +8,7 @@ tags:
 latitude: 42.8358
 longitude: 74.6086
 address: "Akhunbaeva Street, Bishkek"
+score: 7.2
 ---
 
 The city hippodrome on the southern fringe of Bishkek hosts horse races and demonstrations of traditional Kyrgyz horse sports — kok-boru (a rough team game played with a headless goat carcass), at-chabysh (long-distance racing), kyz-kuumai (a chasing-the-girl game on horseback), and tyiyn-enmei (picking up coins at a gallop).

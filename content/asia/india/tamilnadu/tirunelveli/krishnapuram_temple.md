@@ -10,6 +10,7 @@ latitude: 8.6890
 longitude: 77.8040
 snippet: 16th-century Vishnu temple famed for its life-size stone sculptures
 story: "The temple's mandapam was built around 1580 under the Madurai Nayak dynasty and contains some of the most accomplished free-standing stone sculpture of the period anywhere in Tamil Nadu — life-size figures of warriors, court ladies, mythological characters, and even a portrait of the donor Krishnappa Nayak himself, mounted on a rearing horse."
+score: 8.1
 ---
 
 Krishnapuram is a small village about 12 km southeast of Tirunelveli that holds one of the most artistically distinguished temple complexes in the southern Tamil country: the Venkatachalapathy Temple, built by the Madurai Nayaks in the late 16th century and dedicated to Vishnu. It is a working temple, but the main draw for visitors is sculptural.

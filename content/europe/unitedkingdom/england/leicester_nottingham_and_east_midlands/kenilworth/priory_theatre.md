@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, theatre]
 latitude: 52.34773
 longitude: -1.57821
+score: 5.7
 ---
 
 A small amateur theatre tucked into a converted building near Abbey Fields. The Priory Theatre Club has been staging plays since 1932, runs about ten productions a year, and has a loyal audience that fills its 130-odd seats reliably.

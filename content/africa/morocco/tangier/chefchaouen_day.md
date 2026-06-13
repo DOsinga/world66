@@ -7,6 +7,7 @@ tags:
 - sight
 title: Chefchaouen
 type: poi
+score: 9.2
 ---
 
 The blue-washed mountain town of Chefchaouen sits 2,000 metres up in the Rif, two hours south of Tangier by car or grand taxi. The blue paint covering most of the houses in the medina dates to the 1930s — variously credited to the Jewish refugees who arrived from Europe or to a local belief that blue keeps away mosquitoes — and the resulting effect has made the town one of the most photographed places in Morocco.

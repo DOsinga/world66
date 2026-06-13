@@ -11,6 +11,7 @@ tags:
 - bar
 title: Flann O'Brien's
 type: poi
+score: 4.4
 ---
 
 An Irish pub on Carrer de Casanova in the Eixample district. Serves draught Guinness and other imported beers alongside standard pub food. The TVs show Premier League and other European football matches. A straightforward spot for a pint when you want a break from cava and vermouth.

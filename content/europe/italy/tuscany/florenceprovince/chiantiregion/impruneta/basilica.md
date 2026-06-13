@@ -10,6 +10,7 @@ tags:
 - sight
 title: Basilica of Santa Maria dell'Impruneta
 type: poi
+score: 8.7
 ---
 
 The basilica dominates Piazza Buondelmonti and gives Impruneta its civic and religious centre. The current Romanesque-Gothic facade with its broad portico dates from the fifteenth century, but a church has stood on this spot since the eleventh. Inside, two small marble shrines by Michelozzo flank the high altar and frame the venerated icon of the Madonna dell'Impruneta — a Byzantine-style panel that medieval Florentines believed to be the work of Saint Luke and would parade through the streets of the city in moments of crisis.

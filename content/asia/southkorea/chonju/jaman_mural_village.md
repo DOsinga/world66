@@ -9,6 +9,7 @@ latitude: 35.8182
 longitude: 127.1462
 story: >
   The mural project began in 2004 as a community initiative to revitalise a slum neighbourhood that the city government was planning to demolish. Local artists transformed the derelict walls of the hillside with hundreds of paintings, and the publicity was enough to stop the demolition. The neighbourhood still exists today largely because of those murals.
+score: 6.0
 ---
 
 Jaman Mural Village sits on a hillside above the Hanok Village, a maze of narrow alleyways where every surface — walls, steps, water tanks, electrical boxes — is covered in paintings. Some are technically accomplished, others charmingly naive, but together they create an open-air gallery unlike anything else in Jeonju.

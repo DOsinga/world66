@@ -1,6 +1,7 @@
 ---
 title: Sights in Knock
 type: poi
+score: 5.5
 ---
 
 Sights in Knock around Ireland's National Marian Shrine.

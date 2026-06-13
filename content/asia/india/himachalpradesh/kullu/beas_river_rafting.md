@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 31.9000
 longitude: 77.1500
+score: 6.4
 ---
 
 The Beas above Kullu is one of the best-known rafting rivers in India. Most commercial trips start at Pirdi, about ten kilometres upstream, and finish at Jhiri — a 14-kilometre stretch of grade II and grade III rapids that takes roughly an hour and a half on the water.

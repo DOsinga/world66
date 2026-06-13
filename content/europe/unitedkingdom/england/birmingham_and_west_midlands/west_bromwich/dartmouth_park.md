@@ -9,6 +9,7 @@ latitude: 52.5206
 longitude: -1.9818
 sources:
   - https://en.wikipedia.org/wiki/Dartmouth_Park,_West_Bromwich
+score: 5.8
 ---
 
 Dartmouth Park is the main Victorian public park of West Bromwich, laid out in the late 19th century and named after the Earl of Dartmouth, whose family owned much of the surrounding land. The park retains its original layout with formal gardens, a bandstand, and mature trees, and it serves as the main green space for the town centre.

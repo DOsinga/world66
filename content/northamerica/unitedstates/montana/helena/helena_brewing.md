@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 46.5985
 longitude: -112.0276
+score: 6.1
 ---
 
 Lewis & Clark Brewing is Helena's most established craft brewery, occupying a large taproom in a former mechanics' building a few blocks east of Last Chance Gulch. The space is industrial in the right ways — high ceilings, exposed steel, enough room that it doesn't feel crowded even on a Friday night. The beer is reliably well-made, leaning toward accessible styles: pale ales, amber ales, wheat beers, with seasonal offerings that venture further. The flagship Miner's Gold pale ale is the thing to start with.

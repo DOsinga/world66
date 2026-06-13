@@ -8,6 +8,7 @@ tags:
 latitude: 51.3403
 longitude: 12.3747
 snippet: The world's largest Gothic festival, held in Leipzig every Whitsun weekend — 20,000 dark-clad visitors
+score: 7.5
 ---
 
 The Wave-Gotik-Treffen is the world's largest festival for Gothic, darkwave, and alternative dark culture, held every Whitsun weekend (late May or early June) in Leipzig. Around 20,000 visitors from across Europe and beyond descend on the city wearing everything from Victorian mourning dress to post-industrial armour, making Leipzig's streets one of the most spectacular free spectacles in Germany for those few days.

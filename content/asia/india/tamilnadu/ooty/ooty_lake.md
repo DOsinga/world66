@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.4000
 longitude: 76.6983
+score: 5.4
 ---
 
 Ooty Lake is an artificial reservoir created in 1824 by John Sullivan, the Collector of Coimbatore who effectively founded the hill station. The lake is pleasant enough on weekday mornings — pedal boats and rowing boats for hire, a promenade lined with eucalyptus trees, and views back up to the Dodda Betta ridge. On weekends and holidays it becomes extremely crowded, with a funfair atmosphere that bears no relation to the tranquil retreat the British imagined.

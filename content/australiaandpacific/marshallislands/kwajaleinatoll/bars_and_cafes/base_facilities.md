@@ -3,6 +3,7 @@ title: "US Army Recreation Club"
 type: poi
 latitude: 8.720
 longitude: 167.736
+score: 1.8
 ---
 
 The US Army garrison on Kwajalein Island maintains a recreation club — effectively a bar — available to base residents and their invited guests. It serves the social function that pubs and bars serve in civilian communities elsewhere, and is well-regarded by those who have access to it.

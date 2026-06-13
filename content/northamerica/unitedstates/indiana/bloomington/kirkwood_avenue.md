@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.1655
 longitude: -86.5280
+score: 8.3
 ---
 
 Kirkwood Avenue runs for about a mile from the courthouse square east to the Sample Gates of Indiana University, and it is the spine of Bloomington's public life. The street has the dense, walkable character that university towns either develop or never acquire: independent coffee shops, a vintage record store, a cooperative food market, several bookshops, and a variety of restaurants reflecting the international mix of the university community.

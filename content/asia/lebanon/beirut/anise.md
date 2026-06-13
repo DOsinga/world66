@@ -8,6 +8,7 @@ tags:
 neighbourhood: Mar Mikhael
 latitude: 33.8989
 longitude: 35.5208
+score: 7.8
 ---
 
 Anise is the cocktail bar that drove Beirut's craft drinks scene forward. The cocktails — built around arak, cardamom, sumac and other local flavours — are imaginative without being gimmicky, and the bartenders take the work seriously.

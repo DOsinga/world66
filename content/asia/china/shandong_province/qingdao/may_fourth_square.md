@@ -8,6 +8,7 @@ title: May Fourth Square
 type: poi
 story: >
   The square is named for the May Fourth Movement of 1919, triggered when student protesters in Beijing demonstrated against the Treaty of Versailles, which transferred Germany's Shandong concessions — including Qingdao — to Japan rather than returning them to China. The protests ignited a generation of nationalist and modernist activism.
+score: 6.3
 ---
 
 The main civic square on Qingdao's southern seafront, anchored by the striking red sculpture "May Wind" — a giant steel coil that has become the emblem of modern Qingdao. The square opens directly onto the bay, with views across to the cranes and container ships of the port.

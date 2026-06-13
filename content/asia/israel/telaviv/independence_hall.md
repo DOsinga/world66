@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, historic]
 latitude: 32.0648
 longitude: 34.7717
+score: 8.0
 ---
 
 Independence Hall — Beit Ha'atzma'ut — is the small museum at 16 Rothschild Boulevard where David Ben-Gurion declared the State of Israel on 14 May 1948. The building was originally the home of Meir Dizengoff, the first mayor of Tel Aviv, who left it to the city as an art museum.

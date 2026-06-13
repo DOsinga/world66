@@ -15,6 +15,7 @@ story: >
   a Bronze Age settlement, which sat on top of a Neolithic one.
 sources:
   - https://www.myswitzerland.com/en-us/destinations/chur/
+score: 8.8
 ---
 
 Chur's car-free old town is the heart of the city and one of the most satisfying medieval ensembles in eastern Switzerland. The pedestrianised lanes run between painted burgher houses, Renaissance fountains, and stone archways leading into quiet courtyards — all within an area small enough to cover entirely in an unhurried morning. The lack of cars makes the whole thing feel lived-in rather than preserved: the shops are real shops, the cafes are full of locals, and the sounds are conversation and church bells rather than engines.

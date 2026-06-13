@@ -9,6 +9,7 @@ tags:
   - history
 title: Surrender Field
 type: poi
+score: 8.1
 ---
 
 Surrender Field is the plain where British troops laid down their arms on 19 October 1781. It looks understated today, which is part of its power: a quiet stretch of grass marking the effective end of the Revolutionary War.

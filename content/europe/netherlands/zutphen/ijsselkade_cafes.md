@@ -6,6 +6,7 @@ longitude: 6.1938
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 Several cafés and bars along the IJsselkade waterfront open their terraces in warmer months, with views over the IJssel river and the flat landscape beyond. On a sunny afternoon this is the most pleasant place to have a drink in Zutphen — the wide sky, the river traffic, the old warehouses behind you.

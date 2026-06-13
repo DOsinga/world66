@@ -7,6 +7,7 @@ tags:
 latitude: 39.2071
 longitude: -106.9489
 snippet: Three-day outdoor music festival held over Labor Day weekend at Town Park
+score: 7.4
 ---
 
 Jazz Aspen Snowmass runs the bigger and louder of the village's two main music events: a three-day outdoor festival over Labor Day weekend (early September), held in Town Park with the ski slopes as a backdrop. Despite the "jazz" in the name, headliners run heavily to rock, pop, and country — past acts have included John Mayer, Stevie Wonder, Chris Stapleton, and Lenny Kravitz.

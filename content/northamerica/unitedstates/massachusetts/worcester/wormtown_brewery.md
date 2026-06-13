@@ -8,6 +8,7 @@ tags:
 title: Wormtown Brewery
 type: poi
 snippet: Worcester's flagship craft brewery, founded 2010 in a hot-dog stand
+score: 5.6
 ---
 
 Wormtown — slang for Worcester since the punk days of the late 1970s — is the city's flagship craft brewery, started in 2010 in the corner of a defunct Shrewsbury Street hot-dog stand and now operating out of a much bigger taproom and brewhouse a few blocks away. Their best-known beer, Be Hoppy IPA, is on tap across central Massachusetts.

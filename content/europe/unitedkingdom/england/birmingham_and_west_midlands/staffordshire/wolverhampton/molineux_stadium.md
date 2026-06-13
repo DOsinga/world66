@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Molineux_Stadium
   - https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.
+score: 7.0
 ---
 
 Molineux is one of England's historic football grounds and home to Wolverhampton Wanderers — Wolves — a club with deep roots in the city and a following that is passionate even by English football standards. The stadium sits just north of the city centre, its golden facade visible from a distance, and holds around 32,000 fans on matchday.

@@ -1,6 +1,7 @@
 ---
 title: "Beach Cafes"
 type: poi
+score: 5.4
 ---
 
 Jurmala's beach cafes are seasonal structures that appear each May and are dismantled before winter. They line the back of the dunes near Majori, offering cold beer, grilled sausages, ice cream, and coffee to a mix of sunbathers and families. The best of them have deck chairs and parasols on wooden platforms, and in fine weather the atmosphere is easy and informal — the Baltic version of a beach bar, without the pretension.

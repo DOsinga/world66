@@ -13,6 +13,7 @@ story: >
   Starlight Express opened in Bochum in 1988 in a custom-built arena fitted with banked curves and overhead tracks so the cast — playing trains — could skate around the audience at speed. It has run continuously ever since, making it the longest-running production in German theatre history.
 sources:
   - https://en.wikipedia.org/wiki/Starlight_Express_(musical)
+score: 8.2
 ---
 
 Starlight Express has been running in Bochum since 1988 in a purpose-built arena designed specifically for this production. The show is performed on roller skates, with tracks running through the auditorium so the cast passes close enough to touch. It is emphatically not high culture, but as spectacle it is genuinely impressive — the engineering of the space and the skating are both worth watching regardless of your feelings about Andrew Lloyd Webber.

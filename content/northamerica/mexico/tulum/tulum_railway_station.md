@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 4.8
 ---
 
 Opened in late 2023, the Tulum station is one of the larger stops on the Tren Maya, the new high-speed rail line crossing the Yucatán Peninsula. It sits five kilometres west of the Pueblo and is reached by a dedicated taxi shuttle. The line connects Cancún and the new Tulum airport with Mérida, Campeche, and ultimately Palenque, opening up a much faster way to travel the peninsula than the bus.

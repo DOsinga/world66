@@ -9,6 +9,7 @@ tags:
 - historic_site
 title: Bishop's House
 type: poi
+score: 8.0
 ---
 
 A beautifully preserved half-timbered house dating from around 1500, set in Meersbrook Park with views over the city. One of the oldest surviving buildings in Sheffield, it now serves as a museum of local life with period room displays covering the Tudor and Stuart eras.

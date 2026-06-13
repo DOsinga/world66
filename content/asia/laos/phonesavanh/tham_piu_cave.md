@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 6.8
 ---
 
 A grim cave site north of Phonsavan, on the road to Muang Kham. On 24 November 1968 an American T-28 fired a rocket directly into the mouth of Tham Piu, killing more than 350 villagers who had taken shelter inside. The cave was sealed off by the blast and was only excavated in the 1990s.

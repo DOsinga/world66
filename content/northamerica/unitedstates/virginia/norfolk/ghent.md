@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 snippet: "Norfolk's most walkable neighbourhood, with independent restaurants and the Chrysler Museum"
 latitude: 36.8614
 longitude: -76.3005
+score: 7.8
 ---
 
 Ghent is Norfolk's liveliest and most appealing neighbourhood — a late-19th-century residential area of brick rowhouses, tree-lined streets, and a commercial strip along Colley Avenue that has resisted the chain-restaurant gravity affecting most American mid-size cities. The Chrysler Museum anchors the neighbourhood's southern end, and from there you can walk north through independent restaurants, coffee shops, and small retailers.

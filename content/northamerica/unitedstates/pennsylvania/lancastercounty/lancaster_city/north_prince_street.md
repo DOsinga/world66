@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 40.0442
 longitude: -76.3092
+score: 6.7
 ---
 
 The blocks of North Prince Street, running north from the Fulton Theatre, are the centre of Lancaster's contemporary arts scene. Galleries, performance spaces, and design studios occupy a row of 19th-century commercial buildings. The Pennsylvania College of Art and Design anchors one end of the strip.

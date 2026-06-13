@@ -9,6 +9,7 @@ longitude: 75.8363
 address: Amer Road, Jaipur
 opening_hours: 8:00-18:00 daily
 snippet: Terraced garden with a Krishna temple, popular with pilgrims and picnicking families on the road to Amber
+score: 5.9
 ---
 
 Kanak Vrindavan is a terraced garden complex on the Amer Road, about halfway between central Jaipur and Amber Fort, built around a small Krishna temple in a gorge between two rocky ridges. The gardens were laid out in the 17th century and have a pleasant formal geometry — water channels, pavilions, and manicured lawns — set against the raw Aravalli hillside above.

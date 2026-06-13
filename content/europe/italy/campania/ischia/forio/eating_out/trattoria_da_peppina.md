@@ -7,6 +7,7 @@ snippet: "Family trattoria focused on island seafood and the classic coniglio al
 tags:
 - eating_out
 - restaurant
+score: 6.8
 ---
 
 A straightforward family trattoria in the centre of Forio, the kind of place that has been feeding locals and visiting Italians for decades without much changing. The menu follows the seasons and the fishing boats: fresh squid grilled or stuffed, linguine with clams, grilled fish bought that morning, and sea urchin when the season allows. The coniglio all'ischitana — the island's signature rabbit stew — is made here as it should be: slow, fragrant, and served in the terracotta pot it was cooked in.

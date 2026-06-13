@@ -14,6 +14,7 @@ story: >
   fortifications underneath during construction. The remains were incorporated
   into the museum below, making the building simultaneously an argument for
   radical innovation and a preservation project.
+score: 7.3
 ---
 
 The Dongdaemun Design Plaza (DDP) is a massive silver blob of a building by the late architect Zaha Hadid, completed in 2014 at a cost of over 400 billion won. The building functions as a design museum, exhibition hall, cultural facility, and public space, and its exterior — an irregular, curving surface of aluminum panels with no right angles — is one of the most distinctive architectural statements in East Asia.

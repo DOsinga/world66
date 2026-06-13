@@ -7,6 +7,7 @@ tags:
 latitude: 51.1175
 longitude: 17.0355
 address: "Wyspa Słodowa, Wrocław"
+score: 6.8
 ---
 
 A small island in the Odra, north of the old town between the Cathedral Island and the university. Wyspa Słodowa has become the informal social ground of Wrocław's student population — in warm months it fills with picnickers, buskers, and groups drinking cheap beer on the grass, sometimes thousands at a weekend.

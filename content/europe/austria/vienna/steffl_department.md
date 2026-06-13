@@ -11,6 +11,7 @@ tags:
 title: Steffl Department Store Vienna
 type: poi
 url: www.steffl-vienna.at
+score: 4.3
 ---
 
 The Steffl Department Store Vienna is centrally located on Vienna's oldest shopping street Kärntner Straße in the 1st district, right around the corner from the famous St. Stephen's Cathedral.

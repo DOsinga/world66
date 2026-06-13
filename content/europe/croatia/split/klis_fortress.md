@@ -13,6 +13,7 @@ story: >
   was killed in a counterattack trying to retake it. He had held it for years against
   repeated Ottoman assaults. The Venetians took it back in 1648, finally ending Ottoman
   control of this critical pass above Split.
+score: 8.0
 ---
 
 Klis Fortress perches on a narrow rock ridge above the gorge where the main road and railway climb north from the Split plain toward the interior of Croatia. The site is dramatic: the fortress straddles the ridge at 360 metres, with sheer drops on three sides and a view that takes in Split, the islands, the sea, and the mountains behind. It was an obvious strategic position and has been fortified since at least the 2nd century BC.

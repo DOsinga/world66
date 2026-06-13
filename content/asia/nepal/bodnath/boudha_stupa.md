@@ -12,6 +12,7 @@ story: >
   numeral for "one," representing the unity of all existence. The stupa has been rebuilt and enlarged
   so many times over the centuries that its precise origin is disputed, but the oldest layers date to
   at least the 14th century, and some scholars believe the founding goes back much further.
+score: 9.6
 ---
 
 The Boudha Stupa is one of the largest stupas in the world and the spiritual heart of the Tibetan Buddhist community in Nepal. The white hemisphere, perhaps 40 metres in diameter, is topped with a gilded spire bearing the watchful eyes of the Buddha. Around the base, 147 niches hold statues and prayer wheels — to complete the kora (circumambulation) you spin each wheel as you pass, an act of merit that takes 15 or 20 minutes at a slow walk.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.7780
 longitude: -92.0990
+score: 6.2
 ---
 
 Bellisio's, in Canal Park, is one of the best-regarded Italian restaurants in Duluth, with a menu of Italian-American dishes that goes beyond the standard red-sauce canon. The pasta is made in-house, the wines are well-chosen, and the room — wood-panelled with a warm, slightly clubby feel — suits the northern-lake-city atmosphere well.

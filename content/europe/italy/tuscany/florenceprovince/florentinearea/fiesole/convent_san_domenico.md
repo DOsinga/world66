@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.801111
 longitude: 11.285833
+score: 7.5
 ---
 
 The Convent of San Domenico sits halfway down the hill between Fiesole and Florence, about a kilometre below Piazza Mino on the road toward the city. The Dominican community was established here in 1406, and the young Guido di Pietro — later known as Fra Angelico — entered the order here around 1420 and spent years at San Domenico before moving to the convent of San Marco in Florence. The connection is the main reason to come.

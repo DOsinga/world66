@@ -9,6 +9,7 @@ latitude: 9.9700
 longitude: 122.8500
 story: >
   The name Mag-aso comes from the Hiligaynon word for "smoky" or "foggy" — a reference to the mist that rises from the falls when the water volume is high after heavy rain. The surrounding forest is part of the larger watershed that feeds the cane-growing lowlands and is home to several endemic bird species found only on Negros Island.
+score: 7.8
 ---
 
 A multi-tiered waterfall in the mountains east of Kabankalan, reached by a jeepney or habal-habal motorcycle from the city followed by a short hike through secondary forest. The falls drop through a series of cascades into a swimming hole cold enough to be genuinely refreshing. The surrounding area is forested and relatively undisturbed.

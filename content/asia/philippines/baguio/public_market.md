@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Baguio Public Market
 type: poi
+score: 8.7
 ---
 
 The sprawling public market at the top end of Magsaysay Avenue is the social heart of Baguio's everyday life — covered halls filled with mountain produce that simply does not exist on the lowlands. Strawberries (in season from November to May), avocados, mountain rice, chayote, Cordilleran beans, mountain coffee from Sagada and Benguet.

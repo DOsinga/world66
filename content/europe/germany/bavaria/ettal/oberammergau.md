@@ -10,6 +10,7 @@ story: >
   In 1633, the villagers of Oberammergau vowed to perform the Passion of Christ every ten years if God would spare them from the plague that was sweeping Bavaria. The plague stopped at the village border. They have kept the vow ever since — the Passion Play has run every decade since 1634, interrupted only by the Second World War. The entire village takes part: the 2,000 performers are all residents of Oberammergau.
 sources:
   - https://en.wikipedia.org/wiki/Oberammergau
+score: 7.2
 ---
 
 Oberammergau is a village 4 km north of Ettal, famous worldwide for its Passion Play — performed every ten years by the entire village community — and more quietly for its tradition of wood carving that fills the shops and the workshops behind them. Every surface that can be painted has been: the decorated house facades (Lüftlmalerei) are some of the finest examples of the painted alpine tradition.

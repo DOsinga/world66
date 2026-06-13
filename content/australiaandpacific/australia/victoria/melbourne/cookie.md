@@ -9,6 +9,7 @@ tags:
 address: 252 Swanston Street, Level 1
 latitude: -37.8141
 longitude: 144.9655
+score: 7.7
 ---
 
 Cookie occupies the first floor of Curtin House on Swanston Street and combines a Thai restaurant with a bar that is genuinely among the better places to drink in the CBD. The bar section is long and narrow with banquette seating, good natural light in the daytime, and a craft beer selection that has been carefully chosen from Australian and international brewers. In the evening it gets louder and the crowd thickens.

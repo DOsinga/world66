@@ -17,6 +17,7 @@ story: >
   metres thick.
 sources:
   - https://en.wikipedia.org/wiki/Crotone
+score: 7.8
 ---
 
 The Castello di Carlo V stands on a rocky promontory above the old port, visible from the sea long before you arrive in Crotone. It is a classic example of Spanish military architecture of the sixteenth century — solid, angular, and built for function rather than display. The castle was constructed after a devastating Ottoman raid and effectively anchored the city's defences for the next two centuries.

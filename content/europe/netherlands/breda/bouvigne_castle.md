@@ -9,6 +9,7 @@ story: >
   produced William of Orange, founder of the Dutch Republic. The estate passed through
   several centuries of aristocratic ownership before the province acquired it in the
   20th century to preserve it as a monument.
+score: 6.7
 ---
 
 Bouvigne Castle stands at the southern edge of the Mastbos forest, a few kilometres from the Breda city centre in what was once the village of Ginneken. The current building dates largely from the 16th and 17th centuries — a square water castle with corner towers, surrounded by a moat and a formal garden.

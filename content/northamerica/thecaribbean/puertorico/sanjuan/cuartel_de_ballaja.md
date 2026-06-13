@@ -9,6 +9,7 @@ tags:
   - architecture
   - old_san_juan
 neighbourhood: Old San Juan
+score: 8.1
 ---
 
 The Cuartel de Ballajá is the largest building in Old San Juan — a vast three-storey neoclassical military barracks finished in 1864 to house Spanish troops. The block surrounds a central parade ground; long arcaded galleries run around all four sides of the interior courtyard at two levels.

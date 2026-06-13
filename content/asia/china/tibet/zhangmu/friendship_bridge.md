@@ -11,6 +11,7 @@ story: >
   The bridge was completed in 1966, shortly after China completed the road connecting Lhasa to the Nepal border — one of the most technically challenging road-building projects of the 20th century. 
   Before the road, the only connection between Tibet and Nepal was a seasonal high-altitude mule track that closed in winter. 
   The route remained closed for years after the 2015 earthquake and has only partially recovered.
+score: 6.8
 ---
 
 The Sino-Nepal Friendship Bridge spans the Sun Kosi (Bhotekoshi) River at the bottom of the gorge, connecting the Chinese side at Zhangmu with the Nepali village of Kodari. The bridge itself is functional rather than spectacular, but its setting — at the bottom of a steep gorge with the switchback road of Zhangmu visible above and Nepal's forested hills beginning immediately on the far side — makes it one of the more memorable border crossings in Asia.

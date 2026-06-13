@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: 13.3753
 longitude: -61.1436
+score: 7.6
 ---
 
 Owia Salt Pond, on the wild north coast near the village of Owia, is a natural rock-walled pool fed by the Atlantic — a place where you can swim in clear seawater while the open ocean smashes against the reef wall a few metres away. The pond is enclosed by a curved volcanic rock formation that breaks the swell, leaving a calm, deep pool behind it.

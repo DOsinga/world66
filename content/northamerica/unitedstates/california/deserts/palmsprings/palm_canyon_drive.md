@@ -7,6 +7,7 @@ tags:
 latitude: 33.8230
 longitude: -116.5465
 snippet: The main commercial street of downtown Palm Springs — walkable, gay-friendly, mid-century modern
+score: 6.8
 ---
 
 Palm Canyon Drive runs through the heart of downtown Palm Springs and concentrates the city's restaurant, bar, gallery, and boutique life into a stretch that is genuinely pleasant to walk. The street has the texture of a mid-century resort town that never entirely lost its groove: low-slung buildings with clean lines, palm trees, and a relaxed pace that resists the urgency of most California cities.

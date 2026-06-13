@@ -11,6 +11,7 @@ story: >
   Friedensreich Hundertwasser designed the Waldspirale on the condition that no two windows would be alike and that every resident would be able to reach out from their window and paint the exterior wall around their home in any colour they chose. The result is a building that could not be mistaken for anything else in Germany.
 sources:
   - https://en.wikipedia.org/wiki/Waldspirale
+score: 7.6
 ---
 
 The Waldspirale — "forest spiral" — is a residential building complex in the Kranichstein district of northern Darmstadt, completed in 2000. Designed by the Austrian artist Friedensreich Hundertwasser, it curls around an internal courtyard in a horseshoe shape, its roofline planted with trees and grass, its facade a riot of uneven windows, ceramic tiles, and bright colour.

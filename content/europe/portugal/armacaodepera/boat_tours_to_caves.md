@@ -6,6 +6,7 @@ longitude: -8.3608
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 Half a dozen operators run boat trips from the Armacao seafront eastward along the cliffs to Benagil and back. A typical "Cave Cruise" lasts an hour and a half and threads in and out of a dozen sea caves, including the famous skylight cave at Benagil and several arches and grottos the larger boats cannot enter.

@@ -12,6 +12,7 @@ story: >
   Laurier, never saw it open. He died on the Titanic on 15 April 1912 — the
   hotel opened less than five weeks later. The grand opening had to proceed
   without its creator, and the irony became part of the building's mythology.
+score: 7.8
 ---
 
 The Château Laurier is the most recognisable building in Ottawa — a massive château-style hotel of copper-roofed turrets and limestone walls that sits beside the Rideau Canal locks and faces the back of Parliament Hill. Completed in 1912 and named for Prime Minister Wilfrid Laurier, it was built by the Grand Trunk Railway and was from its opening one of the finest hotels in Canada. It remains a hotel today, operated by Fairmont.

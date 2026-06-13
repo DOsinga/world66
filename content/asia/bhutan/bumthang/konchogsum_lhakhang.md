@@ -8,6 +8,7 @@ latitude: 27.5853
 longitude: 90.7392
 sources:
   - https://en.wikipedia.org/wiki/K%C3%B6nchogsum_Lhakhang
+score: 9.1
 ---
 
 Könchogsum Lhakhang, also known as Tsilung, is a small Buddhist monastery on the northern side of the Chokhor Valley, founded by the Tibetan prince Tsangma in the 9th century. It is one of the oldest religious buildings in Bhutan and holds significant historical importance as a link between the early spread of Buddhism in Tibet and its establishment in Bhutan.

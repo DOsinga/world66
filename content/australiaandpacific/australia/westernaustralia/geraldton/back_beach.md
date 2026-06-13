@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: -28.7942
 longitude: 114.6112
+score: 7.2
 ---
 
 Back Beach (also known as Mahomets Beach) is Geraldton's primary windsurfing and kiteboarding beach, and the reason wind-sport enthusiasts make special trips to this city. The afternoon sea breeze hits the beach from around midday and builds through the afternoon to 25 or 30 knots with reliable consistency — conditions that have attracted world-class riders and produced Australian and world champions. There are equipment hire and lesson services at the beach for visitors who want to learn or who didn't bring their own kit.

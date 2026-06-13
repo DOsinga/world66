@@ -11,6 +11,7 @@ story: >
   Joseph Alois Ratzinger was born in this house on Holy Saturday, 16 April 1927 — a date his mother considered a sign. He was baptised with freshly blessed Easter water in the church next door, just hours after his birth. Seventy-eight years later, he became the first German pope since the 11th century.
 sources:
   - https://en.wikipedia.org/wiki/Marktl
+score: 7.2
 ---
 
 The yellow house at Marktplatz 11 is where Joseph Ratzinger — later Pope Benedict XVI — was born on 16 April 1927. Since his election as pope in 2005 it has operated as a museum and pilgrimage space. The permanent exhibition traces his life from the village of Marktl through his years as a theologian and cardinal to his papacy and his historic resignation in 2013, the first papal resignation in six centuries.

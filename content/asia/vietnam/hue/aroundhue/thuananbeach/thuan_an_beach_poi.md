@@ -7,6 +7,7 @@ tags:
   - sight
 title: Thuan An Beach
 type: poi
+score: 6.2
 ---
 
 The beach at Thuan An stretches for several kilometres where the Huong River flows into the sea at the mouth of the Tam Giang Lagoon. The sand is wide, the water warm, and the setting — with fishing boats moored at the river mouth and a line of casuarina trees along the shore — is genuinely attractive.

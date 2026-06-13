@@ -14,6 +14,7 @@ story: >
   emperor's apartments were later converted back into worship halls but retain
   the imperial yellow-tile roofs — the only buildings on Wutaishan permitted to
   use the colour reserved for the Forbidden City.
+score: 8.1
 ---
 
 Pusading is reached by climbing 108 stone steps from the centre of Taihuai. At the top sits one of the most striking monastic compounds on Mt. Wutai — a Tibetan-Buddhist monastery built in the Qing dynasty by the Mongol and Manchu emperors who patronised the mountain. The architecture follows the Han Chinese palace idiom with Tibetan-Buddhist religious content; the result is a uniquely hybrid building, with carved white marble panels, yellow imperial-tile roofs, and red columns more familiar from the Forbidden City than from a Buddhist temple.

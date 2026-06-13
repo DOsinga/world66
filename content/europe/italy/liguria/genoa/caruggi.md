@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 type: poi
 snippet: The medieval labyrinth at the heart of Genoa — Europe's largest old city centre
+score: 9.4
 ---
 
 The *caruggi* — Genoese for "lanes" — are the defining experience of the old city. These medieval passages, some barely a metre wide, run between buildings that rise five and six storeys in near-darkness. They are genuinely disorienting; the logic of the grid you came from dissolves within seconds. Give up on navigation, follow the sound of voices, and trust that the city will eventually reveal itself.

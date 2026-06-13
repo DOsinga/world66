@@ -5,6 +5,7 @@ latitude: 33.870
 longitude: 7.880
 snippet: "Tiered oasis garden of deglet noor date palms — the basis of Nefta's economy"
 tags: [things_to_do, sight, nature]
+score: 7.6
 ---
 
 The palmery is the working garden that surrounds and fills the Corbeille — hundreds of thousands of date palms underplanted with figs, pomegranates, olives, and vegetables in the characteristic three-tier oasis cultivation. The deglet noor date variety — "finger of light" in Arabic — is the prized export, harvested in October and November.

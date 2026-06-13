@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.2956
 longitude: 69.2697
+score: 6.1
 ---
 
 A long-running Uzbek restaurant that aims a notch above the standard chaikhana — embroidered cushions, traditional tableware, and a fully realised menu of national dishes. The lagman noodle soup, the manti dumplings, and the chuchvara (Uzbek wonton soup) are all worth ordering.

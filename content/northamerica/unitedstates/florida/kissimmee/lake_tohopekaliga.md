@@ -12,6 +12,7 @@ story: >
   "fort site" or "we will camp together here" — a reminder that this lake was a
   meeting ground for the Seminole people long before Central Florida became
   synonymous with theme parks.
+score: 7.6
 ---
 
 Lake Tohopekaliga — "Lake Toho" to locals — is one of the largest lakes in Florida and one of the best bass fishing destinations in the southeastern United States. The lake covers roughly 18,000 acres on the western edge of Kissimmee and is a legitimate natural draw rather than a consolation prize for those who can't afford Disney.

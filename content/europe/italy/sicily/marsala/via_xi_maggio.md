@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Pedestrian spine of the old town, named for Garibaldi's landing date"
+score: 7.4
 ---
 
 Via XI Maggio is the long pedestrian street that bisects the old town from Porta Nuova to Piazza della Repubblica. It is named for the date of Garibaldi's landing in 1860 and is lined with baroque palazzi, small chapels, and the slowest, busiest passeggiata in Marsala.

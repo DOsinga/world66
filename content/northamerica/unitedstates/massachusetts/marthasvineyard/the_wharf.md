@@ -12,6 +12,7 @@ tags:
 - cafe
 title: The Wharf
 type: poi
+score: 5.3
 ---
 
 A big, boisterous pub and restaurant on Lower Main Street in Edgartown. The Wharf draws a younger crowd than nearby David Ryan's and gets loud during the summer months -- expect packed tables, strong drinks, and a social scene that spills onto the street on warm evenings. Karaoke nights on Sundays are a local tradition. The food is standard pub fare, but you're really here for the atmosphere.

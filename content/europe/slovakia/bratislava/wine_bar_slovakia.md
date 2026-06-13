@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, wine_bar, stare_mesto]
 latitude: 48.1435
 longitude: 17.1075
+score: 6.5
 ---
 
 Bratislava has a growing number of wine bars specialising in Slovak and Moravian wines. The country's wine regions — the Small Carpathians, Tokaj, and the Southern Slovak lowlands — produce wines that are genuinely underexplored outside Central Europe, particularly the local versions of Welschriesling, Müller-Thurgau, and the red Frankovka Modrá.

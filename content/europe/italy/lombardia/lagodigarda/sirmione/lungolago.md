@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4934
 longitude: 10.6075
+score: 7.2
 ---
 
 The lakeside promenade in the old town runs along the eastern shore of the peninsula, giving views across the water toward the far shore. It's the standard Sirmione evening walk — olive trees, a low stone wall, families, and the odd boat puttering past.

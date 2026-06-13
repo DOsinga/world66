@@ -7,6 +7,7 @@ tags:
 - museum
 title: Charlotte Berlin Museum
 type: poi
+score: 8.5
 ---
 
 The Charlotte Berlin Museum (Charlotte Berlins museum) is the perfectly preserved home of Charlotte Berlin, an upper-middle-class Ystad woman who died in 1916 and left her house, furniture, china, art, and entire fortune to the city on condition that the home be kept exactly as she left it. The result is one of the most intact bourgeois interiors in Sweden, frozen at the turn of the 20th century.

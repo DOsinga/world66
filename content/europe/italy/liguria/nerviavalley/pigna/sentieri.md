@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 43.9333
 longitude: 7.6667
+score: 8.1
 ---
 
 The hills around Pigna are among the best walking terrain in western Liguria. The Alta Via dei Monti Liguri — the long-distance ridge trail that runs the length of the Ligurian Alps — passes above the village, and several day walks connect from here to Monte Toraggio (1,972 m) and the ridges forming the French border. The views from the upper trails, looking south to the Mediterranean and north to the Alps, are outstanding.

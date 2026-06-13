@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Despite sitting beside one of India's most polluted rivers, the sanctuary supports over 300 bird species, including rare Sarus cranes and the endangered black-bellied tern. It is one of the few green spaces in the Delhi NCR where wildlife actively returns despite the city's relentless encroachment."
+score: 8.1
 ---
 
 The Okhla Bird Sanctuary sits on the Yamuna floodplain at the Okhla barrage, the natural boundary between Delhi and Noida. Some 4 square kilometres of wetland, reedbeds and shallow lake attract migratory birds from Central Asia and Siberia in winter — flamingos, painted storks, northern pintails and a long list of waders. Resident species include the spot-billed pelican and several kingfishers.

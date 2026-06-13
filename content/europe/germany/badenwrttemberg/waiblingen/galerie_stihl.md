@@ -6,6 +6,7 @@ tags: [things_to_do, museum, art_gallery]
 latitude: 48.8344
 longitude: 9.3173
 story: "The gallery is one of Andreas Stihl's contributions to his home town. It specialises in works on paper — etchings, drawings, prints — because that is what fits with the simple, light-filled architecture of the building and was an underrepresented field in regional Baden-Württemberg museums."
+score: 7.3
 ---
 
 The Galerie Stihl, opened in 2008, sits in a long, low contemporary building on the bank of the Rems, just outside the old town. The gallery is endowed by Stihl, the chainsaw manufacturer headquartered nearby, and specialises in works on paper — drawings, etchings, prints, photographs.

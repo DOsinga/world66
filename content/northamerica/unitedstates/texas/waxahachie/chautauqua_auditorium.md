@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Chautauqua_Auditorium_(Waxahachie,_Texas)
+score: 7.5
 ---
 
 Tucked into Getzendaner Memorial Park on the west side of town, the Chautauqua Auditorium is one of the few surviving open-air pavilions from the Chautauqua movement, the late-Victorian craze for travelling lecture circuits that brought speakers, musicians, and preachers to small American towns. Built in 1902, it is an octagonal wooden building with a steeply pitched roof, designed to seat about 2,500 people on simple benches.

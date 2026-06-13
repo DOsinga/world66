@@ -9,6 +9,7 @@ tags:
 latitude: 45.6377
 longitude: 13.0584
 story: "Bibione was the first beach in Italy to ban smoking on the sand, in 2017, after years of complaints about cigarette butts. The rule spread rapidly along the Adriatic and is now standard on most Italian beach concessions."
+score: 8.4
 ---
 
 The main reason to come to Bibione: an eight-kilometre stretch of broad, soft sand that drops away gently into the Adriatic — shallow enough to wade out a hundred metres before the water reaches your waist, which makes it ideal for small children. Most of the sand is divided into private *stabilimenti* with rented umbrellas and loungers; a free public stretch at each end is where the locals prefer to swim.

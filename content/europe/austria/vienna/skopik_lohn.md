@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - leopoldstadt
+score: 7.4
 ---
 
 A serious neighbourhood restaurant in Leopoldstadt that does inventive contemporary Austrian cooking in a fin-de-siècle dining room covered floor to ceiling with a black-and-white scribble mural by the artist Otto Zitko. The menu changes seasonally — expect game in autumn, river fish in spring, the inevitable Tafelspitz year-round — and the wine list focuses on Austria's small natural producers.

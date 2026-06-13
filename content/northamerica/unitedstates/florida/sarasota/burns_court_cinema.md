@@ -7,6 +7,7 @@ tags:
   - sight
 title: Burns Court Cinema
 type: poi
+score: 6.5
 ---
 
 Burns Court Cinema is a small art-house theatre in one of Sarasota's nicest historic blocks — a 1920s Mediterranean Revival building in the Burns Court neighbourhood, a few blocks from downtown. It runs independent films, foreign films, and retrospectives rather than Hollywood blockbusters, and it has a loyal local following.

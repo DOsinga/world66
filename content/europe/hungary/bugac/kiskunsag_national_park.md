@@ -7,6 +7,7 @@ tags:
 latitude: 46.6833
 longitude: 19.6500
 snippet: Puszta grassland and sand dunes with rare birds and salt lakes
+score: 8.1
 ---
 
 The land around Bugac is part of Kiskunság National Park, a patchwork of alkaline grasslands, juniper-dotted sand dunes, salt lakes, and ancient floodplain forests stretching across the central section of the Great Hungarian Plain. It is one of Hungary's most important habitats for steppe-adapted wildlife: great bustard, short-toed eagle, rollers, bee-eaters, and in the salt lake areas, avocets and black-winged stilts breed in significant numbers.

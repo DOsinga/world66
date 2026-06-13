@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 29.8700
 longitude: 121.5390
+score: 7.4
 ---
 
 The Ningbo branch of the Zhejiang Provincial Museum houses a substantial collection of artefacts relating to the maritime history of the Ningbo region, with particular strength in Song and Ming dynasty ceramics, bronze ritual vessels from the Shang and Zhou periods excavated in Zhejiang, and an exceptional collection of Song-dynasty paper currency — the first paper money in world history, developed in China during the Song dynasty and found in abundance in the archival collections of Ningbo's old commercial families.

@@ -6,6 +6,7 @@ longitude: 13.7164
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Rieseneishöhle, or Giant Ice Cave, lies high in the Dachstein massif above the village of Obertraun on the east side of the lake. A cable car climbs in two stages to 1,350 metres, where a 15-minute walk leads to the cave entrance. Inside, walkways and stairs wind past frozen waterfalls and great curved sheets of ice, lit by coloured spotlights and accompanied by classical music — a deliberately theatrical effect that somehow doesn't quite spoil the geology.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -28.2418
 longitude: -48.6643
 snippet: "Watch southern right whales calve from shore between May and November"
+score: 8.8
 ---
 
 The waters around Imbituba are one of the most important calving grounds for southern right whales in the entire South Atlantic. Between May and November, the whales migrate north from Antarctic feeding grounds to give birth and nurse their calves in the sheltered bays along this stretch of coast. The peak is July and August, when it is not unusual to see multiple whales from a single headland in a single morning. What makes Imbituba unusual among whale-watching destinations is that you don't need a boat — the whales come close enough to shore that watching from the rocks is often as good as any boat trip.

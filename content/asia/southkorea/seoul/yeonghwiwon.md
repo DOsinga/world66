@@ -9,6 +9,7 @@ tags:
 - sight
 title: Yeonghwiwon
 type: poi
+score: 6.4
 ---
 
 A small, wooded royal tomb site tucked into the hillside near Changgyeonggung Palace. Yeonghwiwon holds the tomb of Lady Sunheon (Sunsheon-gwibi), a concubine of King Gojong, and alongside it sits Sunginwon, the tomb of their son Crown Prince Uimin (Yi Un), the last crown prince of the Joseon dynasty.

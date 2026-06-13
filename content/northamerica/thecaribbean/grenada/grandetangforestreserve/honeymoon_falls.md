@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 12.0967
 longitude: -61.6822
+score: 7.6
 ---
 
 Honeymoon Falls is the smaller, quieter sibling of the Seven Sisters — a single high cascade dropping about 25 metres into a small pool, reached by a 45-minute walk through the forest off the central road. The path crosses streams, climbs a low ridge and descends steeply into a side valley dense with ferns and bamboo.

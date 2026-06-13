@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.5
 ---
 
 Fatima Jinnah Park — also called F-9 Park, after the sector that surrounds it — is the largest urban park in Islamabad, covering about 750 acres of lawns, ornamental gardens, a fountain plaza, an open-air theatre and dozens of kilometres of walking paths. The footprint is the same as that of Hyde Park in London, which is a useful comparison.

@@ -14,6 +14,7 @@ story: >
   the Tibesti in Chad. The drive between Agadez and Bilma crosses the
   worst of it, with no fixed track for long stretches and no water for
   hundreds of kilometres in any direction.
+score: 8.4
 ---
 
 The dunes start a few kilometres west of town and continue, without interruption, for the next 400 kilometres. From the edge of the oasis the view is almost cartoonish — a clean line where the green of the palms meets a sea of red-gold sand, with no transition and no horizon line beyond.

@@ -9,6 +9,7 @@ longitude: 104.9903
 sources:
   - https://asiamystika.com/blog/things-to-do-in-hoa-binh
   - https://www.originvietnam.com/destinations/hoa-binh/
+score: 8.8
 ---
 
 Mai Chau is the most celebrated destination in Hoa Binh province — a wide, flat-bottomed valley about 60 km southwest of the city, surrounded by dramatic limestone ridges and filled with White Thai villages, terraced rice paddies, and water buffalo. It draws a steady stream of visitors from Hanoi, many of them on overnight packages, and it has become polished enough that the nightly dance performances and batik textiles for sale are transparently tourist-oriented. None of that makes the valley less beautiful.

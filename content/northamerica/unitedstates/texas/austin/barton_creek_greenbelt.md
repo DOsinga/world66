@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.2432
 longitude: -97.7932
+score: 8.4
 ---
 
 The Barton Creek Greenbelt is a 12-mile wilderness corridor in the heart of Austin — a limestone canyon carved by Barton Creek as it descends from the Hill Country to Barton Springs Pool. The greenbelt has more than 800 acres of public land with hiking trails, rock climbing routes, swimming holes, and mountain bike paths, all within a few miles of downtown.

@@ -10,6 +10,7 @@ latitude: 12.0500
 longitude: 120.0500
 snippet: Around a dozen Japanese supply ships sunk in 1944, now dive sites
 story: "On 24 September 1944, US Navy Task Force 38 launched the longest-range carrier air strike of the Pacific War — 340 nautical miles — to attack a fleet of Japanese supply ships that had taken refuge in the protected waters around Coron. Twenty-four aircraft sank or damaged around a dozen vessels in a single day. The wrecks lie at depths between 10 and 40 metres and are among the most famous shallow-wreck dives in the world."
+score: 9.5
 ---
 
 Coron is one of the great wreck-diving destinations of Asia. The ships — auxiliary supply vessels, tankers, freighters, a seaplane tender — lie scattered across the bay between Coron and Busuanga, most of them in 10 to 40 metres of water and accessible to recreational divers. Visibility is variable but the marine life is extraordinary: schools of batfish, lionfish, scorpionfish, nudibranchs everywhere, and reef life now covering virtually every steel surface.

@@ -8,6 +8,7 @@ latitude: 41.6380
 longitude: 22.4600
 sources:
   - https://en.wikipedia.org/wiki/Radovi%C5%A1
+score: 6.5
 ---
 
 On a low ridge above the old part of town, the remains of a medieval fortress survive in fragmentary but evocative form. The walls and towers are largely collapsed, reduced to foundation courses and scattered stonework, but the hilltop position makes the site worth visiting for the views over the valley and the sense of the town's long history.

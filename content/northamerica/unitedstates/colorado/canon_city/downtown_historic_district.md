@@ -8,6 +8,7 @@ tags:
 - sight
 - historic
 - neighbourhood
+score: 7.4
 ---
 
 The Cañon City Downtown Historic District covers about a dozen blocks along Main Street with brick commercial buildings dating from the 1880s through the 1930s. The town boomed early — it was a coal and silver supply centre and the gateway to the Royal Gorge — and the buildings reflect that prosperity in pressed-brick storefronts, cast-iron columns, and elaborate cornices.

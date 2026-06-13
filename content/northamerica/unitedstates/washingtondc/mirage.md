@@ -9,6 +9,7 @@ longitude: -77.0014
 address: "900 1st Street SE"
 phone: "(202) 488-4462"
 neighbourhood: Capitol Hill
+score: 5.2
 ---
 
 Mirage is a nightclub on the edge of Capitol Hill, catering to a mixed crowd for dancing and late-night drinking. It is one of the more straightforward clubs in a city where the nightlife can feel driven by political networking rather than actual fun. Cover charges vary by night and act; check current programming before going.

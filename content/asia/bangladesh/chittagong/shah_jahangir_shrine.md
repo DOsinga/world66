@@ -7,6 +7,7 @@ tags:
 latitude: 22.3540
 longitude: 91.8324
 snippet: Hilltop Sufi shrine of the saint who is said to have brought Islam to Chittagong
+score: 5.4
 ---
 
 A small Sufi shrine on top of a hill in Andarkilla, dedicated to Shah Jahangir, a 14th-century saint who is traditionally credited with bringing Islam to Chittagong. The shrine itself is a simple whitewashed enclosure with the saint's tomb covered in green cloth and oil lamps.

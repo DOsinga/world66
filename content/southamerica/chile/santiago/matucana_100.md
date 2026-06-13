@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4453
 longitude: -70.68
+score: 7.0
 ---
 
 Matucana 100 is an independent cultural centre in a converted industrial building near Quinta Normal, running theatre performances, contemporary dance, music, and visual art exhibitions. It is one of the most artistically serious venues in the city — the kind of place that hosts experimental theatre from South America and Europe alongside Chilean work — and its programming is reliably interesting.

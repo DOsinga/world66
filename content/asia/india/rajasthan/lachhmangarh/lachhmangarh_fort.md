@@ -7,6 +7,7 @@ tags:
 latitude: 27.828
 longitude: 75.023
 snippet: Private hilltop fort with good views from the temple approach ramp
+score: 6.5
 ---
 
 The fort at Lachhmangarh sits on a rocky hill above the town, built by the town's founder Rao Raja Laxman Singh of Sikar in 1862. It is privately owned and closed to visitors, so you cannot enter the main fort complex. However, the paved ramp that winds up the hillside to a small temple near the fort entrance is accessible, and the views from this point over the town, the surrounding desert, and the scattered havelis below are excellent.

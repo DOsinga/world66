@@ -13,6 +13,7 @@ story: >
   gradient of 9.3% from the Cortina side. Cyclists from all over Europe come specifically to
   ride it. The summit is exactly the kind of place where you arrive exhausted and immediately
   understand why they bothered.
+score: 8.4
 ---
 
 At 2,236 metres, Passo Giau is one of the great viewpoints of the Dolomites. The pass connects Cortina d'Ampezzo with the Colle Santa Lucia, and a simple walk from the summit ridge (no technical difficulty) gives a 360-degree panorama that takes in the Marmolada, the Pelmo, the Civetta, the Tofane above Cortina, and the Cinque Torri to the north. On a clear day the whole arc of the central and western Dolomites is visible.

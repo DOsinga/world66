@@ -9,6 +9,7 @@ latitude: 37.5148
 longitude: 105.1910
 story: >
   Film director Quentin Tarantino used the exterior of the Gaomiao Temple as the setting for Pai Mei's mountain compound in Kill Bill Vol. 2 (2004). The multi-storey tiered towers and dramatic rooflines suited the film's exaggerated vision of a Chinese martial arts hermitage. Zhongwei residents are quietly proud of this distinction, though it rarely features in the official tourist material.
+score: 8.5
 ---
 
 The Gaomiao Temple — Gaomiao Si — is the most striking building in Zhongwei's town centre: a multi-storey complex of interlocking pavilions, towers, and covered walkways that compresses Buddhist, Taoist, and Confucian iconography into a single densely layered structure. The temple dates originally from the Ming dynasty but has been rebuilt and extended numerous times; the current complex is a 20th-century version of the original, restored after damage during the Cultural Revolution.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 36.4480
 longitude: 74.9006
+score: 8.1
 ---
 
 From the edge of the village, looking east across the Hunza River, the serrated ridge known as the Passu Cones rises in a row of sharp, near-symmetrical limestone spires. The formation is one of the most photographed mountain skylines in Pakistan and appears on the country's 50-rupee note.

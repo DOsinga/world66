@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -10.9700
 longitude: 33.5900
+score: 8.0
 ---
 
 Vwaza holds one of the most relaxed elephant populations in Malawi — several hundred animals that drift between the woodland and the marshes through the year. They come down to Lake Kazuni in family groups throughout the day, often passing within metres of the camp.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1247
 longitude: -9.6700
+score: 7.9
 ---
 
 The best way to explore Inis Mór is by bicycle. The island is nine miles long with a single main road running west from Kilronan along the north shore, supplemented by a network of narrow lanes and tracks across the limestone interior. Bikes are available for hire from multiple shops at Kilronan pier — you'll see them immediately when you get off the ferry.

@@ -8,6 +8,7 @@ tags:
   - medina
   - market
 neighbourhood: Medina
+score: 6.8
 ---
 
 Makroud — semolina pastry stuffed with date paste, deep-fried, and dipped in honey — is Kairouan's most famous contribution to Tunisian cuisine, and the city takes it seriously. The medina has a concentration of pastry shops and stalls specialising in it, most concentrated near the main entrance to the medina and along the main souk street.

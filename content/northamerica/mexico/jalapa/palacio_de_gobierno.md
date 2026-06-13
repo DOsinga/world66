@@ -8,6 +8,7 @@ tags:
 latitude: 19.5275
 longitude: -96.9245
 snippet: "Seat of the Veracruz state government with a famous Mario Orozco Rivera mural inside"
+score: 7.4
 ---
 
 The Palacio de Gobierno occupies the long block on the south-east side of [Parque Juárez](/northamerica/mexico/jalapa/parque_juarez), a sober nineteenth-century neoclassical block in pale stone. It is the seat of the Veracruz state government and you can usually walk into the central courtyard during business hours.

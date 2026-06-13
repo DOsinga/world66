@@ -13,6 +13,7 @@ story: >
   is that the building dates from the 12th century — making it the oldest
   structure in Salers by several hundred years, and one of the very few
   surviving Romanesque domestic buildings in the Auvergne.
+score: 6.8
 ---
 
 The oldest secular building in Salers, the Maison Ronade is a squat Romanesque structure that predates the rest of the village by three or four centuries. The thick walls, narrow windows, and rounded arch of the doorway give it a fortress-like character that stands apart from the more elaborate Renaissance mansions surrounding it.

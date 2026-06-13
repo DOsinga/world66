@@ -17,6 +17,7 @@ story: >
   adopted the site in the early 12th century and rebuilt it on a monumental
   scale, but Wat Phu was already ancient by then, with foundations going
   back to the 5th or 6th century.
+score: 9.2
 ---
 
 Wat Phu is a ruined Khmer Hindu temple complex at the base of Phu Kao mountain in Champasak province, about 45 kilometres south of Pakse. The oldest structures date from the 6th century, predating Angkor Wat by several hundred years. The site climbs a forested hillside in three terraced levels, with carved lintels, galleries, and a sanctuary at the top where a holy spring emerges from the rock.

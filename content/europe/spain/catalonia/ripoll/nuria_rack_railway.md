@@ -8,6 +8,7 @@ latitude: 42.2167
 longitude: 2.1667
 story: >
   The Vall de Núria has no road access — the rack railway is the only way in other than hiking. This has preserved the valley from development: the sanctuary, the refugi, and the surrounding peaks are essentially unchanged from a century ago. On summer weekends the train fills with pilgrims, walkers, and skiers; in the off-season you may have the valley to yourself.
+score: 8.2
 ---
 
 From Ribes de Freser, a short drive or bus ride from Ripoll, a rack-and-pinion mountain railway climbs nearly 1,000 metres through increasingly dramatic gorge scenery to the Sanctuary of Núria, a pilgrimage site at 1,967 metres surrounded by high peaks on three sides. The journey takes about 45 minutes each way and is the only access to the valley apart from a long mountain hike.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 32.3013
 longitude: -90.1707
+score: 5.7
 ---
 
 Mississippi's first legal distillery since Prohibition, founded in 2010 and named for the slang term for the bottleneck slide guitarists once used. Cathead occupies a warehouse on the eastern edge of downtown and makes vodka, gin, and bourbon — the vodka is the original and probably still the best.

@@ -16,6 +16,7 @@ story: >
   longer in active use but is preserved as part of the station's heritage.
 sources:
   - https://en.wikipedia.org/wiki/Hua_Hin_railway_station
+score: 7.8
 ---
 
 Hua Hin Railway Station is one of the most beautiful small railway stations in Southeast Asia. Built in the 1920s in a Thai-influenced wooden style, with a pointed roof pavilion in royal yellow and green, it has been meticulously maintained and is a delight to visit even if you are not travelling by rail.

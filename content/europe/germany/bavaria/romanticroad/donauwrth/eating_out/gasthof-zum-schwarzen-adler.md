@@ -1,6 +1,7 @@
 ---
 title: "Gasthof Zum Schwarzen Adler"
 type: poi
+score: 5.9
 ---
 
 The Black Eagle is one of the older Gasthöfe on the Reichsstraße and the kind of place where the menu does not need to try anything clever: Schweinsbraten with Semmelknödel, Tafelspitz, Forelle from the local rivers when it is available. The dining room is low-ceilinged and wood-panelled, the beer is local and well kept, and the kitchen is run by people who have been cooking these dishes for a long time.

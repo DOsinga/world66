@@ -13,6 +13,7 @@ story: >
   Edson Cemetery, about a mile from the park. The grave became a place of pilgrimage for
   Beat Generation fans, and according to local legend Bob Dylan has visited multiple times —
   though the story of Dylan eating dinner at the graveside is probably apocryphal.
+score: 6.3
 ---
 
 Jack Kerouac Park is a small street-corner memorial in downtown Lowell, dedicated to the city's most famous literary son. The centrepiece is eight large granite columns inscribed with passages from Kerouac's novels — including "On the Road," "The Dharma Bums," and "Doctor Sax," the autobiographical novel set in Lowell itself. The columns surround a bronze bust of Kerouac and a few benches where people sit to read the inscriptions.

@@ -6,6 +6,7 @@ tags:
 - market
 title: Central Bazaar
 type: poi
+score: 8.1
 ---
 
 The Central Bazaar is the most alive place in Karagandy — a large covered market where the city's ethnic mix is most visible and the commerce most honest. Stalls sell dried apricots and raisins alongside slabs of horse meat and smoked fish; Chinese-made clothes hang next to hand-stitched Kazakh items; the smell shifts from spices to meat to pickled vegetables as you move through the halls. It is the kind of market that reminds you that Central Asia sits at the junction of a lot of different worlds.

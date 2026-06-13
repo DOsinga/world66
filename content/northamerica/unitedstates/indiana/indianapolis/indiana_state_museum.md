@@ -6,6 +6,7 @@ longitude: -86.1697
 tags:
   - things_to_do
   - museum
+score: 7.7
 ---
 
 The state museum at the western end of White River State Park covers the natural, cultural, and scientific history of Indiana. The galleries cycle from the Ice Age and mastodons through the indigenous Mississippian mound cultures, French exploration, statehood, and into the 20th-century industrial era — including the inevitable Indy 500 and basketball wings.

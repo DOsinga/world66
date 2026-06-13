@@ -1,6 +1,7 @@
 ---
 title: "Williston Brewing Company"
 type: poi
+score: 5.8
 ---
 
 The Williston Brewing Company is the best-regarded sit-down restaurant in town and the place where locals take visitors they want to impress. The brewery side of the operation produces a solid range of craft beers — the pale ale and the seasonal stouts are the most reliable choices — and the food menu is considerably more ambitious than the setting might suggest. Burgers are excellent, the prime rib on Friday evenings draws a loyal crowd, and the kitchen does a creditable job with walleye when it is on the menu.

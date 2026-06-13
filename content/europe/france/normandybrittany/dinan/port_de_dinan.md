@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 48.4488
 longitude: -2.0413
+score: 7.4
 ---
 
 At the bottom of Rue du Jerzual and Rue Petit Fort, the old port sits on a bend of the Rance River beneath a 19th-century viaduct. The contrast with the hilltop town above is striking: down here it is quieter, flatter, and distinctly maritime. Stone warehouses from the medieval trading era line the quay, most now converted into restaurants.

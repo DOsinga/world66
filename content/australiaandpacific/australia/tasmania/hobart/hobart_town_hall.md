@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 snippet: "1866 Italianate town hall in pale sandstone — the grandest civic building in central Hobart"
+score: 6.7
 ---
 
 A confident piece of Italianate civic architecture from 1866, the Town Hall sits in the heart of the CBD on the corner of Macquarie and Elizabeth streets. The pale sandstone facade, the tall arched windows, and the central pediment are finer than the building's modest function would suggest. The upstairs **Ballroom** — wood-floored, chandeliered, with an excellent acoustic — has hosted Hobart's grand civic functions since the 1860s and is still in regular use for concerts and weddings.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5900
 longitude: 116.9800
+score: 7.5
 ---
 
 Qufu's Ming Dynasty city walls survive largely intact — a roughly square perimeter about 1.5 kilometres on a side, with four gates and the most complete circuit of medieval Chinese city walls in Shandong. The walls are 8–10 metres high and were built in 1522 specifically to enclose and protect the Kong family estates; the city exists, in a sense, to be a container for the Confucian heritage.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.0978
 longitude: 4.7627
+score: 6.3
 ---
 
 Texel lamb is one of the genuinely regional foods of the Netherlands — animals raised on the salt marshes and polders of the island, where the grass has a briny character that flavours the meat from within. It's a Protected Designation of Origin product, meaning only lambs born and raised on Texel qualify. Several restaurants in De Koog serve it, often simply — roasted with mustard and herbs, or as a rack with local vegetables.

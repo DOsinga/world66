@@ -9,6 +9,7 @@ latitude: 31.3300
 longitude: 118.3300
 story: >
   Wuhu was opened as a treaty port in 1877, and St. Joseph Cathedral was built shortly afterward by French missionaries to serve the foreign community and new converts. The building survived the upheavals of the 20th century remarkably intact, making it a rare example of late-19th century Catholic missionary architecture in inland China. The diocese it serves — the Diocese of Wuhu — was established in 1929 and remains active.
+score: 7.0
 ---
 
 St. Joseph Cathedral is a late-19th century Catholic church built during the treaty port era, when Wuhu was opened to foreign residence and commerce. The building follows a simplified Gothic Revival style common in missionary construction of the period — pointed arches, a western facade tower, and a nave that is modest by European standards but was ambitious for its context. The exterior brickwork and the proportions of the tower are the most architecturally notable elements.

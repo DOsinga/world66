@@ -10,6 +10,7 @@ title: Jan Hus Memorial
 type: poi
 story: >
   Hus was burned at the Council of Constance on 6 July 1415 — a date still commemorated as a Czech public holiday. His death triggered the Hussite Wars, in which Czech armies repeatedly defeated crusading forces sent by the Pope and Holy Roman Emperor. The monument was unveiled on 6 July 1915, five hundred years after his execution.
+score: 6.4
 ---
 
 The Jan Hus Memorial stands in the centre of Old Town Square, unveiled on the 500th anniversary of the reformer's execution in 1915. Ladislav Šaloun's sculpture shows Hus surrounded by Hussite warriors and Protestant exiles, the inscription reading: "Truth prevails."

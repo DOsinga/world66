@@ -9,6 +9,7 @@ tags:
 snippet: "Traditional Lobi fortified soukala compounds in villages around Gaoua"
 story: >
   Lobi compound walls are pierced with deliberately small, low doorways — historically defensive, designed to make any intruder bow down on entering. The walls themselves are massive, sometimes a metre thick, and incorporate ritual carvings of ancestors and protective figures (thil).
+score: 8.7
 ---
 
 The villages around Gaoua are where you see Lobi traditional life as it has been lived for centuries. The Lobi build fortified earthen compounds — soukala — that look like miniature castles, with thick mud walls, a single low entrance, ladders made from notched tree trunks, and flat clay roofs used for sleeping in hot weather. Each compound houses an extended family of dozens of people, with separate granaries, kitchens, ancestor shrines, and chicken yards inside the walls.

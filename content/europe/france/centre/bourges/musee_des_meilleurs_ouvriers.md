@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.0816
 longitude: 2.4007
+score: 7.5
 ---
 
 A very particular museum, unique in France: it holds the masterpieces created by craftspeople awarded the title Meilleur Ouvrier de France, a national distinction handed out since 1924 to recognise top-tier artisans. The exhibits range from staggeringly intricate marquetry and silverwork to wedding cakes, glasswork and saddles — objects made by butchers, pastry chefs, jewellers, stonemasons and many more.

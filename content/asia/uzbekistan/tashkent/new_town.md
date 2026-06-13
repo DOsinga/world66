@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 41.3114
 longitude: 69.2790
+score: 7.6
 ---
 
 The new town is what the Soviet rebuilders made of Tashkent after the 1966 earthquake — wide tree-lined boulevards, huge public squares, fountains, and an array of monumental buildings in late-Soviet and Stalinist styles. It runs roughly from Amir Timur Square to Independence Square and on to the river.

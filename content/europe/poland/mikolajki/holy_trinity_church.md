@@ -8,6 +8,7 @@ tags:
 latitude: 53.7988
 longitude: 21.5768
 snippet: Lutheran church at the centre of the old Masurian town
+score: 6.3
 ---
 
 The Lutheran Church of the Holy Trinity is the oldest surviving building in Mikołajki and the architectural centrepiece of the small historic quarter. The present structure dates from the 18th century, built on foundations that reflect the town's Protestant heritage as part of the historically German-speaking Masurian region. The simple whitewashed exterior is typical of Masurian Lutheran churches; the interior is modest but well-maintained.

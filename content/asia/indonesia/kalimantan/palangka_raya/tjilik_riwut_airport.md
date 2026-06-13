@@ -7,6 +7,7 @@ tags:
 - airport
 title: Tjilik Riwut Airport
 type: poi
+score: 2.5
 ---
 
 Tjilik Riwut Airport (PKY) is the main air gateway to Central Kalimantan, named after a Dayak Ngaju general who served in the Indonesian independence war. Multiple daily flights connect to Jakarta, Surabaya, Balikpapan, and Banjarmasin.

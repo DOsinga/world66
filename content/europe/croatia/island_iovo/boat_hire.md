@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4948
 longitude: 16.2655
+score: 8.0
 ---
 
 Hiring a small motorboat for the day is one of the best things you can do on Čiovo. No licence is required for boats under a certain engine size (typically up to 5hp, though this can change — check locally), and the coast of the island is dotted with coves that are either hard to reach on foot or completely inaccessible by road.

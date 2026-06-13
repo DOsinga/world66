@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 7.4
 ---
 
 Dhabaleswar is a small island in the Mahanadi about twenty kilometres west of Cuttack, with a Shiva temple set on a low rocky hillock above the river. The temple itself is not old in its present form, but the sculpted stone panels embedded in the walls of the complex have been dated to the 10th and 11th centuries and tell a longer story than the building does.

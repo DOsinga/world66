@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -13.7100
 longitude: -76.2025
+score: 5.4
 ---
 
 Pisco's Plaza de Armas was almost completely destroyed by the 2007 earthquake and has since been rebuilt. The reconstruction is clean and functional rather than atmospheric — the old colonial grandeur is gone — but the square is still the social heart of the city, busy in the evenings with families, vendors, and young people sitting on the benches beneath the shade trees.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - medieval_quarter
+score: 8.0
 ---
 
 The 15th-century townhouse takes its name from the carved Franciscan cord that runs around the doorway. It is one of the few late-medieval domestic buildings to survive intact in the old town, with a vaulted entrance hall, a central courtyard, and a star-vaulted tower room where the city's noble Iruña family hosted Ferdinand the Catholic and other Castilian kings.

@@ -14,6 +14,7 @@ story: >
   clockface was added in the 19th century. When a 1976 earthquake damaged the
   arch, the restoration was meticulous enough that visitors today can't tell
   where the earthquake damage was repaired.
+score: 7.8
 ---
 
 The Arco de Santa Catalina, an arch spanning 5a Avenida Norte, is the most-photographed structure in Antigua — the classic composition sets it against the backdrop of Volcán de Agua, the perfect cone framed in the arch. The arch itself dates from the 17th century and was built to connect the Convent of Santa Catalina with the temple across the street, allowing the cloistered nuns to pass without exposing themselves to the street.

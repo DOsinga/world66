@@ -15,6 +15,7 @@ story: >
   in debt before Anne could enjoy it. She outlived him by only five years.
   The house passed through many hands, becoming a dance hall and a cinema before
   the York Civic Trust rescued it in 1980.
+score: 8.5
 ---
 
 Fairfax House at 27 Castlegate is widely regarded as the finest Georgian townhouse in England. It was designed by John Carr of York in 1762 for Charles Gregory Viscount Fairfax, and the quality of the interior craftsmanship — particularly the plasterwork ceilings and the ironwork of the staircase — is exceptional even by the standards of an age when decorative interiors were taken seriously. The rooms have been restored to their mid-18th-century appearance and furnished with the Noel Terry collection of Georgian furniture and clocks, assembled over a lifetime by the York chocolate manufacturer.

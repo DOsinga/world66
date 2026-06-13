@@ -6,6 +6,7 @@ longitude: 74.9333
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Katra is the base town at 875 metres where every yatra begins. It exists almost entirely to support the shrine: hundreds of guesthouses and pilgrim hostels, restaurants serving simple north Indian vegetarian food (no meat, eggs, or alcohol within the entire shrine board area), trekking-pole and raincoat sellers lined along the main road.

@@ -10,6 +10,7 @@ tags:
 - medina
 title: Moroccan Lamps
 type: poi
+score: 6.8
 ---
 
 The pierced-metal lanterns and coloured-glass lamps are among the most tempting things to buy in Marrakesh. You will find them everywhere in the souks, but for better prices head deeper in — from the Jemaa el-Fna, walk toward the Ben Youssef Medersa and turn left into the metalworkers' quarter. Here the lamps are actually made, and buying from the workshops cuts out the middleman.

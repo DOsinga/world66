@@ -6,6 +6,7 @@ longitude: 49.8358
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 Azim Azimzade was the country's first major satirical illustrator, working in the early twentieth century for the Tbilisi-Baku magazine Molla Nasreddin — a radical, anti-clerical, anti-feudal weekly that was hugely influential across Turkic-speaking Central Asia and the Middle East. The small museum in his former apartment near Fountain Square preserves his studio and a couple of hundred of his drawings.

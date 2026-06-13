@@ -7,6 +7,7 @@ snippet: "Long, shallow sandy beach on Pärnu Bay"
 tags:
 - things_to_do
 - beach
+score: 7.1
 ---
 
 Kabli Beach runs for several kilometres along the eastern shore of Pärnu Bay — wide, sandy, and very shallow. The bay is calm and protected; the water warms enough by mid-July for comfortable swimming, and you can wade out 100 metres and still be only chest-deep. The beach itself is mostly undeveloped: pine forest behind, dunes, and a handful of small wooden cabins set back from the sand.

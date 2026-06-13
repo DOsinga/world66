@@ -10,6 +10,7 @@ latitude: 43.6072
 longitude: -116.2185
 story: >
   The Greenbelt came about because of a 1960s proposal to put a freeway along the river corridor. Local residents organized against it, and in 1969 the city adopted a plan to keep the entire Boise River frontage as public green space. The result is 25 miles of continuous paved path — no roads, no private development — that crosses the river 17 times and passes through 850 acres of parks and riparian habitat.
+score: 8.0
 ---
 
 The Boise River Greenbelt is 25 miles of continuous paved path running along the Boise River through the heart of the city. It passes through parks, under bridges, past osprey nests and great blue heron rookeries, and connects a dozen different neighborhoods without crossing a single arterial road. Walking, running, and cycling are all popular; in summer, floating the river in inner tubes is a Boise rite of passage.

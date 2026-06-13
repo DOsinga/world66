@@ -9,6 +9,7 @@ tags:
   - historic_house
   - garden
 snippet: 'Joséphine''s private botanical retreat where she grew rare plants from around the world.'
+score: 6.9
 ---
 
 Tucked away on the edge of the Malmaison estate, this small pavilion was Joséphine's personal hothouse and botanical retreat. She used it to cultivate exotic plants brought back from French expeditions — many of them new to European horticulture. The heated greenhouse (one of the first of its kind in France) allowed her to grow tropical species year-round.

@@ -7,6 +7,7 @@ tags:
 latitude: 6.3355
 longitude: 5.6182
 snippet: Expansive urban park with gardens and recreational areas in central Benin City
+score: 4.8
 ---
 
 Ramat Park is the city's main green space — a large park near the city center with gardens, walking paths, and recreational facilities. It serves as a lung for the densely built city and a gathering place for families on weekends and evenings. The park has a small zoo, a lake, and various amusement facilities that make it popular with children.

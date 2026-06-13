@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.0
 ---
 
 Sajos opened in 2012 as the administrative and cultural seat of the Finnish Sámi — the building houses the Finnish Sámi Parliament, the Sámi Education Institute, the Sámi Library, and event spaces used for performances, exhibitions, and craft demonstrations. The architecture is one of the most striking modern buildings anywhere in Finnish Lapland: a sweeping low-slung structure in heavy timber, with a curved auditorium that echoes a Sámi *lavvu* tent and panoramic windows facing the Juutuanjoki river.

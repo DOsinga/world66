@@ -10,6 +10,7 @@ story: >
   At its peak before the Second World War, Smolensk had a Jewish population of around 10,000 — a significant community in a city that was already a major economic centre for the western Russian provinces. The German occupation in 1941 was catastrophic: virtually the entire Jewish community was murdered by the end of 1941. The synagogue is one of the only surviving material traces of that community.
 sources:
   - https://en.wikipedia.org/wiki/Choral_Synagogue_(Smolensk)
+score: 6.5
 ---
 
 The Choral Synagogue is one of the last surviving traces of Smolensk's once-substantial Jewish community. Built in 1904 in a Moorish-influenced eclectic style, it is a striking building with horseshoe arches and coloured brickwork that sets it apart from both the Orthodox churches and the Soviet buildings that surround it. The exterior has been restored in recent years and is in reasonable condition.

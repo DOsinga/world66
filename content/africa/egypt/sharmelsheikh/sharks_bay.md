@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: A quieter beach district north of Naama Bay with a famous house reef and a more relaxed pace.
+score: 6.9
 ---
 
 Sharks Bay, about 8 km north of Naama Bay, is the alternative for visitors who want the dive scene without the Naama nightlife. The bay itself is small, with a sandy beach and a fringing reef that drops off straight from the shore — the so-called "house reef" of the Sharks Bay area has been used by training divers for decades and is genuinely one of the better easy reefs in the region.

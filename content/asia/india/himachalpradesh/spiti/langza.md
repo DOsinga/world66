@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 32.3503
 longitude: 78.0594
+score: 8.2
 ---
 
 Langza is a small village at 4,400 metres, perched on a hillside above the Spiti Valley with a large stone Buddha statue watching over it from the slope above. It is famous among palaeontologists and fossil-hunters for the marine fossils — ammonites, crinoids, and other sea creatures — found scattered in the rocks and soil on the hillsides. The entire landscape was once the Tethys Sea, and the fossils here date back 500 million years.

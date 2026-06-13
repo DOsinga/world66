@@ -7,6 +7,7 @@ tags:
 latitude: 13.8305
 longitude: 20.8318
 story: "Islam spread into the central Sahel through trade routes that passed through Ouaddai. The mosque stands on a site that has been a place of worship for as long as the sultanate itself, making it one of the oldest continuously active religious sites in the eastern Sahara."
+score: 7.6
 ---
 
 The Grand Mosque of Abeche is one of the oldest mosques in the Sahel, standing on the original site used by the Ouaddai Kingdom's founders. The current structure was rebuilt in the twentieth century, but its form — mud-brick construction, wooden beams projecting from the walls, a simple minaret — follows the Sudano-Sahelian architectural tradition that connects mosques from Timbuktu to Khartoum.

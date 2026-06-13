@@ -8,6 +8,7 @@ tags:
   - sight
   - viewpoint
 snippet: "Cliff-edge viewpoint and cross beside the castle."
+score: 6.8
 ---
 
 A few hundred metres beyond the castle, on the rocky tip of the Santa Catalina ridge, a 13-metre concrete cross marks the point from which Fernando III is said to have first looked down on the conquered city of Jaén in 1246. Whether the legend is true or not, the spot has a vertiginous view: the whole city spread directly below, the cathedral picked out by its bulk, and the olive country running off into the haze.

@@ -8,6 +8,7 @@ tags:
 latitude: 14.5890
 longitude: 120.9758
 snippet: The Spanish walled city's original fortifications — walkable and full of views over Manila Bay
+score: 8.8
 ---
 
 Intramuros (the name means "within the walls") was founded in 1571 as the administrative and ecclesiastical capital of the Spanish Philippines. The massive stone walls — up to four metres thick in places — were built over the following centuries to defend against Chinese pirates, Dutch naval attacks, and British invasion. In 1762, the British actually captured Manila; the walls held the final Spanish resistance for weeks.

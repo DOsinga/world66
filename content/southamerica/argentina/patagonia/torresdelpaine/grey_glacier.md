@@ -8,6 +8,7 @@ latitude: -50.95
 longitude: -73.25
 story: >
   In November 2017, a massive iceberg — roughly a square kilometre in area — broke away from the glacier's face in a single event. These calving episodes happen unpredictably and can be heard for kilometres as the ice cracks and the resulting wave races across Lake Grey. Park rangers occasionally close the lake shore after large calving events until the iceberg fragments disperse.
+score: 9.0
 ---
 
 Grey Glacier is the most accessible of the Southern Patagonian Ice Field's outlet glaciers, reached via the western arm of the W Trek or by catamaran across Lake Grey. The glacier's face stands over 30 metres above the lake surface and stretches six kilometres across, calving icebergs into the water with regular booms and splashes. The lake itself is filled with floating ice in various stages of melt — some pieces the size of cars, some the size of houses, all in shades of translucent blue.

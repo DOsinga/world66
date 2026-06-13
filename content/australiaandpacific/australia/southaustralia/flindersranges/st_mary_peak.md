@@ -15,6 +15,7 @@ story: >
   summit is identical in almost every respect.
 sources:
   - https://en.wikipedia.org/wiki/St_Mary_Peak
+score: 8.4
 ---
 
 At 1,171 metres, St Mary Peak is the highest point in the Flinders Ranges and stands on the northwestern rim of Wilpena Pound. The approach from Wilpena Resort follows the Wangara Lookout trail before climbing steeply up the quartzite rim. The full return walk is about 21 kilometres and takes eight to ten hours; most people start very early to avoid the midday heat.

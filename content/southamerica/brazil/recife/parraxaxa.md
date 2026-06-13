@@ -4,6 +4,7 @@ type: poi
 latitude: -8.121
 longitude: -34.898
 tags: [eating_out, restaurant, boa_viagem]
+score: 6.7
 ---
 
 A buffet restaurant in Boa Viagem dedicated to the food of the Pernambuco sertão — the dry interior. Long tables of regional dishes: carne de sol, pirão, baião de dois, macaxeira, queijo coalho, and a wall of regional cheeses and sweets.

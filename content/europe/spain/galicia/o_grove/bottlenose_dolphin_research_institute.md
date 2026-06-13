@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Marine research station running citizen-science dolphin observation trips from the harbour"
+score: 7.1
 ---
 
 The BDRI is a small but serious research institute that studies the resident **bottlenose dolphin** population of the Ría de Arousa — one of the most-studied dolphin populations in Europe. The Institute runs daily **citizen-science excursions** from O Grove harbour during the summer: 3- to 4-hour boat trips on which participants help researchers photograph and identify individual dolphins using the markings on their dorsal fins.

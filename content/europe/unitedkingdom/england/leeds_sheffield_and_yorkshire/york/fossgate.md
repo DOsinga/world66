@@ -7,6 +7,7 @@ tags:
 title: Fossgate
 type: poi
 snippet: "One of York's best streets for independent shops and restaurants, running south from the Merchant Adventurers' Hall"
+score: 6.8
 ---
 
 Fossgate runs south from the Merchant Adventurers' Hall towards Walmgate and has become one of the better streets in York for independent traders — bookshops, record shops, cafes, and restaurants that are not part of chains. The street itself is not architecturally exceptional, but the concentration of independent businesses makes it worth exploring, particularly for visitors who have exhausted the Shambles and Stonegate. The Blue Bell pub, one of the finest preserved Edwardian interiors in England, is on Fossgate.

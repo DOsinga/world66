@@ -11,6 +11,7 @@ tags:
 - bar
 title: La Canoa
 type: poi
+score: 5.7
 ---
 
 A cheerful, classic-style tapas bar a short walk north of the old town, popular with locals at lunchtime for its montaditos and a good range of regional wines by the glass.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Plaza Theatre
 type: poi
+score: 7.2
 ---
 
 The Plaza Theatre is the main performing arts venue in Mauritius, hosting drama, music, dance, and film throughout the year. The building dates from the colonial era and has a comfortable old-fashioned grandeur, with a large auditorium capable of hosting major productions. The programme includes local Mauritian productions in Creole, French, and English, as well as visiting companies from France, India, and the wider Indian Ocean region.

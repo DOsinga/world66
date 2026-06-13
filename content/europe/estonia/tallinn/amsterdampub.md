@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Amsterdam Pub
 type: poi
+score: 4.5
 ---
 
 A Dutch-style pub just outside the Old Town walls, pouring imported beers and staying open late.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Behnam House
 type: poi
+score: 7.6
 ---
 
 Behnam House is a Qajar-period residence that has been meticulously restored and now

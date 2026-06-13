@@ -13,6 +13,7 @@ type: poi
 url: www.adlerplanetarium.org
 sources:
 - https://en.wikipedia.org/wiki/Adler_Planetarium
+score: 7.9
 ---
 
 The Adler was the first planetarium in the Western Hemisphere when it opened in 1930, and it sits at the very tip of a narrow peninsula that juts into Lake Michigan. That position gives it the best unobstructed view of the Chicago skyline -- the stretch of waterfront just east of the building is where most professional skyline photographs are taken.

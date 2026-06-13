@@ -10,6 +10,7 @@ tags:
 - shop
 title: Rio Sul
 type: poi
+score: 3.4
 ---
 
 Rio Sul is one of Rio de Janeiro's most established shopping malls, sitting at the foot of Botafogo near the tunnel entrance to Copacabana. The mall has a wide range of shops across several floors — Brazilian fashion brands, electronics, a food court, and a cinema.

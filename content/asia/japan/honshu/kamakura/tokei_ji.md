@@ -7,6 +7,7 @@ tags:
 latitude: 35.3352
 longitude: 139.5456
 story: "For centuries, Tokei-ji was the only place in Japan where a woman could obtain a divorce. If a wife fled to the convent and remained as a worker for three years, her marriage was legally dissolved. Over 2,000 women sought sanctuary here between the 14th and 19th centuries. The practice ended with the Meiji civil code of 1873."
+score: 7.7
 ---
 
 A small but historically significant temple in Kita-Kamakura, just north of Engaku-ji. Known as the 'Divorce Temple' (Enkiri-dera), it served for nearly five centuries as a sanctuary where women could escape abusive marriages during a period when Japanese law gave husbands complete authority. The temple became a convent in 1285 and remained one until 1902.

@@ -9,6 +9,7 @@ tags:
 latitude: 6.024639
 longitude: 80.218694
 story: The mosque is shaped like a Christian church — a deliberate camouflage from an earlier period when public worship by Muslims was restricted. The present building, dating from 1904, replaces an earlier mosque on the same site.
+score: 7.3
 ---
 
 The Meeran Jumma Mosque, on the southern tip of the fort opposite the lighthouse, is one of the most distinctive buildings in Galle. From the outside it looks like a small Portuguese-baroque church — twin towers, a single nave, a triangular pediment — and the resemblance is intentional: an older mosque on the site was disguised in church form, and the design carried over to the present 1904 reconstruction.

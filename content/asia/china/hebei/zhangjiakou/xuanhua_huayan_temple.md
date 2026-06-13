@@ -13,6 +13,7 @@ story: >
   library furniture in China. The figures carved into the shelving are not
   merely decorative; they represent the celestial custodians of scripture,
   each one watching over a different section of the canon.
+score: 8.1
 ---
 
 The Huayan Temple complex in Xuanhua, the historic district south of Zhangjiakou city centre, is one of the less-visited Buddhist sites in Hebei and one of the most rewarding. It dates back to the Liao dynasty and preserves, remarkably, an intact library pavilion whose carved wooden bookshelves are among the finest examples of their kind remaining in northern China. Most visitors to the area head straight for the ski slopes of Chongli and miss this entirely.

@@ -8,6 +8,7 @@ tags:
 title: Travertine Terraces
 type: poi
 story: "The terraces have been a destination for nearly two and a half millennia — the Greeks built Hierapolis here in the 2nd century BC specifically to take the waters. By the 1980s, hotels on the plateau were diverting the springs and the terraces had turned grey from foot traffic. UNESCO threatened delisting, the hotels were demolished, the springs restored, and the white came back."
+score: 9.3
 ---
 
 The travertines are formed by calcium-rich water bubbling up at 35°C from springs above the cliff and cascading down a 200-metre slope, depositing limestone as it cools. The result is dozens of shallow, scallop-edged pools in a brilliant white that turns blue with the water inside — instantly recognisable from a hundred Turkish tourism posters.

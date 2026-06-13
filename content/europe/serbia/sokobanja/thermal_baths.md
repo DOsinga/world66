@@ -13,6 +13,7 @@ story: >
   19th century when Serbian doctors began sending patients here for treatments, and
   the town developed the clinical infrastructure of a proper thermal resort that has
   never entirely disappeared.
+score: 6.8
 ---
 
 The thermal springs of Sokobanja produce sulphur-rich water at a constant temperature of around 27–32°C, and the town's entire identity is built around them. Several spa facilities offer treatments ranging from clinical hydrotherapy and physiotherapy (the original purpose, still in demand) to straightforward bathing for relaxation.

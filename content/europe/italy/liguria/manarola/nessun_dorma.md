@@ -7,6 +7,7 @@ tags:
 latitude: 44.1075
 longitude: 9.7259
 story: "Founder Simone Magnaghi built the place from a shuttered house in 2014 and turned it into the photo address of Manarola almost overnight — every food blogger in Italy seems to have eaten a bruschetta on its terrace. The wait can run to ninety minutes in high season."
+score: 6.5
 ---
 
 A tiny open-terrace bar perched on a rocky promontory just west of the harbour, with what is probably the most photographed view in the Cinque Terre. The menu is brief — pesto-making demos, focaccia with various toppings, bruschette, a glass of Sciacchetrà — but the food is honestly made and the spot is unforgettable.

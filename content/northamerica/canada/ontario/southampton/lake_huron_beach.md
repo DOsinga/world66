@@ -13,6 +13,7 @@ story: >
   sky turns orange and pink over a horizon that stretches 330 kilometres to
   Michigan — a reminder that Lake Huron, the fifth-largest lake in the world,
   is very much an inland sea.
+score: 8.0
 ---
 
 Southampton's beach runs for nearly a kilometre along the western shore, a broad flat expanse of pale sand that shelves gently into Lake Huron's shallow water. The lake stays warmish through July and August, and the beach draws families from across Grey and Bruce counties on summer weekends.

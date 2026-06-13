@@ -7,6 +7,7 @@ tags:
 - bar
 title: Earls
 type: poi
+score: 4.5
 ---
 
 FOOOD! Has a great variety of foods to fit your needs.Is equipped with

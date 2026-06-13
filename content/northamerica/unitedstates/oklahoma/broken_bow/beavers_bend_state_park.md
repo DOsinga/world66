@@ -8,6 +8,7 @@ tags:
 latitude: 34.1376
 longitude: -94.6839
 story: "The park was named not for the rodent but for John T. Beavers, a Choctaw who once owned land along the Mountain Fork. The dam upstream was completed in 1969, and the cold tailwater it releases turned a warmwater river into one of the few trout fisheries between the Rockies and the Appalachians."
+score: 9.2
 ---
 
 Beavers Bend wraps around a sharp loop of the Mountain Fork River below Broken Bow Lake, with 1,300 acres of pine-and-hardwood forest, hiking trails, picnic spots, and cabin clusters that fill on weekends most of the year. It is the reason Broken Bow exists as a destination.

@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: A serious museum to the creator of Peanuts, who lived and worked in Santa Rosa for thirty years.
 story: "Schulz drew nearly every one of the 17,897 Peanuts strips by hand, alone, without assistants. His last new strip ran on 13 February 2000 — the day after he died, in his Santa Rosa home, of a heart attack. By contract, no one else would ever draw the strip."
+score: 8.6
 ---
 
 This is not the cute children's museum the name might suggest. Charles Schulz moved to Santa Rosa in 1969 and lived here until his death in 2000, drawing the strip from a studio across the street; the museum opened two years later. The permanent collection holds original strips, fan mail (including from Ronald Reagan and Nelson Mandela), the kitchen table he drew at as a child, and a 17-foot tile mural of Peanuts characters made from 3,588 individual strips.

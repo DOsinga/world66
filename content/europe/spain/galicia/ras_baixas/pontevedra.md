@@ -7,6 +7,7 @@ tags:
 - sight
 title: Pontevedra
 type: poi
+score: 8.4
 ---
 
 Pontevedra is the capital of the province and one of the most pleasant small

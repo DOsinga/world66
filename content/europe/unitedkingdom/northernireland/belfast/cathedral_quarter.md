@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.601
 longitude: -5.924
+score: 7.8
 ---
 
 The Cathedral Quarter is Belfast's cultural and nightlife district, a neighbourhood of Victorian red-brick warehouses, former linen mills, and narrow entries (alleyways) that has been transformed into the liveliest part of the city. The area takes its name from St Anne's Cathedral, which stands at one end of the quarter, and extends through the network of streets between the cathedral and the waterfront.

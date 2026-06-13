@@ -7,6 +7,7 @@ tags:
 - nature
 title: Cozumel
 type: poi
+score: 8.0
 ---
 
 Mexico's largest Caribbean island, 75 km south of Cancun (90 minutes by car to Playa del Carmen, then a 45-minute ferry). Cozumel sits along the second-longest barrier reef in the world, and is regularly ranked among the top three dive destinations on Earth — Palancar, Santa Rosa Wall, and Columbia are the headline sites. Snorkellers do well at the same reefs in shallow versions.

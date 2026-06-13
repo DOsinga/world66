@@ -16,6 +16,7 @@ story: >
   Arthur Guinness signed a 9,000-year lease on the St James's Gate brewery in 1759 at
   £45 a year — one of the more optimistic real estate decisions in history. The lease
   document, still technically valid, is displayed on the floor of the Storehouse atrium.
+score: 7.5
 ---
 
 The most visited paid attraction in Ireland occupies the old fermentation building at St James's Gate, the brewery Arthur Guinness took over in 1759. The self-guided tour works its way through seven floors covering ingredients, the brewing process, advertising history (those famous Gilroy posters), and the global spread of the brand.

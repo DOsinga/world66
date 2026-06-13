@@ -7,6 +7,7 @@ snippet: "The college basketball gym where Steph Curry played"
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 A small college gym by Division I standards — capacity 5,200 — but for basketball fans, a pilgrimage site. Stephen Curry played here for three seasons (2006-2009) and led Davidson to a remarkable Elite Eight run in the 2008 NCAA Tournament. His jersey hangs from the rafters, his old practice jersey is in a glass case, and the bench he sat on is preserved.

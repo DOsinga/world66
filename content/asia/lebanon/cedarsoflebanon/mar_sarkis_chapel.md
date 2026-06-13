@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Small Maronite chapel set among the cedars.
+score: 5.8
 ---
 
 A simple stone chapel built into the grove itself, dedicated to Our Lady of the Cedars. It's tiny — room for perhaps twenty people — but the setting is the point: liturgy under the canopy of trees that have been considered sacred for millennia. Mass is held on summer Sundays and on the Feast of the Transfiguration in August, when pilgrims from across northern Lebanon walk up from Bcharre.

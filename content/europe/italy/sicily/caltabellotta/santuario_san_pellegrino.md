@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   San Pellegrino, to whom the sanctuary is dedicated, was a 6th-century hermit who reportedly lived in a cave on this very rock. The cult of the saint gave Caltabellotta its religious importance long before the Normans built their castle above it. The sanctuary remains a place of active pilgrimage, particularly on the feast of San Pellegrino each August.
+score: 7.9
 ---
 
 The Santuario di San Pellegrino sits near the very summit of Caltabellotta's limestone ridge, partially carved into the rock face itself. The approach from the village involves a steep climb through narrow lanes that eventually give way to bare rock and vertiginous views. The sanctuary is small and simple, with a cave-church feel that makes it distinctly different from the grand baroque churches of the Sicilian lowlands.

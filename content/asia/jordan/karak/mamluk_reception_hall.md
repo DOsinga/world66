@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.2
 ---
 
 Tucked into the southern end of the castle, the long Mamluk reception hall is one of the great interiors of medieval Jordan. A succession of cross-vaults rises on heavy columns, the proportions narrow and military rather than monastic. Built under Baybars and his successors in the late 13th century, it was used to host visiting dignitaries and to display the spoils of the Mamluk wars against the remaining Crusader holdings on the coast.

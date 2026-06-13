@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Alabama-Auburn Football Rivalry
 type: poi
+score: 5.2
 ---
 
 College football in Alabama is not merely a sport — it is the dominant organizing obsession of public life, dividing the state between Alabama Crimson Tide and Auburn Tigers fans with a seriousness that confounds outsiders. Birmingham hosts the Iron Bowl, the annual Alabama-Auburn game, at Legion Field or at the competing home stadiums (Tuscaloosa for Alabama, Auburn for Auburn), and the city shuts down accordingly.

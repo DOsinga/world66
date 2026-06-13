@@ -11,6 +11,7 @@ story: >
   the channel where storms could blow in without warning — made it a landmark for any ship approaching
   from Korčula. The original request to the Franciscan order came from the captains of Orebić
   themselves, who promised to maintain the building in exchange for prayers for their safety at sea.
+score: 7.8
 ---
 
 The Franciscan Monastery of Our Lady of the Angels sits on a rocky hillside above the town, a half-hour walk up a steep path through pine trees from the waterfront. The monastery church contains ex-votos left by sailors who survived storms — small painted panels depicting ships in distress, some of them remarkably vivid — and a revered 15th-century icon of the Virgin that has been the focus of pilgrimage for centuries.

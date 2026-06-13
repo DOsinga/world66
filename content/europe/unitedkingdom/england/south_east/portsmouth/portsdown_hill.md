@@ -6,6 +6,7 @@ longitude: -1.1097
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The chalk ridge that defines Portsmouth from the north, rising to 130 metres about three miles inland. On a clear day the view from the top covers the entire harbour, the whole of Portsea Island, the Solent, Spithead, the Isle of Wight, and on exceptionally clear evenings the cliffs of the New Forest twenty miles to the west.

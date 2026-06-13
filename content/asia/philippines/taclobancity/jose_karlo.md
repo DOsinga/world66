@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Jose Karlo
 type: poi
+score: 4.6
 ---
 
 A small, easy-going cafe on Juan Luna Street that has long been a haven for Tacloban's coffee drinkers and laptop tappers. Strong coffee, light food, and decent Wi-Fi.

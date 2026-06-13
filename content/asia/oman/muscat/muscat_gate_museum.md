@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 23.6175
 longitude: 58.5869
+score: 6.2
 ---
 
 The Muscat Gate marks the main entrance to the old walled city and houses a small museum inside its two towers. The gate was the principal portal through which travellers and traders entered Old Muscat for centuries; the current structure dates from the mid-20th century but stands on the site of an older gate. Inside, the museum covers the history of Oman's ancient trade connections — frankincense, dates, horses, and fish — through maps, artefacts, and photographs from the early 20th century when Muscat was still a walled city with gates that closed at night.

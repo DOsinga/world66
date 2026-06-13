@@ -7,6 +7,7 @@ snippet: "Contemporary Belgian cuisine with serious local sourcing, near the Naa
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 Tafelmast is a well-regarded contemporary Belgian restaurant on Herbert Hooverplein, a short walk from the university's main buildings. The kitchen takes a seasonal, locally sourced approach to Belgian ingredients — game in autumn, asparagus in spring, a rotation of Flemish cheeses year-round. The room is calm and unhurried, which makes it a good choice for a proper sit-down dinner rather than a quick meal between lectures.

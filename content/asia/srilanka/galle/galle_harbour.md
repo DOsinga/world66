@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 6.035556
 longitude: 80.215
+score: 6.8
 ---
 
 The natural harbour at Galle has been used for centuries — Arab, Persian, Chinese and later Portuguese, Dutch and British ships all anchored here on the spice route. Until the British developed Colombo in the late nineteenth century, Galle was the main port of Ceylon.

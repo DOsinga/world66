@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 16.0928
 longitude: -86.8951
+score: 4.7
 ---
 
 The infamous home of the "Skid Row Challenge" — four shots of strong rum in a row, which buys you a t-shirt and a hangover. The bar itself is a long, low room with a pool table, a sound system that gets cranked late, and a thoroughly mixed crowd of locals, divers, and instructors.

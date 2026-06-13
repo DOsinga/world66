@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1855
 longitude: 136.9265
+score: 8.2
 ---
 
 Tokugawa-en is a daimyo-style stroll garden centred on a large pond and built on the grounds of the second Owari Tokugawa lord's retirement residence. The original was completed in 1695, devastated by fire during the war, and rebuilt in 2004 to the historic plans. The garden is small enough to walk in under an hour but layered enough to reward a slow circuit — peony beds in May, irises in June, autumn maples in late November.

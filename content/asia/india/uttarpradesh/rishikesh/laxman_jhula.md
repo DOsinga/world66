@@ -13,6 +13,7 @@ story: >
   god Ram — crossed the Ganges by rope to do penance. The newer Janaki Setu
   (Janaki Jhula) bridge downstream has now taken most of the foot traffic,
   leaving Laxman Jhula quieter.
+score: 8.4
 ---
 
 Laxman Jhula is a suspension footbridge crossing the Ganges at the northern end of Rishikesh, connecting the eastern and western banks between the pilgrimage towns of Rishikesh and Muni Ki Reti. The bridge itself is the destination — a narrow, swaying crossing high above the fast-moving river, with views upstream into the Himalayas and downstream toward the ghats. The surrounding area on both banks is dense with ashrams, yoga centres, cafes, and souvenir stalls.

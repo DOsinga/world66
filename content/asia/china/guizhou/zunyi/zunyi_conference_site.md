@@ -13,6 +13,7 @@ story: >
   been lost; the meeting replaced Soviet-advised commanders with Mao's guerrilla strategy
   of movement over pitched battle. The outcome changed the course of twentieth-century
   China, and it happened in two days in a borrowed brick merchant's house.
+score: 7.4
 ---
 
 The Zunyi Conference Memorial is one of the most visited revolutionary sites in China, and with good reason — the two-storey brick building where Politburo members gathered in January 1935 is one of the most consequential rooms in modern Chinese history. The meeting replaced the Soviet-advised military commanders who had led the Red Army to near-destruction with Mao Zedong's more pragmatic strategy of mobile guerrilla warfare. Without the decisions made here, the Long March would almost certainly have ended in defeat.

@@ -8,6 +8,7 @@ tags:
 - sight
 - waterfall
 story: "The falls are modest in height but dramatic because of the setting: the Awash River suddenly leaves the open plain and drops over dark volcanic rock into a tight, palm-fringed gorge."
+score: 8.0
 ---
 
 Awash Falls is the park's most photographed sight, a compact but forceful drop where the river breaks through a basalt lip and disappears into a gorge. It is not enormous, but in this dry landscape the sound and spray feel startlingly alive.

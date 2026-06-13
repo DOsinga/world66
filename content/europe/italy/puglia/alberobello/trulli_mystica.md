@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 40.7820
 longitude: 17.2358
+score: 7.8
 ---
 
 Look up at the cone tips of trulli as you walk through Alberobello and you will notice two things: the removable stone pinnacle at the very top, and — on many cones — a symbol painted in white limewash on the grey stone. Crosses, circles, crescents, stylised figures, arcane geometric forms. No two buildings share quite the same mark.

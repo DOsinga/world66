@@ -12,6 +12,7 @@ story: >
   held around 9,000 prisoners in grim conditions on the exposed moor. When the wars ended, it
   sat empty for decades, then reopened as a convict prison in 1850. It has been in continuous
   use ever since.
+score: 7.2
 ---
 
 Dartmoor Prison is one of England's most famous — and most forbidding — places of incarceration. Still in operation as a Category C men's prison, it dominates the skyline of Princetown with its granite walls and watchtowers, a bleak silhouette entirely in keeping with the surrounding moorland. The prison is not open to visitors, but it can be clearly seen from the road.

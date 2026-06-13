@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: La Playita
 type: poi
+score: 6.1
 ---
 
 A local favourite for cheap, filling food. The tortas de lomo doble carne con aguacate -- a double-pork and avocado sandwich -- is the thing to order. All dishes under $7. Popular with both tourists and tapatios.

@@ -8,6 +8,7 @@ tags:
 - park
 title: Tudaya Falls
 type: poi
+score: 7.7
 ---
 
 At around 100 meters, Tudaya Falls is the tallest waterfall within Mt. Apo National Park and one of the most impressive in Mindanao. It's located in the municipality of Santa Cruz in Davao del Sur, roughly three hours by road from Davao City.

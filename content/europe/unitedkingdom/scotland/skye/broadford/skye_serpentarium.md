@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.2418
 longitude: -5.9042
+score: 5.8
 ---
 
 The Skye Serpentarium is a small reptile house on Broadford's main road that has been charming rainy-day visitors since the 1990s. It holds a collection of snakes, lizards, frogs, and tortoises from around the world, with enough space and good labelling to make it worthwhile even if you're not normally a reptile enthusiast.

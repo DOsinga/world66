@@ -9,6 +9,7 @@ latitude: 33.9472
 longitude: -83.3725
 sources:
   - https://en.wikipedia.org/wiki/Georgia_Museum_of_Art
+score: 7.5
 ---
 
 The Georgia Museum of Art on the UGA South Campus is the official state art museum of Georgia and one of the better regional art museums in the American South. Admission is free, which makes it an easy stop whether or not you are particularly interested in art.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.6
 ---
 
 A long Atlantic-side beach just south of Gregory Town, regularly turning up the only consistent surf in the Bahamas. The reef break works best on a north or north-east winter swell. Even when flat, it is a wide, wild beach with cliffs at the south end and almost no development.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Private museum of African and Pan-African artefacts
+score: 6.9
 ---
 
 A surprisingly ambitious private museum on the road between Sekondi and Takoradi, founded by the writer and pharmacist Nana Kobina Nketsia V. The collection covers Akan regalia, gold weights, masks from across West Africa, and a strong section on the African diaspora — material from Brazil, the Caribbean, and the southern United States set against its West African parallels.

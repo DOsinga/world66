@@ -15,6 +15,7 @@ story: >
   is considered a serious breach of etiquette; drinking with both hands and
   clapping once before the cup are the basic rules. The taste is earthy and
   slightly numbing — brace yourself.
+score: 8.2
 ---
 
 The Yasawa Islands have a population of several thousand Fijians, spread across a dozen or so villages on the larger islands. Visiting these villages — as opposed to staying in a resort bubble — is one of the most rewarding things you can do in the chain. The welcome is warm, the ceremonies genuine, and the experience far removed from anything on the tourist trail in Viti Levu.

@@ -10,6 +10,7 @@ latitude: 38.5793
 longitude: -122.5785
 sources:
   - https://en.wikipedia.org/wiki/Calistoga,_California
+score: 7.3
 ---
 
 The classic Calistoga mud bath experience, and the one most locals will point you toward. Dr. John Wilkinson opened here in 1952, and the place has been doing volcanic ash mud baths, mineral pool soaks, and steam rooms ever since. The signature treatment is the mud bath itself: a thick mix of local volcanic ash, peat, and mineral water that heats the body deeply and leaves the skin remarkably soft.

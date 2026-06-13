@@ -9,6 +9,7 @@ tags:
 - museum
 title: Chabot Space & Science Center
 type: poi
+score: 7.5
 ---
 
 Perched in the Oakland Hills with sweeping bay views, Chabot houses three telescopes open for public viewing on Friday and Saturday evenings. The planetarium shows are good, but the real draw is peering through the 20-inch refractor telescope on a clear night. The surrounding redwood trails make it easy to combine a visit with a hike.

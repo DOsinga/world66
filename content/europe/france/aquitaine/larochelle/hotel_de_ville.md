@@ -11,6 +11,7 @@ longitude: -1.1512
 sources:
   - https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_La_Rochelle
 story: "The Renaissance courtyard was completed in 1606 under mayor Jean Brunet. In June 2013 the building was gutted by a fire that started in an electrical fault on the second floor — the courtyard and outer facade survived but most of the interior was destroyed. Restoration took until 2023."
+score: 8.5
 ---
 
 The Hôtel de Ville of La Rochelle is one of the finest Renaissance buildings in France. Behind a defensive medieval wall the courtyard opens out into a richly carved Renaissance facade — slim columns, classical pediments, niches with statues of mayors and kings. It was built in two phases between 1493 and 1606, and the contrast between the early Gothic shell and the later courtyard captures the moment when France began to take its cues from Italy.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.1
 ---
 
 Shkodër's old bazaar (Çarshia e Vjetër) stretches back from the pedestrianised main street into a maze of lanes where artisans, coffee shops, and small family businesses occupy 19th-century stone buildings. It is not as intact as the bazaars of Kosovo or North Macedonia, but it retains a genuine commercial life — this is where locals come to buy things, not primarily a tourist attraction.

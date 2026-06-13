@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Marlin
 type: poi
+score: 5.6
 ---
 
 A wide, less-crowded beach at kilometre 13 of Boulevard Kukulcán, between two large hotels but with a public access point easily found from the bus. The sand is fine, the water turquoise and clear, and (because the entrance is hidden) the crowds are much lighter than at Playa Tortugas or Caracol.

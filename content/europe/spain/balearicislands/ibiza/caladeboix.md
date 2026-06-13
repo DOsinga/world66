@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Cala de Boix
 type: poi
+score: 7.1
 ---
 
 Ibiza's only black sand beach, tucked into a narrow cove on the northeast coast near Santa Eulària. The dark volcanic sand gets scorching underfoot in summer — bring shoes you can walk in.

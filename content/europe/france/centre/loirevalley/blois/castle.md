@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Château Royal de Blois
 type: poi
+score: 9.3
 ---
 
 The Château Royal de Blois is one of the finest examples of French royal architecture in the Loire Valley, with four distinct wings representing four centuries of building — medieval, Flamboyant Gothic, early Renaissance, and Classical — all arranged around a single courtyard. Four French kings lived here, including François I, whose famous open spiral staircase is the centrepiece of the Renaissance wing.

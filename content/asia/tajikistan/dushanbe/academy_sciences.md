@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5689
 longitude: 68.7909
+score: 7.1
 ---
 
 The Tajik Academy of Sciences complex, south of the central area, is one of the better examples of Stalinist neoclassical architecture in Dushanbe — a grand symmetrical ensemble of research institutes and administrative buildings set around a formal garden. The building quality is impressive for a city that was little more than a village a century ago.

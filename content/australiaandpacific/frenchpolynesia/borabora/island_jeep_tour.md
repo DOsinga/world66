@@ -7,6 +7,7 @@ tags:
   - history
 latitude: -16.5040
 longitude: -151.7400
+score: 7.6
 ---
 
 A guided circuit of Bora Bora by four-wheel drive is the best way to see the island's interior and reach the World War II fortifications that are scattered across the hillsides and headlands. Tours depart from Vaitape and circumnavigate the island over three to four hours, stopping at gun emplacements, viewpoints over the lagoon, a marae (ancient Polynesian ceremonial platform), and usually a vanilla plantation — vanilla is one of the few agricultural products that survives Bora Bora's rocky volcanic soil.

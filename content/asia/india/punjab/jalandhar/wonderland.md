@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2623
 longitude: 75.5325
+score: 4.8
 ---
 
 Wonderland is Punjab's best-known amusement and water park, on the Lohar road south of central Jalandhar. The park has a mix of standard rides, water slides, and a few larger thrill rides; entry includes both the dry and wet sections. It is largely a domestic-tourist experience — a weekend day-out for Jalandhar families and an obligatory stop for school trips from across the state.

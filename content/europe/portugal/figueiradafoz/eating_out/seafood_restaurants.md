@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 40.1508
 longitude: -8.8625
+score: 6.8
 ---
 
 The waterfront and old town streets have several good seafood restaurants where the cooking is straightforward and the fish is fresh. The menu staples are grilled robalo (sea bass), dourada (sea bream), or pargo (red snapper); arroz de marisco (seafood rice) cooked to order; percebes (barnacles) eaten with sea salt; and caldeirada, the Portuguese fish stew made with whatever came in that day.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 23.6167
 longitude: 58.4833
+score: 5.5
 ---
 
 Al Mouj — meaning "The Wave" — is a large mixed-use development built on reclaimed land west of Qurum, completed from the 2010s onward. Its marina district has become one of the livelier evening destinations in Muscat: a waterfront promenade lined with restaurants, cafes, and bars (in a city where bars are rare, the options here stand out), overlooking a yacht basin with a golf course behind it. The architecture is contemporary and polished, with none of the historical texture of Muttrah or Old Muscat, but the waterfront setting works well enough to make it worth an evening.

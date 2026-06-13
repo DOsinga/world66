@@ -7,6 +7,7 @@ tags:
 latitude: 38.56
 longitude: -122.88
 snippet: Fog-cooled valley producing some of California's finest Pinot Noir and Chardonnay
+score: 8.3
 ---
 
 The Russian River Valley runs southwest from Healdsburg toward Guerneville and the coast. The marine fog that pushes in through the Petaluma Gap each afternoon keeps the valley significantly cooler than Napa, creating ideal conditions for Pinot Noir and Chardonnay. This is where Williams Selyem, Rochioli, and Gary Farrell built their reputations, and the benchmark wines from those wineries remain among California's best.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1080
 longitude: 9.7320
+score: 6.9
 ---
 
 A retired Manarola railwayman, Mario Andreoli, spent more than fifty years climbing the hillside above the village to install a vast Nativity scene assembled from recycled materials — over 300 life-sized figures, 17,000 LED bulbs, hammered together into one of the largest illuminated cribs in the world. It is lit between **8 December** and **the end of January**.

@@ -7,6 +7,7 @@ tags:
 latitude: -9.4300
 longitude: 147.1900
 snippet: "Tropical botanical collection on the University of Papua New Guinea campus"
+score: 6.6
 ---
 
 The University of Papua New Guinea campus in Waigani contains a notable botanical garden with a collection of native tropical plants, including orchids, palms, and rainforest species. The university grounds are open to visitors and provide a pleasant, shaded walk — one of the greener and more tranquil spots in a city that is otherwise short on public green space.

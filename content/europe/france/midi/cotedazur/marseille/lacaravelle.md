@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - vieux_port
+score: 6.5
 ---
 
 La Caravelle is tucked on the first floor of the Hôtel Bellevue on the Quai du Port, a 1930s wood-panelled bar with red leather banquettes and an unbeatable balcony looking straight across the harbour to the southern quay and Notre-Dame de la Garde rising behind it. Few visitors look up and notice it from the street, which is part of the appeal.

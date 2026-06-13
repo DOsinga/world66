@@ -8,6 +8,7 @@ title: Great Falls of the Missouri
 type: poi
 snippet: "The five waterfalls that gave the city its name and stopped Lewis and Clark for a month"
 story: "Hydroelectric dams now sit at each of the five falls, so the cataracts only run at full force during high water — but Black Eagle Falls drops nearly its original 26 feet most of the year."
+score: 8.7
 ---
 
 Five separate waterfalls strung along ten miles of the Missouri River — Black Eagle, Colter, Rainbow, Crooked, and the Great Falls themselves. Together they drop the river more than 600 feet. In June 1805 Lewis and Clark spent 31 days hauling their boats and gear around them over the prairie, the single hardest stretch of their journey.

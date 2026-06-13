@@ -11,6 +11,7 @@ latitude: -22.4500
 longitude: -43.0167
 story: >
   The park's name — Serra dos Órgãos, or Range of Organs — comes from the jagged rock spires along its ridgeline, which 16th-century Portuguese explorers thought resembled the pipes of a great church organ. The highest spire, the Pedra do Sino at 2,263 metres, was first climbed in 1856 by Emperor Pedro II of Brazil, who reportedly ascended it barefoot to prove a point about Brazilian toughness.
+score: 9.1
 ---
 
 The Parque Nacional da Serra dos Órgãos protects a dramatic stretch of Atlantic Forest in the Serra do Mar mountains, with its main entrance right at the edge of Teresópolis. The park is best known for its extraordinary rock formations — dramatic granite spires that jut above the forest canopy and are visible from most of the town. The Dedo de Deus ("Finger of God") is the most famous, a pointed 1,692-metre pinnacle that appears on the Teresópolis city logo.

@@ -15,6 +15,7 @@ story: >
   Rumyantsev line died out. Both men's portraits still hang in the main reception
   rooms — two of the most decorated soldiers in Russian imperial history sharing a
   house neither ever quite finished building.
+score: 8.7
 ---
 
 The Rumyantsev-Paskevich Palace is the reason to come to Gomel. Set in a large English-style park on a bluff above the Sozh River, the complex began as a neo-classical mansion in the early 19th century and grew over several decades into a rambling but attractive ensemble of palace wings, a chapel, a winter garden, and a watchtower. The park below has formal gardens, old chestnut trees, and direct access to the Sozh embankment.

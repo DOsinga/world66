@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Britain's most northerly inhabited croft, at the end of the most northerly road
+score: 7.2
 ---
 
 A small croft at the end of the B9087 — the most northerly public road in Britain — set above a curving sandy beach that is itself the most northerly beach. Two houses, a few sheep, and an extraordinary feeling of having arrived at the end of something. The road runs out at a sign; the beach is reached by a short walk down through marram grass.

@@ -8,6 +8,7 @@ tags:
 latitude: 34.4220
 longitude: -118.4640
 snippet: The only institution in North America dedicated entirely to gibbons
+score: 8.0
 ---
 
 The Gibbon Conservation Center is one of the more unusual wildlife destinations in Southern California — a small, dedicated sanctuary focused entirely on gibbons, the small apes of Southeast Asia. It holds more gibbon species than anywhere else in North America, including the critically endangered pileated gibbon and the Javan gibbon.

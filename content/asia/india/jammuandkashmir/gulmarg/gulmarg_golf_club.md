@@ -14,6 +14,7 @@ story: >
   oldest in the subcontinent. They played here throughout the summer season of
   the Raj, with the Kashmir peaks as a backdrop, and the tradition of summer golf
   at altitude has continued without interruption for over a century.
+score: 7.1
 ---
 
 The Gulmarg Golf Club occupies a wide, undulating meadow at around 2,650 m, spread across the gentler slopes below the main village. It is, by most measures, the highest golf course in the world, and the setting is genuinely spectacular: fairways of alpine grass flanked by fir forests, with snow-capped peaks on three sides.

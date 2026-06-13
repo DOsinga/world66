@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 21.5780
 longitude: 39.1500
+score: 4.7
 ---
 
 A homegrown Jeddah specialty-coffee chain that has expanded across the Gulf since 2014. Cool minimalist branches, baristas with serious technique, and a menu that runs from straight espresso to creative seasonal drinks (saffron latte, rose cardamom flat white).

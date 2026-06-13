@@ -15,6 +15,7 @@ story: >
   attended by Theodore Roosevelt — and he was not wrong. The total cost came to
   $13 million, which triggered a corruption inquiry into the contractors who had
   significantly overbilled. Several were convicted.
+score: 8.8
 ---
 
 The Pennsylvania State Capitol is one of the most architecturally impressive state capitol buildings in the United States. Completed in 1906 and designed by Joseph Huston, it is a full Beaux-Arts composition with a dome modelled on St Peter's Basilica in Rome, rising 52 metres and covered in terracotta tiles. The interior is extraordinary: the rotunda is decorated with mosaics designed by Edwin Austin Abbey and murals by Violet Oakley, the grand staircase uses marble imported from four countries, and the legislative chambers are panelled in oak and hung with more paintings than most art museums.

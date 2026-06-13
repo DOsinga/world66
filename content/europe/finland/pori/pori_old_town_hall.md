@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 61.489565
 longitude: 21.793839
+score: 7.6
 ---
 
 Pori's former town hall stands on Hallitustori square in the heart of the old town — a handsome Empire-style building from 1841 designed by Carl Ludwig Engel, the same architect responsible for Senate Square in Helsinki. The building no longer serves municipal purposes but remains the architectural centrepiece of central Pori.

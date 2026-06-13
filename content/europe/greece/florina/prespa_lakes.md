@@ -14,6 +14,7 @@ story: >
   one of the world's largest flying birds and once critically endangered, has a breeding
   colony of several hundred pairs here: one of only a handful of breeding sites left in
   Europe.
+score: 8.8
 ---
 
 The Prespa lakes lie about 45km west of Florina and form one of the most remarkable natural landscapes in northern Greece. Mikri Prespa (Small Prespa) is almost entirely in Greek territory and edged by reedbeds and traditional fishing villages; Megali Prespa (Great Prespa) is shared between Greece, North Macedonia, and Albania, its blue water surrounded by mountains rising to over 2,000 metres.

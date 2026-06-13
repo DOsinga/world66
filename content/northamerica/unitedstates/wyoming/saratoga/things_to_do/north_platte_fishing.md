@@ -3,6 +3,7 @@ title: North Platte River fishing
 type: poi
 latitude: 41.4560
 longitude: -106.8050
+score: 7.7
 ---
 
 The North Platte through the Saratoga valley is a Gold Medal fishery — a designation for stretches of exceptional trout water. Brown and rainbow trout are plentiful, and bald eagles are common along the banks, often fishing the same pools you are working. The river runs clear and cold out of the mountains.

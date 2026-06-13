@@ -10,6 +10,7 @@ latitude: 47.4228
 longitude: 9.3764
 story: >
   The oldest architectural drawing in the world is kept in this library. Known as the Plan of Saint Gall, it was drawn on five pieces of parchment stitched together around 820 and depicts an ideal monastery in precise detail — buildings, gardens, workshops, even an inscription noting what each space is for. It was never built. Scholars have debated for generations whether it was a proposal for Saint Gall itself or a theoretical document. The original is kept in conservation; a facsimile is shown.
+score: 9.4
 ---
 
 The Abbey Library — Stiftsbibliothek — is one of the oldest libraries in the world still in continuous operation. Founded in the 8th century, it holds approximately 170,000 volumes, of which around 2,100 are manuscripts predating 1500 AD. Among them are illuminated gospels, astronomical treatises, chronicles, and the Plan of Saint Gall, a 9th-century architectural drawing that is the oldest such document to survive anywhere.

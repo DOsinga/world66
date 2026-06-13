@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.6
 ---
 
 The Malek Mosque, also called the Imam Mosque, was built in the 11th century by the Seljuk vizier Turan-Shah and is one of the oldest surviving mosques in the country. The four-iwan plan dates from the original construction; the brickwork inside still carries its 11th-century geometry, including the famous double-shell dome.

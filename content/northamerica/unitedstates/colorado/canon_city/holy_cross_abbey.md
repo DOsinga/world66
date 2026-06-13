@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 6.8
 ---
 
 The Abbey of the Holy Cross was a Benedictine monastery founded in 1886, and for over a century it ran a boys' school and one of the country's oldest small wineries. The monastic community dissolved in 2006, but the dramatic red-brick Gothic Revival abbey church and the school buildings remain on the east edge of town.

@@ -11,6 +11,7 @@ story: >
   The tukutuku panels, carved poupou, and painted kowhaiwhai rafters took years to
   complete, and the craftwork represents Ngati Porou lineages going back to the great
   migration canoes.
+score: 8.5
 ---
 
 Te Poho-o-Rawiri is one of the largest Maori meeting houses in New Zealand, built in 1925 and named after Rawiri Paratene, a paramount chief of the Ngati Porou people. It stands on the flat land near the estuary on the Maori side of the river, and remains an active centre of community life.

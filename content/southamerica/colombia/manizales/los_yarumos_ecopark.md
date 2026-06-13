@@ -6,6 +6,7 @@ longitude: -75.4900
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Los Yarumos is a forested urban park on the eastern edge of the city, with cloud-forest trails, canopy walkways, a zip-line, and a climbing wall. It is the closest in-town option for a walk in nature — the trails are well-maintained and the entry fee is modest.

@@ -4,6 +4,7 @@ tags:
 - things_to_do
 title: Paragliding
 type: poi
+score: 6.4
 ---
 
 Paragliding is a great experience in Cuzco. Thermals are strong, and the views are great.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - hiking
+score: 8.3
 ---
 
 A deep limestone gorge between the Sierra del Pinar and the road to Zahara, with sheer walls of pale rock and a stream that runs only in winter. The track from the road descends a steep 400 metres into the gorge, ending at a large cave at the bottom. The walk back up is unrelenting; allow three hours.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8942
 longitude: 35.5003
+score: 6.3
 ---
 
 A small but pleasant downtown garden named after the Lebanese poet Khalil Gibran, who wrote The Prophet. It sits between the UN House and the Grand Serail and offers a rare patch of shade and greenery in central Beirut.

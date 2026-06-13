@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.5492
 longitude: -107.3297
+score: 8.3
 ---
 
 The stretch of the Colorado River through Glenwood Canyon is one of the most scenic whitewater runs in the Rockies, with waves crashing between sheer limestone walls that rise nearly 600 metres above the river. The canyon section runs roughly 20 km through territory that is essentially roadless on the water — only Amtrak's California Zephyr threads through on its ledge above. Difficulty ranges from gentle float trips on calmer sections to Class IV rapids on the upper canyon stretches.

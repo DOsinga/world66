@@ -9,6 +9,7 @@ tags:
   - architecture
   - history
 story: "The Parthenon's apparently straight lines are deliberately curved. The architects Iktinos and Kallikrates corrected for the optical illusion that makes long straight lines appear to sag, so the platform bulges slightly upward, the columns lean very slightly inward, and the corner columns are fractionally thicker. The result is a building that looks perfectly straight to the human eye — the most carefully engineered visual illusion in classical architecture."
+score: 9.8
 ---
 
 The Parthenon (447–432 BCE) is the most famous building of the ancient world and the single most influential piece of architecture in Western history. Built by Pericles as the centrepiece of his rebuilding programme after the Persian Wars, it was dedicated to Athena Parthenos — the virgin Athena — and once housed a 12-metre gold-and-ivory statue of the goddess by Pheidias.

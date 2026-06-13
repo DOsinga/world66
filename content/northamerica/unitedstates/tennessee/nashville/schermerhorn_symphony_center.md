@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - music_venue
+score: 7.8
 ---
 
 The home of the Nashville Symphony, opened in 2006 a block south of Broadway. The building is a beaux-arts concert hall in the European tradition — vaulted ceilings, a colonnaded exterior, and a fixed-seat shoebox auditorium that flips into a flat-floor ballroom for jazz and pops concerts. Acoustics are first-rate.

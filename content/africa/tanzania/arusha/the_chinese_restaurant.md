@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -3.3702
 longitude: 36.688
+score: 6.0
 ---
 
 Khan's Barbecue on Mosque Street is the go-to for Indian street food in Arusha. This open-air spot has been operating for years, and represents the best of Tanzania's South Asian culinary heritage — the Indian Ocean trade routes brought Indian merchants to East Africa centuries ago, and the food they left behind has become integral to Tanzanian urban eating.

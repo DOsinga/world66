@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Museum dedicated to the traditional flat-bottomed fishing boat that shaped Rovinj's identity"
+score: 7.5
 ---
 
 The batana is a flat-bottomed wooden rowing and sailing boat unique to Rovinj, used by fishermen for centuries to navigate the shallow waters along the Istrian coast. The Batana Eco Museum, opened in 2004 on the harbour front, documents this tradition through models, tools, photographs, and recorded testimonies of the last batana builders and fishermen.

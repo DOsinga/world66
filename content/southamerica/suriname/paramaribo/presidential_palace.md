@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 5.8268
 longitude: -55.1512
+score: 6.6
 ---
 
 The Presidential Palace on Onafhankelijkheidsplein is the most imposing building in the city centre — a large white colonial structure that has served as the official residence and office of Suriname's head of state since the colonial era. Built in the early 19th century, it dominates the north side of the square and is flanked by the Palmentuin to one side and formal government buildings on the other.

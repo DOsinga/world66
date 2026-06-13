@@ -8,6 +8,7 @@ tags:
 - sight
 title: Drakolimni
 type: poi
+score: 8.1
 ---
 
 High on the slopes of Mount Tymfi in the Zagori mountains, the Drakolimni ("dragon lake") sits at 2,050 metres above sea level. The lake is small — only 100 metres across — and a deep blue, with bare rock and a fringe of grass around it. The classic approach is a long day hike from the village of Mikro Papigko, climbing about 1,000 metres through the Pindos forests to the alpine zone.

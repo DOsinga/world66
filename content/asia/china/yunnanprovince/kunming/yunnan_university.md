@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 Yunnan University, founded in 1922, occupies a hilly campus immediately north of Cuihu Park. The original buildings, in a restrained Republican-era style mixing French and Chinese elements, are clustered around a long flight of granite steps known as Yi'ou — "the 95 steps" — that climbs the hillside to the old main building.

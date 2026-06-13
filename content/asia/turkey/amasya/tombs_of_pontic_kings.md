@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Tombs_of_the_kings_of_Pontus
 story: >
   The tombs were the royal necropolis of the Pontic dynasty that ruled much of northern Anatolia between roughly 302 and 63 BC. Mithridates VI, the brilliant and ruthless king who spent decades defying Rome, was descended from rulers buried in these rock-cut chambers. The largest tomb is known locally as the Tomb of the King, though no inscription identifies which Pontic ruler lies within.
+score: 9.3
 ---
 
 Cut directly into the limestone cliff face that looms over Amasya's north bank, these rock tombs are the most visually spectacular sight in the city. There are eighteen chambers of varying sizes, ranging from modest niches to full burial rooms with carved facades. The largest date from the second and first centuries BC, when the Kingdom of Pontus was at its height. At night, dramatic floodlighting turns the cliff into a stage set visible from across the river.

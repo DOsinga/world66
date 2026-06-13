@@ -7,6 +7,7 @@ tags:
 snippet: "Craft brewery on the road to Ensenada"
 latitude: 41.27420
 longitude: -72.94320
+score: 5.8
 ---
 
 Tropera is one of southern Chile's best-known craft brewers. The brewery and tasting room is a few kilometres east of Puerto Varas in the village of Llanquihue, a fifteen-minute drive along the lakeshore. The taproom serves the full range — IPA, golden, stout, sour, and seasonal experiments — alongside burgers, ribs, and fries.

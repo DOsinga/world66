@@ -6,6 +6,7 @@ longitude: 115.7488
 tags:
   - things_to_do
   - beach
+score: 7.1
 ---
 
 South Beach is the long swimming beach a kilometre south of central Fremantle, the suburb's family beach and the daily after-work swim for many locals. The Indian Ocean here is open, the sand is pale and fine, and the protected bay between the South Mole and the breakwater means the water is usually calm.

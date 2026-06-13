@@ -6,6 +6,7 @@ latitude: 17.9656
 longitude: -66.8792
 snippet: UNESCO Biosphere Reserve of subtropical dry forest with 36 miles of trails
 story: "The forest holds nearly 700 plant species, around half of all the dry-forest tree species in the Caribbean — including the guayacan, whose wood is so dense it sinks in water and was once used for ship pulleys and police truncheons."
+score: 9.2
 ---
 
 The Guanica State Forest, or Bosque Estatal de Guanica, is the largest remaining tract of subtropical dry coastal forest in the world and a UNESCO Biosphere Reserve. Around 10,000 acres of cactus, gnarled trees, and limestone outcrops cover the headlands south and east of the town. Despite the spiky look, it is full of life: more than 700 plant species, roughly 100 bird species, and a healthy population of endemic Puerto Rican lizards.

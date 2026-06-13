@@ -11,6 +11,7 @@ story: >
   that splits in the middle and rises six times a day so small ships can pass. It
   is informally known as the Lovers' Bridge: tradition has it that couples who
   cross together as it lowers stay together forever.
+score: 5.8
 ---
 
 Blue Wing Moji crosses the inner harbour at Mojiko Retro and is one of the more photographed features of the district. The drawbridge is lit at night and rises six scheduled times a day — roughly hourly between 10am and 4pm. The rise itself is over in a couple of minutes; it's the slow re-closing that draws crowds.

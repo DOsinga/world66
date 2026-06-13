@@ -8,6 +8,7 @@ latitude: 58.9606
 longitude: -3.2967
 snippet: "Outstanding small modern art gallery on Stromness harbour"
 story: "The core of the collection was given to the people of Orkney by the writer and arts patron Margaret Gardiner in 1979. The works — by Barbara Hepworth, Ben Nicholson, Naum Gabo and other St Ives-school artists — had been gifts from the artists themselves over decades of friendship."
+score: 8.1
 ---
 
 A genuinely surprising find on the Stromness waterfront, the Pier Arts Centre houses one of the best small collections of twentieth-century British modernist art in Scotland — major works by Hepworth, Nicholson, Naum Gabo, Patrick Heron, and the St Ives school. The collection was a personal gift to Orkney by the writer Margaret Gardiner.

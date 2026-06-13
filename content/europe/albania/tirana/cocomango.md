@@ -8,6 +8,7 @@ tags:
   - bar
   - blloku
 neighbourhood: Blloku
+score: 4.6
 ---
 
 A big, busy summer bar in the middle of Blloku with two outdoor terraces and a long cocktail menu. The crowd is mixed and lively from late afternoon onward, and the people-watching is excellent. Loud music after dark.

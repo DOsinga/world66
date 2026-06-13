@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 63.3372
 longitude: -142.9883
+score: 5.2
 ---
 
 Fast Eddy's is the diner everyone in Tok ends up at sooner or later. It is open long hours, the portions are large, and the menu covers everything from breakfast plates through burgers and pizza to a salad bar that always feels slightly unexpected this far north.

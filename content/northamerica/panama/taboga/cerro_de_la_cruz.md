@@ -9,6 +9,7 @@ tags:
 snippet: Hilltop cross with sweeping views over Panama City and the bay
 latitude: 8.7956
 longitude: -79.5550
+score: 7.2
 ---
 
 The wooden cross on the ridge above the village is the obvious short hike on Taboga: a steady climb of about 30 minutes from the church, mostly on a paved path through gardens and past a few houses, then a stretch of dirt track at the top. The reward is a panoramic view across the Bay of Panama, with the skyscrapers of Panama City rising on the horizon, container ships queuing for the canal in between, and the smaller islands of Urabá and Taboguilla just offshore.

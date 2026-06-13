@@ -14,6 +14,7 @@ story: >
   only once per decade or so; the last exposition was in 1996 and drew over two
   million pilgrims. The robe otherwise sits in a golden reliquary casket, visible
   through the treasury window.
+score: 9.5
 ---
 
 The Dom St. Peter in Trier is the oldest Christian church in Germany — a continuous place of worship since the 4th century, when the Roman imperial residence stood on this ground. The current structure integrates Roman foundations, a Romanesque nave, and Gothic chapels added over twelve centuries of building and rebuilding. It is a UNESCO World Heritage Site.

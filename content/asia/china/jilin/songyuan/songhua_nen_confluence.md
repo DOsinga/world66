@@ -8,6 +8,7 @@ latitude: 45.1725
 longitude: 124.8172
 story: >
   Sun Yat-sen, in his 1919 Plan for the Development of China, specifically singled out the confluence of the Songhua and Nen Rivers at Songyuan as an ideal location for a major transportation hub. His vision of a modern networked China imagined this junction as a key node — a reminder that the remote-seeming flatlands of northern Jilin once appeared on the world's most ambitious infrastructure maps.
+score: 6.6
 ---
 
 The confluence of the Songhua and Nen Rivers at Songyuan is the city's geographic reason for being — the point where two major river systems of northeastern China meet and where trade, settlement, and later industrial development converged. The waterfront has been developed as a riverside park and promenade, and the confluence is visible from the riverbank where the two distinct water bodies join.

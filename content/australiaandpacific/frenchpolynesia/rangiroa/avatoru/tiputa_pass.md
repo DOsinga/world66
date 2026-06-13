@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Tiputa_Pass
 story: >
   Every morning without fail, a pod of spinner dolphins rides the incoming tide through Tiputa Pass, surfing the pressure wave at the front of the current. Locals say the dolphins have been doing this for as long as anyone can remember — generations of the same families returning to play in the same few hundred metres of water.
+score: 9.2
 ---
 
 The eastern pass of Rangiroa is the place to watch spinner dolphins. Each morning on the incoming tide, a resident pod of several dozen dolphins rides the current through the channel, spinning and leaping in the bow wave of the tidal flow. You can watch from the bank for free; dive operators take divers in to swim alongside them.

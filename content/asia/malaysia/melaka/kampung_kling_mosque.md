@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Kampung Kling Mosque
 type: poi
+score: 8.1
 ---
 
 One of the oldest mosques in Malaysia, sitting in the multicultural heart of Melaka's old town. Its most distinctive feature is the minaret, which is shaped like a Chinese or Sumatran pagoda rather than the conventional Islamic tower. The three-tiered pyramid roof of the main prayer hall is equally unusual. The interior has Corinthian columns — probably salvaged from Portuguese sources — adding another layer to the architectural mix.

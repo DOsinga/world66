@@ -8,6 +8,7 @@ tags:
 latitude: 31.4244
 longitude: -64.1925
 neighbourhood: Güemes
+score: 6.9
 ---
 
 The weekend artisan market that fills several blocks of Calle Belgrano in Güemes with stalls of locally made crafts — leather, silverwork, mate gourds and bombillas, ceramics, jewellery, and woven textiles. Saturday and Sunday afternoons and into the evening.

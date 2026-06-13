@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 22.5381
 longitude: 114.1175
+score: 7.6
 ---
 
 Luohu is the oldest part of Shenzhen — the original border district that grew up around the Lo Wu crossing into Hong Kong. It has a denser, more chaotic energy than the planned districts further west: markets spill onto pavements, restaurants occupy narrow lanes, and the streets around the railway station are perpetually busy with cross-border travellers.

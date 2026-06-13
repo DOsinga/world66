@@ -7,6 +7,7 @@ tags:
 latitude: 55.0303
 longitude: 82.9203
 snippet: Solid collection of Russian art including works evacuated from Leningrad during WWII
+score: 7.3
 ---
 
 The Novosibirsk State Art Museum on Lenin Square has a collection that punches above what you might expect from a Siberian city. The core strength is Russian painting from the 18th to 20th centuries — Realist landscapes, Socialist Realist canvases, icons — supplemented by a collection of Western European art, including some pieces originally evacuated here from Leningrad museums during the Second World War and never returned.

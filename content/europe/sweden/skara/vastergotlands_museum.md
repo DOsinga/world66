@@ -6,6 +6,7 @@ longitude: 13.4424
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The regional museum of Västergötland sits a short walk east of the cathedral and is the single best place to understand the layered history of this part of Sweden. The permanent exhibition runs from the Stone Age through the Viking era to the present, with strong sections on the rune stones of the region and on medieval Skara.

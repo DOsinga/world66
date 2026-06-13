@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Indian merchants and ascetics travelled along the Caspian trade routes from Punjab and Multan to reach this place, sometimes spending years here in austere devotion. A Sanskrit inscription above the main fire altar dates the present building to 1745, but the cult is much older — Zoroastrians from Persia probably used the same gas vents centuries before."
+score: 8.6
 ---
 
 The Ateshgah, the Fire Temple, is a pentagonal stone caravanserai-fortress about thirty kilometres east of Baku, built in the seventeenth and eighteenth centuries by Hindu, Sikh, and Zoroastrian fire-worshippers around a natural gas vent that burned continuously at its centre. The flame in the central altar today is fed by piped gas — the original vents stopped burning in the 1960s when surrounding industrial drilling reduced the pressure — but the building is otherwise intact.

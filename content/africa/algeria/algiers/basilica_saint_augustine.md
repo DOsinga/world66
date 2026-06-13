@@ -6,6 +6,7 @@ longitude: 3.0480
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Maison de la Culture Mouloud Mammeri (named after the Kabyle novelist and linguist) is the main performing arts and cultural events centre in central Algiers. Theatre, concerts, film screenings, and literary events are held here regularly. The programming spans traditional Algerian music — rai, chaabi, gnawa — and contemporary theatre.

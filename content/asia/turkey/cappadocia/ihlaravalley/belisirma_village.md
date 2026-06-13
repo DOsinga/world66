@@ -6,6 +6,7 @@ longitude: 34.2833
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The village halfway along the gorge is the obvious lunch stop. A handful of riverside restaurants set out cushions and low tables on platforms in or over the Melendiz, and you can take your shoes off and eat trout with your feet in the water.

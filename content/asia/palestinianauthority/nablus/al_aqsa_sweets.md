@@ -6,6 +6,7 @@ longitude: 35.2620
 tags:
   - eating_out
   - restaurant
+score: 7.0
 ---
 
 Knafeh is Nablus's signature dish — a warm pastry of white cheese layered under shredded kataifi dough, baked in a wide circular pan and finished with rose-water sugar syrup. The city is considered the home of knafeh and Nablusi knafeh, made with the local white cheese that is slightly salty and unusually stretchy, is considered the definitive version throughout the Arab world.

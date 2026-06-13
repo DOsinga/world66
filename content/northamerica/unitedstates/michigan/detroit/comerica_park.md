@@ -10,6 +10,7 @@ tags:
 neighbourhood: Foxtown
 title: Comerica Park
 type: poi
+score: 6.7
 ---
 
 Comerica Park has been the home of the Detroit Tigers since 2000, replacing the beloved Tiger Stadium on Michigan and Trumbull. The exterior is decorated with enormous tiger statues with glowing eyes, and the concourse includes a Ferris wheel with car-shaped baskets, a carousel of tigers, and a museum of Tigers history. The views of the downtown skyline beyond the centre-field wall are among the best in baseball.

@@ -15,6 +15,7 @@ story: >
   line went. The 1,142-kilometre extension to Lhasa — across permafrost,
   over the 5,072-metre Tanggula Pass, and on through territory previously
   considered impossible to build through — is the highest railway in the world.
+score: 4.8
 ---
 
 The reason most travellers ever come to Golmud. Trains to Lhasa, to Xining, and onward into the rest of the Chinese rail network all leave from here. The station is large, modern, and well kept; the platform is at 2,800 metres, the highest you will be until the climb begins.

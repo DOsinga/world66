@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Bronze Age burial mound exposed by a 19th-century storm"
 story: "The mound was hidden under sand for centuries until a storm in 1885 stripped the dunes back and revealed inverted pottery urns containing cremated bones — the burials of people who lived on Inis Oirr more than two thousand years earlier."
+score: 6.1
 ---
 
 Cnoc Raithní — "the hill of bracken" — is a low Bronze Age tumulus a short walk from the strand. The mound itself is unspectacular at first glance: a rise of stone and earth perhaps a metre high. What makes it remarkable is the find that emerged here when a storm in 1885 cleared the covering of sand: a number of pottery cinerary urns, inverted over the cremated remains of the dead, along with a small bronze pin.

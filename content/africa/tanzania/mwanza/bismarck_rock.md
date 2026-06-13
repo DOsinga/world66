@@ -12,6 +12,7 @@ story: >
   colonisation of what was then German East Africa. When the explorer Henry Morton
   Stanley charted the area in the 1870s the boulder was already on local maps. The
   Germans, characteristically, decided it needed renaming after the man at home.
+score: 6.8
 ---
 
 A few hundred metres offshore at the southern end of Mwanza's main harbour stands the rock that defines the city — a single granite boulder weighing tens of tonnes, balanced apparently impossibly on top of a small stack of smaller rocks just above the lake's surface. The whole composition looks like it could topple at any moment but has stood, broadly unchanged, for at least the past century and a half. It is on every postcard of Mwanza and gives the city the nickname "Rock City."

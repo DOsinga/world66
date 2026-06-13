@@ -15,6 +15,7 @@ story: >
   granted the title of minster, a recognition normally reserved for cathedrals
   and very few large parish churches. The change brought a major reordering of
   the interior to make the nave usable for concerts, fairs, and community events.
+score: 8.7
 ---
 
 Hull Minster, formerly Holy Trinity, dominates the south end of the Old Town with a tower that rises 46 metres above the surrounding cobbles. The interior is unexpectedly bright — large clear-glass Perpendicular windows fill it with daylight — and the floor of the nave has been levelled and stripped of pews so it can host markets, beer festivals, and live music alongside services. The medieval font is one of the finest in the north of England, and the brasses around the chancel are worth a look.

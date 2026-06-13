@@ -6,6 +6,7 @@ tags:
   - bar
 title: Cable Car Cinema and Cafe
 type: poi
+score: 6.3
 ---
 
 Cable Car Cinema on South Main Street has been showing independent, foreign, and repertory films for more than 25 years. The format is unusual: you eat during the film, seated at tables rather than in conventional cinema rows. The food is modest — soups, sandwiches, light plates — but the combination of food and film in a relaxed setting has kept the place essential to Providence's arts scene.

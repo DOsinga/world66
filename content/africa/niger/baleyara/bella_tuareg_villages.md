@@ -11,6 +11,7 @@ story: >
   The Bella were the slave caste of the Tuareg, performing agricultural and domestic labour for nomadic masters.
   When France abolished slavery in its West African territories in the early 20th century, many Bella chose to stay near their former masters' territory rather than return to unknown homelands.
   Their communities today have their own distinct identity — neither fully Tuareg nor Hausa — shaped by centuries of servitude and decades of freedom.
+score: 6.6
 ---
 
 The bush around Baleyara holds a number of villages of Bella Tuareg — communities descended from people who were enslaved by Tuareg nomads and who formed their own settlements after emancipation in the colonial period. The villages are visually distinct from the farming villages of the Djerma people in the area: the architecture, the clothing, and the social organisation all reflect the community's particular history.

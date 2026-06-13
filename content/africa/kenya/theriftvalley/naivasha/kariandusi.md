@@ -10,6 +10,7 @@ tags:
   - sight
 story: >
   Kariandusi was excavated in 1929 by Louis Leakey, the archaeologist who would later make far more famous discoveries at Olduvai Gorge. The tools found here are Acheulean — the stone tool technology associated with Homo erectus and early Homo sapiens — and date to around 1.4 million years ago. The site sits on what was once the beach of a much larger ancient lake, and the obsidian hand axes here were made from volcanic glass that came from sources tens of kilometres away, suggesting that even pre-modern humans engaged in long-distance exchange.
+score: 7.2
 ---
 
 Kariandusi is a Palaeolithic site on the eastern edge of the Rift Valley, about 15 kilometres north of Naivasha town near the village of Gilgil. It is one of the best places in Kenya to see Acheulean stone tools — the teardrop-shaped hand axes that were the Swiss Army knife of the Stone Age — in context. The site is small and easily managed in an hour.

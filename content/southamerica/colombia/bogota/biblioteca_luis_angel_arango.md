@@ -8,6 +8,7 @@ tags:
 latitude: 4.5972
 longitude: -74.0728
 snippet: "One of Latin America's great public libraries, in La Candelaria — free concerts and art shows"
+score: 9.0
 ---
 
 The Luis Ángel Arango, run by the Banco de la República, is one of the most visited libraries in the world and one of the finest in Latin America. It sits in a complex of colonial and modern buildings in La Candelaria, a short walk from the Museo Botero. The library holds a remarkable collection of rare books and manuscripts alongside modern reading rooms open to anyone.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A small Tibetan-style monastery on the slope below Pusading
+score: 7.0
 ---
 
 Yuanzhao Temple is one of the cluster of buildings on the slope below [Pusading](/asia/china/shanxiprovince/mtwutai/pusading), squeezed between [Luohou Temple](/asia/china/shanxiprovince/mtwutai/luohou_temple) above and the central street of Taihuai below. It was built in the Ming dynasty and has had a continuous existence since, although the present compound is mostly Qing.

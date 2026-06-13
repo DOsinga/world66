@@ -9,6 +9,7 @@ tags:
 neighbourhood: Fondren
 latitude: 32.3415
 longitude: -90.1847
+score: 6.9
 ---
 
 A 1946 soda fountain at the back of what was once a working pharmacy in Fondren — the booths, the formica counter, the chrome stools, all original. Brent's serves diner breakfasts (eggs, biscuits, grits), burgers, and milkshakes made with proper ice cream.

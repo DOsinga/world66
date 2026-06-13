@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Nellie Johnstone No. 1
 type: poi
+score: 5.9
 ---
 
 The Nellie Johnstone No. 1 is a replica wooden oil derrick on the bank of the Caney River in Johnstone Park, marking the spot where Oklahoma's first commercial oil well was drilled in 1897. The discovery predated Oklahoma statehood by ten years and set off the oil boom that defined the region's 20th century.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 37.9700
 longitude: 126.5550
+score: 5.5
 ---
 
 The Tongil ("Unification") Restaurant is one of the standard lunch stops for tours visiting Kaesong. It occupies a low traditional-style building near the old city centre and serves the Kaesong specialities — pansangki tray meals, ginseng chicken soup, kimchi, and a steady parade of side dishes.

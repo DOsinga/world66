@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.0538
 longitude: -119.52
+score: 7.5
 ---
 
 North America's first Indigenous-owned winery, run by the Osoyoos Indian Band since 2002. The winery sits on a south-facing bench above town in the middle of the desert, and the setting is excellent — the tasting room terrace looks back over the lake and the valley floor. The wines are serious: Qwam Qwmt (meaning "achieving excellence" in the Syilx language) is the top-tier label, focused on Merlot, Cabernet Sauvignon, and Syrah.

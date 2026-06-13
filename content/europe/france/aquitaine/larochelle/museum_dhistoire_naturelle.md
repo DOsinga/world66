@@ -9,6 +9,7 @@ latitude: 46.1648
 longitude: -1.1511
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9um_d%27Histoire_naturelle_de_La_Rochelle
+score: 7.9
 ---
 
 La Rochelle's Muséum d'Histoire Naturelle, founded in 1832, is one of the most important natural history museums in France outside Paris — a slightly old-fashioned set of galleries filled with stuffed animals, mineral specimens, and an exceptional ethnographic collection brought back by 19th-century explorers from the Pacific, Africa, and the Arctic.

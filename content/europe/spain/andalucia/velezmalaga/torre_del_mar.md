@@ -8,6 +8,7 @@ tags:
   - day_trips
 latitude: 36.75
 longitude: -4.0833
+score: 6.2
 ---
 
 Torre del Mar is the coastal neighbourhood of Vélez-Málaga, about 4 km south of the town centre and connected by local bus and easy cycling routes. It has a long straight beach on the eastern Costa del Sol that is considerably less developed than the resort strip further west toward Torremolinos and Fuengirola — more Spanish, quieter, and with better seafood restaurants on the paseo marítimo.

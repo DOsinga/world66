@@ -8,6 +8,7 @@ tags:
   - sight
   - old_city
 snippet: An 18th-century mosque with one of the city's finest carved wooden ceilings
+score: 7.5
 ---
 
 Built in 1727 by Imam al-Mahdi Abbas, this mosque stands within the old city and is admired for its woodwork — the interior ceiling is among the finest in Yemen, painted with intricate geometric patterns in the style typical of the country's Zaydi tradition. The two minarets are notably elegant, the proportions tighter than the larger Ottoman mosques nearby.

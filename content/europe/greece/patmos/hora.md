@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.3130
 longitude: 26.5478
+score: 9.2
 ---
 
 The medieval hilltop village of Hora is one of the finest in the Aegean — a maze of whitewashed mansions, arched alleyways, and hidden courtyards that has remained largely unchanged since the 17th century. The village was built high and inland precisely to be difficult for pirates to find and attack, and the labyrinthine layout served that defensive purpose well.

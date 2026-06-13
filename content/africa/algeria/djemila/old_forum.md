@@ -14,6 +14,7 @@ story: >
   stands at its northern end. Septimius Severus himself was from Leptis Magna in
   modern Libya, and his dynasty lavished attention and money on North African cities.
   Djemila's prosperity during the Severan period is written in stone throughout the site.
+score: 8.9
 ---
 
 The Old Forum is the heart of the ancient city — the civic square where the original Roman colonists gathered, conducted business, and participated in public life. It is substantially intact: the paving stones are in place, the Temple of the Septimian family at the northern end still has its columns standing, and the layout of the surrounding buildings is legible.

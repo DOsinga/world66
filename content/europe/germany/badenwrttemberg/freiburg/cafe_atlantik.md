@@ -7,6 +7,7 @@ tags:
 snippet: "Long-running political café and music venue"
 latitude: 47.99280
 longitude: 7.85490
+score: 6.8
 ---
 
 The Atlantik has been a fixture of Freiburg's alternative scene since 1976. By day it functions as a regular café with strong coffee, soup, and salads; by night it becomes a small concert venue for indie bands, singer-songwriters, jazz, and political talks. The crowd skews left and academic — university lecturers and long-time activists mix with students.

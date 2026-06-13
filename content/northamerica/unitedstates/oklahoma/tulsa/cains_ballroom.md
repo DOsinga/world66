@@ -12,6 +12,7 @@ story: >
   Bob Wills and his Texas Playboys broadcast live from Cain's every weekday morning from 1934 to 1942, turning the ballroom into the unofficial capital of western swing. On tour stops decades later, the Sex Pistols played here in January 1978. Sid Vicious allegedly punched a hole in the wall backstage. The hole, behind the stage, has never been fully repaired.
 sources:
   - https://en.wikipedia.org/wiki/Cain%27s_Ballroom
+score: 8.3
 ---
 
 Cain's Ballroom opened in 1924 as a garage for oilman Tate Brady's fleet of cars, was converted into a dance hall, and has been one of Oklahoma's most beloved music venues ever since. The sprung maple dance floor, designed to flex underfoot, is still the best reason to come — it makes dancing feel effortless, which is why Bob Wills and his Texas Playboys made it their home base in the 1930s and 1940s.

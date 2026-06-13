@@ -6,6 +6,7 @@ longitude: -89.5193
 tags:
   - eating_out
   - restaurant
+score: 7.5
 ---
 
 Ajax Diner is the meat-and-three on the Square and one of the most beloved cheap-eats places in town. The format is classic Southern: pick a meat (fried catfish, meatloaf, fried chicken livers, smoked pulled pork) and two or three sides (greens, mac and cheese, black-eyed peas, fried okra) from the chalkboard menu that runs the length of the dining room. Cornbread or a yeast roll comes on the side.

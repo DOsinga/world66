@@ -7,6 +7,7 @@ tags:
 snippet: "Ten-day July arts festival drawing Indigenous artists from across the circumpolar Arctic"
 latitude: 68.358
 longitude: -133.72
+score: 8.2
 ---
 
 The Great Northern Arts Festival has run in Inuvik every July since 1989 and is the largest gathering of Inuit, Gwich'in, and other circumpolar Indigenous artists in Canada. It is the cultural event of the year for the western Arctic — around 100 artists in residence over ten days, daily demonstrations of carving, beadwork, sewing, drum-making, and printmaking, evening performances of throat singing, drum dancing, and Gwich'in fiddle music.

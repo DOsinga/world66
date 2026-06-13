@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 story: "The basement contains powdered mummy, a sought-after early-modern medicinal ingredient sold here by the gram into the 18th century, alongside crocodile bile and unicorn horn (in fact narwhal tusk). The records show a thriving trade."
+score: 7.8
 ---
 
 The Hintz House on Piața Unirii operated as a working pharmacy from 1573 until the Communist regime nationalised it in 1949 — nearly four centuries on the same spot. The Pharmacy Museum, opened in 1954, preserves the cabinets, jars, mortars, and ledgers from that long history.

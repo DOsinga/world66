@@ -8,6 +8,7 @@ tags:
 - park
 title: Mandarin Tea Garden
 type: poi
+score: 5.3
 ---
 
 This is one of the first Chinese Restaurants in Davao City and it is known for its affordable prices and well-cooked meals!

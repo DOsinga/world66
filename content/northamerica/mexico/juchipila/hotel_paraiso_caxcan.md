@@ -7,6 +7,7 @@ tags:
 latitude: 21.3936
 longitude: -103.1218
 story: "The Caxcán people who lived in this canyon long before the Spanish arrived considered these springs sacred — the name Juchipila itself comes from the Caxcán word Xuchipilan, meaning 'place of flowered nobles'. The thermal water still surfaces at around 38°C, and on a cold morning in the canyon the steam drifts across the pool in a way that makes the old reverence feel entirely reasonable."
+score: 7.3
 ---
 
 A couple of kilometres north of Juchipila on Highway 54, Hotel Paraíso Caxcán sits directly over natural thermal springs where warm mineral water surfaces at around 38°C. The pools are set into a garden overlooking the Río Juchipila canyon, and on clear days the ridgelines that hem in the valley give the bathing experience an unusually dramatic backdrop. The water is described locally as having healing properties, and visitors come from Guadalajara and Zacatecas specifically for a soak.

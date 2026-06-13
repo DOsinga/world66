@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 13.225
 longitude: -61.2683
+score: 7.1
 ---
 
 The Black Point tunnel was hacked through 100 metres of volcanic rock between 1810 and 1815 by enslaved labourers and free Caribs to link the sugar estates of the upper leeward coast with the shipping point at Byera Bay. It is just wide enough for a single cart and one of the few surviving pieces of pre-emancipation infrastructure on the island.

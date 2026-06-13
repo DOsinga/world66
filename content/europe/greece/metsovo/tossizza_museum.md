@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_house
+score: 8.3
 ---
 
 The eighteenth-century **Arhondiko Tossizza** is the preserved mansion of one of the wealthiest Vlach trading families of Metsovo, restored in the 1950s by Evangelos Averoff and opened as a folklore museum. The interior is a remarkable survival: low-ceilinged rooms with hand-carved wooden panelling, tiled stoves, woven kilims, copper kitchenware and the storage rooms where the family kept its tobacco and silver.

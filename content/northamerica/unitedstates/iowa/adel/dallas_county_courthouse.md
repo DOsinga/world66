@@ -14,6 +14,7 @@ story: >
   Iowa counties to build in stone and permanence rather than wood and economy.
 sources:
   - https://en.wikipedia.org/wiki/Dallas_County_Courthouse_(Iowa)
+score: 7.4
 ---
 
 The Dallas County Courthouse stands at the centre of Adel's compact downtown and is the town's most photographed building. Built in 1902 in Romanesque Revival style, it is a handsome structure in red brick and limestone, with a prominent tower that anchors the town square. Iowa has some of the finest county courthouses in the Midwest, and the Dallas County Courthouse is one of the better examples of the type — ambitious in scale for a small county seat, well-preserved, and still functioning as intended.

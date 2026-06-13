@@ -8,6 +8,7 @@ latitude: 13.2933
 longitude: 144.6575
 story: >
   When the Spanish built this fort in the late 18th century to defend the bay where Magellan had landed 250 years earlier, they chose a position that gave them a clear line of fire across the entire bay entrance. The walls are still standing. No enemy fleet ever tried to enter.
+score: 8.2
 ---
 
 Fort Nuestra Señora de la Soledad sits on a low promontory overlooking Umatac Bay, offering the best view in the village from its crumbling parapet. The Spanish built it in the late 18th century to defend the bay — one of the natural harbours on the western coast of Guam — against the British and other European rivals. The walls are substantial and mostly intact, though the interior has long since returned to scrub.

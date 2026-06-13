@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Long lagoon-side walking path with constant bird life
+score: 6.9
 ---
 
 The Walvis Bay waterfront promenade runs for several kilometres along Atlantic Street on the inner edge of the lagoon. It is the heart of the town's everyday outdoor life: joggers in the morning, families and kite-fliers in the afternoon, fish-and-chip eaters at sunset. The promenade is paved, flat, well-lit, and one of the safest urban walks in Namibia.

@@ -10,6 +10,7 @@ tags:
   - polana
   - restaurant
 neighbourhood: Polana
+score: 6.6
 ---
 
 **Restaurante Mauá** is a modest mid-range Mozambican restaurant on Avenida Mao Tse Tung, run by the same family for years. It is the easiest place in central Maputo to find the country's deep-tradition home dishes: **matapa** (cassava leaves slow-cooked with peanuts, coconut and shrimp); **caril de caranguejo** (crab curry); **galinha à zambeziana**; **xima** porridge with stewed goat; and *feijoada* for those wanting the Portuguese end of the menu.

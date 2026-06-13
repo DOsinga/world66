@@ -8,6 +8,7 @@ tags:
 latitude: 28.0977
 longitude: -15.6956
 story: "El Maipés is one of the largest pre-Hispanic cemeteries in the Canary Islands, with over 700 burial tumuli spread across a volcanic landscape. The Guanche people who built these conical stone mounds buried their dead here for centuries before the Spanish conquest in the 15th century. Most of the graves have never been excavated, and the site is protected as a Bien de Interés Cultural."
+score: 8.3
 ---
 
 El Maipés is an ancient Guanche burial ground spread across a volcanic lava field on the eastern edge of Agaete municipality. The site contains more than 700 stone tumuli — low, conical burial mounds built from the dark volcanic rock — making it one of the most significant pre-Hispanic sites in Gran Canaria. A small museum near the entrance explains the Guanche culture and what is known about the people buried here.

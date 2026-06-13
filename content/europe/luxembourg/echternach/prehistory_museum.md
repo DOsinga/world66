@@ -7,6 +7,7 @@ tags:
 snippet: Stone tools, bronze hoards and a million years of human prehistory
 latitude: 49.8128
 longitude: 6.4231
+score: 7.4
 ---
 
 The Musée de la Préhistoire is a serious little archaeological museum on the Place de la Bibliothèque, run by the Luxembourgish national museums service. The permanent display traces human presence in Luxembourg and the wider Mosel region from the lower Palaeolithic — flint hand axes nearly a million years old — through the Neolithic, Bronze Age, and Iron Age up to Roman contact.

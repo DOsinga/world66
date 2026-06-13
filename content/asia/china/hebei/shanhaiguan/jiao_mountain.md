@@ -8,6 +8,7 @@ snippet: The first peak of the mountain Great Wall, with steep climbs and few cr
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 **Jiao Mountain** (*Jiaoshan*) is the first peak of the **Yanshan** range rising behind Shanhaiguan, and the place where the Great Wall begins its long climb up into the mountains after running flat across the coastal plain. The first kilometre of restored wall is dramatically steep — a series of stone staircases zig-zagging up the ridge to a hilltop watchtower at 519 m, with views back over the town, the sea and the gap between the mountains and the coast that gave Shanhaiguan its strategic importance.

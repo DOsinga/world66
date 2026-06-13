@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -6.1167
 longitude: 177.2833
+score: 7.3
 ---
 
 The maneapa in Kulia is the largest building on Niutao, an open-sided thatched-roof community hall that serves as the village meeting house, ceremonial space, and visitor reception. Like every maneapa in the country, it is the centre of social and political life on the island; if you are formally welcomed to Niutao it will be here, with the chief and the village elders sitting along the inland wall.

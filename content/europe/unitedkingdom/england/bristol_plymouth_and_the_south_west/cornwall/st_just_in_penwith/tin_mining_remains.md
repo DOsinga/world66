@@ -12,6 +12,7 @@ tags:
 title: Tin Mining Remains at Botallack and Levant
 type: poi
 url: https://www.nationaltrust.org.uk/visit/cornwall/levant-mine-and-beam-engine
+score: 9.1
 ---
 
 The cliffside mine workings between Botallack and Levant are among the most dramatic industrial monuments in Britain. At Botallack, two engine houses known as the Crown Mines cling to the cliff face above the sea, their foundations set directly on the rock -- the miners working beneath them dug shafts that extended far out under the seabed.

@@ -8,6 +8,7 @@ tags:
   - sight
   - lake
 story: "Berber legend says Tislit (the bride) and Isli (the bridegroom) were lovers from rival clans whose families forbade their marriage. They wept until their tears formed the two lakes, then drowned themselves in them. The Moussem des Fiançailles at Imilchil is said to commemorate this story by giving Berber families a chance to marry without that kind of refusal."
+score: 7.2
 ---
 
 Tislit, the "Lake of the Bride", sits a few kilometres north of Imilchil at around 2,200 metres. It is a shallow crater lake about 1.5 kilometres long, ringed by reddish hills and grazing land. In summer the water turns brilliant blue against the dry surrounding plateau; in spring it is fed by snowmelt and the shoreline is fringed with wildflowers.

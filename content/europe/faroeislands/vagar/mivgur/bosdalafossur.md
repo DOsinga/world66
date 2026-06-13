@@ -10,6 +10,7 @@ latitude: 62.0541
 longitude: -7.2919
 sources:
   - https://en.wikipedia.org/wiki/B%C3%B8sdalafossur
+score: 8.8
 ---
 
 Bøsdalafossur is the waterfall at the western end of Leitisvatn, where the lake drains over the cliff edge and drops around 30 metres directly into the Atlantic. It sits at the end of the Leitisvatn hike from Miðvágur.

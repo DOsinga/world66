@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Desert Diamond Arena
 type: poi
+score: 6.3
 ---
 
 Located next to State Farm Stadium in Glendale, Desert Diamond Arena (formerly Jobing.com Arena) hosts major concerts, shows, and sporting events throughout the year. The arena seats around 17,000 and has been a fixture of the West Valley entertainment scene since it opened in 2003.

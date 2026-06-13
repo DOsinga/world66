@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - walled_city
+score: 7.4
 ---
 
 The Sunehri Mosque — the "Golden Mosque" — sits in the heart of the Walled City, on the Kashmiri Bazaar between Wazir Khan Mosque and the fort. Three small gilded copper domes rise above the prayer hall, glinting against the surrounding red-brick havelis.

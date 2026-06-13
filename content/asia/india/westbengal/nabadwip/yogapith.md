@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 23.4248
 longitude: 88.3905
+score: 8.3
 ---
 
 The shrine identified by Bhaktivinoda Thakur in 1894 as the precise birthplace of Chaitanya Mahaprabhu — a salmon-and-cream temple just east of the ISKCON main compound. Inside is a small dark room said to be the actual chamber in which Chaitanya was born to Sachi Devi and Jagannath Misra in 1486.

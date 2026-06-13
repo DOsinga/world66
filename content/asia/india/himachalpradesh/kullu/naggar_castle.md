@@ -8,6 +8,7 @@ tags:
 latitude: 32.1167
 longitude: 77.1833
 story: "The Russian painter Nicholas Roerich made his home in Naggar from 1928 until his death in 1947, attracted by the light on the snow peaks. His house, a few hundred metres from the castle, is now a small museum with original paintings and family photographs."
+score: 8.4
 ---
 
 Naggar was the capital of Kullu for nearly 1,500 years before the seat was moved down the valley in the 17th century. The castle, built in the local style of dry-stone walls reinforced with horizontal timber beams, has survived two earthquakes that flattened most other buildings nearby — a vindication of the technique.

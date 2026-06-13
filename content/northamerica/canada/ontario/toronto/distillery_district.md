@@ -9,6 +9,7 @@ tags:
 - historic
 title: Distillery Historic District
 type: poi
+score: 8.5
 ---
 
 The Distillery Historic District is the most photogenic part of Toronto — forty-seven Victorian industrial buildings in red brick and cast iron, all immaculately preserved and now converted into galleries, restaurants, boutiques, and performance venues. The complex is entirely pedestrianised. On a quiet weekday morning, before the tour groups arrive, the courtyards of the old Gooderham & Worts Distillery feel genuinely atmospheric.

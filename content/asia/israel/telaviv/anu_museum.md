@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 32.1117
 longitude: 34.8048
+score: 8.1
 ---
 
 ANU, formerly the Beit Hatfutsot, sits on the Tel Aviv University campus in the north of the city and is the world's largest museum devoted to the history and culture of the Jewish people. It was completely overhauled in 2021 with a new permanent collection covering the diaspora, the formation of modern Jewish identity, and contemporary Jewish life worldwide.

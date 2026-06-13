@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 29.8750
 longitude: 121.5480
+score: 7.7
 ---
 
 The old commercial streets east of the Drum Tower preserve several blocks of Qing and early Republican commercial architecture alongside a mix of modern shops — a palimpsest of Ningbo's trading character across two centuries. The buildings here were largely commercial from their foundation, designed for ground-floor shops with storage and living quarters above, and several retain their original carved timber shopfronts with name plaques and decorative panels.

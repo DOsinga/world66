@@ -8,6 +8,7 @@ tags:
   - restaurant
   - santurce
 neighbourhood: Santurce
+score: 6.6
 ---
 
 A permanent food-truck park on Avenida Ponce de León in Santurce — a lot with a dozen or so trucks and stalls arranged around a central seating area, with bar service and live music most evenings. Lote 23 opened in 2016 and quickly became the standard introduction to San Juan's casual food scene; everything from sushi to ramen to barbecue to Puerto Rican classics.

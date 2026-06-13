@@ -12,6 +12,7 @@ title: St Paul's Cathedral
 type: poi
 story: >
   The cathedral's design by Aldo Spirito was chosen in 1980 when Pope John Paul II visited Abidjan. The entire structure hangs from a single enormous cross — the roof, walls, and floor are all suspended from its arms, with no interior columns to support the building.
+score: 8.7
 ---
 
 St Paul's Cathedral in Le Plateau is one of Africa's most unusual pieces of religious architecture. Completed in 1985, it is essentially a giant concrete cross from which the entire building hangs — the curved roof and the walls of stained glass are suspended from the cross-arms, with a completely open interior uninterrupted by columns.

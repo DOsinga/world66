@@ -8,6 +8,7 @@ tags:
 - grand_center
 latitude: 38.6394
 longitude: -90.2278
+score: 7.8
 ---
 
 The Fox is one of the great surviving movie palaces of the 1920s — a 4,500-seat behemoth on Grand Boulevard built in 1929 by William Fox at the height of the silent-film era. The interior is a riot of "Siamese Byzantine" decoration: gilded elephants, dragons, marble columns, an enormous chandelier, and a Wurlitzer organ that still gets used.

@@ -7,6 +7,7 @@ tags:
 latitude: 11.3175
 longitude: -5.6669
 story: "The tata was built by Tieba Traoré in the 1870s to defend Sikasso against Samori Touré, the Mandinka conqueror who eventually besieged the city for fifteen months. The French finally breached the walls in 1898; the surviving sections are the longest stretches of pre-colonial fortification still standing in West Africa."
+score: 7.9
 ---
 
 The earthen ramparts of the old Kénédougou capital once enclosed the entire city in a roughly nine-kilometre ring up to six metres high. What remains today are eroded but substantial sections — best seen in the southern and eastern outskirts where the wall still rises clear of the ground.

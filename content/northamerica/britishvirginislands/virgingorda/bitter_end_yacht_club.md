@@ -7,6 +7,7 @@ tags:
 latitude: 18.499
 longitude: -64.357
 snippet: The original BVI sailing resort, at the eastern end of North Sound, accessible only by boat
+score: 5.6
 ---
 
 The Bitter End Yacht Club is one of the most famous sailing resorts in the Caribbean. It sits on a steep wooded hillside at the eastern end of [North Sound](/northamerica/britishvirginislands/virgingorda/north_sound), with no road access — the only way in is by boat. It opened in 1973 as a low-key clubhouse for visiting sailors and has grown into a full resort, though it still keeps a strong sailing focus and a slightly bohemian atmosphere.

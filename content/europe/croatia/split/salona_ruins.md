@@ -14,6 +14,7 @@ story: >
   fled directly into the palace — which is why Split exists at all. Salona was never
   rebuilt and its stone was systematically quarried for centuries to build the city it
   had spawned.
+score: 8.2
 ---
 
 Salona, immediately north of Split, was Roman Dalmatia's most important city for five centuries — and Diocletian's hometown before he became emperor. The ruins are spread across a large site in the modern suburb of Solin: a 1st-century amphitheatre (partially standing), city walls with towers, early Christian basilicas, and a large necropolis. The site is substantially less visited than the palace in Split, which means you often have it largely to yourself.

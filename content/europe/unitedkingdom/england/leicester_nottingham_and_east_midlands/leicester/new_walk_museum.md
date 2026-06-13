@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.6289
 longitude: -1.1288
+score: 7.8
 ---
 
 Leicester's main municipal museum sits at the southern end of New Walk, a rare pedestrian promenade that runs unbroken through the city. The building is free and covers a lot of ground: an Egyptian gallery with genuine mummies, natural history displays, dinosaur fossils, and several floors of European painting and decorative arts.

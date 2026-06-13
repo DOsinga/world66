@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -27.0931
 longitude: -48.6109
+score: 6.8
 ---
 
 Meia Praia is the long curving beach that defines Itapema — roughly six kilometres of pale sand running from the southern fishing colony at Canto da Praia up to the northern boundary with Porto Belo. The southern half is more built-up, with the main beachfront avenue (Avenida Nereu Ramos) lined by condominiums, sodas, and beach kiosks; the northern half thins out into quieter stretches.

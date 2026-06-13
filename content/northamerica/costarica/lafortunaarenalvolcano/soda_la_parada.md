@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 10.4679
 longitude: -84.6435
+score: 5.8
 ---
 
 Soda La Parada is one of La Fortuna's most reliable sodas — the traditional Costa Rican lunch counters that serve casados (rice, beans, salad, and a choice of protein), fruit smoothies, and coffee at prices aimed at locals rather than tourists. It sits near the bus terminal in the center of town and is typically busy with a mix of travellers and Ticos.

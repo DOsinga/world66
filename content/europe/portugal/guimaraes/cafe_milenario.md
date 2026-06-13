@@ -6,6 +6,7 @@ longitude: -8.2929
 tags:
   - bars_and_cafes
   - cafe
+score: 6.2
 ---
 
 A classic café on Oliveira Square with marble-topped tables, mirrors, and a long wooden counter. Sit outside under the arcades for the view of the [Padrão do Salado](/europe/portugal/guimaraes/padrao_do_salado), or inside if the wind is up.

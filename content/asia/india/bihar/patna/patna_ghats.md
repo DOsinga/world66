@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A long ribbon of riverside ghats along the Ganges; the heart of Chhath Puja and a beautiful place at dawn
 story: "During Chhath Puja, the four-day festival in October or November, the entire Patna riverfront fills with women in red and orange saris standing waist-deep in the river offering arghya to the setting and rising sun. It is one of the largest mass-participation rituals in India, and Patna is its emotional capital."
+score: 7.9
 ---
 
 The Ganges runs along the entire northern edge of Patna, with named ghats every few hundred metres -- Gandhi Ghat, Patna Ghat, Mahendrugh Ghat, and many more. The river is at its broadest here, almost a kilometre across, with the silhouette of Hajipur visible on the far bank. The ghats are at their best at dawn, when fishermen are out, pilgrims bathe, and the city is briefly quiet.

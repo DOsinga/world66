@@ -10,6 +10,7 @@ story: >
   Rayleigh Castle was built by Swein of Essex shortly after the Norman Conquest, making it one of the earliest castles in England. It appears in the Domesday Book of 1086 as one of only six castles recorded in the entire county — a remarkable fact given how many Norman lords held Essex land. The castle was already in decay by the 14th century; what remains is the motte (mound), but it is one of the best-preserved examples in southeast England.
 sources:
   - https://en.wikipedia.org/wiki/Rayleigh_Castle
+score: 7.8
 ---
 
 Rayleigh Mount is the surviving earthwork of a Norman castle built shortly after the Conquest by Swein of Essex, one of the most powerful lords in early Norman England. The motte — the mound on which the castle keep originally stood — rises about 15 metres above the surrounding town, and is now maintained as a public open space by the National Trust. The views from the top across the Thames estuary hinterland give a clear sense of why this site was chosen: the ridge commands the surrounding flatlands for miles in every direction.

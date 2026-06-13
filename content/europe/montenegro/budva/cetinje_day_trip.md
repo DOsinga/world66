@@ -8,6 +8,7 @@ tags:
   - sight
   - culture
 snippet: Montenegro's old royal capital in the mountains, 35 km from Budva — a sharp contrast to the coast
+score: 7.6
 ---
 
 Cetinje sits at around 670 metres in the mountains above the coast, about 35 km from Budva via a winding mountain road. It was Montenegro's royal capital until 1918 and retains an unusual cluster of early-twentieth-century diplomatic buildings, monasteries, and small museums from that era. The National Museum of Montenegro here is one of the better collections in the country.

@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Hotel Kaddatz
 type: poi
+score: 6.7
 ---
 
 The Hotel Kaddatz is a 1916 Prairie-style hotel in the centre of downtown, one of the few surviving examples of early-20th-century commercial architecture in west-central Minnesota. It operated continuously as a hotel until 2020 and is now being redeveloped. The facade is intact and the ground floor has been intermittently occupied by businesses.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "From the summit on 28 November 1817 the Peshwa Bajirao II watched his army lose to the British at the Battle of Khadki, the end of Maratha independence. The view that day must have been worse than the climb."
+score: 7.6
 ---
 
 A flight of 103 stone steps climbs the hill that the Peshwas adopted as their royal temple complex in the eighteenth century. At the top sit four small black-stone temples -- Devdeveshwar, Vishnu, Vitthal, and Kartikeya -- arranged around a paved courtyard, plus a small Peshwa museum in what was once the family residence.

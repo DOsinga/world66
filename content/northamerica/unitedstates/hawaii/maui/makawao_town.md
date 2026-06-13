@@ -10,6 +10,7 @@ longitude: -156.3169
 snippet: "Upcountry cowboy town turned artist hub at 450 metres on Haleakalā's slopes"
 sources:
   - https://en.wikipedia.org/wiki/Makawao,_Hawaii
+score: 7.0
 ---
 
 Makawao is Maui's upcountry surprise: a former paniolo (Hawaiian cowboy) town at 450 metres elevation where the air is cool, the light is softer, and the pace is noticeably slower than at the coast. The intersection of Baldwin and Makawao Avenues has the feel of a small Western town that decided to go bohemian — saddlery shops beside gallery spaces, plate lunch joints next to organic cafes.

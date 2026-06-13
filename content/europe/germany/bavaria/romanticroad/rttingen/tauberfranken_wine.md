@@ -7,6 +7,7 @@ tags:
 - experience
 title: Tauberfranken Wine
 type: poi
+score: 6.6
 ---
 
 The slope behind Röttingen is covered in vines and has been since the Middle Ages, when the local monasteries planted it. The Tauberfranken region is one of the smaller wine areas in Franconia, producing crisp dry whites — Müller-Thurgau, Silvaner, and Bacchus — that are almost impossible to find outside the region.

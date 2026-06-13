@@ -15,6 +15,7 @@ story: >
   a breaking wave — entirely incongruous in its setting between medieval
   towers and alpine meadows. It has been variously called Georgia's most
   ambitious piece of small-town architecture and its most hubristic.
+score: 5.9
 ---
 
 Queen Tamar Airport is Mestia's small regional airport — one runway in a mountain meadow, served by twice-daily flights from Tbilisi in season. The airport's terminal building is the strangest thing about it: a dramatic white concrete and glass structure that would look at home in Dubai or Tokyo, dropped without obvious rationale into a highland valley where the adjacent buildings have barely changed in 500 years.

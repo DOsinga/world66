@@ -11,6 +11,7 @@ story: >
   San Martín Tower dates to 1316, which makes it the oldest of Teruel's four UNESCO Mudéjar towers. It was built by a Christian master builder working in the Moorish tradition — Mudéjar architecture is precisely this: Islamic decorative techniques applied to Christian religious buildings by craftsmen who remained in Aragon after the Reconquista.
 sources:
   - https://en.wikipedia.org/wiki/Teruel
+score: 7.9
 ---
 
 San Martín Tower stands near the Ayuntamiento and the Cathedral, making it the most centrally placed of the four UNESCO Mudéjar towers. Dating to 1316, it is probably the oldest, and its decoration — geometric brick patterns and ceramic tile inlays — set the vocabulary that the later towers in Teruel would follow.

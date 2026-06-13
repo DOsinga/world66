@@ -7,6 +7,7 @@ tags:
   - old_city
 latitude: 34.0712
 longitude: 74.8106
+score: 6.6
 ---
 
 The market area around Lal Chowk is the commercial heart of Srinagar and the best place to shop for everyday goods at local prices rather than tourist prices. The streets radiating out from the clock tower — particularly Sherwani Road, Maulana Azad Road, and the lanes heading north into the old city — are dense with textile shops, dry goods sellers, spice merchants, and hardware stores. The craft shops here are less polished than on Boulevard Road but the prices are correspondingly lower.

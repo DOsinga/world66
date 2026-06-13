@@ -8,6 +8,7 @@ latitude: 44.4219
 longitude: 12.1961
 story: >
   Among the museum's most unusual holdings is a collection of Byzantine ivory carvings, including a famous diptych panel that shows a woman — identified variously as Ariadne or a Byzantine empress — in a pose of imperial authority. Byzantine ivory of this quality is extraordinarily rare; most was destroyed during the religious conflicts of the medieval period or the French Revolutionary Wars. Ravenna's relative obscurity may be the reason these pieces survived.
+score: 7.8
 ---
 
 The National Museum of Ravenna occupies the cloisters of the former Benedictine monastery next to San Vitale, and its collection ranges from Roman floor mosaics and archaeological fragments to Byzantine ivories, early Christian sculpture, medieval weapons, and 16th-century Flemish tapestries. It is a proper museum with a substantial and diverse collection, not a single-theme institution.

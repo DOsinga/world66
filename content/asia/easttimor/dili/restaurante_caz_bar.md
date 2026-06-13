@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
   - bar
+score: 6.5
 ---
 
 Caz Bar is the long-running Australian-run cafe-bar that sits over the water at the western end of Avenida de Portugal. You walk through a small courtyard and out onto a wooden deck propped on stilts above the beach. By day it serves big breakfasts, fish-and-chips, and burgers; by night the deck fills with Dili's expat crowd and beer is cold.

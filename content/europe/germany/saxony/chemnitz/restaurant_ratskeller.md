@@ -7,6 +7,7 @@ tags:
 latitude: 50.8335
 longitude: 12.9248
 snippet: Classic German cooking in the vaulted cellar beneath the old town hall
+score: 6.0
 ---
 
 The Ratskeller occupies the basement of the old Rathaus on the Markt — the kind of setting that makes a roast pork and a beer feel historically appropriate. The menu is German and Saxon, with good versions of the standards: pork dishes, game in season, dumplings, and a solid selection of German and Saxon wines alongside the beer.

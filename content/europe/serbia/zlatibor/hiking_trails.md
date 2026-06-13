@@ -8,6 +8,7 @@ latitude: 43.6742
 longitude: 19.6125
 story: >
   The Zlatibor plateau is one of the few places in Serbia where wolves, brown bears, and lynx are still present in the wild. Most hikers will never see them, but the knowledge that they are there changes how you read the forest. The plateau has been a protected wildlife area since the 1980s.
+score: 7.7
 ---
 
 The Zlatibor plateau has an extensive network of marked hiking trails crossing open meadows, forested ridges, and river valleys. The terrain is genuine mountain country — the altitude sits between 1,000 and 1,400 metres, and the meadows are wide and undulating, with views across to the hills of Bosnia on clear days.

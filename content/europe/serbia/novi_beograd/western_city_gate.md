@@ -13,6 +13,7 @@ story: >
   joined by a rotating restaurant at the top, with a large disc connecting
   them at residential level. The rotating restaurant has not rotated in years.
   The disc, locals say, looks like a UFO that got stuck.
+score: 8.8
 ---
 
 The Western City Gate — universally known as the Genex Tower after the Yugoslav trading company that originally occupied it — is the most architecturally significant building in Novi Beograd and one of the great brutalist monuments of socialist Yugoslavia. Completed in 1977, it consists of two towers of different heights connected by a residential block and topped by a rotating restaurant (currently non-functional) that still defines the Belgrade skyline when approaching from the west.

@@ -10,6 +10,7 @@ latitude: 50.8436
 longitude: 3.6039
 story: >
   The Ronde van Vlaanderen has been run since 1913 and is one of cycling's five Monuments — races so old and brutal that they exist in a category of their own. In 1948, Sylveer Maes won the race on a bike that weighed over 12 kilograms, wearing wool over cobbles that had already shaken apart the field. The museum's original race bicycles make that era viscerally tangible.
+score: 8.4
 ---
 
 The Centrum Ronde van Vlaanderen occupies the ground floor of the Gothic town hall on the Markt and is one of the best sports museums in Belgium. The permanent collection tells the story of the Tour of Flanders from its origins in 1913 through to the present day, with original race bikes, jerseys, photographs, and archive footage that give the race real depth and context. Interactive displays let you test yourself against the gradients of the famous climbs.

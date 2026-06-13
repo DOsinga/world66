@@ -8,6 +8,7 @@ tags:
   - sight
   - lighthouse
 story: "Built in 1875 on the uninhabited island of Prvić, the Stražica light is one of the oldest still-operating lighthouses on the Croatian coast. The keeper's house sits five metres below the 5-metre tower — small, white, exposed to the bora — and is now occasionally rented out as the most isolated holiday let in the Kvarner."
+score: 7.1
 ---
 
 Stražica sits on the southern tip of Prvić, the small uninhabited island that closes off the mouth of Baška Bay. From the boulevard in Baška you can see its low silhouette across the water; on a clear day the white lighthouse tower is visible above the rocky shore.

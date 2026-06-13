@@ -10,6 +10,7 @@ story: >
   The 104 names on the Valençay memorial are agents of the Special Operations Executive's F Section — the French circuit — who were killed in France between 1941 and 1944. Most were captured by the Gestapo, often through betrayal. Some were executed at Natzweiler, Mauthausen, and Dachau. The memorial was unveiled on 6 May 1991, fifty years after the first agent was dispatched to occupied France.
 sources:
   - https://en.wikipedia.org/wiki/Valen%C3%A7ay_SOE_Memorial
+score: 6.5
 ---
 
 In a small park in the centre of Valençay stands one of the more moving war memorials in France. The Valençay SOE Memorial honours the 104 agents of the Special Operations Executive's F Section — mostly British, with some French, Canadian, and other nationalities — who gave their lives working to liberate occupied France. The statue of a woman with arms raised was created by sculptor Véra Makovska and unveiled in 1991 by the Duke of Edinburgh.

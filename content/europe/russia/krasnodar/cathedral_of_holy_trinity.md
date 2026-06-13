@@ -15,6 +15,7 @@ story: >
   because it was used as a bread warehouse during the Soviet period, a practical function
   that protected it from demolition. After 1991 it was restored and returned to the
   Russian Orthodox Church.
+score: 7.0
 ---
 
 The Cathedral of the Holy Trinity on Kommunarov Street is one of Krasnodar's most impressive religious buildings — a late 19th-century Russian Orthodox church with onion domes and elaborate brickwork that survived the Soviet period when so many others did not. The interior has been carefully restored and contains icons and frescoes in the Byzantine tradition.

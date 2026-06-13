@@ -5,6 +5,7 @@ snippet: 18th-century university botanical garden in a quiet valley
 tags: [things_to_do, sight, park]
 latitude: 43.3146
 longitude: 11.3306
+score: 6.2
 ---
 
 Tucked into a steep gully south of the centre, the University of Siena's botanical garden has occupied this site since 1784. Terraces, greenhouses, and beds run down the slope, with sections for Tuscan medicinal plants, succulents, and a small arboretum.

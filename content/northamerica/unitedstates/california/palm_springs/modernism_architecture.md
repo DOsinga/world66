@@ -12,6 +12,7 @@ story: >
   desert land and a wealthy clientele to build the modernist houses that had been theorised
   in European studios but never built at scale. The flat roofs, glass walls, and clean
   horizontal lines were a direct response to the desert landscape and the California light.
+score: 9.1
 ---
 
 Palm Springs has the finest collection of preserved midcentury modern architecture in the United States. From the late 1940s through the 1970s, the town attracted the best modernist architects working in California, who built private homes, motels, and commercial buildings that have since become design classics.

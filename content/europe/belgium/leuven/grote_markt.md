@@ -15,6 +15,7 @@ story: >
   most of the original figures were destroyed by French Revolutionary troops in 1796. The statues you see today 
   were installed in the 19th century, and the identities of the figures carved in them were essentially made up 
   on the spot.
+score: 8.0
 ---
 
 The Grote Markt is the heart of Leuven — a handsome medieval square presided over by two of the finest Gothic buildings in Belgium. On one side stands the jaw-dropping Stadhuis (town hall), an extravagant 15th-century confection of tracery, gables, and carved figures that looks less like a civic building and more like a reliquary scaled up to the size of a palace. Opposite, the massive nave of Sint-Pieterskerk anchors the square with quieter, more austere grandeur.

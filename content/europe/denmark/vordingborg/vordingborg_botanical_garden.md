@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.0075
 longitude: 11.913
+score: 6.2
 ---
 
 The botanical garden occupies the land adjacent to the Vordingborg Castle ruins, making use of the old moat and the sheltered ground within the remaining castle walls. Entry is free and the garden is open throughout the day. It is a modest but carefully maintained collection, with roses and perennial beds that are at their best in June and July.

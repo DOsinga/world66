@@ -9,6 +9,7 @@ tags:
   - nature
 sources:
   - https://en.wikipedia.org/wiki/Intermittent_Spring_(Wyoming)
+score: 7.2
 ---
 
 One of only three known cold-water intermittent springs in the world, the Periodic Spring is Star Valley's most genuinely unusual attraction. Tucked at the head of Swift Creek Canyon, the spring emerges from a limestone cliff face and gushes at full force for several minutes before stopping completely — a cycle that repeats roughly every 18 minutes during late summer and early autumn when water table levels are right. The mechanism is a natural siphon in the bedrock: an underground chamber fills until it reaches the lip of the siphon, then empties rapidly, only to fill again.

@@ -9,6 +9,7 @@ longitude: 121.064
 snippet: "Filipino chain famous for fried chicken, with a branch in Pacita Complex"
 address: "Phase 1 Pacita Complex, Brgy. Nueva, San Pedro, Laguna"
 phone: "(049) 869-00-80"
+score: 4.9
 ---
 
 Max's has been frying chicken in the Philippines since 1945, when a Quezon City resident named Maximo Gimenez started feeding American soldiers at a small restaurant near the base. The formula — thin, crisp, golden chicken fried in a wok rather than a deep fryer — turned into a national institution that has since expanded to hundreds of branches across the country and overseas. The Binan branch in Pacita Complex serves the standard menu: fried chicken, lumpia Shanghai, kare-kare, pasta carbonara, and what a lot of regulars swear is the best garlic bread in the chain.

@@ -10,6 +10,7 @@ story: >
   The course was built in 1899 by the Great North of Scotland Railway Company, which also built a luxury hotel (the Cruden Bay Hotel) and a dedicated electric tramway from the railway station specifically to ferry golfers to the links. The hotel closed in 1939 and was demolished in 1952; the tramway went with it. The golf course survived and is now ranked among the top twenty links courses in Scotland.
 sources:
   - https://en.wikipedia.org/wiki/Cruden_Bay_Hotel_Tramway
+score: 7.9
 ---
 
 Cruden Bay Golf Club has one of the finest and least-known links courses in Scotland — a rolling, eccentric layout that follows the natural contours of the dunes above the bay. Opened in 1899, the course was designed by Tom Simpson and Archie Simpson and has been modified little since. It plays to a par of 70 over 6,395 yards, with blind shots, severe rough, and the constant presence of the North Sea wind making it far more demanding than the yardage suggests.

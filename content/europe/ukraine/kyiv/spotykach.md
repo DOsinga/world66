@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 50.4623
 longitude: 30.5145
+score: 6.4
 ---
 
 A Soviet-themed restaurant and bar in Podil, named for an old Ukrainian fruit liqueur. The interior is full of 1960s and 70s Soviet ephemera — record players, samovars, propaganda posters — without being entirely tongue-in-cheek; the soundtrack and the cooking come from the same era.

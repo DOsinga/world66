@@ -13,6 +13,7 @@ story: >
   tsunami, which devastated much of Sri Lanka's southern coast. The barrier that makes the
   water so calm for swimming absorbed much of the wave energy, and while Unawatuna was badly
   damaged, it recovered faster than many neighbouring areas.
+score: 8.5
 ---
 
 The crescent bay at Unawatuna is the thing the town is known for — a protected arc of golden sand with calm, reef-sheltered water that stays swimmable most of the year. The reef lies just offshore, close enough to reach in a few minutes of snorkelling, and the water inside is rarely more than a metre or two deep close to shore, which makes it good for children and non-swimmers. At the eastern end of the bay, a small white dagoba sits on the headland among the trees, lending the scene a character that goes beyond a standard beach stop.

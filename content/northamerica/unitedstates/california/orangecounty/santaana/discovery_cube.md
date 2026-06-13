@@ -7,6 +7,7 @@ tags:
 address: "2500 N Main St, Santa Ana, CA 92705"
 latitude: 33.7700
 longitude: -117.8699
+score: 6.8
 ---
 
 A science museum with more than 100 hands-on exhibits designed around the idea that children learn best by doing rather than watching. Permanent galleries cover topics from earthquake simulation and weather systems to space exploration and life sciences. The Hurricane Experience lets you stand inside a simulated Category 1 storm, and the Eco-Challenge exhibit walks visitors through sustainability choices in concrete, interactive ways.

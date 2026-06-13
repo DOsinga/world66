@@ -10,6 +10,7 @@ tags:
 story: Mill Avenue was Tempe's original main street, built around the Hayden Flour
   Mill that gave the road its name. The mill closed in 1998 after over a century of
   operation. The brick smokestack still stands as a downtown landmark.
+score: 6.7
 ---
 
 Mill Avenue runs north from the ASU campus down to Tempe Town Lake — a half-mile of restaurants, bars, music venues, and shops that constitute Tempe's downtown. The strip dates back to the 1890s, but its current incarnation is a mix of restored brick storefronts and newer mid-rise developments.

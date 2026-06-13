@@ -8,6 +8,7 @@ latitude: 35.9148
 longitude: 14.4448
 story: >
   The church's imposing bronze main door, installed in 1913, bears scenes from the life of the Virgin in low relief. It was a gift from the parishioners of the Maltese community of Alexandria — a reminder that tens of thousands of Maltese emigrated to Egypt in the nineteenth and early twentieth centuries, where they formed tight-knit communities that remained Catholic and Maltese-speaking for generations.
+score: 7.6
 ---
 
 The Parish Church of the Nativity of Our Lady dominates Naxxar's main square. Designed by the architect Tommaso Dingli in the early seventeenth century and enlarged several times since, it is one of the more architecturally distinguished of Malta's many parish churches, with a restrained exterior that gives way to a rich interior.

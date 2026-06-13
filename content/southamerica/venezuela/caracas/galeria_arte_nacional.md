@@ -8,6 +8,7 @@ tags:
   - parque_central
   - museum
 story: "Armando Reverón, the early-twentieth-century Venezuelan painter who lived in a hut on the Macuto beach with his life-size cloth dolls, is the painter most associated with the gallery. His luminous, near-monochrome studies of the Caribbean light are the heart of the permanent collection."
+score: 8.1
 ---
 
 The National Art Gallery, in the Parque Central complex, is the principal repository of Venezuelan visual art — about 7,000 works covering five centuries, from colonial portraiture and religious art through the nineteenth-century historical canvases of Martín Tovar y Tovar to twentieth-century modernism: Reverón, Soto, Cruz-Diez, Jesús Soto. The gallery occupies a large brutalist concrete building designed by Carlos Gómez de Llarena and opened in 1976.

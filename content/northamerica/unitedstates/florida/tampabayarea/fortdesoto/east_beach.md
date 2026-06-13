@@ -4,6 +4,7 @@ type: poi
 latitude: 27.6286
 longitude: -82.7106
 tags: [things_to_do, beach]
+score: 6.7
 ---
 
 East Beach faces Tampa Bay rather than the Gulf, so the water is even calmer than North Beach and the sunrise — not the sunset — is the show here. The sand is slightly coarser and the shoreline is shorter, which keeps the crowds smaller. It is the quietest of the park's swimming beaches and a good choice on a windy day when the Gulf is choppy.

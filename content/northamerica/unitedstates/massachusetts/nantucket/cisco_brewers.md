@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 41.2635
 longitude: -70.1313
+score: 6.2
 ---
 
 Cisco Brewers operates from a compound on Bartlett Farm Road in the south of the island that functions as brewery, distillery, winery, and outdoor concert venue all at once. The beer garden fills up on summer afternoons with a crowd that crosses all demographic lines — families, surfers, day-trippers, and longtime island regulars. Live music plays on summer weekends.

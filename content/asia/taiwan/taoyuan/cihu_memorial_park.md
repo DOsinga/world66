@@ -12,6 +12,7 @@ story: >
   The statues arrived at Cihu over several decades as public appetite for Chiang Kai-shek memorials declined after democratisation. Schools, government buildings, and military bases sent their unwanted statues here rather than destroy them. The result is a peculiar catalogue of the same face in dozens of sizes and poses, from heroic equestrian bronzes to small concrete busts — a kind of accidental museum of political iconography.
 sources:
   - https://en.wikipedia.org/wiki/Cihu_Mausoleum
+score: 7.1
 ---
 
 Cihu Memorial Park holds a collection of more than 200 statues of Chiang Kai-shek, gathered from around Taiwan as the country's relationship with its former dictator became more complicated. They stand in rows beneath the trees near his mausoleum — a bizarre sight, ranging from imposing bronzes to modest cement busts, all wearing the same generalissimo's expression.

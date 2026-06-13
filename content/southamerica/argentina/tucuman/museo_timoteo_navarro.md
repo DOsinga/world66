@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -26.8317
 longitude: -65.2047
+score: 6.6
 ---
 
 Tucumán's provincial fine-arts museum, with a respectable collection of Argentine painting from the 19th century onwards. Local artists like Atilio Terragni and Lino Enea Spilimbergo are well represented alongside European works.

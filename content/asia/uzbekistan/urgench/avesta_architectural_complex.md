@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.547184685303094
 longitude: 60.6261928962799
+score: 5.8
 ---
 
 The Avesta Architectural Complex is a garden and monumental ensemble on Al-Khorazmi Street, built as a cultural landmark for the city. The complex takes its name from the ancient Zoroastrian sacred text, connecting the region to its pre-Islamic heritage, and the design incorporates symbolic references to the Avestan tradition.

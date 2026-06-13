@@ -6,6 +6,7 @@ latitude: 34.5960
 longitude: 108.6160
 story: >
   Two of the original six bas-relief horse panels from Zhaoling — depicting the warhorses Saluzi and Quanmaogua — were removed in 1914 by a Chinese antiques dealer acting on behalf of American collectors, and are now in the Penn Museum in Philadelphia. The four that remain in the Zhaoling Museum show the horses named Shifachi, Baitiwu, Teqinbiao, and Qingzhui, each with an inscription identifying which of Taizong's campaigns the horse served in.
+score: 8.5
 ---
 
 The Zhaoling Mausoleum, near Liquan County in western Weinan prefecture, is the burial complex of Emperor Taizong (r. 626–649), the Tang emperor widely considered the greatest ruler of the dynasty. Taizong chose Mount Jiuzong — a peak rising from the plain north of the Wei River — as his burial site, and his complex eventually expanded to include 167 subsidiary tombs of his generals, wives, and officials, spread across the slopes below the summit. It is the largest imperial mausoleum complex in the world by area.

@@ -7,6 +7,7 @@ longitude: -75.59
 tags:
 - park
 - things_to_do
+score: 7.4
 ---
 
 A protected patch of cloud forest on the hills above Pereira, laced with well-maintained hiking trails. The forest is dense and surprisingly wild for being so close to the city — howler monkeys crash through the canopy, and birding is good, especially early morning.

@@ -16,6 +16,7 @@ story: >
   among the few Japanese Canadians who were permitted to remain in their homes
   due to intervention by the local community — testimony to the respect he had
   earned over decades of medical service.
+score: 6.8
 ---
 
 The Miyazaki House is one of the oldest surviving buildings in Lillooet, built in the 1880s and now designated a heritage site. The elegant Victorian house on Main Street stands out against the modest surroundings of the small town. It's named after Dr. Masajiro Miyazaki, a Japanese-Canadian physician who lived and practiced here from 1896 and became a central figure in the community.

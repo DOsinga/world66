@@ -13,6 +13,7 @@ story: >
   near-ground level so you can stand close enough to see the scorch marks and
   tile repairs from its 149 million-mile career. It is an unexpectedly moving
   sight.
+score: 9.1
 ---
 
 The Smithsonian National Air and Space Museum's annex, located near Dulles International Airport, houses aircraft and spacecraft that wouldn't fit on the National Mall. The hangar is enormous — a football-field-scale space containing over 200 aircraft and dozens of space artefacts, all suspended or displayed at close range.

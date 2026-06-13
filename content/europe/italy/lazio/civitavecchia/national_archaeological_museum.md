@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.0950
 longitude: 11.7920
+score: 7.1
 ---
 
 Housed in an 18th-century papal barracks just inland from the port, the small **Museo Archeologico Nazionale** displays Etruscan and Roman finds from the surrounding Tyrrhenian coast and from the excavations within Civitavecchia itself. Highlights include a Roman copy of a portrait of Socrates, a marble Apollo, a Pheidias-school Athena, and a generous case of Etruscan and Roman gold jewellery.

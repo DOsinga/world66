@@ -10,6 +10,7 @@ longitude: 14.2508
 admission: "€8 adults, €6 children"
 hours: "Seasonal — check website; generally Apr–Oct daily, shorter hours in winter"
 snippet: "Fairy-tale dragon train ride through illuminated caves at the top of Pöstlingberg"
+score: 7.1
 ---
 
 At the summit of the Pöstlingberg hill, alongside the pilgrimage church, is one of Linz's most unexpected attractions: a narrow-gauge railway running through illuminated caves populated with fairy-tale scenes and dioramas. Small dragon-shaped trains carry visitors through a series of caverns representing scenes from Central European folk tales — gnomes, witches, dragons, and assorted woodland creatures rendered in elaborate painted tableaux.

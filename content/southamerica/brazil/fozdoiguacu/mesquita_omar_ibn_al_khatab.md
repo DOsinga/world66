@@ -8,6 +8,7 @@ latitude: -25.5208
 longitude: -54.5785
 sources:
   - https://en.wikipedia.org/wiki/Mesquita_Omar_Ibn_Al-Khatab
+score: 7.3
 ---
 
 The Omar Ibn Al-Khatab Mosque is a visible reminder of Foz do Iguaçu's significant Arab community, predominantly Lebanese and Syrian families who arrived from the 1950s onwards. The mosque, completed in 1983, is one of the largest in Brazil, with a prayer hall that can accommodate around 2,000 worshippers and a minaret that rises nearly 34 metres above the surrounding streets. The architecture draws on classical Islamic design, with pale stone, arched colonnades, and a central dome.

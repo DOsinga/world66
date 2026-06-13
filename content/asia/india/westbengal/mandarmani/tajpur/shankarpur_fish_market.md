@@ -9,6 +9,7 @@ latitude: 21.5953
 longitude: 87.6721
 story: >
   Shankarpur is one of the few remaining fishing villages on this stretch of coast that still operates traditional mechanised trawlers as well as the smaller country boats. The fish market handles the sort of variety that the Bay of Bengal produces: Hilsa herring, pomfret, king prawns, tiger prawns, and dozens of species that have no names in English. The Hilsa, considered the finest fish in Bengal, is sold here in season (July to October) at prices far below those in Kolkata.
+score: 7.0
 ---
 
 The fishing village of Shankarpur is about five kilometres south of Tajpur along the coastal road, and its fish market is one of the best reasons to be up at dawn on this stretch of coast. The boats come in between 5 and 7 am and the market is active for about two hours after that — after which the best fish has moved on to Kolkata.

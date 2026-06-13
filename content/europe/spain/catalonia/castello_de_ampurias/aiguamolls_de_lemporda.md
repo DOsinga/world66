@@ -15,6 +15,7 @@ story: >
   in the 1970s. Looking at the reed beds and lagoons now, with storks and herons
   moving through the shallows, it is hard to believe how close this coastline
   came to becoming another resort development.
+score: 8.4
 ---
 
 Aiguamolls de l'Emporda is one of Catalonia's best wetland reserves, a flat landscape of lagoons, reed beds, meadows and bird hides between Castello d'Empuries and the sea. It is a welcome change of pace after stone streets and summer traffic.

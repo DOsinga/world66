@@ -12,6 +12,7 @@ story: >
   resettled in Abu Dhabi. Local Emiratis avoid the place after dark, with
   long-standing tales of jinn haunting the empty rooms. It featured as a
   filming location for the 2013 Bollywood horror film Djinn.
+score: 8.3
 ---
 
 Al Jazirah Al Hamra — "the red island" — was once a pearling and fishing village built on a low coastal islet that has since been joined to the mainland by silt. When the Zaab clan walked out in 1968, they left a complete settlement of around a hundred coral-stone houses, two mosques, a watchtower, and a souk — the only abandoned traditional village left in the UAE.

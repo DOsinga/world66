@@ -12,6 +12,7 @@ story: >
   bike path in the 1970s and is now one of the most heavily used rail trails in New England —
   the trains that once brought the tourists have been replaced by the tourists themselves,
   pedalling the same route.
+score: 7.6
 ---
 
 The Cape Cod Rail Trail is a 26-mile paved cycling and walking path that runs from South Dennis to Wellfleet, passing through Harwich along the way. The surface is smooth, the grade is flat (it follows an old railway bed), and the route winds through pine and oak forest, past kettle ponds, and alongside cranberry bogs that blaze red in autumn.

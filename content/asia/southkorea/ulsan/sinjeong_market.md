@@ -9,6 +9,7 @@ title: Sinjeong Market
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Sinjeong_Market
+score: 6.6
 ---
 
 Sinjeong Market is one of Ulsan's traditional covered street markets, a maze of stalls selling fresh produce, dried fish, seasonal vegetables, clothing, hardware, and household goods. It has the organized chaos and smell of real Korean market life — quite different from the sanitised experience of a department store food hall.

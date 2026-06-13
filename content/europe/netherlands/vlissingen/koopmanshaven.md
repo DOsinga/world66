@@ -6,6 +6,7 @@ longitude: 3.5752
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The Koopmanshaven (Merchant's Harbour) is the small, square inner harbour at the foot of the old town, lined on three sides by historic merchant houses and on the fourth by the boulevard. A handful of working fishing boats, a few yachts, and the historic lightship Westhinder are usually moored along the quays.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 6.7500
 longitude: -11.3000
+score: 8.5
 ---
 
 Lake Piso (also written Lake Pisu) is a large brackish coastal lagoon that lies behind Robertsport, separated from the Atlantic by a narrow strip of sand. It is the largest lake in Liberia and one of the country's most important wetlands — designated a Multiple Sustainable Use Reserve, with a Ramsar listing under the wetlands convention.

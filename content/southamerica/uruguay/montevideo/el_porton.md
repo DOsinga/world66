@@ -7,6 +7,7 @@ tags:
 latitude: -34.9105
 longitude: -56.1882
 snippet: Traditional parrilla in Cordón neighbourhood, beloved by locals
+score: 6.8
 ---
 
 El Portón is a traditional Uruguayan parrilla in the Cordón neighbourhood, a step up from the tourist-facing grill restaurants of the Mercado del Puerto in terms of authenticity and value. The beef here — prime Uruguayan cuts cooked over wood charcoal — is excellent, and the house specialities include offal (riñones, mollejas) that separate genuine parrilleros from the timid.

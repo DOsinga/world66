@@ -8,6 +8,7 @@ tags:
 - history
 title: Cavustepe
 type: poi
+score: 7.8
 ---
 
 Cavustepe sits on a long, narrow hill about 25 km southeast of Van. It is the best-preserved Urartian palace site outside the main fortress itself — built by King Sarduri II in the 8th century BC as a royal residence and ritual centre. The site has a temple, royal apartments, store-rooms, and a stretch of polished basalt blocks fitted together so precisely that mortar was unnecessary.

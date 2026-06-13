@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 53.7124
 longitude: 7.2340
+score: 7.4
 ---
 
 Bicycles are the default transport on Norderney, and cycling the length of the island is one of the essential things to do. The main cycle path runs east from town all the way to the Weisse Düne and the nature reserve at the eastern end — about 8 kilometres each way, flat the entire distance. Side paths cut through the dune landscape toward both the north beach and the southern mudflats.

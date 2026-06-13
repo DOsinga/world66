@@ -13,6 +13,7 @@ tags:
 title: Palm Springs Art Museum
 type: poi
 url: https://www.psmuseum.org
+score: 8.4
 ---
 
 Founded in 1938, this is the cultural anchor of Palm Springs — a serious museum with a permanent collection spanning contemporary California art, classic western American art, Native American and Pre-Columbian art, European modern art, studio glass, and American photography. The architecture collection is particularly relevant given the city's mid-century heritage. The Annenberg Theater within the museum hosts concerts and performing arts events throughout the year.

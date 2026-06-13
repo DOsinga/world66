@@ -10,6 +10,7 @@ story: >
   Suilven's name comes from the Norse "pillar fell" — the Vikings named it from the sea, where it rises like a tooth from the horizon. Geologists call the rock Torridonian sandstone, deposited as river sediment 800 million years ago and left standing when the surrounding softer rock eroded away. The mountain is essentially the same age as the first complex life on Earth.
 sources:
   - https://en.wikipedia.org/wiki/Suilven
+score: 9.5
 ---
 
 Suilven is one of the most distinctive mountains in Scotland — a long quartzite and sandstone ridge that rises steeply from a flat bog-land plateau with no gradual approach on any side. From Lochinver it dominates the eastern skyline, and from the coast it reads as a sharp silhouette that gives no hint of its true length. The usual approach is from Inverkirkaig, following the River Kirkaig upstream for several kilometres before beginning the steep ascent of the col.

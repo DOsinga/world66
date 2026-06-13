@@ -9,6 +9,7 @@ tags:
 - nature
 title: Pavagadh Hill
 type: poi
+score: 8.5
 ---
 
 Pavagadh Hill rises abruptly above Champaner, red-brown and green depending on the season. Fort walls, gates, shrines, and viewpoints mark the climb, while pilgrims stream upward toward Kalika Mata Temple near the summit.

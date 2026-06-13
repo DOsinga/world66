@@ -10,6 +10,7 @@ tags:
 - art_deco
 title: Art Deco Historic District
 type: poi
+score: 9.0
 ---
 
 The largest collection of Art Deco architecture in the world stretches along Ocean Drive, Collins Avenue, and Washington Avenue between 5th and 23rd Streets. Over 800 buildings survive from the 1930s and 40s, their pastel facades, porthole windows, racing stripes, and neon signs forming a coherent streetscape unlike anything else in the United States.

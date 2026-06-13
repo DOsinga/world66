@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Legion Field
 type: poi
+score: 5.9
 ---
 
 Legion Field, opened in 1927, is Birmingham's historic outdoor stadium and has hosted Iron Bowl games between Alabama and Auburn, college football bowl games, and major concerts. The stadium seats 71,000 and has a lived-in, slightly decaying grandeur. It is no longer a primary venue for major games but remains open for events.

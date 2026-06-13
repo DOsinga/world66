@@ -7,6 +7,7 @@ tags:
 latitude: 52.7000
 longitude: 4.7000
 snippet: The highest dunes in the Netherlands, north of Bergen
+score: 8.4
 ---
 
 The Schoorlse Duinen — the dune landscape north of Bergen stretching towards Schoorl — includes the highest dunes in the Netherlands, rising to just under 55 metres. That may not sound dramatic, but the scale is surprising in a country famous for its flatness: the ridges look genuinely imposing from below, and the views from the top over the North Sea and the low polder landscape inland are fine.

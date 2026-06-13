@@ -9,6 +9,7 @@ latitude: 14.6601
 longitude: -90.5086
 story: >
   The relief map was commissioned in 1904 by President Manuel Estrada Cabrera and completed under the direction of engineer Francisco Vela. It covers 1,800 square metres and shows the entire country of Guatemala at a horizontal scale of 1:10,000 — but the vertical scale is exaggerated nearly four times, making the volcanoes and mountain ranges dramatically prominent. Viewing platforms let you appreciate its extraordinary detail from above.
+score: 8.2
 ---
 
 The Mapa en Relieve — the Relief Map of Guatemala — is one of the most remarkable objects in Central America: a massive outdoor topographical model of the entire country, covering 1,800 square metres in a park in Zona 2. Built in 1904, the map shows every mountain, river, valley, and coastal feature of Guatemala in three dimensions, with the vertical scale exaggerated to make the mountainous terrain dramatically visible.

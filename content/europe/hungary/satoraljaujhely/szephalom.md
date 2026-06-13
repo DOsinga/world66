@@ -8,6 +8,7 @@ latitude: 48.3778
 longitude: 21.6475
 story: >
   Ferenc Kazinczy spent years imprisoned by the Habsburg authorities for his involvement in the Martinovics conspiracy, a Jacobin-inspired plot against Habsburg rule. When he was released in 1801, he retired to Széphalom and spent the remaining decades of his life reforming the Hungarian language through correspondence with every significant writer in the country — an 8,000-letter archive now considered one of the great bodies of literary correspondence in Central European history.
+score: 6.3
 ---
 
 Széphalom, a small village just south of Sátoraljaújhely, was the home of Ferenc Kazinczy, the literary figure who effectively modernised the Hungarian language in the early 19th century. His memorial house and the Temple of Fame — a small neoclassical structure in the garden — are preserved as a museum.

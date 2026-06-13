@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sheridan_College
 story: >
   Sheridan's animation program has produced an extraordinary number of working animators in Hollywood — alumni have worked on nearly every major animated feature of the past three decades, from Lion King and Toy Story through to the Pixar and DreamWorks films of the 2000s. The school's reputation in animation is such that it became a primary feeder for California studios looking for Canadian talent.
+score: 6.2
 ---
 
 Sheridan College's Trafalgar Campus in Oakville is the main campus of one of Canada's most respected polytechnic institutions, known particularly for its animation, illustration, and media arts programs. The campus is a large modern facility with a mix of older buildings and newer studios.

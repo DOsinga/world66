@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Googay kay Chanay
 type: poi
+score: 6.8
 ---
 
 A no-frills breakfast institution in Model Town's A Block Market. The single specialty is chanay — chickpea curry served with your choice of chicken, kofta, or egg — and the place has been doing it long enough that regulars do not bother with a menu.

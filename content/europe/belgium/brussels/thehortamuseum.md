@@ -11,6 +11,7 @@ tags:
 - museum
 title: Horta Museum
 type: poi
+score: 8.9
 ---
 
 The house and studio of Victor Horta, the architect who almost invented Art Nouveau in the 1890s. Horta lived and worked here from 1898 to 1919; the building is on the UNESCO list along with three other of his Brussels houses. Every detail — door handles, mosaic floors, the curling iron staircase, the stained-glass skylight over the dining room — is his design. A 45-minute self-guided visit is enough; bring socks, as shoes are not allowed upstairs.

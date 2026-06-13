@@ -7,6 +7,7 @@ address: Greater Iqbal Park, Lahore
 tags:
   - things_to_do
   - museum
+score: 7.2
 ---
 
 A modern (2018) museum in Greater Iqbal Park telling the story of Pakistan from the Indus Valley civilisation to the present, with a strong focus on the independence movement and the founding figures of the nation. The building is a striking glass-and-steel cube with interactive exhibits across four floors.

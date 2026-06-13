@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.3
 ---
 
 Krogen vid Ået sits on the south bank of the Nyköpingsån, in one of the converted warehouse buildings near the castle. The menu leans on Baltic fish — perch, pike-perch, and herring prepared in the classic Swedish manner — alongside seasonal Swedish produce. The setting, with the castle tower visible from the terrace, is the best in town.

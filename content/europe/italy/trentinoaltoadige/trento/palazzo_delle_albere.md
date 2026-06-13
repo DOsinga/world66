@@ -8,6 +8,7 @@ tags:
 latitude: 46.0632
 longitude: 11.1137
 snippet: "Renaissance villa-fortress on the edge of the new Le Albere district"
+score: 6.0
 ---
 
 The Palazzo delle Albere is a curious building — a Renaissance fortified villa with a square plan, corner towers, and a moat, built in the 1530s by the Madruzzo prince-bishops as a country house on what was then the southern edge of Trento. The four towers and the surrounding water gave it the defensive look of a small castle, but the painted interior — covered in 16th-century frescoes of grotesques, allegorical figures, and classical mythology — is purely a Renaissance villa.

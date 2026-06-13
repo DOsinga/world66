@@ -7,6 +7,7 @@ tags:
 - sight
 title: Zwinger Gardens
 type: poi
+score: 5.9
 ---
 
 The Zwinger Gardens (Bezručovy sady) are the green belt along the eastern side of the old town, laid out in the 19th century along the former defensive ramparts. The name 'zwinger' refers to the outer wall of the medieval fortifications; the artillery emplacements once here were turned into a public garden in the 1820s.

@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Sarah
 type: poi
+score: 5.5
 ---
 
 A lively spot serving Arabic, Yemeni, Lebanese, and Thai food, plus a Western breakfast menu. The shish kebab is excellent, ground and succulent. The area around Sukhumvit Soi 3 has a strong Middle Eastern food scene and Sarah fits right in.

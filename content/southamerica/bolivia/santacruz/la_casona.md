@@ -7,6 +7,7 @@ tags:
 latitude: -17.7833
 longitude: -63.1808
 snippet: Long-running international restaurant in a colonial house
+score: 6.2
 ---
 
 La Casona occupies a restored 19th-century house a few blocks from the plaza, with high ceilings, exposed beams, and a leafy interior courtyard that catches the evening breeze. The menu wanders between Bolivian classics, German dishes (the original owner was Bavarian), and a long list of grilled meat and fish from the Bolivian east.

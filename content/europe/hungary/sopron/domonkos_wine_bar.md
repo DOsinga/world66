@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 47.6845
 longitude: 16.5858
+score: 6.3
 ---
 
 A relaxed wine bar in the old town with a good selection of Sopron region wines by the glass. The focus is on small local producers rather than the larger commercial wineries — a good opportunity to try Kékfrankos from different growers and understand the range of the local style. Knowledgeable staff are happy to guide visitors through the options.

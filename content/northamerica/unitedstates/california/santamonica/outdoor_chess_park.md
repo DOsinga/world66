@@ -7,6 +7,7 @@ tags:
 latitude: 34.0104
 longitude: -118.4975
 snippet: "The original outdoor gym where California beach culture was invented, next to the boardwalk chess tables"
+score: 6.9
 ---
 
 Muscle Beach at Santa Monica Pier — not to be confused with the later Venice Beach Muscle Beach — was the original outdoor gymnasium of Southern California, established in the 1930s. Gymnasts and acrobats trained here publicly through the postwar decades, and the culture that spread to Venice and eventually became the global idea of California beach fitness started in this spot.

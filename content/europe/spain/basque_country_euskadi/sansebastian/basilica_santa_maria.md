@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.3240
 longitude: -1.9867
+score: 6.9
 ---
 
 The Basilica of Santa María del Coro is the grand Baroque church that presides over the Parte Vieja (old town), its ornate facade facing a small square on the Calle Mayor. Built between 1743 and 1765, its elaborate churrigueresque front — a riot of columns, niches, and carved decoration — is one of the most exuberant pieces of Baroque architecture in the Basque Country.

@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 36.8400
 longitude: 25.9100
+score: 8.7
 ---
 
 The E4 European long-distance path crosses Amorgos, running the length of the island along the rocky spine from Katapola through Chora to Aegiali in the north. The full traverse takes a full day for fit walkers, but the trail can be done in sections from almost any point on the island. The terrain is rough — loose stones, steep drops, little shade — and the heat in July and August can be punishing.

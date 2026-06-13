@@ -12,6 +12,7 @@ story: >
   Maku Fortress for nine months. He arrived expecting harsh confinement but was treated
   respectfully by the local khan, wrote key religious texts during his stay, and received
   visitors. Baha'is consider the fortress a sacred site in the history of their religion.
+score: 7.0
 ---
 
 Maku Fortress occupies a dramatic position carved into the overhanging basalt cliff above the town gorge. The fortification dates in origin to the Urartian period (8th–7th centuries BC), when it served as a mountain stronghold controlling the valley approaches to the border region. Later occupants added to it across the centuries; the ruins today include stone stairways, ruined ramparts, and storage chambers cut into the rock face.

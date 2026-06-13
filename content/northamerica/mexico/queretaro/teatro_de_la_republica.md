@@ -9,6 +9,7 @@ latitude: 20.5943
 longitude: -100.3928
 story: >
   In 1916 and 1917, the Teatro de la República served as the venue where Mexico's post-revolutionary Constitutional Congress met and drafted the 1917 Constitution — one of the most progressive constitutions in the world at the time, guaranteeing land reform, workers' rights, and secular education. The seats used by the delegates remain in the theater, each marked with a plaque bearing the delegate's name.
+score: 7.5
 ---
 
 The Teatro de la República is one of Mexico's most historically significant theaters — not for its performances but for what happened here in 1917, when the Constitutional Congress that drafted the Mexican Constitution met in its hall. The constitution they produced, revolutionary for its time in its guarantees of land reform and labor rights, remains the basis of Mexican law today.

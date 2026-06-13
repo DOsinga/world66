@@ -9,6 +9,7 @@ title: Mike's Burger House
 type: poi
 neighbourhood: BKK1
 snippet: Phnom Penh's most committed burger joint
+score: 6.1
 ---
 
 A street-stall-turned-restaurant on Street 51 in BKK1 that has steadily expanded to two branches. The proposition is simple — proper griddle-cooked smashburgers, decent fries, milkshakes — and after a week of Cambodian food the appeal is hard to resist.

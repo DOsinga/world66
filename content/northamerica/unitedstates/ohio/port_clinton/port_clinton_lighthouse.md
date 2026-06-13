@@ -7,6 +7,7 @@ tags:
 latitude: 41.5150
 longitude: -82.9344
 snippet: "Historic 1896 lighthouse at the northern end of Water Works Park"
+score: 5.8
 ---
 
 The Port Clinton Lighthouse stands at the northern end of Water Works Park, a small but attractive green space on the lakefront. The lighthouse was built in 1896 — the current structure is actually a reconstruction, as the original was destroyed — and sits on a pier extending into Lake Erie. It is not open to the interior, but the surrounding park is a pleasant place to walk and watch the lake.

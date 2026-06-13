@@ -8,6 +8,7 @@ latitude: 33.4486
 longitude: -82.0063
 story: >
   When Sconyers opened in 1956, it seated a few dozen people in a modest roadside building. Today it seats over a thousand and operates out of what may be the largest barbecue restaurant building in the United States — a sprawling complex that has consumed its surrounding block. Nothing much else has changed.
+score: 7.6
 ---
 
 Since 1956, Sconyers Bar-B-Que has been the kind of institution that defines a city's food identity. The place is enormous — seating over a thousand people — and it operates with the quiet confidence of somewhere that has been doing the same thing correctly for decades. The pork is cooked over hickory and oak in massive pits out back, sliced or pulled to order, and served with the standard accompaniments: Brunswick stew, coleslaw, sliced white bread.

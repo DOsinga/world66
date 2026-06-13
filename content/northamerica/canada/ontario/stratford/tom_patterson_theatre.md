@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - theatre
+score: 8.7
 ---
 
 Named after the journalist who started the festival, the Tom Patterson is a long, narrow venue on the riverside that reopened in a sleek new building in 2021. The architecture is the most striking in town — a low ribbon of glass and Carolina pine that wraps around the original 1908 pavilion at one end.

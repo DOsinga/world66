@@ -9,6 +9,7 @@ tags:
 - beach
 title: Coco Plum Beach
 type: poi
+score: 8.5
 ---
 
 A wide, photogenic beach on the north end of Great Exuma, famous for its sandbars that emerge at low tide. At the right time you can walk hundreds of metres out across shallow flats, finding sand dollars and starfish as you go. There is an Instagram-famous wooden swing in the water, but the real draw is the sandbar itself — it feels like standing in the middle of the ocean on a strip of white sand.

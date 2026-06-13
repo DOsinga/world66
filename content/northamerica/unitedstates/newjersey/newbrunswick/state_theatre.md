@@ -8,6 +8,7 @@ tags:
   - sight
   - theatre
 story: "The State Theatre opened in 1921 as a vaudeville and movie palace, decorated in the Italian Renaissance style. It survived as a porn cinema in the 1970s before being rescued by a non-profit and restored in 1988 — gilded plasterwork, painted ceiling, the works."
+score: 7.7
 ---
 
 The State Theatre on Livingston Avenue is the city's grand venue, a 1,851-seat former vaudeville palace from 1921 now used for everything from Broadway tours and symphony concerts to comedians and ballet. The ornate interior is the main reason to take whatever is on the calendar; it is one of the better-preserved early movie palaces in the New York metropolitan area.

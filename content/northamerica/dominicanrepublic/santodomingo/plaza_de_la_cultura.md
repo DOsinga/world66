@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 18.4784
 longitude: -69.9016
+score: 7.5
 ---
 
 The Plaza de la Cultura is Santo Domingo's cultural centre — a large open space in the Gazcue neighbourhood, northwest of the Zona Colonial, that houses four museums, the National Theatre, and manicured gardens. The museums are the Museo del Hombre Dominicano (anthropology), the Museo de Arte Moderno (modern art), the Museo Nacional de Historia Natural (natural history), and the Museo de Historia y Geografía (national history and geography).

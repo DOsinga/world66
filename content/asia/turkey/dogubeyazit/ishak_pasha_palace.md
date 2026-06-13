@@ -14,6 +14,7 @@ story: >
   where it remains. The rough stone frame is still visible in the palace entrance,
   a reminder of what once stood there and of the upheavals this corner of Anatolia
   has endured.
+score: 9.1
 ---
 
 Ishak Pasha Palace is the most dramatic sight in eastern Turkey — an elaborate semi-ruined palace complex built between 1685 and 1784 on a rocky spur above Dogubeyazit, with the sweep of the Ararat plains below and the mountain itself behind. It was commissioned by the Çildiroglu dynasty, Kurdish chieftains who controlled this corner of the Ottoman empire, and combines Ottoman, Persian, Seljuk, and Armenian architectural elements in a way that reflects the crossroads nature of the region.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.7928
 longitude: 78.7675
+score: 6.6
 ---
 
 Erumbeeswarar Temple sits on a small hill at Thiruverumbur, east of central Trichy. It is an older, quieter Shiva temple than the city's headline sites, with a climb that gives views over the surrounding plain.

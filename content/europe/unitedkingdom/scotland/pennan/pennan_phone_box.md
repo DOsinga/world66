@@ -18,6 +18,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Pennan
   - https://www.undiscoveredscotland.co.uk/pennan/pennan/index.html
+score: 5.9
 ---
 
 The red telephone box on Pennan's seafront is the village's most photographed object and its reason for existence as a tourist destination. The 1983 Bafta-winning film *Local Hero*, directed by Bill Forsyth and starring Burt Lancaster, used Pennan as a key location, and the phone box features in several scenes. Visitors have been making the pilgrimage ever since.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.1537
 longitude: 79.0453
+score: 6.3
 ---
 
 Futala Lake on Nagpur's western edge is the city's liveliest outdoor gathering place after dark. The lake is surrounded by a broad promenade lined with food stalls selling chaat, bhel puri, and local snacks, and the nightly musical fountain show — coloured lights playing over jets of water set to music — draws large crowds of families and couples.

@@ -14,6 +14,7 @@ story: >
   sacred long before that. The inscription records the military victories of King Manadeva —
   a name that appears in the history of the valley at the limit of written memory. This hilltop
   has been a place of worship for at least sixteen centuries.
+score: 8.9
 ---
 
 Changu Narayan is Nepal's oldest surviving temple complex and a UNESCO World Heritage Site, sitting on a forested ridge about 12 km east of Kathmandu. The main pagoda is dedicated to Vishnu in his form as Narayan, and the courtyard around it is filled with some of the finest stone and metal sculptures in Nepal, dating from the 5th to the 12th centuries.

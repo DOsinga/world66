@@ -13,6 +13,7 @@ story: >
   It is so heavy that the foundation required 10,000 timber piles driven into the marsh. During the
   872-day Siege of Leningrad, the dome was painted grey to camouflage it from German bombers, and the
   cathedral's basements were used to store thousands of irreplaceable artworks from the city's museums.
+score: 9.5
 ---
 
 St Isaac's Cathedral dominates the south bank of the Neva with its enormous gilded dome — 101 metres high, the fourth largest in the world. Inside, the interior is suitably overwhelming: marble columns, malachite and lapis lazuli pillars at the iconostasis, mosaics that took half a century to lay, and a soaring central drum painted with religious frescoes.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 story: The valley produced **Perak Man**, an almost-complete human skeleton from around 11,000 years ago — the oldest most-complete human remains found in Southeast Asia. He was buried in the foetal position, deliberately, and shows skeletal asymmetry from a developmental condition; his treatment in death suggests a degree of social care unusual at this date.
+score: 8.8
 ---
 
 The **Lenggong Valley**, in the upper Perak River basin north of Kuala Kangsar, is one of the most important archaeological landscapes in Southeast Asia and a **UNESCO World Heritage Site** since 2012. Open-air sites in the valley have produced stone tools dating back **1.83 million years** — the oldest evidence of human technology outside Africa — and a long sequence of habitation through the Palaeolithic, Mesolithic and Neolithic.

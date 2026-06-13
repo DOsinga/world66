@@ -6,6 +6,7 @@ longitude: -149.1
 tags:
   - things_to_do
   - hiking
+score: 7.5
 ---
 
 The standard hiking route to the top of Mount Alyeska, the North Face Trail climbs 2,000 vertical feet in just over two miles from the Hotel Alyeska base to the upper tram terminal. The grade is relentless — switchback after switchback through dense forest, then steep alpine meadow toward the top — but the views from the summit are the same as from the tram.

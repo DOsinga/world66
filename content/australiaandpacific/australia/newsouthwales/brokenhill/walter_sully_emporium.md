@@ -6,6 +6,7 @@ longitude: 141.4682
 tags:
   - things_to_do
   - architecture
+score: 6.9
 ---
 
 The Walter Sully Emporium on Argent Street is one of the finest commercial buildings in Broken Hill — a tall Federation Free Classical façade built in 1909 for what was then one of the biggest department stores in the outback. The verandah, the parapet and the ornate window dressings are all original.

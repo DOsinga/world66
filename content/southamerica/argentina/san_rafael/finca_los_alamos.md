@@ -6,6 +6,7 @@ longitude: -68.2394
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Finca Los Alamos is a historic Argentine estancia about 30 minutes east of San Rafael, founded in 1830 and operated by the Bombal family for six generations. The compound includes a colonial-era farmhouse, a chapel, gardens, working vineyards, and — famously — the Borges Memorial Maze, designed by Randoll Coate.

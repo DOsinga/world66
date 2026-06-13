@@ -10,6 +10,7 @@ tags:
   - park
 sources:
   - https://en.wikipedia.org/wiki/Olympic_Sculpture_Park
+score: 8.0
 ---
 
 The Olympic Sculpture Park occupies a nine-acre strip of reclaimed industrial land on the Seattle waterfront, free to enter and open every day of the year. It is a branch of the Seattle Art Museum and displays large-scale outdoor sculpture by Alexander Calder, Richard Serra, Ellsworth Kelly, and Louise Bourgeois, among others.

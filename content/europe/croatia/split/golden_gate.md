@@ -13,6 +13,7 @@ story: >
   this gate led directly to Salona, the provincial capital, where most of the administrative
   machinery of Roman Dalmatia was based. When Salona was sacked in the 7th century,
   refugees from the city flooded south through this same gate to take shelter in the palace.
+score: 6.6
 ---
 
 The largest and most architecturally complete of the palace's four original gates, the Golden Gate faces north toward the former Roman road to Salona. The outer facade has two circular towers and a gallery with blind arches above the entrance passage — the full Roman treatment applied to the most important gate. The inner arch and the original Corinthian pilasters are both visible.

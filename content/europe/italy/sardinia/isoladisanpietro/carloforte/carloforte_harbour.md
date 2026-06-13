@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.1455
 longitude: 8.3064
+score: 8.2
 ---
 
 The Carloforte harbour front is the social centre of the island — a row of pastel-painted buildings, fishing boats, and sailing yachts along a compact quay where the ferry from the mainland docks. The main piazza, Piazza Carlo Emanuele III, opens off the waterfront and is shaded by tall palms, with café terraces facing the sea.

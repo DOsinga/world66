@@ -6,6 +6,7 @@ longitude: 49.1070
 tags:
   - things_to_do
   - neighbourhood
+score: 6.6
 ---
 
 The Kremlin District covers the UNESCO citadel itself and the few blocks immediately around it — the area below the southern wall that includes the National Museum and the Hermitage Centre, and the embankment to the north. Most of Kazan's headline sights are here.

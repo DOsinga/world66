@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bagh-e Jahan Nama
 type: poi
+score: 7.3
 ---
 
 Jahan Nama — "World-Showing" — is one of the oldest gardens in Shiraz, with origins in the late 13th century. The present form is largely a 19th-century Qajar reworking around a central octagonal pavilion, which Karim Khan had earlier used as a guesthouse.

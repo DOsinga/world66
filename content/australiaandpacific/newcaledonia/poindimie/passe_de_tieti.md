@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - diving
   - nature
+score: 8.7
 ---
 
 The reef pass off Tiéti beach is the headline dive on the east coast. Outside the pass, the wall drops abruptly to deep water; inside, the lagoon flattens out over coral gardens. Currents through the pass bring in pelagic life — black-tip and grey reef sharks, schooling barracuda, occasional eagle rays, and turtles year-round.

@@ -9,6 +9,7 @@ latitude: 38.7600
 longitude: 24.5200
 story: >
   The Skyrian horse is one of the rarest horse breeds in the world, with fewer than 250 individuals surviving. Ancient Greek art — including friezes on the Parthenon — may depict these small horses, suggesting they have lived on Skyros for at least 2,500 years.
+score: 7.4
 ---
 
 The Skyrian horse (Skyros pony) is a small, ancient breed that has lived semi-wild in the rocky southern part of the island for centuries. Standing only 9 to 11 hands high — closer in size to a large dog than a riding horse — these animals have developed the compact proportions and sure-footedness needed to survive on thin scrub and rough terrain. They are extraordinarily gentle in temperament.

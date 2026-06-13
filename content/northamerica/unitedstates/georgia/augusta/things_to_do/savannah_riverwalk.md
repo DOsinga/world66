@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 33.4735
 longitude: -81.9668
+score: 6.3
 ---
 
 Augusta's Riverwalk runs along the south bank of the Savannah River for about two miles through the centre of the city, paved in brick and lined with benches, sculptures, and views across the water to the South Carolina shore. It connects Eighth Street to the Sixth Street corridor and passes through Riverwalk Park, a popular gathering spot for locals.

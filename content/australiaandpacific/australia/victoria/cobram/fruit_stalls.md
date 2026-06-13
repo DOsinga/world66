@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - food_and_drink
 snippet: "Direct-from-grower fruit stalls along the highways into town"
+score: 6.8
 ---
 
 The country around Cobram is one of Victoria's main stonefruit and tomato districts, and the back roads into town are dotted with grower stalls in season. Peaches, nectarines and apricots peak in January and February; tomatoes start in late February and run through autumn.

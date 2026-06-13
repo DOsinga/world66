@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -26.305
 longitude: -48.847
+score: 5.6
 ---
 
 One of several Joinville craft breweries to have opened in the last decade, with an in-house tap room serving fifteen or so beers brewed on site — wheats, pilsners, dark lagers, the occasional IPA. The food is bar food done well: pretzels, sausages, currywurst.

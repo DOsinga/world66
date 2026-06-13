@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.9154
 longitude: -87.9643
+score: 6.8
 ---
 
 Estel's is the kind of breakfast spot that earns a daily following. Plastic chairs on the sand, the sea a few metres away, and a menu built around johnnycakes — the Belizean cornmeal flatbreads that are as good a breakfast food as exists in Central America. They come stuffed with egg and cheese or beans, and are best eaten warm from the pan.

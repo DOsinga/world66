@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 7.7
 ---
 
 The Caldeiras da Vila are the fumaroles in the middle of Furnas itself — boiling mud, sulphurous steam, springs of hot mineral water rising directly out of the ground in a small public park a few minutes' walk from the main square. They are a different experience from the larger caldeiras at the lake: less dramatic but more immediate, with the surreal feeling that an active volcano is being treated as a piece of municipal landscaping.

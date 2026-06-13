@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 44.2952
 longitude: -90.8516
+score: 6.1
 ---
 
 The Jackson County Historical Society operates a small museum in the original Carnegie Library building on Main Street, preserving the county's history from its establishment in 1853 through the lumbering era, farming settlement, and into the 20th century. The collection includes period photographs, documents, farm equipment, and artefacts from the Ho-Chunk Nation, who have a significant presence in Jackson County.

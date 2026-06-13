@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 30-metre sailfish on the malecón was unveiled in 1985 to mark Manzanillo's claim — disputed but defended every November in the international sailfish tournament — to be the *Capital Mundial del Pez Vela*, the World Sailfish Capital."
+score: 5.8
 ---
 
 The vast steel sailfish leaping out of the seafront promenade is Manzanillo's signature monument and the unavoidable photo stop on the malecón. At 30 metres long it is one of the largest sculptures of a single fish anywhere; it stands on a small headland just south of the central plaza and is lit at night.

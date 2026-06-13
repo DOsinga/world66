@@ -9,6 +9,7 @@ tags:
 latitude: 41.195412
 longitude: -115.328791
 story: "The Western Folklife Center is the institutional home of the National Cowboy Poetry Gathering, a week-long event held every January since 1985 that has drawn tens of thousands of working ranchers, poets, musicians, and storytellers from across the American West. The center was founded specifically to document and celebrate the living culture of working cowboys — not the Hollywood version but the actual people who still ride horses for a living. Its galleries mount rotating exhibitions on Western traditions ranging from buckaroo gear to Great Basin Indigenous art."
+score: 7.8
 ---
 
 The Western Folklife Center occupies a grand brick building on Railroad Street that was originally built as a hotel in 1913, during Elko's railroad boom. The center serves as the year-round headquarters of the National Cowboy Poetry Gathering and operates an excellent gallery space dedicated to the folk arts and traditions of the American West.

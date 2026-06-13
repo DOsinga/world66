@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - medieval_quarter
+score: 6.7
 ---
 
 A small, eccentric museum dedicated to the lanterns carried in the procession on the eve of Vitoria's patron saint festival. The tradition, alive since the 19th century, sees thousands of paper lanterns parade through the streets on the night of 4 August. Many of the original lanterns — elaborate paper-and-wire constructions of buildings, ships, and figures — are preserved here.

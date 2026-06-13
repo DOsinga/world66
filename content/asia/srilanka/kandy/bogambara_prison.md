@@ -14,6 +14,7 @@ story: >
   journalists described as "inhumane conditions." The emptied site has been controversial:
   proposals have included a sports complex, a cultural centre, and luxury hotels, each
   drawing fierce public debate about who should benefit from the prime location.
+score: 5.7
 ---
 
 The former Bogambara Prison occupies a prime position beside the lake, just south of the main city center. The prison closed in 2016 after over a century of use, and the site — roughly six acres of land between the lake and Bogambara stadium — has been a subject of ongoing redevelopment debate. As of writing, the area around the former prison is worth walking past for the views over the lake, and the adjacent Bogambara Stadium occasionally hosts cricket matches open to spectators.

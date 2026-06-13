@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 At the western end of Liberation Avenue stands the former Ghibi Palace, built in 1897 by the first Italian civilian governor of Eritrea, Ferdinando Martini. It is the oldest substantial European-style building in Asmara, predating most of the modernist masterpieces by decades.

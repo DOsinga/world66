@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.11200
 longitude: 15.48800
+score: 7.6
 ---
 
 Cala delle Arene is the main beach on San Domino and the most accessible stretch of sand in the archipelago. A crescent of golden sand backed by Aleppo pine forest, it faces south and catches sun all day. The water is transparently clear in the Adriatic way — pale turquoise over sand shading to deep blue — and warm enough for swimming from June through September. Sun loungers and umbrellas are available for hire through the summer season.

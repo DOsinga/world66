@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Many of Jacmel's distinctive cast-iron facades were prefabricated in Belgium and France and shipped over as kits in the late 1800s, when Haitian coffee made the town's merchants rich. The pieces were bolted together on site, which is why so many of them survived the 1896 fire and then, more remarkably, the 2010 earthquake that gutted Port-au-Prince.
+score: 8.8
 ---
 
 Jacmel's old town occupies a few blocks south of the central square, sloping down toward the harbour. The streets are lined with two-story coffee-merchant houses from the late nineteenth century, distinguished by their wrap-around balconies, slender cast-iron columns, and shuttered French doors. UNESCO has long been talking about adding the centre to the World Heritage list; the Haitian government formally nominated it after the earthquake.

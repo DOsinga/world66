@@ -10,6 +10,7 @@ latitude: 33.9797
 longitude: 51.4422
 sources:
   - https://en.wikipedia.org/wiki/Boroujerdi_House
+score: 8.2
 ---
 
 The Boroujerdi House was built in the 1850s for a wealthy carpet merchant who married a daughter of the Tabatabaei family — the rival household next door. According to local tradition, the groom commissioned the house specifically to surpass his in-laws' property, and by some measures he succeeded. The painted ceiling of the main reception hall, covering an area of around 470 square metres, is considered one of the finest examples of Persian decorative painting in existence.

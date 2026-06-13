@@ -7,6 +7,7 @@ tags:
 latitude: 46.5400
 longitude: 15.6600
 snippet: "South-facing wine slopes directly above the city, walkable from the centre"
+score: 8.3
 ---
 
 The vineyards that cover the south-facing slopes above Maribor's old town are among the most accessible wine country in Europe — you can walk from the city centre to working vineyards in under half an hour. The slopes face the Drava valley and catch full afternoon sun, which suits the Žametovka, Blauburger, and Welschriesling varieties most commonly grown here.

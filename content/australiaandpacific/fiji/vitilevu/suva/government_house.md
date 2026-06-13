@@ -8,6 +8,7 @@ tags:
   - sight
   - nasese
 neighbourhood: Nasese
+score: 6.4
 ---
 
 The official residence of the President of Fiji, set on a low hill at the southern end of Queen Elizabeth Drive. The current white-walled mansion was built in 1928 after lightning destroyed the previous wooden building, and is the most formal piece of government architecture in the country.

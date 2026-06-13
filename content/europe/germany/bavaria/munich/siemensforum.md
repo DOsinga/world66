@@ -11,6 +11,7 @@ tags:
 - altstadt
 title: SiemensForum
 type: poi
+score: 1.5
 ---
 
 The SiemensForum at Prannerstraße 10 in central Munich was a free technology museum run by Siemens, covering the history of electrical engineering and electronics from the 19th century to the present. Visitors could operate many of the exhibits themselves. The forum closed permanently around 2010–2011 as Siemens consolidated its corporate museum activities.

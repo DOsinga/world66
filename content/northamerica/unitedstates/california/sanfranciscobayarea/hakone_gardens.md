@@ -9,6 +9,7 @@ tags:
 - sight
 title: Hakone Gardens
 type: poi
+score: 7.7
 ---
 
 Hakone Gardens is one of the Bay Area stops that explains why this region keeps pulling visitors back. It works best when you give it time rather than treating it as a quick photo stop; the setting, history, and surrounding neighborhoods are part of the point.

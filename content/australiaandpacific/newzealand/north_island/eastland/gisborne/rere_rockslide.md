@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.4800
 longitude: 177.8300
+score: 7.9
 ---
 
 The Rere Rockslide is a natural phenomenon about 45 kilometres west of Gisborne: a broad sheet of water flows over a smooth basalt rock face for 60 metres before dropping into a deep swimming hole below. People bring boogie boards and rubber mats to slide down — it is genuinely fast and good fun, though you will pick up some bruises if the flow is low.

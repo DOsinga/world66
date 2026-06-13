@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Epcot
 type: poi
+score: 8.3
 ---
 
 A permanent international and discovery showplace covering 260 acres, located at Epcot Center Drive in Lake Buena Vista. Two major areas make up the park: Future World, focused on science and technology, and the World Showcase, a circuit of pavilions representing cultures from around the globe. Hours vary seasonally; check the Disney World website for current schedules.

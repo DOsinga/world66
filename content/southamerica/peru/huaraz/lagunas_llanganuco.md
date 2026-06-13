@@ -8,6 +8,7 @@ latitude: -9.0592
 longitude: -77.6458
 story: >
   The Llanganuco lakes sit directly beneath Huascarán's sheer north face at 3,860 metres. The blue-green water changes colour depending on the angle of light and the season — pale turquoise under overcast skies, vivid emerald when the afternoon sun hits at the right angle.
+score: 8.3
 ---
 
 The two lakes of Llanganuco — Chinancocha and Orconcocha — are the most-photographed natural features of the Cordillera Blanca. They sit in a deep glacial valley between Huascarán and Huandoy, their improbable blue-green colour the result of suspended glacial sediment. Boat rides on Chinancocha take you out into the middle of the lake for the classic view back to the mountains.

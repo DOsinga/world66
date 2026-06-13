@@ -11,6 +11,7 @@ story: >
   Doc Holliday arrived in Glenwood Springs in 1887, a dying man who hoped the mineral air and hot springs would slow his tuberculosis. They did not. He died in his hotel room on 8 November 1887, aged 36. Legend has it his last words were "This is funny" — he had always expected to die with his boots on, in a gunfight, not bedridden in a mountain resort.
 sources:
   - https://en.wikipedia.org/wiki/Glenwood_Springs,_Colorado
+score: 6.8
 ---
 
 Up on the hillside above town, Linwood Cemetery holds the grave of John Henry "Doc" Holliday, the dentist-turned-gambler-turned-gunfighter who was Wyatt Earp's closest friend at the OK Corral. The grave is well-marked, adorned with playing cards and whiskey bottles left by visitors, and looks out over the town and the canyon below.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Superlambanana
 type: poi
+score: 6.7
 ---
 
 A 17-foot-tall, bright yellow sculpture that is exactly what its name suggests: half banana, half lamb. Created by the Japanese artist Taro Chiezo in 1998 for the ArtTransPennine exhibition, it was conceived as a satirical comment on genetic engineering and on Liverpool's port history — the city's docks once received both lambs (in vast numbers) and bananas.

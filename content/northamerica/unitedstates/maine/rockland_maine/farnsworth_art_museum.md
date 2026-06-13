@@ -15,6 +15,7 @@ story: >
   Wyeth painted it makes the famous image suddenly, unexpectedly moving.
 sources:
   - https://en.wikipedia.org/wiki/Farnsworth_Art_Museum
+score: 8.7
 ---
 
 The Farnsworth is Rockland's unexpected trump card — a genuinely serious art museum for a small harbor town, with one of the best collections of American art focused on New England anywhere in the country. Three generations of the Wyeth family are the centerpiece: N.C. Wyeth's vigorous illustrations, Andrew's quiet and unsettling temperas and watercolors, and Jamie Wyeth's contemporary portraits.

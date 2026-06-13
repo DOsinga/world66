@@ -7,6 +7,7 @@ tags:
   - cimiez
 latitude: 43.7200
 longitude: 7.2750
+score: 7.0
 ---
 
 The Franciscan monastery in Cimiez dates to the 14th century and still houses an active community of friars. The church contains several important paintings by the Nice School, including a Pietà and a Deposition by Louis Bréa, the 15th-century master who defined religious painting on this section of the Riviera for generations. The works retain their original colouring with remarkable freshness.

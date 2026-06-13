@@ -14,6 +14,7 @@ story: >
   buying entire private collections wholesale. When he died in 1931, he left everything
   — including the buildings — to the City of Baltimore, stipulating it be free to the
   public. It has been free ever since.
+score: 9.2
 ---
 
 The Walters Art Museum is one of the great small museums in America, and it is entirely free. The collection spans 55 centuries, from ancient Egypt through medieval Europe to 19th-century European and Asian art, with particular strength in medieval manuscripts, Islamic art, and 19th-century French painting.

@@ -9,6 +9,7 @@ latitude: 26.7523
 longitude: 128.1877
 story: >
   The Okinawa rail — a flightless bird called yanbaru kuina in Japanese — exists nowhere else on earth. It was only formally identified as a species in 1981 and was almost immediately placed on the critically endangered list; the wild population was estimated at fewer than 1,500 individuals at its lowest point. Road deaths from cars on the forest roads remain one of the main threats to its survival.
+score: 8.8
 ---
 
 The northern third of Okinawa Island is covered by the Yambaru subtropical forest, designated a national park in 2016 and added to the UNESCO Natural World Heritage list in 2021. This is the wildest part of the main island: forested ridges, mangrove estuaries, clear rivers, and a coastline with no resort development. It is home to several species found nowhere else on earth, including the Okinawa rail and the Okinawa woodpecker.

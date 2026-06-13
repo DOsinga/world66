@@ -10,6 +10,7 @@ story: >
   In 1854, a winter drought lowered the lake level dramatically, exposing thousands of wooden stakes driven into the lakebed. Archaeologists realised they had found the remains of Neolithic and Bronze Age pile dwellings — villages built on platforms over the water thousands of years ago. The lake shores are now one of the densest concentrations of prehistoric pile dwelling remains in Europe, and they are part of a UNESCO World Heritage Site covering similar sites across Alpine Switzerland, Austria, and Germany.
 sources:
   - https://en.wikipedia.org/wiki/Lake_Neuch%C3%A2tel
+score: 7.2
 ---
 
 Lake Neuchâtel is the largest lake lying entirely within Switzerland — a long, narrow body of water running southwest to northeast along the foot of the Jura hills, with the Alps visible across the water on clear days. The city of Neuchâtel sits on its northwestern shore, and the lakefront promenade is the city's main social space.

@@ -6,6 +6,7 @@ tags:
   - park
 latitude: 51.6724
 longitude: -1.2915
+score: 5.2
 ---
 
 Albert Park is the Victorian heart of north-west Abingdon — a small public park laid out in 1864 on land donated by the local Bowyer family, with a bandstand, ornamental beds, and mature plane trees. The Italianate **drinking fountain** at the centre commemorates Prince Albert and was the gift of a wealthy local doctor.

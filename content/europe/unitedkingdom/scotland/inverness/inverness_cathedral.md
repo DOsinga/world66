@@ -10,6 +10,7 @@ title: Inverness Cathedral
 type: poi
 story: >
   Inverness Cathedral was the first cathedral built in Britain after the Reformation and is thought to be the only cathedral in Britain with an octagonal chapter house incorporated into its design. The building contains one of the few copies of the Sistine Chapel Madonna by Raphael outside Italy — donated by a local resident in the nineteenth century.
+score: 6.3
 ---
 
 Inverness Cathedral stands on the west bank of the River Ness, its twin towers reflected in the water and its sandstone frontage catching the afternoon light beautifully. Built between 1866 and 1869 to a design by architect Alexander Ross, it serves the Scottish Episcopal Church and is open to visitors throughout the year.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8500
 longitude: 125.3700
+score: 6.2
 ---
 
 Jingyue Ski Resort, located within the Jingyuetan National Forest Park area, provides the most accessible skiing in Changchun proper — convenient for city residents and for visitors who want a day on snow without the longer journey to Beidahu. The resort has multiple runs of varying difficulty, snowmaking facilities, and ski rental, and operates through the reliable cold of the Changchun winter from December through February.

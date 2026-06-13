@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 7.4
 ---
 
 The ruined Castle of Santa Caterina sits on the high ridge above Favignana, watching over the low island and the Egadi channel. The walk or ride up is exposed, but the view is the reward: town, coves, salt-blue water, and the Sicilian coast beyond.

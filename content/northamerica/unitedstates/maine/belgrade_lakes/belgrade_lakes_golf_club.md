@@ -9,6 +9,7 @@ tags:
 latitude: 44.5230
 longitude: -69.8520
 story: "The course was designed by Clive Clark and opened in 1998 on a hilltop that had been an open pasture for a century. Golf Digest ranked it among the top ten new public courses in the United States in its first year."
+score: 6.8
 ---
 
 The Belgrade Lakes Golf Club sits on Snow Pond Hill east of the village, an 18-hole public course set high above the surrounding lake country. The hilltop layout means that almost every fairway has a long view across to Great Pond, Long Pond or Salmon Lake, with Mount Phillip and the other low Belgrade mountains rising behind. It is consistently rated among the best public courses in northern New England.

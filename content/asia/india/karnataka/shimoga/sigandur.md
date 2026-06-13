@@ -5,6 +5,7 @@ tags: [day_trips, sight, culture]
 latitude: 14.0467
 longitude: 75.0022
 story: Sigandur's Chowdeshwari temple can only be reached by boat across the Sharavathi reservoir backwaters — the original village was submerged when the dam was built, and the temple was relocated to its current hillock, which now sits surrounded by water.
+score: 7.3
 ---
 
 Sigandur is a temple town perched on a hillock in the middle of the Sharavathi reservoir backwaters, accessible only by boat. The Chowdeshwari temple here is an important pilgrimage site for devotees from across the Malnad region, dedicated to the goddess who is believed to be the guardian of the forest tribes of the area. The boat crossing from the shore — across glassy water with forested ghats on all sides — is the highlight of the visit.

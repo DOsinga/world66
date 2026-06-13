@@ -8,6 +8,7 @@ tags:
 - sight
 title: Songshan Ciyou Temple
 type: poi
+score: 8.0
 ---
 
 The 1753 Songshan Ciyou Temple is the most spectacular religious building on the east side of Taipei — a six-storey high temple dedicated to **Mazu**, the goddess of seafarers, with riotously colourful **jiannian** mosaic-tile decoration over every external surface and a forest of carved wood and stone inside. It stands at the western gate of **Raohe Night Market**, and most visitors combine the two.

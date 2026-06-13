@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.3805
 longitude: 28.8231
+score: 6.8
 ---
 
 A small regional museum on the main square covering Orhei district history from the Geto-Dacian period through the Moldavian principality to the Soviet years. The strongest collection is the ethnographic display — embroidered shirts, woven carpets, painted Easter eggs, and household objects from villages around the Răut valley.

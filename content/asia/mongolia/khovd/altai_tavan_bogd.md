@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Khüiten Peak in Tavan Bogd is Mongolia's highest mountain at 4,374 metres. The summit sits on the three-way border between Mongolia, Russia, and China — climbers must literally stand in all three countries at once. Permits to approach the summit require special clearance from the Mongolian border authorities."
+score: 9.2
 ---
 
 Tavan Bogd — Five Saints — is the cluster of five permanently glaciated peaks at the western tip of Mongolia, where the country meets Russia and China. The national park surrounding them is the most spectacular wilderness in the country: the Potanin Glacier (the longest in Mongolia at 14 km), the Khüiten summit, the petroglyph valleys of the Tsagaan Salaa river, and the high Tavan Bogd lakes.

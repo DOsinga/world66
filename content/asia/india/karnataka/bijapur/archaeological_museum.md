@@ -8,6 +8,7 @@ tags:
   - museum
 address: Within the Gol Gumbaz complex
 snippet: Small museum within the Gol Gumbaz complex — Adil Shahi-era weapons, carpets, manuscripts
+score: 6.8
 ---
 
 A small but well-arranged museum housed in the original gatehouse of the Gol Gumbaz complex. The displays cover the Adil Shahi period — weapons, fragments of carpet, Persian manuscripts, coins, fragments of architectural sculpture rescued from ruined buildings around the city. There are also a few Hindu sculptures from earlier periods, predating the sultanate.

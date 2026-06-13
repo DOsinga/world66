@@ -6,6 +6,7 @@ longitude: 73.6925
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 An unexpected gem: **Hindustan Zinc's** small but well-designed museum near Sukher tells the long history of zinc mining in southern Rajasthan, which goes back over 2,000 years. The display includes recovered ancient retorts, distillation furnaces, and an excellent model of the medieval Zawar mines (the world's first known site of large-scale zinc smelting, in the 12th–13th centuries).

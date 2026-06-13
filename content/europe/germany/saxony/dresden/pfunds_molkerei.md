@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 story: "Paul Pfund opened his dairy shop in 1891 and clad every surface — walls, floor, ceiling, and counter — in hand-painted neo-Renaissance tiles from Villeroy & Boch. The shop sold dairy products through two world wars, the GDR, and reunification without the tiles being touched. In 1998, the Guinness Book of Records certified it as the world's most beautiful dairy shop. It still sells cheese."
+score: 7.4
 ---
 
 Pfunds Molkerei is a corner shop in Dresden's Neustadt district that happens to be one of the most visually extraordinary interiors in Germany. Every surface — the floor, the walls to the ceiling, the counter, the pillars — is covered in hand-painted ceramic tiles from the Villeroy & Boch factory, in a dense neo-Renaissance pattern of fruits, animals, and ornamental cartouches in cream, cobalt, and terracotta.

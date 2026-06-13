@@ -6,6 +6,7 @@ longitude: -82.7723
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 Dunedin is the most rider-friendly town along the Pinellas Trail and a logical base or lunch stop. The trail cuts directly through the compact downtown, with the path widening into a linear plaza of patios, breweries, and bike shops. Dunedin Brewery, the oldest microbrewery in Florida, sits a block off the trail; Caledonia Brewing, HOB Brewing, and several others are within a five-minute walk.

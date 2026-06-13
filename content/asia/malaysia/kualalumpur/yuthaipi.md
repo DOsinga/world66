@@ -6,6 +6,7 @@ longitude: 101.7011
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 A Hainanese coffee shop that has been serving the same handful of dishes since 1928, run by the same family for three generations. The signature is **chicken chop** — a Hainanese take on the Western pork or chicken cutlet, deep-fried, served with peas, chips, and a thick brown gravy — joined by Hainanese pork chop, roti babi (deep-fried bread with a pork-and-prawn filling), kaya toast, and strong coffee with condensed milk.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6608
 longitude: 117.0700
+score: 6.3
 ---
 
 Lixia District is Jinan's upscale commercial and residential core — the part of the city where the money has settled. The area around Jingsi Road and the CBD contains the city's best hotels, most polished restaurants, and the buildings that appear on Jinan's promotional materials. It lacks the historic interest of the spring district but shows the confident face of a prosperous provincial capital.

@@ -5,6 +5,7 @@ author: "Milovan Đilas"
 isbn: "978-0156492621"
 tags:
   - books
+score: 7.6
 ---
 
 Milovan Đilas was the most important Yugoslav dissident of the communist period — Tito's wartime deputy, then his most prominent prisoner — and *Land Without Justice* (1958) is his memoir of growing up in Montenegro before the Second World War. The country he describes is a hard, poor, code-bound place, full of blood feuds and proud silences, that has almost vanished from the modern coast.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Guincho
 type: poi
+score: 7.4
 ---
 
 Praia do Guincho is a broad, windswept Atlantic beach about 5 km northwest of Cascais and 30 km from central Lisbon. The setting is dramatic — backed by the Serra de Sintra hills and the scrubby dunes of Sintra-Cascais Natural Park, with big Atlantic swells rolling in.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 30.3900
 longitude: 130.6000
+score: 7.1
 ---
 
 The waters surrounding Yakushima are remarkably clear and rich, with coral reefs, sea turtles, and shoals of tropical fish inhabiting the shallows. The island sits at the boundary between temperate and subtropical oceanic zones, which means biodiversity is high — species typical of both zones overlap here. The best snorkelling spots are on the east and south coasts, where visibility is good and the underwater terrain varied.

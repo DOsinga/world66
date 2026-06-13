@@ -6,6 +6,7 @@ longitude: -8.5210
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The fishing village of Ferragudo sits across the Arade river from Portimão, looking back at Praia da Rocha from the eastern bank. It has resisted the high-rise development that defines its neighbour: a cluster of low white-washed cottages around a central square, fishing boats drawn up on the slipway, and a cobbled lane climbing to the parish church.

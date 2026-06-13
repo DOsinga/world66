@@ -10,6 +10,7 @@ tags:
   - culture
 snippet: UNESCO World Heritage Site on the Jordan River — where Jesus is believed to have been baptised
 story: "For centuries the baptism site was disputed between the Jordanian and Israeli sides of the river, with both maintaining their own 'official' sites. The Jordanian site at Al-Maghtas received UNESCO World Heritage designation in 2015 after excavations revealed the world's oldest known churches and a baptismal pool dating to the Byzantine period — confirming its continuous veneration since at least the 4th century CE."
+score: 8.5
 ---
 
 Al-Maghtas — 'the Baptism' in Arabic — is the Jordanian-side site where scholars and the Vatican now believe the baptism of Jesus by John the Baptist took place. The UNESCO World Heritage site (designated 2015) on the east bank of the Jordan River is a 40-minute drive north of the Dead Sea resort strip, and it is one of the most historically and spiritually significant sites in the Middle East.

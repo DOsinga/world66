@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Barrio Inglés
 type: poi
+score: 8.1
 ---
 
 Barrio Inglés is the old English Quarter near the port, a reminder of Coquimbo's 19th-century mining, shipping, and foreign-trade boom. Restored facades, bars, and cultural spaces sit among streets that still feel more port-town than polished attraction.

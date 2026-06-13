@@ -6,6 +6,7 @@ longitude: -4.6311
 tags:
   - things_to_do
   - architecture
+score: 5.5
 ---
 
 The Celtic Gateway is a striking modern footbridge that connects the town centre directly to the railway station and the Stena Line ferry terminal across the inner harbour. Opened in 2006, it replaced an inconvenient roundabout-and-subway arrangement that for decades made arriving in Holyhead a confusing affair.

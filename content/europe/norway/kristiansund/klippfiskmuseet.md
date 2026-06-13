@@ -14,6 +14,7 @@ story: >
   dominated the trade — salted Norwegian cod was the backbone of the Catholic 
   Friday fast across southern Europe. The tradition survives: bacalhau in Lisbon 
   and bacalao in Bilbao trace a direct line back to this harbour.
+score: 7.8
 ---
 
 The Klippfiskmuseet, part of the Nordmøre Museum, is housed in an old warehouse on Innlandet and tells the history of the dried and salted cod trade that built Kristiansund. For roughly three centuries, klippfisk was the city's main export and its economic reason for being: fish caught off the coast, dried on the rocks (klipp means rock or cliff in Norwegian), then packed for markets across Catholic Europe. The museum displays the tools, the trade routes, and the social history of the industry in straightforward, well-captioned exhibits.

@@ -6,6 +6,7 @@ longitude: 44.0493
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Nizhny Novgorod Cableway (Nizhnegorodskaya kanatka) crosses the Volga from the Upper Town to the town of Bor on the far bank, a journey of about 3.5 kilometres that takes around 12 minutes. It's one of the longest passenger cable cars in Europe over water, and the crossing gives you a sustained aerial view of the Volga — one of Russia's great rivers — that you simply cannot get from the ground.

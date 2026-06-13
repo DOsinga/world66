@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 44.3035
 longitude: 9.2084
+score: 5.0
 ---
 
 The historical Portofino cafe on the Piazzetta — a few tables outside, a wooden bar inside, and a steady parade of famous faces in the photo collection on the walls. Order an espresso for €5 or a Negroni for many times that. Either way, the table buys you an hour of front-row seats on the harbour.

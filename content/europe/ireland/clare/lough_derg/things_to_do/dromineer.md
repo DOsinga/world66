@@ -8,6 +8,7 @@ latitude: 52.9248
 longitude: -8.2768
 sources:
   - https://en.wikipedia.org/wiki/Dromineer
+score: 7.0
 ---
 
 Dromineer is the main sailing centre on Lough Derg, home to Lough Derg Yacht Club and the most active sailing programme on the lake. The harbour sits on the Tipperary shore and can be reached by road from Nenagh. There are ruins of a Norman castle on the headland above the village, and a small beach suitable for swimming on calm days.

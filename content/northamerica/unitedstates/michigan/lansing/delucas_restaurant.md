@@ -12,6 +12,7 @@ tags:
 title: DeLuca's Restaurant
 type: poi
 url: www.delucaspizza.com
+score: 5.7
 ---
 
 A Lansing institution on West Willow Street, DeLuca's has been serving pizza to loyal locals for decades. The thin-crust pies are the main event, backed by a menu of Italian-American standards. Nothing fancy — checkered tablecloths, friendly service, and the kind of place where families come back week after week.

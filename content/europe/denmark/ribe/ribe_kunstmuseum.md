@@ -6,6 +6,7 @@ longitude: 8.7675
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 The **Ribe Art Museum**, in a striking 1864 yellow-brick villa just east of the river, holds one of the best regional collections of nineteenth-century Danish painting in Jutland. The strength is the **Danish Golden Age**: Eckersberg, Marstrand, Lundbye, Købke and the so-called Skagen Painters (Krøyer, Anna and Michael Ancher).

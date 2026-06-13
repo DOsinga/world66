@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.179
 longitude: 13.477
+score: 7.6
 ---
 
 The steep south-facing slopes above the Elbe north of Meissen are among the most northerly wine-producing vineyards in Europe. Saxony is a small wine region — one of Germany's smallest — but it produces wines of genuine character, particularly dry whites from Müller-Thurgau, Riesling, and the local Goldriesling grape. The terraced vineyards are picturesque in any season but particularly in late September when the harvest is underway.

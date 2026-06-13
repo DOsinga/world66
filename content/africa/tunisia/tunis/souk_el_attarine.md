@@ -8,6 +8,7 @@ latitude: 36.7990
 longitude: 10.1720
 story: >
   The souk's name — Attarine means perfumers — reflects a medieval trade hierarchy in which different crafts and trades occupied distinct streets. The perfumers were placed adjacent to the mosque because their fragrant wares masked the smell of the crowds at prayer. The positioning has been maintained for over a thousand years.
+score: 8.1
 ---
 
 Souk el Attarine is the perfume and spice market of the Tunis medina, running alongside the Zitouna Mosque in the heart of the oldest part of the city. The narrow covered lane is one of the most atmospheric in the medina — small shops hung with amber, musk, and rose-water extracts, vendors grinding spices by hand, and shafts of dusty light from the latticed roof above.

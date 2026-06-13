@@ -6,6 +6,7 @@ longitude: 152.6611
 tags:
 - things_to_do
 - sight
+score: 5.6
 ---
 
 A small but well-kept park beside the Mary River, with the town's main war memorial and a set of heritage-listed memorial gates at its Mary Street entrance. The gates, of pink granite and bronze, were erected in 1922 to commemorate local men killed in the First World War.

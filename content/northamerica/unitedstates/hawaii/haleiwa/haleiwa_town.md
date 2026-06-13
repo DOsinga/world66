@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 21.5900
 longitude: -158.1139
+score: 7.0
 ---
 
 Haleiwa town is the North Shore's commercial hub — a two-lane strip of surf shops, art galleries, shave ice stands, plate lunch counters, and general stores that manages to feel like a real Hawaiian community rather than a tourist district despite the steady flow of visitors. The buildings are low, weathered, and eclectic, and the speed limit slows to a crawl through the center, which is either frustrating or charming depending on your disposition.

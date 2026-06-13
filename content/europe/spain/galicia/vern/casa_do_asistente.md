@@ -8,6 +8,7 @@ tags:
 - sight
 title: Casa do Escudo
 type: poi
+score: 6.3
 ---
 
 The Casa do Escudo (House of the Coat of Arms) is one of the best-preserved noble houses in the historic centre of Verín — a 16th-century stone building with a carved heraldic crest above the main doorway, arched windows on the upper floor, and the characteristic balcony of the Galician town houses of the period. It stands on the Rúa Mayor, the main street of the old town.

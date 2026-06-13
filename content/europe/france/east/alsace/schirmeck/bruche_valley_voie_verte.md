@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.4787
 longitude: 7.2182
+score: 6.8
 ---
 
 The voie verte through the Bruche valley follows the course of an old railway line, providing a flat, well-surfaced cycling and walking path through one of the most attractive valleys in the Vosges. From Schirmeck, the path connects westward toward Raon-l'Étape and eastward toward Mutzig and eventually Strasbourg. The valley itself is quiet, lined with orchards and small villages, with the forested ridges of the Vosges rising on either side.

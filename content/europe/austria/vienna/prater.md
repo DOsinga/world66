@@ -10,6 +10,7 @@ tags:
   - park
   - leopoldstadt
 story: "The Riesenrad — the giant ferris wheel — opened in 1897, was bombed in 1944, and rebuilt with half its original cabins. It is the wheel where Orson Welles, playing Harry Lime in 'The Third Man', delivered the famous cuckoo-clock speech to Joseph Cotten in 1949."
+score: 7.8
 ---
 
 The Prater is a sprawling public park on the island between the Danube and the Danube Canal, formerly the imperial hunting ground and opened to the public in 1766. It has two parts: the long chestnut-lined Hauptallee for walking, jogging, and cycling, and the Wurstelprater, a permanent amusement area packed with funfair rides, beer gardens, and food stalls.

@@ -7,6 +7,7 @@ tags:
 latitude: 69.6482
 longitude: 18.9599
 snippet: Northern Norway's main art museum, with strong collections of Sami and regional art
+score: 7.4
 ---
 
 The Nordnorsk Kunstmuseum (North Norwegian Art Museum) is the main art institution for northern Norway, with a collection focused on art from and about the Arctic region. The permanent collection includes Norwegian Romantic landscape painting, works by northern Norwegian artists, and a substantial section on Sami visual art — one of the better places in Norway to engage with Sami artistic traditions outside of craft.

@@ -6,6 +6,7 @@ longitude: -82.4083
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Point Edward is the small independent village wedged between Sarnia and the Blue Water Bridge, with a population of around 2,000. It has its own waterfront, a casino (the Point Edward Gaming Centre, which draws a steady crowd from across the border), and a clutch of restaurants concentrated near the bridge plaza.

@@ -7,6 +7,7 @@ tags:
   - brewery
 latitude: 39.3219
 longitude: -120.1635
+score: 5.9
 ---
 
 FiftyFifty is Truckee's best-known brewery and one of the most respected craft breweries in the Sierra Nevada. It has won multiple medals at the Great American Beer Festival, and its Eclipse series of barrel-aged imperial stouts has developed a genuine cult following — the annual release draws collectors from across the country. The taproom on Bridge Street is informal and reliably busy, with a good beer garden outside and a menu of elevated pub food.

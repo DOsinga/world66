@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.8589
 longitude: -13.8312
+score: 5.2
 ---
 
 Marina Rubicón sits at the western end of Playa Blanca, a purpose-built harbour that opened in the early 2000s and has a slightly more polished feel than the old fishing port on the other side of town. The marina hosts a mix of sailing yachts and charter boats, and its quayside is lined with restaurants and cafes — seafood and grilled fish dominate the menus. The boats offer fishing trips, whale-watching excursions, and glass-bottom boat tours of the Papagayo coastline; you can book most of them directly from the dock.

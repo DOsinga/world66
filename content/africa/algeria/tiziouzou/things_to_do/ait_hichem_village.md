@@ -9,6 +9,7 @@ latitude: 36.5500
 longitude: 4.1833
 sources:
   - https://en.wikipedia.org/wiki/A%C3%AFt_Hichem
+score: 8.5
 ---
 
 One of the most characteristic traditional Kabyle villages accessible from Tizi Ouzou, Aït Hichem sits at altitude in the foothills of the Djurdjura with the clustered stone houses and communal square (tajmaât) that define the Kabyle village form. The tajmaât — a paved open-air space flanked by stone benches — was historically the place where the village assembly (ath jemaa) met to make collective decisions, a form of direct democracy that persisted long after outside authorities claimed sovereignty.

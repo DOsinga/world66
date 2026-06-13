@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.48
 longitude: -0.3828
+score: 8.0
 ---
 
 The Valencian Institute of Modern Art opened in 1989 — the first dedicated contemporary art museum in Spain — and remains one of the country's most serious. The permanent collection is strong on Julio González (whose bequest founded the museum), Ignacio Pinazo, and a steady programme of 20th-century European and American artists. The temporary exhibitions cover everything from photography to design to architecture.

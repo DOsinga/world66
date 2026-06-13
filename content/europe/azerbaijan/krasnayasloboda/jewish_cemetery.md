@@ -9,6 +9,7 @@ latitude: 41.3736
 longitude: 48.5106
 sources:
   - https://en.wikipedia.org/wiki/Q%C4%B1rm%C4%B1z%C4%B1_Q%C9%99s%C9%99b%C9%99
+score: 8.2
 ---
 
 Krasnaya Sloboda's Jewish cemetery spreads across the hillside at the northern edge of town and is one of the most evocative places in the settlement. The headstones range from simple flat slabs with Hebrew inscriptions to elaborate carved monuments erected by wealthy families, many of them funded from abroad. The inscriptions are in Hebrew, Judeo-Tat, and sometimes Russian.

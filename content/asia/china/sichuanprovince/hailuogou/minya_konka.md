@@ -14,6 +14,7 @@ story: >
   The correction placed it far lower, but it remained one of the most challenging
   mountains in the world. Of the first Western ascent party in 1932, two of the four
   climbers died on the descent.
+score: 8.8
 ---
 
 Minya Konka — Gongga Shan in Chinese — is the highest peak in Sichuan at 7,556 metres, and on clear mornings from within Hailuogou Park it presents itself with unusual directness: the summit pyramid rising above the glacier, sharp against blue sky, with no intervening ridge blocking the view. This kind of accessible high-altitude mountain panorama is rare anywhere in the world.

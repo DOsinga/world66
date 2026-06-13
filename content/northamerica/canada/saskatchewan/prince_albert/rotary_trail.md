@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.5
 ---
 
 The Rotary Trail follows the north bank of the North Saskatchewan River through the city, connecting green spaces and viewpoints along one of the province's major waterways. The trail is paved for cycling and walking; in winter sections become cross-country ski tracks. The river valley here is wide and tree-lined, offering a surprising amount of natural scenery within the city limits.

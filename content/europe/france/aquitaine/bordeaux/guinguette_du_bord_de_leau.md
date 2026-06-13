@@ -7,6 +7,7 @@ tags:
 latitude: 44.8430
 longitude: -0.5720
 snippet: Summer outdoor bar and dance floor on the Garonne waterfront — Bordeaux's favourite warm-weather evening
+score: 6.4
 ---
 
 From May to September, the Quai de la Douane waterfront hosts a series of temporary outdoor bars and guinguettes — informal riverside establishments with tables on the water's edge, simple food, live music, and an atmosphere that bears no relation to Bordeaux's formal wine culture. This is where the city goes in the evenings when the weather is good.

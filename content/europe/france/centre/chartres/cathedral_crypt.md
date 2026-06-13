@@ -7,6 +7,7 @@ tags:
 - sight
 title: Chartres Cathedral Crypt
 type: poi
+score: 8.4
 ---
 
 The crypt beneath Chartres Cathedral is the largest in France, stretching 220 metres from end to end. It was built in the 11th century on foundations that go back to a much earlier Carolingian church, and below that to a Gallo-Roman site — tradition has it that a sacred druidic well existed here long before any Christian structure. The puits des Saints-Forts (Well of the Strong Saints), a 35-metre shaft sunk into the rock, is one of the crypt's strangest features; early martyrs were reportedly thrown into it.

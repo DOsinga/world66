@@ -7,6 +7,7 @@ tags:
 - sight
 title: Taj Building
 type: poi
+score: 5.4
 ---
 
 The most photographed building in central Nowshera, the Taj Building stands at a junction on the Grand Trunk Road just west of the bazaar. Built in the early 20th century by a local merchant, it combines a typical Hindkowan three-storey shop facade with a small ornamental dome — a deliberate echo of Agra's Taj Mahal in miniature, hence the name.

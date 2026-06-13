@@ -11,6 +11,7 @@ story: >
   sailed west. The church was already standing when he arrived — founded by Hernán Peraza the
   Elder in the mid-15th century — making it one of the oldest churches in the Canary Islands
   still in active use.
+score: 7.4
 ---
 
 The Iglesia de la Asunción is the oldest church in the Canaries, founded in the mid-15th century and rebuilt several times since. The current structure is a modest whitewashed building on the Plaza de las Américas, its Mudéjar-influenced tower visible from the waterfront. The interior is simple — bare whitewashed walls, a wooden ceiling, and a handful of religious paintings — but the atmosphere is genuine and the connection to the town's history palpable.

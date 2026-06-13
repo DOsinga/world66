@@ -4,6 +4,7 @@ type: poi
 latitude: 22.5202
 longitude: 113.3845
 tags: [things_to_do, sight]
+score: 5.4
 ---
 
 The Qijiang River winds through the centre of Zhongshan, separating the older Shiqi district from the newer southern bank. The municipality has steadily upgraded the embankments on both sides into a continuous parkland walk — paved promenade, gardens, statuary, and several modern bridges that light up at night.

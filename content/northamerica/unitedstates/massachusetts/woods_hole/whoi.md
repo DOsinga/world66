@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Woods_Hole_Oceanographic_Institution
 story: >
   WHOI's research vessel Knorr located the wreck of the Titanic in 1985, during a joint operation with the French research institute IFREMER. The discovery was made at 2:00 AM on September 1 by a team led by Robert Ballard, who described watching the debris field appear on the monitors as the most emotional experience of his career.
+score: 8.8
 ---
 
 The Woods Hole Oceanographic Institution (WHOI) is one of the world's foremost centres for ocean research, founded in 1930. Its campus is visible from the village — the research vessels tied up at the WHOI dock are some of the most recognisable sights in the harbour. The institution employs around 1,000 scientists and engineers and has been involved in some of the most significant ocean discoveries of the 20th and 21st centuries, including the discovery of deep-sea hydrothermal vents in 1977.

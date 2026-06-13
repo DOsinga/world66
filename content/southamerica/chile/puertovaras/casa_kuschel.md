@@ -8,6 +8,7 @@ tags:
 snippet: "German colonial heritage houses scattered through the upper town"
 latitude: 41.32000
 longitude: -72.98600
+score: 7.1
 ---
 
 Scattered through the streets above the lakefront are about thirty surviving wooden houses built by German settlers between 1860 and 1930. Most are protected as Monumentos Nacionales. They share the characteristic features of Chilote-German architecture: a steeply pitched roof, scalloped wooden shingles, a glass-enclosed front porch, and dark-stained timber walls with white trim.

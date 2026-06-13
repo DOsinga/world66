@@ -8,6 +8,7 @@ tags:
 latitude: 50.2945
 longitude: 18.9701
 story: "The wooden church of St Joseph, moved here from Nieboczowy in the 1970s, is over 300 years old and still consecrated — couples sometimes marry inside it."
+score: 7.9
 ---
 
 An open-air ethnographic museum on the northern edge of Silesian Park, gathering more than seventy traditional Silesian wooden buildings on a single site: farmhouses, barns, a windmill, a smithy, a school, beehives, and a complete wooden church. Most were dismantled in villages around the region and rebuilt here to escape the bulldozers of Communist-era modernisation.

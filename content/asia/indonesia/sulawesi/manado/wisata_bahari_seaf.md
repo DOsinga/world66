@@ -11,6 +11,7 @@ tags:
 - eating_out
 title: Wisata Bahari Seafood Restaurant
 type: poi
+score: 6.1
 ---
 
 Seafood restaurant at the Bahu Mall complex with views over the bay. Choose from a broad selection of fresh fish, crab and prawns cooked to order. Popular with locals at weekends.

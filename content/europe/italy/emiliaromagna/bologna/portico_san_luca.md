@@ -7,6 +7,7 @@ snippet: The 3.8 kilometre covered walkway up to the Madonna di San Luca sanctua
 tags:
 - things_to_do
 - sight
+score: 9.0
 ---
 
 The portico that connects the city to the Sanctuary of the Madonna di San Luca on Colle della Guardia is, at 3.796 kilometres and 666 arches, the longest covered walkway in the world. It was built between 1674 and 1793 in stages, funded by hundreds of private donors whose names are inscribed on individual arches and chapels along the route.

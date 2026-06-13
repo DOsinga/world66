@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 4.2
 ---
 
 The Sanford House, on Ridge Road, is a two-storey Greek Revival farmhouse built in the 1830s by the Sanford family, who were among the earliest settlers of the area. It is one of the small group of pre-Civil-War farmhouses listed on the National Register and is the best-preserved survivor of the period.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.3744
 longitude: -8.7547
+score: 5.8
 ---
 
 The Farol de Regufe is the smaller, older of Póvoa's two harbour lighthouses. The slender stone tower sits at the southern end of the breakwater and was first built in the late 19th century to mark the approach to the port for the inshore fishing fleet.

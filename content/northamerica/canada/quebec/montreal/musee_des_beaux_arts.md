@@ -9,6 +9,7 @@ tags:
 snippet: Canada's oldest and largest art museum, spanning five pavilions on Sherbrooke
 sources:
   - https://en.wikipedia.org/wiki/Montreal_Museum_of_Fine_Arts
+score: 9.0
 ---
 
 The Musée des Beaux-Arts de Montréal is the largest art museum in Canada and one of the great collections in North America. Founded in 1860, it has grown across five interconnected pavilions on Sherbrooke Street West, spanning the street with an underground passage. The permanent collection covers everything from pre-Columbian artefacts and Québécois decorative arts to Rembrandt, Monet, Picasso, and a strong representation of contemporary Canadian artists.

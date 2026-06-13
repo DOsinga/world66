@@ -7,6 +7,7 @@ tags:
 latitude: 52.4966
 longitude: 5.0683
 snippet: "Fishmongers selling smoked eel and fresh IJsselmeer catch straight off the boats"
+score: 8.4
 ---
 
 The fishmongers along Volendam's harbour boardwalk are the most honest expression of what the town actually is. The local speciality is smoked eel — pulled from the IJsselmeer, smoked in the old way, sold in portions wrapped in paper. It is oily, rich, and good. The herring is worth trying too, eaten Dutch-style with raw onion, though the eel is the point.

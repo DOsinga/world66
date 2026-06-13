@@ -6,6 +6,7 @@ longitude: 7.3550
 tags:
 - things_to_do
 - museum
+score: 5.6
 ---
 
 A small but charming toy museum tucked into a former cinema near the Unterlinden. Three floors trace a century of playthings — dolls in period costume, mechanical tin toys, lead soldiers, model trains running in scale through a recreated Alsatian village, and a top-floor section on video games from the 1980s onward.

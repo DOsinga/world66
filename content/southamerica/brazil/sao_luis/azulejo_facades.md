@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: -2.529
 longitude: -44.299
+score: 9.2
 ---
 
 The defining visual feature of São Luís is its *azulejos* — the hand-painted ceramic tiles covering the facades of colonial buildings throughout the historic centre. Nowhere else in Brazil has anything like the concentration of tiled buildings found in Praia Grande, and the variety is extraordinary: geometric patterns, pastoral scenes, religious imagery, floral designs, maritime views, all in blue and white, yellow and white, or multicolour schemes.

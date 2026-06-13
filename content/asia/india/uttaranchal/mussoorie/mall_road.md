@@ -7,6 +7,7 @@ tags:
 latitude: 30.4586
 longitude: 78.0669
 snippet: Mussoorie's ridge-top promenade running between the two ends of town
+score: 7.4
 ---
 
 Mall Road is the spine of Mussoorie — a two-kilometre promenade running along the crest of the ridge between Library Bazaar to the west and Picture Palace to the east. Closed to private vehicles during peak hours, it is the place where the entire town passes at some point during the day: families, honeymooners, school groups, old men with walking sticks, chai vendors.

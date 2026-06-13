@@ -8,6 +8,7 @@ tags:
   - museum
   - historic_sight
 snippet: One of Chinguetti's surviving family manuscript libraries, open to visitors
+score: 8.6
 ---
 
 Of the dozen or so family libraries that once existed in Chinguetti, four or five still welcome visitors and the Habott family library is among the best known. Run by Saif al-Islam Ould Mohamed Habott, the collection holds around 1,400 manuscripts on theology, Maliki jurisprudence, astronomy, grammar, mathematics and medicine, some dating to the 12th century. The librarian will bring out a few pieces and turn the pages for you; you may not touch them yourself.

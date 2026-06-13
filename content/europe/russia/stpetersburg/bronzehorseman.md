@@ -12,6 +12,7 @@ tags:
 - nevskiyprospekt
 title: Bronze Horseman
 type: poi
+score: 7.9
 ---
 
 The Bronze Horseman on Senate Square is St Petersburg's most iconic monument — a dramatic statue of Peter the Great on a rearing horse, its hind legs trampling a serpent. Commissioned by Catherine the Great and sculpted by Etienne Falconet, it was unveiled in 1782. Pushkin immortalized it in his 1833 poem of the same name.

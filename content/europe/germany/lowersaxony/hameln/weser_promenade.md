@@ -7,6 +7,7 @@ tags:
 latitude: 52.1038
 longitude: 9.3545
 snippet: A riverside walk along the Weser with views of the old town and the surrounding hills
+score: 6.2
 ---
 
 The Weser promenade runs along the west bank of the Weser River through Hameln, offering a pleasant walking route between the old town and the surrounding countryside. The views from the riverside path look back toward the old town's skyline — the distinctive gables of the Hochzeitshaus visible above the rooftops — and out toward the forested hills of the Weserbergland.

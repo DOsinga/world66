@@ -6,6 +6,7 @@ longitude: 14.207
 tags:
   - eating_out
   - restaurant
+score: 6.2
 ---
 
 Kiviks Musteri is the largest cider press in Sweden, set in the heart of Kivik's apple country. The site has a shop selling its cider, juice, and apple brandy, plus a restaurant that takes apple cooking unusually seriously — apple-cured pork, apple chutneys, apple desserts.

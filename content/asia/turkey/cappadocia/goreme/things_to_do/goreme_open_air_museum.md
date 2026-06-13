@@ -9,6 +9,7 @@ latitude: 38.6439
 longitude: 34.8553
 sources:
   - https://en.wikipedia.org/wiki/Churches_of_G%C3%B6reme
+score: 9.6
 ---
 
 A UNESCO World Heritage Site and the single must-see attraction in Cappadocia. The open-air museum is a compact monastic settlement carved into volcanic tuff, preserving around thirty rock-cut churches, chapels, and refectories from the 10th to 13th centuries. Most are decorated with Byzantine frescoes in varying states of preservation.

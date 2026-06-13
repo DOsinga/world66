@@ -6,6 +6,7 @@ title: Marc Chagall Museum
 type: poi
 story: >
   Chagall left Vitebsk in 1920, never to return. When he came back in 1944 to visit — as a world-famous painter — he found that the Jewish community he had grown up in had been entirely destroyed by the Nazi occupation. The city of his childhood existed only in his paintings. He went back to France and never returned to Belarus again.
+score: 8.8
 ---
 
 The Marc Chagall Museum complex in Vitebsk comprises two linked sites: the house on Pokrovskaya Street where Chagall was born in 1887 and spent his early years, restored to something like its nineteenth-century condition, and the Art Centre nearby which holds a permanent collection of his graphic works — lithographs, etchings, and aquatints from across his long career. Together they give a thorough introduction to the artist and to the Jewish world of pre-war Vitebsk that shaped his imagery.

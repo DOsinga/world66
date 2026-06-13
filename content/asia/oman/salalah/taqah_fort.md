@@ -6,6 +6,7 @@ longitude: 54.4039
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 Taqah is a small coastal town 28 km east of Salalah with a well-preserved Ottoman-era fort at its center. The fort was recently restored and is open to visitors; its upper level gives views over the fishing harbour and the turquoise bay. The town itself is quieter and more traditional than Salalah — a pleasant stop on the road east toward Wadi Darbat.

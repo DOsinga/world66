@@ -13,6 +13,7 @@ tags:
 title: Balzer
 type: poi
 url: https://www.balzer.it
+score: 6.1
 ---
 
 A Bergamo institution on the Sentierone, the city's elegant main promenade. Balzer has been serving espresso, gelato, and pastries since 1850 — the kind of place where locals linger over their morning coffee and return in the evening for a aperitivo. The outdoor terrace is the main draw in fine weather. Good for a sit-down or a quick takeaway.

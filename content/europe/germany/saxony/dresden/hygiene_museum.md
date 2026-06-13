@@ -7,6 +7,7 @@ snippet: The museum of human life — famous for its Glass Woman and exhibits on
 tags:
 - things_to_do
 - museum
+score: 8.1
 ---
 
 The Deutsches Hygiene-Museum is one of the most unusual museums in Germany: an institution dedicated to the human body, human behaviour, and what it means to be alive. It was founded in 1912 by Karl August Lingner, the inventor of Odol mouthwash, who wanted to educate the German public about health and hygiene. The permanent collection has grown far beyond its origins and now covers sex, food, death, sport, and consciousness, among other topics.

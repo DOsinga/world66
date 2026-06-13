@@ -11,6 +11,7 @@ story: >
   peak and some of the most remote backcountry in the state. The wilderness was established in
   1984 and covers 189,000 acres — yet it sees only a fraction of the visitors who crowd the
   Tetons or Yellowstone, making it one of the best-kept outdoor secrets in the Rocky Mountains.
+score: 8.8
 ---
 
 The Bighorn National Forest begins almost at Sheridan's western edge and extends across more than a million acres of mountain terrain. US Route 14 and 14A both climb over the range, offering spectacular switchback roads to alpine elevations with wide views of the Wyoming basin beyond. The routes are passable most years from late May to October.

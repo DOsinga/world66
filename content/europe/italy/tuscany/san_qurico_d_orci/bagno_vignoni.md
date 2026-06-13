@@ -14,6 +14,7 @@ story: >
   but the piazza itself, steaming in cold weather, is one of the most unusual public spaces in Tuscany.
 sources:
   - https://en.wikipedia.org/wiki/Bagno_Vignoni
+score: 8.6
 ---
 
 Bagno Vignoni is a tiny hamlet 5 kilometres south of San Quirico with a central square unlike any other in Italy. Where most piazzas have a fountain or a well, Bagno Vignoni has a large rectangular thermal pool, built during the Renaissance and still fed by hot volcanic springs. On cool mornings it steams, giving the village an otherworldly atmosphere.

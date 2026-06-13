@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -33.0255
 longitude: -71.5497
+score: 6.0
 ---
 
 Donde Augusto is a straightforward seafood restaurant that has been operating in Viña del Mar for decades and has the clientele to show for it — locals, visiting Chileans, and the occasional tourist who has found their way to the right kind of place by accident or good advice. The menu is built around whatever came off the boats: congrio frito, ceviche, chupe de mariscos (a thick shellfish stew), and plates of mixed shellfish to share.

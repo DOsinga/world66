@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - spa
 - day_trip
+score: 6.7
 ---
 
 Tangshan Hot Springs (汤山温泉) in the Jiangning district, about 30 kilometres east of central Nanjing, is the city's main hot spring resort area. The springs are geothermal and the water contains various minerals. Several resort complexes in the area offer outdoor and indoor thermal pools, spa treatments, and accommodation.

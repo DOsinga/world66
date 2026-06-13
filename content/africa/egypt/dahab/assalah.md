@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 28.5041
 longitude: 34.5165
+score: 7.6
 ---
 
 Assalah is the older, northern part of Dahab, where the original Bedouin fishing community lived before the town became a tourist destination. It retains a distinctly different character from the polished Masbat Bay waterfront further south — narrower lanes, lower buildings, more local cafes than dive shops, and a few remaining Bedouin families mixed in among the budget guesthouses and backpacker camps.

@@ -8,6 +8,7 @@ tags:
 latitude: 44.8376
 longitude: -0.5766
 snippet: The separate Gothic bell tower of the cathedral, with 231 steps to rooftop views
+score: 8.2
 ---
 
 The Tour Pey-Berland is the detached bell tower of the Cathédrale Saint-André, built in the 15th century and named after Archbishop Pey Berland who commissioned it. Standing 50 metres tall and topped by a gilded statue of Notre-Dame d'Aquitaine, it rises above the Place Pey-Berland and is the most recognisable vertical landmark in central Bordeaux.

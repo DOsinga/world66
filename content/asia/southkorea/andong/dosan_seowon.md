@@ -10,6 +10,7 @@ story: >
   Yi Hwang, the scholar honoured here, appears on the Korean 1000-won note — appropriate recognition for a man who shaped the country's Confucian thought for four centuries. He himself designed the academy's original buildings while he was still alive, which was unusual; most seowon were built posthumously. He is said to have chosen this site after spending weeks searching the region for a landscape that matched his vision of ideal scholarly retreat.
 sources:
   - https://en.wikipedia.org/wiki/Dosan_Seowon
+score: 8.3
 ---
 
 Dosan Seowon is a Confucian academy built in 1574, four years after the death of Yi Hwang (Toegye), the Korean scholar who did more than anyone to adapt Chinese Neo-Confucianism into a distinctive Korean philosophical tradition. The site was a UNESCO World Heritage Site designation in 2019. The academy occupies a hillside above the Nakdong River, now dammed to form a reservoir — the view from the main gate over the water is quietly spectacular.

@@ -13,6 +13,7 @@ story: >
   whether the fire was accidental or deliberate — and only the minaret, built of
   stone, survived. A clock was added in the 20th century, giving it a new
   function.
+score: 6.7
 ---
 
 The clock tower of Xanthi is what remains of a mosque that once stood at the centre of the old town. When the mosque burned in 1941, the stone minaret survived while the wooden structure collapsed. It was repurposed as a clock tower and has stood as a landmark of the upper town ever since. The tower is visible from much of Xanthi and serves as a useful orientation point when walking the old town's lanes.

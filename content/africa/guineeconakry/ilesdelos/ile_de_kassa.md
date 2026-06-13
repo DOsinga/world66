@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Kassa was the source of much of the bauxite that fed Conakry's aluminium industry in the 1950s. The old French mining infrastructure can still be glimpsed in places along the interior tracks."
+score: 7.4
 ---
 
 Kassa is the largest and busiest of the three main islands, and the place most Guineans head to on a Friday afternoon. The pirogue from Conakry lands at Soro, the main village, where a cluster of beach bars do grilled fish, attieke, and cold Skol all weekend.

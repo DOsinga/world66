@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - altamira
   - sight
+score: 6.9
 ---
 
 Plaza Francia — known to most caraqueños as Plaza Altamira — is the symbolic centre of eastern Caracas. The 47-metre granite obelisk at its centre was inaugurated in 1945 as a monument to the inauguration of the Altamira neighbourhood; six broad avenues radiate from it in a star pattern. From the southern end of the plaza, looking north, the obelisk lines up almost exactly with Pico Naiguatá on the Ávila.

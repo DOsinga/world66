@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 3.7800
 longitude: 97.4500
+score: 5.8
 ---
 
 Kedah is a small village high on the western flank of Gunung Leuser and the usual starting point for serious climbs of [Mount Leuser](/asia/indonesia/sumatra/gununglesuer/gunung_leuser) itself. The village sits at around 1,300 metres altitude in cool, damp country very different from the lowland forest at Bukit Lawang. There are a few simple losmen and a handful of registered guides who organise the multi-day climb.

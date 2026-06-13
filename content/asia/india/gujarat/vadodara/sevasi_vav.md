@@ -14,6 +14,7 @@ story: >
   Sevasi Vav is a good example of the mid-range type: not as grand as the famous
   Rani ki Vav at Patan (a UNESCO World Heritage Site), but substantial, well-preserved,
   and requiring no effort at all to have entirely to yourself.
+score: 7.6
 ---
 
 On the edge of the Sevasi neighbourhood northwest of central Vadodara, this 500-year-old stepwell descends through seven levels of carved stone to the water at the bottom. Stepwells (vav in Gujarati) were built throughout the region from the 11th century onward as a practical response to the irregular water table — a way to reach groundwater year-round while creating a covered, cool space for community gathering. They are one of the most distinctive architectural achievements of medieval Gujarat.

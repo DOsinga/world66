@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - day_trips
 - eating_out
+score: 8.2
 ---
 
 Yountville is a small town in the middle of the Napa Valley with an outsized restaurant reputation. The French Laundry, Thomas Keller's three-Michelin-star tasting-menu restaurant, anchors a row of fine dining that also includes Bouchon Bistro (Keller again), Ad Hoc (Keller again), Bistro Jeanty, RH Restaurant and several other ambitious kitchens.

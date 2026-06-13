@@ -11,6 +11,7 @@ tags:
 title: Dior
 type: poi
 url: www.diorcouture.com
+score: 4.0
 ---
 
 One of many luxury boutiques lining the Promenade de la Croisette, Cannes's famous seafront boulevard. This Dior store carries the full women's ready-to-wear and accessories range — expect high-end prices and immaculate service. The Croisette is the place to window-shop or splurge during the film festival season and beyond.

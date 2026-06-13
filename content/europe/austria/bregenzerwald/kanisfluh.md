@@ -14,6 +14,7 @@ story: >
   Farmers in the valley used to say that when cloud wrapped around the summit,
   rain was coming; the mountain was an accurate weather indicator, and people
   read its moods across the generations.
+score: 8.8
 ---
 
 The Kanisfluh is the most distinctive mountain in the Bregenzerwald — a long, largely isolated massif with a cliff face rising abruptly above the valley between the villages of Mellau, Au, and Schnepfau. Its summit reaches 2,044 metres, and the ridge is a classic high-level walking route with views extending in clear weather to Lake Constance and the Allgäu Alps.

@@ -16,6 +16,7 @@ story: >
   helped restore. He said his work belonged to Pécs as much as to Paris.
 sources:
   - https://en.wikipedia.org/wiki/Vasarely_Museum_(P%C3%A9cs)
+score: 7.3
 ---
 
 The Vasarely Museum occupies a Baroque building near the Cathedral Quarter and displays a substantial collection of works by Victor Vasarely, the founder of Op Art and one of the most internationally recognized Hungarian artists of the 20th century. The collection includes early graphic works, tapestries, and the geometric paintings that made him famous, displayed across several rooms of the restored building.

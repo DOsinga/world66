@@ -11,6 +11,7 @@ story: >
   attracted Western students since the 1970s. The resident teacher Lama Zopa Rinpoche and the
   monastery's founders began offering month-long meditation and philosophy courses that drew seekers
   from Europe and North America — courses that still run today and have graduates on every continent.
+score: 7.8
 ---
 
 Kopan Monastery sits on a wooded hilltop about 2 km north of the Boudha Stupa, reached by a lane winding up through a residential neighbourhood. The monastery belongs to the Gelug school of Tibetan Buddhism and houses around 400 monks. The main temple is colourful and well-maintained; the meditation garden at the top of the hill has views across Kathmandu Valley.

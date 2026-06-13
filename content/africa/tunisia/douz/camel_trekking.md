@@ -8,6 +8,7 @@ latitude: 33.4400
 longitude: 9.0350
 story: >
   The dromedary camels used for desert trekking in southern Tunisia are bred for endurance, not speed — a trained Saharan camel can walk 40 km a day carrying a rider and supplies, and go without water for a week in winter. The guides who lead these treks typically belong to families that have worked the desert caravan routes for generations.
+score: 8.8
 ---
 
 Camel trekking is the central activity in Douz, and the range of options is wide. A one-hour sunset ride to the nearest dunes costs very little and gives a taste of the terrain; a half-day trip reaches dunes of any significance; a multi-day expedition into the Grand Erg Oriental, camping among the dunes and cooking over a fire, is the experience that stays with you.

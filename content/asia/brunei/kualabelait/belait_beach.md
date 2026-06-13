@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 4.5922
 longitude: 114.2122
+score: 4.9
 ---
 
 Belait Beach (Pantai Belait) is a long stretch of sand at the mouth of the Belait River, popular with local families on weekends and evenings. It is not a tropical beach in the postcard sense — the sea here is murky brown from river sediment and there are no facilities to speak of — but it is a pleasant enough spot to stretch your legs and watch the fishing boats on the water.

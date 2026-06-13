@@ -7,6 +7,7 @@ tags:
 latitude: 53.6399
 longitude: -1.7571
 snippet: "Free local history museum in a Victorian park, strong on textile heritage"
+score: 8.1
 ---
 
 The Tolson Museum sits in Ravensknowle Park, a Victorian pleasure ground on the eastern edge of town, in a handsome Italianate mansion that was gifted to the borough in 1919. The collection covers Huddersfield's history from prehistoric times through its centuries as the engine of the British worsted and woollen trade — the tools, looms, and pattern books of the textile industry are particularly well represented, and give real substance to the mills you see from the train and the hillsides.

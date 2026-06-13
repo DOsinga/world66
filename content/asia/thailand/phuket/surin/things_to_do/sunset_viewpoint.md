@@ -7,6 +7,7 @@ tags:
 latitude: 7.9765
 longitude: 98.2780
 snippet: West-facing beach with unobstructed Andaman Sea sunsets from the sand or beachside restaurants
+score: 6.6
 ---
 
 Surin faces west across the Andaman Sea, which means the daily sunset is one of the beach's most reliable pleasures. The casuarina trees along the shore thin out enough toward the centre of the bay to give wide, unobstructed views across the water. The best spot is simply the beach itself, either standing at the water's edge or seated at one of the beachside tables with a drink in hand.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 45.4218
 longitude: -75.7000
+score: 5.4
 ---
 
 Sparks Street is Canada's oldest pedestrian mall — it was closed to vehicles in 1967 as part of the Centennial celebrations and has remained car-free since. The four blocks between Elgin and Lyon Streets run parallel to Parliament Hill and are lined with government buildings, cafes, restaurants and a handful of independent shops. It's not a destination in itself, but it's a pleasant way to move between the parliamentary district and the rest of downtown.

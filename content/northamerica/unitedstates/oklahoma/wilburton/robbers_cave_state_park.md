@@ -12,6 +12,7 @@ story: >
   Jesse James and Belle Starr in the late 19th century. The Younger Brothers gang
   also allegedly stashed loot in the caves after raids across Indian Territory,
   though historians note the legends far outnumber the documented facts.
+score: 8.5
 ---
 
 Robbers Cave State Park sits about five miles north of Wilburton along Highway 2, a 8,246-acre park that takes its name from the outlaw legends attached to its labyrinth of sandstone caves and rocky ravines. The park's centerpiece is a narrow cave passage that visitors can squeeze through, emerging into a natural rock amphitheater — a genuinely exciting scramble for anyone not put off by tight spaces.

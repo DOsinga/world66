@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "De Koffiemolen was built in 1876 to grind grain for the bakeries on this part of Terschelling — when it was restored in the 1980s the owner installed a coffee mill collection inside as a tongue-in-cheek tribute to the Dutch nickname for a smock mill: 'coffee grinder' for the way the body turns on the cap."
+score: 7.4
 ---
 
 De Koffiemolen is the working windmill on the western edge of Formerum and the village's centrepiece. It is a smock mill built in 1876, restored to working order, and ground grain into the 1960s. The miller still raises the sails on most days and the mill is open as a small museum and café — the collection inside includes more than fifty antique coffee mills along with the original milling gear.

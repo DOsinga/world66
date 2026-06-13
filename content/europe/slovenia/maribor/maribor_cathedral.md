@@ -7,6 +7,7 @@ tags:
 latitude: 46.5591
 longitude: 15.6450
 snippet: "Romanesque-Gothic cathedral dedicated to St John the Baptist"
+score: 7.0
 ---
 
 The Cathedral of St John the Baptist is the oldest church in Maribor and the seat of the Archdiocese of Maribor. The building has been altered many times over the centuries — the core is Romanesque, with Gothic additions and a Baroque interior that is richer than you might expect from the plain exterior. The belltower dates from the 16th century and is visible from much of the old town.

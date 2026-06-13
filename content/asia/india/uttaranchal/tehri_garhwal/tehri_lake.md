@@ -9,6 +9,7 @@ longitude: 78.4800
 snippet: A vast Himalayan reservoir created by one of the world's tallest dams, with water sports and submerged-town history
 story: >
   The old town of Tehri, the former district capital and a settlement of considerable antiquity, lies beneath the lake. When the reservoir filled in the early 2000s, around 100,000 people were displaced and the town itself — temples, bazaars, streets — was submerged. At low water levels, the tops of buildings occasionally re-emerge from the water, giving the lake an eerie, archaeological quality.
+score: 7.4
 ---
 
 Tehri Lake was created when the Tehri Dam — one of the tallest dams in the world at 260 metres — was completed across the Bhagirathi River in 2006, flooding the valley and the historic town of Tehri. The resulting reservoir is about 42 sq km in area and holds water sports facilities that have made it a destination in its own right.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Jameh Mosque of Tabriz
 type: poi
+score: 7.7
 ---
 
 The Jameh Mosque is the historic Friday mosque of Tabriz and is structurally part

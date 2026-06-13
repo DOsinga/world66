@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The Temple of Athena Nike — Athena the Bringer of Victory — is the smallest building on the Acropolis but one of the most elegant. It sits on a rocky bastion at the south-west corner of the citadel, just to the right as you climb the entrance steps, and was built between 427 and 424 BCE by the architect Kallikrates.

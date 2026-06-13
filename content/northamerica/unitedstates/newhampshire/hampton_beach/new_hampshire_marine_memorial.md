@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.9131
 longitude: -70.80883
+score: 4.3
 ---
 
 The New Hampshire Marine Memorial stands near the southern end of the boardwalk, a granite monument dedicated to the men and women from New Hampshire who served in the United States Marine Corps. The statue depicts a Marine in uniform on a tiered granite base, set back slightly from Ocean Boulevard with a view toward the sea.

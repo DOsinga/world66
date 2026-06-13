@@ -7,6 +7,7 @@ tags:
 latitude: 43.4610
 longitude: 11.8800
 story: "Arezzo — ancient Arretium — was one of the most prosperous cities of Etruscan Italy, and the museum's collection reflects that wealth. The coral-red Arretine pottery (terra sigillata) produced here from the 1st century BC was exported across the Roman world: examples have been found in Britain, the Rhineland, and Egypt."
+score: 7.1
 ---
 
 Housed in a former convent adjacent to a Roman amphitheatre (the remains of which are in the garden), the archaeological museum covers Arezzo's history from the Etruscan period through the Roman era. The main draws are the Etruscan bronzes and the collection of Arretine ware — the elegant red-glazed pottery that Arezzo produced in industrial quantities during the 1st century BC and was traded across the Roman Empire.

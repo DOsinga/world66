@@ -10,6 +10,7 @@ story: >
   The confluence of the Rosi and Punyamati rivers at Panauti is considered one of the most sacred sites in Nepal, partly because of a legend about a third invisible river — the Lilamati — which is said to join the others here, visible only to the pure of heart. The site's sanctity means that dying at a river confluence is considered particularly auspicious, and elderly Nepalis sometimes travel here in the hope of dying at this spot.
 sources:
   - https://en.wikipedia.org/wiki/Panauti
+score: 7.8
 ---
 
 The Brahmayani Temple stands at the river confluence where the Rosi and Punyamati rivers meet, a spot considered sacred in Hindu and Buddhist traditions. The goddess Brahmayani is one of the Ashta Matrika — the eight mother goddesses of the Kathmandu Valley — and her temple here is an important pilgrimage site. The ghats at the confluence are used for cremations, and the stone platforms by the water have a quiet, contemplative atmosphere on weekday mornings.

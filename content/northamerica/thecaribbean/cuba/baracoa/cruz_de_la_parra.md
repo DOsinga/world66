@@ -6,6 +6,7 @@ longitude: -74.4986
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 A small monument on the edge of the Bahía de Miel marks the traditional spot where Columbus is said to have planted the Cruz de la Parra cross on landing in 1492. The actual cross — or what remains of it — is kept in the cathedral; this is the symbolic location, with a modern replica cross and a simple plaque.

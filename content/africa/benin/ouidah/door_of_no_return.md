@@ -10,6 +10,7 @@ tags:
 snippet: "Memorial arch on the beach at the end of the Route of Slaves"
 story: >
   The arch was built in 1995 with UNESCO support and stands roughly where slave ships once anchored offshore. Captives were marched here from town along the 3 km route, then ferried out through the surf in canoes. The bronze reliefs on the arch by the Beninese sculptor Fortuné Bandeira depict the chained procession, faces deliberately blurred. The arch faces directly out to sea, towards Brazil.
+score: 7.9
 ---
 
 The terminal point of the Route des Esclaves. A tall concrete arch faced with bronze reliefs stands on a flat stretch of beach where the fishing pirogues are pulled up. There is no fence and no admission — the monument is meant to be walked through, the way the captives were forced to walk through to the boats.

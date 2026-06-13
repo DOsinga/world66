@@ -8,6 +8,7 @@ snippet: The deep-water Indian Ocean port that gave the city its existence
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The **Port of Maputo** is the reason the city exists. The bay is one of the best natural harbours on the eastern coast of Africa — deep, sheltered and ice-free — and from the 1890s onwards it was the principal export route for the South African gold and coal mines. Even today the port handles around 30 million tonnes of cargo a year, much of it South African chrome, magnetite and citrus heading for Asia.

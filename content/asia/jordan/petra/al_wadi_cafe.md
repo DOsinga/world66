@@ -7,6 +7,7 @@ tags:
 latitude: 30.3225
 longitude: 35.4780
 address: "Tourism Street, Wadi Musa"
+score: 4.9
 ---
 
 A simple cafe in the upper part of Wadi Musa. Glasses of mint tea, Arabic coffee with cardamom, fresh-squeezed pomegranate juice in season, and a board of basic mezze if you want a snack. Shisha is available outside.

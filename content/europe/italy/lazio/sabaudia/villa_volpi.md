@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.2653
 longitude: 13.0300
+score: 5.3
 ---
 
 Villa Volpi is a neoclassical seaside residence built in the 1950s for Countess Nathalie Volpi di Misurata on a stretch of dune-backed beach south of the town. The architecture — colonnades, pediments, a long swimming pool aligned with the sea — was a deliberate counterpoint to the rationalist new town and a magnet for the international set who summered on this coast in the 1960s and 70s.

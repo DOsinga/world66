@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Marienkirche,_Wolfenb%C3%BCttel
+score: 7.5
 ---
 
 The Marienkirche (Church of St Mary) dominates the old town with its distinctive tower visible from across the half-timbered rooftops. The church dates from the sixteenth century and was built in the local Renaissance style. Its interior is relatively plain — typical of Lutheran churches in northern Germany — but the scale and the quality of its stonework make it one of the better-preserved historic churches in Lower Saxony.

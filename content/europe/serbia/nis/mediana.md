@@ -8,6 +8,7 @@ title: Mediana
 type: poi
 story: >
   Mediana was essentially a Roman imperial country retreat — excavations have revealed a palace, baths, granaries, and a warehouse capable of storing a million litres of grain. Constantine the Great was believed to have used it as a base when he returned to the region of his birth. The site was abandoned after the Gothic invasions of the late 4th century and remained buried for over 1,500 years.
+score: 7.7
 ---
 
 Mediana is the largest Roman archaeological site near Niš, located about three kilometres east of the city on the road toward Skull Tower. This was the luxury suburb of ancient Naissus — a complex of imperial villas, baths, storehouses, and colonnaded walkways built in the 3rd and 4th centuries AD when Niš was one of the most important cities in the Roman Empire.

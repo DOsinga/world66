@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 5.7
 ---
 
 The parish church of San Lorenzo, on the central piazza of Pontinvrea, dates from the same seventeenth-century period as the d'Invrea palace across the square. The exterior is plain — stuccoed walls, a single bell tower, a modest pediment — in the spirit of a working country church rather than an architectural showpiece.

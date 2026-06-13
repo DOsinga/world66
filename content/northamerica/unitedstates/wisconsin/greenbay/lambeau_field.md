@@ -12,6 +12,7 @@ story: >
   The Packers are the only publicly owned major professional sports franchise in the United States. The team is not owned by a wealthy individual or corporation but by over 360,000 shareholders — mostly Wisconsin residents who hold certificates paying no dividends and offering no voting rights. Shares are sold only in rare fundraising drives and cannot be resold except back to the team. It is a genuine community institution.
 sources:
   - https://en.wikipedia.org/wiki/Lambeau_Field
+score: 9.2
 ---
 
 Lambeau Field is one of the great pilgrimage sites in American sports. The stadium, which has been expanded and renovated multiple times since 1957, holds about 81,000 people and sells out every home game to a waiting list of season ticket holders that stretches tens of thousands of names long and generations deep. On game days, the parking lots fill hours before kickoff with fans in green and gold — the atmosphere is genuine and the cold-weather games are famous for it.

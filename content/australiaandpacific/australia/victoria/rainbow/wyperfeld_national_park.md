@@ -13,6 +13,7 @@ story: >
   flooding was in the 1990s. In between, the dry white lake floors stretch
   for kilometres, cracked and ghostly, with the calls of mallee fowl the
   only sound across the plain.
+score: 8.4
 ---
 
 One of Victoria's largest and least-visited national parks, Wyperfeld covers 356,000 hectares of mallee eucalypt scrubland, dry lake systems, and open pine woodland in the state's remote northwest. The park is excellent for birdwatching — more than 200 species have been recorded, including the mallee fowl, regent parrot, Major Mitchell's cockatoo, and the rare swift parrot during migration. The mallee fowl builds mound nests up to a metre high and uses the heat of decomposing vegetation to incubate its eggs, adjusting the mound throughout the season like a living thermostat.

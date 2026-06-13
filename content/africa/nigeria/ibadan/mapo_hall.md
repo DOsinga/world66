@@ -15,6 +15,7 @@ story: >
   deliberate or a coincidence later seized upon by local history, the
   columns have become inseparable from the building's identity in the
   city's memory.
+score: 7.6
 ---
 
 Mapo Hall is one of Ibadan's most recognisable colonial-era buildings, sitting prominently on Mapo Hill in the older part of the city. Built in 1929 as the main town hall, it has a Neoclassical facade with seven columns that local tradition links to the seven hills of ancient Ibadan.

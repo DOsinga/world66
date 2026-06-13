@@ -9,6 +9,7 @@ latitude: -26.239286
 longitude: 27.910175
 sources:
   - https://en.wikipedia.org/wiki/Tutu_House
+score: 5.3
 ---
 
 The house of Archbishop Desmond Tutu at 7882 Vilakazi Street stands a short walk from Mandela House in Orlando West. Tutu still uses the house and it is not open to visitors, but it is clearly marked and most guided tours of Soweto include it as part of the Vilakazi Street walk.

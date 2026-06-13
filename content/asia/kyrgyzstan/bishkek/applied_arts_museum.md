@@ -7,6 +7,7 @@ tags:
 latitude: 42.8757
 longitude: 74.6202
 address: "Pushkin Street 78, Bishkek"
+score: 7.3
 ---
 
 A small museum dedicated to traditional Kyrgyz craft — felt rugs (shyrdaks and ala-kiyiz), embroidery, leatherwork, silver jewellery, lace-thin felt yurt linings. The collection is modest in size but rich in quality, and the display includes pieces from the 19th century onwards.

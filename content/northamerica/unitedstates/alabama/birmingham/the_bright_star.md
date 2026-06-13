@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: The Bright Star, Bessemer
 type: poi
+score: 6.4
 ---
 
 The Bright Star in Bessemer, 20 miles southwest of Birmingham, has been operating since 1907 — one of the oldest restaurants in Alabama. A Greek-American family has run it since 1915, and the menu is a blend of Southern and Greek-inflected American cooking: excellent fried fish (the snapper throats are a regional specialty), Greek-style salads, and substantial desserts.

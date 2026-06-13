@@ -7,6 +7,7 @@ tags:
 latitude: -5.2350
 longitude: 145.8200
 story: "Kranket Island sits just a few hundred metres offshore from Madang town, close enough to reach by small boat in minutes. The island's residents have maintained traditional village life while accommodating visitors for decades. The name may derive from a pidgin corruption of the word 'coconut' — the island is covered in coconut palms and the harvesting of copra was historically the main occupation."
+score: 8.0
 ---
 
 Kranket Island is a small inhabited island just off the shore of Madang, reached by outboard canoe in about ten minutes. The village on the island is welcoming to visitors and gives a clear sense of the traditional Austronesian coastal lifestyle — fishing, gardening, and the communal rhythms of island life that have changed relatively little over centuries.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.4
 ---
 
 The seat of the Catholic Diocese of Bafatá, a modest mid-20th-century brick cathedral with a single bell tower at the front. The Portuguese colonial church-building tradition in Guinea-Bissau produced nothing on the scale of Goa or Macau — the missions here were always thin — and the cathedral is correspondingly plain, more a parish church than a great basilica. The interior holds a painted wooden ceiling and a few simple altarpieces.

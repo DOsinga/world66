@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.6
 ---
 
 Stenshuvud is a small but striking national park just north of Kivik — a 97-metre headland rising abruptly above the Baltic coast. The summit gives one of the best views in Skåne, with the sea on three sides and the orchards and apple farms of the Kivik area spread out behind.

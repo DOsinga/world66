@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 34.75000
 longitude: -83.77000
+score: 8.5
 ---
 
 The Raven Cliff Falls Trail in the Chattahoochee National Forest, about 12 miles northeast of Helen, leads to one of the most dramatic waterfalls in Georgia — a 400-foot cascade (including an upper section that disappears into a rock crevice and reappears below) in a gorge thick with rhododendron. The round-trip hike is about 5 miles on a well-maintained trail.

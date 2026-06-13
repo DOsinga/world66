@@ -9,6 +9,7 @@ tags:
   - viewpoint
 title: Snake River Overlook
 type: poi
+score: 7.5
 ---
 
 Snake River Overlook is one of the park's iconic roadside viewpoints. The river curves below, the peaks rise beyond, and the whole valley reads as a single grand landscape.

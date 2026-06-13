@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 42.1993
 longitude: 2.6975
+score: 7.9
 ---
 
 Beneath the streets of the old city lies one of the best-preserved medieval mikvehs — Jewish ritual baths — in Spain. It was discovered in 1964 and carefully restored, and it survives as a moving reminder of the significant Jewish community that lived in Besalú through the Middle Ages.

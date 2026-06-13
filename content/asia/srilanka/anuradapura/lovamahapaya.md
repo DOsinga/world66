@@ -8,6 +8,7 @@ tags:
 story: "The Lovamahapaya was originally a nine-storey monastic hall built by King Dutugemunu in the 2nd century BC, said to house a thousand rooms and to be roofed in bronze tiles — hence the name Brazen Palace. The wooden upper storeys burned and were rebuilt many times; only the forest of granite pillars survived."
 title: Lovamahapaya
 type: poi
+score: 8.0
 ---
 
 A startling rectangular grid of 1,600 granite columns stands between the Ruwanwelisaya and the Sri Maha Bodhi, the last remains of what was once the largest monastic residence in ancient Anuradhapura. The pillars supported a great wooden hall used for ceremonies and ordinations of the Mahavihara order — the founding Buddhist community of Sri Lanka.

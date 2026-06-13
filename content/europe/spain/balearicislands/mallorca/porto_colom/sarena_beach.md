@@ -6,6 +6,7 @@ longitude: 3.2697
 tags:
   - beaches
   - sight
+score: 5.5
 ---
 
 A tiny strip of sand inside the harbour itself, at the foot of the lighthouse headland. Hardly more than fifty metres long, the beach faces north into the protected inlet — the water is calm even when there's swell at the harbour mouth, and warmer than the open-sea beaches in spring and autumn.

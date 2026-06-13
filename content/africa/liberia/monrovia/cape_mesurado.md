@@ -12,6 +12,7 @@ story: Cape Mesurado was the first landmark noted by Portuguese sailors who expl
   quality of the sea there, sheltered slightly from the open Atlantic. Four centuries
   later, it became the site of the freed slave settlement that grew into Liberia's
   capital.
+score: 7.3
 ---
 
 Cape Mesurado is the rocky headland at the tip of Monrovia's peninsula, where the Mesurado River meets the Atlantic. It is one of the highest points in the city and offers views in three directions: back over the city, out to sea, and down the river mouth to the lagoon system behind the peninsula.

@@ -9,6 +9,7 @@ tags:
 - museum
 title: Western Approaches Museum
 type: poi
+score: 8.9
 ---
 
 A vast subterranean command bunker beneath the Exchange Flags building, from which the Royal Navy directed the Battle of the Atlantic between 1941 and 1945. The Operations Room, with its huge map table, charts and balcony from which the Wrens worked, is preserved more or less as it was when the war ended.

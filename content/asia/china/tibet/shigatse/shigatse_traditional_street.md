@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 29.1075
 longitude: 86.8720
+score: 7.6
 ---
 
 The old Tibetan quarter of Shigatse lies between the Tashilhunpo Monastery and the base of the dzong hill — a compact area of traditional mud-brick houses, narrow lanes, and stone walls that stands in clear contrast to the wide Chinese-built boulevards of the modern city. The streets are loosely centred on the monastery pilgrimage route and are busiest in the mornings when pilgrims spin the prayer wheels embedded in the monastery's outer walls.

@@ -11,6 +11,7 @@ snippet: "World-class aquarium on Stralsund harbour — Baltic and North Sea eco
 story: "The Ozeaneum's most spectacular tank holds a scale model of a blue whale suspended from the ceiling — 25 metres of the largest animal ever to have lived on Earth. Below it, visitors look up at a recreation of the deep ocean at night, with bioluminescent creatures in the water around the whale. It is one of the most arresting museum spaces in Germany."
 sources:
   - https://en.wikipedia.org/wiki/Ozeaneum
+score: 9.0
 ---
 
 The Ozeaneum is one of Europe's finest marine museums, designed by Behnisch Architekten and opened in 2008. The building — a cluster of white geometric volumes on the harbour waterfront — won the World Building of the Year award. Inside, twelve large tanks recreate Baltic, North Sea, and deep Atlantic ecosystems. The Baltic section is particularly strong, showing the seasonal changes in a relatively shallow, low-salinity sea.

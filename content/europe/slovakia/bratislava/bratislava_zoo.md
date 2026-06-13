@@ -5,6 +5,7 @@ tags: [things_to_do, sight, karlova_ves]
 latitude: 48.1756
 longitude: 17.0706
 story: Bratislava Zoo is built into the wooded hillside of the Kamzík hill north of the city, giving it an unusually natural setting for a urban zoo. The animals live in enclosures that follow the contour of the terrain, so a visit involves considerably more uphill walking than most zoos. A cable car runs from the entrance to the upper sections.
+score: 6.3
 ---
 
 Bratislava Zoo occupies a forested hillside in the Kamzík nature reserve north of the city, giving it a significantly more spacious and naturalistic setting than most European zoos. The collection includes over 600 species, with particular strengths in large mammals (elephants, giraffes, big cats) and Central European wildlife. The terrain means the zoo works best on a dry day — the paths are hilly and can get muddy.

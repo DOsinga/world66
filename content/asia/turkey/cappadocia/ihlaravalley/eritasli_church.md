@@ -6,6 +6,7 @@ longitude: 34.2945
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 Near the southern end of the valley, close to the village of Ihlara. The Crooked Stone Church is one of the largest in the gorge, with a high central dome and three apses. Much of the original 9th- and 10th-century fresco programme is fragmentary, scarred by smoke from the fires of later squatters.

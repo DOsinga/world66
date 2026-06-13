@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Hahnenkamm_races
 story: >
   The Hahnenkamm downhill has a higher rate of serious accidents than any other race on the World Cup circuit. The Streif course drops 860 metres in under two minutes, with the notorious Mausefalle jump sending racers airborne at over 130 km/h. In 1988, Pirmin Zurbriggen won here in 1 minute 46.05 seconds — a record that stood for years. The start house at the top is considered the most photographed spot in skiing.
+score: 8.3
 ---
 
 The Hahnenkamm — cock's comb — is the mountain southwest of Kitzbühel that rises to 1,712 metres and hosts the annual Hahnenkamm Races every January. The mountain is accessible by the Hahnenkammbahn cable car from the edge of the medieval town, and in ski season it is the gateway to the Kitzbühel Ski Circus — 220 km of runs shared with the neighbouring valley of Kirchberg.

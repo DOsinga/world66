@@ -8,6 +8,7 @@ tags:
   - the_cite
   - museum
 neighbourhood: La Cité
+score: 3.8
 ---
 
 A privately run museum inside the Cité dedicated to the Cathar persecution and the Inquisition that followed it. The reproductions of instruments and the dim cellar rooms tip into the macabre — it is a working tourist attraction rather than a serious history museum.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 8.0
 ---
 
 Damenglong is a small town two hours south of Jinghong, on the road towards the Myanmar border. Its draw is the Manfeilong Tasong, the "White Pagoda" — a cluster of nine slender white stupas built in 1204, rising from a single tiered base like a closed lotus flower. The site is genuinely old (a rarity in this part of China), and the design is unique in the prefecture.

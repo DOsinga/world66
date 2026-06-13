@@ -8,6 +8,7 @@ tags:
 title: La Victoria Taqueria
 type: poi
 url: www.lavicsj.com
+score: 6.3
 ---
 
 A friend fond of bad-mouthing Northern California, where he's lived for

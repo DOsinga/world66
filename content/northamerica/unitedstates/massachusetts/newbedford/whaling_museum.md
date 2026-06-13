@@ -8,6 +8,7 @@ latitude: 41.6353
 longitude: -70.9232
 story: >
   The museum holds a pregnant North Atlantic right whale on display — one of the most endangered large mammals on earth, with fewer than 350 individuals remaining. She was struck and killed by a ship off the New England coast and her skeleton, with the fetus still partially in position, is one of the most viscerally affecting objects in any museum in America.
+score: 9.3
 ---
 
 The New Bedford Whaling Museum is the largest museum of its kind in the world and the anchor institution of the historic district. Its collections span over 750,000 items: 3,000 pieces of scrimshaw — the largest collection on earth — more than 2,500 whaling ship logbooks, fine art by Albert Bierstadt and William Bradford, and the complete skeleton of a blue whale suspended from the ceiling. At the heart of the building is the Lagoda, an 89-foot half-scale working model of a whaleship built in 1916 that you can climb aboard and inspect in full detail.

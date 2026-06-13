@@ -9,6 +9,7 @@ story: "Le Mayeur came to Bali in 1932 at the age of 52, met the 15-year-old Leg
 tags:
 - things_to_do
 - museum
+score: 7.3
 ---
 
 The small museum on the beachfront at the northern end of Sanur is the former home of the Belgian-born painter Adrien-Jean Le Mayeur de Merprès, who arrived in Bali in 1932 and stayed until his death in 1958. The house is a low Balinese compound of carved doorways and shaded courtyards — itself worth seeing — filled with Le Mayeur's saturated, almost dream-like paintings of Balinese women in the gardens and on the beach, most of them modelled by his wife Ni Polok, a former Legong dancer.

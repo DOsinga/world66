@@ -15,6 +15,7 @@ story: >
   replacement building — this one — opened in 1889 and enrolled students until
   it became part of Northeastern State Normal School in 1909.
 type: poi
+score: 7.3
 ---
 
 The Cherokee Female Seminary building, now part of the Northeastern State University campus, is the surviving remnant of a 19th-century Cherokee Nation institution that educated women decades before many American states considered women's higher education a public priority. The original seminary was established in 1851, destroyed during the Civil War, and rebuilt here in 1889 — a large brick Victorian building on a hill above town.

@@ -13,6 +13,7 @@ story: >
   Soviet ethnographers all used the same path. For much of the 20th century
   it was effectively the only way into or out of Upper Svaneti when the
   river road was flooded.
+score: 9.4
 ---
 
 The Mestia-to-Ushguli hiking route is one of the best multi-day treks in the Caucasus, covering 60 kilometres through the upper Enguri valley over 3-4 days. The path passes through the villages of Zhabeshi, Adishi, and Iprari, crosses two mountain passes, and traverses alpine meadows backed by 4,000-metre peaks. The villages along the route all have simple guesthouses — usually just a family home with spare beds — where you can stay overnight.

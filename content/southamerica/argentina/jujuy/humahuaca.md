@@ -7,6 +7,7 @@ tags:
 - village
 title: Humahuaca
 type: poi
+score: 8.3
 ---
 
 The northernmost major town of the quebrada gives the canyon its name. Humahuaca sits at 2,939 metres and is more strongly Quechua than Purmamarca or Tilcara — locals speak a dialect of the language, dress in distinctive Andean style, and the markets feel closer to Bolivia than to lowland Argentina. Stone-paved streets, low whitewashed houses, and a central plaza centred on a tall colonial church define the town centre.

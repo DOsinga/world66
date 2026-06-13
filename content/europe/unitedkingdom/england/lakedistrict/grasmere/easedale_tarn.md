@@ -6,6 +6,7 @@ longitude: -3.0378
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Easedale Tarn is a mountain lake (tarn) at 279 metres on the fells above Grasmere, reached by a popular walk that follows Sour Milk Gill — a beck that tumbles down the hillside in a series of cascades. The walk from the village takes about 45 minutes and is one of the most straightforward fell walks in the Lake District, suitable for anyone reasonably fit who doesn't mind a stiff uphill stretch.

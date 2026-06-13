@@ -10,6 +10,7 @@ address: "End of Main Street at Pacific Coast Highway"
 latitude: 33.6551
 longitude: -118.0042
 story: "The current pier is the fifth on this site. Its predecessor, a long wooden structure built in 1914, was repeatedly battered by storms; the 1983 El Niño finally finished it off. The replacement was opened in 1992 and engineered for 100-mph winds and 31-foot waves."
+score: 8.8
 ---
 
 The Huntington Beach Pier is the centre of the town in a literal sense — Main Street runs straight into it, and the whole grid of downtown faces the water from here. At 1,856 feet (565 m), it is the longest pier on the California coast, a clean concrete causeway with a Ruby's Diner perched at the end and good views back to the city skyline.

@@ -8,6 +8,7 @@ tags:
 latitude: 55.5996
 longitude: -2.7200
 snippet: Walled Regency garden across from the abbey
+score: 6.4
 ---
 
 Harmony Garden surrounds Harmony Hall, an elegant early 19th-century Regency house across the road from the abbey. The National Trust for Scotland runs the garden; the house is let as a holiday rental. Behind high stone walls, the garden has been restored to its original layout of herbaceous borders, a vegetable patch, an orchard, and a long lawn with one of the best views of the abbey ruins and the Eildon Hills behind.

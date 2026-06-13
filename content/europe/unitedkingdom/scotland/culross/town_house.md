@@ -8,6 +8,7 @@ tags:
 latitude: 56.0553
 longitude: -3.6302
 story: "The attic of the Culross Town House contains what is believed to be one of the few surviving witches' prisons in Scotland. During the witch trials of the 17th century — Scotland executed more people for witchcraft per capita than any other European country — suspects were held in the Town House before examination. The prisons were typically dark, cramped spaces designed to induce sleep deprivation, as falling asleep was taken as evidence of guilt (on the theory that a sleeping suspect was being visited by the devil). The trials at Culross resulted in several executions by burning."
+score: 8.3
 ---
 
 The Culross Town House, built in 1626, is the civic centre of the historic village and one of the best-preserved burgh buildings in Scotland. It sits prominently on the cobbled main street, its white harling and pantile roof immediately recognisable. The ground floor originally served as a prison and customs house; the upper floor as the council chamber where local justice was administered.

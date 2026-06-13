@@ -15,6 +15,7 @@ story: >
   July.
 sources:
   - https://en.wikipedia.org/wiki/Plaza_del_Castillo
+score: 7.8
 ---
 
 The Plaza del Castillo is the heart of Pamplona — a large, sandstone-paved square that has served as marketplace, bullring, military parade ground, and public meeting point since the 16th century. Today it is lined with cafes and arcaded buildings, and the whole population seems to pass through it every evening.

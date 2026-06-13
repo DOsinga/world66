@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Andrews University traces its roots to Battle Creek College, founded in 1874 as the first Seventh-day Adventist school of higher learning. After a fire destroyed the original campus, the college moved to Berrien Springs in 1901 onto land previously used as an asylum. Today it is the denomination's flagship university and the home of its theological seminary.
+score: 7.7
 ---
 
 The Andrews University campus sits on a wooded ridge north of the village and is the largest single thing in Berrien Springs by a long way. It is the flagship institution of the Seventh-day Adventist Church and draws students from more than a hundred countries, which gives a small Michigan town an unusually international flavour.

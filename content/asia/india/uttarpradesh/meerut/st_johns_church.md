@@ -12,6 +12,7 @@ story: >
   Indian soldiers who launched the attack — making Meerut the rare place
   where you can stand within walking distance of memorials to both sides of
   the same conflict, each telling a very different story of the same events.
+score: 6.2
 ---
 
 Built in 1819, St. John's Church is the oldest surviving British church in Uttar Pradesh and one of the earliest Anglican churches built in northern India. The building is a solid piece of colonial ecclesiastical architecture — a classical portico, a modest steeple, thick walls against the heat — that has survived two centuries of Meerut's tumultuous history in reasonable condition.

@@ -13,6 +13,7 @@ story: >
   mineral-light water is credited with the region's whisky character: lighter and
   more floral than Islay malts, and often described as the most approachable style
   for newcomers to Scotch.
+score: 6.6
 ---
 
 The Malt Whisky Trail runs through Speyside — the valley of the River Spey from Grantown through Aberlour and Craigellachie toward the coast at Fochabers — and takes in nine distilleries and the famous Speyside Cooperage. This is whisky country in an almost literal sense: the smell of fermenting barley drifts across the valley in summer, and distillery chimneys mark every village. The trail is officially outside the national park but is easily combined with a Cairngorms visit.

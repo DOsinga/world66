@@ -14,6 +14,7 @@ story: >
   On calm evenings in summer, you can sit in warm water watching the sun decline over
   the fjord for hours. In winter, the contrast between the hot water and the frozen air
   is intense. There is no attendant, no fee, no opening time.
+score: 8.0
 ---
 
 Three small concrete pools sit on the shoreline at Drangsnes, filled by a natural hot spring and free to use at any hour. The setting is particular: the pools are literally at sea level, with the fjord in front and mountains behind, and the village of Drangsnes — about 60 houses — above. It is one of the more satisfying bathing experiences in Iceland, precisely because it has not been developed or branded.

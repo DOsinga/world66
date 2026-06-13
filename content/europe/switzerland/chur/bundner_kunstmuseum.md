@@ -15,6 +15,7 @@ story: >
   generations deep and in more directions than thin bronze figures.
 sources:
   - https://en.wikipedia.org/wiki/B%C3%BCndner_Kunstmuseum
+score: 7.9
 ---
 
 The Bündner Kunstmuseum occupies two connected buildings on the edge of the old town: a 19th-century villa and a bold modern extension by architect Barozzi Veiga, opened in 2016. The collection focuses on art from Graubünden and the wider Alpine region, with particular strength in the Giacometti family — Alberto, Giovanni, and Augusto — and in the work of Ernst Ludwig Kirchner, who spent much of his later career in the nearby Davos valley. The result is one of the best regional art museums in Switzerland.

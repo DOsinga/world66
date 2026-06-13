@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Large central green park, home to the Kjarvalsstaðir museum, sculptures and frisbee
+score: 6.2
 ---
 
 A wide expanse of grass and clipped paths a fifteen-minute walk east from Hallgrímskirkja, Klambratún is the biggest park inside the central city and the place where Reykjavik gathers on the rare warm summer evening. The Kjarvalsstaðir museum sits on the south edge; a sculpture trail and an open-air theatre run through the trees.

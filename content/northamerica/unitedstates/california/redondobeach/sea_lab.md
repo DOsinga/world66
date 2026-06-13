@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 6.7
 ---
 
 A small marine education centre at the north end of King Harbor, operated by the Los Angeles Conservation Corps. The exhibits focus exclusively on the marine life of Santa Monica Bay — leopard sharks, swell sharks, garibaldi (the official state marine fish of California), bat rays, octopus, sea stars, kelp forest fish — and several touch tanks let visitors handle starfish, anemones and sea cucumbers under supervision.

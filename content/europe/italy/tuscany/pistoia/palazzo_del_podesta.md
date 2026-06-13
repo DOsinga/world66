@@ -9,6 +9,7 @@ tags:
 latitude: 43.9332
 longitude: 10.9169
 snippet: "13th-century civic palace on the Piazza del Duomo, with Gothic loggia and courtyard"
+score: 6.4
 ---
 
 The Palazzo del Podestà — also called Palazzo Pretorio — occupies the east side of the Piazza del Duomo. Built in the 13th century as the residence of the city's chief magistrate, it was expanded and modified over the following centuries but retains its Gothic loggia at ground level and a courtyard accessible through the arched entrance. The courtyard walls bear the coats of arms of successive podestà, carved in stone, making it an informal register of the men who governed Pistoia through the medieval and Renaissance periods.

@@ -9,6 +9,7 @@ snippet: "Restaurant inside the château's vaulted 16th-century kitchens"
 tags:
 - eating_out
 - restaurant
+score: 5.0
 ---
 
 The château's in-house restaurant occupies the vaulted basement kitchens of the Petit Château — a series of cool stone rooms with the original 16th-century range still in place. The lunch menu changes seasonally and leans toward classical French cooking with a regional accent: terrines, vol-au-vents, slow-cooked lamb, and inevitably crème Chantilly on every dessert.

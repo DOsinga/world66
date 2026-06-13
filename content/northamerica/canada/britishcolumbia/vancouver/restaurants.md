@@ -3,6 +3,7 @@ tags:
 - coquitlam
 title: Eating Out in Coquitlam
 type: poi
+score: 3.2
 ---
 
 A number of fine restaurants can be found in the communities surrounding Vancouver. Below are listed some of the Coquitlam restaurants we've received reviews on.

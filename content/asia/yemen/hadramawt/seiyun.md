@@ -5,6 +5,7 @@ snippet: "Regional capital of the Hadramawt, dominated by the white sultan's pal
 tags: [things_to_do, sight, town]
 latitude: 15.9667
 longitude: 48.7833
+score: 5.8
 ---
 
 Seiyun (sometimes Sayoun or Saywun) is the largest town in the Hadramawt valley and the regional administrative centre. It sits on the wadi floor with the orange-brown wall of the plateau rising directly behind it. The town is unspectacular in itself — flat, dusty, low-rise — but it is the natural hub for visits to [Shibam](/asia/yemen/shibam) twenty kilometres west and Tarim thirty kilometres east.

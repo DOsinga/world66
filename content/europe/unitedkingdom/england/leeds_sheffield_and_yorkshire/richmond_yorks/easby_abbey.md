@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Riverside ruin of a 12th-century Premonstratensian abbey
+score: 8.9
 ---
 
 Easby Abbey is one of the most picturesque monastic ruins in the north of England — substantial walls of the canons' refectory, gatehouse and dormitory still standing high above the River Swale, with the abbey's parish church of St Agatha tucked alongside. Founded in 1152 by the Premonstratensian order, it was suppressed by Henry VIII in 1536 along with England's other monasteries.

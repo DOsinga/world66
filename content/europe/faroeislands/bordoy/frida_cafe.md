@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Fríða Kaffihús
 type: poi
+score: 5.3
 ---
 
 Fríða is the daytime social centre of Klaksvík — a high-ceilinged bakery cafe on the main street, opened around 2017 in the upper floor of a restored corner building, with windows looking down to the harbour. The pastries are the local benchmark (the kanelsnegl is reliably excellent), the coffee is honest, and the lunch menu includes open-faced rye-bread smørrebrød, soups, and salads.

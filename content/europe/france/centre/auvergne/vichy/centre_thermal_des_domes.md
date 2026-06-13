@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Vichy
 story: >
   The domed thermal hall was deliberately designed to evoke the grandeur of Roman baths — a self-conscious echo of the ancient thermal tradition that Vichy was marketing itself as heir to. Emperor Napoleon III was an enthusiastic patron of Vichy's waters in the 1860s, visiting multiple times and funding public works in the city; his patronage transformed a modest spa into a major resort, and the thermal infrastructure built in his wake set the template for everything that followed.
+score: 7.8
 ---
 
 The Centre Thermal des Dômes is Vichy's principal working thermal establishment, housed in a nineteenth-century building whose copper-green domes are a landmark of the city's skyline. This is where the therapeutic tradition is still taken seriously: the centre offers a full range of medically supervised thermal treatments, including mineral baths, hydrotherapy, mud wraps, and more specialised programmes aimed at digestive, rheumatic, and circulatory conditions. French thermal cures are reimbursable under the national health system, and many of the clients here are on a three-week prescribed course rather than a weekend spa break.

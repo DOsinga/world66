@@ -6,6 +6,7 @@ longitude: 18.4318
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 The sweet shops of Baščaršija are among the most reliable pleasures of Sarajevo. Several old-town shops have been selling baklava, tufahija, halva, and lokum for generations, using recipes and techniques that the Ottoman pastry tradition developed over centuries. The Bosnian version of baklava uses walnuts rather than pistachios, lighter syrup than the Turkish original, and slightly less dense pastry — a distinction that Sarajevans are happy to explain at length.

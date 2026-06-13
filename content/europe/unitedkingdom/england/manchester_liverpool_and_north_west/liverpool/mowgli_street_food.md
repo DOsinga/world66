@@ -9,6 +9,7 @@ tags:
 - bold_street
 title: Mowgli Street Food
 type: poi
+score: 6.2
 ---
 
 Nisha Katona founded Mowgli on Bold Street in 2014 and the small chain has since expanded across the UK, but the original Liverpool branch is still the one to visit. The food is Indian home cooking and street snacks rather than restaurant curry — lamb chops, tiffins, yoghurt chat bombs, paratha rolls — served on metal trays in a stripped-back room with swing seats hanging from the ceiling.

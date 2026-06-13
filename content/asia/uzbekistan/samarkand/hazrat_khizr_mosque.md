@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Compact 19th-century mosque on the hill above Shah-i-Zinda"
+score: 7.2
 ---
 
 The Hazrat Khizr Mosque is a small, intricate 19th-century mosque on the ridge overlooking the Shah-i-Zinda necropolis and the Siyob Bazaar. The current building dates from the 1850s but the site has been a place of worship since the 8th century — the original mosque on this spot is said to have been the first in Samarkand after the Arab conquest.

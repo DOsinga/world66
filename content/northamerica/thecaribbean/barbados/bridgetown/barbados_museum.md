@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Garrison_Historic_Area
 story: >
   The museum occupies a former British military prison built around 1820. The cells that once held soldiers in confinement now display Arawak artefacts and sugar-plantation machinery side by side — a juxtaposition the curators have made deliberately pointed, connecting the coercive systems of military discipline and plantation slavery within the same building.
+score: 8.3
 ---
 
 The Barbados Museum, housed in a British military prison from the 1820s, is the best museum in Barbados and one of the better historical museums in the English-speaking Caribbean. It sits inside the Garrison Historic Area south of the city centre, surrounded by the red-brick barrack buildings that are themselves a UNESCO-listed site.

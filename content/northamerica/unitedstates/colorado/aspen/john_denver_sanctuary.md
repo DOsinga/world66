@@ -8,6 +8,7 @@ tags:
 - park
 title: John Denver Sanctuary
 type: poi
+score: 6.7
 ---
 
 A small landscaped garden in Rio Grande Park, on the banks of the Roaring Fork River a few minutes' walk north of downtown Aspen, dedicated to the singer-songwriter John Denver, who lived in the valley from the early 1970s until his death in a 1997 plane crash. The sanctuary is built around large boulders quarried from local mountains, into which his lyrics — fragments of Rocky Mountain High, Annie's Song, Sunshine on My Shoulders — have been carved.

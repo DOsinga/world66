@@ -6,6 +6,7 @@ longitude: -82.7500
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Pisgah National Forest surrounds Asheville on the south and west and provides much of the city's outdoor playground. It covers more than half a million acres of southern Appalachian hardwood forest, with waterfalls, mountain summits, and several wilderness areas. The Cradle of Forestry, near Brevard, marks the spot where American forest science effectively began on the Vanderbilt estate in the 1890s.

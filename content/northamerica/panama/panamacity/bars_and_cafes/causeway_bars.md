@@ -1,6 +1,7 @@
 ---
 title: Amador Causeway bars
 type: poi
+score: 5.8
 ---
 
 The Amador Causeway is a different kind of drinking from the Casco Viejo — more casual, more open to the elements, and more local. On weekend evenings the causeway fills with Panama City families, couples on motorbikes, and groups of friends who have driven out for the breeze and the view. The bars and restaurants here are open-air or semi-open, and the standard order is a cold bottle of **Balboa** or **Atlas** — the two Panamanian lagers that are reliably cold and reliably right for the climate.

@@ -8,6 +8,7 @@ latitude: 58.9638
 longitude: -2.9852
 story: >
   In 1919, with much of the Grand Fleet still anchored at Scapa Flow below the distillery, a fire broke out at Scapa. It was saved when sailors from the fleet came ashore and formed a human chain to pass buckets of seawater up the hillside — an act of neighbourly help with a clear ulterior motive, given what was maturing in the warehouses.
+score: 6.8
 ---
 
 Scapa sits half a mile from Highland Park on the southern edge of Kirkwall, overlooking the waters of Scapa Flow. It is a smaller and less celebrated distillery than its neighbour, which suits it. Scapa produces a lighter, less peaty Island whisky — honeyed, slightly maritime — that makes an instructive contrast to Highland Park's smokier style.

@@ -16,6 +16,7 @@ story: >
   preserved the minaret while destroying the rest of the mosque, and in the 16th century added
   the ornate Renaissance belfry on top. The Giralda is the only one of the three great Almohad
   minarets you can climb; the others are sealed to visitors.
+score: 9.0
 ---
 
 The Giralda is the bell tower of Seville Cathedral and the unmistakable silhouette of the city. Built as a minaret in 1184, it rises 97 metres and its lower Moorish section, covered in intricate geometric brickwork, contrasts beautifully with the Christian Renaissance belfry added in the 16th century. The great bronze weathervane (the *giralda* — "rotating figure") at the very top gives the tower its name.

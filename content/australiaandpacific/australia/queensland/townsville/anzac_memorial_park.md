@@ -6,6 +6,7 @@ longitude: 146.8225
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 ANZAC Memorial Park sits at the northern end of the CBD on The Strand, overlooking the sea. The park contains memorials to those who served from north Queensland in the First and Second World Wars, and a Flame of Remembrance that burns continuously. The parkland itself is shaded by large trees and has views across to Magnetic Island.

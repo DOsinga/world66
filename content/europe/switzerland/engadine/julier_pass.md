@@ -14,6 +14,7 @@ story: >
   monument in the Swiss Alps. What they marked — a temple, a milestone, a
   sacred enclosure — is unknown. The road over the pass follows the Roman route,
   which itself followed a prehistoric track over the ridge.
+score: 6.6
 ---
 
 The Julier Pass (2,284 m) connects the Engadine at Silvaplana to the Rhine valley at Tiefencastel, and is one of the most important roads in Graubünden. It is open year-round — unlike most Alpine passes — which makes it the main winter connection between the Engadine and the rest of Switzerland when other routes are closed. The road climbs from the lake at Silvaplana in a series of tight curves, passing summer pastures and dropping quickly to the Rhine.

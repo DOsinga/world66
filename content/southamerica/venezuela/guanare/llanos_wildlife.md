@@ -7,6 +7,7 @@ tags:
 latitude: 9.0400
 longitude: -69.7413
 story: "The Venezuelan llanos are one of the most biodiverse savannah systems in the Americas. The Apure and Portuguesa river systems that spread across the llanos create a seasonal flood cycle that determines the distribution of wildlife throughout the year. During the dry season, animals concentrate around remaining water sources in extraordinary numbers — anacondas, spectacled caimans, capybaras, giant anteaters, and hundreds of bird species can be observed from a single riverbank."
+score: 8.7
 ---
 
 Guanare sits on the edge of the Portuguesa state llanos — the vast, flat Venezuelan plains that stretch from the Andes foothills to the Orinoco River. This is one of South America's great wildlife habitats: seasonally flooded savannahs that support large populations of capybara, caimans, anacondas, marsh deer, and an astonishing diversity of waterbirds including jabiru storks, scarlet ibis, roseate spoonbills, and numerous species of herons and egrets.

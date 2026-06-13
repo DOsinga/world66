@@ -10,6 +10,7 @@ tags:
 - sights
 title: Newgrange
 type: poi
+score: 9.7
 ---
 
 Newgrange is a 5,000-year-old megalithic passage tomb in the Boyne Valley, about an hour north of Dublin. It predates both Stonehenge and the Great Pyramid of Giza. The massive circular mound, faced with white quartz, conceals a 19-metre passage leading to a cruciform chamber. On the winter solstice, sunlight enters through a roof box above the entrance and illuminates the inner chamber for about 17 minutes — an alignment that still works after five millennia.

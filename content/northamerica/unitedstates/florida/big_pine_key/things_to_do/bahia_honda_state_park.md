@@ -11,6 +11,7 @@ tags:
 sources:
   - https://en.wikipedia.org/wiki/Bahia_Honda_Key
   - https://en.wikipedia.org/wiki/Bahia_Honda_Rail_Bridge
+score: 9.1
 ---
 
 Bahia Honda State Park occupies most of Bahia Honda Key, about 12 miles east of Big Pine Key, and is widely considered the best beach in the Florida Keys. Sandspur Beach on the Atlantic side has the postcard combination: white sand, turquoise water that stays shallow for a long way out, and the dramatic silhouette of the old Overseas Railroad bridge rising from the water just offshore. The water clarity is excellent, and snorkelling is possible directly from the beach.

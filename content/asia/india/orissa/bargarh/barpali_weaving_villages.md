@@ -5,6 +5,7 @@ tags: [things_to_do, sight, craft, shopping]
 latitude: 21.2008
 longitude: 83.5800
 story: The double-ikat technique used here — where both warp and weft threads are tie-dyed before weaving so that the pattern emerges as the loom is worked — is one of only a handful of double-ikat traditions in the world, alongside Indonesian geringsing and Japanese kasuri. A complex Sambalpuri saree can take a weaver a full month to complete.
+score: 7.8
 ---
 
 Barpali is the main weaving centre of the Bargarh district and the place to see Sambalpuri ikat being made. The town sits about 30 km south of Bargarh on the road towards Padampur. Almost every other house in the older lanes contains a pit loom, and during the day you can hear the rhythmic clack of the looms and see freshly tie-dyed yarn drying in courtyards. The Sambalpuri tradition uses bandha, a resist-dyeing process in which the design is fixed in the threads before weaving begins; the result is the slightly soft-edged geometric patterns — wheels, fish, conch shells, temple finials — that have become synonymous with Odisha.

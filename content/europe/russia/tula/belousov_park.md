@@ -8,6 +8,7 @@ latitude: 54.1814
 longitude: 37.5864
 sources:
   - https://en.wikipedia.org/wiki/P._Belousov_Central_Park_of_Culture_and_Recreation
+score: 5.8
 ---
 
 The Central Park of Culture and Recreation named after Pyotr Belousov is Tula's main green space, a large wooded park in the southern part of the city that was established in the late 19th century. Belousov himself was a local doctor who campaigned for the park as a public health measure, arguing that the city's factory workers needed fresh air — an unusually enlightened civic project for its time.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.1975
 longitude: 71.4816
+score: 6.4
 ---
 
 **Aam Khas Bagh** — literally "garden for the public and the elite" — is a small Mughal-era walled garden on the eastern flank of the old fort mound. It was laid out under Aurangzeb in the late seventeenth century as the city governor's pleasure garden and once held a marble pavilion, fountains and a paradise-pattern of running water. Almost all the original waterworks are gone, but the broad shaded walks and the perimeter wall survive.

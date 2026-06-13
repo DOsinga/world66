@@ -9,6 +9,7 @@ tags:
   - park
   - garden
 snippet: 'Modern landscaped park on the Seine inspired by Impressionist paintings, with water gardens and wildflower meadows.'
+score: 6.1
 ---
 
 Opened in 2013, this park along the banks of the Seine was designed to evoke the landscapes the Impressionists painted in this area. The planting scheme draws on the colours and textures of Monet's garden at Giverny — water lilies, irises, ornamental grasses, and wildflower meadows — arranged around a series of ponds and walkways.

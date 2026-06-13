@@ -8,6 +8,7 @@ tags:
 - sight
 title: Blue Ridge Parkway
 type: poi
+score: 9.3
 ---
 
 The Blue Ridge Parkway runs 469 miles from Virginia's Shenandoah down to the Great Smoky Mountains, and the stretch closest to Boone is one of the most scenic on the entire road. From overlooks like Thunder Hill and Yonahlossee you look out across ridges that recede in fading shades of blue — the haze that gives the mountains their name.

@@ -14,6 +14,7 @@ story: >
   The foundation later added a second museum in Athens, but Andros remains the original.
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_of_Andros
+score: 8.8
 ---
 
 The Museum of Modern Art Andros, operated by the Goulandris Foundation, is one of the finest art museums in Greece — a genuinely surprising find on a quiet Cycladic island. The permanent collection focuses on 20th-century Greek painting and sculpture, with works by Nikos Hadjikyriakos-Ghikas, Yiannis Moralis, and other central figures of modern Greek art. Each summer a major international exhibition brings in works from European and American collections that would more usually appear in Athens or Thessaloniki.

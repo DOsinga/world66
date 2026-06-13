@@ -7,6 +7,7 @@ tags:
 latitude: 18.458392
 longitude: -67.164863
 story: "The beach takes its name from the crash boats — motorised rescue craft — that the US Air Force stationed here during the Ramey Air Force Base era. When a plane went down in the water, the boats launched from this beach. The base closed in 1973 and the boats are long gone, but the name stuck."
+score: 8.5
 ---
 
 Crash Boat Beach is the most popular beach in Aguadilla and one of the most visited on Puerto Rico's west coast. The water is an intense turquoise close to shore, calm enough for swimming in the shallower areas and good for snorkelling around the remnants of the old pier, where fish gather around the concrete pilings. The beach itself is broad and sandy, with a casual beachside vibe — food vendors, local families on weekends, and a constant stream of surfers heading for the break further out.

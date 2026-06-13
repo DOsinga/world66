@@ -3,6 +3,7 @@ title: Café Culture in Hveragerði
 type: poi
 tags:
   - bars_and_cafes
+score: 5.2
 ---
 
 Hveragerði's cafés are unpretentious places — they serve good coffee, cakes, and light food, and they are where locals actually spend time rather than venues designed around tourism. The pace is slow by most standards, which is appropriate for a town where the main outdoor activity is a two-hour walk to a warm river.

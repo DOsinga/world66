@@ -7,6 +7,7 @@ tags:
 - market
 title: Bolton Market
 type: poi
+score: 6.9
 ---
 Bolton Market is one of the largest covered market halls in the north of England, occupying a substantial Victorian building in the town centre that has been trading continuously for well over a century. The indoor hall contains several hundred stalls selling everything from fruit and vegetables to fabric, tools, electronics, and clothing, with a particular concentration of independent food traders that makes it a useful stopping point at any time of day.
 

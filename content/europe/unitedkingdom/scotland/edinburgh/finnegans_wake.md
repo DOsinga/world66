@@ -11,6 +11,7 @@ tags:
 - bar
 title: Finnegan's Wake
 type: poi
+score: 6.4
 ---
 
 A loud, friendly Irish pub on photogenic Victoria Street with live music — folk, trad and the occasional rock cover band — most nights of the week. Backpacker-heavy, no pretence, decent Guinness.

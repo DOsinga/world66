@@ -12,6 +12,7 @@ story: >
   coaster dates to 1958 and still runs on its original track — a rarity among
   surviving wooden coasters. The park narrowly avoided closure several times in
   the 20th century and remains family-owned.
+score: 7.6
 ---
 
 Camden Park sits about five kilometres west of downtown along the Ohio River and has been operating as an amusement park since 1903 — longer than most American institutions of any kind. It is a genuine anachronism: wooden roller coasters, bumper cars, a Tilt-A-Whirl, and a small log flume, all running at a pace that refuses to hurry.

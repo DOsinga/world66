@@ -12,6 +12,7 @@ story: >
   isolation. He smuggled out thousands of objects, plants, and a forbidden map of
   Japan, for which he was expelled and banned from ever returning. His collection
   became the foundation of Japanese studies in Europe.
+score: 7.9
 ---
 
 A museum dedicated to the first Western collector of Japanese art and culture, housed in the canal-side mansion where Philipp von Siebold lived after his return from Japan in the 1830s. The collection includes lacquerware, woodblock prints, ceramics, botanical specimens, and ethnographic objects that Siebold brought back from a country that was almost entirely closed to outsiders.

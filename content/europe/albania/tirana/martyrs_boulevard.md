@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Martyrs of the Nation Boulevard runs south from Skanderbeg Square through the city's monumental heart. It was the showpiece avenue of the king's planners in the 1930s and the communist regime in the 1950s — each layer left a row of important buildings.

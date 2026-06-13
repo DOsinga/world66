@@ -10,6 +10,7 @@ tags:
 title: SeaWorld San Diego
 type: poi
 url: https://seaworld.com/san-diego
+score: 5.8
 ---
 
 A 200-acre marine life park on Mission Bay. SeaWorld has scaled back its orca shows and added more rides over the past decade — Manta and Electric Eel are decent rollercoasters in their own right — but the dolphin, sea lion and beluga encounters remain the core draw. Buy tickets online in advance; the gate price is steep.

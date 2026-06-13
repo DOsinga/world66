@@ -7,6 +7,7 @@ tags:
 latitude: -23.9405344
 longitude: -45.4276973
 story: "Bonete is one of the few communities in Brazil where cars genuinely cannot go — the only way in is a 13-kilometre trail through the park or a boat. That imposed isolation has kept the place as close to a traditional caiçara fishing village as still exists on the São Paulo coast."
+score: 8.6
 ---
 
 The Trilha do Bonete is Ilhabela's most demanding and most rewarding hike. The trail runs 13 kilometres one way from the trailhead at Ponta de Sepituba, at the southern tip of the island where the asphalt road ends, to the isolated beach community of Bonete. The route climbs through Atlantic Forest, passes three waterfalls and two viewpoints, and descends to a beach of over 600 metres fronting open ocean. Plan for three to six hours depending on your pace, and carry plenty of water — the trail is exposed in sections and there are no resupply points along the way.

@@ -8,6 +8,7 @@ address: Cheranmahadevi Rd, Pettai, Tirunelveli 627010
 latitude: 8.7197
 longitude: 77.7406
 snippet: Long-running mutton-and-parotta stall in Pettai
+score: 6.3
 ---
 
 Sethupillai is a Tirunelveli institution — a roadside mutton and parotta stall in the Pettai area, in business for the better part of a century. The menu is short: mutton chukka (dry-fried with masala), mutton kola urundai (deep-fried minced-meat balls), brain fry, and the addictive Tirunelveli-style flaky parottas to mop them up.

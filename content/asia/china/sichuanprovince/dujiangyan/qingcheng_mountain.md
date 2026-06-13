@@ -11,6 +11,7 @@ tags:
   - historic
 title: Qingcheng Mountain
 type: poi
+score: 8.9
 ---
 
 Qingcheng Mountain is one of the birthplaces of Taoism in China and a UNESCO World Heritage Site listed alongside the irrigation system. The mountain rises to 1,260 metres through dense forest, and its trails connect more than thirty ancient temples, pavilions, and cave shrines that have been maintained by Daoist monks since the Han dynasty. It is considerably quieter and more atmospheric than the busy irrigation park.

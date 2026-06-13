@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - theatre
 - architecture
+score: 6.9
 ---
 
 The Opéra de Marseille (officially the Opéra Municipal) sits a block south of the Vieux-Port on the Place Reyer. The original 1787 building burned to the ground in 1919; only the colonnaded portico survived and was incorporated into the Art Deco rebuild that opened in 1924. The result is unusual — a sober 18th-century facade fronting a streamlined interior of bronze, marble and gilt that would look at home in a 1930s ocean liner.

@@ -7,6 +7,7 @@ snippet: 224-metre tower with a free public viewing platform at 75 metres
 tags:
 - things_to_do
 - landmark
+score: 8.1
 ---
 
 The TV Tower at the western end of the Eixo Monumental was designed by Lúcio Costa himself and completed in 1967. At 224 metres it was once the tallest TV tower in Latin America, and its free viewing platform at 75 metres still gives the best orientation of Brasília's aeroplane-shaped Pilot Plan.

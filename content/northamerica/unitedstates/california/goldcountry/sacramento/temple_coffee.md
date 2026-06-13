@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 38.5738
 longitude: -121.4726
+score: 6.9
 ---
 
 Sacramento's most serious specialty coffee roaster, with several locations around the city. Temple sources single-origin beans with the same rigour a fine wine producer applies to grapes, and the cafés serve filter coffee alongside espresso drinks. The roastery on S Street is the original and the best equipped, with a long bar where baristas will explain the extraction method if you ask.

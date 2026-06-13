@@ -8,6 +8,7 @@ latitude: 49.3031
 longitude: 10.5707
 sources:
   - https://en.wikipedia.org/wiki/St._Johannis,_Ansbach
+score: 6.5
 ---
 
 St. Johannis is the second major church of Ansbach, standing near the old town market square and serving as the main Lutheran parish church. Its tower is a prominent landmark visible from across the town. The interior is simpler than the adjacent St. Gumbertus but contains good carved wooden furnishings and a calm, well-lit nave that repays a few minutes' quiet attention.

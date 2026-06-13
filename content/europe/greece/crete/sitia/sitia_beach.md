@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2089
 longitude: 26.1067
+score: 5.8
 ---
 
 Sitia's town beach is a long stretch of mixed sand and shingle running east from the harbour for nearly a kilometre, with calm sheltered water and a row of sunbeds and tavernas behind. It is not the prettiest beach in eastern Crete but it is right there, walkable from the centre, and almost empty outside July and August.

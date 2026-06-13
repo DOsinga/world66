@@ -8,6 +8,7 @@ tags:
 latitude: 40.9176
 longitude: 9.5134
 snippet: The harbour waterfront is Olbia's best area for fresh seafood restaurants
+score: 6.1
 ---
 
 The quayside around Olbia's old port has a cluster of fish restaurants that source their catch directly from the local fishing boats. The menus follow the season and the day's catch — in spring and early summer this means sea urchin (ricci di mare) eaten raw with bread and white wine, which is the local delicacy par excellence; in autumn the focus shifts to bream, bass, and clams.

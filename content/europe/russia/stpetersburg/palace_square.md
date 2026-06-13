@@ -14,6 +14,7 @@ story: >
   a hundred; and the storming of the Winter Palace on 7 November 1917, the founding mythology of the
   Bolshevik revolution. The actual storming was far less dramatic than the famous Eisenstein reenactment
   — a small group of Red Guards walked into the palace through largely undefended back entrances.
+score: 8.7
 ---
 
 Palace Square is the great public space of imperial St Petersburg, framed by the baroque mass of the Winter Palace on one side and the long, curving classical sweep of the General Staff Building on the other. At the centre stands the Alexander Column — a single 47-metre piece of red granite raised in 1834 to commemorate the defeat of Napoleon, held in place by nothing more than its own weight.

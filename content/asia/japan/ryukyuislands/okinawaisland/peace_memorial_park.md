@@ -9,6 +9,7 @@ latitude: 26.0951
 longitude: 127.7250
 story: >
   The Cornerstone of Peace consists of 116 granite walls engraved with the names of every person who died in the Battle of Okinawa — over 240,000 names, regardless of nationality. Americans, Okinawans, Japanese mainland soldiers, and Koreans conscripted to fight are inscribed side by side. New names continue to be added as identities are confirmed from battlefield remains.
+score: 8.4
 ---
 
 In the southernmost tip of Okinawa, near the town of Itoman, the Peace Memorial Park occupies the site where the Battle of Okinawa reached its bloodiest conclusion in June 1945. The battle lasted 82 days and claimed roughly a third of the civilian population; the park was built to ensure that loss is not forgotten. It is a quiet, serious place, and it repays the time to visit properly.

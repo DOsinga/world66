@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 5.9
 ---
 
 The covered market in the centre of town is the social hub of Néma. Goats, sheep, dates, millet, tea, and a few stalls of cheap Chinese goods change hands under makeshift roofs of corrugated iron and cloth. The traders are a mix of Moors, Soninké, Bambara, and Tuareg, and most exchanges happen in Hassaniya Arabic, French, or a mix of both.

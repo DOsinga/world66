@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
 snippet: "Pyramidal high-rise hotel that anchors the Myohyangsan visitor area"
+score: 6.6
 ---
 
 The Hyangsan Hotel is a striking 15-storey pyramid clad in mirrored glass, set incongruously at the foot of the wooded mountains. It was renovated under Kim Jong-il in 2010 and reopened as the country's flagship mountain resort, with a revolving restaurant on the top floor that — when the power cooperates — offers slow, sweeping views over the valley.

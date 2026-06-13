@@ -14,6 +14,7 @@ story: >
   the flour it once produced ever did.
 sources:
   - https://en.wikipedia.org/wiki/Mulvey_Mercantile
+score: 7.8
 ---
 
 The "Yukon's Best" grain elevator complex along Route 66 is the most photographed landmark on the Oklahoma stretch of the Mother Road. The large grain storage silos and mill buildings are painted with the Yukon's Best Flour branding in bold block letters — a piece of roadside Americana that has become a favourite photography spot for Route 66 travellers.

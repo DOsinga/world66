@@ -11,6 +11,7 @@ type: poi
 sources:
   - https://en.wikipedia.org/wiki/Unfinished_Northern_Pyramid_of_Zawyet_El_Aryan
   - https://en.wikipedia.org/wiki/Layer_Pyramid
+score: 4.2
 ---
 
 About 5 km south of the Giza Plateau lies Zawyet El Aryan, a minor necropolis containing two unusual pyramid ruins. The Layer Pyramid is a 3rd Dynasty step pyramid dating to around 2650 BC, slightly older than Djoser's stepped pyramid at Saqqara and in far worse condition — mostly a rubble mound. The Unfinished Northern Pyramid consists of a massive rock-cut pit with a granite-lined sarcophagus sunk into the floor; it was abandoned before its superstructure was ever started, and the reason why is unknown.

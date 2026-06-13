@@ -8,6 +8,7 @@ tags:
   - skadarlija
   - restaurant
 neighbourhood: Skadarlija
+score: 7.0
 ---
 
 Three Hats is the oldest and most traditional of the Skadarlija kafanas, on the cobbled main street of the bohemian quarter. The restaurant has operated in this location since 1864 and maintains the full Serbian kafana experience: long tables, strolling musicians playing folk songs, and plates of grilled meat that arrive in generous quantities. The menu is straightforward — ćevapi, mešano meso (mixed grill), grilled fish, and Serbian salads — and the portions are large.

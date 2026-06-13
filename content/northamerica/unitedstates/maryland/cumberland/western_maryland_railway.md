@@ -9,6 +9,7 @@ tags:
   - historic
 story: "Until 2021 the railroad ran a 1916 Baldwin steam locomotive (No. 734) over the line; that engine is now retired and the operation runs the larger No. 1309, a 1949 Chesapeake and Ohio Mallet — at 175 tonnes one of the heaviest articulated steam engines preserved anywhere in the country."
 snippet: "Steam-hauled excursion trains from downtown into the Allegheny Mountains."
+score: 8.3
 ---
 
 The Western Maryland Scenic Railroad runs heritage trains from a restored downtown station on Canal Street up to Frostburg, 16 miles west and 1,400 feet higher in the mountains. The line follows the old Western Maryland Railway route and climbs through the dramatic Narrows gap and around the Helmstetter's Curve horseshoe.

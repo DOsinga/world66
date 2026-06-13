@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: -33.0320
 longitude: -71.5548
+score: 6.4
 ---
 
 Playa de los Artistas sits south of the city centre, quieter and less frequented than Reñaca or the main beach, which is precisely its appeal. The name comes from the artists and bohemians who historically gathered here, though today it simply attracts anyone who wants to read a book or have a conversation without competing with a speaker system. The beach is narrower than Reñaca and the surroundings are less developed.

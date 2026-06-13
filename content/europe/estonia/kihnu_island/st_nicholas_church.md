@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 58.1300
 longitude: 23.9850
+score: 7.7
 ---
 
 The little wooden church at Linaküla is the spiritual centre of the island. Kihnu converted from Lutheranism to Russian Orthodoxy in the 1840s during a wave of conversions across western Estonia driven by promises of land and food. The church was built in 1784 and rebuilt in 1899 after a fire. The interior has a simple iconostasis and the smell of beeswax candles.

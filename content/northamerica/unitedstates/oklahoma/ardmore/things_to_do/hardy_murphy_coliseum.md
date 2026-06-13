@@ -1,6 +1,7 @@
 ---
 title: "Hardy Murphy Coliseum"
 type: poi
+score: 5.5
 ---
 
 Hardy Murphy Coliseum is a large indoor arena in Ardmore that serves as the main events venue for Carter County and the surrounding region. Built in the 1950s and named after a prominent local rancher and civic figure, it has a capacity of several thousand and hosts a varied calendar of rodeos, livestock shows, concerts, and sporting events throughout the year.

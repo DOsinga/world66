@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Conan Doyle, a young struggling doctor, set up his first practice at 1 Bush Villas, Elm Grove, Southsea, in 1882. With few patients in the waiting room, he wrote A Study in Scarlet — the first Sherlock Holmes story — and sold it for £25. He stayed in Portsmouth for eight years."
+score: 7.3
 ---
 
 The world's largest collection of material relating to Sir Arthur Conan Doyle and Sherlock Holmes is held by Portsmouth City Council and displayed in part inside the Portsmouth Museum on Museum Road. The collection — donated by collector Richard Lancelyn Green — includes first editions, manuscripts, illustrations, posters, and Doyle's own personal items.

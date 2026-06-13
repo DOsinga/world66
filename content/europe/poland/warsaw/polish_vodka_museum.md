@@ -9,6 +9,7 @@ longitude: 20.9910
 snippet: "Interactive museum dedicated to the history and science of Polish vodka, with tasting included"
 sources:
   - https://en.wikipedia.org/wiki/Polish_Vodka_Museum
+score: 7.1
 ---
 
 The Polish Vodka Museum opened in 2018 in a restored 19th-century rectification plant in the Praga district — the very place where much of Warsaw's vodka was once made. The exhibition traces the 600-year history of vodka production in Poland, covering the chemistry, the politics (vodka was a state monopoly for most of Polish history), and the culture.

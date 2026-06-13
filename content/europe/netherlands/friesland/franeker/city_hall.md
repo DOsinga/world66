@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Inside, the council chamber is decorated with painted leather wall hangings made in Mechelen around 1620 — one of only a handful of complete leather wall sets to survive anywhere in the Netherlands."
+score: 8.0
 ---
 
 Franeker's City Hall is one of the finest small civic buildings in the Netherlands, a sixteenth-century building in red brick and sandstone with an octagonal stair tower, decorative gables, and a slender spire that dominates the town's main square. It was built in 1591 to replace an earlier structure and is still in occasional ceremonial use.

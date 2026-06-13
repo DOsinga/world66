@@ -10,6 +10,7 @@ tags:
 title: Mike's Pastry
 type: poi
 url: www.mikespastry.com
+score: 6.9
 ---
 
 The most famous bakery in the North End, opened in 1946. Mike's Pastry is famous for two things: cannoli (filled to order from a refrigerated case behind the counter, in maybe twenty varieties — ricotta, chocolate chip, pistachio, Florentine, espresso) and the line of customers that often stretches halfway down Hanover Street.

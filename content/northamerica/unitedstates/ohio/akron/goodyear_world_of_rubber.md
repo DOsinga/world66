@@ -7,6 +7,7 @@ tags:
 latitude: 41.0517
 longitude: -81.4828
 address: 200 Innovation Way
+score: 6.9
 ---
 
 The Goodyear World of Rubber is the small corporate museum maintained by Goodyear at its East Akron headquarters complex. The exhibits cover the history of the company — Charles Goodyear's accidental discovery of vulcanisation in 1839, the founding of Goodyear in Akron in 1898, the Wingfoot blimp, the racing tyres, and the Apollo lunar rover tyres (a moulded copy of which is on display).

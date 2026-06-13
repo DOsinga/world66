@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Sebangau National Park
 type: poi
+score: 8.8
 ---
 
 Sebangau is the headline attraction of Palangka Raya — a national park of peat-swamp forest, black-water rivers, and one of the densest populations of wild Bornean orangutans on the island. The park starts at the village of Kereng Bangkirai, about half an hour south of town, where small wooden klotok boats run trips up the Koran River into the forest.

@@ -9,6 +9,7 @@ tags:
   - castle
 title: Mau Mubarik Fort
 type: poi
+score: 6.7
 ---
 
 Mau Mubarik is one of the older fortifications in the Cholistan Desert, built by the local Rajput chief Raj Hans Karar as a residence for his mother (*mau* means mother in the Saraiki language). It was captured by Shah Arghun of Sindh in 1525 and changed hands several times after. The fort once had twenty bastions and towers, with ramparts about 550 metres in circumference; the walls survive in long ruined stretches and several towers still stand at their corners.

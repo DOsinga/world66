@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 Puerto Marina is the centrepiece of the seafront — a large pleasure marina built in the 1980s in a kind of pastiche Moorish style, with whitewashed buildings on artificial islands linked by little bridges. It has won "best marina in the world" awards more than once, and on a summer evening it has a real festival atmosphere.

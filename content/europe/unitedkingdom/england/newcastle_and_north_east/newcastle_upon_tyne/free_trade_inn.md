@@ -8,6 +8,7 @@ tags:
 - pub
 - ouseburn
 snippet: Real-ale pub with the best Quayside view in the city
+score: 7.7
 ---
 
 A scruffy, glorious 1960s pub on a ridge above the Ouseburn with a beer garden that has the single best view of the Newcastle bridges from anywhere in town. The interior is unimproved: torn benches, mismatched chairs, graffiti you should not read. The beer list — fifteen rotating cask and craft taps — is the regional yardstick.

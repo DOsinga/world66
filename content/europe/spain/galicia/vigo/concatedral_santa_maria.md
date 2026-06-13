@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 42.2366
 longitude: -8.7258
+score: 5.4
 ---
 
 Vigo's co-cathedral stands at the top of the old town, a neo-Gothic church built in the early 20th century to replace the medieval structure that was demolished to make way for the expanding city. It is a concatedral — sharing episcopal duties with the cathedral at Tui — rather than the primary seat of the diocese.

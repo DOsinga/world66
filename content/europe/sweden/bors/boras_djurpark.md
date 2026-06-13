@@ -8,6 +8,7 @@ tags:
   - sight
   - zoo
   - family
+score: 6.9
 ---
 
 Borås Djurpark is one of the largest zoos in Scandinavia — 40 hectares on the wooded northern edge of the city. It is best known for its African plains exhibit, where elephants, giraffes, zebras, and antelope share a single broad enclosure that you can view from a high boardwalk. The zoo also has a strong record on conservation, particularly for endangered Nordic species: wolves, lynx, wolverines, and brown bears.

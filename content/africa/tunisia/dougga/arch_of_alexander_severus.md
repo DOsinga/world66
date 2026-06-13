@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Arch of Alexander Severus is one of two triumphal arches that survive at Dougga, the smaller of the two but also the better preserved. It was built in AD 222 in honour of the emperor whose name it carries — a young ruler murdered by his own troops at the age of 26.

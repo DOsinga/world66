@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.9697
 longitude: -116.5681
+score: 8.5
 ---
 
 Cuyamaca Rancho State Park is a large park in the mountains just south of Julian, covering nearly 25,000 acres of oak woodland, pine forest, and meadows at elevations between 900 and 1,900 metres. The park offers excellent hiking through landscapes that are surprisingly wild and remote given the proximity to San Diego.

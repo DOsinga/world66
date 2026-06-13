@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8991
 longitude: 14.5131
+score: 7.0
 ---
 
 St George's Square is Valletta's main open space, situated at the junction of Republic Street and Merchants Street in the heart of the city. The Grand Masters' Palace flanks one side of the square, and the square itself serves as the setting for national ceremonies — the Independence Day and Republic Day celebrations take place here, as does the changing of the guard. A bronze statue of Grand Master Jean de la Valette stands at one end.

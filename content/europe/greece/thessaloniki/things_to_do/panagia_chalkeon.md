@@ -7,6 +7,7 @@ tags:
 latitude: 40.6369
 longitude: 22.9436
 snippet: 11th-century Byzantine church in the former coppersmiths' quarter
+score: 7.9
 ---
 
 The Church of Panagia Chalkeon — "Our Lady of the Coppersmiths" — stands in Dikastirion Square right in the commercial centre of the city, a compact brick cube of Byzantine architecture dating from 1028. It is one of the better-preserved middle Byzantine churches in Thessaloniki and one of the few where the original dedication and date of construction are known from an inscription above the entrance.

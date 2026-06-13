@@ -15,6 +15,7 @@ story: >
   full speed — has no practical origin; it developed as a display of skill and
   bravado among rival herdsmen. UNESCO added the traditional craft of the Hungarian
   horse herders to its Intangible Cultural Heritage list in 2017.
+score: 7.7
 ---
 
 The famous horse show held at the Bugac equestrian farm is the main reason visitors make the trip out to the puszta. Csikós herdsmen in traditional embroidered costumes demonstrate skills that have been practised on the Great Hungarian Plain for centuries: trick riding, whip cracking, herding with dogs, and the extraordinary five-horse post in which a rider stands astride the two rearmost horses of a five-horse team at full gallop.

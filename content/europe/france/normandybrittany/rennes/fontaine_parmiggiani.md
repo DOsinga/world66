@@ -12,6 +12,7 @@ story: >
   the building where Breton nobles once governed, its commentary on authority seems particularly
   pointed. The head has been stolen several times since installation; replacements are now cast
   in a sturdier alloy.
+score: 5.8
 ---
 
 "La Fontaine" by Italian sculptor Claudio Parmiggiani stands in Place du Parlement de Bretagne, directly in front of the grand 17th-century parliament building. It shows a crowned figure whose head keeps toppling — or being stolen — and the gap between the monumental classical architecture behind it and the somewhat absurdist sculpture in front of it is part of the point.

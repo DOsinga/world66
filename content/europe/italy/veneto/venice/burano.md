@@ -9,6 +9,7 @@ longitude: 12.4167
 snippet: "Colourful fishing island 40 minutes from Venice, famous for lace and seafood"
 story: >
   The theory most often repeated about Burano's colourful houses — that fishermen painted them in bright colours so they could spot their homes through the lagoon mist — may or may not be true. What is certain is that each house colour must be officially approved by the local authority, and the waiting list for a permit to change your colour can be years long.
+score: 8.1
 ---
 
 Burano is a fishing island in the northern lagoon, 40 minutes from Venice by vaporetto, known for two things: its houses painted in every possible combination of intense colour, and its lace-making tradition. The coloured houses reflect off the canals and the narrow lanes are genuinely photogenic in a way that is easy to mock but hard to resist.

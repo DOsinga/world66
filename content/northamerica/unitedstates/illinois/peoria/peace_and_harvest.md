@@ -6,6 +6,7 @@ latitude: 40.6927
 longitude: -89.5908
 story: >
   The Peace and Harvest sculptures were carved under the Works Progress Administration, the New Deal program that put unemployed artists to work during the Great Depression. The WPA art program was controversial at the time — critics called it a waste of government money to commission art during an economic crisis — but it produced thousands of murals, sculptures, and public works across the country, many of which remain the best public art in their cities. Peoria's limestone figures are characteristic of the WPA style: monumental, idealized human forms meant to embody civic virtues rather than commemorate specific individuals.
+score: 5.8
 ---
 
 The Peace and Harvest sculptures are a pair of eight-foot limestone figures created during the New Deal era under the Works Progress Administration. Carved in the 1930s, they represent two of the foundational concerns of the agricultural Midwest — the end of conflict and the bounty of the land — in the blocky, dignified style that the WPA's artist programs favored. They are good examples of the public art the New Deal scattered across the country, much of which has worn better than the politics that surrounded it.

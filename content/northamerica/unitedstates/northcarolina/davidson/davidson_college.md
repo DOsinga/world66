@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "The college was founded in 1837 by North Carolina Presbyterians, and its honor code — short and absolute — has been in continuous student-administered force since 1842. Woodrow Wilson briefly attended Davidson in 1873 before transferring to Princeton. Stephen Curry is the more recent famous alumnus, and the basketball gym still has his college number hanging from the rafters."
+score: 8.3
 ---
 
 Davidson College is the reason the town exists, and walking through its campus is the main thing to do here. The original red-brick buildings around the central quad date from the 1840s and 50s; later additions have been built mostly in sympathy with the original Federal-era brick aesthetic, with sleek modern interventions tucked in.

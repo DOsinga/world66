@@ -10,6 +10,7 @@ tags:
 title: New England Aquarium
 type: poi
 url: www.neaq.org
+score: 7.6
 ---
 
 The centrepiece is a 200,000-gallon Giant Ocean Tank in the middle of the building, ringed by a spiralling ramp that takes visitors from the tropical surface down past hawksbill turtles, sand-tiger sharks, and a thousand other Caribbean reef fish. Divers feed the residents several times a day, communicating with the crowd through underwater mics.

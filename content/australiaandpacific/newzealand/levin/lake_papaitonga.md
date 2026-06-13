@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - lake
+score: 8.2
 ---
 
 Lake Papaitonga, about ten kilometres south of Levin off Buller Road, is one of the best-preserved remnants of lowland kahikatea forest in the southwestern North Island — a small reserve that has miraculously avoided being drained for pasture along with everything around it. A 30-minute boardwalk loop from the carpark takes you through dense kahikatea (white pine) and rimu forest to two viewing platforms looking out over the lake.

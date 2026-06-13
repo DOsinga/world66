@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The current Almnäs is the third house on the estate. Its 18th-century predecessor was destroyed by fire; today's neoclassical building dates from 1828 and stands on the same lake-facing terrace."
+score: 6.1
 ---
 
 Five kilometres south of Hjo, Almnäs slott (Almnäs Castle) is a neoclassical country house on the shore of Lake Vättern. The estate is private and the house itself is not generally open to visitors, but the surrounding park and the small chapel can be approached. The combination of the formal facade, the avenue of trees, and the view down to the lake is one of the prettier short detours from town.

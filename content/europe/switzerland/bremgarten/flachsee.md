@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 47.3281
 longitude: 8.3694
+score: 6.8
 ---
 
 A shallow artificial lake on the Reuss four kilometres south of Bremgarten, created by a low weir at Rottenschwil. The shallow water attracts migrating waders and waterfowl — the area is now a federal-level wetland reserve and one of the best birdwatching spots in the Aargau, with hides set up along the eastern bank.

@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: -38.5900
 longitude: 177.8500
+score: 8.2
 ---
 
 Eastwoodhill is the National Arboretum of New Zealand — 131 hectares of planted woodland in the hills 35 kilometres west of Gisborne, containing the most comprehensive collection of Northern Hemisphere trees south of the equator. The project was started in 1910 by Douglas Cook, a bachelor farmer who spent decades planting trees from England, Europe, and North America on land he loved but found too steep to farm.

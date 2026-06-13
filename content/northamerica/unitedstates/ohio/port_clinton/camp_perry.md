@@ -12,6 +12,7 @@ story: >
   by the two World Wars. At their peak in the 1970s, over 6,000 competitors gathered here
   for what was genuinely considered the most prestigious rifle competition in the United States.
   The tradition of competitive marksmanship at Camp Perry predates the modern Olympics.
+score: 6.8
 ---
 
 Camp Perry is a National Guard base on the Lake Erie shore just west of Port Clinton, and once a year it hosts the National Matches — the largest shooting competition in the United States and one of the oldest. For two to three weeks in July and August, competitive rifle and pistol shooters from across the country gather here to compete in events that have been running continuously since 1907.

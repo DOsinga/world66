@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - arts
+score: 6.6
 ---
 
 Galeri is a contemporary arts centre on Doc Victoria, the regenerated harbour basin just north of the walled town. It opened in 2005 and includes a cinema, a 392-seat theatre, gallery space, rehearsal rooms, and a café-restaurant with a terrace over the harbour. Programming is bilingual — much of the theatre work is in Welsh — and ranges from local productions to touring shows from Cardiff and London.

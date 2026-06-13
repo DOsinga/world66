@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Tenggarong
   - https://en.wikipedia.org/wiki/Museum_Mulawarman
+score: 8.3
 ---
 
 Tenggarong, about 40 kilometres upstream from Samarinda, was the royal capital of the Kutai Kartanegara sultanate and is now a relaxed riverside town worth a day trip. The Mulawarman Museum, housed in the former sultan's palace on the Mahakam bank, holds a superb collection of Kutai royal regalia, Chinese trade ceramics, Dayak artefacts, and the Hindu stone sculptures associated with the ancient kingdom that flourished here fifteen centuries ago.

@@ -6,6 +6,7 @@ tags:
 - museum
 latitude: 34.6535
 longitude: 135.4784
+score: 7.6
 ---
 
 A museum addressing the history of discrimination and human rights in Japan, located in the Naniwa district. The museum — known informally as Liberty Osaka — is one of the few in Japan that directly addresses the country's most sensitive historical topics: the discrimination faced by Burakumin communities (hereditary outcast groups), Korean and Chinese residents in Japan, indigenous Ainu and Ryukyuan peoples, women, people with disabilities, and LGBTQ+ communities.

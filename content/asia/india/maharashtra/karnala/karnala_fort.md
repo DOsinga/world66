@@ -13,6 +13,7 @@ story: >
   all held it at various points. The 125-foot rock pinnacle that caps the fort is thought
   to be one reason it was so prized — it serves as a natural watchtower over the Bhor Ghat
   pass, one of the main routes through the Western Ghats.
+score: 7.9
 ---
 
 Karnala Fort sits at 1,560 feet on a rocky hill rising sharply from the forest of the bird sanctuary. The climb from the sanctuary entrance takes around an hour through dense woodland — steep in places but well-marked. The remains of the fort include walls, cisterns, and a gateway, scattered across the upper slopes.

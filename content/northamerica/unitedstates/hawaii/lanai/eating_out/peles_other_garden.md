@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 20.8277
 longitude: -156.9214
+score: 5.6
 ---
 
 Pele's Other Garden is the kind of place every small town hopes to have: a deli and bistro that punches well above its weight, run by people who care about the food they serve. Located on the edge of Dole Park in Lanai City, it offers deli sandwiches and wraps at lunch and a more considered bistro menu in the evenings, with a wine list that will surprise anyone expecting island-casual.

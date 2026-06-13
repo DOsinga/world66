@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Emir Fakhreddine II commissioned the mosque around 1493 — making it among the oldest standing in Lebanon — even though he was a Druze prince leading a Druze emirate. He built it for the small Sunni Muslim community already living in the town, a piece of statecraft from a ruler who made multi-confessional coexistence official policy two centuries before anyone in Europe had the same idea.
+score: 7.9
 ---
 
 The Fakhreddine Mosque sits at the head of the Midan, the cobbled square at the centre of Deir el Qamar. The octagonal minaret is the visual anchor of the town, slender and slightly tapering, modelled on the Mamluk style that travelled up from Egypt with the Sunni community.

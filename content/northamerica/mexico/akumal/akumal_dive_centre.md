@@ -7,6 +7,7 @@ tags:
 - diving
 title: Akumal Dive Centre
 type: poi
+score: 6.4
 ---
 
 Akumal Dive Centre is one of the village's original dive operations, running reef dives, cavern dives, and full cave-diving courses since the 1980s. The house reef just offshore is accessible directly from the beach, and the shop organises day trips to Dos Ojos, Car Wash cenote, and the deeper sites along the coast.

@@ -4,6 +4,7 @@ longitude: -38.334671
 title: Projeto TAMAR
 type: poi
 url: www.praiadoforte.com
+score: 8.8
 ---
 
 Conservation center for the sea turtles that nest at Praia do Forte. Great for kids but fascinating for adults too, and your admission fee goes to a good cause.

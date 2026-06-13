@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6537
 longitude: -110.6987
+score: 7.5
 ---
 
 The Snake River flows through the floor of Jackson Hole for about 80 km before entering the canyon to the south, and floating it is one of the most pleasant ways to experience the valley. Several sections are available, from flat calm floats (ideal for wildlife watching and photography) to the more animated whitewater of Snake River Canyon to the south.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 Silesian Ostrava Castle is the city's oldest building, a Gothic and Renaissance fortress on a low hill where the Lučina river meets the Ostravice. Founded in the 13th century to defend the trade route from Moravia to Silesia, it spent most of its life as a manor house before centuries of mining subsidence beneath it caused it to sink about 16 metres into the ground — a slow collapse that is now stabilised but still visible in the leaning walls.

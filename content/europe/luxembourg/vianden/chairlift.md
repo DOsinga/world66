@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 49.933000
 longitude: 6.209000
+score: 7.4
 ---
 
 The chairlift runs from the town centre up to the hill above the Our valley, carrying visitors to the viewpoint from which the classic view of Vianden — castle, town, and valley all in one frame — is visible. It operates in spring and summer and takes a few minutes each way.

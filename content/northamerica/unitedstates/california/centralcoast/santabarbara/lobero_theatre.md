@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.9
 ---
 
 The Lobero Theatre, opened in 1873 and remodelled in 1924 in Spanish Colonial style by George Washington Smith, is the oldest continuously operating theatre on the West Coast. The 600-seat hall hosts concerts, dance, and small-scale theatre — and its acoustics, in the words of more than one visiting musician, are unusually warm for an old building.

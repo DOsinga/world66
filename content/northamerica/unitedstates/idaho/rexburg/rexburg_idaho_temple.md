@@ -6,6 +6,7 @@ longitude: -111.779088
 snippet: "A gleaming LDS temple whose grounds are open to all, even if the interior is not."
 tags: [things_to_do, sight]
 story: "The Rexburg Idaho Temple was dedicated in 2008 and sits on a low rise south of the university campus, visible from much of the town. Like all LDS temples, it is open only to church members holding a current recommend, which means most visitors will experience it from the outside — but the exterior is striking enough that this is no great hardship. Against the wide eastern Idaho sky, the white granite building has a clean, modern presence that rewards a few minutes of looking."
+score: 7.6
 ---
 
 The temple grounds are well-maintained and open to the public. There are paths, gardens, and benches, and the building itself is best seen in the late afternoon when the light comes from the west and hits the facade directly. It is not a large temple by LDS standards, but it sits beautifully in its setting, with the Teton Range visible to the east on clear days.

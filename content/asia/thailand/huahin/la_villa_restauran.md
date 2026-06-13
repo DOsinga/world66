@@ -5,6 +5,7 @@ tags:
 title: La Villa Restaurant Hua Hin
 type: poi
 url: www.la-villa-huahin.com
+score: 4.8
 ---
 
 La Villa restaurant Hua Hin famous and popular Italian restaurant in Hua Hin Thailand

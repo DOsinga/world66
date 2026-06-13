@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 38.117
 longitude: 13.363
+score: 7.2
 ---
 
 The No Mafia Memorial in central Palermo, run by the Centro Siciliano di Documentazione "Giuseppe Impastato", traces the history of Cosa Nostra and of the civic resistance against it. Photographs, audio testimony, court documents, and the reconstructed murder scene of the journalist Mauro De Mauro line the small upstairs space.

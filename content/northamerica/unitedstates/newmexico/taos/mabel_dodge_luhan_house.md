@@ -9,6 +9,7 @@ latitude: 36.4081
 longitude: -105.5644
 sources:
   - https://en.wikipedia.org/wiki/Mabel_Dodge_Luhan_House
+score: 7.8
 ---
 
 The Big House, as locals call it, was the home of Mabel Dodge Luhan — the New York socialite who moved to Taos in 1918, married a Pueblo man named Tony Luhan, and proceeded to invite half the American and European cultural world to visit. D.H. Lawrence wrote here. Georgia O'Keeffe stayed here. Ansel Adams, Willa Cather, and Carl Jung all came through.

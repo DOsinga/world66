@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.0
 ---
 
 The Resurrection of Christ Orthodox Cathedral, a striking modern building completed in 2012, is the third-largest Orthodox church in Europe. The interior is light, modern, and decorated with new frescoes in a deliberately classical style. The freestanding bell tower is one of the tallest in the Balkans.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 12.1192
 longitude: -61.6264
+score: 7.8
 ---
 
 Grenville's market is the best reason to be in town early, especially on Saturday. Farmers from Saint Andrew bring fruit, vegetables, herbs, and spices down from the surrounding hills, while fish vendors work close to the waterfront and minibuses nose through the traffic.

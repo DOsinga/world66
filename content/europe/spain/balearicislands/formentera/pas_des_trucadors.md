@@ -7,6 +7,7 @@ tags:
 latitude: 38.7850
 longitude: 1.4220
 snippet: "The narrow sandy spit at Formentera's northern tip, covered in hundreds of stacked stone cairns"
+score: 7.5
 ---
 
 At the very northern end of the Ses Illetes peninsula, the island narrows to a thin tongue of sand and rock that points toward the uninhabited islet of s'Espalmador. This is Pas des Trucadors — and it is covered in cairns. Over many years, visitors have stacked flat stones into towers, dozens and then hundreds of them, ranging from modest piles to elaborate constructions half a metre tall. It is the kind of spontaneous collective act that travel sometimes produces: nobody organised it, nobody runs it, and the result is quietly extraordinary.

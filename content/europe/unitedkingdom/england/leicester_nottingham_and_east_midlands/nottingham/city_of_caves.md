@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Guided tour through a small section of the 800+ man-made caves cut into Nottingham's bedrock.
 story: "Nottingham sits on soft sandstone soft enough to dig out with hand tools, and the city has been excavating its own cellars since at least the 11th century. The Saxon name for the place — Tig Guocobauc — translates as 'Place of Cave Dwellings'."
+score: 9.1
 ---
 
 More than 800 caves have been mapped beneath Nottingham, used over the centuries as tanneries, malting cellars, wine stores, public-house cellars, slum dwellings, and air-raid shelters. The City of Caves attraction, hidden incongruously beneath the Broadmarsh shopping centre, takes you through a representative few on a 45-minute guided tour: a medieval tannery with its still-visible vats, a slum cottage, and a Second World War shelter where families spent the worst nights of the Nottingham Blitz.

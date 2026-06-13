@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 66.04583
 longitude: -17.34222
+score: 7.3
 ---
 
 The red-roofed wooden church overlooking Húsavík harbour is the most recognisable image of the town, and it earns that status. Built in 1907 from Norwegian timber in a cruciform design, Húsavíkurkirkja stands on a small rise above the waterfront and is visible from almost anywhere in town and from the bay itself. The warm ochre-red of the exterior against the blue harbour and the mountains beyond makes it one of the most photographed churches in Iceland.

@@ -7,6 +7,7 @@ tags:
   - church
 latitude: 44.3471
 longitude: 8.5448
+score: 6.8
 ---
 
 The parish church of San Michele Arcangelo is the most prominent building in the Borgo, its yellow facade and bell tower visible from much of the seafront. The current church dates to the late 16th century, replacing an earlier medieval structure; the bell tower was added in the 18th century. The interior is single-nave Baroque, with a polychrome marble altar and several paintings from the Genoese school.

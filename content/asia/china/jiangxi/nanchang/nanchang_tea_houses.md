@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 28.6770
 longitude: 115.8980
+score: 6.4
 ---
 
 Tea culture in Nanchang sits between the elaborate Gongfu Cha tradition of Fujian and the more informal tea-drinking habits of central China. Dedicated tea houses — offering private rooms, an extensive tea selection, and a slow afternoon of infusions — are common throughout the Shengjin Tower area and the Wanshou Palace commercial block. The local specialty is Lushan Yunwu green tea from the mountains near Jiujiang, served in the clear, clean style that lets the grass and floral notes emerge properly.

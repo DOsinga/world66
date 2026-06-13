@@ -8,6 +8,7 @@ tags:
 snippet: "Roman weights-and-measures office preserved in a back street of the old town"
 latitude: 41.9628
 longitude: 12.7956
+score: 6.0
 ---
 
 Tucked into a side alley in the old town, the Mensa Ponderaria is an unusual surviving fragment of Roman everyday life — a public office where merchants brought goods to be weighed against official standard measures. The original stone counter, with cavities cut to hold bronze standard weights, is still in place.

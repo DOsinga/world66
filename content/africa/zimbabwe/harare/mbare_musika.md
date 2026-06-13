@@ -8,6 +8,7 @@ tags:
   - market
 title: Mbare Musika
 type: poi
+score: 6.9
 ---
 
 Mbare Musika is the main market for Harare's working population — a vast, teeming place where the city buys its vegetables, fruit, and household goods. It also functions as the main intercity bus terminus, which means the area is perpetually busy with long-distance travellers, market traders, and the general organised chaos of a major African transport hub.

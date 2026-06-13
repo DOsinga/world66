@@ -6,6 +6,7 @@ longitude: 8.2071
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Piazza Alfieri is Asti’s broad civic stage, named for the playwright Vittorio Alfieri, who was born in the city. It is not the most intimate square in Piedmont, but it gives Asti room to breathe and hosts the Palio when the city turns ceremonial.

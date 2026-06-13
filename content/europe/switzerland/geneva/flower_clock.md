@@ -14,6 +14,7 @@ story: >
   around 6,500 flowering plants are used for each planting, selected to form the
   pattern of the current season. The clock is tended year-round and has never
   stopped.
+score: 5.5
 ---
 
 The Horloge Fleurie (Flower Clock) sits in the Jardin Anglais on the right bank of the Rhône, a short walk from the Pont du Mont-Blanc. It is exactly what it sounds like: a working clock face, roughly five metres in diameter, laid out in flowers. It has been running since 1955, renewed with new plantings each spring and autumn, and is now one of the most photographed objects in Geneva.

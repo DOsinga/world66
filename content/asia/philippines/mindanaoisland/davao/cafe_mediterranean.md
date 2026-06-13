@@ -6,6 +6,7 @@ tags:
 - cafe
 title: Cafe Mediterranean
 type: poi
+score: 5.6
 ---
 
 Known to its loyal patrons as the home of kebabs, gyros, hummus and pizzas, Cafe Mediterranean is a dining experience. The menu covers the best cuisines from the vast Mediterranean, the Middle East to North Africa to Italy, France and Spain. My personal favorites are Lamb Stew, Tunisian Fish, and Eggplant Parmigiana.

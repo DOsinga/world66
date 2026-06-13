@@ -7,6 +7,7 @@ tags:
   - heritage
 latitude: -31.955753
 longitude: 115.861292
+score: 7.2
 ---
 
 St George's Cathedral is Perth's Anglican cathedral, a modest but dignified Gothic Revival church on St George's Terrace. The current building dates from the 1880s, though the congregation has worshipped on this site since 1845, making it one of the oldest Christian communities in Western Australia. The cathedral is built from Donnybrook stone, a warm cream-coloured sandstone quarried south of Perth that gives it a distinctly local character — less grey and austere than most English cathedrals, more suited to the bright light of WA.

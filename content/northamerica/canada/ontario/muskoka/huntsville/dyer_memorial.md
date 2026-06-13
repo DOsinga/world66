@@ -8,6 +8,7 @@ latitude: 45.3219
 longitude: -79.1831
 story: >
   Cavert Dyer, a Detroit lawyer who fell in love with Muskoka, built the memorial in the 1950s in honour of his late wife Helen. He cut a trail through the forest himself, hand-placed the stone markers, and erected a small stone tower on the hilltop. The Muskoka Heritage Foundation now maintains the site, which has changed very little since Dyer first built it.
+score: 6.6
 ---
 
 The Dyer Memorial sits on a rocky hilltop south of Huntsville, reached by a short trail through maple and pine forest. The memorial consists of a small stone structure and several contemplative markers placed among the trees, dedicated by a Detroit lawyer in memory of his wife. It is a quiet, slightly eccentric landmark — the kind of place that Muskoka specialises in.

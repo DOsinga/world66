@@ -15,6 +15,7 @@ story: >
   building's roof became a seating deck, its facade became part of the outfield wall. The result
   is a ballpark with genuine historical texture, and the effort to integrate the old building into
   a new stadium was cited as a model for urban stadium design across the country.
+score: 7.1
 ---
 
 Petco Park is the San Diego Padres' home stadium in the East Village section of downtown, a 42,000-seat venue that opened in 2004 and is consistently rated among the best ballparks in Major League Baseball. The sight lines are excellent throughout; there is no bad seat in the stadium.

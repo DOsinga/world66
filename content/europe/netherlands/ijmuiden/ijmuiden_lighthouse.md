@@ -10,6 +10,7 @@ tags:
 snippet: 43-metre cast-iron lighthouse from 1878 marking the North Sea Canal entrance
 sources:
   - https://en.wikipedia.org/wiki/Hoge_vuurtoren_van_IJmuiden
+score: 6.0
 ---
 
 The Hoge Vuurtoren — the tall lighthouse — stands 43 metres above the beach, a cylindrical cast-iron tower built in 1878 to mark the entrance to the North Sea Canal. It is painted reddish-brown with a white lantern, and works in tandem with the shorter Lage Vuurtoren (low lighthouse) nearby to create leading lights that guide ships into the canal entrance. The two lighthouses together are a defining element of the IJmuiden skyline.

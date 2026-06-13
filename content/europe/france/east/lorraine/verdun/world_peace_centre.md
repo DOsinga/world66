@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Peace and human rights museum, twin to the Mémorial de Verdun in spirit"
+score: 7.1
 ---
 
 The Centre Mondial de la Paix, des Libertés et des Droits de l'Homme is housed in the Episcopal Palace and is the civic counterpart to the Mémorial outside town — where the Mémorial commemorates the dead, the Peace Centre asks what to do with the memory.

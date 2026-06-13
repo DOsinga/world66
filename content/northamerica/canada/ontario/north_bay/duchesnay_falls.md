@@ -7,6 +7,7 @@ tags:
 title: Duchesnay Falls
 type: poi
 snippet: "Cascade of small waterfalls in a wooded gorge on the west edge of town"
+score: 7.4
 ---
 
 A series of stepped falls and cascades on Duchesnay Creek, in a fenced trail network just off Highway 17 on the western edge of the city. A loop of well-marked paths over wooden bridges takes about 45 minutes and includes the main falls plus three smaller cascades upstream.

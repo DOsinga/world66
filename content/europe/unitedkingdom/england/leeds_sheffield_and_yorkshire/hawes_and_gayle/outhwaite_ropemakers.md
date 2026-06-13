@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.3039
 longitude: -2.1972
+score: 7.4
 ---
 
 W.R. Outhwaite & Son is one of England's last remaining working ropemakers, established in 1905 and still producing rope, cord, and twine on the same ropewalk in the centre of Hawes. Visitors are welcome to watch the rope being made on original machinery — the distinctive rope-twisting machine is still in daily use, running the length of the ropewalk and producing exactly what it has produced for over a century.

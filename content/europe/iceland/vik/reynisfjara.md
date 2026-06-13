@@ -10,6 +10,7 @@ story: >
   The beach gets its black colour from basaltic lava that has been ground down by the sea over thousands of years. The basalt columns forming the cliff face at Reynisfjara are the result of lava cooling slowly and evenly, which causes it to contract and crack into the distinctive hexagonal formations seen here and at similar sites around the North Atlantic. The same geological process that creates the columns also creates the massive cave Hálsanefshellir at the base of the cliff.
 sources:
   - https://en.wikipedia.org/wiki/Reynisfjara
+score: 9.5
 ---
 
 Reynisfjara, just west of Vik, is Iceland's most celebrated black sand beach and with good reason. The combination of jet-black basalt sand, towering hexagonal rock columns, and dramatic sea stacks offshore makes it visually unlike anywhere else in the country. On overcast days — which is most of them — the mood is appropriately gothic. On rare clear days the contrast of black sand, white surf, and blue sky is genuinely extraordinary.

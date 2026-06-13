@@ -8,6 +8,7 @@ tags:
 - ala_moana
 title: Keeaumoku Street
 type: poi
+score: 6.8
 ---
 
 Keeaumoku Street and its surroundings near Ala Moana make up Honolulu's de facto Korean district — a dense cluster of Korean restaurants, karaoke bars, Korean supermarkets, and late-night establishments that keep running long after the rest of the city has closed. The area is authentic rather than tourist-facing: the signage is often in Korean only and the restaurants are full of Korean-American residents rather than visitors.

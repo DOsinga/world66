@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Al_Bidya_Mosque
   - https://whc.unesco.org/en/tentativelists/5665/
+score: 8.3
 ---
 
 Al Bidya Mosque, also called Al Bidyah Mosque, sits on a low hill overlooking the coastal road between Fujairah and Dibba, about 50 kilometres north of the city. It is the oldest mosque in the UAE, built in 1446 from mud brick, gypsum, and stone. Four domes of different sizes cover the prayer hall — an unusual design that has survived earthquakes, neglect, and the corrosive humidity of the Gulf coast for nearly six centuries.

@@ -11,6 +11,7 @@ story: >
   Dortmund bank: the original panelling, counters, lighting, and floor are installed exactly as
   they were before the building was demolished. It is one of the most intact Weimar-era commercial
   interiors surviving anywhere in Germany.
+score: 7.2
 ---
 
 The Museum für Kunst und Kulturgeschichte (MKK) occupies a grand 1913 neo-baroque building on Hansastrasse, just north of the city centre. Its permanent collection spans Westphalian art from the medieval period to the twentieth century, alongside applied arts, decorative objects, and a strong collection of furniture and interiors illustrating bourgeois life in the Ruhr from the industrial revolution onward.

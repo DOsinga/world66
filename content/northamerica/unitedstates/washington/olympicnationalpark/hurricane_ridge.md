@@ -9,6 +9,7 @@ tags:
   - mountain
 title: Hurricane Ridge
 type: poi
+score: 9.2
 ---
 
 Hurricane Ridge is the park's great mountain balcony. On clear days the Olympic peaks rise in a jagged wall to the south, while the Strait of Juan de Fuca and Vancouver Island sit to the north.

@@ -13,6 +13,7 @@ story: >
   it served as the social centre of west Baltimore, where every ethnic group and economic
   class came to eat and shop side by side — the crab cake counter was said to be the
   most democratic institution in the city.
+score: 7.5
 ---
 
 Lexington Market reopened in a new building in 2022 after a long renovation, and while the transition displaced some longtime vendors, the market retains its role as a working-class food institution in west Baltimore. The emphasis is on prepared food — crab cakes, pit beef, Baltimore-style subs, and soul food — rather than fresh produce.

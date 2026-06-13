@@ -12,6 +12,7 @@ story: >
   Hot Springs was protected as a federal reservation in 1832 — forty years before Yellowstone — making it
   the oldest area in the National Park System. President Andrew Jackson signed the law that set the
   springs aside, though the park status itself only arrived in 1921.
+score: 9.2
 ---
 
 The smallest national park in the country and one of the strangest: most of the protected land is the

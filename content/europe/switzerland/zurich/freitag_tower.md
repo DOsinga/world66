@@ -11,6 +11,7 @@ tags:
 neighbourhood: "Zurich-West"
 story: "The Freitag brothers, Markus and Daniel, started cutting up old truck tarpaulins in their Zurich flat in 1993 to make waterproof messenger bags for cyclists. The company is now an internationally recognised design brand and the shipping-container tower it built in 2006 has become a Kreis 5 landmark in its own right."
 snippet: "26-metre-tall stack of shipping containers — the flagship store for the Swiss bag designer"
+score: 6.9
 ---
 
 The Freitag flagship shop in Zurich-West occupies a striking tower of 17 stacked, brightly-painted shipping containers — designed in 2006 by Spillmann Echsle as a deliberate gesture about reuse and a reference to Freitag's business of turning industrial waste into bags. It stands at the edge of the railway viaduct beside the Im Viadukt retail row, visible from much of Kreis 5.

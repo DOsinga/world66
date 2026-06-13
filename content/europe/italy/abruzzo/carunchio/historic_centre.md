@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.9166
 longitude: 14.5267
+score: 7.7
 ---
 
 Carunchio's old centre is a compact network of steep stone lanes built for pack animals rather than cars. The medieval street plan has survived largely intact, with stone houses climbing the hillside in tightly packed tiers. The views from the upper streets are exceptional: the Maiella to the west, the Sangro valley below, and the Matese mountains in the distance toward Campania.

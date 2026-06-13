@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Highland plateau east of Pakse, famous for coffee plantations, waterfalls, and cool air"
+score: 8.7
 ---
 
 The Bolaven Plateau rises about 1,000 metres above the Mekong lowlands east of Pakse, bringing with it cooler temperatures, higher rainfall, and the conditions that have made it the best coffee-growing region in Laos. The plateau was heavily bombed during the Vietnam War — unexploded ordnance remains a serious hazard off the marked paths — but the landscape has recovered into a mosaic of forest, coffee gardens, and small villages.

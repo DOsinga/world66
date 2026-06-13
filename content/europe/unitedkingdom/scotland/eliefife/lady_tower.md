@@ -8,6 +8,7 @@ latitude: 56.1872
 longitude: -2.8052
 snippet: "Stone bathing tower built for an 18th-century aristocrat, perched on the cliffs east of town"
 story: "The tower was built around 1770 for Lady Janet Anstruther, a noted local beauty, who would change here before bathing in a private cove below. A servant was sent ahead to ring a bell and warn the local fishermen to keep their backs turned while she walked down."
+score: 7.7
 ---
 
 A small octagonal stone tower on the cliffs east of Elie, just along the coastal path. It was built in the late 18th century by Sir John Anstruther for his wife Lady Janet — who, by the standards of the day, was a free spirit — to use as a changing room before her daily sea bathing. The story goes that a servant was dispatched in advance to ring a bell, warning fishermen and walkers to look the other way.

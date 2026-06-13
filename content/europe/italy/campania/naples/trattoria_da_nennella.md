@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Trattoria da Nennella
 type: poi
+score: 7.1
 ---
 
 A beloved, boisterous trattoria in the Spanish Quarter famous for theatrical waiters, cheap local wine served in carafes, and old-school Neapolitan cooking — paccheri al ragù, pasta e fagioli, baccalà, and whatever else is on the handwritten daily menu. The atmosphere is chaotic and joyful; the food is honest and filling.

@@ -13,6 +13,7 @@ story: >
   of her college textbooks; the personal papers of Orson Welles; and the draft script of Citizen Kane
   with Welles's own annotations. It also holds one of only four known copies of the Gutenberg Bible
   in the United States.
+score: 8.8
 ---
 
 The Lilly Library is Indiana University's rare books and manuscripts library, holding over 400,000 books, 7.5 million manuscripts, and millions of other items. The building, opened in 1960, is a distinguished piece of mid-century modernist architecture — a low, limestone structure set on the south edge of the IU campus, with a quiet reading room that feels like a small cathedral.

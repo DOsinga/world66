@@ -10,6 +10,7 @@ tags:
   - cafe
 done:
   poi_cleanup: '2026-04-20'
+score: 5.8
 ---
 
 A long-running cafe in Islamabad's Gol Market (F-7/3) serving coffee, sandwiches and light meals. The interior is small and the menu cards are notoriously elaborate — a kind of running joke between the owner and his regulars. Saturday nights bring a live band to the upstairs hall, with covers of Pakistani rock standards.

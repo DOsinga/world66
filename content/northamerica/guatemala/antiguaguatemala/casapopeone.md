@@ -9,6 +9,7 @@ tags:
 - sights
 title: Casa Popenoe
 type: poi
+score: 8.0
 ---
 
 A private home open to the public on set hours, Casa Popenoe was originally built in the first half of the 17th century for don Luís de las Infantas y Mendoza, a Spanish judge in the Royal Audiencia. The house fell into ruin over the centuries before American agronomist Dr. Wilson Popenoe and his wife Dorothy restored it lovingly in the 1930s, furnishing it with colonial-era antiques collected over years of work in Central America.

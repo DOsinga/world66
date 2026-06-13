@@ -9,6 +9,7 @@ latitude: 53.27198
 longitude: -9.05255
 sources:
   - https://en.wikipedia.org/wiki/Taibhdhearc_na_Gaillimhe
+score: 7.1
 ---
 
 An Taibhdhearc (pronounced "Tive-ark") is Ireland's national Irish-language theatre, founded in Galway in 1928. It stages plays, performances, and events entirely in the Irish language, and has been central to the Irish cultural revival in Connacht for nearly a century. Siobhán McKenna, one of Ireland's greatest twentieth-century actresses, performed here early in her career; the theatre occupies a special place in Irish cultural life.

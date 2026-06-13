@@ -7,6 +7,7 @@ snippet: Acapulco's leafy main plaza with cathedral and mariachis
 tags:
 - things_to_do
 - landmark
+score: 6.5
 ---
 
 The main plaza of old Acapulco, formally Plaza Álvarez, is shaded by mature laurel trees and ringed by cafes with plastic chairs spilling onto the pavement. The white-painted Cathedral of Our Lady of Solitude stands on one side, its distinctive yellow-tiled onion domes looking more like something from Moscow than Mexico.

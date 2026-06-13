@@ -13,6 +13,7 @@ story: >
   Palace, which had been demolished in the preceding century. Croatia's best-known 20th
   century writer, Miljenko Jergovic, opens his novel "Srda sings at dusk on Easter" with
   the image of men sitting on the Riva with coffee and no particular plans.
+score: 7.2
 ---
 
 The Riva is Split's long waterfront promenade — a wide marble walkway running the length of the old town from the west gate to the harbour, lined with cafe tables on the water side and the high walls of Diocletian's Palace on the land side. It is where Split happens: morning espresso, afternoon strolling, evening aperitivo. The cafe chains are unremarkable; the setting is not.

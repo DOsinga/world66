@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Altus Air Force Base
 type: poi
+score: 5.4
 ---
 
 Altus Air Force Base, about six kilometres east-northeast of downtown, is the economic and demographic anchor of the city. It opened during World War II as a training base for bomber crews and was reactivated in 1953; today it houses the 97th Air Mobility Wing and is the formal training base for C-17 Globemaster and KC-46 Pegasus pilots, plus the boom operators who work the tankers.

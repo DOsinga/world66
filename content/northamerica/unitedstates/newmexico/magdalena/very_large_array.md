@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The VLA picked up its biggest pop-culture moment when the opening scenes of Contact (1997) were filmed here, with Jodie Foster sitting on the hood of a car wearing headphones and listening to outer space. The reality is more prosaic and more remarkable: real astronomers really do listen here, and have helped map the entire visible universe at radio wavelengths."
+score: 9.0
 ---
 
 The Very Large Array sits on the Plains of San Agustin about 50 miles west of Magdalena along US-60, an unforgettable cluster of 27 white radio dishes spread across the desert like a science-fiction set. Each dish is 25 metres across and they move on railway tracks to reconfigure the array's effective resolution — sometimes spread 36 km apart, sometimes packed close together.

@@ -9,6 +9,7 @@ tags:
 address: 68 Honmachi, Himeji
 opening_hours: 10:00–17:00; closed Mondays
 admission: ¥200 permanent exhibition
+score: 7.3
 ---
 
 A short walk north of Himeji Castle, the Hyogo Prefectural Museum of History gives useful context for what you have just seen. The permanent exhibition covers the prefecture from prehistory to the modern era, with a particular focus on the castles of the region — Himeji is one of several feudal strongholds in Hyogo, and the comparison makes the famous one more legible.

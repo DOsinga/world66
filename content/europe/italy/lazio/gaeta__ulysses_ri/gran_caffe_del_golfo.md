@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 41.2109
 longitude: 13.5735
+score: 6.4
 ---
 
 A dependable seafood trattoria on the lower waterfront, where the menu follows the daily catch rather than a fixed list. The kitchen handles fish simply — grilled, baked in salt, or fried — and resists the temptation to overlay the produce with unnecessary sauces. The spaghetti alle vongole is a reliable benchmark dish: clams from the local waters, olive oil, garlic, white wine, and nothing extra.

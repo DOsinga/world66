@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 50.8561
 longitude: 0.5956
+score: 8.3
 ---
 
 The Shipwreck Museum in Hastings Old Town holds artefacts from ships wrecked along the East Sussex and Kent coast, from the Goodwin Sands to Pevensey Bay. The centrepiece of the collection is material from the Amsterdam, a Dutch East India Company ship that ran aground at Bulverhythe in 1749 and was remarkably well-preserved in the seabed. At very low tides, the wreck is still partially visible on the beach.

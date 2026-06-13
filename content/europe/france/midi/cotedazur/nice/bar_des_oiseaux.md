@@ -8,6 +8,7 @@ tags:
 address: "5 Rue Saint-Vincent, Vieux Nice"
 latitude: 43.6963
 longitude: 7.2746
+score: 6.2
 ---
 
 Le Bar des Oiseaux is tucked into one of Vieux Nice's narrowest streets and has a different atmosphere to the loud bars of Rue de la Préfecture — quieter, more local, with jazz on certain evenings and a short wine list heavy on Niçois and Provençal producers. The name comes from the bird cages that used to decorate the facade; the cages are gone but the intimate feel remains.

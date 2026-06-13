@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1420
 longitude: 111.2200
+score: 7.4
 ---
 
 The Dongxiafeng archaeological site in Xia County, about 40 km northeast of Yuncheng, is one of the most significant early Bronze Age sites in China. Excavations have revealed a substantial settlement with evidence of organised copper smelting, craft production, and social stratification dating to approximately 2000–1500 BCE — placing it at or near the transition from the legendary Xia dynasty (if the Xia existed) to the historically attested Shang. The site's location in the Yuncheng basin, close to the salt lake, suggests that salt production may have been a driver of the region's early complexity.

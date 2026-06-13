@@ -9,6 +9,7 @@ tags:
 latitude: 35.30406
 longitude: 75.63957
 story: "Kharpocho — 'king of forts' in Balti — was built in the 16th century by Ali Sher Khan Anchan, the ruler of Baltistan who briefly conquered much of Ladakh and the surrounding mountain region. The fort stands on a 120-metre granite outcrop above the Indus River, commanding views of the entire Skardu valley; from its walls you can see the confluence of the Indus and Shigar rivers and, on clear days, the white mass of distant Karakoram peaks. The fort was never taken by force — it was surrendered in 1840 when Sikh forces from the east cut off its water supply."
+score: 8.1
 ---
 
 Skardu Fort, known locally as Kharpocho (meaning "king of forts" in Balti), sits on a dramatic 120-metre granite rock above the town of Skardu, overlooking the wide Indus valley. The fort was built in the 16th century and served as the seat of the rulers of Baltistan through the Mughal period and into the Sikh conquest of 1840. The ruins include several towers, walls, and a small mosque; much of the stonework has survived in reasonable condition despite centuries without systematic maintenance.

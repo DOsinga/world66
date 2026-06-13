@@ -8,6 +8,7 @@ latitude: 21.5631
 longitude: 88.2595
 story: >
   The beach at Bakkhali is one of the few stretches of the Bay of Bengal coast in West Bengal that faces roughly southeast, which means it catches the morning light differently from Digha or Mandarmani. Locals have a tradition of walking the beach at dawn before the fishermen bring their boats in — the combination of the open sea, the flat sand, and the distant silhouette of the fishing fleet in the early mist is something worth getting up for.
+score: 7.0
 ---
 
 Bakkhali beach stretches for several kilometers along the Bay of Bengal, broad and generally uncrowded compared to more accessible West Bengal resorts. The sand is darkish and firm, the waves are moderate, and the atmosphere is that of a working coastal community that also happens to receive visitors rather than a resort built around them. Fishing boats are pulled up on the beach, fishermen mend nets in the evenings, and the sunset over the water is reliably spectacular.

@@ -8,6 +8,7 @@ tags:
 - haitang_bay
 title: Haitang Bay
 type: poi
+score: 6.3
 ---
 
 Haitang Bay is the most recently developed of Sanya's main resort strips, lying about 35 kilometres east of central Sanya — even further than Yalong Bay. Construction here only began in earnest around 2010, and the result is a wide arc of beach lined with very large international hotels: Atlantis, Conrad, Park Hyatt, Shangri-La, Kempinski, and so on. The atmosphere is more sprawling and less compact than Yalong, with each resort sitting on its own substantial plot.

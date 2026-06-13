@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3067
 longitude: 26.1392
+score: 8.1
 ---
 
 Every Easter Saturday night in the village of Vrontados, on the northern edge of Chios town, two rival churches — Agios Markos and Panagia Erithiani — fire tens of thousands of homemade rockets at each other's bell towers. The aim, nominally, is to strike the opposing church's bell at midnight. The result is a firestorm of rockets arching through the sky above the village, with both churches conducting their Easter liturgy simultaneously while fireworks rain down around them.

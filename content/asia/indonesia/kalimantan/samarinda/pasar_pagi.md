@@ -9,6 +9,7 @@ latitude: -0.5017
 longitude: 117.1467
 sources:
   - https://en.wikipedia.org/wiki/Samarinda
+score: 6.9
 ---
 
 Pasar Pagi — the morning market — is Samarinda's main central market and the most vivid place to understand the city's role as a trading hub for the Mahakam interior. Stalls sell fresh river fish, jungle produce, rattan goods, Dayak handicrafts, spices, and the everyday provisions of urban Kalimantan life.

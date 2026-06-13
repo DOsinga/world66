@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.232
 longitude: 55.793
+score: 5.9
 ---
 
 Al-Hillah is the second Omani fort in the Buraimi area, a few kilometres south of the centre on the road to Mahdah. It is smaller than Al-Khandaq and less restored, but the walls and corner towers still stand and the structure is open to visit. Surrounding it are some of the older falaj-irrigated date plantations of the oasis.

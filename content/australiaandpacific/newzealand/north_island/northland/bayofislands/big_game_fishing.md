@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 story: "Zane Grey, the western novelist, made the Bay of Islands famous worldwide in the 1920s after catching a 450-kilogram broadbill swordfish off Cape Brett. His 1926 book Tales of the Angler's Eldorado is still read by sport fishermen, and the bay has hosted international tournaments almost every summer since."
+score: 6.0
 ---
 
 The Bay of Islands has been a serious big-game fishing destination since the 1920s, when Zane Grey arrived to chase striped marlin, broadbill swordfish, mako and yellowtail kingfish. The season runs from January to early May; striped marlin are the main quarry, with tag-and-release now standard practice.

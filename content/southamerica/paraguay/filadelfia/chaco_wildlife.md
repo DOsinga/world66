@@ -6,6 +6,7 @@ longitude: -60.0352
 tags:
 - things_to_do
 - wildlife
+score: 9.0
 ---
 
 Filadelfia is the main base for 4WD wildlife trips into the central and northern Chaco, including Defensores del Chaco National Park three to four hours' drive north. Local guides — most of them based out of the cooperative or one of the hotels — run multi-day expeditions to watering holes and salt pans where jaguar, puma, ocelot, giant anteater, Chacoan peccary, lowland tapir, and an extraordinary diversity of birdlife can be found.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -8.5747
 longitude: 116.0711
+score: 8.0
 ---
 
 Ampenan is the old port district at the western edge of Mataram, and the most historically atmospheric part of the conurbation. In the colonial era it was the main harbour, and the old town retains a quiet, slightly faded character — a grid of low buildings with Chinese shopfronts, a small Arab quarter, and occasional Dutch colonial structures.

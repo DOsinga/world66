@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The parish church of Santa Maria extra Muros sits just outside the line of the old walls — the Latin name simply means "Saint Mary outside the walls." The core of the building is eleventh-century, with substantial fifteenth-century alterations that gave it the current three-aisled plan.

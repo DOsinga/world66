@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 The city's main beach, on a small bay south of the centre, with calm clean water sheltered by headlands at both ends. It is not Balneário Camboriú — no high-rises, no commercial pier — but a relaxed neighbourhood beach with a couple of seafood restaurants on the sand.

@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 26.1820
 longitude: 91.7480
+score: 5.9
 ---
 
 The government-run state emporium on the edge of Pan Bazaar is the easiest place to shop for Assamese handicrafts at fixed prices. Stock includes muga and eri silk fabric and stoles, bell-metal water pots from Sarthebari, Jaapi (the conical bamboo Assamese hat used in folk dance), bamboo and cane crafts, and small wood carvings.

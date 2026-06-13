@@ -8,6 +8,7 @@ tags:
 - sight
 - natural_wonder
 story: Despite weighing an estimated 250 tonnes and resting on a slope at a steep angle, Krishna's Butterball has never moved — not when Pallava kings tried to dislodge it with elephants, not during the 2004 Indian Ocean tsunami, and not during centuries of attempts by local children to push it off. Engineers who have studied its geometry say the contact point is actually large enough to be stable, but the illusion of precariousness is so perfect that the mind refuses to believe it.
+score: 6.3
 ---
 
 Krishna's Butterball is a giant granite boulder about 6 metres in diameter, balancing on a smooth slope with a contact area that looks impossibly small. It sits in the main monument area, between the beachside Shore Temple and the inland Pancha Rathas, and is impossible to miss — it draws crowds of visitors posing against it for photographs that attempt to show the rock "rolling" off their hands.

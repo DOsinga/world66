@@ -15,6 +15,7 @@ story: >
   a technically radical choice in 1932. Corbusier intended the building as proof
   of concept for mass housing that was both rational and beautiful. It remains
   privately occupied; residents have lived inside the manifesto for 90 years.
+score: 7.4
 ---
 
 The Immeuble Clarté stands on rue Saint-Laurent, a short walk from the lake, and is one of the early masterpieces of European Modernism — and one of the least visited. Le Corbusier completed it in 1932 using a steel skeleton that allowed him to cover the entire facade in glass curtain walls, eliminating the traditional relationship between structure and skin. The building is small by current standards — six storeys, around 48 apartments — but it reads as a clear statement of principle.

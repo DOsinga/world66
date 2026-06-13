@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, diving, swimming]
 latitude: 42.3739
 longitude: 11.1170
 snippet: "Rocky peninsula with coves, harbour towns, and diving"
+score: 8.1
 ---
 
 What looks like an island from the mainland is in fact a peninsula tethered to Orbetello by its two tomboli. Monte Argentario rises to 635 m at Punta Telegrafo and falls in steep cliffs and small coves to the sea. The coast road that loops the peninsula is one of the great drives on the Tuscan coast — slow, sinuous and full of viewpoints.

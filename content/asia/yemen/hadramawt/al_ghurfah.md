@@ -5,6 +5,7 @@ snippet: "Small town near Shibam, known for its mud-brick architecture and palm 
 tags: [things_to_do, sight, town]
 latitude: 15.9167
 longitude: 48.7333
+score: 6.2
 ---
 
 Al-Ghurfah is a small settlement just east of Shibam, sitting amid the date palm groves that line the wadi floor. It is one of dozens of small towns along the lower Hadramawt that share the regional style of stamped-earth tower houses, but on a smaller, less spectacular scale than Shibam itself.

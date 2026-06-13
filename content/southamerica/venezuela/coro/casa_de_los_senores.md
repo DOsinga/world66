@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 11.4079
 longitude: -69.6785
+score: 6.9
 ---
 
 The House of the Lords of Curaçao was the residence of one of Coro's wealthiest 18th-century merchant families, with strong commercial ties to the nearby Dutch colony. The colour-washed façade with deep eaves and bulged window grilles is one of the photogenic stretches of Calle Zamora.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - square
+score: 6.9
 ---
 
 Place aux Herbes is the loveliest small square in old Nîmes — a triangular plaza in front of the cathedral, ringed by old town houses, cafés, and a small market on Saturday mornings. The trees provide shade in summer; the cafés put their tables out year-round.

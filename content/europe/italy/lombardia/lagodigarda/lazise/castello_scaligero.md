@@ -16,6 +16,7 @@ story: >
   lost power to the Visconti.
 sources:
   - https://en.wikipedia.org/wiki/Lazise
+score: 8.0
 ---
 
 The Castello Scaligero of Lazise is a 14th-century fortress with six square towers and a moat, dominating the lakeside edge of the historic centre. The walls and towers are in remarkably complete condition — the structure was never demolished or substantially altered, which is unusual for a castle of this age. The outer walls and the Scaligero town walls that extend from them can be walked, giving views over the rooftops and the lake.

@@ -8,6 +8,7 @@ tags:
 latitude: 56.1286
 longitude: -3.9369
 snippet: The 15th-century stone bridge over the Forth, successor to the wooden bridge of the 1297 battle
+score: 7.8
 ---
 
 The Stirling Old Bridge is a four-arched stone bridge across the River Forth, built in the late 15th century to replace the wooden bridge that William Wallace and Andrew Moray destroyed in the [1297 battle](/europe/unitedkingdom/scotland/stirling/wallace_monument). For four hundred years it was the only road crossing of the Forth for many miles upstream or downstream — which is why Stirling became the strategic key to the whole of Scotland.

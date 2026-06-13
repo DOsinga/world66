@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - kasba_peth
+score: 6.0
 ---
 
 A reconstructed red-brick palace on the site of the building where Shivaji spent his childhood from 1630. The original was destroyed in fighting between Maratha and Mughal forces; what stands today, opposite Shaniwar Wada, dates from the 1980s and houses dioramas, paintings, and tableaus depicting episodes from Shivaji's life.

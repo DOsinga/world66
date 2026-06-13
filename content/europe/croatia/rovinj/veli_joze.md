@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Long-established konoba in the old town, good for traditional Istrian pasta and grilled fish at honest prices"
+score: 6.2
 ---
 
 Named after a giant figure from Istrian folklore, Veli Jože is one of the most reliable spots in the old town for traditional Istrian cooking without the tourist-trap pricing that plagues some of the harbour-front restaurants. The interior is warm and informal, with wooden furniture and old photographs on the walls.

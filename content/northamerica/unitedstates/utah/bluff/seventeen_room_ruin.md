@@ -14,6 +14,7 @@ story: >
   its well-preserved walls — still standing several courses high in places —
   make it one of the most intact surface ruins accessible without a backcountry
   permit in the region.
+score: 7.3
 ---
 
 Just outside Bluff on the canyon walls above the San Juan River, a well-preserved Ancestral Puebloan ruin of around 17 rooms is tucked beneath a desert cliff. The site dates from the Pueblo II–III period (900–1300 CE) and retains several walls standing to roof height, with intact niches, doorways, and the remains of a kiva visible in the structure.

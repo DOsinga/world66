@@ -11,6 +11,7 @@ longitude: -2.7242
 snippet: Overgrown ruins of a 16th-century courtyard castle west of Banff
 sources:
   - https://www.atlasobscura.com/places/boyne-castle
+score: 7.2
 ---
 
 About 10 miles west of Banff, hidden in trees on a wooded promontory above the Burn of Boyne, sit the ruined walls of Boyne Castle — a substantial 16th-century courtyard fortress built by the Ogilvies of Boyne around 1580. It once had four corner towers and a wide moat fed by the burn, and was considered one of the more impressive non-royal castles of the northeast.

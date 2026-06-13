@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.7960
 longitude: -78.5780
+score: 7.4
 ---
 
 The Neuse River Greenway Trail runs for nearly 30 miles along the Neuse River from Falls Lake southeast toward Clayton, passing through woodlands, wetlands, and suburban parkland. The paved trail is open to cyclists, runners, and walkers, and the riverside sections in particular offer a genuine sense of distance from the city even when you are technically still within Raleigh's city limits.

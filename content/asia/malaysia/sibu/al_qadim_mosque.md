@@ -9,6 +9,7 @@ latitude: 2.292831
 longitude: 111.824953
 sources:
   - https://en.wikipedia.org/wiki/Al-Qadim_Mosque
+score: 5.9
 ---
 
 Al-Qadim Mosque is one of Sibu's older Muslim landmarks, standing close enough to the old centre to fit naturally into a market-and-river walk. Its value for visitors is less about spectacle and more about balance: Sibu's public face is often described through its Chinese temples and Foochow food, but the Malay and Muslim strand is just as real.

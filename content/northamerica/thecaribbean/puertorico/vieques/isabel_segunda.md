@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 18.1474
 longitude: -65.4426
+score: 6.5
 ---
 
 Isabel Segunda — Isabel II on signs — is where the ferry from Ceiba arrives and where Vieques's banks, government offices, and main supermarket are. The grid of streets above the dock has a handful of late-nineteenth-century houses worth a wander, and the fort on the hill is the obvious sight.

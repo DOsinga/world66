@@ -6,6 +6,7 @@ longitude: -24.9878
 tags:
   - things_to_do
   - museum
+score: 8.2
 ---
 
 The Centro Nacional de Arte, Artesanato e Design (CNAD) is Cape Verde's national centre for art, crafts and design, housed in a restored colonial mansion near the seafront. It opened in its current expanded form in 2021 and is the best place in the country to see contemporary Cape Verdean visual art alongside the historical craft tradition.

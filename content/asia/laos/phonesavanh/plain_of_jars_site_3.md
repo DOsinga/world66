@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - archaeology
+score: 8.5
 ---
 
 Site 3 is the most atmospheric of the three principal jar sites — about 150 jars on a forested hilltop reached by a short path through paddies and a bamboo bridge over a stream. The walk in, around twenty minutes from the road, weeds out the bus tours.

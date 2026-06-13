@@ -15,6 +15,7 @@ story: >
   warmth mulberry silk lacks. Bhagalpur's weavers have been producing it
   since at least the Mughal period; the city's silk once reached the courts
   of Delhi.
+score: 8.1
 ---
 
 Nathnagar, on the western edge of Bhagalpur, is the heart of the city's silk-weaving industry. The neighbourhood's streets are lined with small workshops where handlooms clack through the day, producing the distinctive Bhagalpuri Tussar silk — officially known as Bhagalpuri silk or Bhagalpuri fabric and recognised with a Geographical Indication tag.

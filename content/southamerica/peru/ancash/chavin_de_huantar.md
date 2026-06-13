@@ -11,6 +11,7 @@ story: >
   Chavín de Huántar was one of the first major pan-Andean ceremonial centres, predating the Inca by nearly 2,000 years. The site's most remarkable feature is its underground gallery system — a labyrinth of stone passages that converge on a 4.5-metre stone monolith called the Lanzón, a narrow carved figure combining human and feline features. The Lanzón was deliberately positioned so that priests above could speak through hidden channels and appear to give the idol a voice.
 sources:
   - https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar
+score: 8.8
 ---
 
 Chavín de Huántar is one of the great pre-Columbian archaeological sites of South America, a ceremonial complex built around 900 BC and used until around 200 BC. It served as the religious centre of the Chavín culture, which had influence across a vast area of what is now Peru. The site is a UNESCO World Heritage Site and stands at 3,177 metres above sea level in a valley about 110 kilometres from Huaraz.

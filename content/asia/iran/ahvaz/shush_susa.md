@@ -9,6 +9,7 @@ latitude: 32.1895
 longitude: 48.2574
 story: >
   Susa is mentioned in the Book of Daniel and the Book of Esther; it was the winter capital of Darius the Great and the city where Alexander the Great staged a mass wedding of his officers to Persian noblewomen in 324 BC. The Tomb of Daniel in the town is venerated by Jews, Christians, and Muslims alike — one of very few religious sites sacred to all three traditions.
+score: 8.7
 ---
 
 Shush, the modern town built over the ancient city of Susa, is one of the oldest continuously inhabited places on earth — people have lived here for at least 7,000 years. The archaeological site covers a vast area on the edge of town, and the small but worthwhile museum on site displays objects excavated from the royal palace and burial grounds, including the famous Code of Hammurabi stele (the original is in the Louvre; this is a cast).

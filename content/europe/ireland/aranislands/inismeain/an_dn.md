@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: An Dún
 type: poi
+score: 5.4
 ---
 
 A family-run restaurant open evenings only. Padraic and Theresa serve home-cooked meals using local ingredients, with fresh fish a regular highlight. On an island with very few dining options, An Dun is a reliable choice. Book ahead in summer as seats are limited.

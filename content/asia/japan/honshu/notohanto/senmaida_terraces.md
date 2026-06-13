@@ -11,6 +11,7 @@ snippet: "A cascade of over 1,000 tiny terraced paddies dropping to the Sea of J
 story: >
   Senmaida means "a thousand rice paddies." The terraces are so small that farmers have never been able to use machinery — each paddy must be planted and harvested entirely by hand. 
   Some are no bigger than a tatami mat. The site is maintained today partly by volunteers who adopt a paddy and tend it through the growing season.
+score: 8.5
 ---
 
 The Senmaida terraces on the western coast of the Noto Peninsula are among Japan's most photographed agricultural landscapes. More than a thousand tiny paddies cascade down a hillside to the sea in irregular steps, each flooded and planted by hand every summer. In late spring the water-filled paddies reflect the sky; in autumn the cut stalks turn the hillside gold.

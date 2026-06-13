@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_centre
 story: "The Ipatiev House — where Nicholas II, Empress Alexandra and their five children were shot and bayoneted in the cellar on the night of 16/17 July 1918 — stood on this site until 1977, when then-regional Communist Party boss Boris Yeltsin had it bulldozed. Yeltsin later admitted in his memoirs that the order made him uneasy. The cathedral that replaced the house opened in 2003."
+score: 8.2
 ---
 
 A vast white-and-gold Russian Orthodox cathedral built on the site of the Ipatiev House, where the Romanov family were executed in 1918. The lower church marks the cellar where the killings took place; the upper church is a soaring full-scale cathedral with bright iconography painted by the same workshop that worked on the Cathedral of Christ the Saviour in Moscow.

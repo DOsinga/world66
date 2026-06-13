@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 8.2
 ---
 
 The Secretariat is the longest building in the Capitol Complex — a 254-metre slab eight storeys high housing the bureaucracies of both Punjab and Haryana. The relentless grid of concrete brise-soleil on the southern facade gives the building a rhythm best appreciated from the plaza side; up close it is almost punishingly large.

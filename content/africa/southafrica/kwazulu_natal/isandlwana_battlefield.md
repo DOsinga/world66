@@ -11,6 +11,7 @@ story: >
   On 22 January 1879, a Zulu army of roughly 20,000 warriors destroyed a British imperial force of 1,300 at Isandlwana — the worst defeat suffered by the British army at the hands of an indigenous force in the entire colonial era. The British, armed with rifles and artillery, were outmanoeuvred by Zulu tactics. The white cairns marking the graves of the fallen still stand in the long grass below the sphinx-shaped hill.
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Isandlwana
+score: 8.6
 ---
 
 Isandlwana is the site of the most dramatic military defeat in British colonial history. On a January morning in 1879, a Zulu force outflanked and overwhelmed a British camp at the base of a distinctive sphinx-shaped hill, killing over 1,300 imperial troops and their African allies. The battlefield has been preserved remarkably well — the white cairns marking mass graves of the fallen are still scattered across the hillside, and the landscape looks much as it did that day.

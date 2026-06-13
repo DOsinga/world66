@@ -8,6 +8,7 @@ tags:
 latitude: 50.4261
 longitude: 16.1944
 story: "The Prussian victory here on 27 June 1866 was the first major action of the Austro-Prussian War. Three days later the Austrians lost again at Königgrätz, and the political balance of central Europe tipped decisively toward Berlin and the future German Empire."
+score: 5.8
 ---
 
 On the ridge above Václavice, a few kilometres east of town, stand the monuments to the soldiers killed in the Battle of Náchod. Several stone obelisks and crosses are scattered across the battlefield, marking mass graves and individual regiments — both Austrian and Prussian.

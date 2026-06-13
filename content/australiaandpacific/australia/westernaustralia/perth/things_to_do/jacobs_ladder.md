@@ -8,6 +8,7 @@ tags:
 latitude: -31.9518
 longitude: 115.8388
 story: "Jacob's Ladder's 242 steps up the Kings Park escarpment have been used for fitness training by Perth athletes for generations, but its real fame in fitness circles extends worldwide: the steps became a legendary training site partly because of their use by Australian rules football teams and distance runners, and the staircase appears regularly in lists of the most brutal outdoor workout spots in Australia."
+score: 5.7
 ---
 
 Jacob's Ladder is a long, steep staircase that climbs the limestone escarpment from Malcolm Street in West Perth up to Kings Park, covering the equivalent of several storeys in a direct vertical assault. The 242 steps are concrete, utilitarian, and punishing — which is exactly the point. Perth's fitness enthusiasts have been running up and down this staircase for decades, and on any given morning you will find a steady stream of people going up and down as part of their training routines, many of them looking significantly more athletic than you feel watching them.

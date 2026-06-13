@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, shopping]
 latitude: 6.9300
 longitude: 0.6280
+score: 6.2
 ---
 
 About five kilometres north of Kpalimé on the road to Klouto, the Centre Artisanal is a workshop and showroom where local craftsmen produce batik fabrics, wood carvings, and woven baskets. You can watch the wax-resist dyeing in progress and buy directly from the makers.

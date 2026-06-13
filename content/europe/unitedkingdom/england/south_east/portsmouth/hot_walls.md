@@ -8,6 +8,7 @@ tags:
   - sight
   - old_portsmouth
 neighbourhood: Old Portsmouth
+score: 7.8
 ---
 
 The seaward face of the old Tudor and Georgian fortifications, now a flat stone-paved promenade running from the Round Tower south to the Square Tower. The name comes from the heated cannonballs (used to set enemy ships alight) once stored in furnaces inside the wall.

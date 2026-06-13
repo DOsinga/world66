@@ -9,6 +9,7 @@ latitude: 51.8435
 longitude: 12.2215
 sources:
   - https://en.wikipedia.org/wiki/Meisterh%C3%A4user
+score: 8.9
 ---
 
 A short walk north of the Bauhaus Building, the Meisterhäuser are a row of semi-detached houses Gropius designed for the school's master teachers. Paul Klee, Wassily Kandinsky, László Moholy-Nagy, and Lyonel Feininger all lived here during the Dessau years, and the cluster feels both domestic and experimental — flat roofs, large windows, simple white volumes, interiors that put the Bauhaus workshop output on display in a lived context.

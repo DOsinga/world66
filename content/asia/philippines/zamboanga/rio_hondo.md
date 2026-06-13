@@ -7,6 +7,7 @@ tags:
 latitude: 6.9070
 longitude: 122.0867
 story: "Rio Hondo and the neighbouring Mariki village are the largest urban Sama-Bajau settlements in the Philippines. The Sama-Bajau are sometimes called 'sea gypsies' for their traditional life on boats and over the water — many families here have ancestral ties stretching from Tawi-Tawi up through Sabah and into eastern Indonesia."
+score: 7.5
 ---
 
 Just east of Fort Pilar, the wooden Muslim quarter of Rio Hondo is built out over the tidal flats on stilts, a maze of plank walkways linking houses, small mosques, and shops that hover a metre above the water. It is one of the most photographed corners of Zamboanga and a glimpse of a traditional Sama-Bajau community living in the centre of a city of a million.

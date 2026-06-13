@@ -14,6 +14,7 @@ story: >
   Revocation of the Edict of Nantes in 1685 took bottles with them to the Netherlands, and
   it was Dutch merchants who first turned Monbazillac into an internationally traded
   luxury. The château now belongs to the local growers' cooperative.
+score: 7.9
 ---
 
 The Château de Monbazillac sits on a low hill seven kilometres south of Bergerac, with the vineyards of the Monbazillac appellation falling away on every side. The building, finished in 1550, is a transitional work — a fortified manor with corner towers and crenellations, but also Renaissance windows, dormers, and slate roofs.

@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Restoran Cibalae
 type: poi
+score: 5.7
 ---
 
 Cibalae is the most cited restaurant in Vinkovci for traditional Slavonian food, named after the Roman city whose ruins lie beneath the modern streets. The menu focuses on regional specialities: fiš paprikaš (fish stew with river carp, heavily spiced with paprika), čobanac (shepherd's stew of mixed meats with hot paprika), kulen served as a starter, and roasted meats of various kinds.

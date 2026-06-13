@@ -15,6 +15,7 @@ tags:
 - museum
 title: Coventry Transport Museum
 type: poi
+score: 8.7
 ---
 
 The largest collection of British road vehicles under one roof, and one of the genuinely great free museums in England. The Transport Museum traces Coventry's history as the cradle of the British motor industry, from the penny-farthings and safety bicycles of the 1880s — Coventry produced the first production bicycles in Britain — through the Daimler, the Jaguar, and the Triumph, to the present day.

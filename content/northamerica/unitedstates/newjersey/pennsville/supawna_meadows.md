@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - wildlife
+score: 7.4
 ---
 
 Just south of Pennsville, Supawna Meadows is 3,000 acres of tidal salt marsh, freshwater wetland, and woodland set aside as a stopover for migrating waterfowl on the Atlantic Flyway. The refuge has a 1.5-mile interpretive trail (the Grassland Trail) and an observation platform that overlooks the marsh, with a good chance of spotting herons, egrets, ospreys, and bald eagles. Late autumn and early spring are the most rewarding times, when migrating ducks and geese pass through in the thousands.

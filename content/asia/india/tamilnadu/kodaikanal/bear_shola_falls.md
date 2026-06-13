@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2404
 longitude: 77.4748
+score: 6.2
 ---
 
 Bear Shola Falls, about 2 km from Kodai Lake, is a small waterfall in a shola forest gully that used to attract bears — hence the name. The bears are long gone, but the forest setting survives and the short walk down to the falls is pleasant. After the monsoon the falls run well; in the dry season they shrink to a trickle.

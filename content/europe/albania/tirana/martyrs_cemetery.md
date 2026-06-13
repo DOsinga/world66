@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - memorial
+score: 6.6
 ---
 
 A communist-era memorial cemetery on a hill above the city's eastern edge, where partisans killed in World War II are buried. The site is dominated by a colossal statue of Mother Albania (Nëna Shqipëri), her sword raised over the rows of identical white headstones.

@@ -9,6 +9,7 @@ latitude: 24.4475
 longitude: 118.0625
 story: >
   Zheng Chenggong — Koxinga — is one of the most politically contested figures in East Asian history. He is simultaneously a Chinese national hero (for resisting the Qing conquest), a Taiwanese national hero (for establishing the first Han Chinese state on Taiwan), and a figure claimed by both sides in the ongoing dispute about Taiwan's political status. The memorial on Gulangyu sits in a landscape that he actually used as a military base, which gives it a specificity that many memorial halls lack.
+score: 4.4
 ---
 
 The Koxinga Memorial Hall commemorates Zheng Chenggong, the Ming loyalist commander who used Gulangyu and the surrounding Xiamen waters as his base during the decades-long resistance to Qing conquest in the 17th century. The hall contains maps, weapons, and artifacts relating to his campaigns, including the 1661-62 expedition that expelled the Dutch East India Company from Taiwan — an event that changed the course of Taiwanese history.

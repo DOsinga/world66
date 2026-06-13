@@ -9,6 +9,7 @@ latitude: 33.1363
 longitude: -117.0736
 story: >
   Niki de Saint Phalle, who made this garden her final major work, chose Escondido because the name means "hidden" in Spanish — fitting for a sculptor whose career was built around surprising people with the unexpected. She died in 2002, just a year after the garden opened, having seen it finished.
+score: 8.2
 ---
 
 Queen Califia's Magical Circle is an outdoor sculpture garden in Kit Carson Park designed by the French-American artist Niki de Saint Phalle and completed in 2003. It is free to enter and consistently ranks among the most underrated public art installations in California.

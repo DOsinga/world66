@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 32.25
 longitude: -106.83
+score: 6.8
 ---
 
 The Mesilla Valley Bosque State Park preserves a stretch of Rio Grande cottonwood woodland — the bosque — along the river south of Las Cruces. The bosque ecosystem once lined the entire Rio Grande through New Mexico and now survives only in fragments; this is one of the better-preserved stretches in the southern part of the state. In autumn, the cottonwoods turn a luminous gold that rivals any fall colour display in the region.

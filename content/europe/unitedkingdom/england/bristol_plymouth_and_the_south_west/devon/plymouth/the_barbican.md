@@ -7,6 +7,7 @@ tags:
 latitude: 50.3671
 longitude: -4.1376
 snippet: Plymouth's Elizabethan waterfront — cobbled lanes, Tudor buildings, the old fish market
+score: 8.5
 ---
 
 The Barbican is the historic heart of Plymouth, a dense cluster of cobbled streets, timber-framed Tudor buildings, and old warehouses that survived both the 17th-century plague and the 1941 Blitz. It occupies the inner harbour area around Sutton Pool, which was Plymouth's working port for centuries, and the contrast with the bland postwar city centre above is immediate.

@@ -8,6 +8,7 @@ tags:
 - museum_district
 title: Museum of Fine Arts Houston
 type: poi
+score: 9.0
 ---
 
 The Museum of Fine Arts, Houston (MFAH) is the largest art museum in the American south, occupying multiple buildings on Bissonnet Street in the Museum District connected by an underground tunnel designed by Isamu Noguchi. The permanent collection spans 6,000 years and 70,000 works, with particular strength in American art, Latin American art, decorative arts, and photography.

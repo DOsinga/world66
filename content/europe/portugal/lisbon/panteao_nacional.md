@@ -15,6 +15,7 @@ story: >
   idiom for any project that never gets finished. The dome was finally added in
   the 1960s under the Estado Novo regime, which promptly used the completed
   building to inter Salazar's favourite collaborators.
+score: 7.0
 ---
 
 A remarkable Baroque church in the Alfama that took 284 years to complete, now serving as Portugal's national pantheon — the burial place of presidents, explorers, and cultural figures. The white interior, with its vast central dome and polished pink marble floor, is one of the finest Baroque spaces in Portugal.

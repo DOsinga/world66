@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -0.1350
 longitude: 34.7200
+score: 6.9
 ---
 
 Hippo Point is the standard sunset destination in Kisumu — a small promontory on the south side of the city where you can sit and watch the sun go down over Lake Victoria while hippos surface and submerge in the shallows below. The light on the water in the hour before sunset is genuinely beautiful, and on a clear day you can see across to the islands.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Compact casino on the lakefront
+score: 4.4
 ---
 
 The smallest of New Zealand's SkyCity casinos, on Beach Street in the centre of town, with about a dozen tables and 80 gaming machines across two floors. It opened in December 2000 and works to the same model as the larger Auckland operation: free entry, smart-casual dress code, a reasonable restaurant on site.

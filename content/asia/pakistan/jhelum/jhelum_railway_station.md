@@ -17,6 +17,7 @@ tags:
 - architecture
 title: Jhelum Railway Station
 type: poi
+score: 6.6
 ---
 
 Jhelum Railway Station opened in the 1870s as part of the British push to extend the rail network from Lahore towards Peshawar and the frontier. The whitewashed station building is still in daily use — a long, low structure with a row of arched openings along the road side and deep platform canopies to keep the heat off passengers.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.5
 ---
 
 A trio of small tiled domes rising over a walled compound near the bazaar, the Moshtaghieh marks the burial place of three Sufi mystics from the Nematollahi order, the best known being the 18th-century poet and dervish Moshtaq Ali Shah, who was stoned to death by a hostile clergy in 1791. The site became a centre of Sufi pilgrimage in the 19th century, and the present domes — covered in turquoise, lapis, and yellow tile work — were added in the Qajar period.

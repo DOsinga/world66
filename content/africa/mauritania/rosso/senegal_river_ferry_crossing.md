@@ -8,6 +8,7 @@ latitude: 16.5118
 longitude: -15.8055
 sources:
   - https://en.wikipedia.org/wiki/Rosso
+score: 7.4
 ---
 
 The bac — the vehicle ferry that crosses the Senegal River between Mauritanian Rosso and Senegalese Rosso — is the main reason most travellers come here. It is a slow, flat-bottomed pontoon that carries cars, trucks, and foot passengers across the wide brown river, and it operates during daylight hours only. Pirogues (dugout motorboats) ferry pedestrians across more quickly and cheaply and run throughout the day.

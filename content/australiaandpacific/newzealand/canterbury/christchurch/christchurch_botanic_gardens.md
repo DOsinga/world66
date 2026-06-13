@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: -43.5261
 longitude: 172.6264
+score: 8.8
 ---
 
 The Botanic Gardens occupy 30 hectares within the larger 164-hectare Hagley Park and together they form one of the best urban green spaces in the southern hemisphere. The Avon River curves through both, willows trailing into the water, and the combination of formal garden beds, rolling meadows, and specimen trees creates a place that feels genuinely large even when it is busy. The rose garden is spectacular in December and January; the New Zealand native plant collections are interesting year-round.

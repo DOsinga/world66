@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu de Arte da Pampulha
 type: poi
+score: 7.9
 ---
 
 The Museu de Arte da Pampulha occupies the original Pampulha Casino building — Niemeyer's most striking work on the lake after the church. The casino opened in 1943, was closed within four years by a national ban on gambling, and was eventually converted into the city's main modern art museum.

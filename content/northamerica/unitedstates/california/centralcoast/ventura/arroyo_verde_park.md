@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 6.1
 ---
 
 Arroyo Verde Park is a forested canyon on the north side of Ventura where the city gives way quickly to something that feels genuinely wild. The canyon runs back into the hills through a riparian corridor of oak and sycamore — large, old trees that close over the trail and keep the lower sections cool even in summer. Several trails climb out of the canyon bottom and up onto the open chaparral-covered ridges, where the views extend south over the city and out to the Channel Islands.

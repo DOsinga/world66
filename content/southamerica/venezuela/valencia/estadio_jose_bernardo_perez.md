@@ -8,6 +8,7 @@ tags:
 - sight
 title: Estadio José Bernardo Pérez
 type: poi
+score: 6.2
 ---
 
 The Estadio José Bernardo Pérez is the principal sporting venue of Valencia, used for baseball — the dominant sport here — and football. The stadium opened in 1955 and has been renovated several times; current capacity is around sixteen thousand, with floodlights that make for raucous evening fixtures.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.6947
 longitude: 84.9906
+score: 8.0
 ---
 
 The Archaeological Museum at Bodh Gaya houses a collection of Buddhist and Brahmanical antiquities recovered from the site and its surroundings, mostly belonging to the Pala period (8th to 12th centuries). The Palas were the last great Buddhist dynasty of India, and under their patronage Bodh Gaya became one of the foremost centres of Buddhist scholarship and art in Asia.

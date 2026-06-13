@@ -10,6 +10,7 @@ story: >
   The "upper pagoda" was built on the highest hill above Sihanoukville so that
   fishermen returning from the gulf could see it long before they sighted the
   port — a lighthouse made of paint and gold rather than light.
+score: 7.5
 ---
 
 Wat Leu (the "Upper Pagoda") sits on a forested hill 130 metres above the town and is the spiritual centre of Sihanoukville. The walk or short ride up leads through a Buddhist forest monastery with several brightly painted shrine halls, a large reclining Buddha, and resident macaques.

@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Serious steakhouse in the Eichardt's hotel
+score: 6.8
 ---
 
 The steakhouse downstairs at Eichardt's Hotel — heavy joinery, leather banquettes, an open grill in the back. The beef is dry-aged, mostly Otago and Canterbury, and the cuts arrive simply seasoned with a choice of butters and side sauces. Sides of bone marrow, beef-dripping potatoes, and creamed corn round it out.

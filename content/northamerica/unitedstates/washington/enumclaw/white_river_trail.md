@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.1870
 longitude: -122.0280
+score: 6.2
 ---
 
 The White River drains the northeastern face of Mount Rainier and runs through the Enumclaw valley before joining the Puyallup River. The river corridor offers accessible hiking and fishing close to town, with several trail sections open for mountain biking as well. In summer the river runs milky green from glacier melt, in winter it can run heavy with rain.

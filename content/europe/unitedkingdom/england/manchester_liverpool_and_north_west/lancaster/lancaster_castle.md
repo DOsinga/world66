@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Lancaster_Castle
   - https://en.wikipedia.org/wiki/Pendle_witches
+score: 9.2
 ---
 
 The castle sits at the top of the hill in the oldest part of the city, above the Priory Church, and dominates the skyline. It has Norman origins — the keep dates from the 12th century — but most of what you see is medieval and later, including the grand John of Gaunt gatehouse. The castle is still a functioning Crown Court, which means access to parts of the interior is controlled, but guided tours take in the historic courtroom where the Pendle Witches were tried in 1612, the cells, the drop room used for executions, and the dungeons.

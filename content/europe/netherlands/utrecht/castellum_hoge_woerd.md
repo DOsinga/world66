@@ -6,6 +6,7 @@ longitude: 5.0489
 tags:
 - things_to_do
 - museum
+score: 7.5
 ---
 
 A reconstructed Roman fort in the Leidsche Rijn district on the western outskirts of Utrecht, built on the exact site of a 1st-century castellum that once guarded the northern frontier of the Roman Empire. The modern building recreates the fort's footprint and houses a museum displaying archaeological finds from the site, including a remarkably preserved Roman ship excavated from the clay beneath.

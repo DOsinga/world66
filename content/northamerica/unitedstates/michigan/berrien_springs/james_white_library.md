@@ -6,6 +6,7 @@ longitude: -86.3585
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The James White Library is the main academic library at Andrews University, named for the husband of Ellen G. White, one of the founders of the Seventh-day Adventist Church. The library houses the Center for Adventist Research, which holds the largest collection of Ellen G. White's original manuscripts, letters, and diaries anywhere in the world.

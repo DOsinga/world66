@@ -12,6 +12,7 @@ tags:
   - sight
 title: Cardigan Bay
 type: poi
+score: 7.7
 ---
 
 The bay that Aberystwyth faces is one of the largest in Wales, curving south toward Pembrokeshire and north to the Llŷn Peninsula. It is also one of the richest wildlife habitats on the British coast: a Special Area of Conservation, home to year-round bottlenose dolphins, Atlantic grey seals, and harbour porpoises, as well as excellent sea fishing.

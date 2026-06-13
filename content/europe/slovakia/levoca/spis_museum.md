@@ -7,6 +7,7 @@ tags:
 latitude: 49.0255
 longitude: 20.5874
 snippet: "Permanent exhibition on Master Pavol of Levoča in his presumed home"
+score: 7.1
 ---
 
 A small but rewarding museum dedicated to Master Pavol of Levoča, the woodcarver responsible for the St. James altar. It occupies a 15th-century burgher's house on the western side of the square, traditionally identified as the master's home and workshop, and is now a branch of the Spiš Museum.

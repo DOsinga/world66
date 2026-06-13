@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Annual September festival showcasing American cinema, since 1975"
+score: 6.8
 ---
 
 The Festival du Cinéma Américain has run every September since 1975, taking over the casino's CID conference centre and the Morny cinema for ten days of American screenings, premieres, and red-carpet evenings. Unlike Cannes or Venice, the festival is non-competitive in its main strand — it is more an annual celebration of US film, with retrospectives, tributes and a competition for independent debut features.

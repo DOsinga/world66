@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: Pre-Raphaelite, John Martin, and the cream of north-eastern painting
+score: 8.2
 ---
 
 A quiet, manageable Edwardian art gallery a block off Northumberland Street. Strong on Pre-Raphaelites (Holman Hunt, Burne-Jones, Rossetti), the apocalyptic painter John Martin (a Newcastle native), and 18th- and 19th-century glass and silver from local makers. The collection is small enough to see properly in an hour and varied enough that there is something for everyone.

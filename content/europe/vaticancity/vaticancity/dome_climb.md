@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 - viewpoint
+score: 9.3
 ---
 
 The dome of St. Peter's was designed by Michelangelo and completed (with modifications) by Giacomo della Porta in 1590. At 136 metres from the floor of the basilica to the top of the cross, it is the tallest dome in the world. From inside the basilica, the dome rises above the high altar; the inscription around the base — *TU ES PETRUS ET SUPER HANC PETRAM AEDIFICABO ECCLESIAM MEAM* — is two metres tall.

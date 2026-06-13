@@ -7,6 +7,7 @@ snippet: Step inside one of the working mills, furnished as a miller's home
 tags:
 - things_to_do
 - museum
+score: 8.2
 ---
 
 Nederwaard Molen No. 2 is the most accessible of the open mills — built in 1738, restored, and furnished as the home of the miller, his wife and their twelve or so children who would have lived there. The kitchen, the box-beds, the looms and tools are arranged on three cramped wooden floors, with the grinding gears churning overhead.

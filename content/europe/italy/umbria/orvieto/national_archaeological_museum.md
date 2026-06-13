@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.71692
 longitude: 12.11426
+score: 7.4
 ---
 
 Located in the Palazzo Soliano next to the cathedral, the National Archaeological Museum focuses on finds from two major Etruscan sites around Orvieto: the Belvedere Temple and the Crocifisso del Tufo necropolis. The collection is smaller and more focused than the Faina museum but valuable for understanding the Etruscan city that once occupied this plateau.

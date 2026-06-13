@@ -7,6 +7,7 @@ tags:
 latitude: 19.2932
 longitude: -81.3838
 story: "The building was Cayman's first courthouse, jail, post office, and dance hall — all in the same room, all at different times of the same week. Trials in the morning, dances at night, the jail upstairs. The museum's old courtroom is preserved with its original wooden benches and a hand-cranked switchboard."
+score: 8.0
 ---
 
 The country's main museum, housed in the Old Courts Building on Harbour Drive — a wood-and-coral-stone structure dating from the 1830s that has been at various times the courthouse, jail, post office, and church meeting hall. The exhibits cover the seafaring, turtle-fishing, and shipbuilding history of the islands, plus a serious natural-history section with corals, fossils, and a 15-foot saltwater crocodile skeleton.

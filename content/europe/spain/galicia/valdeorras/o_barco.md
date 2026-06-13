@@ -14,6 +14,7 @@ tags:
 - sight
 title: "O Barco de Valdeorras"
 type: poi
+score: 5.8
 ---
 
 O Barco de Valdeorras is the commercial and administrative centre of the comarca, a workday town of around 8,000 people on the banks of the Sil. It's not a place of grand monuments — the main square, the market hall, and a handful of wine bars and restaurants are what you'll find — but it has an honest, unpretentious energy that makes it a comfortable base. The weekly market draws farmers and winemakers from across the valley and is a good place to buy local cheese, charcuterie, and the occasional bottle of Godello at producer prices.

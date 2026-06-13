@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 story: "Umberto Eco set part of Foucault's Pendulum in these tunnels — his characters speculate that the Templars had used them as a secret meeting place. The graffiti carved into the soft chalk walls is genuinely impressive: medieval merchants' marks, masonic symbols, and what some interpret as alchemical signs."
+score: 8.4
 ---
 
 A network of tunnels carved into the soft limestone beneath the upper town, accessed from the basement of the former Hôtel-Dieu (the medieval hospital) on Allée des Marronniers. The known network covers about 20 kilometres, though most of it is closed to visitors; the public tour covers a small but representative section.

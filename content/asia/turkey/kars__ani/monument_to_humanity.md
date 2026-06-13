@@ -8,6 +8,7 @@ latitude: 40.611
 longitude: 43.086
 snippet: The site where a controversial peace monument stood before its demolition in 2011
 story: The Monument to Humanity was a 30-metre-tall sculpture by Turkish artist Mehmet Aksoy commissioned in 2006 as a gesture of Turkish-Armenian reconciliation — two halves of a human figure reaching toward each other across a divide. Before it was completed, Prime Minister Erdogan called it 'ugly' and 'strange', and in 2011 the city demolished it. The sculpture, intended as a symbol of peace between Turkey and Armenia, became instead a symbol of the ongoing denial and difficulty surrounding the Armenian genocide.
+score: 4.6
 ---
 
 The site where the Monument to Humanity stood is now an empty plinth in Kars, a peculiar kind of monument in itself — an absence that speaks louder than the sculpture that was there. The work was commissioned by the Kars municipality in 2006 as a symbolic gesture toward Turkish-Armenian reconciliation, depicting two halves of a stylised human figure reaching toward each other across a vertical divide.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, riverfront]
 latitude: 52.2900
 longitude: 76.9450
+score: 7.2
 ---
 
 The Irtysh Embankment is Pavlodar's best everyday walk. Locals come here for air, views, benches, summer evenings, and the simple pleasure of being beside a big Siberian river.

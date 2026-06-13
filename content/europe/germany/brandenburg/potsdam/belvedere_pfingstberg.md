@@ -16,6 +16,7 @@ story: >
   on a grass-roots restoration, funded entirely by entrance fees and donations.
 sources:
   - https://en.wikipedia.org/wiki/Pfingstberg_in_Potsdam
+score: 8.1
 ---
 
 The Belvedere auf dem Pfingstberg is one of Potsdam's best-kept secrets — a pair of Italianate towers on a wooded hill north of the Dutch Quarter, offering the most panoramic views in the city. Frederick William IV designed the complex himself in the 1840s, modelling it on Italian Renaissance villas, but construction was never completed. The towers and terraced gardens were restored after reunification by a local citizen group.

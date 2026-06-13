@@ -14,6 +14,7 @@ story: >
   monks for over a thousand years. At various points in their history they were also used by
   Tibetan Buddhist communities, and the mix of Han and Tibetan iconography inside reflects that
   layered history.
+score: 8.7
 ---
 
 Mati Si is a complex of cave temples carved into a sheer cliff face south of Zhangye, in the Qilian Mountains foothills at about 2,000 metres altitude. The grottoes are connected by tight vertical passages cut through the rock, with ladders and narrow tunnels linking chambers stacked up the cliff at several levels. The interior spaces contain Buddhist statues, painted murals, and carvings in various states of preservation, some dating to the fifth century.

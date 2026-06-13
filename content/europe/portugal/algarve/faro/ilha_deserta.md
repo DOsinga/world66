@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.9667
 longitude: -7.9833
 snippet: "The southernmost point of mainland Portugal — an empty barrier island"
+score: 8.0
 ---
 
 Officially called Ilha da Barreta, the 'Deserted Island' lives up to the name. A seven-kilometre strip of sand and dune with no houses, no cars and a single solar-powered restaurant (Estaminé) at its eastern end, it is the southernmost point of mainland Portugal — the Cabo de Santa Maria lighthouse stands at the tip.

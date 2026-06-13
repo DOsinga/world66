@@ -8,6 +8,7 @@ tags:
 - hiking
 latitude: -41.275
 longitude: 174.015
+score: 7.1
 ---
 
 The Snout Track is the easy day walk straight out of Picton, running along the long forested ridge that forms the eastern side of the harbour entrance. The full walk to the tip of the Snout and back is about three and a half hours; most people turn around at the Queen Charlotte View lookout an hour up, which gives 90 per cent of the view for half the time.

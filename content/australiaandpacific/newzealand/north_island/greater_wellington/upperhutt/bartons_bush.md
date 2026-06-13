@@ -7,6 +7,7 @@ tags:
   - park
 latitude: -41.1219
 longitude: 175.0639
+score: 7.0
 ---
 
 Bartons Bush in the suburb of Trentham is one of the last intact stands of lowland podocarp forest remaining in the Wellington region. The ancient rimu and kahikatea trees here predate European settlement by centuries — these are the same forest giants that once covered the valley floors from end to end before the land was cleared for farming and housing.

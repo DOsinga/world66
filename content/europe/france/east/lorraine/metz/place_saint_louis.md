@@ -6,6 +6,7 @@ longitude: 6.1760
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Place Saint-Louis is the heart of medieval Metz — a long, triangular square framed by 15th- and 16th-century arcaded houses, their stone columns shaping a pedestrian arcade that runs the length of the square. It was the city's main commercial centre in the Middle Ages, when money changers worked under the arches. Some of the houses still carry small carved figures and dates marking their original owners.

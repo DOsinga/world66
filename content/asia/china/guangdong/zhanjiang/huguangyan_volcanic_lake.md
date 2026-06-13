@@ -14,6 +14,7 @@ story: >
   perfectly circular basin now filled with water. Scientists have cored the lake
   sediments to extract a 140,000-year climate record from the pollen and
   microscopic organisms preserved in the layers.
+score: 8.2
 ---
 
 Huguangyan Lake, about 20 kilometres southwest of the city, sits in a volcanic crater and is a UNESCO Global Geopark site. The lake is circular, unusually blue, and surrounded by basalt formations recording eruptions from across the past 140,000 years. The contrast between the calm water surface and the evidence of violent geological events in the rock around it gives the place a quietly unsettling quality.

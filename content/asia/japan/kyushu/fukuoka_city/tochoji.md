@@ -11,6 +11,7 @@ story: >
   Tōchō-ji was established in 806 by the monk Kūkai (Kōbō Daishi) after he returned from his studies in Tang China — it is considered the first Shingon Buddhist temple in Japan. Kūkai went on to found the major monastic centre at Kōyasan in Wakayama, making this Fukuoka temple an obscure but historically significant starting point for one of Japan's major Buddhist traditions.
 sources:
   - https://en.wikipedia.org/wiki/T%C5%8Dch%C5%8D-ji
+score: 8.1
 ---
 
 Tōchō-ji is a Shingon Buddhist temple in the narrow streets of old Hakata, best known for housing Japan's largest seated wooden Buddhist statue. The figure of Fukuoka Daibutsu, completed in 1992, stands seven metres tall and is carved from Japanese cypress; the gilded surface reflects the dim light of the hall in a way that makes the scale difficult to judge on first entry. Below the statue is a short pitch-dark tunnel (similar to the one at Zenkō-ji in Nagano) where visitors grope along the wall to find a sacred stone wheel — an act representing rebirth.

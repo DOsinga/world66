@@ -4,6 +4,7 @@ tags: [things_to_do, sight, historic_site]
 latitude: 52.6795
 longitude: 13.5835
 type: poi
+score: 5.7
 ---
 
 The Werdertor, on the western side of the old town, is the smallest and most slender of Bernau's three surviving gates. Its narrow round arch and compact red-brick tower give it a more delicate character than the Steintor — it looks almost too slight to have ever defended anything. The gate dates from the 14th century and was once connected to the town wall that enclosed the entire medieval settlement.

@@ -14,6 +14,7 @@ story: >
   imagination the haiduci represent both Romanian resistance and the forest life of the
   mountains. Coliba Haiducilor has kept this romantic mythology alive through four
   decades of food service.
+score: 5.7
 ---
 
 The Outlaws' Hut (Coliba Haiducilor in Romanian) has been serving traditional Romanian mountain food since the early 1980s, and regulars argue it is the best of its kind in the country. The décor leans heavily into the haiduc outlaw theme — rough-hewn wood, animal skins, folk artefacts on the walls — and the menu matches: sarmale (stuffed cabbage rolls), mici (grilled meat rolls), ciorbă de burtă (tripe soup, a hangover cure and national institution), and slow-braised lamb.

@@ -16,6 +16,7 @@ story: >
   hotel inspired her best work. The sugar-loaf roof and red-shingle turrets have appeared in
   so many postcards that the building has become the default visual shorthand for Southern
   California history.
+score: 8.2
 ---
 
 The Hotel del Coronado is a National Historic Landmark on the beach at Coronado, built in 1888 from wood by a crew that worked from architect's sketches delivered one floor at a time — because the drawings weren't finished before construction began. The result is a rambling Victorian confection of turrets, cupolas, and verandas that stretches along the beachfront for nearly a quarter-mile.

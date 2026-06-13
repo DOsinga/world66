@@ -11,6 +11,7 @@ story: >
   Emperor Ashoka originally built a much smaller stupa here in the 3rd century BC. Later dynasties doubled its diameter and covered the original brick structure entirely in stone. The four carved gateways (toranas) were added only in the 1st century BC — nearly 200 years after the stupa itself — by craftsmen who were, according to one theory, ivory carvers, since the intricate detail of the relief work resembles the skills used in that medium.
 sources:
   - https://en.wikipedia.org/wiki/Sanchi_Stupa
+score: 9.6
 ---
 
 The Great Stupa is the centrepiece of Sanchi and one of the oldest stone structures in India. Built originally by the Emperor Ashoka in the 3rd century BC, it was later enlarged to its current form: a massive hemispherical dome 36 metres in diameter and 16 metres high, topped by a triple parasol representing the Three Jewels of Buddhism. The dome is solid — there is no interior to enter.

@@ -8,6 +8,7 @@ latitude: 42.4630
 longitude: 21.4695
 story: >
   Adem Jashari refused to surrender when Serbian security forces surrounded his family compound at Prekaz in March 1998. Over three days of fighting, he and 56 members of his extended family were killed. The massacre was broadcast internationally and transformed Jashari — already a wanted man for his role in founding the Kosovo Liberation Army — into the defining martyr of Kosovo's independence movement. His face now appears on buildings, walls, and monuments across the country.
+score: 5.3
 ---
 
 The statue of Adem Jashari stands in the main square of Gjilan, a few steps from the old bazaar. Jashari was the founding commander of the Kosovo Liberation Army and is venerated across Kosovo as the man whose sacrifice galvanised the independence movement. The statue is the natural focal point for national ceremonies and commemorations, particularly on 28 November (Flag Day) and 17 February (Independence Day).

@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Rukmini Devi Temple
 type: poi
+score: 7.6
 ---
 
 Rukmini Devi Temple stands a short drive from the centre and is dedicated to Krishna's consort. The shrine is smaller than Dwarkadhish but finely carved, with figures and decorative bands around the exterior.

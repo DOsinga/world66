@@ -13,6 +13,7 @@ story: >
   it is white when everything around it is black or grey. The sandbar shifts slightly with each typhoon
   season; old photographs show it in a different position, oriented differently to the prevailing swell.
   At the highest tides it disappears entirely, leaving only the blue buoy that marks it for passing boats.
+score: 8.5
 ---
 
 A small, uninhabited sandbar about a kilometre offshore from Agoho, White Island is a crescent of powdery white sand that appears and disappears with the tides. The view back to the mainland — with the cone of Mt Hibok-Hibok rising directly behind the north coast resorts — is one of the most photographed scenes in the Philippines. The contrast between the white coral sand underfoot and the dark volcanic island beyond makes the composition genuinely striking.

@@ -8,6 +8,7 @@ tags:
   - sight
   - sculpture
 story: "The Taoist monk Wu Laiqing began cutting the path and shrines into the cliff face in 1781 and worked on them, alone, for 14 years. After his death three more monks continued for another 72 years before the complex was finally completed in 1853 — a single piece of work, in effect, that took most of a century."
+score: 7.9
 ---
 
 At the top of the Western Hills, a series of grottoes and Taoist shrines have been hand-cut into the limestone cliff face high above Dianchi Lake. The work was begun in 1781 by a single monk, Wu Laiqing, and continued by his successors over 72 years; it includes shrines, statues, prayer halls, and a precarious balcony cut into the cliff with a view that drops 400 metres straight down to the lake.

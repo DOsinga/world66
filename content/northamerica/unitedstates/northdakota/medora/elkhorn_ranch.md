@@ -12,6 +12,7 @@ story: >
   bench overlooking a bend in the Little Missouri where two pairs of
   shed elk antlers were found locked together — the source of the
   ranch's name.
+score: 8.4
 ---
 
 The Elkhorn Ranch was Roosevelt's most personal Badlands home, set deliberately far from any neighbour on the Little Missouri River about 35 miles north of Medora. Today the site is the third and least-visited unit of Theodore Roosevelt National Park — a quiet meadow with only foundation stones to mark where the cabin stood and an interpretive panel explaining what was once here.

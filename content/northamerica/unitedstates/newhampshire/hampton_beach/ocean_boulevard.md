@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 42.91444
 longitude: -70.81167
+score: 7.4
 ---
 
 Ocean Boulevard runs the length of the beach and is the main artery of Hampton Beach resort life. The boardwalk alongside it is lined with arcades, souvenir shops, fried dough stands, ice cream parlours, and seafood shacks — the full repertoire of the old-fashioned American beach resort. It is unashamedly commercial and cheerful about it.

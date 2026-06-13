@@ -9,6 +9,7 @@ latitude: -31.3888
 longitude: -57.9595
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_Salto
+score: 7.0
 ---
 
 The Cathedral of San Juan Bautista stands on the northern edge of Plaza Artigas and is Salto's most prominent building. The current structure dates from the late 19th century in a neoclassical style, with twin bell towers visible from across the city centre. Inside, the nave is calm and well-proportioned, lit by stained glass and holding a 1939 Hammond organ — unusual for a church this size in a provincial Uruguayan city. The organ is still played at Sunday masses.

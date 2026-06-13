@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -21.0962
 longitude: -175.3552
+score: 5.8
 ---
 
 The beach itself — a long sweep of cream-coloured sand on the western coast of Tongatapu, fronting a wide reef flat that drops to deeper water a couple of hundred metres out. Swimming is calm and shallow inside the reef; snorkelling improves toward the edge, with patches of coral and reef fish.

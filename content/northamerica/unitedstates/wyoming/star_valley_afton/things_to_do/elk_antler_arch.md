@@ -14,6 +14,7 @@ story: >
   floor and hillsides collecting the shed antlers that accumulate each spring.
   The project was intended as a one-time civic effort, but the arch became so
   identified with Afton that it has been maintained and rebuilt ever since.
+score: 5.8
 ---
 
 Afton's most photographed landmark is an archway spanning Washington Street, built from thousands of interlocking elk antlers. The original arch was constructed in 1958 using antlers collected from the surrounding hills and valleys, and it has been rebuilt and expanded over the years. It stretches roughly 18 metres across and 6 metres high, containing over 3,000 antlers. Elk shed their antlers naturally each year, so the supply is renewable, though the scale of the collection is remarkable.

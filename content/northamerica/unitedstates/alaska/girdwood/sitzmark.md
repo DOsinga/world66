@@ -6,6 +6,7 @@ longitude: -149.099
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 The Sitzmark is the après-ski bar of Alyeska, right at the base of Chair 6. The deck is the social centre of Girdwood from 3 p.m. on a powder day — ski patrol, lift operators, weekend warriors, everyone in the same wet boot covers. The beer is cold, the burgers are fine, and the band kicks off later in the evening.

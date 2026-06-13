@@ -11,6 +11,7 @@ tags:
 - festival
 title: Panaad Sang Negros Festival
 type: poi
+score: 7.5
 ---
 
 Nine days of celebration at Panaad Park and Stadium, often called the Mother of all Festivals of Negros Occidental. All 19 municipalities and 13 cities of Negros Occidental showcase their trade, tourism, and culture through street dancing, trade fairs, and agricultural exhibits. Each locality brings its own festival-within-a-festival, making the event a sampler of the entire province.

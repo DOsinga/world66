@@ -8,6 +8,7 @@ tags:
   - wetland
 title: "Marais du Vigueirat"
 type: poi
+score: 7.9
 ---
 
 The Marais du Vigueirat reserve lies on the northeastern edge of the Camargue and offers marked trails through marsh, reed bed, and pasture. It is particularly good for birdwatchers who want a quieter, more natural-feeling visit.

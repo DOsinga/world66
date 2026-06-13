@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Imja_Tse
 story: >
   Island Peak was named by the British reconnaissance expedition of 1952, which looked up at the peak from the Imja glacier and remarked that it looked like an island of rock and ice in a sea of glacial ice. The Nepali name, Imja Tse, is rarely used by trekkers. The peak was first climbed by a British team in 1953 as a training climb for the main Everest expedition — a practice for fixed-rope work and crampon use on a summit that seemed approachable but serious enough to be instructive.
+score: 7.9
 ---
 
 Island Peak (6,189m) — properly Imja Tse — is the most popular trekking peak in the Khumbu and one of the most accessible 6,000m summits in the Himalayas. It requires no previous climbing experience but demands real fitness and a willingness to use crampons, fixed ropes, and ice axes in the summit section. Most trekking agencies offer guided Island Peak climbs as an add-on to the standard EBC or Gokyo trek, adding three to four extra days to the itinerary.

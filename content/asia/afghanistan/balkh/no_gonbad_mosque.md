@@ -13,6 +13,7 @@ tags:
   - sight
 title: No Gonbad Mosque
 type: poi
+score: 8.4
 ---
 
 The No Gonbad Mosque — Nine Domes Mosque — is one of the oldest remaining Islamic monuments in Afghanistan, dating from the late 9th or early 10th century. The building is a ruin: the walls stand only partially, most of the domes have collapsed, and what remains of the original stucco decoration has been damaged by centuries of weather and neglect. But it survives, which is something close to miraculous given what Balkh has endured.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.7876
 longitude: 79.1347
+score: 6.8
 ---
 
 The Church of Christ, commonly known as Schwartz Church after the Danish missionary Christian Friedrich Schwartz who founded it in 1779, is one of the oldest Protestant churches in Tamil Nadu. Schwartz arrived in Thanjavur under the auspices of the Society for Promoting Christian Knowledge and spent decades in the city, becoming closely trusted by the Maratha court — unusually so for a foreign missionary in this period. The church was built under his supervision on land granted by the Thanjavur king.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Ruins of the 13th-century Del Carretto castle on the hill above the village
+score: 7.4
 ---
 
 The hilltop ruins above the village are what remains of the Del Carretto castle, built in the 13th century when the marquises fortified Dego and ran a mint here. The walls were knocked about repeatedly in the centuries that followed — by Genoese, Spanish and finally Napoleonic forces during the 1796 battle — and the building was never rebuilt.

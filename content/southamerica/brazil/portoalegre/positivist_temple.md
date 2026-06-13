@@ -8,6 +8,7 @@ tags:
 story: Auguste Comte's Positivism — the 19th-century French philosophy that religion should be replaced by the scientific study of humanity — was adopted as the governing ideology of Rio Grande do Sul in the 1890s. The state constitution was explicitly Positivist, the government was run on Positivist principles, and Porto Alegre acquired the only functioning Positivist church in the world. The philosophy fell out of fashion; the temple survived.
 title: Positivist Temple of Porto Alegre
 type: poi
+score: 8.4
 ---
 
 The Templo Positivista do Porto Alegre is one of the strangest and most interesting buildings in Brazil — the only functioning temple of the Religion of Humanity (Auguste Comte's secular religion) in the world. It was built in 1896 at the height of Rio Grande do Sul's Positivist experiment, when the state was governed according to Comte's philosophy by a group of true believers who took the ideas seriously enough to construct a proper place of worship for the Positivist calendar of saints (all of them scientists, thinkers, and historical figures rather than divine beings).

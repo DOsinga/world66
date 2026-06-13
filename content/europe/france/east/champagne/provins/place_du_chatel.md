@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 7.6
 ---
 
 The central square of the upper town, a wide cobbled space ringed with stone houses dating mostly to the 13th to 16th centuries. The square was the main market area of the medieval town and is still the principal gathering point — outdoor restaurant terraces fill the perimeter in summer, and the square hosts the annual medieval festival (Les Médiévales) in early June.

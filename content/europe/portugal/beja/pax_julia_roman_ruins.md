@@ -10,6 +10,7 @@ story: >
   Beja's Roman name, Pax Julia, referred to a peace treaty concluded between Julius Caesar and the local Celtici tribe after Rome's wars on the Iberian Peninsula. The city became a prosperous administrative centre and road junction, and the wealth it generated in the first and second centuries AD is still visible in the quality of the mosaics recovered from the surrounding region.
 sources:
   - https://en.wikipedia.org/wiki/Pax_Julia
+score: 6.6
 ---
 
 Modern Beja stands on the site of Pax Julia, a significant Roman city that served as an administrative hub for the interior of the province of Lusitania. Walking through the old town, you are walking over Roman streets — remains turn up regularly during construction work, and the city has a long history of archaeological discovery.

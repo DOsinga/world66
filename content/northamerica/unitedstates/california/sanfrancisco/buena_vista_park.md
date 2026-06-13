@@ -10,6 +10,7 @@ tags:
 title: Buena Vista Park
 neighbourhood: Haight-Ashbury
 type: poi
+score: 7.1
 ---
 
 Buena Vista Park is San Francisco's oldest official park, established in 1867. The 38-acre hillside rises steeply above the Haight, with winding paths through a canopy of Monterey cypress and eucalyptus. The climb to the top is short but steep -- and the payoff is a panoramic view from a lookout called The Window, stretching across Golden Gate Park to the Pacific Ocean on clear days.

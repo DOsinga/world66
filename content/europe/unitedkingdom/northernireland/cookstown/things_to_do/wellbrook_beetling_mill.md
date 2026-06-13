@@ -15,6 +15,7 @@ story: >
   Northern Ireland, driven by the same waterwheel that has powered it since the 18th century.
   Linen was once County Tyrone's main industry, and Wellbrook is one of the last tangible
   connections to that world.
+score: 7.6
 ---
 
 Wellbrook Beetling Mill is a National Trust property about 6 kilometres west of Cookstown on the Ballinderry River, and the last working beetling mill in Northern Ireland. Beetling was the process of pounding woven linen cloth with heavy mechanical hammers — beetles — to flatten and smooth it, giving finished linen its characteristic sheen. The mill's water-powered machinery, driven by a large external waterwheel, has been restored to working order and visitors can see and hear it in operation.

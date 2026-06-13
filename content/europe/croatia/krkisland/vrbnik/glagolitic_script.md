@@ -14,6 +14,7 @@ story: >
   nearby coastal areas — continued using Glagolitic for liturgical purposes until the
   19th century. Vrbnik is one of the last places where the script was in regular
   ceremonial use, which is why the stone carvings here survive in such number.
+score: 8.1
 ---
 
 Glagolitic is the oldest Slavic alphabet, predating Cyrillic, and Vrbnik is one of its last surviving strongholds. The script appears carved into lintels, gravestones, church walls, and public monuments around the old town — a remarkable survival from a period when most of Europe was standardising its written languages.

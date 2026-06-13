@@ -8,6 +8,7 @@ latitude: 58.3860
 longitude: -5.1950
 sources:
   - https://en.wikipedia.org/wiki/Handa_Island
+score: 8.3
 ---
 
 The Scottish Wildlife Trust has laid out a circular walking route of roughly three miles that takes in the full circuit of the island's accessible coastline. Starting from the landing beach at the south, the path climbs through heather moorland to the high clifftops on the north side, where the views down to the [Great Stack](/europe/unitedkingdom/scotland/handa_island/the_great_stack) are at their most dramatic. It then loops back along the west coast before returning to the beach.

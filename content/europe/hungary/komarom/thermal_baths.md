@@ -8,6 +8,7 @@ tags:
 latitude: 47.7397
 longitude: 18.1247
 story: "The thermal water emerges at the bath at 62 degrees Celsius, drawn from a borehole more than 1,200 metres deep. The mineral content is unusually high in sulphur, which is why the air at the baths has a faintly eggy edge."
+score: 6.3
 ---
 
 A modest spa complex on the Hungarian side of the river, fed by a deep thermal aquifer with water rich in sulphur and other minerals. The site has several indoor and outdoor pools at different temperatures, a sauna world, and a small wellness section.

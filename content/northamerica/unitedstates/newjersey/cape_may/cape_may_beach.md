@@ -6,6 +6,7 @@ longitude: -74.9230
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The town beach is a wide, well-maintained stretch of fine sand backed by a brick promenade running from Wilmington Avenue past Convention Hall. A beach tag (sold daily or by the week) is required for ages 12 and up between Memorial Day and mid-September — the rangers patrol and check. Outside those months the beach is free, less crowded, and arguably better.

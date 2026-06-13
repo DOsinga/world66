@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Municipal theatre named for the 16th-century poet born in Ponte de Lima"
+score: 5.4
 ---
 
 The town's municipal theatre sits on the main square and is named for Diogo Bernardes, the Renaissance poet born here in the 16th century who wrote some of the finest lyric verse in the Portuguese language. His *O Lima* — a pastoral poem in praise of the river and its valley — is still read in schools and made him the most celebrated son of this small town.

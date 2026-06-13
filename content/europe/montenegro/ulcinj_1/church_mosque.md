@@ -9,6 +9,7 @@ latitude: 41.9246
 longitude: 19.2013
 sources:
   - https://en.wikipedia.org/wiki/Church-Mosque_of_Ulcinj
+score: 7.7
 ---
 
 The Church-Mosque of Ulcinj — also known as the Imperial Mosque or Kalaja Mosque — is one of the most intriguing buildings in Montenegro. Originally built as a Christian church, it was converted into a mosque during Ottoman rule, and its unusual hybrid architecture reflects both functions: the original apse and nave remain visible beneath the later Islamic alterations.

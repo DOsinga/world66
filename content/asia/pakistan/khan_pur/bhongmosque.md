@@ -10,6 +10,7 @@ title: Bhong Mosque
 type: poi
 story: >
   The mosque was built over almost half a century by Rais Ghazi Muhammad, a local landlord who poured what would have been a modest fortune into commissioning craftsmen from across Pakistan, Iran, and Afghanistan. He died in 1982 with the work essentially complete. Four years later it won the Aga Khan Award for Architecture, the first time the prize had gone to what the jury called a "folk masterpiece" rather than a work by a recognised architect.
+score: 8.7
 ---
 
 The Bhong Mosque, in the small village of Bhong about fifty kilometres west of Khanpur, is the most architecturally remarkable building in southern Punjab and one of the most extraordinary mosques anywhere in Pakistan. The complex was built over forty-odd years by the local landlord Rais Ghazi Muhammad, who employed craftsmen from across the country to decorate it in marble inlay, mirror work, carved wood, lacquered tile, gold leaf, and calligraphy in a dizzying mix of regional styles.

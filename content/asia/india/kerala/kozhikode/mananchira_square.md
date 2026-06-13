@@ -8,6 +8,7 @@ longitude: 75.77997
 tags:
 - things_to_do
 - sight
+score: 6.2
 ---
 
 Mananchira is the city's central tank, originally part of the Zamorin's palace, now ringed by a public park with a musical fountain that runs most evenings. Joggers do laps before sunrise, families come out after dinner, and an open-air auditorium on the east side hosts free concerts, plays and Onam celebrations.

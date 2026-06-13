@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 23.7038
 longitude: -15.9290
+score: 5.0
 ---
 
 A central café near the main square that serves as a meeting point for the town's informal social life. Strong black coffee, the syrupy espresso-adjacent style common across North Africa, and rounds of mint tea are the staples. Pastries in the morning come from a nearby bakery and are best consumed quickly before the flies get interested.

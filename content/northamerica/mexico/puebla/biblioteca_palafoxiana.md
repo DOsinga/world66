@@ -10,6 +10,7 @@ longitude: -98.1989
 snippet: "The first public library in the Americas, with 45,000 volumes on three tiers of cedar shelving"
 story: >
   Founded in 1646 by Bishop Juan de Palafox y Mendoza, this is generally considered the first public library in the Americas. The cedar-wood shelves rise three levels and hold over 45,000 volumes, including incunabula — books printed before 1501 — and manuscripts with hand-painted illuminations.
+score: 9.1
 ---
 
 A UNESCO Memory of the World site, housed in the Casa de la Cultura a block from the Zócalo. The library occupies a single spectacular vaulted room: three tiers of dark cedar shelving packed with antique volumes, lit by high windows that throw columns of light across the spines. The effect is genuinely extraordinary — one of the most beautiful library rooms in the Americas.

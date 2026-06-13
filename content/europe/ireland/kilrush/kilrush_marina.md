@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.6350
 longitude: -9.4901
+score: 5.9
 ---
 
 Kilrush Marina is the largest inland marina in Ireland, with berths for around 120 boats and a sheltered inner harbour that feels surprisingly lively for such a quiet town. The marina development transformed what had been a rundown quayside in the 1990s and gave Kilrush a waterfront worth spending time on. The boats moored here are a mix of ocean-going yachts pausing en route between the UK and the Mediterranean, coastal sailing boats, and the ferry to Scattery Island.

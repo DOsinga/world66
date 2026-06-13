@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 8.5
 ---
 
 The headquarters of Brazil's Ministry of Foreign Affairs, completed in 1970, sits east of the Three Powers Plaza in a shallow reflecting pool. Niemeyer's elegant arches march around all four sides, and a sculpture by Bruno Giorgi — *Meteoro*, five abstract figures in white marble — stands on a podium in the water.

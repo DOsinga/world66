@@ -6,6 +6,7 @@ tags:
 latitude: 44.0913
 longitude: 8.2232
 snippet: Wide sandy beach with concessions, one of the better stretches on the Riviera delle Palme
+score: 6.5
 ---
 
 The beach at Ceriale stretches for about two kilometres along the town's seafront — wide, sandy, and well maintained. This is not a fashionable beach destination in the manner of Portofino or the Cinque Terre, but it is a genuinely good beach: clean water, real sand (not pebbles), and a promenade backed by the town's low-rise buildings rather than overdevelopment.

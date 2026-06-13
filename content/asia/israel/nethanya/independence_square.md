@@ -6,6 +6,7 @@ longitude: 34.8546
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Kikar Ha'Atzmaut, Independence Square, is the pedestrianised heart of downtown Netanya — a wide plaza at the top of the cliff, ringed by cafés, restaurants, and a stage that hosts free concerts most weekends in summer. From the edge of the square a viewing platform looks straight out over the sea.

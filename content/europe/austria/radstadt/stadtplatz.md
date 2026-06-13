@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3839
 longitude: 13.4619
+score: 6.4
 ---
 
 The Stadtplatz is the long rectangular main square of Radstadt's old town, lined with pastel-painted burgher houses, the old town hall, and a baroque plague column raised after the epidemic of 1714. The square is half pedestrianised; the cafe terraces fill on summer evenings.

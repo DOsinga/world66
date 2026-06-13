@@ -8,6 +8,7 @@ title: "Musée d'Angoulême"
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Angoul%C3%AAme
+score: 7.2
 ---
 
 The Musée d'Angoulême occupies a wing of the Hôtel de Ville and contains a mixed collection of archaeology, fine arts, and natural history. The archaeological section is the strongest: finds from Roman and Gallo-Roman sites across the Charente region, including mosaics, sculptures, and everyday objects that give a more detailed picture of local Roman life than the sparser collections in many regional museums.

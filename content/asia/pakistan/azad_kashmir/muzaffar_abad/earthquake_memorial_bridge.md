@@ -9,6 +9,7 @@ latitude: 34.3479
 longitude: 73.4638
 snippet: Cable-stayed bridge built as a memorial to the 2005 Kashmir earthquake
 story: "The 2005 Kashmir earthquake struck on 8 October, killing an estimated 73,000–87,000 people — making it one of the deadliest earthquakes in recorded history. Muzaffarabad, as the closest major city to the epicenter, suffered catastrophic damage. The memorial bridge was built partly as practical infrastructure and partly to commemorate the scale of the disaster and the rebuilding that followed."
+score: 6.3
 ---
 
 The Earthquake Memorial Bridge spans the Jhelum River in southern Muzaffarabad, a 474-meter cable-stayed structure built to replace infrastructure destroyed in the catastrophic 2005 earthquake. It is also known as the Zulfiqar Ali Bhutto Bridge.

@@ -6,6 +6,7 @@ latitude: -41.2183
 longitude: 175.4608
 story: >
   Martinborough was laid out in the 1880s on a Union Jack grid — the main streets form the pattern of the flag, with a central square at the crossing point. The founder, John Martin, had intended it as a commercial hub, but the town remained small and quiet for a century. It was the 1980 discovery that Martinborough's free-draining gravelly soils were almost identical to those of Burgundy that changed everything. Within a decade, a cluster of boutique wineries had established the village as New Zealand's pinot noir heartland.
+score: 8.5
 ---
 
 Martinborough is New Zealand's most walkable wine village — a small town where a dozen cellar doors are clustered within easy walking distance of each other, making it possible to visit several in an afternoon without driving. The wines lean toward pinot noir, which the Wairarapa's cool-but-sunny climate suits particularly well: the best examples have the earthiness and depth that New Zealand's warmer regions can't quite achieve.

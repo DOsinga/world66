@@ -14,6 +14,7 @@ story: >
   producing what appears to be water flowing horizontally.
 sources:
   - https://en.wikipedia.org/wiki/Horizontal_Falls
+score: 8.7
 ---
 
 Horizontal Falls are located in Talbot Bay within the Buccaneer Archipelago, a remote stretch of coast accessible only by seaplane or boat. The Kimberley has one of the world's largest tidal ranges — up to 10 metres in Talbot Bay — and the falls are the consequence: as the tides shift, the enormous pressure differential forces seawater through two narrow gaps in the McLarty Ranges with such velocity that the water appears to run horizontally rather than fall. At the peak of the tidal movement, standing waves and whirlpools form in the gorge.

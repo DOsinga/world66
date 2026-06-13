@@ -8,6 +8,7 @@ tags:
 address: "2100 Barton Springs Rd"
 latitude: 30.2668
 longitude: -97.7711
+score: 8.4
 ---
 
 Zilker Park is the city's largest and most beloved green space — 350 acres of parkland along the south bank of Lady Bird Lake, containing Barton Springs Pool, the Austin Nature and Science Center, the Umlauf Sculpture Garden, and the main festival grounds that host Austin City Limits Music Festival each October.

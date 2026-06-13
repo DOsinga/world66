@@ -8,6 +8,7 @@ tags:
   - market
   - old_city
 snippet: The main souk of the old city — a labyrinth of more than forty specialised markets
+score: 9.3
 ---
 
 The Suq al-Milh ("Salt Market") is the collective name for the great covered market inside the walls of the old city — a labyrinth of more than forty specialised souks, each devoted to a particular trade: copper-smiths, silver-smiths, spice-sellers, raisin merchants, cloth dealers, gunsmiths, makers of the curved janbiya daggers, and many more. The salt that gives the market its name is sold near the central crossroads.

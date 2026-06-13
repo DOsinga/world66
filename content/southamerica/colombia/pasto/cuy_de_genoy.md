@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 1.2370
 longitude: -77.3060
+score: 6.5
 ---
 
 For the full cuy experience, head out to the village of Genoy on the flanks of the Galeras volcano, where a string of family-run restaurants specialise in nothing else. The guinea pigs are raised on site, gutted, skewered whole, and roasted slowly over wood-fired hearths.

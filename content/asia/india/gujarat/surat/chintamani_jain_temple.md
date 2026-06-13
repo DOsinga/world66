@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.1825
 longitude: 72.8308
+score: 7.4
 ---
 
 The Chintamani Jain Temple is one of Surat's most significant religious sites, an ornate Jain temple dedicated to the Chintamani Parshvanatha. The current structure, which has been repeatedly renovated over the centuries, is notable for its elaborately carved marble interior and the quality of its mirror work (sheesh mahal style) decoration.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - medieval_quarter
 neighbourhood: Casco Medieval
+score: 7.3
 ---
 
 Vitoria's central covered market, on the edge of the old town. The ground floor is the working market — fishmongers, butchers, cheesemongers, bakers, vegetable stalls — and the upper floor is given over to a row of small restaurants that turn the market's produce into lunch.

@@ -14,6 +14,7 @@ tags:
   - sight
 title: Rizopolozhensky Monastery
 type: poi
+score: 6.8
 ---
 
 The Rizopolozhensky (Deposition of the Robe) Monastery stands near the centre of Suzdal, its twin-towered gate forming one of the most recognisable silhouettes in the town. Founded in the early 13th century — one of the oldest monastic foundations in Russia — it was substantially rebuilt after the Mongol destruction and expanded further in the 17th century.

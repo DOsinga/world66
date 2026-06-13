@@ -11,6 +11,7 @@ tags:
 - food
 title: Hanatokei Coffee and Tea
 type: poi
+score: 6.7
 ---
 
 A classic Japanese kissaten (old-style coffee shop) in Beppu, near the Daisansou-Iriguchi bus stop and about ten minutes' walk from the ferry terminal. The owner, Mrs. Matsumoto, has run the place for years, roasting and blending her own beans and baking most of the food herself. The menu runs from morning toast sets to lunch rice dishes — unpretentious, home-cooked, and good value. Most beverages are under 1,000 yen. Open daily 8am–8pm.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Several of the graves in the churchyard belong to men killed in the Battle of Jhelum of July 1857, when the 14th Bengal Infantry mutinied while being disarmed by a small party of British officers and soldiers. The disarming party was caught badly outnumbered and suffered significant casualties before order was restored. The churchyard became the burial ground for those killed in the engagement — a quiet corner of the cantonment that preserves the immediate human cost of a battle most visitors have never heard of.
+score: 6.8
 ---
 
 St John's Church stands in the Jhelum Cantonment — the military quarter laid out by the British after the annexation of the Punjab in the 1840s — and is one of the best-preserved garrison churches in Pakistan. Built in the mid-19th century to serve the British troops stationed here, the building has the solid, no-nonsense character of colonial-era military architecture: thick stone walls, pointed arched windows, a modest tower. Inside, the original wooden pews survive, and the stained glass still filters coloured light across the flagstone floor. Many garrison churches in the subcontinent have been stripped or fallen into disrepair; this one has not.

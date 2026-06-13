@@ -7,6 +7,7 @@ tags:
 latitude: 52.293
 longitude: 7.117
 sources: []
+score: 6.4
 ---
 
 The Reformed church in nearby Gildehaus — technically part of the Bad Bentheim municipality — is notable for its detached tower, which stands some distance from the main church building. Local legend, preserved with the seriousness that German village folklore often manages, holds that the devil tossed the tower away from the church when the pealing bells disturbed his rest. The more prosaic explanation involves soil conditions and structural history, but the story is better.

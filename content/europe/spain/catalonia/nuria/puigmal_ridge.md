@@ -10,6 +10,7 @@ latitude: 42.3928
 longitude: 2.0978
 sources:
   - https://en.wikipedia.org/wiki/Puigmal
+score: 8.9
 ---
 
 The ridgeline above Núria marks the border with France, and the walks along it are among the most rewarding in the eastern Pyrenees. The closest high point is Puigmal at 2,913 metres, a straightforward though strenuous ascent of about two to three hours from the valley floor. From the summit on a clear day you can see the Mediterranean to the south and the Pyrenean chain stretching west.

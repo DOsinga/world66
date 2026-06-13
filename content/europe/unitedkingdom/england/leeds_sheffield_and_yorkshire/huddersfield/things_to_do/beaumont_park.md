@@ -7,6 +7,7 @@ tags:
 latitude: 53.6286
 longitude: -1.8013
 snippet: "Victorian hillside park with sweeping Pennine views and intact bandstand"
+score: 7.3
 ---
 
 Beaumont Park was opened in 1883 on a hillside to the southwest of town, on land donated to the borough by Henry Frederick Beaumont of Whitley Beaumont. It occupies a series of terraces dropping away from the Pennine edge, with formal gardens giving way to wilder woodland on the lower slopes. The views from the upper terraces across Huddersfield and out towards the moors are among the best in the area — this is the place to come on a clear evening when Castle Hill is too crowded.

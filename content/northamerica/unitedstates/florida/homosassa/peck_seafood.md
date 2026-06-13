@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 28.8253
 longitude: -82.6533
+score: 6.0
 ---
 
 Out at Ozello, at the end of a wonderfully twisty road through the salt marsh, Peck's serves whole soft-shell blue crab caught and farmed on site. They keep their own crab tanks behind the restaurant — molting blues that are pulled the moment their shells go soft and fried whole with garlic butter.

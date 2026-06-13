@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.7
 ---
 
 The smaller of Sozopol's two town beaches sits in a sheltered cove on the north side of the Old Town peninsula. It is more compact than Harmanite but the water is calmer — protected from the prevailing wind by the headland — and it is a five-minute walk from anywhere in the Old Town.

@@ -13,6 +13,7 @@ story: >
   born. The confusion persists, however, and the village of St. Wolfgang still
   receives visitors who arrive expecting a Goethe connection and find instead
   a medieval shrine.
+score: 8.2
 ---
 
 The Wolfgangsee is a long, narrow lake in the northern Salzkammergut, divided between the states of Upper Austria and Salzburg. The western end is dominated by the village of St. Wolfgang, one of the most visited lakeside resorts in Austria; the eastern end, with the twin villages of Bad Ischl connections and the more peaceful Strobl, sees fewer crowds.

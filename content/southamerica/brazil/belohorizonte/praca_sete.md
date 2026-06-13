@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Praça Sete de Setembro
 type: poi
+score: 7.1
 ---
 
 Praça Sete (full name: Praça Sete de Setembro, after Brazilian Independence Day) is the central crossroads of the downtown. It is where Avenida Afonso Pena meets Avenida Amazonas, with four wide pavements radiating off in a cross pattern and a 1922 Art Deco obelisk at the centre commemorating the centenary of independence.

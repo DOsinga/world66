@@ -8,6 +8,7 @@ latitude: 18.7617
 longitude: 73.4048
 sources:
   - https://en.wikipedia.org/wiki/Bhushi_Dam
+score: 6.2
 ---
 
 Bhushi Dam, a few kilometres outside town, is Lonavala's most popular monsoon gathering point. Built in the late 19th century to supply water to the railway workshops, it transforms during the rains into a social spectacle: as the reservoir fills and water spills over the dam steps, crowds of visitors wade knee-deep in the overflow, splashing and photographing themselves against the rushing water. It is less a sight than a happening — and for that reason, on peak monsoon weekends (July–August), it is extraordinarily crowded.

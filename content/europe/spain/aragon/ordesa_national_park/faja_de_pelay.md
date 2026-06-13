@@ -7,6 +7,7 @@ snippet: Dramatic cliff-edge balcony trail above the Ordesa valley
 tags:
 - things_to_do
 - hiking
+score: 9.0
 ---
 
 A spectacular balcony path cut into the cliff face high above the Ordesa valley. You gain the Faja by climbing steeply out of the valley floor via the Senda de los Cazadores, then traverse the ledge with the canyon yawning below you and the entire length of the valley laid out like a map. The views are extraordinary — the Circo de Soaso route below looks like a thread of silver ribbon.

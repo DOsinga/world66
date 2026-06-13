@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Hayachine_Quasi-National_Park
 story: >
   Mount Hayachine is considered one of the sacred mountains of Tohoku. A Hayachine Shrine has stood on its slopes since the Heian period, and a summer festival featuring Hayachine Kagura — a form of ritual dance drama unique to this mountain — has been performed here for over 600 years. UNESCO inscribed Hayachine Kagura on its list of Intangible Cultural Heritage in 2009.
+score: 8.2
 ---
 
 Mount Hayachine (1917 metres) is the highest peak in the Kitakami Mountains and the centrepiece of the Hayachine Quasi-National Park. It rises steeply from the inland hills of central Iwate, about 50 kilometres east of Morioka, and offers some of the best ridge-walking in the Tohoku region.

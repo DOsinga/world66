@@ -9,6 +9,7 @@ tags:
 - fortress
 snippet: "Seaside fortress at the foot of the old town, built by the founder of the city"
 story: "Forte Mare was built in 1382 by Bosnian king Tvrtko I, who founded Herceg Novi as his outlet to the sea. The Venetians rebuilt it after the 1539 siege, and the Austro-Hungarians added the upper terraces that now serve as an outdoor cinema in summer."
+score: 7.8
 ---
 
 Forte Mare sits where the old town meets the sea, a stubby fortress built directly on the rocks of the shoreline. It has been knocked down and rebuilt by successive owners — Bosnians, Ottomans, Venetians, Austrians — and the patchwork of stonework reflects that.

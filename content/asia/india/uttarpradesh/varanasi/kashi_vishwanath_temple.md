@@ -13,6 +13,7 @@ story: >
   the temple and remains a flashpoint of Hindu-Muslim tension.
 sources:
   - https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple
+score: 9.5
 ---
 
 The Kashi Vishwanath Temple is the holiest Hindu shrine in Varanasi and one of the twelve Jyotirlinga temples — the most sacred shrines of Shiva in Hinduism. Its famous gold-plated dome (the gold donated in 1835 by Maharaja Ranjit Singh of the Sikh Empire) is the defining image of the Varanasi skyline. The presiding deity, Vishwanath or Vishweshwara (Lord of the Universe), draws pilgrims from across India throughout the year.

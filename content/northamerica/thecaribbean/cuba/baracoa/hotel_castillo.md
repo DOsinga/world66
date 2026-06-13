@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The third and largest of the three colonial forts, built between 1739 and 1742 on the hilltop above the town. It is now the Hotel El Castillo, but the public is welcome to walk up for the view from the terrace, which is panoramic — bay, town, and mountain laid out below.

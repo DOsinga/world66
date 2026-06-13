@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
 snippet: A favourite sunset cafe on the Recoleta terrace
+score: 6.8
 ---
 
 Cafe Mirador shares the Recoleta terrace with Cafe Gourmet El Mirador but tends to attract a slightly more relaxed crowd. A small wooden interior with a couple of long tables and shelves of books, a stone terrace at the front with the same sweeping view of the city below, and a menu of decent coffees, sandwiches, juices, and craft beers from the Bolivian micro-breweries. The hot chocolate is rich and a perfect antidote to a cold evening at altitude.

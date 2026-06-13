@@ -7,6 +7,7 @@ tags:
   - sight
 title: Lotus Tower (Nelum Kuluna)
 type: poi
+score: 6.5
 ---
 
 At 350 metres, the Lotus Tower — officially Nelum Kuluna — is the tallest structure in South Asia and one of the most prominent features of the Colombo skyline. Designed in the shape of a lotus flower and built with Chinese funding, it was completed in 2022 after years of delays and controversy over cost. The tower has an observation deck, a revolving restaurant, and broadcast facilities — it was built primarily as a telecommunications tower.

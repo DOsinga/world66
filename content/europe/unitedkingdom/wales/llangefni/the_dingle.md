@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/The_Dingle,_Anglesey
+score: 7.1
 ---
 
 The Dingle — Nant y Pandy in Welsh — is a small nature reserve in a wooded river valley just north of Llangefni town centre. The reserve follows the Afon Cefni through a sheltered hollow of mature oak, ash, and alder, a green pocket that feels entirely separate from the flat farmland surrounding the town on almost every side.

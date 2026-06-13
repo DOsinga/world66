@@ -9,6 +9,7 @@ longitude: 91.7858
 story: "The largest of the burial mounds is that of Songtsen Gampo, the 7th-century king who unified Tibet, introduced writing, and brought Buddhism from India and Nepal. His two wives — a Chinese Tang dynasty princess and a Nepali princess — both brought Buddha statues as dowry gifts. One of those statues, the Jowo Shakyamuni, is now the most sacred object in Tibet, housed in the Jokhang Temple in Lhasa."
 sources:
   - https://en.wikipedia.org/wiki/Chonggye_tombs
+score: 7.6
 ---
 
 The Chonggye Tombs are the burial mounds of Tibet's early kings, rising from the floor of the Chonggye valley about 20 kilometres south of Tsetang. There are nine mounds in total, the largest of which stands about 13 metres high and 130 metres across — substantial earthworks for a region at 3,500 metres altitude. A small Bon monastery sits on top of the largest tomb, adding a layer of religious history to the archaeological.

@@ -7,6 +7,7 @@ tags:
   - swimming
 title: Secret Beach
 type: poi
+score: 7.3
 ---
 
 Secret Beach is a small cove tucked behind the eastern headland of Mirissa Bay, reached by a short walk along the rocks or through the palms from the main beach. It is smaller and more sheltered than the main beach, with cleaner water and far fewer people, even in the peak season. The name has rather given the game away, but it remains noticeably quieter than the main strip.

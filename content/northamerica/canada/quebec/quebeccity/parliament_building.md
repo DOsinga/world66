@@ -11,6 +11,7 @@ address: "1045 rue des Parlementaires, Québec City, QC G1A 1A3"
 snippet: Ornate Second Empire parliament building with free guided tours and bronze statues
 sources:
   - https://en.wikipedia.org/wiki/Parliament_Building_(Quebec)
+score: 8.1
 ---
 
 The National Assembly of Québec meets in a grand Second Empire building completed in 1886, just outside the Old City walls. The bronze statues adorning the façade are an inventory of Québec history: Champlain, Cartier, Montcalm, Wolfe, de Maisonneuves — each figure a reminder that Québec's political identity is built on a foundational tension between French and British traditions.

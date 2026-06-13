@@ -12,6 +12,7 @@ story: >
   as natural steps — and eventually the city formalised the trail in 2013.
 sources:
   - https://en.wikipedia.org/wiki/Manitou_Incline
+score: 8.8
 ---
 
 The Manitou Incline is exactly what it sounds like: a trail that goes almost straight up. The old funicular railway ties serve as steps, and the route climbs nearly 2,000 feet in less than a mile — an average grade of 45 percent and a maximum grade of 68 percent. It is one of the most brutal short hikes in Colorado, and the parking lot fills before sunrise on weekends with people who treat it as a daily workout.

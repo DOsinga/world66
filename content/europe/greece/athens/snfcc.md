@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The SNFCC was designed by Renzo Piano on what used to be a horse-racing track. It cost €600 million, was paid for entirely by the Stavros Niarchos Foundation, and was opened in 2016 — at a time when most of Greece's public construction was on hold under austerity. The building's solar roof generates more energy than the centre uses."
+score: 7.5
 ---
 
 The SNFCC, on the coast at Faliro south of central Athens, is the home of the **Greek National Opera** and the **National Library of Greece** and the most ambitious piece of architecture built in the city since the Olympic projects of 2004. Renzo Piano's complex combines a vast park, an artificial canal, a glass library, and an opera house under a single thin photovoltaic canopy that tilts up to face the sea.

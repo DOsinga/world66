@@ -13,6 +13,7 @@ story: >
   museum's collection of their finely woven baskets — many made by women who were
   themselves among the last traditional practitioners — is remarkable for a small
   county museum.
+score: 6.9
 ---
 
 The Plumas County Museum (500 Jackson Street) is the best introduction to the region's history. The collection covers the Maidu people, the Gold Rush era, the logging camps that sustained the county through the early 20th century, and the ranching families who built permanent communities here. The mining and logging equipment is particularly well-presented.

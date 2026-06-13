@@ -7,6 +7,7 @@ tags:
   - sight
   - architecture
 type: poi
+score: 5.4
 ---
 
 The Roman Catholic cathedral of Banjul is a modest but dignified building in the south of the city, consecrated in 1939. It serves the small Catholic community of the capital and stands as a reminder of the varied religious landscape of The Gambia — a country that is around 90% Muslim but has maintained Catholic and other Christian communities throughout the colonial period and since independence.

@@ -7,6 +7,7 @@ tags:
 latitude: 41.7510
 longitude: 23.4920
 snippet: Popular student bar near the boulevard with live music some nights and cheap beer
+score: 5.0
 ---
 
 Lucky Bar is one of the stalwarts of the Blagoevgrad student scene — a place that has been serving cheap beer and loud music to successive cohorts of AUBG and South-West University students for years. Nothing about it is remarkable except that it reliably delivers what it promises: a lively atmosphere, very low prices, and a crowd that is young and international.

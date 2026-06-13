@@ -8,6 +8,7 @@ tags:
 - sight
 - mountain
 - viewpoint
+score: 6.5
 ---
 
 Serra Cauo Caiongombe is part of the low mountain and hill country that breaks up Iona's eastern and central desert. It is not a single postcard viewpoint so much as a landmark in a landscape of ridges, gravel, and hard light.

@@ -12,6 +12,7 @@ story: >
   China's premier diplomatic drink since the 1950s — Nixon was served it on his 1972
   visit, and Kissinger quipped that it could help solve international problems.
   A bottle of premium Moutai now costs more per unit than most bottles of Bordeaux.
+score: 7.9
 ---
 
 Maotai town, about 150 kilometres southwest of Zunyi in the Chishui River valley, is one of the more unusual industrial tourism sites in China. The town essentially is the Kweichow Moutai distillery: a vast complex of fermentation workshops, warehouses, and bottling lines that occupies most of the valley floor and fills the surrounding air with the distinctive sweet-sour smell of fermenting sorghum. The baijiu produced here — a jiangxiang (sauce aroma) style, with a flavour profile that takes some adjustment if you come from whisky — is the most expensive and most fetishized spirit in China.

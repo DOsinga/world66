@@ -8,6 +8,7 @@ latitude: 19.5746
 longitude: 98.2159
 sources:
   - https://en.wikipedia.org/wiki/Tham_Mae_Lana
+score: 7.5
 ---
 
 Tham Mae Lana is one of the longest caves in Southeast Asia, stretching for over 12 kilometres through the karst hills northwest of Soppong. Unlike Tham Lot, which is a show cave with regular guided tours, Tham Mae Lana is an adventure caving destination — long, complex, and requiring proper equipment and experienced guides. Parts of the cave involve wading through underground streams and scrambling through passages.

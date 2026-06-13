@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 7.4
 ---
 
 The village of Mochima sits at the head of a deep bay east of Puerto la Cruz, in the heart of the national park that bears its name. It is a working fishing village — a handful of waterfront houses, a couple of small posadas, and a fleet of brightly painted boats. Lanchas leave from the pier for trips to nearby beaches and islands, and the village is also the starting point for kayak tours into the mangroves.

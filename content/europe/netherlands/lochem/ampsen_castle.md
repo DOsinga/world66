@@ -9,6 +9,7 @@ tags:
   - sight
   - historic_house
   - estate
+score: 6.7
 ---
 
 Two kilometres east of Lochem, the country estate of Ampsen has been in the same family for nearly 400 years. The main house is a handsome rebuilding of the 19th century; an older fortified house stood on the same moated island from at least the 15th century. The buildings are not open to the public, but the grounds — woods, a long avenue of lime trees, a deer park — are crossed by waymarked walking and cycling paths.

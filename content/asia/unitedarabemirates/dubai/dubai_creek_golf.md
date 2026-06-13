@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Dubai Creek Golf and Yacht Club
 type: poi
+score: 5.5
 ---
 
 The Dubai Creek Golf and Yacht Club sits on the Deira side of the Creek, its distinctive white peaked roofline (modelled on the sails of a yacht) a recognisable element of the Creek skyline. The 18-hole championship course wraps around a marina and uses the Creek waterway as a natural hazard on several holes.

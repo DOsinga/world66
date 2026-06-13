@@ -7,6 +7,7 @@ tags:
 latitude: 46.8454
 longitude: 9.87
 story: The Schwarzsee sits in a shallow glacial depression between Klosters and Davos at around 1,540 metres, flanked by silver fir forest. The dark peat-stained water that gave it the name "Black Lake" is in fact clean and swimmable in summer, and the surrounding bog is a protected habitat for rare alpine plants and birds.
+score: 6.9
 ---
 
 The Schwarzsee is a small alpine lake at Laret, midway between Klosters and Davos at just over 1,500 metres altitude. It sits in a moorland hollow that is now a protected nature reserve, with bog vegetation, reed beds, and several species of waterfowl. In winter the lake freezes reliably and is used for natural-ice skating.

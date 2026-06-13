@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: Ancient city quarter on the rock plateau, with steep lanes, traditional architecture, and gorge views
+score: 8.7
 ---
 
 The old medina of Constantine occupies the southern part of the plateau and is the oldest continuously inhabited part of the city. Streets are steep, irregular, and sometimes very narrow — the rock plateau's topography doesn't allow for grid planning. The older residential architecture mixes Ottoman-era courtyarded houses (*dars*) with French colonial interventions, most in a state of advanced decay. Some of the most dramatic lanes run directly along the gorge edge, with views straight down the cliff face.

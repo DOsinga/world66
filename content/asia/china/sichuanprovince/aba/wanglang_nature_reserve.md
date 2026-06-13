@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Wanglang_National_Nature_Reserve
+score: 7.2
 ---
 
 Wanglang is one of China's oldest nature reserves, established in 1965, and protects a critical corridor of giant panda habitat in the Min Mountains. It covers around 320 square kilometres of old-growth fir and spruce forest, rising from river valleys at 2,000 metres to ridgelines above 4,000 metres. The reserve also shelters golden monkeys, takins, snow leopards, and brown bears — a remarkably intact mountain ecosystem.

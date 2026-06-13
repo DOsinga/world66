@@ -8,6 +8,7 @@ longitude: 3.9643
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 Gosset bills itself as the oldest wine house in Champagne, founded in 1584 — it predates the methode champenoise itself and originally produced still red wines from Pinot Noir. The house moved to Epernay from its original home in Ay in 2009 and now occupies elegant new premises on the southern side of town.

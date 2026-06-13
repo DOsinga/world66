@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.9095
 longitude: 10.2625
+score: 4.8
 ---
 
 At the base of the hill, the new village of Chenini is where most of the community now lives — roughly 120 families who moved down from the ridge in search of running water and electricity that the old hilltop settlement could not provide. The contrast between the two settlements is stark: the new village is flat, functional, and modern, while the ancient village above it is all vertical drama and crumbling stone.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.9589
 longitude: 1.8497
+score: 6.3
 ---
 
 The Tour du Guet is a 13th-century watchtower that has served as the main landmark of Calais for over seven centuries. It predates English occupation, predates most of the surrounding architecture, and has managed to survive the various sieges and bombardments that levelled much of the city around it. The tower was originally used to watch for enemy ships approaching across the Channel — a practical role in a city that spent much of its medieval history being fought over.

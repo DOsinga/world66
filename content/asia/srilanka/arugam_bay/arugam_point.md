@@ -13,6 +13,7 @@ story: >
   surfers stumbled upon it while traveling overland. Word spread slowly through the surf circuit,
   and by the 1980s it had a reputation among those who knew. The 2004 tsunami devastated the bay but
   the break itself survived unchanged — the point returned to action within a season.
+score: 8.8
 ---
 
 Arugam Point is the main surf break at the bay — a right-hander that peels off the headland at the southern end of the beach. It works best from April through August when the southwest swell lines up cleanly, producing long, readable waves that suit intermediate to advanced surfers. Beginners can pick up the sport at the beach break in the middle of the bay, where several guesthouses rent boards and offer lessons.

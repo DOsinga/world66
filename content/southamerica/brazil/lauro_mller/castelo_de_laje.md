@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The Castelo de Laje is a castle-like building constructed between 1917 and 1919 by Henrique Laje, one of the most powerful industrialists in early 20th-century Brazil. Laje made his fortune from coal mining, salt transport, and docking operations across southern Brazil; the castle was built as a summer residence in a style influenced by Swiss and German Alpine architecture — a visual statement of European ambition in the middle of the Atlantic Forest.

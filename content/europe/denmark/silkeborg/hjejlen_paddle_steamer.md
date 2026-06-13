@@ -14,6 +14,7 @@ story: >
   make the lake district one of Denmark's most visited regions.
 sources:
   - https://en.wikipedia.org/wiki/Hjejlen
+score: 8.4
 ---
 
 The Hjejlen is a small paddle steamer that has been sailing the Silkeborg lakes since 1861, making it the oldest operational paddle steamer in the world still running its original steam engine. In summer it makes regular trips along the Gudenå river and across the interconnected lake system, departing from the harbour near the centre of town.

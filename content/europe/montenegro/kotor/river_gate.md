@@ -6,6 +6,7 @@ longitude: 18.7706
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The River Gate, also called the North Gate, opens onto the small Škurda river that runs along the northern edge of the old town. It is by far the quietest of the three gates — many cruise day-trippers never see it — and one of the prettiest, with the river running underneath an old stone bridge and the city walls rising behind.

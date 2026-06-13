@@ -8,6 +8,7 @@ tags:
 latitude: 50.6364
 longitude: 3.0747
 snippet: Rem Koolhaas's 1994 mega-project built around the Eurostar terminus — a city of the future that became a shopping mall
+score: 5.6
 ---
 
 Euralille is the vast commercial and office district built between Lille's two TGV stations — Lille-Flandres and Lille-Europe — designed by Rem Koolhaas and opened in 1994 to coincide with the opening of the Channel Tunnel. The project was conceived as a new European hub city: a place where business travellers between London, Paris, and Brussels would stop, transact, and eventually linger. In practice it mostly became a very large shopping mall surrounded by office towers.

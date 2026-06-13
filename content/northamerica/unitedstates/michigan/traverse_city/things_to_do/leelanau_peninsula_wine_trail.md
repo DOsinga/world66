@@ -9,6 +9,7 @@ latitude: 45.0000
 longitude: -85.7500
 story: >
   The Leelanau Peninsula was slower than Old Mission to develop its wine identity, but it now has over 25 wineries and has arguably overtaken its neighbor in breadth of style. The peninsula's varied topography — rolling hills, lake-effect snow in winter, and soils ranging from sandy to clay — produces wines with more character variation than the flatter Old Mission Peninsula. L. Mawby, the region's first dedicated sparkling wine producer, helped establish Leelanau's reputation for quality.
+score: 8.2
 ---
 
 The Leelanau Peninsula stretches northwest of Traverse City and is considerably larger and more varied than Old Mission. A wine trail visit here rewards unhurried exploration: the wineries are spread across a broader landscape, the small towns of Suttons Bay, Northport, and Leland each merit a stop, and the scenery shifts between bay views, inland lakes, and forested ridges.

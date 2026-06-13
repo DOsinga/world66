@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.911
 longitude: 45.406
+score: 7.8
 ---
 
 The road from Telavi toward the mountains passes two monasteries known collectively as Shuamta — Old Shuamta and New Shuamta — set in dense forest about 10 kilometres from the town. Old Shuamta, the higher of the two, is a group of three early Christian basilicas from the 5th through 7th centuries, their stone walls patched and weathered but still standing in a forest clearing that feels completely undisturbed by tourism.

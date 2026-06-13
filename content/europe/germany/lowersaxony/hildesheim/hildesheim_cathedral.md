@@ -11,6 +11,7 @@ story: >
   The cathedral's bronze doors, cast around 1015 under Bishop Bernward, depict sixteen scenes from Genesis and the life of Christ — a complete visual theology programme in a single pair of doors, unprecedented at the time. Each panel was cast as a single piece of bronze, a technical feat that would not be equalled again in Europe for centuries.
 sources:
   - https://en.wikipedia.org/wiki/Hildesheim_Cathedral
+score: 9.0
 ---
 
 The Cathedral of the Assumption of Mary is one of the most important Romanesque buildings in Germany and a UNESCO World Heritage Site since 1985. Built under Bishop Bernward in the early 11th century and extensively rebuilt after destruction in 1945, it contains a treasury of medieval metalwork that is astonishing in its density: the famous Bernward Doors, the Christ Column (a bronze pillar 3.8 metres high, wound with scenes of Christ's ministry like a miniature Trajan's Column), the Hezilo chandelier, and the Bernward Cross all survive from the original building.

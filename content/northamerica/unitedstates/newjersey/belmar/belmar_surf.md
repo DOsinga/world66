@@ -5,6 +5,7 @@ latitude: 40.1775
 longitude: -74.0115
 snippet: "One of the surf capitals of New Jersey, with reliable breaks and several shops offering lessons"
 tags: [things_to_do, activity]
+score: 7.4
 ---
 
 Belmar has one of the most active surf scenes on the Jersey Shore. The 5th Avenue jetty area gets the most consistent waves — a combination of the jetty geometry and the beach's orientation toward northeast swells means rideable surf more often than most spots on the coast. On a good swell day in autumn the lineup gets competitive.

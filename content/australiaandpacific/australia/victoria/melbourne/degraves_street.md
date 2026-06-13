@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Degraves_Street,_Melbourne
 story: >
   Melbourne's espresso culture owes a significant debt to post-war Italian immigration and to a handful of specific streets. Degraves Street became one of the key addresses when Cafe Segovia opened here in the early 1990s, at a time when Melbourne was shifting from tea-and-instant-coffee to serious espresso. The lane had previously been a working service alley. The conversion of urban laneways into cafe strips across the CBD followed the model that Degraves and the nearby laneways established.
+score: 7.6
 ---
 
 Degraves Street is the most concentrated expression of Melbourne's laneway culture: a narrow covered lane running between Flinders Street and Flinders Lane, lined on both sides with cafe tables that leave barely enough room for pedestrians to pass between them. The espresso bars here open early and stay busy all day, with baristas who have been working the same machines for years and know exactly what their regular customers want.

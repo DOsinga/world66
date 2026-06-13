@@ -9,6 +9,7 @@ latitude: 40.8061
 longitude: 14.3481
 sources:
   - https://en.wikipedia.org/wiki/Herculaneum
+score: 7.6
 ---
 
 Herculaneum had several thermopolia — the Roman equivalent of a fast-food counter or tavern — and they are among the most immediately comprehensible things on the site. The stone counters are still in place, with circular holes cut into the top where ceramic amphorae and pots would have sat in hot water, keeping food warm. The marble counter surfaces are worn smooth from generations of customers leaning on them.

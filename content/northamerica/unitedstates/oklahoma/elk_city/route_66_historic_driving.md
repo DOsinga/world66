@@ -7,6 +7,7 @@ tags:
 latitude: 35.4130
 longitude: -99.4040
 story: "The stretch of Route 66 through western Oklahoma was some of the last to be bypassed by the Interstate system — I-40 didn't replace the final sections until 1984, which is why towns like Elk City, Sayre, and Erick still have intact commercial strips from the highway's peak decades, now simultaneously preserved and stranded."
+score: 7.5
 ---
 
 The old Route 66 alignment runs through the centre of Elk City and can be driven through the downtown to get a sense of what the Mother Road looked like in its prime. Look for the original brick pavement that survives on some sections, the vintage neon signs, and the motel architecture that hasn't changed since the 1950s. The Business Route through downtown is the most intact section.

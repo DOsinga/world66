@@ -8,6 +8,7 @@ latitude: 44.4413
 longitude: -92.1286
 sources:
   - https://en.wikipedia.org/wiki/Pepin,_Wisconsin
+score: 6.1
 ---
 
 The Laura Ingalls Wilder Museum sits on Third Street in the village, a few blocks from the lake. It is the logical first stop before heading out to the cabin site. The collection covers Wilder's life from birth in Pepin through her years in Kansas, Minnesota, and eventually De Smet, South Dakota — where the bulk of the *Little House* books are set.

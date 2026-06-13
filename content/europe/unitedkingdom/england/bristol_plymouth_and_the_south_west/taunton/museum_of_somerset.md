@@ -9,6 +9,7 @@ tags:
 story: The Low Ham Roman mosaic, on display in its entirety here, depicts the love
   story of Dido and Aeneas — possibly the most ambitious narrative mosaic ever found
   in Roman Britain. It was discovered by a farmer ploughing a field in 1946.
+score: 8.4
 ---
 
 The Museum of Somerset occupies the twelfth-century great hall and adjoining rooms of Taunton Castle — itself an evocative setting. The collection covers the whole sweep of Somerset history, from prehistoric Mendip hill forts to a celebrated case of late Victorian fraud.

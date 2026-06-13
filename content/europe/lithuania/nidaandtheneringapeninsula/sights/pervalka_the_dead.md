@@ -9,6 +9,7 @@ tags:
 - nature
 title: 'Pervalka: The Dead Dunes'
 type: poi
+score: 8.6
 ---
 
 The Dead Dunes — also called the Gray Dunes or the Pyramidical Dunes — are one of the most striking sights in Neringa National Park. Unlike the forested dunes elsewhere on the peninsula, these are bare, wind-sculpted, and ghostly pale, which is how they earned the name.

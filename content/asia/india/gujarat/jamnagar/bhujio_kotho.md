@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bhujio Kotho
 type: poi
+score: 6.2
 ---
 
 A stout circular watchtower on the western shore of the Lakhota Lake, the Bhujio Kotho was built in the 19th century as part of the city's defences. The walls are pierced with gun-loops and the upper terrace once held cannon. From the top there is a view across the lake to the Lakhota Palace and on to the old city beyond.

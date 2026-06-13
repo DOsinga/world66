@@ -12,6 +12,7 @@ story: >
   Migration estimates that more than 20,000 people have died in the central Mediterranean since 2014. Lampedusa
   has received over a million migrants in the past two decades — a number that dwarfs the island's 6,000 permanent
   residents by a factor of 150.
+score: 6.2
 ---
 
 The Porta d'Europa is a slender terracotta archway set on the cliffs of the island's southern coast, facing Africa across 130 kilometres of open sea. Created by the Sicilian artist Mimmo Paladino and inaugurated in 2008, it commemorates the migrants who have died attempting to cross the Mediterranean from North Africa to reach Europe.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Plaza Belgrano
 type: poi
+score: 6.4
 ---
 
 The city's main square is anchored by an equestrian statue of General Belgrano and surrounded by the cabildo, the cathedral, and the Casa de Gobierno of Jujuy Province. Old orange trees line the paths, dropping fruit in spring; locals gather on benches in late afternoon when the heat eases.

@@ -4,6 +4,7 @@ type: poi
 tags: [beaches]
 latitude: -16.4789
 longitude: -39.0691
+score: 6.0
 ---
 
 Araçaipe is the beach closest to the ferry landing and the first sand most arrivals see. The bay is calm and shallow because of an offshore reef, which makes it good for families and for paddling rather than serious swimming. At low tide the exposed reef reveals small pools full of fish and crabs.

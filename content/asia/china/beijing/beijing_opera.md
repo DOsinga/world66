@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9060
 longitude: 116.4030
+score: 6.5
 ---
 
 Peking Opera (jingju) is the imperial art form of Beijing — a centuries-old synthesis of singing in a stylised falsetto, acrobatics, martial arts, elaborate costumes, and heavy face paint coding. It requires an acquired taste and patience with an unfamiliar musical idiom, but an evening at a proper Peking Opera performance is one of the most distinctive cultural experiences in China.

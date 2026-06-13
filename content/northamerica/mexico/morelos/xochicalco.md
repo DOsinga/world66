@@ -9,6 +9,7 @@ latitude: 18.8039
 longitude: -99.2959
 sources:
   - https://en.wikipedia.org/wiki/Xochicalco
+score: 9.0
 ---
 
 Xochicalco sits on an artificially levelled hilltop about 38 km south of Cuernavaca, commanding views in every direction. The site flourished between roughly AD 700 and 900, bridging the gap between the collapse of Teotihuacán and the rise of the Toltecs, and it shows clear influences from several different Mesoamerican cultures simultaneously. It is a UNESCO World Heritage Site.

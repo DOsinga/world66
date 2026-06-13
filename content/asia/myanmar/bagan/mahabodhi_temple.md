@@ -14,6 +14,7 @@ tags:
   - landmark
 title: Mahabodhi Temple
 type: poi
+score: 8.1
 ---
 
 The Mahabodhi stands out from every other structure on the Bagan plain: a soaring pyramidal tower decorated with hundreds of niched Buddha images, built in imitation of the great Mahabodhi Temple at Bodhgaya in India. It was constructed in the 13th century by a Bagan king who had sent monks to study in India and wished to bring something of that sacred landscape home.

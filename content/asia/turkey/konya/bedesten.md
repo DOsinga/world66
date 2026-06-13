@@ -9,6 +9,7 @@ tags:
 - market
 - sight
 snippet: "Fifteenth-century covered market at the heart of the old bazaar"
+score: 7.5
 ---
 
 The Bedesten — the covered market hall — is the centrepiece of Konya's old bazaar, a stone-vaulted building dating to the fifteenth century that has functioned as a trading hall continuously since. Inside, the stalls now sell jewellery, embroidered fabrics, silver, and the leather and copper work that Konya has been known for since Ottoman times.

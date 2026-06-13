@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 22.1537
 longitude: 113.5580
+score: 8.3
 ---
 
 Taipa Village is the preserved historic core of the island — a compact area of colonial-era streets, Portuguese civic buildings, and Chinese shophouses that somehow survived the casino development on all sides. Walking into it from the Cotai Strip is a disorienting experience: one moment you are among tower blocks and casino signage, the next you are in a quiet lane of pastel-painted buildings that could be in Lisbon or Macau of the 1970s.

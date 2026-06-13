@@ -8,6 +8,7 @@ tags:
 latitude: 40.1572
 longitude: -76.3067
 story: "Sutter — the Swiss-American whose California sawmill saw the gold discovery that triggered the 1849 Gold Rush — was financially ruined by the rush. Squatters overran his land claims, he lost decades in legal battles, and he died in this small house in Lititz in 1880, still trying to get the U.S. government to compensate him."
+score: 6.3
 ---
 
 The Johann Agust Sutter House on East Main Street is where John Sutter — yes, that one — spent the last decade of his life, having ended up in Lititz to take the waters of the local mineral spring and pursue his endless lawsuits in Washington. The house is plain and small, and the visit is more about the unlikely connection than the building.

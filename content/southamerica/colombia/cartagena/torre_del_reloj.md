@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Torre del Reloj
 type: poi
+score: 7.2
 ---
 
 The Torre del Reloj — Clock Tower — is the most recognisable entrance to Cartagena's walled old city, a yellow arch framing the gateway from the modern city into the colonial centre. Built in the 18th century as a triumphal arch and later fitted with a clock (imported from France), it stands at the edge of Plaza de los Coches, which was historically the city's slave market.

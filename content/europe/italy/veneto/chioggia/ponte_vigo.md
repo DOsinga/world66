@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2178
 longitude: 12.2781
+score: 7.1
 ---
 
 The Ponte Vigo is the photogenic arched footbridge at the southern end of the old town, linking the Piazzetta Vigo with the eastern quayside. It was built in stone in the 17th century, replacing a series of wooden predecessors that had stood here since the Middle Ages.

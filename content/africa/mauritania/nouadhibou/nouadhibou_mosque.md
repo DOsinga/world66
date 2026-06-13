@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.3
 ---
 
 The grand mosque on Avenue Médian is the most prominent religious building in the city, built in a modern Maghrebi style with two slender minarets and a green-tiled dome. The white walls glow at sunset.

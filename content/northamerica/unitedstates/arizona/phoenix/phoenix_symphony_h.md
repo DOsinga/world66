@@ -10,6 +10,7 @@ tags:
 title: Phoenix Symphony Hall
 type: poi
 url: www.phoenixsymphony.org
+score: 6.6
 ---
 
 Home to the Phoenix Symphony, Arizona's only full-time professional orchestra, with a 75-member ensemble performing from September through May. The 2,300-seat hall in downtown Phoenix also hosts touring Broadway shows, ballet, and community events throughout the year.

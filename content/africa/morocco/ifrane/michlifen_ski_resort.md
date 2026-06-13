@@ -14,6 +14,7 @@ story: >
   in the medina for dinner.
 sources:
   - https://en.wikipedia.org/wiki/Mischliffen
+score: 7.2
 ---
 
 Michlifen sits about five kilometres from Ifrane at an elevation of 2,100 metres, making it Morocco's main ski resort. The infrastructure is modest — a handful of runs, ski rental shops, and a popular café — but the experience of skiing in North Africa is genuinely remarkable. The season runs roughly December through February, with snowfall variable year to year; in a good winter the slopes are properly powdery.

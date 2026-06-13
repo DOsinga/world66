@@ -17,6 +17,7 @@ story: >
   region for decades. The house he built reflects the prosperity and ambition
   of the Hispanic and Anglo merchants who controlled trade in northern New Mexico
   during the late 19th and early 20th centuries.
+score: 5.8
 ---
 
 The Frank Bond House is a historic property in Española that once belonged to one of the most influential merchant families in northern New Mexico. The Bond family's commercial operations dominated the economy of the Rio Arriba region in the late 19th and early 20th centuries, and the house reflects the wealth that came from controlling the trade routes through this part of the territory.

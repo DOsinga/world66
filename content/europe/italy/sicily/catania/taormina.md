@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 37.8516
 longitude: 15.2853
+score: 8.6
 ---
 
 Taormina sits on a high terrace above the sea fifty kilometres north of Catania, a medieval town wrapped around a Greek theatre. The theatre — third century BC, partly Roman — still functions as a concert venue, and the view from the upper tiers over the sea and Mount Etna is one of the most photographed in Italy.

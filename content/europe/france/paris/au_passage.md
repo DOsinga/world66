@@ -11,6 +11,7 @@ tags:
 - oberkampf
 title: Au Passage
 type: poi
+score: 6.4
 ---
 
 Au Passage occupies a narrow passage in the 11th arrondissement and has been a template for the Paris natural wine bar since it opened — a list of small, seasonally-changing plates built around the wine rather than the other way around. The approach is generously informal: you order a bottle, order several dishes as they take your fancy, and see how the evening develops.

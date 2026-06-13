@@ -13,6 +13,7 @@ story: >
   hand-laid by enslaved workers under conditions of extreme hardship. The road remained in use
   until better routes were opened in the 19th century. The name by which it is known today was
   given to it in the 20th century as a deliberate act of historical memory.
+score: 8.7
 ---
 
 The Caminho dos Escravos is a 13 km stone-paved trail built in the 18th century to connect Diamantina with the surrounding diamond districts. The original paving — large irregular stones fitted together by hand — survives over long stretches, and walking it gives an immediate physical sense of the labour involved in the colonial economy that created Diamantina's wealth.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: Baiona
 type: poi
+score: 8.1
 ---
 
 Baiona, on the southern shore of the Ría de Vigo, is one of the most

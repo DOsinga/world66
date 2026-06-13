@@ -8,6 +8,7 @@ tags:
 latitude: -9.0036
 longitude: -157.9694
 story: "Omoka's harbour is the only deepwater natural harbour in the northern Cook Islands, a geographic fact that gave Penrhyn strategic importance entirely out of proportion to its tiny population. During the Second World War, the United States built a military airstrip on the atoll and stationed personnel here. The airstrip is still used; it is the only reason Air Rarotonga can reach the island at all."
+score: 6.4
 ---
 
 Omoka is the main settlement on Penrhyn, a compact village on the western rim of the atoll with a small harbour, a church, a handful of basic guesthouses, and the kind of community life that exists when everyone on an island knows everyone else. The population is a few hundred at most.

@@ -6,6 +6,7 @@ longitude: 3.0458
 tags:
   - things_to_do
   - architecture
+score: 8.0
 ---
 
 The main post office of Algiers, built in 1910 by the French colonial architect Jules Voinot, is one of the finest examples of the hybrid Moorish-Renaissance style that defines French colonial Algiers. The facade combines Romanesque arches with elaborate Arabesque tilework in green and white; inside, a soaring central hall is lit by a stained-glass ceiling.

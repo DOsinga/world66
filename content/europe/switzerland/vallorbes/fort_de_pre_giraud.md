@@ -9,6 +9,7 @@ story: >
   exterior was built to look like a conventional Swiss chalet, complete with wooden shutters and a pitched roof.
   German reconnaissance aircraft flew over the Jura during World War II and apparently never identified it as
   what it was — a reinforced artillery position capable of holding out for months without outside support.
+score: 7.2
 ---
 
 Fort de Pré-Giraud is a Cold War–era Swiss Army fortress built inside a mountain above Vallorbes, disguised externally as a large Swiss chalet. The deception is convincing from a distance — only the unusual size and the lack of garden furniture give it away. Inside, a labyrinth of tunnels and chambers contains artillery positions, living quarters for over 100 soldiers, a hospital, a kitchen, ammunition stores, and a diesel generator that could run the fort indefinitely off the grid.

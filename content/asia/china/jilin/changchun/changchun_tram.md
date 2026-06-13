@@ -8,6 +8,7 @@ latitude: 43.8860
 longitude: 125.3210
 story: >
   Changchun's tram system is one of the oldest continuously operating trams in China, with origins in the trolley lines built during the Manchukuo period. The system was inherited, expanded, and eventually modernised, making Changchun one of the few Chinese cities that maintained street-running trams through the decades when most cities tore them up. The new light rail lines now run alongside the traditional route.
+score: 7.8
 ---
 
 Changchun's tram and light rail system is worth riding for its own sake — a rare experience in a Chinese city. The network covers several lines including a modern light rail extension of the older tram routes, and the combination gives the city a ground-level transit character that distinguishes it from the purely metro-and-taxi transport of comparable Chinese cities.

@@ -6,6 +6,7 @@ longitude: 174.3210
 tags:
 - things_to_do
 - sight
+score: 8.9
 ---
 
 The Cape Brett Track is a serious two-day tramp that runs sixteen kilometres along the spine of the Cape Brett peninsula to a lighthouse at the eastern tip of the bay. The path climbs through coastal forest, descends into half a dozen bush-filled gullies, and breaks out onto cliff-top ridges with views back toward the inner bay and out to Piercy Island and the Hole in the Rock.

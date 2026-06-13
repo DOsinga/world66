@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 63.3372
 longitude: -142.9839
+score: 6.6
 ---
 
 A surprise in a town of fewer than 1,500 people: a Thai food truck parked on the Alaska Highway, serving generous plates of pad thai, drunken noodles, and curry to bewildered travellers and grateful locals. It is open in the warmer months only, and the line builds quickly in the evenings.

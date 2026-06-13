@@ -13,6 +13,7 @@ story: >
   women are excluded by rule. Men, however, can try a riding slot as a guest
   with no prior experience required.
 type: poi
+score: 8.6
 ---
 
 The Cresta Run is the world's oldest toboggan track, a natural ice channel that drops 514 vertical metres from St. Moritz Bad to the village of Celerina in under 75 seconds. Built fresh each winter from snow and water, it has been operating in essentially the same form since 1884. Riders lie head-first on a small steel skeleton sled called a "toast rack" and reach speeds of over 130 km/h on the lower sections.

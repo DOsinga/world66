@@ -9,6 +9,7 @@ tags:
   - archaeology
   - ruin
 story: "The fort was held for over three hundred years and was the westernmost auxiliary garrison of the Roman Empire on the British mainland. Its name survives in the Welsh form 'Caer Seiont' — the fortress on the Seiont — which is the root of the modern name Caernarfon."
+score: 7.9
 ---
 
 Half a mile uphill from the castle, on the southeastern edge of the modern town, the low stone footings of Segontium mark the site of a Roman auxiliary fort founded by Agricola around AD 77. It is by far the oldest visible monument in Caernarfon and the reason there is a town here at all — Edward I built his castle within sight of the ruins, conscious of the prestige Roman associations carried.

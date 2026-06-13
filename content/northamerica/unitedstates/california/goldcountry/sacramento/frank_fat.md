@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.5785
 longitude: -121.4971
+score: 7.3
 ---
 
 Sacramento's most storied restaurant, open since 1939 and for decades the unofficial dining room of the California legislature. Frank Fat himself, a Chinese immigrant from Guangdong province, ran it until the 1980s; the family still operates it. Lobbyists, legislators, and governors have been making deals over Frank Fat's banana cream pie and honey chicken since before World War II.

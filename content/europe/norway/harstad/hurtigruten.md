@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 68.7980
 longitude: 16.5400
+score: 6.8
 ---
 
 Harstad is a scheduled stop on the Hurtigruten coastal express — the famous passenger and cargo ferry service that runs the full length of the Norwegian coast from Bergen to Kirkenes (or back), calling at 34 ports in each direction over a journey of around six days each way. The service has run since 1893 and is genuinely useful as transport, not just a tourist cruise.

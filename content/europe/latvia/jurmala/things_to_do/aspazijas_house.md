@@ -1,6 +1,7 @@
 ---
 title: "Aspazija's House"
 type: poi
+score: 6.8
 ---
 
 Aspazija's House in Majori is the summer home of Aspazija (1865–1943), Latvia's most celebrated playwright and poet, and her husband Rainis, the national poet. The couple spent many summers here, and the house has been preserved as a museum with period furnishings, personal effects, and exhibitions on their lives and literary work. It's one of the more intimate literary museums in the Baltic states — small enough to feel genuinely personal rather than institutional.

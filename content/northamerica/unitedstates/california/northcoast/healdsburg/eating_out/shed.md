@@ -8,6 +8,7 @@ latitude: 38.61138
 longitude: -122.86917
 address: "25 North Street, Healdsburg, CA 95448"
 snippet: Airy food hall near the plaza with excellent coffee, provisions, and a fermentation counter
+score: 7.1
 ---
 
 Shed is a large, barn-like space a block from the plaza that functions simultaneously as a café, a specialty food shop, and an education in what Northern California's larder can produce. The building is deliberately designed to blur the line between working kitchen and retail floor — you can see fermentation crocks on shelves, watch bread coming out of the oven, and read the origin story of the cheese you're about to buy.

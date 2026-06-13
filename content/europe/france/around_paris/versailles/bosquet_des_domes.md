@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8062
 longitude: 2.1163
+score: 5.8
 ---
 
 The Bosquet des Dômes takes its name from two white marble pavilions with domed roofs that once stood in this garden room, designed by Jules Hardouin-Mansart around 1677. The pavilions were removed in the 18th century, but the bosquet was recently restored to something close to its original layout, with its central basin and the enclosing hornbeam hedges trimmed back into walls.

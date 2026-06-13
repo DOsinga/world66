@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 21.9069
 longitude: -159.4700
+score: 5.7
 ---
 
 The Right Slice is a small pie shop in Koloa town that has built a loyal following among both residents and visitors. The menu focuses on sweet and savoury pies made with local ingredients — tropical fruit fillings including guava, lilikoi (passion fruit), and Kauai-grown produce, alongside more familiar flavours done well. The savoury options change seasonally and are worth asking about.

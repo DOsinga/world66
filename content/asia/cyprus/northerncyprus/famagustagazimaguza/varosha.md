@@ -8,6 +8,7 @@ title: Varosha
 type: poi
 story: >
   When Turkish troops took Famagusta in August 1974, the Greek Cypriot residents of Varosha fled south. The Turkish military then fenced off the entire quarter and prohibited any return. The hotels, shops, and houses were left exactly as they were that day — furniture in place, clothes in wardrobes, cars in the street. For decades it became one of the most famous "ghost towns" in the world, visible from the beach but unreachable. Parts of Varosha were reopened to visitors in 2020, though the process remains politically contested.
+score: 8.2
 ---
 
 Varosha (Maraş in Turkish) is the abandoned southern suburb of Famagusta that was fenced off by Turkish military forces in 1974 and left to decay for nearly half a century. Before 1974 it was one of the most fashionable resort destinations in the Mediterranean — a strip of modern hotels and beach apartments used by Elizabeth Taylor, Brigitte Bardot, and other figures of the era. The abrupt abandonment left everything in place.

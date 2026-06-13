@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.6
 ---
 
 Seminyak Beach is a long, wide, west-facing strand running from Pura Petitenget south into Legian and Kuta. The sand is grey-gold and the surf is consistently big — fun for boarding, less so for swimming, particularly when the rip is running. Lifeguards are stationed at the main access points and the red and yellow flag system is taken seriously; pay attention to it.

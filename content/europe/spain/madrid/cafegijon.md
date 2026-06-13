@@ -6,6 +6,7 @@ longitude: -3.6917
 tags:
   - bars_and_cafes
   - eating_out
+score: 7.2
 ---
 
 Madrid's most famous literary café, in business on the Paseo de Recoletos since 1888 and a regular haunt of every major Spanish writer of the 20th century — from Pío Baroja and Ramón Gómez de la Serna in the early years through Camilo José Cela and Antonio Buero Vallejo more recently. The interior — green velvet banquettes, marble tables, brass coat racks, slow ceiling fans — has barely changed in a century.

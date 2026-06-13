@@ -8,6 +8,7 @@ tags:
 - seafood
 title: Lord's Restaurant
 type: poi
+score: 4.6
 ---
 
 A long-running spot on Lewis Place with a menu built around the day's catch. The grilled seer fish and the devilled prawns are the reliable choices; the rice-and-curry set is good value. It fills up in the evenings with both tourists and locals, which is usually a reliable sign in Negombo. Prices are reasonable for the quality.

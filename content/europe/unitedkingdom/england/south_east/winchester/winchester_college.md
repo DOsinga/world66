@@ -11,6 +11,7 @@ story: >
   Winchester College was founded in 1382 by William of Wykeham, Bishop of Winchester, who also founded New College, Oxford — the two were designed as a system, with Winchester feeding its boys to Oxford. The relationship still exists: Winchester sends more boys to Oxford than virtually any other school in England, and the two foundations share a motto: "Manners Makyth Man."
 sources:
   - https://en.wikipedia.org/wiki/Winchester_College
+score: 8.3
 ---
 
 Winchester College is one of the oldest schools in England, founded in 1382 by Bishop William of Wykeham, and much of the original 14th-century fabric survives in use. The chapel, the dining hall, and the cloisters date from the medieval period. It is a striking example of continuous institutional use of medieval architecture: boys have been educated in these buildings for more than six centuries.

@@ -16,6 +16,7 @@ story: >
   only known case of an artist signing a work made of human remains.
 sources:
   - https://en.wikipedia.org/wiki/Sedlec_Ossuary
+score: 8.8
 ---
 
 The Sedlec Ossuary is a small Gothic chapel on the grounds of Sedlec Abbey whose entire interior has been decorated with the bones of approximately 40,000 people. The bones came from the cemetery that surrounded the abbey, which had been a sought-after burial site since the 13th century when an abbot returned from Jerusalem with a jar of earth from Golgotha and scattered it on the ground. In the waves of plague and conflict that followed, the cemetery grew to enormous size. When the cemetery was cleared in the 15th century, the bones were stacked inside the chapel; in 1870, the remarkable interior decoration was created.

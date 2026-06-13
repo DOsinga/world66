@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: National collection of Faroese history, archaeology, and ethnography
+score: 8.5
 ---
 
 Tjóðsavnið is the national museum of the Faroe Islands and sits in Hoyvík on the northern edge of Tórshavn. The collections cover Faroese archaeology from the Viking period onwards, the history of the island fisheries, and folk life — including the famous pew-end carvings rescued from the medieval church at Kirkjubøur.

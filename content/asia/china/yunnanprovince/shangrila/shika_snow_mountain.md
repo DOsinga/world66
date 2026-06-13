@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - mountain
+score: 7.2
 ---
 
 Shika Snow Mountain rises to 4,500 metres about ten kilometres southwest of Shangri-La. A cable car runs from the base at 3,300 metres to a viewing platform near the summit ridge, which on a clear day takes in the entire chain of peaks west of the town and, in good visibility, the Meili range another 150 kilometres north.

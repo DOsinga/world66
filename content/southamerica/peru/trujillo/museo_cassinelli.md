@@ -8,6 +8,7 @@ latitude: -8.1125
 longitude: -79.0243
 story: >
   The Museo Cassinelli occupies an unlikely location: the basement of a Mobil petrol station on one of Trujillo's busier streets. The collection — over 2,000 pre-Columbian ceramics assembled over decades by the Cassinelli family — is remarkable both for its quality and for the extraordinary fact that it's still run as a private collection, entry paid directly to whoever is minding the station.
+score: 7.5
 ---
 
 One of the most unusual museums in Peru sits under a petrol station in central Trujillo. The Museo Cassinelli is a private collection of pre-Columbian ceramics, mainly Moche and Chimú, assembled over decades by the Cassinelli family. With over 2,000 pieces on display in a relatively small basement space, the density is remarkable.

@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Krua Peenong
 type: poi
+score: 4.2
 ---
 
 Thai and Chinese cooking on Rattanathibet Road in Tambon Bang Krasor, next to the Krungthep Bank (Rattanathibet branch). Open 10am–midnight. Tel: 0 2969 8332.

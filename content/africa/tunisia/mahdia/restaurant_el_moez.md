@@ -6,6 +6,7 @@ longitude: 11.0700
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A long-running medina restaurant near the Place du Caire, El Moez serves a short menu of grilled fish, fresh salads, and Tunisian classics like brik à l'oeuf and ojja. Inside, the dining room is whitewashed and quiet; in summer the tables move outside.

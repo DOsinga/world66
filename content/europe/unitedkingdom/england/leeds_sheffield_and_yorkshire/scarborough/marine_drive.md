@@ -8,6 +8,7 @@ tags:
   - outdoor
   - sight
 snippet: A Victorian seafront road circling the headland — the best walk in Scarborough
+score: 8.8
 ---
 
 The Marine Drive is the essential Scarborough walk: a Victorian seafront road that circles the base of the castle headland between the North and South Bays, offering continuous sea views and a sense of the town's dramatic coastal geography that you cannot get from inland. The road was carved from the cliff face in the 1890s and is frequently wave-washed in rough weather.

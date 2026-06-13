@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -36.1281
 longitude: 144.7517
+score: 7.9
 ---
 
 A genuinely eccentric museum of Victorian and Edwardian popular entertainment, Sharp's houses a working collection of antique penny arcade machines, kinetoscopes, hand-cranked film projectors, and mechanical musical instruments. Most of the machines still work, and the staff will demonstrate them — including a Mutoscope that flicks through a sequence of photographs to create moving images, patented in 1894 and essentially unchanged in the collection.

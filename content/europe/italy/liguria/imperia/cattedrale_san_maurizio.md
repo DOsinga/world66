@@ -8,6 +8,7 @@ tags:
 - church
 title: Cattedrale di San Maurizio e Compagni Martiri
 type: poi
+score: 7.5
 ---
 
 The Cathedral of San Maurizio sits at the highest point of Porto Maurizio, its pale neoclassical bulk visible from a long way along the coast. Construction started in the 18th century and the building was completed in stages, with the interior finished in a restrained neoclassical style — a single nave with side chapels and paintings from the Ligurian baroque tradition. The exterior terrace commands one of the best panoramas in the town: on a clear day you can see along the coast toward France to the west and the Ligurian Apennines behind.

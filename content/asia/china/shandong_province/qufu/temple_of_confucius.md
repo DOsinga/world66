@@ -8,6 +8,7 @@ latitude: 35.5967
 longitude: 116.9842
 story: >
   The Dacheng Hall at the center of the Temple of Confucius is ranked alongside the Forbidden City's Taihe Hall as one of the two grandest wooden buildings in China. Its 28 carved stone columns on the front face — each carved from a single stone, each different, with writhing dragons emerging from ocean waves — have no equal in Chinese architectural decoration. They were reportedly covered with red cloth when the Qianlong Emperor visited so he would not feel shamed by structures finer than those in his own palace.
+score: 9.6
 ---
 
 The Temple of Confucius in Qufu is the largest and most historically important Confucian temple in the world — a complex of nine courtyards, 466 rooms, and 54 doors spread over 16 hectares, the result of continuous expansion over 2,500 years. The temple began as the house of Confucius, preserved by his descendants as a site of commemoration in the year after his death in 479 BCE; by the Han Dynasty it was a major state institution; by the Song it was an imperial architectural complex of the first rank.

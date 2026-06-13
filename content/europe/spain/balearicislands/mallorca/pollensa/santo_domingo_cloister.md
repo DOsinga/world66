@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.8
 ---
 
 The 17th-century Dominican convent in the centre of Pollença now houses the town's history museum and a beautiful cloister of two storeys of round arches around a central well. The cloister is occasionally used as a concert venue during the summer Festival de Pollença.

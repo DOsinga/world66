@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 10.882
 longitude: -68.281
+score: 7.0
 ---
 
 Cayo Pelón lives up to its name — "bald cay" — a small slip of sand with a handful of palm trees and almost nothing else. There are no facilities, no shade beyond what you bring, and no other people most days. That is precisely the point: if you want the picture-postcard empty Caribbean island, this is it.

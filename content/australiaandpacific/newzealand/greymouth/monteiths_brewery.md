@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - brewery
+score: 5.7
 ---
 
 Monteith's has been brewing on the West Coast since 1868 and remains one of New Zealand's better-known craft labels. The current brewery and visitor centre, on the corner of Turumaha and Herbert Streets in central Greymouth, opened in 2011 — a glass-fronted modern facility built on the site of the original brewery.

@@ -7,6 +7,7 @@ tags:
 latitude: 59.4393
 longitude: 24.7447
 snippet: Tallinn's first craft pub, now a beloved Old Town institution
+score: 7.0
 ---
 
 Hell Hunt ("Gentle Wolf" in Estonian) opened in 1993 as Estonia's first craft pub after independence, and it has been a fixture of Old Town nightlife ever since. The formula is straightforward — Estonian and imported craft beers on tap, good pub food, a relaxed atmosphere — but in a neighbourhood full of themed tourist traps, the lack of pretension is its own distinction.

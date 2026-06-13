@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Delaware_County_Fairgrounds_racetrack
 story: >
   The Little Brown Jug takes its name from a popular nineteenth-century song about a farmer and his jug of whiskey — the race's founders had a sense of humor. Since 1946 the race has been held on the third Thursday in September at the Delaware County Fairgrounds, and the winner's connections receive a small brown ceramic jug as the trophy. It is one of harness racing's Triple Crown events, alongside the Hambletonian and the Kentucky Futurity.
+score: 7.7
 ---
 
 The Little Brown Jug is one of the most important harness races in North America — part of the sport's informal Triple Crown for three-year-old pacers — and it has been held in Delaware every September since 1946. The race takes place at the Delaware County Fairgrounds racetrack on the north side of the city, as part of the Delaware County Fair.

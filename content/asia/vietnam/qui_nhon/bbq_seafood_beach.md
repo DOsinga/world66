@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 13.7710
 longitude: 109.2370
+score: 6.3
 ---
 
 The stretch of road running behind Qui Nhon's main beach is lined with open-air seafood restaurants that operate from late afternoon until midnight. The format is the same at most of them: tanks of live crabs, lobster, and fish at the entrance, plastic tables on a covered terrace, and a menu that essentially depends on what came in that morning.

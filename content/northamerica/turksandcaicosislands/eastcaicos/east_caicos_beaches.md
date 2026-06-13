@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.700
 longitude: -71.488
+score: 8.1
 ---
 
 The northern and eastern shores of East Caicos have long stretches of beach that see virtually no human visitors. The sand is fine and white, the water clear, and the reefs in good condition — because almost no one snorkels here. Bonefishing in the shallow tidal flats on the south side is among the best in the archipelago.

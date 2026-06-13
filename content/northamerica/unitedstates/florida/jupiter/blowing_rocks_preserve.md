@@ -12,6 +12,7 @@ story: >
   retreated and the limestone was exposed, waves carved the network of tunnels
   and blowholes now visible at the surface. On the highest winter tides, the
   spray can shoot 50 feet into the air.
+score: 8.2
 ---
 
 Blowing Rocks Preserve, on Jupiter Island just south of town, protects one of the most unusual stretches of shoreline in Florida. An outcrop of Anastasia limestone runs along the beach, honeycombed by centuries of wave action into tunnels, arches, and blowholes. At high tide, especially during winter storms, waves force water through the openings and send plumes of spray shooting above the rock — spectacular enough that people time visits around the tide tables.

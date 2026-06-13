@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.9782
 longitude: 7.9218
+score: 7.8
 ---
 
 Tucked into a courtyard off the Oberstrasse, this museum houses around 350 self-playing mechanical musical instruments dating from the 18th to the early 20th century. The collection ranges from simple music boxes small enough to hold in a palm to a three-metre fairground organ that fills the room with sound. Barrel organs, orchestrions, pianolas, and automata are all represented.

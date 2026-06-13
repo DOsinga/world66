@@ -7,6 +7,7 @@ tags:
 - sight
 title: Fethiye Mosque
 type: poi
+score: 7.2
 ---
 
 The Fethiye ("Conquest") Mosque inside the upper Its Kale citadel was rebuilt in the early 19th century during Ali Pasha's rule, replacing an earlier mosque from 1430. It is the largest of the three surviving Ottoman mosques in Ioannina and the most central to the city's Ottoman history.

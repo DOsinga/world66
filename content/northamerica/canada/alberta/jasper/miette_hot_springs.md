@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 52.9850
 longitude: -117.9133
+score: 8.2
 ---
 
 The hottest natural hot springs in the Canadian Rockies, Miette emerges from the ground at 54°C before being cooled to a swimmable temperature in two outdoor pools. The drive to get there — about 60km from Jasper through the remote Fiddle River Valley — is half the experience: a narrow road that winds past waterfalls, bighorn sheep on the cliffs, and the quiet impression that you are heading somewhere genuinely far from the crowds.

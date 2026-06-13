@@ -14,6 +14,7 @@ story: >
   plants growing between the tracks. Two Chelsea residents, Robert Hammond and Joshua David,
   proposed turning it into an elevated park in 1999; the city's planning establishment thought
   they were crazy. The High Line opened in 2009 and has since had over 8 million visitors a year.
+score: 9.0
 ---
 
 The High Line is an elevated linear park built on a former freight railway line, running 2.3 km along the western edge of Manhattan from the Meatpacking District in the south through Chelsea to Hudson Yards in the north. It opened in 2009 and has become one of the most influential pieces of public urban design built anywhere in the past 25 years — widely imitated, never quite duplicated.

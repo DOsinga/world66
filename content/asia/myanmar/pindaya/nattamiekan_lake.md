@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 20.9237
 longitude: 96.6693
+score: 6.6
 ---
 
 The town of Pindaya sits on the edge of Nattamiekan Lake — also called Angels Lake — a placid stretch of water in the Shan Hills that reflects the surrounding hills and, on clear mornings, the limestone ridge where the cave temple sits above. The lake is the geographical heart of the town, and the view across the water to the cliff face and the pagoda at the cave entrance is the defining image of Pindaya.

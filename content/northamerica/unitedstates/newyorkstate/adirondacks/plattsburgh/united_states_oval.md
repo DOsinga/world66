@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 snippet: "200-year-old US Army parade ground ringed by Federal and Greek Revival barracks — Plattsburgh's most atmospheric quarter"
+score: 8.0
 ---
 
 The Oval is what remains of the **Plattsburgh Barracks**, a US Army post that operated continuously from 1815 to 1946 and was the city's main employer for most of that period. The central oval-shaped parade ground is ringed by handsome **brick Federal and Greek Revival officers' houses**, the 1838 Old Stone Barracks, the former hospital (now the Battle of Plattsburgh Museum), and the parade-ground band shell.

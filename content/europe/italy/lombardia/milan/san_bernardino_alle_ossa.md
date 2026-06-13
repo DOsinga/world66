@@ -11,6 +11,7 @@ opening_hours: "Mon–Fri 07:30–13:00, 14:00–17:30; Sat 09:30–12:30; close
 admission: "Free"
 story: >
   The ossuary dates to around 1210, when the cemetery of the nearby hospital ran out of space. Rather than disturb consecrated ground, monks collected the overflowing bones and arranged them decoratively in a side chapel. The practice continued for centuries — the most recent bones are from the 18th century — producing one of the most elaborate ossuaries in northern Italy.
+score: 7.1
 ---
 
 A small church tucked into a corner of central Milan with an extraordinary secret: a chapel whose walls are entirely encrusted with human bones. Skulls line the upper registers; femurs and tibias form geometric patterns below; the vaulted ceiling is a mosaic of bones and skulls arranged into elaborate patterns. The effect is macabre but genuinely beautiful.

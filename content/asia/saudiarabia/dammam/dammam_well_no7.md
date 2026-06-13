@@ -14,6 +14,7 @@ story: >
   when Well No. 7 was spudded in 1937. On 4 March 1938, it blew in with such
   force that a column of oil shot above the drilling rig. The subsequent
   discovery reshaped the 20th century.
+score: 5.4
 ---
 
 Dammam Well No. 7 — also called the Prosperity Well — is a monument marking the site where Standard Oil of California struck commercially viable oil on 4 March 1938, transforming Saudi Arabia from a poor desert country dependent on pilgrimage revenues into what would become the world's largest oil exporter. The well itself is preserved near the Ithra cultural complex in Dhahran.

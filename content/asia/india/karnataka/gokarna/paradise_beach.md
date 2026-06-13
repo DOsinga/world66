@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Paradise Beach
 type: poi
+score: 7.8
 ---
 
 The most remote of Gokarna's four main beaches, Paradise Beach rewards the effort it takes to reach it. From Half Moon Beach, you scramble over a rocky headland for about twenty minutes -- wear proper shoes, not flip-flops. The alternative is a short boat ride from Om Beach or the main town beach.

@@ -11,6 +11,7 @@ story: >
   The park's most famous resident is the hyacinth macaw, the world's largest parrot species, with plumage of an impossibly saturated cobalt blue. Wild populations have fallen to around 7,000 birds, largely due to habitat loss and the illegal pet trade; Parque das Aves breeds them in captivity and has released birds back into the wild.
 sources:
   - https://en.wikipedia.org/wiki/Parque_das_Aves
+score: 8.4
 ---
 
 Parque das Aves sits at the entrance to the Iguaçu National Park, set within a genuine fragment of Atlantic rainforest. It is one of the finest bird parks in South America, with around 1,400 birds representing 150 species, many of them native to the Atlantic Forest biome, which has been reduced to less than 12% of its original cover. Walk-through aviaries let you mingle with toucans, parrots, macaws, and flamingos at close range — some birds land on your head whether you invite them or not.

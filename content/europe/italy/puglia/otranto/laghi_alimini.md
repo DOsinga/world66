@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.2002
 longitude: 18.4452
+score: 6.8
 ---
 
 About 8 kilometres north of Otranto lie the two Alimini lakes — Alimini Grande, which connects to the sea, and the freshwater Alimini Piccolo (also called Fontanelle), fed by underground springs. Together they form one of the most important wetland habitats in Puglia, a stopover for migrating waterfowl including herons, cormorants, and the occasional flamingo.

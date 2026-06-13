@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.1
 ---
 
 The main beach runs along the entire seventeen-kilometre north side of the island, but the most-used section sits directly above the village, between the lifeguard station and the Pavillon. Pale, fine sand, gentle dunes behind, and the long flat North Sea in front — at low tide the water retreats almost out of sight and the beach widens to several hundred metres.

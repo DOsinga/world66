@@ -8,6 +8,7 @@ tags:
 - sight
 title: Parque Urbano Central
 type: poi
+score: 5.9
 ---
 
 The Parque Urbano Central is La Paz's largest green space in the central city, a long park that runs along the lower city near Miraflores. It has paths, benches, and enough vegetation to make it feel genuinely removed from the surrounding streets. On weekend mornings it fills with families, joggers, and the regular contingent of people doing slow tai chi on the grass. It's not spectacular, but La Paz is a city where usable green space is rare, and the park is well-maintained.

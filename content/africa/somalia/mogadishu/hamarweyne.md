@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 2.03400
 longitude: 45.34200
+score: 8.8
 ---
 
 Hamarweyne — the name means "big Hamar," Hamar being the old Arab name for Mogadishu — is the oldest part of the city, the medieval Arab quarter that was the original settlement from which the whole city grew. Its streets are narrow and irregular, its buildings constructed from the local coral stone that gives the old quarter a distinctive warm grey-brown colour different from the Italian colonial concrete of the newer areas.

@@ -16,6 +16,7 @@ story: >
   Cristo Redentor in Rio de Janeiro in 1936. The statue was finally inaugurated in 1959,
   seventeen years after the war ended, by which point the project had grown from a modest
   cross into a 28-metre figure on a 75-metre pedestal.
+score: 9.1
 ---
 
 The Sanctuary of Christ the King stands on a promontory above the Tagus, arms spread wide towards Lisbon as if in a permanent embrace of the city. From the ground, the 28-metre figure of Christ on its 75-metre pedestal is striking; from the viewing platform at the top, the panorama is one of the best in the Lisbon region. On a clear day you can see the entire city laid out across the river, the Ponte 25 de Abril stretching westward, the Atlantic glinting beyond.

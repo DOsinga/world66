@@ -8,6 +8,7 @@ snippet: A small ethnographic and archaeology museum in the old convent
 tags:
   - things_to_do
   - museum
+score: 6.5
 ---
 
 The Museo da Terra de Melide is housed in a wing of the former 14th-century Convento do Sancti Spiritus, on the central square. The collection covers the prehistory and rural ethnography of the Terra de Melide comarca: Iron Age finds from the Castro da Graña, agricultural implements, photographs of the surrounding villages in the 19th century, traditional Galician costume.

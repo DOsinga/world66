@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Damlata%C5%9F_Cave
+score: 6.8
 ---
 
 Damlataş Cave sits at the base of the promontory, a short walk from Cleopatra Beach. It was discovered in 1948 during blasting operations to create the harbour — the workers broke through into a chamber full of stalactites and stalagmites that had been forming for around 15,000 years.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.6809
 longitude: 8.2258
+score: 6.7
 ---
 
 Lake Baratz, about 2 km east of Porto Ferro, is the only natural freshwater lake in Sardinia. Surrounded by cork oak forest and Mediterranean scrubland, it is a quiet place to walk after the beach — the path around the lake takes about an hour and passes through a landscape quite different from the coastal dunes.

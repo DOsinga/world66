@@ -15,6 +15,7 @@ story: >
   controlling the entire northeastern approach to the country, which is why
   successive dynasties spent so heavily fortifying what was, strategically,
   the most important piece of land in Morocco.
+score: 7.8
 ---
 
 The **Taza Gap** is the narrow pass between the Rif Mountains to the north and the Middle Atlas to the south, and the view from Taza's medina hilltop across this corridor is the reason the city exists in the position it does. On a clear day from [Bab Er Rih](/africa/morocco/taza/bab_er_rih) or the medina walls, you can see both mountain ranges simultaneously — an unusual perspective that makes the strategic geography immediately legible.

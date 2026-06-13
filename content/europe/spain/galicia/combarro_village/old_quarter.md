@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 42.4328
 longitude: -8.6815
+score: 8.5
 ---
 
 Combarro's old quarter — the barrio histórico — is a compact network of granite-paved lanes connecting the waterfront to the church of San Roque and the small square at its heart. The houses are traditional Galician stone construction: thick granite walls, wooden balconies enclosed in glass (the characteristic Galician solaina), and carved lintels over the doorways.

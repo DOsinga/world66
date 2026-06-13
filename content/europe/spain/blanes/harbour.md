@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6742
 longitude: 2.7948
+score: 7.5
 ---
 
 Blanes still functions as a working fishing port, and the harbour is one of the most genuine on the Costa Brava. Each afternoon the fishing boats come in and the catch is auctioned in the lonja — the fish market on the quayside — usually around five or six in the evening. The auction is open to visitors and worth watching: it's fast, efficient, and gives a sense of the real economy behind the tourist veneer.

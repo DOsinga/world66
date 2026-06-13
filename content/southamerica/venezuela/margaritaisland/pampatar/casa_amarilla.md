@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The yellow colonial house on the corner of the main waterfront — locally known as the Casa Amarilla — was once a customs office and now houses a small cultural and historical exhibition. The building dates from the 18th century, with deep verandas and a Caribbean roof, and is one of the better surviving examples of secular colonial architecture in Margarita.

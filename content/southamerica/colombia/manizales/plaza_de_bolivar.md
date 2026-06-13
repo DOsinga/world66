@@ -6,6 +6,7 @@ longitude: -75.5174
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Plaza de Bolívar is the centre of civic Manizales, anchored by the Cathedral Basilica and surrounded by government buildings, banks, and the Gobernación de Caldas. The square's defining feature is the Bolívar-Cóndor monument — a bronze sculpture by Rodrigo Arenas Betancur that depicts Simón Bolívar as a condor in mid-flight, a deliberate break from the conventional equestrian statue.

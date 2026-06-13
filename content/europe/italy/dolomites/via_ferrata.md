@@ -13,6 +13,7 @@ story: >
   would otherwise have required specialised climbing skill. The routes built for tactical
   movement in 1915–18 became, after the war, the basis of an entirely new recreational
   activity. There are now over 250 documented via ferrata routes in the Dolomites alone.
+score: 8.9
 ---
 
 Via ferrata — "iron way" — routes are the Dolomites' most distinctive outdoor activity: fixed iron rungs, stemples, ladders, and cables bolted into otherwise vertical rock faces, allowing relatively non-technical climbers to reach high terrain that would normally require roped alpine climbing. A via ferrata harness and a short lanyard are all the equipment you need; a good head for heights helps considerably.

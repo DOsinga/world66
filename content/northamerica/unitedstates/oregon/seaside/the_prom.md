@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.0
 ---
 
 The Promenade — the Prom to anyone who has been here more than once — is the defining feature of Seaside. Built in 1920, the 1.5-mile concrete walkway runs the length of the beach, wide enough that cyclists, joggers, and families pushing strollers can pass each other without negotiating. The ocean is on one side; candy shops, rental stands, and small hotels are on the other. The whole thing has a pleasantly old-fashioned seaside resort atmosphere that feels neither forced nor ironic — Seaside has been doing this for over a century and has gotten comfortable with it.

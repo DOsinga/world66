@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 36.0640
 longitude: -95.8694
+score: 6.3
 ---
 
 The Ray Harral Nature Center is a 40-acre park on the western edge of Broken Arrow with a mix of nature trails, picnic areas, and a small nature center with exhibits on local wildlife and ecosystems. For a suburban park it is notably well-maintained and genuinely natural — the creek corridor through the property supports a reasonable range of birds and wildflowers.

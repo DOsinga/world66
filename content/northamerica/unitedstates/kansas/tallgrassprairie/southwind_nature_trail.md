@@ -10,6 +10,7 @@ latitude: 38.4386
 longitude: -96.5587
 sources:
   - https://home.nps.gov/articles/000/tallgrass-prairie-npres-hiking-map.htm
+score: 8.0
 ---
 
 The Southwind Nature Trail is the preserve's most approachable prairie walk, looping from the ranch area toward open hillside and the schoolhouse. It is short enough for casual visitors but gives a real taste of the rise-and-fall rhythm of the Flint Hills.

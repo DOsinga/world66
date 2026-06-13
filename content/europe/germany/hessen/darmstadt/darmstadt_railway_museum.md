@@ -8,6 +8,7 @@ latitude: 49.8647
 longitude: 8.6330
 story: >
   The museum is run almost entirely by volunteers — retired railway workers and enthusiasts who maintain the historic locomotives and carriages and run the occasional steam excursion. On operating days you can ride behind a working steam engine on a short stretch of preserved track, which is as close to time travel as Darmstadt gets.
+score: 7.2
 ---
 
 The Darmstadt Railway Museum (Eisenbahnmuseum Darmstadt-Kranichstein) occupies a preserved 1890s engine shed in the Kranichstein district, northwest of the centre. The collection focuses on the history of the German railway network, with particular attention to the state railways of Hessen and the pre-war Reichsbahn.

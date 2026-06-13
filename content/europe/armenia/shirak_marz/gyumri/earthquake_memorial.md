@@ -12,6 +12,7 @@ story: >
   In Gyumri — then called Leninakan — between 10,000 and 25,000 people died and over 200,000 lost their homes.
   The earthquake came less than three years before the collapse of the Soviet Union, and the slow and chaotic relief effort
   accelerated Armenian disillusionment with Moscow in ways that were visible in the independence movement that followed.
+score: 7.1
 ---
 
 A memorial park in the northern part of the city, dedicated to the victims of the December 7, 1988 earthquake. The earthquake killed somewhere between 25,000 and 50,000 people across northern Armenia — the exact figure remains disputed — and devastated Gyumri, then known as Leninakan, more than any other city. The park sits near the site of some of the worst destruction and includes monuments to the dead, photographs, and a small museum.

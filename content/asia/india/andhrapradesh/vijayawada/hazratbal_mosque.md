@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.5167
 longitude: 80.6325
+score: 6.3
 ---
 
 The principal mosque of Vijayawada, in the One Town (Old Town) area near the river. It is named for the famous Hazratbal shrine in Kashmir and is said to house a relic of the Prophet, displayed on special religious occasions. The mosque is modest in scale but the centre of the city's small but old Muslim community.

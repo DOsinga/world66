@@ -9,6 +9,7 @@ tags:
 latitude: -23.862
 longitude: 35.566
 snippet: Year-round manta ray encounters at cleaning stations on Tofo's outer reef
+score: 9.1
 ---
 
 While whale sharks get the headlines, Tofo's population of reef manta rays — present throughout the year — is arguably the more reliable wildlife encounter. The outer reef has established cleaning stations where manta rays queue up to have parasites removed by small wrasse fish. Divers can hover above the station and watch the rays circle in one of the more hypnotic sights in diving.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7871
 longitude: -105.5010
+score: 6.8
 ---
 
 One of the few remnants of the area's actual mining history that you can still visit, the Hidee Gold Mine on Chase Gulch Road offers guided underground tours through a working historic mine. You descend into the tunnels in hard hats to see the original ore veins, hand-drilling marks, and equipment left from the 19th and early 20th century gold rush.

@@ -16,6 +16,7 @@ story: >
   is the official emblem of the China National Tourism Administration. The original is
   in the Gansu Provincial Museum in Lanzhou. The Wuwei museum has it in the context
   of everything else that came out of the same tomb.
+score: 7.8
 ---
 
 The Leitai Han Culture Museum is built around a Han Dynasty tomb discovered in 1969, the burial place of a military officer and his wife, sealed and preserved from approximately the second century AD. The tomb yielded over two hundred bronze objects, including the famous Flying Horse of Gansu — the most reproduced image in Chinese tourism, an image of a horse in full gallop with one hoof resting on a swallow, somehow conveying both impossible lightness and tremendous speed. The original is displayed in Lanzhou, but the museum here provides the essential context: the full assemblage of chariots, horses, infantry figures, and domestic objects that accompanied the tomb occupant on his journey.

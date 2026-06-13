@@ -8,6 +8,7 @@ tags:
 title: Memento Park
 type: poi
 story: "When communism collapsed in 1989, Budapest faced the question every post-Soviet city faced: what to do with the giant propaganda statues? Most cities destroyed theirs. Budapest gathered 42 of them — including a massive Lenin, a striding pair of Soviet and Hungarian workers, and a Red Army soldier — and put them in an outdoor museum on the southwestern edge of the city, where they stand today in carefully arranged gravel beds."
+score: 8.0
 ---
 
 Memento Park is a 45-minute bus ride from the city centre, and the journey is part of the experience — you pass through suburban Budapest and arrive at what looks like a film set, a semicircular open-air space surrounded by a brick wall and filled with oversized socialist realist sculpture. The effect is somewhere between absurd and genuinely imposing. These statues were designed to overwhelm, and they still do.

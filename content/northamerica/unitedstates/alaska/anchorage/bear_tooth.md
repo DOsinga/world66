@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Second-run cinema with table service and microbrews from Moose's Tooth
+score: 7.3
 ---
 
 A cinema where you watch second-run films from a table, eating pizza and drinking pints from the Moose's Tooth brewery upstairs. Tickets are five dollars. The food is the same pizza menu as Moose's Tooth — the Spicy Thai, the Goldzilla — delivered to your seat during the trailers.

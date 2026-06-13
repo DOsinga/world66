@@ -11,6 +11,7 @@ story: >
   iSimangaliso — meaning "miracle and wonder" in Zulu — holds the distinction of being South Africa's first UNESCO World Heritage Site, declared in 1999. Within its boundaries you can find hippos, crocodiles, whale sharks, and nesting leatherback turtles all within a few kilometres of each other, a combination found nowhere else on earth.
 sources:
   - https://en.wikipedia.org/wiki/iSimangaliso_Wetland_Park
+score: 9.1
 ---
 
 iSimangaliso Wetland Park covers 330,000 hectares of KwaZulu-Natal's northern coast, protecting a system of lakes, wetlands, coastal forests, and coral reefs that have remained largely intact for millions of years. Lake St Lucia at its heart is Africa's largest estuary — a shallow warm-water lake backed by high vegetated dunes on one side and the Indian Ocean on the other.

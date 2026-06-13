@@ -9,6 +9,7 @@ tags:
 - beach
 title: Koh Chang Beaches
 type: poi
+score: 8.3
 ---
 
 Koh Chang is Thailand's third-largest island, sitting in the Gulf of Thailand near the Cambodian border. Unlike Phuket or Samui, it still has a slightly rougher edge — the interior is mountainous jungle and the roads are steep and winding.

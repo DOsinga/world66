@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Ackermann's Kneipe
 type: poi
+score: 5.4
 ---
 
 A neighbourhood pub in Stuttgart West serving hearty German fare alongside BBQ ribs in a relaxed, welcoming setting. The real draw is the whisky collection — over 100 single malts lined up behind the bar, with staff happy to guide you through them. Regulars treat it like a living room, which says something.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.879
 longitude: 74.6075
 address: "Erkindik Boulevard, Bishkek"
+score: 7.3
 ---
 
 A permanent open-air sculpture garden inside Oak Park, sometimes catalogued separately. The garden was planted around the original sculpture park established in the 1980s by the Union of Kyrgyz Artists and includes around 100 figurative bronzes and stone pieces — Lenin and his colleagues sit incongruously beside abstract pieces by post-independence sculptors.

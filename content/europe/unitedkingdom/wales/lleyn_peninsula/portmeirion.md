@@ -14,6 +14,7 @@ story: >
   played a secret agent held captive in an unnamed "Village." Fans still make pilgrimages here, and
   the series is screened regularly in the local cinema. The distinctive piazza, the green dome, the
   pastel facades — all were chosen for their visual disorientation.
+score: 9.0
 ---
 
 Portmeirion is an Italianate fantasy village built between 1925 and 1975 by the eccentric Welsh architect Clough Williams-Ellis on a private peninsula overlooking the Dwyryd Estuary. It was his lifelong passion project, a demonstration that development need not spoil a beautiful site. The result is extraordinary: a Mediterranean village dropped into the Welsh hills, complete with campanile, colonnades, baroque statuary, and buildings in shades of terracotta, yellow, and cream.

@@ -11,6 +11,7 @@ tags:
   - architecture
   - salamanca
 snippet: "Row of 1830s sandstone warehouses turned into galleries, restaurants, bars, and shops"
+score: 8.8
 ---
 
 A row of Georgian sandstone warehouses lining the harbour, built in the 1830s when Hobart was one of the busiest ports in the Southern Hemisphere. The buildings were used for whale oil, grain, and apples shipped to England; by the 1950s most of them were derelict. The 1972 revival turned them into Hobart's most concentrated cluster of cafés, restaurants, bars, art galleries, and craft shops — the row stays lively most evenings and explodes into life on Saturday mornings.

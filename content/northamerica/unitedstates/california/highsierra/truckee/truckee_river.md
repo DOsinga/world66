@@ -8,6 +8,7 @@ tags:
   - sport
 latitude: 39.3320
 longitude: -120.1700
+score: 6.8
 ---
 
 The Truckee River flows east through town and continues all the way to Pyramid Lake in Nevada — the only river to drain Lake Tahoe. In summer, the river corridor through and below Truckee is a natural gathering place: people swim in the pools below rapids, kayakers and inner-tubers float the more accessible stretches, and anglers work the banks for brown and rainbow trout. The water is cold even in August, fed by snowmelt from the Sierra Nevada above.

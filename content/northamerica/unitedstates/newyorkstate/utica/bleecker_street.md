@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.1000
 longitude: -75.2330
+score: 8.1
 ---
 
 Bleecker Street and the surrounding neighbourhood is what makes Utica genuinely interesting to visitors. Waves of refugees — Bosnians in the 1990s, then Burmese and Somali communities in the 2000s — have settled here and opened restaurants and markets that have become a real reason to visit. It's one of the most diverse small-city neighbourhoods in the northeast, and the food scene reflects it.

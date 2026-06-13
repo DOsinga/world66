@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.0815
 longitude: 13.2920
+score: 9.1
 ---
 
 The cloisters of Monreale Cathedral are among the finest Romanesque cloisters in Europe. A square garden is surrounded by 228 paired columns — no two pairs alike — each carved with intricate decorative patterns: geometric interlace, plant forms, figures of animals and saints, and in some cases with glass mosaic inlay in Arab style. The variety is extraordinary; you can spend a long time moving slowly around the arcade finding new details.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.7900
 longitude: 110.0100
+score: 8.2
 ---
 
 The full walk between the Ping'An (Zhuang) and Dazhai (Yao) terrace areas, crossing the ridge between the two valleys, takes about four to five hours at a comfortable pace. The path runs through tea plantations, bamboo groves, and several small villages that see a fraction of the visitors that pass through the two main terrace zones. The views from the ridge connecting the two areas — looking east over the Ping'An terraces and west over the Jinkeng formation simultaneously — are the best available in the whole scenic area.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The Renaissance palazzo at the heart of the old fortified town now houses the comune's offices. It stands in what was the bailey of the Castello di San Michele Arcangelo al Ponte a Sieve, the medieval citadel whose walls and gates still ring the centre.

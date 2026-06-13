@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 30.3947
 longitude: -97.9119
+score: 6.8
 ---
 
 Lake Travis is the largest of the Highland Lakes chain — a 64-mile-long reservoir on the Colorado River about 15 miles northwest of Austin. It is Austin's summer playground: boating, swimming, wakeboarding, cliff jumping, and lakeside dining all happen here at scale, and the lake draws enormous crowds from May through September.

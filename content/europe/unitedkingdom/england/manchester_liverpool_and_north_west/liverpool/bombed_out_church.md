@@ -8,6 +8,7 @@ tags:
 - landmark
 title: St Luke's (Bombed-Out Church)
 type: poi
+score: 8.1
 ---
 
 The shell of St Luke's Church, gutted by a German firebomb on the night of 5 May 1941 and deliberately left as a permanent memorial to those who died in the Liverpool Blitz. The neogothic walls and tower are intact; the roof, pews and interior are gone, replaced by an open-air courtyard with grass, trees and pop-up bars.

@@ -15,6 +15,7 @@ story: >
   Australia's most extraordinary landscapes.
 sources:
   - https://en.wikipedia.org/wiki/Purnululu_National_Park
+score: 9.8
 ---
 
 Purnululu is the Kimberley's most iconic sight: a 240,000-hectare World Heritage site containing the Bungle Bungle Range, a formation of sandstone domes banded in orange and black — the orange from silica, the black from algae — that rises improbably from the flat surrounding savannah. From the air (helicopter flights depart from Kununurra and from the park itself) the domes look almost artificial; on the ground, walking among them, the scale only gradually becomes clear.

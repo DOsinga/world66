@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9667
 longitude: 7.9667
+score: 7.3
 ---
 
 Lucinasco is one of the most intact medieval villages in the Impero Valley — a small cluster of stone houses on a hillside surrounded by olive groves, with two churches that have stood largely unchanged since the 15th century. Santo Stefano and the Maddalena face each other across the village's small square, both still in active use, both preserving elements of their original fabric.

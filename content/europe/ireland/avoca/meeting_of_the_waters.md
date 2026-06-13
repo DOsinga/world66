@@ -9,6 +9,7 @@ longitude: -6.215
 sources:
   - https://en.wikipedia.org/wiki/Avoca,_County_Wicklow
 story: "Thomas Moore wrote his poem 'The Meeting of the Waters' in 1807 after visiting this spot, where the Avonmore and Avonbeg rivers join. The first lines — 'There is not in this wide world a valley so sweet / As that vale in whose bosom the bright waters meet' — made the confluence famous across the English-speaking world. Moore was a close friend of Lord Byron and the most popular Irish poet of his age. A stone monument to him stands beside the confluence."
+score: 7.9
 ---
 
 The Meeting of the Waters is the confluence of the Avonmore and Avonbeg rivers in the Vale of Avoca, made famous by the poet Thomas Moore who immortalised it in verse in 1807. The spot is signposted and easy to find — a short walk from the village leads to a viewing area above the confluence where the two rivers join among alder trees and mossy boulders.

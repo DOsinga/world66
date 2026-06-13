@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tomb of Bibi Dokhtaran
 type: poi
+score: 6.8
 ---
 
 Bibi Dokhtaran — "the Lady of the Daughters" — is a small 12th-century mausoleum buried deep in the alleys of the old city, just north of the bazaar. The square brick tomb chamber is topped by a dome of distinctly Seljuk profile, one of the few surviving examples of pre-Mongol architecture in Shiraz.

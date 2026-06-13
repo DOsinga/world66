@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.4914
 longitude: -80.9939
+score: 5.9
 ---
 
 A small, ambitious downtown restaurant on Durham Street with a short, frequently changing menu of Italian-leaning dishes — fresh pastas, wood-fired meats, a serious wine list. The chef-owner sources locally where possible, so the menu shifts with what is available.

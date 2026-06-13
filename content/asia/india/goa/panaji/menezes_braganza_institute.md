@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.8
 ---
 
 Founded in 1871 as the *Instituto Vasco da Gama* and renamed in 1963 after the Goan freedom fighter Luis de Menezes Braganza, this is one of the city's older cultural institutions — a mix of public library, exhibition space, and reading room, in a neoclassical building between Azad Maidan and the Old Secretariat.

@@ -4,6 +4,7 @@ type: poi
 latitude: 34.0461
 longitude: -118.5645
 tags: [things_to_do, sight, museum]
+score: 8.8
 ---
 
 J. Paul Getty's reconstruction of the Villa dei Papiri, the Herculaneum villa buried by Vesuvius in 79 CE, built on a cliff above the Pacific in Pacific Palisades. The galleries are devoted entirely to Greek, Roman, and Etruscan antiquities — sculpture, jewellery, pottery, mosaics, and a particularly strong Cycladic collection.

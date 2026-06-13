@@ -7,6 +7,7 @@ tags:
 title: Monk Bar
 type: poi
 snippet: "The tallest and most elaborate of York's medieval gateways, with a working portcullis still in place"
+score: 7.9
 ---
 
 Monk Bar is the tallest of York's four surviving medieval gateways, rising to four storeys with projecting corner turrets. It dates mainly from the 14th century and retains its working portcullis — one of very few in England where the original portcullis mechanism is still intact and has been demonstrated in modern times. The bar stands on Goodramgate, the street that led from here towards the city centre and the Minster. The elaborate construction, compared to the other bars, suggests Monk Bar was considered the most important northern approach.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: Hotel Continental Bar
 type: poi
+score: 6.5
 ---
 
 The bar of Hotel Continental, which claims to be Sweden's oldest hotel in continuous operation (since 1829), occupies the north side of Stortorget. The interior has retained its period character — dark panelling, upholstered chairs, the general feel of a provincial hotel bar that has not been forced into modernity. Good for a quiet drink before or after dinner.

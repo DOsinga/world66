@@ -11,6 +11,7 @@ story: >
   The Horezu style — concentric circles, spirals, and stylised roosters in brown, blue, and terracotta on a cream ground — has been made by the same families in the same way for generations. UNESCO added it to the Intangible Cultural Heritage list in 2012. The motifs have specific local meanings: the rooster represents the sun, the spiral represents continuity, the wave represents water and life. Each master potter has a distinctive signature motif that identifies their work.
 sources:
   - https://en.wikipedia.org/wiki/Horezu_ceramics
+score: 7.8
 ---
 
 The town of Horezu, a few kilometres from the monastery of the same name, is the centre of a living pottery tradition that dates back at least three centuries and was inscribed by UNESCO as intangible cultural heritage in 2012. Workshops along the main street and in houses on the surrounding lanes sell pieces directly to visitors: plates, jugs, cups, and decorative tiles in the distinctive bold geometric patterns.

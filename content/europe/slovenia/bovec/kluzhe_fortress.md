@@ -8,6 +8,7 @@ latitude: 46.3611
 longitude: 13.5898
 story: >
   Fort Kluže guards a narrow gorge that has been a strategic chokepoint for centuries — the same narrow cut through the rock defended by an Austrian fort in 1809 against Napoleon's forces, and then again in World War I against Italian assaults. During the 1882 construction, Austrian engineers drilled tunnels directly through the rock to connect the lower and upper levels, a feat of engineering that is still impressive.
+score: 7.8
 ---
 
 The Kluže Fortress sits dramatically above the gorge of the Koritnica river, 3 km east of Bovec on the road toward the Predel Pass. The current structure was built by the Austro-Hungarian military in 1882 on the site of earlier Venetian and Napoleonic-era fortifications; its mission was to control the narrow pass into what was then Austrian territory.

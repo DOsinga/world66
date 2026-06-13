@@ -9,6 +9,7 @@ latitude: 26.5991
 longitude: 106.6987
 story: >
   The Qianling Mountain park contains a troupe of wild macaques that have been interacting with Guiyang residents for generations. They have learned to intercept visitors on the path to Hongfu Temple and extract food from backpacks and pockets with a technique that combines persistence, opportunism, and a willingness to make eye contact at close range. Keep snacks secured. The macaques are not dangerous but they are bold, and giving them food makes them bolder.
+score: 8.7
 ---
 
 Qianlingshan Park, 1.5 kilometres from the city centre, is where Guiyang actually lives — a forested limestone hill with walking paths, a working Buddhist monastery at the top, and a resident macaque population that has made the park their territory. It is the best single park in any provincial capital in southern China and it is genuinely good, not just good by the modest standards of provincial parks.

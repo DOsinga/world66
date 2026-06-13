@@ -7,6 +7,7 @@ tags:
 snippet: "Dolphin centre on the coast south of town"
 latitude: 12.5040
 longitude: 102.0530
+score: 3.5
 ---
 
 Oasis Sea World is a privately run dolphin centre on the coast at Laem Sing, about half an hour's drive south of Chantaburi. Several Irrawaddy dolphins and a few bottlenose dolphins live in large saltwater pools and perform short shows several times a day. Visitors can also swim with the dolphins for a fee.

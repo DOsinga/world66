@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The Benagil sea cave has an oculus in the roof — a near-perfect circular skylight — where the rock has eroded through to the surface above. The combination of sand floor, vaulted chamber, and column of sunlight pouring down through the opening is unlike anywhere else on the Algarve coast."
+score: 8.4
 ---
 
 The Benagil sea cave is the Algarve's most-photographed natural feature: a vaulted limestone chamber with a sandy floor and a circular hole in the ceiling, accessible only by water. Boat trips from Portimão Marina or Benagil beach run there throughout the day in season, with smaller tours able to enter the cave itself when the swell allows.

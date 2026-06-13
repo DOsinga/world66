@@ -8,6 +8,7 @@ tags:
 - art
 latitude: 38.5564
 longitude: -90.4083
+score: 7.4
 ---
 
 Laumeier Sculpture Park, on a former private estate in south St Louis County, holds about 60 large-scale outdoor sculptures across 105 acres of woods, meadows, and grass. It is one of the oldest dedicated sculpture parks in the United States — opened in 1976 — and the works are spread among walking trails that turn a visit into a long, varied stroll.

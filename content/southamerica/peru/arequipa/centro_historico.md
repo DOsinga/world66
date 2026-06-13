@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Centro Histórico
 type: poi
+score: 9.2
 ---
 
 The colonial centre of Arequipa was inscribed on the UNESCO World Heritage list in 2000 for its exceptional concentration of mestizo baroque architecture built from sillar — the local white volcanic stone. The protected zone is roughly the ten-by-ten block grid around the Plaza de Armas, extending north to Santa Catalina and the Rio Chili and south to the markets around San Camilo.

@@ -16,6 +16,7 @@ story: >
   by the British to prevent damage by visitors. The chariot is carved
   to represent the vehicle of Garuda, Vishnu's eagle mount, and served
   as a shrine in its own right rather than a purely decorative element.
+score: 9.7
 ---
 
 The most magnificent temple complex in Hampi, built in the 15th and 16th centuries and dedicated to Vittala (a form of Vishnu). It was never completed — the sack of 1565 interrupted construction — but what stands is extraordinary. The main hall has 56 musical pillars arranged in clusters: striking them with a knuckle or wooden stick produces distinct tones resembling the sounds of classical Indian instruments. Archaeologists have confirmed the acoustic effect is genuine.

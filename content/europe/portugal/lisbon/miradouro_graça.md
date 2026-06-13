@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - alfama
+score: 8.3
 ---
 
 The viewpoint at Graça, on the hill above and behind the Alfama, offers one of the best views in Lisbon and is significantly less crowded than the famous Portas do Sol viewpoint below. From here you look across the terracotta rooftops of the Alfama to the Castelo de São Jorge on the adjacent hill, with the Tagus visible beyond.

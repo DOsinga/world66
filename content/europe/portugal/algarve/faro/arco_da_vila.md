@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 37.0149
 longitude: -7.9352
 snippet: "Neoclassical archway and gateway to the walled old town"
+score: 6.8
 ---
 
 The grand white archway that frames the entrance to the Cidade Velha from the harbour was commissioned by Bishop Francisco Gomes do Avelar in 1812, after the previous medieval gate was destroyed in the 1755 earthquake. Designed by the Italian architect Francisco Xavier Fabri, it incorporates a horseshoe-arched Moorish gate at its base — the only piece of the original 11th-century walls still visible.

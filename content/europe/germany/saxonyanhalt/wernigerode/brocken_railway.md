@@ -15,6 +15,7 @@ story: >
   were not permitted to travel beyond the treeline. When the Wall fell in December 1989,
   thousands of East Germans hiked up to the summit for the first time in decades,
   following the tracks through the snow.
+score: 9.1
 ---
 
 The Harzer Schmalspurbahnen narrow-gauge steam railway runs from Wernigerode Hauptbahnhof to the Brocken summit, the highest point in northern Germany at 1,141 metres. The journey takes about 90 minutes each way, climbing through mixed forest and emerging onto the open heath near the top, where the locomotive whistles through cloud and fog on most days of the year. The round trip can be done as a half-day excursion from Wernigerode.

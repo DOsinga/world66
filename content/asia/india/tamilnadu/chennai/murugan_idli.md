@@ -7,6 +7,7 @@ tags:
 latitude: 13.0524
 longitude: 80.2556
 snippet: "Famous chain serving what many call the best idli in Chennai."
+score: 7.0
 ---
 
 Murugan Idli Shop started in Madurai and expanded to Chennai, where it has become one of the most popular tiffin restaurants in the city. The focus is narrow: idli, dosa, and the accompaniments — sambar, three or four chutneys, podi (spiced lentil powder with ghee).

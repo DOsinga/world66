@@ -13,6 +13,7 @@ tags:
 - city_bowl
 title: Iziko Planetarium and Digital Dome
 type: poi
+score: 7.2
 ---
 
 The Iziko Planetarium, attached to the South African Museum in the Company's Garden, has been completely rebuilt as a digital dome — one of the most advanced in the southern hemisphere. The 8K full-dome projection system delivers a much sharper experience than the old optical projector it replaced.

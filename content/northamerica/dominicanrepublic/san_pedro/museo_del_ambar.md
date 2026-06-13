@@ -12,6 +12,7 @@ story: >
   factory of shortstops." Among the city's alumni: Sammy Sosa, Robinson Canó,
   Pedro Guerrero, and George Bell. At one point in the 1980s, more than
   50 Dominican players on MLB rosters had come from this single city.
+score: 6.9
 ---
 
 The Baseball Museum on the Malecón documents San Pedro's extraordinary contribution to Major League Baseball — a story that stretches from the 1950s through to today and includes hundreds of players who made it to the big leagues from this one city.

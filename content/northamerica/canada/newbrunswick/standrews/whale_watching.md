@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.6
 ---
 
 Several operators run whale-watching tours from the Town Wharf and the adjacent Market Wharf from late June through September, with departures usually at midday and again in the afternoon when tides allow. The Bay of Fundy is a feeding ground for minke and finback whales, with humpbacks occasionally seen further out, plus reliable sightings of harbour porpoises, grey seals, and bald eagles.

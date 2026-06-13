@@ -8,6 +8,7 @@ latitude: 29.5200
 longitude: 103.3400
 story: >
   The golden summit of Emei Shan is famous for a Buddhist optical phenomenon called the "Glory of Buddha" (foguang) — a circular rainbow halo that appears around the shadow of a person standing on the cliff edge, cast by the sun onto the cloud below. The sight is said to appear when conditions align perfectly. In the past, pilgrims who saw their own shadow haloed with light sometimes took it as a sign of divine approval and jumped off the cliff, explaining why the summit is now fenced.
+score: 8.9
 ---
 
 Emei Shan, one of China's Four Sacred Buddhist Mountains, rises to 3,099 metres about 150 km southwest of Chengdu. The mountain has been a pilgrimage destination for 2,000 years and is covered with ancient temples, some of which are still active monasteries. The most famous temple, Baoguo Si at the base, is a good introduction to the mountain's character.

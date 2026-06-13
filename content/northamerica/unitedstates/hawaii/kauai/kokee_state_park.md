@@ -10,6 +10,7 @@ latitude: 22.1294
 longitude: -159.6361
 sources:
   - https://en.wikipedia.org/wiki/K%C5%8Dke%CA%BBe_State_Park
+score: 8.4
 ---
 
 Kōkeʻe State Park sits at around 1,000–1,200 metres on the western highlands of Kauaʻi, above and beyond Waimea Canyon. The park covers about 4,600 acres of montane forest and bog, with 45 miles of hiking trails, a natural history museum, and the Kalalau Lookout — arguably the single best view on the island. On clear days, the lookout gives you a bird's-eye view of the Nā Pali Coast valleys and the ocean beyond, with the green ridges of the cliffs falling away for hundreds of metres below.

@@ -9,6 +9,7 @@ tags:
   - restaurant
 title: Soda Tapia
 type: poi
+score: 6.6
 ---
 
 Soda Tapia is one of those places that exists in a category beyond restaurant — it is a San José institution. Open 24 hours a day, seven days a week, for decades, it serves the full gamut of Costa Rican comfort food: gallo pinto (rice and beans with eggs), casados, arroz con pollo, olla de carne (the beef and vegetable stew that is the country's unofficial national dish). The portions are large and the prices are honest.

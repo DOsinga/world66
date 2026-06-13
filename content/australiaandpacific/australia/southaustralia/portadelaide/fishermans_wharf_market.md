@@ -5,6 +5,7 @@ tags: [things_to_do, market, shopping]
 latitude: -34.8343
 longitude: 138.5124
 story: "Fishermen's Wharf Market operates on the site of the original Port Adelaide fish market, which supplied Adelaide from the 1850s until the fishing industry consolidated and moved to purpose-built facilities. The current market retains the wharf setting and the informal, working-port atmosphere of the original."
+score: 6.4
 ---
 
 The Fishermen's Wharf Market runs on weekend mornings at Port Adelaide's inner harbour, selling fresh produce, fish, crafts, vintage goods, and street food from around 50 stalls. The setting — a covered wharf structure with the Port River on one side and heritage buildings on the other — is more interesting than most suburban markets, and the mix of produce farmers, antique dealers, and food vendors makes for a varied browse.

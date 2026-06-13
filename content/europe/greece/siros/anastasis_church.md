@@ -6,6 +6,7 @@ latitude: 37.4465
 longitude: 24.9385
 story: >
   The dome of the Anastasis is the most visible landmark on the Vrodado hill and appears in virtually every photograph of Ermoupoli. When the church was built in the mid-19th century, the Orthodox community of Syros was establishing its identity against the older Catholic presence on the island — the placement on a prominent hilltop was deliberate.
+score: 7.2
 ---
 
 The Church of the Anastasis (Resurrection) tops the Vrodado hill — the Orthodox counterpart to the Catholic Ano Syros on the opposite side of the harbour. The blue-domed church is the most photographed building in Ermoupoli and the climb up through the stepped alleys of Vrodado is nearly as rewarding as the destination.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.4421
 longitude: 30.5108
+score: 6.6
 ---
 
 A small central park between Volodymyrska Street and the university, dominated by a 1939 statue of Taras Shevchenko — the 19th-century poet who is to Ukraine what Pushkin is to Russia. The park is one of the most pleasant green spaces in central Kyiv, fronted by the bright red Stalinist-classical bulk of Taras Shevchenko National University.

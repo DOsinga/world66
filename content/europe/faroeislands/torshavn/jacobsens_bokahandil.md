@@ -8,6 +8,7 @@ tags:
   - shopping
   - sight
 snippet: The oldest bookshop in the Faroe Islands, in business since 1865
+score: 7.7
 ---
 
 The oldest bookshop in the Faroe Islands has been in business in the same family for over 150 years. It sits in a black-tarred timber building near Vaglið — the small square at the foot of Tinganes — and stocks Faroese-language books, English-language books about the Faroes, maps, postcards, and a remarkably good selection of music.

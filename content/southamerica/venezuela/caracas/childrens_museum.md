@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - parque_central
   - museum
+score: 6.7
 ---
 
 The Museo de los Niños, in the Parque Central complex, is one of the most ambitious interactive science museums in Latin America. Opened in 1982 and founded by the children's author Alicia Pietri de Caldera, the museum runs four floors of hands-on exhibits on physics, biology, ecology, and communications — from a walk-through human heart to a planetarium and a working television studio.

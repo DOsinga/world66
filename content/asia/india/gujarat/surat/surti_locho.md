@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 21.2005
 longitude: 72.8317
+score: 6.8
 ---
 
 Surti locho is the street food that Surat is most famous for outside Gujarat — a soft, steamed snack made from chana dal (split chickpeas) batter, served with sev (crunchy chickpea noodles), onion, green chutney, and a squeeze of lime. The texture is closer to a very soft savoury pudding than anything else in Indian snacking culture, and it bears no resemblance to the firm, spongy khaman that Gujarati food is better known for internationally.

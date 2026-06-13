@@ -9,6 +9,7 @@ tags:
   - sight
   - waterfall
 story: "The Welsh name Rhaeadr Ewynnol — 'the foaming waterfall' — is older and more apt than the English. The Victorians, who turned the falls into a paying attraction, preferred the prettier-sounding Swallow. A small turnstile still charges a fee to access the best viewpoint."
+score: 8.3
 ---
 
 Swallow Falls is the most-visited natural sight in Snowdonia, and on a midsummer afternoon you will share the viewing platforms with several coachloads. Come at dawn or after rain and the place transforms: the Llugwy crashes through a series of rocky steps in a tight wooded gorge, and the spray hangs in the air. The full drop is about ten metres in stages.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The classic sunset view over Sucre's white rooftops
+score: 8.0
 ---
 
 The Mirador de la Recoleta is the broad stone terrace immediately in front of the Recoleta monastery, fenced by a low whitewashed parapet. From here you look out over the entire historic centre — a sea of white tiled roofs broken by the towers of the cathedral, La Merced and San Felipe Neri, with the Andean foothills rising behind. It is the single best view in Sucre, and around sunset it fills with locals, students, courting couples and tourists in roughly equal numbers.

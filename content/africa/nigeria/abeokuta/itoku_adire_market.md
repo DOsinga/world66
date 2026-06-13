@@ -10,6 +10,7 @@ tags:
 snippet: Centre of the Yoruba tie-dye and indigo-resist textile tradition
 story: >
   The local indigo dye is made by fermenting elu leaves in pits for weeks; the colour deepens with each subsequent dip. Master dyers can identify a real Abeokuta adire by smell — the slightly mineral fermented-leaf scent that no chemical imitation can match.
+score: 8.4
 ---
 
 The Itoku Adire Market in central Abeokuta is the headquarters of the Yoruba adire tradition — the indigo-dyed and starch-resist textiles that the Egba women of Abeokuta have been making for at least two centuries. The market is a tight cluster of small stalls and workshops where you can watch the entire process: women drawing patterns on white cotton with starch, dipping the cloth repeatedly into vats of fermented indigo, washing and beating the dried cloth on stones to bring out the characteristic deep blue.

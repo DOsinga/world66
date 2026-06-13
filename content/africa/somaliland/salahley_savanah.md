@@ -8,6 +8,7 @@ tags:
 - sights
 title: Salahley Savanna
 type: poi
+score: 7.3
 ---
 
 The area around Salahley gives a genuine introduction to the nomadic pastoralist culture that underpins Somali society. The savanna landscape here supports camel, sheep, and goat herding, and it is possible to visit traditional aqal — portable dome-shaped dwellings made from bent branches and woven mats that nomadic families carry with them.

@@ -13,6 +13,7 @@ story: >
   phreatic explosions but no full eruption, confirming neither side entirely.
   Tazieff's defiance became famous, and the "crisis of 1976" remains a touchstone
   in both Caribbean history and the politics of volcanic risk management.
+score: 9.0
 ---
 
 La Soufrière is an active volcano rising to 1,467 metres above Basse-Terre — the highest peak in the Lesser Antilles and one of the most closely monitored volcanoes in the Caribbean. It last had a significant eruption in 1797, but phreatic activity (steam and gas explosions from groundwater) is ongoing, and the summit area is regularly shrouded in sulphurous mist. The Observatoire Volcanologique de Guadeloupe tracks activity continuously and publishes regular updates.

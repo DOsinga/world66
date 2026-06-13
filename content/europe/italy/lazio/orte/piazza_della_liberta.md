@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4605
 longitude: 12.3850
+score: 5.9
 ---
 
 The main square of the upper town is a long, narrow piazza closed at one end by the cathedral and lined with the palazzi of the families that once governed Orte. It is the natural meeting point of the centro storico and the starting point for the underground tunnel tours.

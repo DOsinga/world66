@@ -6,6 +6,7 @@ longitude: -64.6857
 tags:
   - eating_out
   - street_food
+score: 6.8
 ---
 
 The fried empanadas of Puerto la Cruz are eastern Venezuela's most famous street food: cornmeal half-moons stuffed with cazón (small shark), white cheese, or chicken, sealed and deep-fried until the crust crisps. Stalls along the Paseo Colón sell them from late morning until the small hours, served with picante sauce and sliced lime.

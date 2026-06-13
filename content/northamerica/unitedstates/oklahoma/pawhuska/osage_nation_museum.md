@@ -9,6 +9,7 @@ longitude: -96.34
 story: "The Osage Nation Museum is the oldest tribally owned and operated museum in the United States, founded in 1938. Its collection includes Osage regalia, historical photographs, and documents that trace the tribe's removal from Kansas in the 1870s and the extraordinary story of how oil discovered beneath the Osage Reservation in the early 20th century made the Osage per capita the wealthiest people in the world — and then drew predators who murdered them for it."
 sources:
   - https://en.wikipedia.org/wiki/Osage_Nation_Museum
+score: 8.6
 ---
 
 The Osage Nation Museum is the oldest tribally owned and operated museum in the country, and it is the essential starting point for understanding what Pawhuska is about. The collection spans Osage history from pre-contact times through the present, with particular attention to the early 20th century oil era and the Osage Reign of Terror documented in David Grann's *Killers of the Flower Moon*.

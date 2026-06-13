@@ -13,6 +13,7 @@ tags:
 - city_bowl
 title: Tuynhuys
 type: poi
+score: 5.3
 ---
 
 Tuynhuys — literally "garden house" — is the official Cape Town office of the South African presidency, a long low Cape Baroque pavilion at the top end of the Company's Garden. Originally built in 1700 as a place of refuge for the Dutch East India Company governor, it has been the seat of executive power in Cape Town in one form or another for over three centuries.

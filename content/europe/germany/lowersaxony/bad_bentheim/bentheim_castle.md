@@ -11,6 +11,7 @@ story: >
   Bentheim Castle was a prison for Dutch war hero Gijsbert van Hogendorp during the Napoleonic Wars, but the building's reputation for the supernatural goes back further. Local legend holds that the devil himself flung the detached tower of the nearby Gildehaus church through the air when its bells disturbed his sleep — and he aimed it at Bentheim.
 sources:
   - https://en.wikipedia.org/wiki/Bentheim_Castle
+score: 8.8
 ---
 
 Bentheim Castle sits on a sandstone outcrop above the town and is one of the best-preserved medieval fortifications in northwest Germany. The structure dates back to at least the eleventh century, though much of what you see today is from later rebuilding, and the whole complex was extensively restored in the nineteenth century by its princely owners. The views from the walls across the flat heathland toward the Dutch border are excellent, particularly in clear weather.

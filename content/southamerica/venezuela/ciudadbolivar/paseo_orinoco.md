@@ -8,6 +8,7 @@ tags:
 latitude: 8.1410
 longitude: -63.5470
 snippet: Riverside boulevard along the Orinoco, the spine of the old town
+score: 8.4
 ---
 
 The Paseo Orinoco is Ciudad Bolívar's defining street — a long curving promenade above the south bank of the Orinoco, lined with low colonial buildings and the modest river-trade architecture of the eighteenth and nineteenth centuries. The river here is roughly 1.5 kilometres across; you stand on a high embankment and watch the brown current move past at remarkable speed. At dusk, locals walk the length of the Paseo and the open-air restaurants set up tables on the embankment.

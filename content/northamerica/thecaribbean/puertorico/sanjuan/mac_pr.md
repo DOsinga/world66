@@ -8,6 +8,7 @@ tags:
   - museum
   - santurce
 neighbourhood: Santurce
+score: 7.1
 ---
 
 The Museum of Contemporary Art (MAC) occupies a striking 1916 building — the former Rafael María de Labra high school — at the corner of Roberto H. Todd and Ponce de León in Santurce. The collection focuses on Puerto Rican and Latin American art from 1960 onward, with strong holdings of Antonio Martorell, Pepón Osorio, and Allora & Calzadilla.

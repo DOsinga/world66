@@ -8,6 +8,7 @@ tags:
 latitude: 45.0721
 longitude: 7.6849
 story: "Guarino Guarini was a Theatine priest as well as an architect, and he treated geometry as theology. The eight-pointed star pattern of arches above San Lorenzo's dome was designed to dissolve solid mass into pure light: the structural force is real, but you cannot see how the roof stays up."
+score: 9.2
 ---
 
 From the outside, San Lorenzo looks like an ordinary palace wall on Piazza Castello — Guarino Guarini was told by the Savoys not to compete with the Royal Palace next door. Step inside and you are suddenly under one of the most extraordinary domes in Italy: an interlocking lattice of stone ribs that hovers above the octagonal nave like a piece of mathematics made solid.

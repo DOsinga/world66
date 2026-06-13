@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Peabody_Essex_Museum
 story: >
   The museum traces its origins to 1799, when Salem sea captains founded the East India Marine Society to collect the curiosities they brought back from their voyages. The original charter required members to have "navigated the seas near the Cape of Good Hope or Cape Horn" — the 19th-century equivalent of having a particularly good travel story.
+score: 9.3
 ---
 
 The Peabody Essex Museum is the finest museum in New England outside of Boston, and arguably the most distinctive art museum in the country. It grew from the collections of Salem's 18th-century merchants, sea captains, and scholars, and its holdings still reflect that cosmopolitan trading heritage: maritime paintings, East Asian export art, carved ivories, Indian temple sculpture, and the extraordinary Yin Yu Tang, an entire 200-year-old Chinese merchant's house transported beam by beam from Anhui province and reassembled inside the museum.

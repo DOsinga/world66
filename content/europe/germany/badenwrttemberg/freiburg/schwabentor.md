@@ -7,6 +7,7 @@ tags:
 - sight
 title: Schwabentor
 type: poi
+score: 7.7
 ---
 
 One of two surviving medieval gate towers in Freiburg, the Schwabentor dates to the early 13th century. The painted mural on the town-facing side depicts a Swabian merchant who, according to local legend, tried to buy the city with a chest full of stones instead of gold.

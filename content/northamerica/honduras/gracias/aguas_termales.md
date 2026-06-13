@@ -8,6 +8,7 @@ latitude: 14.6108
 longitude: -88.5514
 story: >
   The hot springs sit in a wooded ravine where a cool stream runs alongside the thermal pools — you can shuttle between the two. The springs are fed by volcanic activity deep in the mountain and emerge at temperatures warm enough to soothe but not scald. After two days of Celaque hiking, they feel earned.
+score: 7.5
 ---
 
 A short drive or long walk (about 6 km) from Gracias, these natural thermal pools make a satisfying complement to the mountain hiking. The springs emerge in a shaded river canyon, forming a series of pools at varying temperatures suitable for soaking. The setting is genuinely pleasant — green hills, moving water, and relative solitude.

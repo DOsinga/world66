@@ -6,6 +6,7 @@ longitude: 73.6831
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A rooftop restaurant on Lal Ghat Guest House with one of the better views in town — a clean line of sight across to the Lake Palace and Aravalli hills. The menu is broad (Indian, Italian, Continental) and consistently well-prepared; the *laal maas* is properly fiery, the dal makhani properly buttery, and the wood-fired pizzas a welcome change after too many days of curry.

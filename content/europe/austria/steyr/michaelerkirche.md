@@ -6,6 +6,7 @@ longitude: 14.4244
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Across the Enns from the old town, St Michael's was begun in 1635 as a Jesuit church and finished in 1671 in vigorous early Baroque. Twin towers flank the facade and the interior is whitewashed and luminous, with a deep barrel vault and a number of original altarpieces.

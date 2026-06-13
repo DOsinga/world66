@@ -6,6 +6,7 @@ longitude: 20.7833
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 The largest of the small islands off Lefkada's east coast, reached by frequent car ferry from Nydri. Meganisi has three villages — Vathi, Katomeri, and Spartochori — and a coastline of small sandy and pebble coves that are mostly only accessible by sea.

@@ -9,6 +9,7 @@ tags:
 - berlinmitte
 title: Strenesse blue
 type: poi
+score: 4.5
 ---
 
 In Quartier 206, the place for fashionable understatement. Clear lines and high-quality fabrics that can be well-combined.

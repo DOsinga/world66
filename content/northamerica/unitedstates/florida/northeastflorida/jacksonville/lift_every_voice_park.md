@@ -8,6 +8,7 @@ latitude: 30.3249
 longitude: -81.6540
 story: >
   James Weldon Johnson and his brother John Rosamond Johnson wrote "Lift Ev'ry Voice and Sing" in 1900 for a celebration of Abraham Lincoln's birthday at a Jacksonville school. The song was adopted by the NAACP as its official anthem in 1919 and has been known as the Black National Anthem ever since. Johnson himself went on to become a poet, novelist, and diplomat — his novel Autobiography of an Ex-Colored Man (1912) is considered one of the most important works of early African American literature.
+score: 6.7
 ---
 
 The park at the corner of East Duval Street and North Ocean Street in the LaVilla neighbourhood marks the birthplace of James Weldon Johnson, who was born in Jacksonville in 1871 and grew up to become one of the most significant figures in African American intellectual and cultural life. The park honours his authorship of "Lift Ev'ry Voice and Sing," the song that became the Black National Anthem.

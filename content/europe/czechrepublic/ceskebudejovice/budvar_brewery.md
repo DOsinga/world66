@@ -14,6 +14,7 @@ story: >
   two breweries still fight over trademark rights in different markets around the world.
 sources:
   - https://en.wikipedia.org/wiki/Budweiser_Budvar_Brewery
+score: 7.8
 ---
 
 Budweiser Budvar is the brewery that put České Budějovice on the world map — or at least started a legal argument that has run for more than a century. The Czech Budweiser is a traditional Bohemian lager, brewed slowly using artesian water from underground reservoirs beneath the city, Moravian barley, and Saaz hops from the Žatec region. It has nothing in common with the American product of the same name except the dispute about who has the right to use it.

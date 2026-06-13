@@ -7,6 +7,7 @@ address: Trg Republike Hrvatske 3, 22000 Šibenik
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 The restaurant occupies the loggia of the old town hall, directly opposite the cathedral on the main square. The Venetian arcade is one of the prettiest places in town to sit for dinner, and the food — Dalmatian classics with a few Italian leanings — is decent without being a destination in itself.

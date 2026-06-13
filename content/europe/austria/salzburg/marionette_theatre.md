@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neustadt
+score: 7.7
 ---
 
 Founded in 1913 and still going strong, the Marionette Theatre stages full-length performances of Mozart operas, ballets, and Sound of Music using ornately costumed string puppets. The puppets are about 80 centimetres tall, and after five minutes you forget that they are puppets at all.

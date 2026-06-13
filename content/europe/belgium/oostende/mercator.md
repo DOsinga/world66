@@ -7,6 +7,7 @@ tags:
   - sight
   - museum
 type: poi
+score: 7.2
 ---
 
 The SV Mercator is a three-masted schooner built in 1932 and now moored permanently in the yacht harbour as a museum ship. It served as a Belgian maritime training vessel for decades, circumnavigating the globe multiple times and carrying cadets from the Belgian merchant navy. The ship is named after the 16th-century cartographer Gerardus Mercator, who was born in what is now Belgium.

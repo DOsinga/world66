@@ -8,6 +8,7 @@ tags:
 - landmark
 title: St. Peter's Church
 type: poi
+score: 7.1
 ---
 
 Zurich's oldest parish church, first documented in the 9th century, though the current building dates mostly from the 13th and 18th centuries. The main draw is the clock face added in 1534 -- at 8.7 metres in diameter, it's the largest in Europe. The interior is a surprise: bright, white, and almost ballroom-like, with elegant stucco work that feels more Baroque palace than medieval church.

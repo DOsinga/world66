@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -15.8472
 longitude: -70.0300
+score: 7.5
 ---
 
 Kuntur Wasi — "House of the Condor" in Quechua — is a viewpoint on a hill above the city of Puno, reached by a staircase of several hundred steps from the city centre. A large condor sculpture marks the top, and the view from here across the city, the lake, and the Bolivian altiplano beyond is superb. The walk up takes about 20 minutes at altitude, which means it is harder than it looks.

@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 11.2528
 longitude: -85.8712
+score: 6.4
 ---
 
 El Gato Negro (The Black Cat) is probably the most consistently recommended café and bookshop in San Juan del Sur. Part coffee house, part second-hand bookshop, part breakfast spot, it occupies a corner a block back from the waterfront and attracts a loyal crowd of expats and long-stay travellers. The coffee is excellent by Nicaraguan standards — proper espresso rather than the weak instant that still predominates in smaller Nicaraguan towns.

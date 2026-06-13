@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Engineering Fountain on the Purdue campus is the traditional landmark and meeting point for students and visitors. A circular fountain surrounded by a broad plaza, it sits at the heart of the engineering precinct and is decorated with plaques honouring Purdue's alumni who became astronauts — a roster that includes Neil Armstrong, Gus Grissom, and Roger Chaffee.

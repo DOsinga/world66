@@ -14,6 +14,7 @@ story: >
   share the area — making it one of the more ethnically mixed markets in
   the country. The market days follow the West African five-day cycle;
   on main market day, the town's population effectively doubles.
+score: 6.8
 ---
 
 The Grand Marché is the commercial and social heart of Djougou — a large open market in the centre of town that serves the entire Donga region. On main market day (following the local five-day cycle), traders arrive from the surrounding villages and from further afield: Bariba farmers with yams and sorghum, Fulani pastoralists with cattle, cloth merchants with prints from Cotonou and Nigeria, and the permanent stalls that handle everything from electronics to herbal remedies.

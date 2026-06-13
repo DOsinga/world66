@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Tortugas
 type: poi
+score: 5.8
 ---
 
 A wide, calm beach at kilometre 6 of Boulevard Kukulcán, on the north-facing stretch of the Hotel Zone where the waters of Bahía de Mujeres replace the open Caribbean. The waves are flat, the bottom is sandy, and the swimming is the safest in town — Playa Tortugas is the obvious family choice. A small pier extends into the bay with jet ski rentals, parasailing tours, and the ferry boats to Isla Mujeres.

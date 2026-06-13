@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 10.798333
 longitude: 122.975278
+score: 6.8
 ---
 
 El Ideal, attached to the Cesar Lacson Locsin Ancestral House, is both bakery and light restaurant. The kitchen serves Filipino breakfast standards — arroz caldo, champorado, and pandesal — along with its famous house pastries. For lunch there are simple rice-and-ulam (rice-and-main-dish) plates using local ingredients.

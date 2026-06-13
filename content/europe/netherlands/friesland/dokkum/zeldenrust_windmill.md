@@ -7,6 +7,7 @@ tags:
 latitude: 53.324444
 longitude: 5.994444
 snippet: "A second windmill on the canal ring, completing Dokkum's distinctive skyline."
+score: 6.4
 ---
 
 Zeldenrust (Seldom at Rest) is the second of Dokkum's two windmills within the old fortification ring, standing slightly north of De Hoop on the canal rampart. Together the two mills create the skyline that Dokkum is known for in Dutch travel photography.

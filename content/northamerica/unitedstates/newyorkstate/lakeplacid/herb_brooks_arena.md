@@ -15,6 +15,7 @@ story: >
   The US went on to win the gold medal against Finland two days later.
 sources:
   - https://en.wikipedia.org/wiki/Herb_Brooks_Arena
+score: 8.7
 ---
 
 Herb Brooks Arena is the ice hockey rink where one of sport's most famous upsets took place: the US hockey team's 4-3 defeat of the Soviet Union at the 1980 Winter Olympics. The arena still has the original ice surface, and the rink is in continuous use for public skating, hockey leagues, and events. A visit here, even without a scheduled event, has a quietly charged atmosphere — the seating and the dimensions are exactly as they were in 1980.

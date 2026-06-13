@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 8.2
 ---
 
 A small wooden depot built in 1888 for the Seaboard Air Line Railway, used by the Carter campaign as its 1976 presidential headquarters. The interior has been preserved as it was during the campaign — desks with the original push-button telephones, mimeographed press releases, a campaign poster from the convention, and the volunteer schedule pinned to a corkboard.

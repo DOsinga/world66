@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Newport_Tower_(Rhode_Island)
 story: >
   The Newport Tower has been the subject of more romantic speculation than almost any other colonial-era structure in America. 19th-century theorists attributed it to Norse explorers, Scots, pre-Columbian Portuguese sailors, and others, all in preference to the obvious answer. Dendrochronological, radiocarbon, and historical evidence now firmly dates it to the 1660s, when Benedict Arnold (the first governor of Rhode Island, not the traitor) owned the land and wrote of "my stone built windmill" in his will. The mystery persists, though, because people would rather have Vikings.
+score: 6.1
 ---
 
 The Newport Tower is a round stone structure about 28 feet high standing in Touro Park, a short walk from Thames Street. Despite its apparently ancient appearance, it dates to the mid-17th century and was almost certainly built as a windmill — its basic design matches other colonial New England windmills of the period. The local tradition that it was built by Norse explorers or pre-Columbian visitors is romantic but unsupported.

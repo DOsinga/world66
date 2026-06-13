@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Small, properly French restaurant in the old village
+score: 5.8
 ---
 
 A serious French restaurant in the old village, with white linen, garden and terrace seating, and a kitchen that pays attention. The foie gras is a standout starter — homemade, served with a glass of sweet Banyuls. The beef in red wine, garlic and tarragon sauce is a satisfying main course; the lamb is also worth trying.

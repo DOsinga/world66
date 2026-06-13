@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do]
 latitude: 8.3906
 longitude: 76.9779
+score: 6.4
 ---
 
 Yoga classes operate at many of the guesthouses and dedicated studios along the Lighthouse Beach strip, with classes most commonly offered in the early morning (around 7am) and again in the late afternoon. The standard offering is Hatha yoga for mixed levels, though some longer-stay operators run Ashtanga, Iyengar, and pranayama sessions for more experienced practitioners.

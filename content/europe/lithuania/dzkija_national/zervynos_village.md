@@ -7,6 +7,7 @@ longitude: 24.3628
 snippet: "One of the best-preserved traditional Dzūkijan wooden villages in Lithuania"
 story: >
   Zervynos was designated an ethnographic reserve in 1968, which probably saved it from the kind of Soviet-era standardisation that transformed most Lithuanian villages. The buildings were simply too old and too rural to be worth replacing. Today the village is lived-in — not a museum — but the 18th- and 19th-century log houses and barns have survived largely intact.
+score: 8.4
 ---
 
 Zervynos, on the banks of the Ūla River, is one of the finest surviving examples of traditional Dzūkijan village architecture. The log houses, with their carved decorative elements and traditional layout, date from the 18th and 19th centuries. The village was declared an ethnographic reserve under Soviet rule, which paradoxically preserved it from the concrete-block modernisation that swept most of rural Lithuania.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 58.9420
 longitude: 23.5390
+score: 8.5
 ---
 
 Haapsalu's old town is compact enough to walk in an hour, but atmospheric enough to justify a longer wander. The streets around the castle are lined with early twentieth-century wooden houses in various states of painterly decay and careful restoration — this is one of the best-preserved wooden townscapes in Estonia, which is saying something.

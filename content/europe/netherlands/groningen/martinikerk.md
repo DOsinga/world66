@@ -8,6 +8,7 @@ story: The Martinikerk hides one of the great instruments of Europe — a baroqu
 tags:
 - things_to_do
 - religious_site
+score: 8.8
 ---
 
 Groningen's oldest church, built in the 13th century in the centre of the medieval town and rebuilt and enlarged over the next three hundred years. The Romanesque nucleus is still visible in the choir, and the late-Gothic vaults of the main hall display a remarkable cycle of 16th-century frescoes — among the largest medieval wall paintings preserved in northern Europe.

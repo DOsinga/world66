@@ -6,6 +6,7 @@ longitude: -65.3522
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The whitewashed parish church on the plaza dates to 1641, rebuilt and extended several times since. Inside, a series of colonial paintings of the prophets — attributed to the Cusco school workshop of Marcos Sapaca Inca — survives in good condition.

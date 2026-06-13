@@ -8,6 +8,7 @@ tags:
 - giza_plateau
 title: South Field and Menkaure's Cemetery
 type: poi
+score: 8.2
 ---
 
 The southern part of the Giza Plateau, spreading out from Menkaure's pyramid and its three queens' pyramids, is the most peaceful section of the complex. Fewer tour groups make it this far, the ground is rougher, and the sense of the plateau as a vast ancient necropolis rather than a tourist attraction is strongest here. Subsidiary tombs and mastabas are scattered across the desert in various states of preservation.

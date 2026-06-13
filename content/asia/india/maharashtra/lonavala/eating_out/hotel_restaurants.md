@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 18.7548
 longitude: 73.4112
+score: 4.7
 ---
 
 Lonavala has accumulated a substantial cluster of resort hotels catering to Mumbai and Pune weekenders, and several of them run restaurants that are open to non-guests. The main names — **Fariyas Resort**, **Della Resorts**, and **Rhythm Lonavala** — all offer multi-cuisine menus covering Indian (North Indian, South Indian, Maharashtrian), continental, and Chinese, at prices that are mid-range by Mumbai standards, reasonable by Lonavala standards.

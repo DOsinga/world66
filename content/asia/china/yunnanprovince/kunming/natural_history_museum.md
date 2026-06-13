@@ -6,6 +6,7 @@ longitude: 102.7033
 tags:
   - things_to_do
   - museum
+score: 7.0
 ---
 
 A specialist zoological museum on the campus of the Kunming Institute of Zoology (Chinese Academy of Sciences), this is one of the more important biological collections in southwest China. The displays cover the extraordinary biodiversity of Yunnan, which contains more vertebrate species than any other Chinese province — including specimens of the snub-nosed monkey, the Yunnan box turtle, and the local population of red panda.

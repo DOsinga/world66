@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 41.2483
 longitude: 32.6854
+score: 5.9
 ---
 
 The old bazaar of Safranbolu is the obvious place to buy the town's signature products, and saffron is the most important of them. The town has grown saffron since at least the Ottoman period — the name Safranbolu essentially means "saffron city" — and while modern commercial saffron production in Turkey has declined, small local producers still sell genuine Safranbolu saffron in the market. It is expensive even by saffron standards, but the quality is excellent and buying it here means it is almost certainly authentic.

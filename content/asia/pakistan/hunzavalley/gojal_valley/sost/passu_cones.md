@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The cones are known locally as the Tupopdan range. Their sharp serrated profile is the result of differential erosion: the harder rock layers stand up as spires while the softer ones around them have weathered away. They appear on the back of Pakistani banknotes."
+score: 7.8
 ---
 
 About 40 km south of Sost, just past the village of Passu, the Karakoram Highway passes one of the most photogenic mountain views in Pakistan: a row of needle-sharp peaks rising directly above the road, their tips clear above the valley snowline.

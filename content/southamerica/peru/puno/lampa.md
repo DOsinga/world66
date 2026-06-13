@@ -6,6 +6,7 @@ latitude: -15.3500
 longitude: -70.3667
 snippet: Pretty pink-painted colonial town an hour north of Puno, famous for its church
 story: The town's nickname, "La Ciudad Rosada", comes from its tradition of painting building walls a uniform pale pink — a custom that began in the 1960s under a public-works programme. Lampa's most famous resident, the engineer Enrique Torres Belón, built the Capilla Sixtina replica copy of Michelangelo's Pietà inside the church.
+score: 7.2
 ---
 
 A small colonial town about an hour north of Juliaca and a worthwhile detour for travellers with a free day in the area. Lampa's main square is dominated by the Iglesia de Santiago Apóstol, an 18th-century church holding a full-sized replica of Michelangelo's Pietà (cast directly from the original in the Vatican) and a curious crypt lined with the skulls of local notables.

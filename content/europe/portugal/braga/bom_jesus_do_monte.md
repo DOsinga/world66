@@ -11,6 +11,7 @@ title: "Bom Jesus do Monte"
 type: poi
 story: >
   The funicular railway at Bom Jesus, built in 1882, is one of the oldest funiculars in the world still in regular use — and it runs on water, not electricity. Tanks of water in the upper car are heavier than the lower car, so gravity does the work. No engine has ever been needed.
+score: 9.3
 ---
 
 Bom Jesus do Monte is one of Portugal's great set pieces — a baroque sanctuary perched on a forested hill about five kilometres east of Braga, approached via a monumental staircase that zigzags up through gardens, chapels, and fountains representing the Stations of the Cross. The staircase, built between the seventeenth and eighteenth centuries, is a masterpiece of baroque theatre: each landing introduces a new fountain or small chapel, the whole composition building toward the church at the summit.

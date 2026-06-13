@@ -7,6 +7,7 @@ tags:
 snippet: "Freeride-focused resort known for off-piste and tree skiing"
 latitude: 62.45
 longitude: 13.92
+score: 7.8
 ---
 
 Björnrike (Bear Ridge) is the more adventurous of the Vemdalen ski areas, with a reputation for good off-piste terrain and forest skiing that attracts powder hunters when fresh snow falls. The resort is smaller and quieter than Vemdalsskalet, which makes it appealing for those who want to avoid the main crowds during peak season.

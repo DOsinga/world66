@@ -8,6 +8,7 @@ snippet: "Narrow water channels that thread every street in the old town"
 latitude: 47.99449
 longitude: 7.85070
 story: "Local tradition holds that anyone who accidentally steps into a Bächle will marry someone from Freiburg. Whether or not you believe it, watch your footing — the channels are deeper than they look and run along almost every street in the centre."
+score: 8.8
 ---
 
 The Bächle are the small, fast-flowing water channels that run along the edge of nearly every street in Freiburg's old town. They were built in the Middle Ages — by the late thirteenth century, certainly — and carried water for fighting fires and watering livestock. The water comes from the Dreisam river east of the city and still flows clear and cold today.

@@ -17,6 +17,7 @@ story: >
   line — an unusual modification that required reinforcing the entire structure.
   The bridge's visual resemblance to the Golden Gate is not accidental: both were
   designed by the same American engineering firm, John A. Roebling Sons.
+score: 7.6
 ---
 
 The Ponte 25 de Abril is one of the defining images of the Lisbon region, and Almada is where it touches down on the south bank. The suspension bridge stretches 2.3 kilometres across the Tagus, its distinctive red paint and sweeping cables visible from Cristo Rei, from the Cacilhas waterfront, and from the hills of the old town above. Driving across it gives you a few minutes of extraordinary views: the river, the city, the estuary opening toward the Atlantic.

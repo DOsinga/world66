@@ -10,6 +10,7 @@ tags:
 - charlottenburg
 title: Canzone
 type: poi
+score: 6.5
 ---
 
 A specialist world music shop tucked into the S-Bahn arches at Savignyplatz. The staff know their stock well and will let you listen to anything before buying. A good place to discover African, Latin, Middle Eastern, and Asian recordings you won't find in mainstream stores.

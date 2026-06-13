@@ -8,6 +8,7 @@ latitude: 19.0403
 longitude: 74.6997
 story: >
   Meher Baba observed a vow of silence from 1925 until his death in 1969 — 44 years during which he communicated entirely through an alphabet board and hand gestures. He spent years travelling through India seeking out the lowest and most marginalised people, believing that spiritual truth was found among them. His international following grew despite — or perhaps because of — his silence, eventually extending across America, Europe, and Australia.
+score: 7.4
 ---
 
 Meherabad is the ashram and dargah (tomb-shrine) of Merwan Sheriar Irani, known to his followers as Meher Baba, about 10 km south of Ahmednagar. The site is maintained by an international community of followers and draws pilgrims from around the world throughout the year.

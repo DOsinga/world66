@@ -12,6 +12,7 @@ story: >
   20 feet of water during the monsoon and dries to ordinary forest in the
   winter. The contrast between dry-season and wet-season Ratargul is so
   extreme that they hardly feel like the same place.
+score: 6.3
 ---
 
 Ratargul lies about 25 km north of Sylhet city, beyond Gowainghat, and is best visited in the wet months (June to October) when small wooden boats can paddle deep into the flooded forest. The water turns a translucent green from the leaves of submerged trees, and the canopy filters the sun into shifting patches of light — the photographic appeal is what brings most domestic tourists.

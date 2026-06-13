@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 33.8181
 longitude: -80.7644
+score: 8.4
 ---
 
 Cedar Creek is the slow, tannin-dark waterway that drains the heart of Congaree National Park. The 15-mile marked canoe trail begins at Bannister Bridge and winds through some of the tallest trees in eastern North America before reaching the Congaree River.

@@ -10,6 +10,7 @@ longitude: 104.3325
 snippet: "Quiet island a short boat ride from Kep, with sandy beaches and jungle"
 story: >
   The island's name comes not from any rabbit population but from its shape — seen from the mainland, the silhouette resembles a resting rabbit. Local fishermen had been using it as an overnight stop for generations before travellers discovered it.
+score: 6.4
 ---
 
 Rabbit Island — Koh Tonsay in Khmer — is a small island about 4 kilometres offshore from Kep. Boats run from the Kep pier in around 20 minutes. The island has a couple of sandy beaches, some simple bungalow operations, and a low-key village where the day-trippers rarely penetrate.

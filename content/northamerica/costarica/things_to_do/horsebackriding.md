@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Horseback riding
 type: poi
+score: 6.3
 ---
 
 Horseback riding in Costa Rica takes you along beaches, down country roads, through pastures, and along forest trails. The Nicoya Peninsula and Arenal areas are popular starting points, but rides are available practically everywhere. Costa Rican saddles and neck-rein steering differ from what most North Americans and Europeans are used to, so give yourself a few minutes to adjust.

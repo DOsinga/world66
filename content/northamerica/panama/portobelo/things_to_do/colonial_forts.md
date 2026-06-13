@@ -14,6 +14,7 @@ story: >
   plundered the Spanish silver mule train at Nombre de Dios, just along this
   same coast — Portobelo was, in a sense, built partly in response to raiders
   like him.
+score: 8.8
 ---
 
 The ruined Spanish forts ringing Portobelo's bay are among the best-preserved colonial military architecture in the Caribbean, and together with the adjacent town they were inscribed as a UNESCO World Heritage Site in 1980. Three main fortifications survive: Fuerte San Jerónimo, which guards the inner harbour and whose massive walls you can walk along; Fuerte Santiago de la Gloria, sitting on a promontory to the west; and Fuerte San Fernando, across the bay on the opposite shore. All three are open and free to enter.

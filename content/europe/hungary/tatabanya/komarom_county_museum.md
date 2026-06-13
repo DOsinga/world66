@@ -6,6 +6,7 @@ longitude: 18.4012
 tags:
   - things_to_do
   - museum
+score: 6.4
 ---
 
 The county museum (Tatabányai Múzeum) covers the broader history of Komárom-Esztergom county, including Roman finds from the limes along the Danube, medieval material from Tata Castle, and the industrial archaeology of the coal basin. Exhibits are housed in a modern purpose-built building near the city centre.

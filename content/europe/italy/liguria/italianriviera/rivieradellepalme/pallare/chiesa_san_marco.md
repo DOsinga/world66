@@ -14,6 +14,7 @@ story: >
   The 1809 construction date places San Marco in the Napoleonic era, when this part
   of Liguria was part of the French Empire and new church buildings were deliberately
   modest in scale.
+score: 5.9
 ---
 
 The parish church of San Marco stands at the centre of Pallare and dates from 1809 — a modest late baroque building with a campanile alongside the facade rather than integrated into it, which is typical of inland Ligurian churches of the period. The interior is simple, with plain plastered walls and an altar piece depicting the evangelist Saint Mark.

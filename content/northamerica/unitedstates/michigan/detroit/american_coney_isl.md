@@ -13,6 +13,7 @@ tags:
 title: American Coney Island
 type: poi
 url: www.americanconeyisland.com
+score: 6.3
 ---
 
 This Detroit institution has been open since 1917. Located in downtown Detroit, American Coney Island offers hot dogs, fries, and other fast foods 24 hours a day. Their signature Coney Island dog is covered with chili, mustard, and onions. The restaurant is staffed by old-school Greek waiters who yell out orders and tell stories of years gone by. For quick, cheap eats, this is the quintessential Detroit stop.

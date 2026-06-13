@@ -5,6 +5,7 @@ snippet: Rare wooden-domed village mosque in the hills above town
 tags: [things_to_do, sight, architecture]
 latitude: 44.1833
 longitude: 17.8667
+score: 6.7
 ---
 
 A small Ottoman-era village mosque about 4 km west of central Zenica, on the slopes above the Bosna. It belongs to a regional tradition of wooden mosques with low timbered domes — a vernacular response to the limestone and forest of central Bosnia rather than the imperial style of Istanbul.

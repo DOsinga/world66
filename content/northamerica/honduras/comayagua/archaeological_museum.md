@@ -6,6 +6,7 @@ tags:
 - museum
 title: Archaeological Museum of Comayagua
 type: poi
+score: 7.1
 ---
 
 Housed in what was once the presidential palace — the former seat of Honduran government before the capital moved to Tegucigalpa — the Archaeological Museum focuses on the Lenca civilisation and the El Cajón archaeological project. The Lenca were the dominant Indigenous culture of western Honduras and El Salvador before the Spanish conquest, and Comayagua was close to the center of their territory.

@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 27.1502
 longitude: -13.2058
+score: 7.8
 ---
 
 The Souk Djmaa — sometimes anglicised as the chicken market — is the largest traditional market in Laayoune and the most "Sahrawi" corner of the city. It sits in the southern, Spanish-built lower town: a maze of small shops, food stalls, and open-air vendors selling everything from saffron and dates to plastic buckets and bolts of fabric for the colourful melhfa robes Sahrawi women wear.

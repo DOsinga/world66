@@ -13,6 +13,7 @@ story: >
   found, the Verge del Toro, is venerated as the patroness of Menorca and is
   kept in the sanctuary at the summit. Whether or not the story is true, the
   peak has been a centre of Menorcan religious life for over 700 years.
+score: 6.8
 ---
 
 Monte Toro is the highest point on Menorca at 358 metres — modest by mainland standards but, on an island that is entirely flat except for this peak, sufficient to provide views in every direction. On a clear day you can see the entire island and, in exceptional visibility, the other Balearic islands and the Catalan coast. The summit is reached by a road from Es Mercadal and is visited by a steady stream of pilgrims and tourists.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 38.2462
 longitude: 21.7351
+score: 6.5
 ---
 
 Georgiou I Square is the heart of Patras — a large, colonnaded neoclassical piazza that was designed by the Bavarian architect Stamatios Kleanthes in the 19th century after Greek independence and remains the city's main meeting point. The surrounding buildings are unified by covered arcades that run all the way around the square, providing shade in summer and shelter in winter, and the whole ensemble has the civic confidence of a city that took its own importance seriously.

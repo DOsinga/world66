@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 24.1495
 longitude: 120.6655
+score: 7.4
 ---
 
 The Calligraphy Greenway (Caoxie Lvyuan Dao) is a long landscaped park strip running north-south through the centre of the city for nearly four kilometres, linking the National Taiwan Museum of Fine Arts in the south with the National Museum of Natural Science in the north.

@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.35055555555556
 longitude: -81.6388888888889
+score: 6.7
 ---
 
 The Charleston City Hall, a small but dignified Beaux-Arts building on Court Street facing the railroad embankment, opened in 1921. The pale limestone facade with its arched window bay, low-pitched green-tiled roof, and bronze entrance lamps is a confident piece of the optimism that produced the wider downtown of that decade.

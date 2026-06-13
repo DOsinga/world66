@@ -9,6 +9,7 @@ latitude: 52.5187
 longitude: -7.8873
 story: >
   St Patrick is said to have baptised King Aengus here in 450, and — according to legend — accidentally drove the tip of his crozier through the king's foot during the ceremony. Aengus endured it in silence, assuming it was part of the rite. The Rock was the seat of the Kings of Munster from the 4th century until 1101, when King Muirchertach Ua Briain granted it to the Church — a political masterstroke that simultaneously gained church support and removed a rival power base.
+score: 9.5
 ---
 
 The Rock of Cashel is a 60-metre limestone outcrop rising dramatically from the surrounding Tipperary plain, topped by one of the most impressive groupings of medieval buildings in Ireland: a 12th-century round tower, the Romanesque Cormac's Chapel, a ruined 13th-century Gothic cathedral, and the 15th-century Hall of the Vicars Choral. The complex is enclosed by a circuit wall and has been a place of royal and ecclesiastical power for over a thousand years.

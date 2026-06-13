@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 22.1482
 longitude: -100.9775
+score: 8.2
 ---
 
 The National Mask Museum occupies a handsome late 19th-century building on the Plaza del Carmen and holds one of Mexico's finest collections of ceremonial masks — over 1,300 pieces representing pre-Hispanic, colonial, and contemporary traditions from across the country. It is consistently underrated compared to the city's churches, but is genuinely worth an hour or more.

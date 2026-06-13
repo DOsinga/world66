@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.51680
 longitude: 16.25200
+score: 6.3
 ---
 
 Konoba Tragos is one of the better-regarded restaurants in Trogir's old town, with tables in a stone-vaulted interior and a menu that takes Dalmatian seafood cooking seriously. The fish is bought fresh from local fishermen each morning and the menu changes accordingly. Grilled bream, sea bass, and dentex are handled simply — olive oil, lemon, a few capers — in the way that the Adriatic tradition recommends.

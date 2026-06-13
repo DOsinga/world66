@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "11th-century synagogue, destroyed in 1938 and rebuilt with original stones"
+score: 9.0
 ---
 
 The oldest synagogue site in Germany — first built around 1034, rebuilt and extended through the

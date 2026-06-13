@@ -8,6 +8,7 @@ tags:
 - church
 title: Church of the Holy Spirit
 type: poi
+score: 5.9
 ---
 
 The Church of the Holy Spirit is the only Roman Catholic church in Batumi — a small but pretty building on a quiet street east of Europe Square. Catholic worship in the city dates to the same nineteenth-century influx of merchants and engineers that built the synagogue and the cathedral, although the original Catholic church (designed by the Polish architect Marfeld) was destroyed in the Soviet era.

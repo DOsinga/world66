@@ -6,6 +6,7 @@ longitude: 20.2564
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 The largest building on Kossuth tér is the Reformed Great Church — a substantial Neoclassical hall church with a tall spire, built in the 1820s for what was at the time a strongly Calvinist town. The interior is plain in the Reformed manner, with high galleries on three sides and a painted wooden ceiling.

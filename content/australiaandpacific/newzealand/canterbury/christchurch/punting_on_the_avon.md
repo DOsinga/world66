@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.5288
 longitude: 172.6330
+score: 6.7
 ---
 
 The Avon River runs through central Christchurch in wide, willow-lined curves, and punting on it has been a tradition since the city's earliest English settlers decided to recreate their Cambridge and Oxford river pleasures in the antipodes. The punts depart from the Antigua Boat Sheds — a lovely wooden boathouse built in 1882 and one of the oldest buildings left in central Christchurch — and glide for thirty minutes through the gardens under the guidance of a poler in Edwardian costume.

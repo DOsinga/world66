@@ -8,6 +8,7 @@ latitude: 41.1500
 longitude: 122.9800
 story: >
   Tangangzi's springs were reportedly visited by Qing dynasty emperors, who came here to take the mineral waters during their tours of Manchuria. The Tang dynasty connections implied in the name are harder to verify, but the geological source of the springs — a volcanic system deep beneath the Liaodong Peninsula — is ancient enough that the springs have been producing hot mineral water for as long as humans have been here to notice them.
+score: 7.4
 ---
 
 Tangangzi Hot Spring Spa, northeast of the city centre, has been receiving visitors for over a thousand years. The mineral springs produce hot water rich in radium and other compounds that give the mud baths here their particular character — a regional specialty distinct from the straightforward hot pools found at other northeastern Chinese thermal spas.

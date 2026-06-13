@@ -9,6 +9,7 @@ latitude: 52.3893
 longitude: 13.1057
 sources:
   - https://en.wikipedia.org/wiki/Babelsberg_Palace
+score: 8.3
 ---
 
 Babelsberg Park is the less-visited counterpart to Sanssouci, lying on the eastern side of Potsdam across the Havel River. Designed by Peter Joseph Lenné and Prince Hermann von Pückler-Muskau in the English landscape garden style, it is a wilder and more romantic park than Sanssouci — rolling terrain, old trees, and a Gothic Revival castle (Schloss Babelsberg) rising above the water on a wooded hill.

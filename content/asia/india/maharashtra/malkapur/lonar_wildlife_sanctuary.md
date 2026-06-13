@@ -8,6 +8,7 @@ tags:
 snippet: A small protected reserve around the Lonar crater
 latitude: 19.9750
 longitude: 76.5075
+score: 6.7
 ---
 
 The wildlife sanctuary is essentially the crater bowl and a margin of forest around the rim, protected since 2000. It is small by Indian park standards — under four square kilometres — but the density of birdlife and small mammals inside is high. Peafowl are abundant and noisy, especially in the early morning; chinkaras (Indian gazelles), wild boar, langurs, and monitor lizards are commonly seen on a slow walk down to the lake.

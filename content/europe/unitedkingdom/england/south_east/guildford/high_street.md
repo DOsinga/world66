@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: One of England's most photographed cobbled high streets
+score: 9.0
 ---
 
 The steep cobbled High Street is the historic spine of Guildford and one of the best-preserved medieval high streets in southern England. It runs down from the Holy Trinity Church at the top to the River Wey at the foot, lined with timber-framed and Georgian buildings, the Guildhall and its clock, and a working mix of shops, pubs, and cafés.

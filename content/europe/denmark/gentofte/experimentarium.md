@@ -8,6 +8,7 @@ latitude: 55.7230
 longitude: 12.5683
 sources:
   - https://en.wikipedia.org/wiki/Experimentarium
+score: 8.1
 ---
 
 The Experimentarium in Hellerup is Denmark's leading science centre — a large, hands-on museum designed primarily for children but engaging enough for adults without children to find it worthwhile. Reopened in 2017 in a dramatically redesigned building in Hellerup harbour, it covers physics, biology, technology, and the natural sciences through several hundred interactive exhibits across three floors.

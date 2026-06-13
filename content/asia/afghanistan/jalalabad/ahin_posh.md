@@ -14,6 +14,7 @@ story: >
   stupa still contained its original reliquary deposit — copper and silver vessels, glass beads,
   and a dedicatory inscription — sealed since around 160 CE. The finds were among the first
   physical evidence that the region had been a major centre of the Kushan Buddhist world.
+score: 5.5
 ---
 
 Ahin Posh is a ruined Buddhist stupa and monastery complex on the outskirts of Jalalabad, dating to approximately 150–160 CE during the Kushan Empire. The Kushan period was the golden age of Buddhism in this part of Central Asia, and Jalalabad's ancient name — Nagarahara — was a significant Buddhist pilgrimage site, mentioned in the 7th-century Chinese pilgrim Xuanzang's travel account as containing relics of the historical Buddha.

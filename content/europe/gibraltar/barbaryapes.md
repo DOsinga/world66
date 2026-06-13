@@ -8,6 +8,7 @@ tags:
 - wildlife
 title: Barbary Apes
 type: poi
+score: 8.0
 ---
 
 The Barbary macaques of Gibraltar are the only wild primates in Europe. First introduced by the British in the early 18th century from the Atlas Mountains of Morocco, these tailless monkeys have become the territory's most famous residents. Legend has it that as long as the apes remain on the Rock, Gibraltar will stay British — a superstition that Churchill took seriously enough to order reinforcements from Morocco when numbers dwindled during World War II.

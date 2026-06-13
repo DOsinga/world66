@@ -8,6 +8,7 @@ latitude: 46.876832
 longitude: -96.792185
 story: >
   The Plains Art Museum occupies a former International Harvester warehouse from 1904 — a building that spent most of the 20th century storing farm equipment. The conversion in 1997 preserved the original brick walls and heavy timber frame while opening the interior to tall, naturally-lit gallery spaces. It remains the largest fine art museum between Minneapolis and Seattle.
+score: 8.0
 ---
 
 The Plains Art Museum is the main cultural institution in Fargo, housed in a beautifully converted 1904 warehouse on Broadway. The collection focuses on regional art — paintings, sculpture, and craft from North Dakota and the surrounding northern plains — alongside a broader collection of American art and a rotating program of major travelling exhibitions. The Native American collection is particularly strong.

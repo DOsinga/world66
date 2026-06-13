@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.11375
 longitude: 8.031713
+score: 6.2
 ---
 
 The 17th-century parish church of San Giovanni Battista is the main religious building in Nasino, sitting at the centre of the village. The church is a typical example of rural Ligurian Baroque religious architecture — modest in scale but carefully finished, with the campanile forming the most prominent element on the village skyline.

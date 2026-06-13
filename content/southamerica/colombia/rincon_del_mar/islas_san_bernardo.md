@@ -9,6 +9,7 @@ tags:
 snippet: "Coral archipelago reachable by boat from Rincón"
 story: >
   Santa Cruz del Islote, one of the San Bernardo islands, is the most densely populated island on earth — about 1,200 people on an islet of around two hectares, with houses crammed against each other and only narrow gaps between them. The population came from fishermen who liked the island because it has no mosquitoes.
+score: 8.9
 ---
 
 The San Bernardo archipelago is a coral group of about ten small islands lying offshore from Rincón, part of the same national park system as the better-known Rosario islands near Cartagena. The closer islands — Isla Tintipán and Isla Múcura — can be visited as a day trip from Rincón by panga boat, with snorkelling stops on the reefs along the way.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Trattoria Monti
 type: poi
+score: 8.2
 ---
 
 One of Rome's best regional Italian restaurants, serving the cooking of Le Marche — the Adriatic coast region east of Umbria — in a small, warm room near Santa Maria Maggiore. The vincisgrassi (a layered pasta with chicken livers) and the stuffed vegetables are the thing to order; the truffled dishes in season are exceptional. Run by the same family for decades, with the kind of consistency that only comes from not trying to keep up with trends. Book ahead, especially for dinner.

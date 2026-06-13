@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.0760
 longitude: 117.0180
+score: 6.6
 ---
 
 Hakka rice wine chicken — braised pieces of chicken cooked slowly in locally fermented rice wine with ginger — is the defining dish of Longyan cuisine and one of the most distinctive things you can eat in western Fujian. The dish has a golden colour from the wine reduction and a mild sweetness quite unlike the chilli-forward cooking of nearby Sichuan or the soy-heavy preparations of Cantonese Hakka food. It is served at virtually every restaurant in the city but quality varies considerably — look for places where the chicken is clearly braised rather than quickly fried.

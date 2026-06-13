@@ -11,6 +11,7 @@ tags:
   - shopping
   - market
 snippet: "Lively daily market — the regional hub for Gbaya farmers and Cameroon-bound traders"
+score: 6.2
 ---
 
 A small but lively daily market in the centre of town, busiest in the morning. The market is the meeting point between Gbaya subsistence farmers from the surrounding villages — bringing yams, cassava, peanuts, palm wine, dried fish from the Mambéré river — and traders running goods along the road between Bangui and Cameroon. The combination produces an unusually varied range for a town this size, with manufactured goods from both directions and produce that hasn't sat on a truck.

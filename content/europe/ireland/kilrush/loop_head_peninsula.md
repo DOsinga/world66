@@ -10,6 +10,7 @@ story: >
   The lighthouse at Loop Head has been warning ships off this headland since 1670, though the current tower dates from 1854. On a clear day you can see the Aran Islands to the north, the Dingle Peninsula to the south, and — in conditions that the locals call "magic days" — a faint smudge that might be the Blasket Islands or might be imagination.
 sources:
   - https://en.wikipedia.org/wiki/Loop_Head
+score: 8.3
 ---
 
 Loop Head Peninsula stretches 25 kilometres west from Kilrush to the most westerly tip of County Clare, where the Loop Head lighthouse stands above sheer Atlantic cliffs. This is one of the finest coastal drives in Ireland, passing through tiny farming villages, past extraordinary sea stacks and blowholes, and along cliff edges where the only sound is wind and guillemots. The headland here carries none of the infrastructure that the Cliffs of Moher attract — no ticket barriers, no visitor centre — which means you park informally and walk to the edge on your own terms.

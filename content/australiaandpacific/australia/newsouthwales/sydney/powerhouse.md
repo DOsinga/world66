@@ -12,6 +12,7 @@ tags:
 title: Powerhouse Museum
 type: poi
 url: www.maas.museum
+score: 8.3
 ---
 
 Australia's largest museum, the Powerhouse covers science, technology, design and social history across 25 exhibition spaces. Particularly strong on decorative arts and industrial design. Open daily 10am to 5pm.

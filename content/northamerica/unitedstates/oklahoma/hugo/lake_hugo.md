@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 34.0285
 longitude: -95.3722
+score: 6.4
 ---
 
 Hugo Lake, a Corps of Engineers reservoir a few kilometres east of town, offers fishing, boating, and camping in a setting of rolling pine and oak woodland typical of southeastern Oklahoma's Kiamichi country. The lake covers about 7,000 acres and supports bass, catfish, and crappie fishing that draws anglers from across the region.

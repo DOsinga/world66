@@ -9,6 +9,7 @@ title: Graslei and Korenlei
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Graslei
+score: 9.1
 ---
 
 The Graslei (Grass Quay) and its counterpart the Korenlei (Corn Quay) face each other across a narrow arm of the Leie river, forming the most spectacular stretch of medieval Ghent. The Graslei side is particularly fine: a continuous row of guild houses spanning Romanesque, Gothic, and Baroque styles, built between the 12th and 17th centuries by the guilds that controlled trade through the city's port.

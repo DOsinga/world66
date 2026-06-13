@@ -8,6 +8,7 @@ tags:
 - wine
 title: Monterrei Wine Route
 type: poi
+score: 7.4
 ---
 
 The Monterrei DO is the smallest and southernmost of Galicia's five wine regions, occupying the warm river valley around Verín. Whites here are dominated by Godello and Treixadura — crisp, mineral, less aromatic than Albariño — and the reds are usually made from Mencía, the same grape that defines neighbouring Bierzo across the border in León. Many of the wineries are small family operations open by appointment.

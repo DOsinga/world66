@@ -7,6 +7,7 @@ tags:
 latitude: 48.9211
 longitude: -123.7169
 story: "When the Chemainus sawmill closed in 1983 and the town was left with a gutted economy, local business owner Karl Schutz proposed painting a mural of the town's history on a single building wall. The bet paid off spectacularly: within a year tourists arrived in numbers that surprised everyone, and Chemainus became a model for economic reinvention through public art that has been studied by struggling towns around the world."
+score: 8.6
 ---
 
 More than 50 large-scale murals cover the exterior walls of buildings throughout the downtown, depicting scenes from the town's history — the Cowichan and other First Nations peoples who lived in the valley, the timber industry that defined the community for a century, the arrival of Chinese and European labourers, and the working life of the harbour. The project started in 1982 as an act of desperation after the sawmill closure and has grown into one of the most concentrated collections of outdoor murals in North America.

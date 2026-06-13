@@ -7,6 +7,7 @@ longitude: -94.62333
 snippet: A Works Progress Administration community hall from 1937 — Depression-era civic architecture
 sources:
   - https://en.wikipedia.org/wiki/Poteau_Community_Building
+score: 5.5
 ---
 
 The Poteau Community Building was constructed in 1937 as a Works Progress Administration project during the New Deal — one of hundreds of public buildings built across rural America to provide employment and give small towns lasting civic infrastructure. The building is listed on the National Register of Historic Places and represents the stripped classical style typical of WPA public architecture: solid limestone construction, modest ornamentation, built to last.

@@ -7,6 +7,7 @@ tags:
   - museum
 title: Tiraspol National United Museum
 type: poi
+score: 7.5
 ---
 
 The National United Museum covers the history of Transnistria from prehistoric times through the Soviet period and the 1992 war of independence. The collection includes archaeological finds from the region, examples of traditional Moldovan and Ukrainian folk culture, exhibits on WWII military history, and material on the armed conflict that established Transnistrian independence. The WWII galleries are particularly extensive, reflecting the significance of the 1944 liberation of the city from Romanian-German occupation in local memory.

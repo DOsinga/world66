@@ -9,6 +9,7 @@ latitude: 42.8786
 longitude: -8.5449
 sources:
   - https://en.wikipedia.org/wiki/Fonseca_College,_Santiago_de_Compostela
+score: 7.1
 ---
 
 Fonseca College — the Colegio de Fonseca — was founded in 1522 by Archbishop Alonso de Fonseca III as a student residence for scholars from Galicia. It is one of the most beautiful Renaissance buildings in Galicia, and is now used by the University of Santiago de Compostela as a library and exhibition space.

@@ -8,6 +8,7 @@ latitude: 29.9500
 longitude: 78.2500
 story: >
   The park is named after C. Rajagopalachari — "Rajaji" — a prominent figure of Indian independence who served as the country's first Indian Governor-General. It was established in 1983 by merging three existing wildlife sanctuaries and covers nearly 820 square kilometres of Shivalik forest.
+score: 8.4
 ---
 
 Rajaji National Park begins virtually at the edge of Haridwar and extends eastward through the Shivalik range toward Rishikesh and beyond. It is one of the best places to see wild elephants in northern India — the park holds one of the largest elephant populations in the western Himalayan foothills. Tigers, leopards, sambar deer, and a rich population of birds also inhabit the forest.

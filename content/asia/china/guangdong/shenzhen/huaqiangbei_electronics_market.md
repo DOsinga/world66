@@ -9,6 +9,7 @@ latitude: 22.5481
 longitude: 114.0892
 story: >
   Huaqiangbei is where the hardware of the global electronics industry is bought and sold. Engineers from Silicon Valley and Shenzhen's own tech startups come here to source components that aren't available anywhere else. The area is also where counterfeit electronics are assembled and sold — phones cloned from premium brands, "unlocked" devices of uncertain provenance, and gadgets that don't officially exist.
+score: 9.0
 ---
 
 Huaqiangbei is the world's largest electronics market, occupying a dense grid of multi-storey malls in the Futian District. The main boulevard is flanked by glass-and-steel towers where each floor specialises in a different category: one floor for mobile phones, another for cables and adapters, another for components, another for wearables, another for drones.

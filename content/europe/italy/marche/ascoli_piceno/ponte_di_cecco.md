@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: Roman bridge with a legend involving the devil
 story: Local legend insists that the astrologer Cecco d'Ascoli built the bridge in a single night with the help of the devil, bargaining the soul of the first creature to cross it. Cecco was burned at the stake in 1327 for heresy, which fits the story nicely. The bridge itself probably dates from Augustan times.
+score: 6.8
 ---
 
 A single-arch stone bridge over the Castellano on the eastern edge of the centre, attributed to the astrologer-poet Cecco d'Ascoli and to local pact-with-the-devil legend. The actual structure is Roman — probably first-century BC — and survived in working condition until being damaged in the Second World War and restored afterwards.

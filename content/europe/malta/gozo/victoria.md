@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 latitude: 36.0444
 longitude: 14.2407
 address: Victoria, Gozo
+score: 8.5
 ---
 
 Victoria — locals still call it Rabat — is Gozo's capital and the closest thing the island has to a city. Two squares anchor it: **Pjazza San Ġorġ**, with the heavily gilded interior of St George's Basilica, and **It-Tokk** (Independence Square), the main market square, busy from early morning when the fruit and vegetable vendors set up.

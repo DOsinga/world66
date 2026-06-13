@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: One of the largest forest complexes in Poland, stretching north from Chojnice across glacial sand plains.
+score: 8.7
 ---
 
 The Bory Tucholskie cover roughly 3,200 square kilometres of sandy lowland forest north and east of Chojnice — mostly Scots pine planted on outwash plains left by retreating glaciers. The forest is criss-crossed by rivers, dotted with several hundred lakes, and laced with cycling and walking trails. A large central portion is protected as the Bory Tucholskie National Park.

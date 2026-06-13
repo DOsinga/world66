@@ -11,6 +11,7 @@ story: >
   The Seggau ridge has been occupied since at least Celtic times. The Romans built a sanctuary here dedicated to Isis, and fragments of the Roman shrine are still visible incorporated into the medieval walls. The bishops of Seckau have owned the complex since the twelfth century, making it one of the oldest continuously inhabited sites in Styria.
 sources:
   - https://en.wikipedia.org/wiki/Schloss_Seggau
+score: 8.2
 ---
 
 Schloss Seggau perches on a dramatic ridge above Leibnitz, visible from across the valley and well worth the climb. The complex is large and layered, with medieval fortifications, baroque chapels, and a Roman lapidarium built up over more than a thousand years of continuous use. Today it functions as a retreat and conference centre run by the Diocese of Graz-Seckau, but visitors are welcome to explore the grounds and many of the historic rooms.

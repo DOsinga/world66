@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9312
 longitude: 2.1446
+score: 7.8
 ---
 
 The Vieux Pont — the old bridge — crosses the Tarn river just north of the cathedral close and offers what is arguably the best view in Albi: the rose-brick mass of the cathedral rising above the rooftops of the lower town, reflected in the slow-moving Tarn below. The bridge itself dates from the late 11th century, making it one of the oldest in France still in regular use, and has been rebuilt and widened several times over the centuries.

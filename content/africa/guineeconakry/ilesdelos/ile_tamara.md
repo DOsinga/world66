@@ -6,6 +6,7 @@ longitude: -13.8336
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Tamara is the outermost of the three main islands, longer and wilder than Kassa or Roume, and far less visited. A few fishing villages dot the coast and the interior is mostly forest and scrub. Boats come and go, but there is no schedule -- you either negotiate a private pirogue from Conakry or hop across from Kassa.

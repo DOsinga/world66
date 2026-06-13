@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.7395
 longitude: 85.0306
+score: 8.4
 ---
 
 The Dungeshwari Caves, also called the Mahakala Caves, lie about 12 kilometres northeast of Bodh Gaya on the road toward Gaya. This is where, according to Buddhist tradition, the young Siddhartha Gautama practised extreme asceticism — eating almost nothing, meditating in increasingly painful positions — before concluding that austerity alone could not lead to enlightenment. His abandonment of this path in favour of the Middle Way is one of the key turning points in the Buddhist story.

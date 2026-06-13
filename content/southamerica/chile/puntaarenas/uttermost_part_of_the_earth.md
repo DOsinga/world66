@@ -5,6 +5,7 @@ author: "E. Lucas Bridges"
 isbn: "978-1585679560"
 tags:
   - books
+score: 7.8
 ---
 
 The single most important first-hand account of life in Tierra del Fuego in the late nineteenth century. Bridges was the son of an Anglican missionary who had settled at Ushuaia in 1871; he grew up among the Yámana and Selk'nam people, spoke their languages fluently, and recorded their customs and disappearance in unsentimental detail.

@@ -8,6 +8,7 @@ tags:
   - restaurant
 title: Le Villageois
 type: poi
+score: 5.9
 ---
 
 A French-Portuguese restaurant on Praça da República, the main square of Vila do Conde, with an outdoor terrace and reliable cooking in both traditions. The wine list includes good Vinho Verde alongside French bottles. Closed on Mondays.

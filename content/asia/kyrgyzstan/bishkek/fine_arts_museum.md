@@ -7,6 +7,7 @@ tags:
 latitude: 42.8757
 longitude: 74.6047
 address: "Yusup Abdrakhmanov Street 196, Bishkek"
+score: 8.0
 ---
 
 Named after the painter Gapar Aitiev, the country's main art museum holds Kyrgyz felt work, embroidery and Saimaluu-Tash petroglyph rubbings on the ground floor; 19th- and 20th-century Russian academic painting on the first floor; and Soviet-era Kyrgyz painters including Semyon Chuikov and Gapar Aitiev himself on the upper floors.

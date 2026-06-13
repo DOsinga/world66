@@ -6,6 +6,7 @@ longitude: 13.4317
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Vitt is a tiny fishing village of fourteen reed-thatched, single-storey cottages clustered around a stone harbour at the foot of the Cape Arkona cliffs. The whole settlement is a listed historical monument, with no cars and almost no commerce — a smoked-fish stand, a small chapel above the village, and that is about it.

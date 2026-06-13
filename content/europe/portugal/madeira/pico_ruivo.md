@@ -6,6 +6,7 @@ latitude: 32.7583
 longitude: -16.9425
 story: >
   Pico Ruivo is the third-highest peak in Portugal at 1,862 metres, behind Pico on the island of Pico in the Azores and Serra da Estrela on the mainland. On a clear winter morning the summit looks down through a thick floor of white cloud filling the valleys below — the so-called "sea of clouds" that the locals call mar de nuvens.
+score: 9.1
 ---
 
 Pico Ruivo is the highest point on Madeira, a rocky summit deep in the central mountains. The walk to it from Achada do Teixeira is the easiest and most popular route — a paved stone path of about 90 minutes return, climbing through low scrub and barren rock to the summit cabin.

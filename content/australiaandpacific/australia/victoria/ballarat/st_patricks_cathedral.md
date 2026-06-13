@@ -9,6 +9,7 @@ snippet: "Gothic Revival Catholic cathedral with the highest spire in regional A
 address: "3 Lyons Street South"
 latitude: -37.5651
 longitude: 143.8542
+score: 7.8
 ---
 
 St Patrick's, the Catholic cathedral, is one of the most ambitious Gothic Revival churches in Australia — a long, high, austere bluestone building with a 78-metre spire visible from across the basin. It was begun in 1858 to serve the Irish-Catholic mining population (a large share of the diggers were Irish) and finished, after multiple stalls, in 1939.

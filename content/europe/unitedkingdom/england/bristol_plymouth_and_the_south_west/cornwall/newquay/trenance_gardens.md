@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4083
 longitude: -5.0820
+score: 6.6
 ---
 
 Trenance Gardens lie in a sheltered valley a short walk south of the town centre, with formal flower beds, an ornamental lake, a boating pond, and the small Newquay Zoo at the upper end. Together they form the green heart of the town.

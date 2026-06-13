@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.2570
 longitude: -1.9130
+score: 7.3
 ---
 
 The Buxton Museum and Art Gallery occupies a handsome building on Terrace Road and houses collections focused on the geology, archaeology, and history of the Peak District and Derbyshire. The geology displays are particularly strong — the Peak District's limestone and gritstone landscapes are geologically fascinating, and the museum explains both the formation and the human use of the rock through time.

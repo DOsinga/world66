@@ -8,6 +8,7 @@ tags:
 latitude: 27.6713
 longitude: 85.4287
 snippet: A three-storey pagoda to the fearsome god Bhairav, focal point of Bisket Jatra
+score: 7.9
 ---
 
 The Bhairavnath Temple faces the Nyatapola across Taumadhi Square, and the contrast is striking: the Nyatapola soars on its tall plinth, while the Bhairavnath is lower, wider, and more elaborately decorated — three tiers of roof supported by carved struts, with an erotic detail on the lower struts that reflects the temple's tantric associations.

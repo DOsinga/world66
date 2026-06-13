@@ -1,6 +1,7 @@
 ---
 title: "Cherry blossom season on Daigaku-dori"
 type: poi
+score: 7.5
 ---
 
 In late March and early April, the zelkova trees along Daigaku-dori are joined by rows of cherry trees whose branches arch across the full width of the boulevard, creating a tunnel of pale pink blossom overhead. It is one of the best-known hanami spots in western Tokyo, drawing visitors from across the city who come to stroll beneath the canopy, picnic on the verges, or simply sit on a bench with coffee from one of the nearby kissaten.

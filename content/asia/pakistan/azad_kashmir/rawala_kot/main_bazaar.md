@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - sight
+score: 6.1
 ---
 
 Rawalakot's main bazaar runs along the central spine of town, a single long street of small shops selling everything from fabric and shoes to dried fruit and SIM cards. It is the social centre of the valley — at any time of day men gather over tea outside the dhabas, and on bazaar days farmers come down from the surrounding villages to sell produce.

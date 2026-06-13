@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "1900s commercial blocks at the heart of the original oil-boom town"
+score: 6.8
 ---
 
 A compact grid of brick and stone commercial buildings put up between 1900 and 1940 during the

@@ -9,6 +9,7 @@ latitude: 34.3277
 longitude: 71.9444
 story: >
   Takht-i-Bahi means "throne of the water spring" in Pashto, named after a spring that once flowed at the base of the hill. The monastery was continuously occupied from around the 1st century CE until the 7th century, making it one of the longest-inhabited Buddhist sites in the Gandhara region. It was never sacked or destroyed — it was simply abandoned, which is why so much survives.
+score: 9.4
 ---
 
 Takht-i-Bahi is one of the most impressive archaeological sites in Pakistan, set dramatically on a hilltop about 15 kilometres northwest of Mardan. Dating from the 1st century CE, it is one of the best-preserved Buddhist monastic complexes in the Gandhara region — the ancient civilisation that blended Greek, Persian, and Indian artistic traditions in what is now northern Pakistan and Afghanistan.

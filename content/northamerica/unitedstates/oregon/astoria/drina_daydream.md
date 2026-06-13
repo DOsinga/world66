@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.1876
 longitude: -123.8296
+score: 6.2
 ---
 
 A Bosnian restaurant in Astoria — not a combination you would expect, but a genuine and much-loved local institution. Drina Daydream has been serving burek, cevapi, and slow-cooked Balkan stews from a small Victorian shopfront for years. The food is hearty, the portions are generous, and the prices are very reasonable.

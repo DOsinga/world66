@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.9
 ---
 
 The Marian Coffin Garden surrounds the Gibraltar Mansion, a derelict Italian Renaissance house just north of the city centre. The grounds are open to the public year-round and free; the house itself is closed and slowly decaying. The contrast between the polished six-acre formal garden and the boarded-up house is part of the appeal.

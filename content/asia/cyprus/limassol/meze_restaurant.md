@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.7133
 longitude: 33.0511
+score: 5.9
 ---
 
 The suburb of Germasogia, just east of central Limassol, is where locals go for traditional Cypriot meze — that long, leisurely meal of perhaps twenty small dishes that represents the island's cuisine at its most social. The dozen or so traditional restaurants here serve meze in the old style: you order meze for the table (usually a minimum of two people), pay a fixed price per person, and then let the kitchen deliver what it likes in whatever order it chooses.

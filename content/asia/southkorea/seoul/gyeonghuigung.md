@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Gyeonghuigung Palace
 type: poi
+score: 7.0
 ---
 
 Gyeonghuigung is the least-visited of Seoul's five Joseon palaces, its relative obscurity making it worth seeking out for the contrast. The palace was built in 1617 as a secondary royal residence; at its peak it had 100 buildings. During the Japanese colonial period most of these were demolished or removed, and the site was used as a school. Restoration work since 1988 has rebuilt several key structures.

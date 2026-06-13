@@ -13,6 +13,7 @@ story: >
   and delighted visitors ever since.
 sources:
   - https://en.wikipedia.org/wiki/Beaverbrook_Art_Gallery
+score: 8.4
 ---
 
 The Beaverbrook Art Gallery is New Brunswick's provincial art gallery and one of Canada's better regional collections. Lord Beaverbrook founded it in 1959 and stocked it with work from his personal collection, including significant pieces of British and Canadian art. The British holdings are particularly strong, with paintings by Turner, Constable, Gainsborough, and Reynolds alongside more modern British work.

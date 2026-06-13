@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -17.7700
 longitude: 177.3838
+score: 5.2
 ---
 
 Denarau Island is the resort and marina complex just north of Nadi town, connected to the mainland by a short causeway. It is the launching point for most boat traffic to the [Mamanuca and Yasawa](/australiaandpacific/fiji/yasawaislands) chains: the "Yasawa Flyer" catamaran, day cruises, dive boats, and private charters all leave from Port Denarau Marina.

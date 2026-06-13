@@ -8,6 +8,7 @@ tags:
 latitude: 45.8989
 longitude: 6.1271
 snippet: "Tuesday, Friday and Sunday market stretching the length of the old town's main arcaded street"
+score: 7.8
 ---
 
 Three mornings a week the long, arcaded Rue Sainte-Claire fills with the Annecy market — one of the better outdoor markets in the French Alps. Cheese stalls dominate (Reblochon, Beaufort, Abondance, Tomme), but the line of stands also covers Savoyard charcuterie, lake fish, mountain honey, alpine wines, summer vegetables and bread.

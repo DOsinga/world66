@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: The wooden parish church near the town centre, one of the few buildings to survive the wartime bombing
+score: 5.9
 ---
 
 Built in 1925 in a restrained neo-Gothic style and largely of timber, **Narvik kirke** is the parish church for the town and an unexpected survivor: it was one of very few central buildings to come through the 1940 bombing largely intact. The white-painted nave seats around 600 and has a five-pointed star window above the altar by the local artist Aage Storstein.

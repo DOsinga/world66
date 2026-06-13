@@ -9,6 +9,7 @@ tags:
 snippet: Some of the best cold-water oysters in southern Africa
 story: >
   Pacific oysters were introduced to the cold Atlantic waters off the Namibian coast in the 1980s; the plankton-rich Benguela current produces oysters that take six months to reach the size that would take three years in warmer water — and the flavour is correspondingly intense. Local hands consider them a match for the best of Brittany.
+score: 6.3
 ---
 
 The oyster farms in the Walvis Bay lagoon and the colder waters off Lüderitz produce some of the best oysters in Africa. Several restaurants in town serve them by the dozen — usually freshly shucked, sometimes with a glass of South African sparkling wine. Most of the catamaran trips on the lagoon stop briefly at one of the inner oyster farms for a tasting on the water.

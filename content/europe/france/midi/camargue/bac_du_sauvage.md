@@ -8,6 +8,7 @@ tags:
   - river
 title: "Bac du Sauvage"
 type: poi
+score: 5.4
 ---
 
 The Bac du Sauvage is a small ferry crossing over the Petit Rhone, useful for slow loops around Saintes-Maries-de-la-Mer and the western marshes. It is a tiny piece of transport, but it feels perfectly suited to the Camargue.

@@ -8,6 +8,7 @@ tags:
 title: Kritamon
 type: poi
 snippet: "Honest Cretan taverna near the old walls, popular with locals."
+score: 5.7
 ---
 
 A small, straightforward taverna near the old city walls that does honest Cretan food at fair prices — grilled meats, fresh salads, good house wine. Popular with locals at lunch. The lamb chops and the stuffed vegetables are reliably good.

@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Galerie Frédéric Damgaard
 type: poi
+score: 7.3
 ---
 
 The most established art gallery in Essaouira, founded by the late Danish dealer Frédéric Damgaard who championed local self-taught painters from the Gnaoua tradition for decades. Their work — dense, dreamlike, often spiritual — is now collected internationally. Even if you are not buying, the gallery on Avenue Oqba Ibn Nafiaa is one of the best free things to see in town.

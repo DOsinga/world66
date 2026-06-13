@@ -7,6 +7,7 @@ snippet: "Limestone gorge famous for its troop of Barbary macaques"
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 The Chiffa Gorges, fifteen kilometres west of Blida, are a dramatic limestone defile carved by the Chiffa river through the Tell Atlas. The road clings to the eastern wall of the canyon, with the river running far below; pull-outs along the way are the best places to stop and look up at the cliffs.

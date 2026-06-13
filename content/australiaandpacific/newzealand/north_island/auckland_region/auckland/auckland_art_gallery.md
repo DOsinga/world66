@@ -12,6 +12,7 @@ url: https://www.aucklandartgallery.com
 opening_hours: 10:00–17:00 daily (closed Christmas Day)
 sources:
   - https://en.wikipedia.org/wiki/Auckland_Art_Gallery
+score: 8.4
 ---
 
 New Zealand's principal public art gallery occupies a heritage building from 1887 that was dramatically expanded and renovated in 2011, wrapping a new wing around the old French-chateau-style facade. The collection spans New Zealand and international art from the 14th century to the present, with a particular strength in New Zealand portraiture and contemporary Pacific art.

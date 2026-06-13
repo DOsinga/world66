@@ -12,6 +12,7 @@ story: >
   The French Church got its popular name from the Huguenot community that worshipped here after the Franciscan friary was dissolved. Waterford's Huguenot population arrived following the revocation of the Edict of Nantes in 1685, which expelled Protestants from France. The church served this community until the early nineteenth century, when the Huguenot population had dwindled through intermarriage with the native Protestant community. It has been a roofless ruin since then, but the walls stand to their full height.
 sources:
   - https://en.wikipedia.org/wiki/French_Church,_Waterford
+score: 7.4
 ---
 
 The French Church on Greyfriars Street is the roofless shell of a Franciscan friary founded in 1241, one of the oldest surviving medieval religious structures in Waterford. The walls stand essentially complete, giving a clear impression of the original building's scale and plan. The interior is now an open space — grass between the walls, the sky for a ceiling — that has a particular melancholy beauty.

@@ -8,6 +8,7 @@ tags:
   - restaurant
 snippet: "Long-standing Cape Verdean and Senegalese canteen on the Plateau, lunch institution"
 address: "101, rue Mousse Diop"
+score: 5.8
 ---
 
 Chez Loutcha is a Dakar institution — a sprawling, slightly worn restaurant on a side street of the Plateau that has been serving generous plates of Cape Verdean and Senegalese food to civil servants, journalists and tourists for decades. Lunch is the time to come: the daily *thieboudienne* is excellent and the portions could feed two.

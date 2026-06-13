@@ -9,6 +9,7 @@ latitude: 39.6609
 longitude: -75.5634
 sources:
   - https://en.wikipedia.org/wiki/Dutch_House_(New_Castle,_Delaware)
+score: 8.2
 ---
 
 The Dutch House is believed to be the oldest surviving brick house in Delaware, dating from the late seventeenth century when New Castle was still a Dutch colonial outpost called Nieuw Amstel. The squat, steep-roofed building at 32 Third Street is a rare example of vernacular Dutch colonial construction in America — most buildings from this period have long since been demolished or rebuilt.

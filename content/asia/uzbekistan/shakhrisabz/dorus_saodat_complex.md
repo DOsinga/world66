@@ -13,6 +13,7 @@ story: >
   But when Timur died in 1405 during his campaign toward China, winter made the Takhta-Karacha
   Pass impassable, and he was buried in Samarkand's Gur-e-Amir instead. The crypt in
   Shakhrisabz remains empty.
+score: 8.4
 ---
 
 The Dorus-Saodat, or "Seat of Power," is a mausoleum complex that Timur built to house his family and, eventually, himself. His eldest son Jehangir, who died young in 1376, is buried here, as is his grandson Mohammed Sultan. Timur intended to join them, but fate intervened — he died far from home and was interred in Samarkand.

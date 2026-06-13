@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Kanda Yabu Soba
 type: poi
+score: 8.1
 ---
 
 Kanda Yabu Soba has been making handmade soba noodles since 1880 and is among the oldest restaurants still operating in Tokyo. The original building burned down in 2013 and was rebuilt to the same design; the aesthetic — bamboo garden, tatami rooms, cedar panels — is unchanged. The soba is pale and fresh, with a clean, nutty flavour that mass-produced noodles cannot replicate.

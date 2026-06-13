@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When British railway surveyors uncovered the Shwethalyaung in 1880, it had been buried under jungle for over 120 years. The head had sunk into the earth and workers initially mistook the first exposed stone for a rocky outcrop before realising the scale of what lay beneath — 55 metres of reclining Buddha, hidden in plain sight."
+score: 8.9
 ---
 
 Built in 994 AD by the Mon King Migadeipha, the Shwethalyaung is one of the largest reclining Buddha figures in the world at 55 metres long and 16 metres high. The figure depicts the Buddha in his final moments before passing into nirvana, and the expression on the face — calm, slightly smiling, turned gently to one side — is considered one of the finest examples of Mon Buddhist sculpture anywhere. The soles of the feet are decorated with 108 auspicious symbols, intricate and worth a close look.

@@ -8,6 +8,7 @@ latitude: 30.3342
 longitude: -87.1351
 sources:
   - https://en.wikipedia.org/wiki/Pensacola_Beach,_Florida
+score: 5.6
 ---
 
 The Pensacola Beach Boardwalk is the social hub of the beach — a stretch of shops, restaurants, and bars along the Gulf of Mexico shoreline. It is where you rent kayaks and paddleboards, book parasailing and dolphin-watching tours, and find most of the places to eat and drink after a day on the sand.

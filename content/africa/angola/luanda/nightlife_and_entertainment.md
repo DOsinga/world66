@@ -6,6 +6,7 @@ longitude: 55.135252
 phone: '925661710'
 title: Nightlife and Entertainment in Luanda
 type: poi
+score: 1.5
 ---
 
 Clubs

@@ -6,6 +6,7 @@ longitude: 23.6426
 tags:
   - things_to_do
   - museum
+score: 5.6
 ---
 
 A small but charming museum inside Piraeus station, dedicated to the Athens–Piraeus electric railway — the spine of the city's transport since 1869, and the first metro line in the Balkans. Old wooden carriages, station signs, conductors' uniforms, and route maps from the past 150 years.

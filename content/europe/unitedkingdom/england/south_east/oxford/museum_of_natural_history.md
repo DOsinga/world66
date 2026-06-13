@@ -8,6 +8,7 @@ latitude: 51.7581
 longitude: -1.2540
 story: >
   In 1860, this museum was the venue for the famous debate between Bishop Samuel Wilberforce and Thomas Huxley over Darwin's newly published theory of evolution — just a year after On the Origin of Species appeared. Wilberforce reportedly asked Huxley whether he was descended from an ape on his grandfather's or his grandmother's side. Huxley responded that he would rather be descended from an ape than from a bishop who misrepresented the truth.
+score: 8.8
 ---
 
 The Oxford University Museum of Natural History on Parks Road occupies a spectacular Victorian Gothic building opened in 1860, with a soaring cast-iron roof and stone columns made from different British rocks. The main hall is an architectural highlight in itself — the result of a design competition that prioritised Gothic style over everything else, at a time when Gothic was considered the correct architecture for serious knowledge. Free admission.

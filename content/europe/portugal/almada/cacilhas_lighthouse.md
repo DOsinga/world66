@@ -9,6 +9,7 @@ latitude: 38.6881
 longitude: -9.1464
 sources:
   - https://en.wikipedia.org/wiki/Cacilhas_Lighthouse
+score: 5.2
 ---
 
 The Cacilhas Lighthouse stands at the river's edge near the ferry terminal, a modest white structure that marks the narrowing of the Tagus just before it widens into the estuary. It is not large — this was never a major maritime lighthouse in the way of coastal towers — but it is photogenic and its position right on the waterfront makes it a natural point of interest when walking along the Cacilhas front.

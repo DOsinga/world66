@@ -8,6 +8,7 @@ tags:
 latitude: 34.4972
 longitude: -82.6497
 snippet: Late 19th-century commercial district on the National Register
+score: 6.2
 ---
 
 Anderson's downtown historic district preserves a cohesive block of late nineteenth and early twentieth-century commercial architecture along Main Street and the surrounding blocks. The district was listed on the National Register of Historic Places in 1979, recognising the quality and integrity of the brick storefronts, banks, and civic buildings that were built during Anderson's most prosperous years as a cotton-trading centre.

@@ -15,6 +15,7 @@ story: >
   directly inspired by the remote, isolated quality of these Colorado highlands.
 sources:
   - https://en.wikipedia.org/wiki/South_Park_City
+score: 8.3
 ---
 
 South Park City is an open-air museum on the west end of Front Street that recreates a 19th-century Colorado mining community with 43 original buildings — moved here from sites across Park County and restored to their period condition. Saloon, general store, schoolhouse, printing office, blacksmith shop, dentist's office: the full range of a functioning gold rush town is represented, with period furnishings and equipment throughout.

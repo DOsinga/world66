@@ -8,6 +8,7 @@ tags:
 latitude: 32.8152
 longitude: -117.0450
 snippet: 7,000 acres of chaparral and canyon hiking ten minutes from downtown — one of the largest urban parks in the US
+score: 8.4
 ---
 
 Mission Trails Regional Park is 7,000 acres of coastal sage scrub and chaparral in the hills east of Mission Valley, making it one of the largest urban parks in the United States. The park sits ten minutes from downtown by freeway, yet the trails here feel nothing like city hiking: the terrain is rough, the views are long, and on weekday mornings you can hike for an hour without seeing another person.

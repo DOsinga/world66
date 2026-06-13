@@ -13,6 +13,7 @@ story: >
   and is decorated with reliefs including a calendar of agricultural activities and
   a scene believed to depict Jupiter and Leda. For centuries it was walled into
   the city ramparts and was only fully exposed in the late 18th century.
+score: 8.1
 ---
 
 The Porte de Mars is a Roman triumphal arch that has stood at what was once the northern entrance to the ancient city of Durocortorum — the Roman name for Reims — since the 3rd century AD. At 33 metres wide, it is the largest known Roman arch anywhere in the world, a fact that surprises most visitors who come to Reims primarily for its Gothic cathedral.

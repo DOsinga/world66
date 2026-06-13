@@ -13,6 +13,7 @@ story: >
   a local bandit whose legend has been embellished with each retelling, but the cave itself is real
   and genuinely atmospheric: a large rockfall shelter with a stream running through it and
   Charrúa petroglyphs on the walls.
+score: 8.2
 ---
 
 Cerro Arequita is a rocky hill about 8 kilometres from Villa Serrana whose distinctive profile — a long ridge with a steep drop on one side — is visible across the surrounding grasslands. The summit is reached by a well-marked trail that crosses open pasture and then climbs through scrub and rock to a viewpoint covering much of eastern Uruguay. On clear days you can see south toward Minas and east toward the coastal sierras.

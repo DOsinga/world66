@@ -6,6 +6,7 @@ longitude: 4.4900
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 A dispersed memorial to the Jewish residents of Leiden who were deported and murdered during the Second World War. Rather than a single monument, artist Sigrid Sigurdsson placed small bronze suitcases at locations throughout the city connected to the Jewish community — outside former homes, schools, shops, and synagogues.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.7280
 longitude: 9.5050
+score: 8.3
 ---
 
 The Grejs Valley (Grejsdalen) runs north from Vejle into the Jutland uplands, carved by the Grejs river through a narrow gorge flanked by beech forest. It is the most distinctive piece of natural landscape within easy reach of the town — and quite unlike the flat Danish terrain most visitors expect. The valley floor is narrow and sheltered, the sides steep enough to feel like proper hills by Danish standards (the highest points reach around 130 metres).

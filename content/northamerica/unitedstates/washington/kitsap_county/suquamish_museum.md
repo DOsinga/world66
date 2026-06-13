@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 neighbourhood: Suquamish
+score: 8.0
 ---
 
 A modern, well-curated tribal museum in the small town of Suquamish, on the Port Madison Reservation across from Bainbridge Island. Exhibits cover Coast Salish history, the salmon-and-cedar culture of the Puget Sound peoples, the impact of treaty-era US policy, and the life of Chief Seattle (Si'ahl), who was buried in the cemetery a short walk away. The collection of woven baskets and carved bentwood boxes is particularly strong.

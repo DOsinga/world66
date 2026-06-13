@@ -6,6 +6,7 @@ longitude: 106.2589
 tags:
   - things_to_do
   - museum
+score: 8.3
 ---
 
 The Ningxia Museum is the best place in the region to understand the history of the Western Xia dynasty and the Hui people. Spread across multiple floors, the collection includes Western Xia artefacts excavated from the imperial tombs — bronze statues, ceramic tiles with Tangut script, jade ornaments — along with Islamic art and items reflecting the Hui cultural tradition.

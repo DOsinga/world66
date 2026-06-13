@@ -8,6 +8,7 @@ tags:
 - sight
 - temple
 snippet: "Vishnu temple with painted ceilings and 219 sculpted pillars depicting the Ramayana"
+score: 7.8
 ---
 
 The Ramaswamy Temple is one of the more colourful of Kumbakonam's temples, dedicated to Rama and unusual for showing him enthroned with Sita, Lakshmana, and his brothers — a tableau rather than a standing figure. It was built in the seventeenth century by the Nayak rulers of Thanjavur.

@@ -9,6 +9,7 @@ tags:
 - day_trips
 title: Krka National Park
 type: poi
+score: 9.0
 ---
 
 Krka National Park protects a stretch of the Krka River in central Dalmatia, about an hour north of Split and just inland from Sibenik. The main draw is Skradinski Buk, a series of seventeen travertine cascades dropping over 45 metres into a wide turquoise pool. A wooden boardwalk loops around the falls past old watermills and swimming spots -- though swimming at the falls has been increasingly restricted in recent years, so check current rules before you go.

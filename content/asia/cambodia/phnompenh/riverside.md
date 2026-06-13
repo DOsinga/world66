@@ -7,6 +7,7 @@ tags:
 title: Riverside
 type: poi
 neighbourhood: Riverside
+score: 7.5
 ---
 
 The strip running along Sisowath Quay from the Royal Palace north to Wat Phnom is the city's tourist artery. It is busy, occasionally seedy, and full of overpriced tuk-tuks — but the view across the Tonle Sap is one of the great urban views of Southeast Asia, especially at dusk when the riverboats string up their fairy lights.

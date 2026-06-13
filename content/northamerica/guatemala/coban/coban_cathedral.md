@@ -6,6 +6,7 @@ longitude: -90.3794
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The cathedral on the central park dates from the colonial period, rebuilt and modified several times since the Dominicans first established a church here in the 16th century. The interior is worth a look for the carved wooden altar and the devotional art collected over several centuries of Catholic practice in a predominantly Q'eqchi' Maya region. The mix of indigenous and European influences in the iconography is characteristic of highland Guatemala.

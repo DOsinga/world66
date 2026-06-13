@@ -9,6 +9,7 @@ latitude: 45.4908
 longitude: -75.8414
 story: >
   William Lyon Mackenzie King served as Prime Minister of Canada for 22 years across three terms — longer than anyone else in the country's history. His Kingsmere estate contains a collection of architectural ruins that he assembled from demolished buildings in Ottawa and elsewhere, arranging them in his garden as romantic follies. One is made from stones taken from the British House of Commons after it was bombed in the Second World War.
+score: 7.8
 ---
 
 The Mackenzie King Estate at Kingsmere is the former summer retreat of William Lyon Mackenzie King, Canada's longest-serving Prime Minister. Set within Gatineau Park about 20 km north of Ottawa, the estate consists of several restored cottages and farmhouses surrounded by 231 hectares of parkland, with walking trails and lakes nearby.

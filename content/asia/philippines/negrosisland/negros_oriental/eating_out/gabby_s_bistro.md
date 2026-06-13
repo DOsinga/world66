@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.3100
 longitude: 123.3080
+score: 5.7
 ---
 
 Gabby's Bistro occupies the middle ground between the informal stalls on the boulevard and a proper sit-down restaurant — comfortable enough to linger, casual enough that you can show up in flip-flops. The menu covers Filipino food with occasional Western concessions to the expatriate and tourist clientele, and the kitchen handles both without embarrassing itself. The grilled dishes are the safe choice; the sinigang is regularly praised.

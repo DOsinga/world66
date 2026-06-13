@@ -11,6 +11,7 @@ story: >
   Porto Amboim was an active port during the Portuguese colonial era, exporting coffee, cotton, and fish from the interior. The town's modest but intact collection of colonial-era buildings — Portuguese administrative architecture at its most workmanlike — survived the civil war better than many Angolan towns, giving it an unusually complete sense of what these coastal trading posts looked like in the mid-twentieth century.
 sources:
   - https://en.wikipedia.org/wiki/Porto_Amboim
+score: 6.5
 ---
 
 Porto Amboim's town centre retains a cluster of Portuguese colonial buildings — simple one- and two-storey structures with wide verandahs, louvred shutters, and terracotta roofs — that date from the height of the colonial period in the mid-twentieth century. They are not grand; this was never a major colonial town. But they are intact enough to give the place character and to distinguish it from Angola's newer, more generic construction.

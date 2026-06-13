@@ -6,6 +6,7 @@ tags:
 - sight
 title: Natural Pools
 type: poi
+score: 6.9
 ---
 The streams draining the southern sierra above Pedro Bernardo have carved a series of natural pools into the granite — clear, cold water over smooth rock, shaded by oaks and chestnuts. These pozas are the village's main summer attraction, drawing visitors from the surrounding towns who come to swim and picnic through July and August.
 

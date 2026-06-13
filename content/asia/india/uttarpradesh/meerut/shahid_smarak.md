@@ -14,6 +14,7 @@ story: >
   emperor Bahadur Shah Zafar to lead what became the largest anti-colonial
   uprising in Indian history. The entire rebellion grew from this single night
   in Meerut.
+score: 6.4
 ---
 
 The Martyrs' Memorial stands on the site where soldiers of the Bengal Army rose in May 1857, launching what Indians call the First War of Independence. The monument is a significant pilgrimage site for those interested in the history of the independence movement, marking the spot where the uprising that eventually reshaped the British Empire began.

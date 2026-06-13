@@ -7,6 +7,7 @@ tags:
 latitude: 34.5887
 longitude: -120.1035
 snippet: One of California's best wine regions, with dozens of tasting rooms in and around Solvang
+score: 6.9
 ---
 
 The Santa Ynez Valley is excellent wine country, made famous to a global audience by the 2004 film Sideways, which was filmed largely in and around Solvang and the neighbouring town of Los Olivos. The valley grows excellent Pinot Noir (the film's favourite), Chardonnay, Rhône varieties, and increasingly interesting Bordeaux blends.

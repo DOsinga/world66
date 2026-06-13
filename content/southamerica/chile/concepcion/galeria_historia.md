@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - history
+score: 7.0
 ---
 
 The Galería de la Historia is a small, charming museum built around a sequence of detailed dioramas illustrating moments in the history of Concepción and the Biobío region — the arrival of the Spaniards, the Mapuche wars, the great earthquakes, the founding of the university. The miniature figures and scenes are unusually well-executed, and the place is a favourite among local schoolchildren.

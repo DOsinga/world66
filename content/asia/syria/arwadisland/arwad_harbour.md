@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.8589
 longitude: 35.8564
+score: 7.0
 ---
 
 The small harbour on the east side of the island is where the boats from Tartus arrive and where most of the island's activity is concentrated. Fishing boats tie up here alongside the passenger ferries, and the waterfront has a handful of simple cafes where you can sit with a tea and watch the activity.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 31.8512
 longitude: 117.2605
+score: 7.4
 ---
 
 Shushan Lake Wetland Park on the western edge of the city is one of Hefei's better natural retreats — a restored wetland of several square kilometers where reed beds, open water, and woodland strips have been managed to create genuine habitat for waterbirds alongside paths and viewing platforms for visitors. In spring and autumn migration periods, the bird counts are impressive: egrets, herons, cormorants, and a range of duck species are regular.

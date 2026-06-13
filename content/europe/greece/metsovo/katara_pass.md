@@ -6,6 +6,7 @@ longitude: 21.2293
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The **Katara Pass**, at 1,705 metres the highest paved road in Greece, runs over the Pindos watershed just above Metsovo. For most of the twentieth century it was the only road link between Epirus and Thessaly, and it was famous in equal measure for its views and for being closed by snow several months a year. The Egnatia Odos motorway now tunnels through the mountain below, so the old road is much quieter than it used to be.

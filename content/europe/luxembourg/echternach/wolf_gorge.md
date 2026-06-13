@@ -13,6 +13,7 @@ story: >
   that terrorised travellers between the abbey and the surrounding
   villages — hence the name. In practical terms the gorge is now a
   twenty-minute scramble that anyone with reasonable balance can manage.
+score: 8.0
 ---
 
 The Wolf Gorge is the most photographed slot canyon in Luxembourg's "Little Switzerland" — a deep cleft in soft Luxembourg Sandstone, in places no more than a metre wide, with vertical walls rising five or six metres above the path. Moss and ferns coat the rock; water seeps down the walls; the temperature drops noticeably as you enter.

@@ -8,6 +8,7 @@ tags:
 latitude: 32.7129
 longitude: -117.1718
 snippet: A waterfront shopping complex on San Diego Bay, with views of the Coronado Bridge and the harbour
+score: 4.9
 ---
 
 Seaport Village is a 14-acre waterfront shopping and dining complex on the harbour between the Convention Center and the Maritime Museum, built in 1980 on what was previously a water treatment facility. The architecture is a deliberate pastiche of historic California — a New England lighthouse here, a Mexican village plaza there — which dates it as a 1980s commercial concept but has also given it a pleasantly relaxed character compared to the more corporate waterfront developments elsewhere.

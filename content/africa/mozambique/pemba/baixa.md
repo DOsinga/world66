@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
   - sight
+score: 7.5
 ---
 
 The Baixa is the old commercial quarter that runs down to the harbour on the western side of the headland. Faded Portuguese colonial shopfronts line the streets — many of them with carved wooden balconies above arched arcades — and the market square is one of the busiest places in town.

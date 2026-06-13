@@ -13,6 +13,7 @@ story: >
   were expelled, the friary given to the new Protestant institution, and the
   church became the university's own. It has held that role ever since, making
   it one of the longest continuously used university churches in the world.
+score: 6.9
 ---
 
 The Universitätskirche is a 13th-century two-aisled hall church that sits at the foot of the old town, near the Lahn. Architecturally it's a different creature from the soaring Elisabethkirche — quieter, more asymmetric, with an interior that feels intimate rather than grand. The unusual two-nave layout gives it a distinctive character.

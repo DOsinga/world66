@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.3660
 longitude: 48.5110
+score: 6.4
 ---
 
 The footbridge over the Kudyal River gorge is the physical link between Krasnaya Sloboda and [Quba](/europe/azerbaijan/quba), and crossing it is one of the more unusual short walks in Azerbaijan. The gorge drops away steeply below the bridge, and from the middle you get an unobstructed view down the wooded ravine and up to the ridgeline above town.

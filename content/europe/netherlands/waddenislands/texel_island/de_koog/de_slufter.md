@@ -14,6 +14,7 @@ story: >
   purple as sea lavender blooms across the salt marsh.
 sources:
   - https://en.wikipedia.org/wiki/De_Slufter
+score: 9.2
 ---
 
 De Slufter is a dramatic saltwater inlet just north of De Koog — the one place on the entire Dutch coast where the North Sea runs directly into the dunes without any dike standing in the way. The result is a wide valley of salt marsh, tidal channels, and dune slack that feels genuinely wild. At high tide the sea pushes several hundred metres inland; at low tide egrets and dunlin pick through the exposed mud.

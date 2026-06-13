@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Gwydir_Castle
 story: >
   In 1921 the owners of Gwydir Castle sold the dining room panelling — a complete set of early 17th-century carved and painted woodwork commissioned by Sir Richard Wynn — to the American department store magnate William Randolph Hearst. The panelling ended up in New York and eventually in the Metropolitan Museum of Art. In 1996, the current owners of Gwydir tracked it down and negotiated its return; it was reinstalled in 2000 after decades in a New York museum storeroom.
+score: 7.6
 ---
 
 Gwydir Castle, a mile west of Llanrwst in the Conwy Valley, is a Tudor courtyard house built mainly in the 1490s by the Wynn family, the most powerful Welsh gentry dynasty of the Tudor period. It is a lived-in family home rather than a heritage attraction, which gives it an atmosphere that few comparable historic houses can match. The peacocks that wander the courtyard seem to have been there longer than anyone can remember.

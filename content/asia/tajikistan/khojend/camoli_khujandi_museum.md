@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Museum dedicated to the 12th-century poet who put Khujand on the literary map
+score: 7.1
 ---
 
 Camoli Khujandi (1405–1461) is the most famous poet to come from Khujand — a Sufi master whose ghazals in the classical Persian tradition made him one of the notable figures of Timurid literary culture. His name is everywhere in the city: the airport, the street, the mosque, and this small museum dedicated to his life and work.

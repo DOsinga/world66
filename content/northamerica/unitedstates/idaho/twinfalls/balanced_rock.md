@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 42.6438
 longitude: -114.8256
+score: 6.8
 ---
 
 Balanced Rock is a 48-foot-tall rhyolite formation west of Twin Falls near the town of Castleford that looks like it should have fallen over centuries ago. The main body of the rock weighs an estimated 40 tons and sits on a pedestal barely three feet wide and seventeen inches deep. The surrounding landscape is sagebrush desert, and the rock stands completely isolated, which only adds to the absurdity of its position.

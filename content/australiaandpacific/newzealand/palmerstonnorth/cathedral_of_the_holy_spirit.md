@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Cathedral of the Holy Spirit
 type: poi
+score: 5.8
 ---
 
 The Cathedral of the Holy Spirit is the seat of the Catholic Diocese of Palmerston North, which covers most of the lower North Island. The current building was completed in 1925 in red brick with an Italian Renaissance facade, and significantly modernised in the 1970s with a sweeping concrete ceiling and contemporary glass.

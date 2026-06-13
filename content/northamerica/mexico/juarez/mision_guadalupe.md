@@ -11,6 +11,7 @@ story: >
   The mission was founded in 1659 — nearly two centuries before the international border existed. When the Treaty of Guadalupe Hidalgo was signed in 1848, the boundary line was drawn through the river, and the mission, which had always served both banks, suddenly found itself in Mexico. It has been an active church ever since.
 sources:
   - https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe_Mission_(Ciudad_Ju%C3%A1rez)
+score: 8.2
 ---
 
 The oldest building in Ciudad Juárez and one of the oldest churches in northern Mexico, the Misión de Nuestra Señora de Guadalupe was founded by Franciscan friar García de San Francisco in 1659. The thick adobe walls and the simple interior — whitewashed, with wooden beam ceilings and a carved retablo — have changed little in three and a half centuries.

@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 story: "Neruda chose the spot in 1939 because he wanted a house that felt like a ship — and the floor plan reflects that, with low ceilings, narrow corridors, and rooms named for the sea. He and his wife Matilde are buried in the garden, facing the Pacific, where they were re-interred in 1992 after years in a Santiago cemetery."
+score: 9.7
 ---
 
 The Casa de Isla Negra is one of three houses owned by Pablo Neruda and the most personal of the three — the one he chose to be buried at. It sits directly above the rocks where the Pacific crashes, and Neruda built it over four decades into a rambling, low-ceilinged labyrinth designed to feel like the interior of a ship.

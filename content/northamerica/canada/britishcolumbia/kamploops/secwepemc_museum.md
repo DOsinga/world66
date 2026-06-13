@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
 story: The site sits adjacent to the **former Kamloops Indian Residential School**, where in 2021 the unmarked graves of an estimated 215 children were located using ground-penetrating radar. The discovery — confirmed by surveys at residential school sites across Canada — forced a national reckoning with the history of forced assimilation, family separation and abuse that defined the residential school system until the last one closed in 1996.
+score: 8.5
 ---
 
 The **Secwépemc Museum and Heritage Park** is run by the **Tk'emlúps te Secwépemc** First Nation on their reserve across the river from downtown Kamloops, and offers the best introduction to the Indigenous history of the BC interior. The indoor museum covers Secwépemc traditional life, language, plant knowledge and post-contact history; outside, a 12-acre heritage park includes a reconstructed traditional winter pit-house village and an archaeological site spanning 2,000 years of continuous occupation.

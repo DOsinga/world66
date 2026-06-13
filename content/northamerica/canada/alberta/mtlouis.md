@@ -12,6 +12,7 @@ tags:
 - outdooractivities
 title: Mt. Louis
 type: poi
+score: 7.0
 ---
 
 Mt. Louis is one of the Canadian Rockies' most iconic rock climbs — a sheer tower of limestone rising to 2,682 metres that only a dozen or so climbers summit each year. Rated 5.7 on the Yosemite Decimal Scale, the route demands solid trad climbing skills and a head for exposure.

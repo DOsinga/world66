@@ -8,6 +8,7 @@ latitude: 53.8021
 longitude: -1.7282
 story: >
   The cemetery's most elaborate monument, a 16-metre Egyptian-style mausoleum complete with sphinxes, belongs to wool magnate Joseph Smith — an attempt at "outshining" Sir Titus Salt that became a Bradford running joke. Salt himself is buried in a comparatively modest tomb at Saltaire, his model village, having explicitly declined to be interred at Undercliffe because of its already-evident funerary one-upmanship.
+score: 8.2
 ---
 
 Undercliffe Cemetery, opened in 1854, sits on a high ridge above east Bradford and contains some of the most ostentatious Victorian funerary monuments in northern England. The wool barons commissioned what amounted to family palaces in granite, sandstone and marble: Egyptian obelisks, Gothic temples, Greek revival mausolea — a textbook of the period's funerary taste, set across 26 hectares of overgrown sloping ground.

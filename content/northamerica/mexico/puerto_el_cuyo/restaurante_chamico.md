@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.0
 ---
 
 A second-generation palapa restaurant a short walk east along the malecón, with a slightly more ambitious menu — coconut shrimp, fish baked Tikin xic style with achiote, octopus in garlic — and a wood-fired grill. Service is friendly and the portions are generous.

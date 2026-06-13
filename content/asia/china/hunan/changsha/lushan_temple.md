@@ -14,6 +14,7 @@ story: >
   dynasties. The monk Xuan Zang — the Tang dynasty pilgrim whose journey to
   India inspired "Journey to the West" — is said to have studied here briefly
   on his way west, though the claim is traditional rather than documented.
+score: 7.7
 ---
 
 Lushan Temple, on the slopes of Yuelu Mountain, is one of the oldest Buddhist temples in Hunan and one of the most atmospherically situated in Changsha. Founded in 268 AD during the Western Jin dynasty, the temple occupies a forest clearing partway up the mountain, with ancient trees shading the main courtyard and monks' quarters hidden among the vegetation. The temple has been rebuilt repeatedly after fires and wartime damage, most recently in the twentieth century, but the location retains its original character.

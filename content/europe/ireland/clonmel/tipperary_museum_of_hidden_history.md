@@ -14,6 +14,7 @@ story: >
   to Kerry or Kilkenny.
 sources:
   - https://en.wikipedia.org/wiki/Tipperary_Museum_of_Hidden_History
+score: 7.8
 ---
 
 The Tipperary Museum of Hidden History, opened in 2020, tells the story of County Tipperary from prehistoric times through to the twentieth century. The collection covers the county's role in Irish history — its Norman castles, its Gaelic chieftains, its role in the 1798 Rebellion and the War of Independence — with a focus on stories that are unfamiliar even to many Irish visitors.

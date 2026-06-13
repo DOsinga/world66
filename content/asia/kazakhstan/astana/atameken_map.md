@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 51.1300
 longitude: 71.3878
+score: 6.8
 ---
 
 Atameken (Native Land) is an open-air park east of the Ishim River containing a 1.7-hectare scale map of Kazakhstan, with miniature versions of every major architectural monument in the country — the mausoleum of Khoja Ahmed Yasawi in Turkistan, the Aral Sea (showing both its old and new extent), the towers of Almaty, the petroglyphs of Tamgaly, and dozens more. Visitors can walk between the regions and inspect each model.

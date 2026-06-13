@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dwarka Lighthouse
 type: poi
+score: 5.8
 ---
 
 Dwarka Lighthouse stands near the coast west of the temple core, a practical maritime marker in a town better known for sacred landmarks. The area around it gives open views of the Arabian Sea.

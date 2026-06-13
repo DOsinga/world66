@@ -9,6 +9,7 @@ latitude: 44.9790
 longitude: -93.2745
 story: >
   Prince's star on the exterior wall of First Avenue had been silver, like all the other stars, until a fan spray-painted it gold in the hours after his death on 21 April 2016. First Avenue staff debated cleaning it off and ultimately decided to leave it — and then made the decision permanent by officially painting it gold. In the week after his death, fans left thousands of flowers, notes, and mementos at the foot of the wall. The makeshift memorial remained for months.
+score: 6.0
 ---
 
 On the exterior wall of First Avenue concert venue, among the hundreds of gold stars bearing the names of local artists who have played there, one star is different: Prince's star was spray-painted gold by a fan within hours of his death in April 2016, and the venue subsequently made the modification permanent. The star is on the north wall of the building, on 7th Street.

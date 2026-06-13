@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - harbour
+score: 7.6
 ---
 
 The natural harbour that shaped Deogad is sheltered behind the long arm of the fort headland, and is one of the few all-weather ports between Ratnagiri and Goa. Fishing boats run out at first light and come in mid-morning; the auction on the quay where the catch is sorted and sold is the most interesting hour of the day to be there.

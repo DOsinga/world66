@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.9
 ---
 
 The town beach stretches for kilometres in both directions, with finer sand and warmer water than the Caribbean reaches of Belize or Mexico. Right in front of town it can be crowded on Sunday and dirtier than you might hope, but a fifteen-minute walk east or west gets you mostly empty sand.

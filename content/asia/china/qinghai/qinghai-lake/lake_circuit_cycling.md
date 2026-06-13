@@ -8,6 +8,7 @@ latitude: 36.7500
 longitude: 100.1500
 story: >
   The annual Qinghai Lake International Road Cycling Race, held in late July since 2002, is one of the highest-altitude professional cycling races in the world, regularly attracting UCI-registered teams from Europe, Asia, and the Americas. The route circles the entire lake; sections of the road are still lined with spectators' hand-painted signs from previous years.
+score: 8.8
 ---
 
 The 360-kilometre circuit of Qinghai Lake is one of the classic long-distance cycling trips in China, and one of the most scenic. Most cyclists take three to four days to complete the loop, with accommodation at lakeside towns on each shore. Bicycles can be rented in Xining or at the lakeside settlement of Er Lang Jian on the southern shore; the quality varies, so inspect the brakes and tyres before committing.

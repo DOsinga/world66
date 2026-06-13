@@ -9,6 +9,7 @@ tags:
 latitude: 45.9763
 longitude: 7.6586
 story: The first ascent from the Italian side was made on 17 July 1865 by Jean-Antoine Carrel and Jean-Baptiste Bich — three days after Edward Whymper's notorious British party reached the summit from Zermatt, four of whom died on the descent. Carrel was a Valtournenche guide; the route he pioneered, the Lion Ridge, still bears his name and is the standard Italian way up.
+score: 9.7
 ---
 
 Monte Cervino — the Matterhorn — rises directly above Cervinia, its south face a sheer triangular wall that fills the view from the village. At 4,478 metres it is the highest mountain in the local massif and one of the most recognisable peaks in the Alps.

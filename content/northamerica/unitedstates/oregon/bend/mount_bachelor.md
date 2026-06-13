@@ -14,6 +14,7 @@ story: >
   the social condition of someone who doesn't quite fit in with the group.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Bachelor
+score: 8.5
 ---
 
 Mount Bachelor is the largest ski resort in the Pacific Northwest and the sixth-largest in the United States by vertical drop. Sitting on the eastern slope of a dormant shield volcano, it receives deep, dry powder from Pacific storms that cross the Cascades — a different snowpack from the wet snow that falls closer to the coast. The summit reaches 9,065 feet and the views on a clear day extend across Central Oregon's volcanic landscape.

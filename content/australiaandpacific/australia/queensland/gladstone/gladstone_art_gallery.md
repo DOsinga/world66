@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -23.8451
 longitude: 151.2575
+score: 6.2
 ---
 
 The Gladstone Regional Art Gallery and Museum occupies the town's former Town Hall building at 144 Goondoon Street, a handsome timber structure from 1894 that was heritage-listed when local councils began moving into more functional modern premises. The conversion is well done: the original hall's proportions have been preserved, and the building itself is as interesting to look at as what's inside.

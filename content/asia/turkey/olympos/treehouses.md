@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Stilt-built wooden bungalows that gave Olympos its backpacker reputation"
+score: 5.8
 ---
 
 The cluster of "treehouse" pensions on the road into the Olympos ruins is the place's calling

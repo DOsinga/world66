@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela
 story: >
   Legend holds that Saint George himself appeared to King Lalibela and complained that no church had been dedicated to him — the result was this perfect cruciform masterpiece, built last of all the eleven. The king is said to have wept with joy when it was finished. When you stand at the rim of the trench and look down at the cross-hatched roof, the geometry is so precise it looks machined rather than carved.
+score: 9.8
 ---
 
 Biete Giorgis — the House of Saint George — is the most iconic image of Lalibela and the one most likely to appear on any poster advertising Ethiopia. It stands apart from the other ten churches, set within its own deep trench to the southwest of the main cluster. The roof, level with the surrounding plateau, is carved with a three-dimensional Greek cross motif repeated three times and fitting perfectly within each other — a feat of precision cutting in solid rock.

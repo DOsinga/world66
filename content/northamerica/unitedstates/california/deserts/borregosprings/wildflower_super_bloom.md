@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.4
 ---
 
 In a wet winter — and only in a wet winter — the desert floor around Borrego erupts in colour from late February to early April. Sand verbena turns whole flats purple; desert lily, dune evening primrose and brown-eyed evening primrose pick out the washes in yellow and white; ocotillo flares scarlet at the tips. The bloom is unpredictable: many years are quiet, but a true super bloom (last seen in 2017 and 2019) draws crowds from across California.

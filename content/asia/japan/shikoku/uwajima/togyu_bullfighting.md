@@ -8,6 +8,7 @@ latitude: 33.223
 longitude: 132.565
 story: >
   Tōgyū has been held in Uwajima for at least 300 years, possibly longer — local records suggest the tradition dates to the early Edo period. Unlike Spanish bullfighting, no animal is harmed and no human is in danger; two bulls simply push against each other until one gives way. The crowd watches with the focused, appreciative quiet of people who genuinely know the sport.
+score: 8.1
 ---
 
 *Tōgyū* is bullfighting of a distinctly Japanese kind: two bulls wrestle each other sumo-style, with no matador, no swords, and no blood. The bulls lock horns and push against each other until one turns and retreats. Handlers stand ready to separate them before any serious injury occurs. It is a spectacle of controlled power and animal stubbornness that is both strange and oddly compelling.

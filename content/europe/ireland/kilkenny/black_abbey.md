@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 13th-century Dominican friary still in use — one of Kilkenny's most atmospheric spaces
+score: 7.8
 ---
 
 The Black Abbey was founded by the Dominicans in 1225 — one of the earliest Dominican establishments in Ireland — and remains an active place of worship today. The friars wore black habits over their white robes, giving the abbey its name. It survived Cromwell's assault on Kilkenny in 1650 relatively intact, though it was used variously as a courthouse, a tannery, and a dwelling before being returned to the Dominicans in the 19th century.

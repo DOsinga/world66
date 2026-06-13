@@ -7,6 +7,7 @@ tags:
 title: York Ghost Tours
 type: poi
 snippet: "Evening walking tours of York's haunted buildings and stories, a staple of the city's night-time economy"
+score: 5.6
 ---
 
 York has a well-developed ghost-tour industry, with several competing operators running evening walks through the city's streets and explaining the various hauntings associated with medieval buildings. The Original Ghost Walk of York has been operating since 1973 and claims to be the world's first purpose-built ghost tour. Others have followed. The tours leave from various points around the city in the evening and last between one and two hours.

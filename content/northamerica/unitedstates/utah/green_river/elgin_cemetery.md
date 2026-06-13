@@ -6,6 +6,7 @@ longitude: -110.1486
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 A tiny graveyard on the south side of the river, named for a now-vanished railroad camp. The stones tell the social history of Green River in miniature: a Greek railroad foreman, uranium prospectors from the 1950s boom, Air Force families from the Cold War missile launch facility that operated here until 1979.

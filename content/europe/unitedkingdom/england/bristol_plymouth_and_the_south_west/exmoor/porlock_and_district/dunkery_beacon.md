@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 51.1620
 longitude: -3.5874
 snippet: "Highest point on Exmoor and in Somerset, with views to South Wales on a clear day"
+score: 8.7
 ---
 
 At 519 metres, Dunkery Beacon is the highest point on Exmoor and in the county of Somerset. The summit is a low rocky cairn surrounded by heather and bilberry moorland, with views in every direction — the Bristol Channel and the South Wales coast to the north, the wooded combes of Exmoor to the south, and on a very clear day the moors of Dartmoor far to the south-west.

@@ -14,6 +14,7 @@ story: >
   medieval period. The site has yielded Roman-era ceramics, iron tools, and
   traces of agricultural terracing, suggesting it was a functioning community
   long after the Roman conquest of the Iberian peninsula.
+score: 6.8
 ---
 
 The Castro of Monte Valinhas is an Iron Age hillfort settlement in the parish of Santa Eulália, a few kilometres from Arouca town. The site sits on a prominent ridge with wide views over the surrounding mountains and valleys and shows evidence of occupation from the late prehistoric period through to early medieval times.

@@ -8,6 +8,7 @@ tags:
 latitude: 54.07555555555556
 longitude: 12.103333333333333
 address: "Universitätsplatz, 18055 Rostock"
+score: 7.6
 ---
 
 One of the oldest universities in northern Europe, founded in 1419 — making it older than most German universities and predating the Reformation. The main university building on Universitätsplatz is a handsome Baroque structure that dominates one of Rostock's finest squares. The Universitätsplatz itself, with its mix of medieval and Baroque buildings, is the most architecturally impressive open space in the city.

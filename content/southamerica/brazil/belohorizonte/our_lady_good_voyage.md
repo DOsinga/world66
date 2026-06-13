@@ -8,6 +8,7 @@ tags:
 - church
 title: Our Lady of Good Voyage
 type: poi
+score: 7.1
 ---
 
 The Catedral Nossa Senhora da Boa Viagem is, despite its modest size, the official cathedral of the archdiocese of Belo Horizonte. Built in red brick in a restrained neo-Gothic style and consecrated in 1932, it sits a few blocks south of the centro on Avenida Afonso Pena. The interior is bright and uncluttered, with a few good stained-glass windows.

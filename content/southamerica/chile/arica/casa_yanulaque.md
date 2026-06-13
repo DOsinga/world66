@@ -7,6 +7,7 @@ snippet: 19th-century Greek merchant house with its original interior
 tags:
 - things_to_do
 - sight
+score: 6.1
 ---
 
 The Casa Yanulaque is one of the oldest surviving private houses in Arica — a wooden two-storey Republican-era building from the 1870s, built by a Greek merchant family who arrived in the saltpetre years. It survived the earthquakes that flattened most of the rest of pre-1880 Arica.

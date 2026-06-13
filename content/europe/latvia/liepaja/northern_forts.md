@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 8.4
 ---
 
 The Northern Forts are a series of coastal fortifications built on the tsarist orders at the turn of the 20th century to protect the Karosta naval base from seaborne attack. They were used for roughly twenty years, then abandoned when naval warfare changed beyond their design parameters. Since then, the sea has been slowly eating them.

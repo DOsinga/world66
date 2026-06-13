@@ -5,6 +5,7 @@ tags: [things_to_do, museum, altstadt]
 latitude: 50.1136
 longitude: 8.6869
 story: The Rothschild banking dynasty began in the Frankfurt Judengasse, in House zum grünen Schild — number 188 — where the founder Mayer Amschel Rothschild kept his shop and where all five of his banker sons grew up. The original house was demolished in the 1890s; the museum has reconstructed its foundations on the original site.
+score: 7.9
 ---
 
 The Judengasse — the Jewish lane — was the walled and gated quarter to which the Jews of Frankfurt were confined from 1462 to 1796, and the most overcrowded urban ghetto in Western Europe. Most of it was demolished in the 19th century after emancipation, but the foundations of five houses and the mikveh (ritual bath) were uncovered during the 1980s construction of a city office block, and are now preserved in a small museum below ground level.

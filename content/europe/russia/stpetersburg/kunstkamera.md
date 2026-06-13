@@ -14,6 +14,7 @@ story: >
   — two-headed lambs, conjoined twins preserved in alcohol, dwarfs and giants — and many of those
   original specimens are still on display, alongside Peter's personal anatomical collection. It is
   among the strangest museums in Europe and not for the squeamish.
+score: 8.7
 ---
 
 The Kunstkamera, properly the Peter the Great Museum of Anthropology and Ethnography, is Russia's oldest museum. It occupies a distinctive baroque tower on the Vasilievsky Island embankment opposite the Admiralty. The collections cover the ethnography of the peoples of Asia, Africa, the Americas, and Oceania, with particularly strong holdings on Siberia and the Russian Far East — much of it gathered by 18th- and 19th-century scientific expeditions.

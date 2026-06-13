@@ -8,6 +8,7 @@ tags:
   - keralan
 latitude: 24.4925
 longitude: 54.3620
+score: 6.8
 ---
 
 A bright, brightly-lit Keralan restaurant in Tourist Club Area, an offshoot of the famous Paragon group from Calicut. The signature is the Malabar prawn curry with appams; the fish moilee in coconut gravy is the other standout. Vegetarian thali at lunchtime is excellent and very cheap.

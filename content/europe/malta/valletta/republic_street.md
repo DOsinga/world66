@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8992
 longitude: 14.5129
+score: 8.0
 ---
 
 Republic Street is the main axis of Valletta, running straight across the grid from City Gate at one end to Fort St Elmo at the other. The street is pedestrianised through the historic centre, making it the natural spine of any walk through the city. Most of Valletta's major monuments are either on Republic Street or a short distance from it — the Grand Masters' Palace, the National Museum of Archaeology, the Casino Maltese, and St John's Co-Cathedral all sit within a block or two.

@@ -9,6 +9,7 @@ tags:
 story: The camera is a steel cylinder mounted on a pole on a hill near Tempe. Inside,
   a tiny pinhole projects light onto a sheet of gold-coated copper. The exposure runs
   for 1,000 years. It will be opened in the year 3015.
+score: 4.8
 ---
 
 The Millennium Camera, installed by ASU philosophy professor Jonathon Keats on a hillside on the edge of South Mountain, is a pinhole camera with a thousand-year exposure time. The single image, when developed in the year 3015, will capture the entire millennium's slow changes to the surrounding desert and city.

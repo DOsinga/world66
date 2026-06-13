@@ -7,6 +7,7 @@ tags:
 latitude: 45.2742
 longitude: -66.0631
 snippet: Heritage building bar with local craft taps and a view over the harbour
+score: 5.9
 ---
 
 The Saint John Ale House occupies a handsome brick building near the waterfront, with exposed timber and stone and a long bar that carries an honest selection of Maritime craft beers alongside the expected national lagers. The Moosehead products are always on — the brewery is a few kilometres away — but the rotating craft taps from smaller New Brunswick operations are the reason to come.

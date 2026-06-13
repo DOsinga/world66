@@ -13,6 +13,7 @@ story: >
   collectivisation and modernisation. Several of the buildings were moved here
   from villages that no longer exist. On summer weekends, craft demonstrations
   bring the site to life.
+score: 8.4
 ---
 
 The **Sóstó Village Museum** (Sóstói Múzeumfalu) is one of the best ethnographic open-air museums in Hungary. Around 80 historic rural buildings — farmhouses, granaries, windmills, churches — have been relocated from villages across the northeastern Hungarian plains and reassembled in a wooded setting next to the Sóstó lake.

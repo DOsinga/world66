@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar, pub, eating_out]
 latitude: 51.6803
 longitude: -9.4534
+score: 6.0
 ---
 
 A small bar and restaurant on the Quay, just south of Wolfe Tone Square, serving good seafood and a short menu of pub classics done well. The downstairs bar fills with locals after work; the upstairs dining room is quieter and has a view across the harbour.

@@ -9,6 +9,7 @@ latitude: 51.1966
 longitude: 8.5350
 story: >
   The Rothaarsteig has been named one of Germany's top long-distance footpaths. The trail follows the watershed between the Rhine and the Weser river systems — wherever you stand on the ridge, rain that falls to the west eventually reaches the Rhine, while rain falling east joins the Weser. The beech forests along the ridge are among the oldest in Germany and were traditionally harvested for charcoal.
+score: 7.9
 ---
 
 The Rothaarsteig is a 154-kilometre long-distance trail that crosses the Sauerland from Brilon in the north to Dillenburg in the south, with the section near Winterberg passing through the heart of the mountains. Day hikes and multi-day sections both start from the town, where the tourist office provides good maps and route information.

@@ -6,6 +6,7 @@ longitude: 9.9728
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Eight kilometres north of modern Matmata, Old Matmata is a hillside village of stone Berber houses largely abandoned in the 20th century but still partly inhabited. The setting is dramatic — narrow lanes climbing past windowless walls — and the old mosque at the top is worth the climb.

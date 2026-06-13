@@ -14,6 +14,7 @@ story: >
   They prospered and built the shophouses of the old town in a style that fused southern Chinese construction with
   Portuguese colonial arches — the same hybrid style found in Penang and Malacca. The mines are long gone but the
   shophouses remain, now repainted in pastels and occupied by the cafes and hostels of a new wave of visitors.
+score: 9.0
 ---
 
 Phuket's old town is the most architecturally interesting part of the island, a compact grid of streets centered on Thalang Road where Sino-Portuguese shophouses from the late 19th and early 20th century have been carefully restored. The facades combine Mediterranean arched colonnades at street level with Chinese lattice screens and tilework above — an aesthetic particular to the tin-mining towns of the Malay Peninsula.

@@ -9,6 +9,7 @@ longitude: -122.86611
 snippet: Local history in a 1911 Carnegie Library building
 sources:
   - https://en.wikipedia.org/wiki/Healdsburg_Carnegie_Library
+score: 6.8
 ---
 
 Housed in the original 1911 Carnegie Library — a modest but handsome Neoclassical building on Matheson Street — the Healdsburg Museum covers the history of the Dry Creek and Russian River valleys from the Pomo people through the rancho era, Gold Rush, and the rise of wine country. The collection includes Pomo basket weaving, agricultural tools from the hop-growing years (Sonoma County was major hop country before Prohibition), and documents from the early winemaking families.

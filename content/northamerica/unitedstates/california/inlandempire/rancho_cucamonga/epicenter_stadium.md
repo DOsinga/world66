@@ -6,6 +6,7 @@ longitude: -117.5480
 tags:
   - things_to_do
   - sport
+score: 5.5
 ---
 
 A 6,615-seat baseball stadium, home of the Rancho Cucamonga Quakes — the High-A minor league affiliate of the Los Angeles Dodgers in the California League. The stadium opened in 1993 and is one of the better minor-league parks in southern California, with a view of the San Gabriel Mountains beyond the outfield wall and a relaxed family atmosphere.

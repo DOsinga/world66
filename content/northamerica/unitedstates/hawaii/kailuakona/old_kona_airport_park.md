@@ -6,6 +6,7 @@ longitude: -156.0051
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Old Kona Airport State Recreation Area sits along the coast a mile north of central Kailua-Kona, on the site of the town's original airport. The runway was decommissioned in 1970 when the present airport opened up the coast; the strip is still there, now used as a long flat car park and walking promenade.

@@ -14,6 +14,7 @@ tags:
   - sight
 title: Valles Caldera National Preserve
 type: poi
+score: 8.7
 ---
 
 The Valles Caldera is a vast circular meadow — 22 kilometres across — formed by a volcanic collapse over a million years ago. The floor of the caldera is a high grassland ringed by forested slopes, and in summer it holds the largest elk herd in New Mexico. The sight of hundreds of elk in a basin surrounded by mountains is one of the more extraordinary things you can see in the American Southwest without leaving the road.

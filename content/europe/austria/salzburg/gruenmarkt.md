@@ -7,6 +7,7 @@ tags:
   - shopping
   - market
   - altstadt
+score: 7.0
 ---
 
 The daily produce market on Universitätsplatz, behind the Kollegienkirche, is the food hub of central Salzburg. From dawn to early afternoon, Monday to Saturday, vendors sell mountain cheese, Steirisches Kürbiskernöl, smoked trout, dark country breads, asparagus in spring and Tirolean apples in autumn.

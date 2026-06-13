@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 latitude: 51.9059
 longitude: 4.4886
 snippet: "Skyscraper district on the south bank of the Maas"
+score: 8.3
 ---
 
 Once the freight docks of the Holland-America Line, Kop van Zuid is now Rotterdam's most concentrated stretch of contemporary high-rise — Rem Koolhaas's De Rotterdam, Norman Foster's World Port Center, Renzo Piano's KPN Tower with its leaning facade, and the Hotel New York in the converted shipping line headquarters. The walk over the Erasmusbrug from the north bank, with the towers rising in front, is the city's archetypal arrival photograph.

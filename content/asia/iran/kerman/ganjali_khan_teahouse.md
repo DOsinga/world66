@@ -7,6 +7,7 @@ snippet: "Bazaar teahouse for lunch under a Safavid brick vault"
 tags:
 - eating_out
 - restaurant
+score: 5.8
 ---
 
 The teahouse inside the Vakil Caravanserai — sometimes called the Ganjali Khan Teahouse because of its proximity — is the obvious lunch stop in central Kerman, set in the original brick-vaulted arches of the caravanserai with the central pool a few steps away. The menu is short and traditional: *dizi* (lamb-and-chickpea stew brought to the table in its iron pot), *zereshk polo* (saffron rice with barberries and chicken), *kebab koobideh*, herb omelettes, and tea with dates.

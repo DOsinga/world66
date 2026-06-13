@@ -10,6 +10,7 @@ tags:
 snippet: Crystal cave unique in Germany for its calcite crystal formations
 sources:
   - https://en.wikipedia.org/wiki/Weilburg
+score: 7.6
 ---
 
 The Kristallhöhle in the Kubach district of Weilburg is described as unique in Germany for the density and quality of its calcite crystal formations. The cave extends roughly 200 metres and reaches heights of up to 30 metres in its largest chamber. The walls are covered with crystalline calc-sinter deposits that catch the light in unusual ways, and the underground temperature remains constant year-round.

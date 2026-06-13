@@ -6,6 +6,7 @@ longitude: 6.1042
 tags:
   - things_to_do
   - sight
+score: 9.0
 ---
 
 The Pic Blanc cable car climbs to 3,330 metres in two stages, the upper section running through a tunnel cut into the rock. The summit station has a viewing terrace looking out over the Écrins massif, the Grandes Rousses glacier, and on a clear day Mont Blanc. The ride and the view alone justify a non-skier going up in winter.

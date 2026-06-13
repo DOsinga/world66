@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - museum
 - donji_grad
+score: 8.6
 ---
 
 On Nikola Šubić Zrinski Square in the Lower Town, the Archaeological Museum holds Croatia's finest collection of prehistoric, classical, and medieval antiquities. The crown jewel is the Vučedol Dove, a 5,000-year-old ceramic vessel from a Bronze Age settlement on the Danube that has become a national symbol; reproductions sell across the country.

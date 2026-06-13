@@ -8,6 +8,7 @@ latitude: 27.4815
 longitude: 83.2748
 story: >
   The 1978 master plan for Lumbini was drawn up by the Japanese architect **Kenzo Tange**, who divided the site into three zones connected by a long central reflecting canal. The Monastic Zone was to be divided between Theravada Buddhist monasteries on the east and Mahayana monasteries on the west, with each Buddhist nation invited to build a temple in its own architectural tradition.
+score: 8.5
 ---
 
 A rectangle two kilometres long either side of a long central canal, with **international monasteries** built or being built by Buddhist nations and orders from across the world. The east side hosts the **Theravada** countries (Sri Lanka, Burma, Thailand, Cambodia); the west the **Mahayana** schools (China, Japan, Korea, Vietnam, Tibet).

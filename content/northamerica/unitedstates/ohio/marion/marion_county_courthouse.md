@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.5889
 longitude: -83.1283
+score: 6.7
 ---
 
 The Marion County Courthouse on the public square is the most visible landmark in downtown Marion — a large Second Empire structure with a central clock tower, built in 1884 and expanded in subsequent decades. The building's elaborate Victorian detailing, including its mansard roof and decorated cornices, gives it a presence that stands in pleasing contrast to the more modest commercial buildings around it.

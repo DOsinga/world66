@@ -8,6 +8,7 @@ latitude: 35.849
 longitude: -86.365
 sources:
   - https://en.wikipedia.org/wiki/Middle_Tennessee_State_University
+score: 5.8
 ---
 
 Middle Tennessee State University (MTSU) is one of the larger public universities in Tennessee, with around 21,000 students. Founded in 1911, its campus sits a short distance east of the town square and gives Murfreesboro a college-town character that distinguishes it from similar-sized Tennessee cities.

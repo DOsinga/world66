@@ -5,6 +5,7 @@ snippet: Tiny historic pub on Church Street, with snuff, real ale and a microbre
 tags: [bars_and_cafes, bar, pub]
 latitude: 54.4877
 longitude: -0.6119
+score: 6.8
 ---
 
 The Black Horse on Church Street is one of Whitby's oldest pubs, with a building going back to the 16th century and a continuous licence from 1788. The interior is tiny, low-beamed, and lined with old photographs of the harbour and the lifeboat.

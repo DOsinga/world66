@@ -10,6 +10,7 @@ tags:
 - centro_historico
 title: Casa del Moral
 type: poi
+score: 7.6
 ---
 
 The House of the Mulberry — named for a venerable tree still standing in the central courtyard — was built around 1730 by a prosperous Spanish merchant family. Its main portal is the most extravagantly carved facade of any private home in the city: sillar swarming with snakes, flowers, faces, and a coat-of-arms with a Spanish crown and Inca motifs side by side. The interior, restored by the bank that now owns the building, displays colonial furniture, paintings, silver, and an 18th-century chess set.

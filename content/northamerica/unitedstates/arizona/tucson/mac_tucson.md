@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
   - downtown
+score: 6.8
 ---
 
 MOCA Tucson is the city's contemporary art museum, housed in a 1937 former fire station near the convention center. The exhibitions rotate quickly through emerging and mid-career artists, with a particular focus on artists with a Southwest connection.

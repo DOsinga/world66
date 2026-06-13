@@ -11,6 +11,7 @@ story: >
   After the Great Fire of Northampton in 1675 destroyed most of the medieval town, Charles II donated 1,000 tons of timber from the royal forests to help rebuild — and his statue stands in a niche above the church's portico in gratitude. The interior was rebuilt in the fashionable Baroque style of the period; the result is one of the most elegant 17th-century church interiors in the Midlands.
 sources:
   - https://en.wikipedia.org/wiki/All_Saints%27_Church,_Northampton
+score: 7.2
 ---
 
 The civic church of Northampton, All Saints' was rebuilt after the Great Fire of 1675 that destroyed much of the medieval town. The rebuilding produced an impressive Baroque interior with a prominent dome — unusual for an English parish church — and a portico on the market square bearing the statue of Charles II. The king's donation of timber to aid the reconstruction is commemorated in the inscription below his figure.

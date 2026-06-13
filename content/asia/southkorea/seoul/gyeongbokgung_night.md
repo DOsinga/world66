@@ -7,6 +7,7 @@ tags:
   - insadong
 title: Gyeongbokgung Night Tour
 type: poi
+score: 7.9
 ---
 
 On selected evenings from spring to autumn, Gyeongbokgung Palace opens after dark for a special night visit. The main buildings — the Geunjeongjeon throne hall and Gyeonghoeru pavilion — are lit against the night sky and reflected in the lotus ponds in a way that the daytime visit cannot replicate. The lines of coloured lanterns hung through the courtyards during the spring Lantern Festival are particularly spectacular.

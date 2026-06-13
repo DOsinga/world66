@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   More than 300,000 horses died during the Anglo-Boer War between 1899 and 1902 — more animals than soldiers on both sides combined. Port Elizabeth was the main disembarkation port for the horses shipped from Britain, Argentina, and Australia, and when the war ended, the citizens of PE raised this monument specifically to the horses. It was unveiled in 1905, making it one of the earliest war memorials in the world to honour animals rather than men. The inscription reads: "The greatness of a nation consists not so much in the number of its people or the extent of its territory as in the extent and justice of its compassion."
+score: 6.9
 ---
 
 The Horse Memorial stands near St George's Park — a bronze horse, head lowered to a water trough, erected in 1905 in memory of the horses that died in the Anglo-Boer War. It is one of only a handful of monuments in the world built specifically to honour animals killed in war, and it is unexpectedly moving: a small, quiet statue in a shady corner of the city that carries a lot of weight.

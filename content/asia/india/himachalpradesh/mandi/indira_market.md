@@ -5,6 +5,7 @@ latitude: 31.7080
 longitude: 76.9325
 snippet: Sloping bazaar square at the centre of the old town
 tags: [things_to_do, sight, market]
+score: 7.2
 ---
 
 The Indira Market — known locally as just Chowk — is the sloping square at the heart of Mandi's old town, ringed by traditional Pahari-style wooden buildings with deep overhanging balconies. It is the natural starting point for a walk through the old town: every alley off the square leads to one or more small temples, and the square itself fills daily with vendors of dried fruit, woollen shawls, brass utensils and the small Himachali silver jewellery that the town has long made.

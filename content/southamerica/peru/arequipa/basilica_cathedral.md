@@ -10,6 +10,7 @@ tags:
 - centro_historico
 title: Basilica Cathedral of Arequipa
 type: poi
+score: 7.9
 ---
 
 The cathedral stretches the full width of the Plaza de Armas — a single 100-metre facade of white *sillar* punctuated by twin bell towers. The current building dates from 1656, but it has burned and been rebuilt after earthquakes so many times that the interior is largely neo-classical from the late 19th century. Inside, the highlights are an enormous Belgian-built organ (one of the largest in South America), a Carrara marble altar, and the silver-and-gold-encrusted *trono de la Virgen* paraded around the plaza on feast days.

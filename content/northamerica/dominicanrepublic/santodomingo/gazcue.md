@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 18.4784
 longitude: -69.9080
+score: 7.7
 ---
 
 Gazcue is the historic residential neighbourhood immediately northwest of the Zona Colonial, built largely in the early 20th century as the city's elite moved away from the colonial core. It is characterized by large neoclassical and art deco houses set back from tree-lined streets, many of which have been converted into embassies, NGO offices, and guesthouses.

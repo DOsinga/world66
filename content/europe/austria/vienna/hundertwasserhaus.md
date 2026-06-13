@@ -10,6 +10,7 @@ tags:
   - landmark
   - leopoldstadt
 story: "Friedensreich Hundertwasser refused payment for designing the building, declaring he wanted to 'prevent something ugly from being built in its place.' He insisted on uneven floors — 'an uneven floor is a melody to the feet' — and planted trees inside the apartments that grow out through the windows."
+score: 7.4
 ---
 
 A municipal housing project unlike any other in Europe: Friedensreich Hundertwasser's gleefully eccentric apartment block was completed in 1985 with the explicit aim of breaking every modernist rule. Colour blocks clash, lines wobble, trees sprout from balconies and through windows, and no two windows are alike.

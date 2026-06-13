@@ -14,6 +14,7 @@ story: >
   jungle around it had pumas, jaguars, and crocodiles in a way that
   Tikal's tourist trails no longer do. A handful of the pyramids are
   cleared; most are still under rainforest.
+score: 8.7
 ---
 
 About 70 kilometres east of Flores, Yaxha is the second-largest restored Maya site in Peten after Tikal. The site sits on a ridge between two lakes; Temple 216, the tallest pyramid, gives an unobstructed view at sunset across the rainforest, the lakes, and (on clear evenings) the silhouettes of pyramids at smaller sites in between.

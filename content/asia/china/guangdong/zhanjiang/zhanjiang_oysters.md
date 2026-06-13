@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 21.2000
 longitude: 110.4000
+score: 6.8
 ---
 
 Zhanjiang's charcoal-grilled oysters are the definitive version of a dish found across Guangdong's coast. The oysters come from the shallow bays of the Leizhou Peninsula, where the combination of warm, nutrient-rich water and tidal flow produces large, plump shellfish with a distinctive salinity. They arrive at the table still in their shells, charred black from the grill, with condiments of soy sauce, garlic paste, and chilli oil applied at the last moment.

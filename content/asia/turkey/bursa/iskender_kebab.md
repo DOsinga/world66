@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.1836
 longitude: 29.0614
+score: 7.6
 ---
 
 Bursa is the birthplace of the Iskender kebab, and the dish is taken seriously here in a way that it isn't anywhere else. The Iskender is doner meat sliced over a bed of pide bread, drenched first in hot tomato sauce and then in molten clarified butter, served with yogurt on the side. It is rich, specific, and caloric — a main course rather than a snack.

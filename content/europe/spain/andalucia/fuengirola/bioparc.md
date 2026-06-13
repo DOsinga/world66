@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.5378
 longitude: -4.6200
 story: Bioparc reimagined itself as an "immersion zoo" in 2001, removing traditional cages and designing each habitat to simulate the ecosystem of the animal's native region — so the gorillas live in a recreated Equatorial African rainforest with waterfalls and tropical planting, not in a concrete enclosure.
+score: 8.3
 ---
 
 Bioparc Fuengirola is consistently rated one of the best zoos in Spain, and the praise is deserved. Rather than a conventional animal park, it is structured around four biogeographical zones — Madagascar, Equatorial Africa, Southeast Asia, and Savanna — each designed as an immersive recreation of the native habitat. The result is that you encounter animals in spaces that feel like the places they actually live.

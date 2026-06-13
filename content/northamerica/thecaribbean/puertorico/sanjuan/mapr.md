@@ -8,6 +8,7 @@ tags:
   - museum
   - santurce
 neighbourhood: Santurce
+score: 8.3
 ---
 
 The Museo de Arte de Puerto Rico (MAPR) is the strongest art museum on the island, in a 1920s neoclassical building in Santurce that originally served as the city's municipal hospital. A modern east wing, finished in 2000, doubled the space. The permanent collection runs from the seventeenth century to the present, with a particularly good holding of works by José Campeche, Francisco Oller, and the twentieth-century Generación del Cincuenta.

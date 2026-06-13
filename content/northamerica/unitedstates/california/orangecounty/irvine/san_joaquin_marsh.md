@@ -5,6 +5,7 @@ latitude: 33.663
 longitude: -117.844
 snippet: "A 300-acre constructed wetland that draws over 200 bird species to the middle of suburban Orange County"
 tags: [things_to_do, nature]
+score: 8.0
 ---
 
 The San Joaquin Marsh is one of the more improbable things you'll find in coastal Southern California: a large, working freshwater marsh tucked between freeways and office parks. The sanctuary covers roughly 300 acres and was constructed on former agricultural land — not a relic of the original landscape, but a genuinely functioning wetland that has been reclaimed from the development that surrounds it on all sides.

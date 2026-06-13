@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.8875
 longitude: -77.0056
+score: 7.8
 ---
 
 Capitol Hill is the residential neighbourhood that surrounds the US Capitol, and it is one of the finest Victorian townhouse districts in America. The streets immediately east and southeast of the Capitol — A Street SE, East Capitol Street, Independence Avenue — are lined with Italianate, Queen Anne, and Romanesque row houses built for Congressmen and their staff in the decades after the Civil War.

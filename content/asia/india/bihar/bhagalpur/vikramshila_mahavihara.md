@@ -16,6 +16,7 @@ story: >
   Tibetan Buddhism into a second flowering — was one of its most famous graduates.
   The monastery was destroyed by Muhammad bin Bakhtiyar Khilji's armies in 1203,
   and never rebuilt.
+score: 9.1
 ---
 
 The ruins of Vikramshila Mahavihara sit on a hillock near Antichak village, about 50km east of Bhagalpur on the Kahalgaon road. This was one of the great Buddhist universities of medieval India, founded in the late 8th century and destroyed in the 13th — a centre of Vajrayana Buddhism that attracted students and scholars from Nepal, Tibet, and Southeast Asia.

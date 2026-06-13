@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Richmond's parish church, with medieval bench ends from Easby Abbey
+score: 7.7
 ---
 
 St Mary's, set back from the centre on the east side of the town, is Richmond's working parish church. It was substantially rebuilt by Sir George Gilbert Scott in 1859 but incorporates much earlier fabric, including a Norman doorway and a fine 14th-century tower.

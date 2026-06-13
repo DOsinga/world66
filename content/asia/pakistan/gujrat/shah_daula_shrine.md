@@ -8,6 +8,7 @@ latitude: 32.5740
 longitude: 74.0790
 story: >
   Shah Daula was an 18th-century Sufi saint known for his care of the mentally disabled and destitute. The "choohas" (mice) of Gujrat — children born with microcephaly — were historically associated with his shrine, and a persistent local belief held that childless couples who came to pray here would be blessed with children, but that the first-born must be given to the shrine. The children with small heads were known as Shah Daula's mice, and looked after at the dargah.
+score: 8.0
 ---
 
 The shrine of Shah Daula — a Sufi saint who died in 1691 — is the spiritual heart of Gujrat. The dargah (tomb-shrine) sits in the old quarter of the city and draws pilgrims throughout the year, with the annual urs (death anniversary) festival transforming the surrounding streets into a packed celebration of music, prayer, and communal eating that can last several days.

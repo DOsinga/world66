@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 neighbourhood: Altstadt
+score: 9.5
 ---
 
 The UNESCO-listed old town on the left bank of the Salzach is the postcard Salzburg — Getreidegasse, the cathedral squares, Residenz, St Peter's, and the Mönchsberg cliff with the fortress on top. Cars are banned from almost every street, which makes it one of the most walkable old centres in Europe.

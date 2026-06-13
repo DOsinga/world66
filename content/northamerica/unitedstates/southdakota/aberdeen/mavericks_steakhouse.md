@@ -6,6 +6,7 @@ longitude: -98.4866
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 A more contemporary steakhouse than Minerva's, Mavericks does aged beef, smoked prime rib, and a serious cocktail list in a polished bar-and-dining room a couple of blocks south of the courthouse. Portions are generous in the South Dakota tradition — a 14-ounce ribeye is the house standard, not the splurge.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - downtown
+score: 7.7
 ---
 
 Gruhn Guitars, founded by George Gruhn in 1970, is one of the most respected vintage guitar dealers in the world. The Broadway shop (relocated from its long-time 4th Avenue location) is a three-storey wonderland of pre-war Martins, pre-CBS Stratocasters, 1950s Telecasters, vintage Gibson archtops, and rare flat-tops at every price level — from a few hundred dollars for a working player up to six-figure museum pieces.

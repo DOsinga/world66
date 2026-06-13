@@ -13,6 +13,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 9.1
 ---
 
 St. Anne's Church represents the peak of Gothic architecture in Lithuania. Its facade is built from 33 different types of brick arranged in intricate patterns, making it one of the most graceful small churches in northern Europe. The elaborate decorative brickwork — towers, turrets, and soaring pinnacles — reaches skyward with an elegance that belies the modest scale of the building itself.

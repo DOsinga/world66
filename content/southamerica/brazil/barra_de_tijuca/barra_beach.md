@@ -13,6 +13,7 @@ story: >
   surf break in Rio, and the local surf culture has its own distinct identity
   separate from the Ipanema scene — more suburban, more Brazilian, less
   concerned with being seen.
+score: 7.4
 ---
 
 Barra da Tijuca beach stretches for 18 kilometres along the Atlantic coast, making it the longest continuous beach in Rio de Janeiro. The sand is wide and the surf is reliably stronger than on the sheltered bay beaches further east. The undeveloped western end, toward Recreio dos Bandeirantes, is the least crowded and the best for surfing.

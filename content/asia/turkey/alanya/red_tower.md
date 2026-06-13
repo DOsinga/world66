@@ -9,6 +9,7 @@ tags:
   - historic_site
 sources:
   - https://en.wikipedia.org/wiki/Red_Tower,_Alanya
+score: 8.4
 ---
 
 The Red Tower is Alanya's most recognisable landmark and one of the finest surviving examples of medieval Islamic military architecture in Turkey. Built in 1226 by the Seljuk sultan Alaeddin Keykubad I — the same sultan who developed the castle above — it is an octagonal five-storey tower rising 33 metres above the old harbour. The name comes from the distinctive reddish bricks used in its construction.

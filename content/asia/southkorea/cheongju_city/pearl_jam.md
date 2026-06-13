@@ -7,6 +7,7 @@ tags:
 - bar
 title: Pearl Jam
 type: poi
+score: 4.5
 ---
 
 A live rock bar with a Korean owner who speaks passable English. Pearl Jam caters to the foreigner community in Cheongju and offers all-you-can-drink specials on Friday and Saturday nights. They also stock a selection of foreign bottled beers.

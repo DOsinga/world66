@@ -11,6 +11,7 @@ story: >
   Kan Thar Yar is the largest lake in Kayin State and sits remarkably close to the centre of Hpa-an — a freshwater lake fringed with lotus flowers, accessible by pedal boat or simply by walking the path around its edge. At certain times of year the lotus blooms are dense enough to cover much of the surface.
 sources:
   - https://en.wikipedia.org/wiki/Kan_Thar_Yar_Lake
+score: 6.3
 ---
 
 Kan Thar Yar Lake is a freshwater lake at the edge of Hpa-an town, large enough to feel removed from the town but close enough to reach on foot. The lake is popular with local people for evening walks, and pedal boats can be hired for a circuit of the water. The lotus fields at the shallow edges bloom most vigorously in the cooler months.

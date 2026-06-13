@@ -12,6 +12,7 @@ story: >
   the gilded ceiling of the Grande Chambre, one of the most important 17th-century painted ceilings
   in France. The restoration took nearly a decade and cost around 70 million euros — a sum that
   made it one of the most expensive heritage restorations in French history.
+score: 8.9
 ---
 
 The Parlement de Bretagne is the grandest building in Rennes and one of the finest examples of 17th-century civic architecture anywhere in France. Built between 1618 and 1655, it served as the seat of Brittany's regional parliament until the Revolution and now houses the Court of Appeal. The architect Salomon de Brosse, who also designed the Luxembourg Palace in Paris, laid out the classical facades that still dominate the Place du Parlement de Bretagne.

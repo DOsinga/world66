@@ -9,6 +9,7 @@ tags:
   - art
   - hankou
 neighbourhood: Hankou
+score: 7.1
 ---
 
 The Wuhan Art Museum is housed in a stately Beaux-Arts building on Baohua Street in Hankou — the former Jin Cheng Bank, built in the 1930s — and is the principal contemporary art venue in central China. The collection focuses on 20th- and 21st-century Chinese art, including a substantial holding of Wuhan-school painters and a growing collection of international contemporary work.

@@ -7,6 +7,7 @@ tags:
 - market
 title: Grand Marché
 type: poi
+score: 6.3
 ---
 
 San-Pédro's central market is a lively, all-purpose affair that serves the city's daily needs rather than tourist shopping. The fish section is the most interesting part — the port is close by, and the variety of catches on display reflects the richness of the Gulf of Guinea. Women in brightly coloured pagnes sell plantains, cassava, yams, tomatoes, and peppers from tables and ground cloths.

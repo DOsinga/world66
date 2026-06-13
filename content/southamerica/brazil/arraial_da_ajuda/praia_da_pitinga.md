@@ -4,6 +4,7 @@ type: poi
 tags: [beaches]
 latitude: -16.5093
 longitude: -39.0578
+score: 8.6
 ---
 
 Pitinga is Arraial's most photogenic beach. The sand is paler than at Mucugê and the backdrop is a wall of soft clay cliffs streaked red, orange, and white — at low tide they catch the afternoon sun and turn the whole beach into a colour study. The water is clear and the surf gentle.

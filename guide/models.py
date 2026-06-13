@@ -50,6 +50,15 @@ DISPLAY_PROPERTIES = {
 }
 
 
+def _score_desc_title_key(page):
+    """Sort pages by score descending, then title for stable ties."""
+    try:
+        score = float(page.meta.get("score", 0) or 0)
+    except (TypeError, ValueError):
+        score = 0
+    return (-score, page.title.casefold())
+
+
 def _load_md(path):
     """Load and parse a markdown file. Returns (meta, body) or None.
 
@@ -163,7 +172,7 @@ class Page:
                     elif child.page_type in NAV_TYPES:
                         nav_pages.append(child)
 
-        return nav_pages, locations, pois
+        return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.
@@ -186,7 +195,7 @@ class Page:
             if p.path not in seen:
                 by_tag.append(p)
 
-        return by_tag
+        return sorted(by_tag, key=_score_desc_title_key)
 
     def _legacy_dir_pois(self):
         """POIs inside this page's own subdirectory (pre-tag content)."""
@@ -203,7 +212,7 @@ class Page:
                 page = _load_page_from_file(entry, self.path + "/" + entry.stem)
                 if page and page.page_type == "poi":
                     pois.append(page)
-        return pois
+        return sorted(pois, key=_score_desc_title_key)
 
     # Keep old name for call sites not yet updated
     def pois(self):
@@ -261,7 +270,7 @@ def find_tagged_pois(city_path, tag, _city_tag_index=None):
     """
     if _city_tag_index is None:
         _city_tag_index = build_city_tag_index(city_path)
-    return list(_city_tag_index.get(tag, []))
+    return sorted(_city_tag_index.get(tag, []), key=_score_desc_title_key)
 
 
 def _load_page_from_file(file_path, url_path):

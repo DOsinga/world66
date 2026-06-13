@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 16.7436
 longitude: -92.6362
+score: 8.0
 ---
 
 The main covered market of San Cristóbal occupies a large block north of the historic centre, just below the Templo de Santo Domingo. It is primarily a market for local residents — produce, meat, dried goods, herbs and medicinal plants, household items — rather than a tourist attraction, but it is one of the most vivid places in the city to spend an hour.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.2
 ---
 
 Jalan Pelantar II is the main artery of Tanjung Pinang's trading quarter — a dense, chaotic street where Chinese provision shops, spice merchants, textile stalls, and repair workshops crowd together in two and three-storey shophouses that have barely changed since the 1970s. The buildings are faded and functional, the kind of commercial architecture that colonial cities produce when people are more interested in doing business than making architecture.

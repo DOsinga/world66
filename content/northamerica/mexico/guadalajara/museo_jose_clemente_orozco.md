@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.6780
 longitude: -103.3700
+score: 7.9
 ---
 
 The Museo José Clemente Orozco occupies the house and studio where the muralist lived and worked for the last years of his life. Orozco (1883–1949) was born in Jalisco and returned to Guadalajara for his most ambitious projects — the Hospicio Cabañas murals, the University assembly hall, the Government Palace. The museum holds a collection of his sketches, studies, and smaller canvases, along with personal effects and documentation of the mural projects.

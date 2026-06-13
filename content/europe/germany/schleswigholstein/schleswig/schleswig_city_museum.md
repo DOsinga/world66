@@ -7,6 +7,7 @@ tags:
 latitude: 54.5055
 longitude: 9.5413
 snippet: "Local history museum in a historic courtyard ensemble"
+score: 6.7
 ---
 
 The Schleswig City Museum occupies the Günderorthsche Hof, a handsome ensemble of historical buildings in the Friedrichsberg district, south of the old town. The museum covers the history of the city from the medieval period through the 20th century, with particular attention to the complex Danish-German identity of this border region. There are collections of decorative arts, furniture, and documents relating to the town's role as a royal residence and administrative centre.

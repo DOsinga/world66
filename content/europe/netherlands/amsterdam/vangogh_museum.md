@@ -14,6 +14,7 @@ longitude: 4.881197
 neighbourhood: Museum Quarter
 opening_hours: Daily 10:00–18:00, Friday until 22:00
 url: vangoghmuseum.nl
+score: 9.3
 ---
 
 The world's largest collection of Van Gogh's work — around 200 paintings and 500 drawings — hung in roughly chronological order, so you walk through the arc of his short career: the dark Dutch peasant studies, the Paris years, the explosion of colour in Arles, the unsettled final months in Saint-Rémy and Auvers. Letters between Vincent and his brother Theo are quoted throughout, which gives the rooms an unusual intimacy.

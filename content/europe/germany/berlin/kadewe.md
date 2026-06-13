@@ -8,6 +8,7 @@ tags:
 title: KaDeWe
 type: poi
 url: https://www.kadewe.de
+score: 7.8
 ---
 
 Kaufhaus des Westens — the Department Store of the West — opened in 1907 on the Tauentzienstraße near Wittenbergplatz, and at 60,000 square metres remains the largest department store in continental Europe after the Harrods-sized Selfridges claim. The name was partly political from the start: opened on the commercial axis of West Berlin, it became during the Cold War a deliberate showcase of Western consumer abundance, positioned within sight of the divided city's symbolic border. Today the fashion and cosmetics floors are unremarkable by international standards, and the luxury goods selection is what you would expect at any large European department store.

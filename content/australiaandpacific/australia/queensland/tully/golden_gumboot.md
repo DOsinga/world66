@@ -13,6 +13,7 @@ story: >
   7.9 metres tall — lives in the Tully town centre and changes hands whenever the rainfall rankings shift.
 sources:
   - https://en.wikipedia.org/wiki/Golden_Gumboot
+score: 5.1
 ---
 
 The Golden Gumboot is Tully's most distinctive landmark — a seven-metre-tall fibreglass rubber boot in the town centre, celebrating (or perhaps lamenting) the town's status as one of the wettest places in Australia. The boot's interior is hollow, and a spiral staircase leads to a viewing platform at the top with views over the cane fields and rainforest hills that surround the town.

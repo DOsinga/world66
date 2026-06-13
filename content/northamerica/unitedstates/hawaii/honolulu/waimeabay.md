@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Waimea Bay
 type: poi
+score: 8.0
 ---
 
 Waimea Bay on Oahu's North Shore is one of the most famous big-wave surf spots in the world. In winter, swells regularly push waves past 30 feet, drawing top surfers and spectators who line the road above. The Eddie Aikau Big Wave Invitational, held here only when conditions are truly enormous, is surfing's most prestigious event.

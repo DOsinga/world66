@@ -8,6 +8,7 @@ latitude: 49.7578
 longitude: 13.3600
 sources:
   - https://en.wikipedia.org/wiki/Plze%C5%88_Zoo
+score: 6.2
 ---
 
 Plzeň Zoo (Zoologická a botanická zahrada města Plzně) is one of the better provincial zoos in the Czech Republic, located in a wooded hillside north of the city centre about 20 minutes by tram. The zoo covers around 21 hectares and keeps over 1,200 animals from about 200 species, with a particular strength in large mammals — big cats, bears, primates — and a good reptile house.

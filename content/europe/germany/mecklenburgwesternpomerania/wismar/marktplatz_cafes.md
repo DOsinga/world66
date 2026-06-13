@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 53.8929
 longitude: 11.464
+score: 5.9
 ---
 
 The cluster of cafes and bars with outdoor seating on and immediately around the Marktplatz is where Wismar life is most visible. In the warmer months the square fills with parasols and tables, and the combination of the Wasserkunst fountain, the gabled facades, and the general unhurried quality of the place makes for a very comfortable afternoon. The cafes serve coffee, cake, and a selection of beers; the standard is reliable without being exceptional.

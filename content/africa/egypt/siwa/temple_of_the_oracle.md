@@ -8,6 +8,7 @@ tags:
 latitude: 29.2007
 longitude: 25.5471
 story: "In 331 BC Alexander the Great crossed hundreds of kilometres of desert to put a single question to the oracle here. What he asked is unknown — he never told anyone — but the priests reportedly addressed him as the son of Zeus-Amun, and Alexander left convinced of his divinity. He asked to be buried at Siwa; he was not."
+score: 8.4
 ---
 
 On the hill of Aghurmi, a short ride east of town, stand the ruins of the Temple of the Oracle. The 6th-century BC sanctuary was already famous across the Mediterranean when Alexander made his pilgrimage across the desert in 331 BC, after his conquest of Egypt.

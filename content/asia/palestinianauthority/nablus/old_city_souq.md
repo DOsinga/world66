@@ -9,6 +9,7 @@ tags:
   - market
 story: >
   The Nablus souq follows the course of the Roman Cardo Maximus — the main colonnaded street of the original Roman city of Flavia Neapolis. The stone paving underfoot is, in some sections, two thousand years old. The covered market built over it dates largely from the Ottoman period.
+score: 8.8
 ---
 
 The old city souq is the commercial and social heart of Nablus, a dense network of covered lanes where butchers, spice sellers, sweet shops, fabric merchants, and vegetable stalls operate within metres of each other. It is not a tourist market — it is where Nablus residents actually shop — and this gives it an energy and authenticity that staged bazaars in more heavily visited cities cannot replicate.

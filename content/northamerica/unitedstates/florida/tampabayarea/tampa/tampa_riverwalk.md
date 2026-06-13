@@ -7,6 +7,7 @@ tags:
 latitude: 27.9487
 longitude: -82.4597
 snippet: A 2.6-mile waterfront promenade along the Hillsborough River connecting downtown Tampa's attractions
+score: 5.8
 ---
 
 The Tampa Riverwalk is a 2.6-mile promenade along the Hillsborough River, connecting the Curtis Hixon Waterfront Park through downtown to the Convention Centre district and the Florida Aquarium. It is the best way to experience downtown Tampa on foot, passing through parks, past the Tampa Bay History Center and the Museum of Art, and under the dramatic minarets of the Henry B. Plant Museum across the river.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - town
+score: 6.4
 ---
 
 Altagracia is the second town on Ometepe, on the north-eastern shore at the foot of Concepción. It is smaller and quieter than Moyogalpa and serves as the main jumping-off point for climbs of Concepción as well as for the ferry from Granada. The central plaza has a colonial church and a small museum, the Museo de Ometepe, with pre-Columbian ceramics and statues found around the island.

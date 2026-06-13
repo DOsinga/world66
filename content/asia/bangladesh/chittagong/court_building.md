@@ -8,6 +8,7 @@ tags:
 latitude: 22.3348
 longitude: 91.8346
 snippet: Imposing colonial courthouse from 1898, still in use
+score: 4.4
 ---
 
 A handsome British-era court building from 1898, with whitewashed walls, deep verandahs, sash windows and a clocktower at its centre. It still serves as the District Court of Chittagong and is one of the most photographed colonial-era buildings in the city.

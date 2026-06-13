@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Ruhr reservoir on the city's northern edge, with walks and watersports"
+score: 6.0
 ---
 
 The Hengsteysee is a long, narrow reservoir on the Ruhr between Hagen, Herdecke, and Dortmund, formed in 1929 when the river was dammed for hydroelectric power. The lake is now a recreation area with a paved 10-km cycle and walking loop, rowing clubs, a sailing school, and a popular lakeside beer garden.

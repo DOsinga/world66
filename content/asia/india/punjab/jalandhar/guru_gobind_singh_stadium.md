@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3131
 longitude: 75.5814
+score: 5.2
 ---
 
 Jalandhar's main multi-purpose stadium, with a capacity of around 18,000, used primarily for hockey and football but also a regular venue for state-level athletics and political rallies. India's national hockey team trained here before several major tournaments. The pitch is artificial turf, replacing the natural surface in 2007.

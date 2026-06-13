@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.6604
 longitude: -70.2466
+score: 6.8
 ---
 
 Maine's two-foot-gauge railroads — narrower than almost anywhere else in the world — once linked the inland mill towns to the coast. This small museum on the Eastern Promenade preserves locomotives, passenger cars, and freight stock from the four 1880s-era lines, and runs short heritage trains along the harbour shore between May and October.

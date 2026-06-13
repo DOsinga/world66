@@ -8,6 +8,7 @@ tags:
 - aquarium
 title: Havets Hus
 type: poi
+score: 6.6
 ---
 
 Havets Hus ("House of the Sea") is a compact aquarium on Lysekil's waterfront dedicated entirely to local cold-water marine life. The centrepiece is a 140,000-litre tunnel tank where small-spotted catshark, cod, and goldsinny wrasse swim around you, and there are smaller tanks of touch-friendly starfish, jellyfish, and the sometimes-camera-shy lumpsuckers that are the unofficial mascot of the place.

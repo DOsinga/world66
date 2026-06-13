@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5833
 longitude: -88.1833
+score: 8.6
 ---
 
 The Ice Age Trail is one of only eleven National Scenic Trails in the United States, and it runs 1,200 miles end to end across Wisconsin, tracing the maximum extent of the last continental glacier. The section through the Northern Kettle Moraine — most of it within a short drive of Kewaskum — is one of the most varied stretches, weaving past kettle ponds, over eskers, and along the spines of moraines.

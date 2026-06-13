@@ -10,6 +10,7 @@ story: >
   The inscriptions at Anfishiyyeh include some of the clearest Nabataean text found outside Petra.
   Among the carvings is a detailed depiction of a camel caravan, believed to represent the incense
   trade route that passed through Wadi Rum over two thousand years ago.
+score: 8.7
 ---
 
 Jabal Anfishiyyeh holds one of the most impressive collections of ancient rock art in Wadi Rum. The inscriptions are etched into a smooth rock face about six kilometres east of the village, and they span roughly 2,500 years of human activity in the desert.

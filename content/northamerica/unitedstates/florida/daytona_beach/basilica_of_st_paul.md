@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Basilica of St. Paul
 type: poi
+score: 7.1
 ---
 
 The Basilica of St. Paul stands a few blocks west of the Halifax River, an unexpectedly grand brick church built in 1925-26 in a heavy Italianate Romanesque Revival style. The exterior is comparatively plain; the interior is its surprise — barrel-vaulted, with painted ceilings, an elaborate marble altar, and stained-glass windows brought from Munich.

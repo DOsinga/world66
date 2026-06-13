@@ -16,6 +16,7 @@ story: >
   advice — that triggered the Wirtschaftswunder, the economic miracle that turned a
   bombed-out ruin into Europe's industrial powerhouse within a decade. He was born on
   Marktplatz in Fürth in 1897.
+score: 7.5
 ---
 
 The Ludwig-Erhard-Zentrum opened in 2018 in a striking new building on the site of Erhard's birthplace, and it is a serious museum for a seriously underrated figure. Erhard was West Germany's Economics Minister through the 1950s and Chancellor from 1963 to 1966 — the man most responsible for the Wirtschaftswunder, the economic recovery that rebuilt the country from rubble to prosperity in a single generation.

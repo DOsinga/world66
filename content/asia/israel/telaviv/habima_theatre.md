@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.0741
 longitude: 34.7807
+score: 7.2
 ---
 
 Habima — 'The Stage' in Hebrew — is the national theatre of Israel, founded as a Russian-Jewish theatre in Moscow in 1912 and relocated to Tel Aviv in 1928. The current building, rebuilt and enlarged in 2012, fills the northern side of Habima Square with a sober white facade and three auditoria.

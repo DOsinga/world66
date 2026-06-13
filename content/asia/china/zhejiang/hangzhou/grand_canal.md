@@ -13,6 +13,7 @@ story: >
   remains the longest canal in the world. At its peak, it moved the entire
   grain surplus of China's south to feed the capital in the north. It is still
   in use today for freight.
+score: 8.8
 ---
 
 The Grand Canal's southern terminus is at Gongchen Bridge in northern Hangzhou, an area that has been developed into the Grand Canal Cultural Creative Industry Park. The old warehouses along the bank have been converted into museums, galleries, and cafes. The China Grand Canal Museum here is the best single place to understand the canal's 1,500-year history — interactive exhibits, a boat preserved in situ, and excellent displays on the engineering feat of moving water across half a continent.

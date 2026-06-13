@@ -8,6 +8,7 @@ latitude: 52.9333
 longitude: -8.4333
 sources:
   - https://en.wikipedia.org/wiki/Mountshannon
+score: 6.7
 ---
 
 Mountshannon is the main Clare-side village on Lough Derg, a planned estate village of wide streets and stone houses that retains much of its 18th-century character. The harbour is the departure point for boat trips to Inis Cealtra, and it has berths for visiting cruisers and a slipway for small boats. In summer the quayside is busy with day visitors and sailors calling in for supplies.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.8
 ---
 
 A neat domed cathedral built between 1995 and 2000 to serve the small Orthodox community of northern Albania. The exterior is in the Byzantine revival style: cross-in-square plan, central dome on a high drum, ringed by smaller cupolas. Inside, the walls are covered in modern frescoes in the traditional manner, completed over more than a decade by a team of Albanian iconographers.

@@ -9,6 +9,7 @@ latitude: 26.0920
 longitude: -98.2795
 sources:
   - https://en.wikipedia.org/wiki/Reynosa
+score: 6.0
 ---
 
 The commercial heart of the old town spreads through several blocks of the Zona Centro, a dense grid of stalls, small shops, and covered passages. This is where Reynosa does its everyday shopping: boots and leather goods, electronics, clothing, hardware, and a full range of northern Mexican provisions.

@@ -6,6 +6,7 @@ longitude: 5.1613
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 A long-standing Indonesian restaurant in the Spanderswoud forest west of town. The rijsttafel — a dozen or more small dishes served around a big bowl of rice — is the obvious order, and Spandershoeve does the classics (rendang, gado-gado, beef nasi) properly. They have a vegetarian rijsttafel too.

@@ -12,6 +12,7 @@ story: >
   John Ball in 1857. Ball took a Cadorino guide named Della Santa and worked out
   a complex route up the southeastern ramps, opening the era of organised
   alpinism in the Dolomites.
+score: 8.2
 ---
 
 The standard ascent of Monte Pelmo (3,168 m) — the so-called via normale — begins from the Rifugio Venezia, an hour's walk from the Forcella Staulanza pass above Vodo. The route is long but technically straightforward in good conditions: a steady ascent up grassy slopes and then a complex but unexposed traverse on broken dolomite slabs to the summit plateau.

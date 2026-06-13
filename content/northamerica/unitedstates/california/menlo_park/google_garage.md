@@ -7,6 +7,7 @@ tags:
 latitude: 37.443254
 longitude: -122.179274
 story: In 1998, Larry Page and Sergey Brin paid Susan Wojcicki $1,700 a month to rent her garage at 232 Santa Margarita Avenue as the first office of Google. Wojcicki later joined Google as an early employee and eventually became CEO of YouTube. The house is private property and there is no marker, but the address is well-documented and visible from the street — the defining garage of the internet era is a modest suburban house in a quiet Menlo Park neighbourhood.
+score: 6.4
 ---
 
 The garage at 232 Santa Margarita Avenue was the first office of Google, rented in the autumn of 1998 from Susan Wojcicki for $1,700 per month. Larry Page and Sergey Brin had just left Stanford's PhD programme and needed space to run their search engine servers and hire their first employees. Google outgrew the garage quickly — the company moved to its first proper office in Palo Alto within months — but the address became one of the canonical founding sites of Silicon Valley mythology.

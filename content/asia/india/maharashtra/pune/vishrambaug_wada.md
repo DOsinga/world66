@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - kasba_peth
+score: 7.8
 ---
 
 The pleasure palace of the last Peshwa, Bajirao II, built in 1807 and still showing the original carved wooden facade on Thorle Bajirao Road. The first floor is now a small Pune municipal museum with photographs, weapons, and a recreation of a Peshwa-era audience hall; the ground floor houses a post office.

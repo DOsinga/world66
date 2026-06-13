@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 5.3333
 longitude: 103.125
+score: 7.4
 ---
 
 Duyong Island is a river island in the mouth of the Terengganu River, a few kilometres upstream from the city centre. It is the traditional home of Terengganu's boat-building craft — the island's boat builders have been constructing wooden fishing vessels and pleasure craft using techniques passed down over generations, and a handful of workshops still operate here. Watching a traditional Malay boat (perahu) take shape from raw timber is one of the more unusual things you can do near Kuala Terengganu.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -33.7348
 longitude: 18.9545
+score: 6.5
 ---
 
 Marc's is one of Paarl's most respected restaurants, housed in a restored homestead with a garden terrace where you eat under the oaks. The menu draws on Mediterranean influences but uses Cape ingredients — local seafood, Karoo lamb, farm vegetables — in a way that works well. The wine list is focused on local estates and the sommelier knows their material.

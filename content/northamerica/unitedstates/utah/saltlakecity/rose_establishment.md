@@ -7,6 +7,7 @@ tags:
 - bar
 title: The Rose Establishment
 type: poi
+score: 5.9
 ---
 
 The Rose Establishment is one of Salt Lake City's best coffee shops, a spare and carefully designed space in a converted storefront in the Granary District. The coffee programme is serious and seasonal, with direct-trade beans and a thoughtful approach to both espresso and filter methods. A small food menu of pastries and light lunches runs alongside the coffee.

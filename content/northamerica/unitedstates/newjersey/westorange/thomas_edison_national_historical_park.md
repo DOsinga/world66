@@ -11,6 +11,7 @@ story: >
   Edison moved his operations to West Orange in 1887 and set up the world's first industrial research laboratory — not a workshop where one man tinkered, but a team of engineers and scientists working systematically on commercial inventions. In this complex he and his staff filed more than 400 patents in a single decade. When he died in 1931, towns across America dimmed their electric lights in tribute for sixty seconds.
 sources:
   - https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park
+score: 8.8
 ---
 
 The Thomas Edison National Historical Park preserves the laboratory complex on Main Street where Edison worked for over four decades, and Glenmont, his nearby Victorian mansion. The lab buildings are the centrepiece: the main laboratory, the machine shop, the chemical laboratory, and the library where Edison reportedly slept on a cot rather than go home. The equipment is still on the benches — measuring instruments, chemical apparatus, filing cabinets full of notebooks — giving the place the feeling of a working lab from which the occupants have only just stepped out.

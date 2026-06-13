@@ -15,6 +15,7 @@ story: >
   disputed; no one disputes that the mojitos remain excellent, or that the
   walls are now so covered in other people's signatures that the original, if
   it exists, is impossible to find.
+score: 5.8
 ---
 
 La Bodeguita del Medio is Havana's most famous bar for mojitos — a small, packed, loud establishment half a block from the Cathedral of Havana, its walls entirely covered in signatures, declarations, and graffiti left by decades of visitors. It opened in 1942 as a grocery store and became a bar and restaurant over time, attracting writers, musicians, and politicians in the years before the revolution.

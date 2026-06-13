@@ -9,6 +9,7 @@ tags:
   - industrial_history
 title: "Mine Temoin"
 type: poi
+score: 8.2
 ---
 
 The Mine Temoin is Alès' most distinctive sight: a former training mine turned museum, with underground galleries explaining the coal industry that shaped the town and much of the surrounding Cévennes. It is practical, physical history rather than polished nostalgia.

@@ -9,6 +9,7 @@ tags:
 - history
 title: Tiwanaku
 type: poi
+score: 9.3
 ---
 
 Tiwanaku collapsed as a civilisation around 1000 AD, probably due to prolonged drought, and was largely in ruin before the Inca empire even began. What remains is still striking: the Akapana pyramid, partly excavated and partly still buried, rises seven terraced levels above the altiplano plain; the Kalasasaya platform contains the Gateway of the Sun, a single block of andesite stone carved with a central figure — the Staff God — surrounded by 48 winged attendants, which appears in various forms across Andean cultures for centuries afterward. The craftsmanship is precise in a way that becomes more impressive the longer you look.

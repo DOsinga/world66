@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.1
 ---
 
 A short walk east of the Two Towers, this small Romanesque-Gothic church sits at the foot of Via San Vitale and is named for two of Bologna's earliest martyrs. The structure is essentially medieval — the apse holds a fifteenth-century fresco cycle by Francesco Francia and the choir is roofed with painted beams that have survived since the thirteenth century.

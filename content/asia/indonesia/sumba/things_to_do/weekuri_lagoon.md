@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -9.5980
 longitude: 119.1530
+score: 7.6
 ---
 
 Weekuri is a saltwater lagoon on the far northwest coast of Sumba, separated from the open sea by a natural rock barrier. The water is turquoise, calm, and remarkably clear — quite different from the exposed surf beaches elsewhere on the coast. Swimming here feels like being inside an aquarium.

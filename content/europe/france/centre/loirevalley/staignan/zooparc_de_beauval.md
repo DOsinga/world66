@@ -9,6 +9,7 @@ title: ZooParc de Beauval
 type: poi
 story: >
   The zoo began in 1980 as a private bird collection that Françoise Delord started in the barns of a farm near Saint-Aignan. She had no zoological training, just an obsession with birds. Today ZooParc de Beauval covers 40 hectares, holds more than 35,000 animals, and is consistently ranked among the best zoos in Europe — a reminder that obsession is often the origin of excellent things.
+score: 9.0
 ---
 
 ZooParc de Beauval, 4 km south of St. Aignan, is one of the most celebrated zoos in France and draws visitors from across Europe. The collection includes giant pandas — among the handful of zoos outside China to house them — as well as white tigers, gorillas, beluga whales, and a vast bird park that traces the zoo's origins as a private collection of tropical birds. The grounds are landscaped to a high standard, with themed sections representing different biomes, and are large enough to require a full day.

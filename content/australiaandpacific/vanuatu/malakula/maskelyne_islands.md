@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.5300
 longitude: 167.8200
+score: 8.1
 ---
 
 A small archipelago of low coral islands off the southeast tip of Malakula, with several traditional fishing villages and some of the best snorkelling and diving in the country. The reefs around Avock, Awei, and Lutes are easily reached by canoe from the islands and run with healthy coral and large pelagic fish.

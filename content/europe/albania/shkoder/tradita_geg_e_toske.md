@@ -6,6 +6,7 @@ longitude: 19.5174
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 A long-running Shkodër institution housed in an 18th-century Ottoman *kulla* (fortified tower house), with a private ethnographic museum on the ground floor and a restaurant on the upper floors and terrace garden. The menu is northern Albanian throughout: spit-roasted lamb, baked trout, hand-rolled *byrek*, and a particularly good *tavë kosi* (lamb baked under a layer of yoghurt and egg).

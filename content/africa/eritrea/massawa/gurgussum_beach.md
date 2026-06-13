@@ -8,6 +8,7 @@ latitude: 15.6350
 longitude: 39.4400
 sources:
   - https://en.wikipedia.org/wiki/Massawa
+score: 6.8
 ---
 
 Gurgussum is a white-sand beach a few kilometres north of Massawa, reached by a short taxi ride. It is the main beach for local residents and one of the best swimming spots on Eritrea's Red Sea coast — clean, relatively uncrowded outside weekends, and with water that is warm year-round. There is some basic infrastructure: simple shelters and a few vendors selling drinks and grilled fish.

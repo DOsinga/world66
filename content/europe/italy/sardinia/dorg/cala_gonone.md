@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.2825
 longitude: 9.6319
+score: 7.8
 ---
 
 The coastal village of Cala Gonone lies 8 km downhill from Dorgali, connected by a winding road that drops through limestone cliffs to a small harbour on the Gulf of Orosei. This is the departure point for boats to the sea caves and secluded coves that make this stretch of Sardinian coast famous — Cala Goloritzé, Cala Biriola, Cala Sisine, and Cala Luna are all inaccessible by road and reached only by sea.

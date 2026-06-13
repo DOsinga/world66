@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The three churches were built as the cathedral complex of Egara, the Visigothic bishopric that existed here from the 5th century until the Muslim invasion of the 8th. When the cathedral function moved to Barcelona, the buildings survived because the population was too poor to replace them — a kind of accidental preservation that has left us one of the most important early medieval ensembles in western Europe."
+score: 9.0
 ---
 
 The Sant Pere church complex sits in Vallparadís Park, just east of Terrassa's old town. It consists of three separate buildings: Sant Pere itself (early Romanesque, with extraordinary 10th-century wall paintings of the apostles); Sant Miquel (a baptistery, the oldest of the three, dating to the 6th–7th century, with its eight-columned interior intact); and Santa Maria (a 12th-century Romanesque structure with rare apsidal frescoes of the Murder of Thomas Becket painted soon after his canonisation).

@@ -14,6 +14,7 @@ story: >
   craftsmen whose techniques changed little between the 1830s and the quarry's
   closure in 1969. The daily slate-splitting demonstrations show a skill that took
   years to master and cannot be learned from a book.
+score: 8.8
 ---
 
 The National Slate Museum is housed in the original Victorian workshops that maintained the enormous Dinorwig quarry — one of the largest slate quarries in the world — until its closure in 1969. The workshops are preserved essentially intact: the foundry, the pattern shop, the smithy, and the enormous waterwheel (the largest working waterwheel on the British mainland) that powered the machinery. Entry is free.

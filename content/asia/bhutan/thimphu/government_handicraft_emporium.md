@@ -7,6 +7,7 @@ tags:
 - sight
 title: Government Handicraft Emporium
 type: poi
+score: 7.1
 ---
 
 The official government handicraft store near the town centre, selling a well-curated selection of Bhutanese crafts at fixed prices. The range includes woven textiles, painted wooden masks, thangka paintings, silverwork, prayer wheels, and lacquerware. The fixed-price model means no bargaining, but also no suspicion about quality or authenticity — unlike many tourist market stalls, the emporium stocks items that are genuinely made in Bhutan. A reliable first stop for understanding what good Bhutanese craftwork looks like and what it should cost.

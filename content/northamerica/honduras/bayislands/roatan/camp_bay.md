@@ -8,6 +8,7 @@ tags:
 snippet: "Long quiet beach at the eastern end of the island"
 latitude: 16.4570
 longitude: -86.2920
+score: 7.8
 ---
 
 Camp Bay is a long, undeveloped beach near the eastern tip of Roatán, about an hour's drive from West End on the increasingly rough road past French Harbour and Punta Gorda. There is no resort, almost no infrastructure, a couple of simple beach restaurants, and on most days more pelicans than people.

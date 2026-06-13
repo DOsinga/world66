@@ -11,6 +11,7 @@ title: History and Archaeology Museum
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Archaeology_Museum_Piatra_Neam%C8%9B
+score: 7.5
 ---
 
 Piatra Neamț's History and Archaeology Museum was founded in the early 20th century by Constantin Matașă, a local priest and amateur archaeologist who began collecting the prehistoric objects turning up in the Neamț valley. The collection has grown into one of the better regional archaeological museums in Romania, with particular strength in Neolithic and Bronze Age material from the Cucuteni culture — the ceramic-producing civilisation that flourished in northeastern Romania and Moldova between 5500 and 2750 BCE.

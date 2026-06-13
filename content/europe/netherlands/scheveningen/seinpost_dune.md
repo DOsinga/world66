@@ -8,6 +8,7 @@ tags:
 - sight
 title: Seinpost
 type: poi
+score: 7.5
 ---
 
 Seinpost is the small cliff-edge promontory where the central boulevard meets the southern stretch of the beach. The dune drops dramatically to the sand, and a tiered viewing terrace gives a long view back over the entire Scheveningen seafront. A small bandstand and the modernist Seinpost restaurant occupy the top of the dune.

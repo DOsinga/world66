@@ -14,6 +14,7 @@ story: >
   worst petroleum contamination ever recorded — but the outer delta still
   contains vast tracts of intact mangrove that harbour forest elephants, manatees,
   and one of the most diverse freshwater fish communities on the African continent.
+score: 8.4
 ---
 
 The Niger Delta that surrounds Port Harcourt is one of the most ecologically significant wetland systems on earth, a vast maze of creeks, mangrove forests, and freshwater channels that stretches from the city south to the ocean. For visitors with a genuine interest in nature — or simply in seeing how the delta actually looks and functions — a boat trip into the creeks is the most memorable thing you can do in Port Harcourt.

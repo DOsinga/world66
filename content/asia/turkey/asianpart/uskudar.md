@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.0228
 longitude: 29.0153
+score: 8.4
 ---
 
 Üsküdar is the older and more conservative district of the Asian shore — the Chrysopolis of antiquity, one of the first Ottoman footholds in Europe, and for centuries the starting point of the caravan routes to Anatolia and the east. Today it is a dense, historically layered neighbourhood with a distinctive Ottoman skyline of mosques and the quiet intensity of a neighbourhood that functions primarily for its residents rather than its visitors.

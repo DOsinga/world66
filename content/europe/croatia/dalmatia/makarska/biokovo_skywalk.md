@@ -9,6 +9,7 @@ tags:
 story: "The Skywalk is a horseshoe of glass-floored steel that juts 11 metres out from the mountainside at 1,228 metres above sea level. On a clear day you can see Italy, 200 kilometres away. It opened in 2020 and immediately became Makarska's most photographed attraction."
 title: Biokovo Skywalk
 type: poi
+score: 8.3
 ---
 
 The Skywalk is the highlight of the Biokovo Nature Park: a horseshoe-shaped glass-floored platform cantilevered out from the mountain at 1,228 metres, with the sea, Brač, Hvar, and on clear days the Italian peninsula visible below. The drive up from Makarska along the narrow, twisting Park road takes about 45 minutes; the road is one-way for stretches and traffic is limited by ticket.

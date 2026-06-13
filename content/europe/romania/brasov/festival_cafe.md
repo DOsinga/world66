@@ -7,6 +7,7 @@ snippet: Belle Époque cafe in a 1930s interior, on Strada Republicii
 tags:
 - bars_and_cafes
 - bar
+score: 5.8
 ---
 
 Festival 39 occupies a richly restored 1930s coffeehouse on Strada Republicii — green velvet banquettes, marble-topped tables, mosaic floors, a long wooden bar. It is the most atmospheric place in town for an afternoon espresso and a slice of cozonac. They also serve a long list of cocktails and Romanian wines by the glass; the kitchen does decent bistro food into the evening.

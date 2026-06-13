@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 58.6045
 longitude: 49.6655
+score: 7.3
 ---
 
 The Alexander Garden occupies the bluff above the river, a strip of formal parkland laid out in the 19th century that remains one of the most pleasant places in the city. Broad allees lead to viewing terraces with panoramic views over the Vyatka River valley, the low wooded hills of the far bank, and the Dymkovo district below.

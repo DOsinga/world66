@@ -12,6 +12,7 @@ tags:
   - architecture
 neighbourhood: Polana
 story: The church was designed by **Nuno Craveiro Lopes**, the son of a Portuguese president, and is universally nicknamed the **Lemon Church** for its shape. The hollow concrete shell is supported by a single ring beam at the base, with no internal columns — a structural feat at the time of construction.
+score: 8.7
 ---
 
 The **Igreja de Santo António da Polana** is the most arresting modernist building in Maputo. Designed by Nuno Craveiro Lopes and completed in 1962, it consists of a single conical concrete shell ribbed with vertical fins, narrowing toward an opening at the top — from a distance it looks like a lemon, or an upturned cooling tower, or a religious spaceship. There is nothing else like it in the city.

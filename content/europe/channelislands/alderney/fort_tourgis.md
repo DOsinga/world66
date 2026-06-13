@@ -10,6 +10,7 @@ longitude: -2.2194
 story: "Fort Tourgis was one of a chain of forts built around Alderney in the 1840s when Britain feared a French invasion. It was never tested in the role it was built for. The Germans then used it in the 1940s during their occupation, adding their own fortifications — so the site layers two different eras of military anxiety about the same stretch of water."
 sources:
   - https://en.wikipedia.org/wiki/Fort_Tourgis
+score: 8.0
 ---
 
 Fort Tourgis is the largest of Alderney's Victorian-era fortifications, built between 1855 and 1860 on the northwest coast. The fort is a substantial granite structure with a long barrack block, gun batteries, and a parade ground, set into the hillside above Clonque Bay. In its heyday it could garrison hundreds of troops.

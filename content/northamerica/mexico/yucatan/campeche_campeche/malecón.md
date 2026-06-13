@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.8457
 longitude: -90.5402
+score: 6.9
 ---
 
 The Malecón is the city's 7-kilometre waterfront promenade running along the Gulf of Mexico. Modern, wide, and well-maintained, it was developed in the early 2000s and transformed what had been an industrial shoreline into a pedestrian esplanade with benches, bicycle paths, food stalls, and unobstructed views of the Gulf at sunset.

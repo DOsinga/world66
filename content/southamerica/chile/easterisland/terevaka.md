@@ -8,6 +8,7 @@ tags:
   - sight
   - volcano
   - hiking
+score: 7.5
 ---
 
 At 507 metres Terevaka is the highest point on Easter Island and the only place where you can see the entire coastline at once. The hike from the road near Ahu Akivi takes about two hours up and another hour and a half down. The terrain is open grassland the whole way — no trees, no shade, no shelter from the wind.

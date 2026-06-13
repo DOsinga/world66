@@ -8,6 +8,7 @@ latitude: 10.816698
 longitude: 79.840364
 story: >
   The procession that climaxes the Kandhuri Urs festival — floats, flags, and a large crowd moving from Nagapattinam to Nagore — happens at night, when the coastal road is lit with torches and lanterns. The procession arrives at the dargah in the early hours of the morning for a ceremony at the saint's tomb. The entire event runs for fourteen days across the Islamic month of Jumada al-Thani.
+score: 8.4
 ---
 
 The Kandhuri Urs is the annual festival at the Nagore Dargah, held during Jumada al-Thani in the Islamic calendar — which means the date shifts against the Gregorian calendar each year. The festival runs for fourteen days and is one of the largest religious gatherings in Tamil Nadu, drawing hundreds of thousands of pilgrims from across south India and Sri Lanka.

@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Ruined Ottoman fortress that fell to a famous Russian storming in 1828
 story: "On the night of 23 July 1828, General Ivan Paskevich attacked the fortress with around 13,000 men and took the walls before dawn — a stroke so audacious that the Ottoman garrison surrendered the rest of the citadel at first light. The victory opened the road to Akhaltsikhe and Kars, and won Paskevich the title Count of Erivan."
+score: 5.8
 ---
 
 The fortress sits at the western edge of town, where the plateau drops off toward the Paravani river. What remains is a low ring of basalt walls, gatehouse fragments, and the foundations of barracks — enough to walk through and imagine the place when it mattered, but not enough to draw a crowd.

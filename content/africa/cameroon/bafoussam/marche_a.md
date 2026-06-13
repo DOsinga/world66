@@ -8,6 +8,7 @@ latitude: 5.4791
 longitude: 10.4167
 sources:
   - https://www.openstreetmap.org
+score: 7.9
 ---
 
 Marché A is the main commercial market in central Bafoussam and the most rewarding place in the city for visitors. It sprawls across a large covered and open-air complex near Rond Point Biao, and on a busy morning it is genuinely extraordinary — produce from the surrounding highland farms piled in colourful mounds, livestock, household goods, and in the craft section, the Bamiléké woodwork, brass jewellery, beaded bags, and indigo-dyed textiles that this part of Cameroon is known for. The best carvings come from workshops in the surrounding chiefdom villages, and a proportion of what you see here is made by the sellers themselves.

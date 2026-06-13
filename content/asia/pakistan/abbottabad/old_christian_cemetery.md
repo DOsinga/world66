@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 19th-century British cemetery — known locally as the Gora Qabristan
+score: 7.1
 ---
 
 A quiet, overgrown 19th-century cemetery in the cantonment, known locally as the Gora Qabristan ("the foreigners' graveyard"). The headstones tell a familiar story of the British in India — officers, clergymen, wives, infants — felled by disease, accident, or the long heat of the plains before they retired. Some of the stones are in remarkable condition; others have been broken up over the decades by tree roots.

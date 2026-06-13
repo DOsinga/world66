@@ -11,6 +11,7 @@ story: >
   Albert Camus is buried in the cemetery at Lourmarin — he bought a house here with his Nobel Prize money in 1958 and died in a car accident near Paris barely two years later. His grave is simple: a concrete slab with a rosemary bush growing over it. The village itself seems to embody something of his spirit: austere, beautiful, unpretentious, and more alive than the picture-postcard villages further north.
 sources:
   - https://en.wikipedia.org/wiki/Lourmarin
+score: 8.4
 ---
 
 Lourmarin is the only village in the Luberon that sits in the valley rather than on a hilltop, and it has a different quality as a result — more open, more inhabited, less theatrical. It has a real daily market, good cafes, a 16th-century castle worth visiting, and a population that appears to actually live there rather than merely inhabit it for the summer.

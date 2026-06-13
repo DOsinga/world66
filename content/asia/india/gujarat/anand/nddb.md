@@ -16,6 +16,7 @@ story: >
   and Kurien ran it for the next thirty years. By the time he was done, India had gone
   from chronic milk shortages to the world's largest dairy producer — a transformation
   he called Operation Flood, and the press called the White Revolution.
+score: 7.6
 ---
 
 The NDDB campus sits on the outskirts of Anand and is the institutional headquarters of India's White Revolution — the national programme that replicated the Amul cooperative model across hundreds of districts and transformed India from a milk-deficient country into the world's largest dairy producer. The campus itself is a pleasant, well-maintained complex with the slightly purposeful feel of somewhere that has always taken its work seriously.

@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 5 Amiryan Street
+score: 5.9
 ---
 
 A casual local-feeling Armenian restaurant chain — several branches around the city — serving the home-style end of the cuisine: khorovats grilled over wood, kebabs, fried trout, dolma, mountain herbs, and bread baked on site. Tables are wooden, the atmosphere is loud, and live folk music often happens in the evenings.

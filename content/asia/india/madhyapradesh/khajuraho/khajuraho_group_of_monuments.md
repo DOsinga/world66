@@ -12,6 +12,7 @@ story: >
   When the British surveyor T.S. Burt stumbled upon these temples in 1838, they had been hidden in jungle for centuries. Local villagers knew of them but outsiders had not documented them since the medieval period. Burt, apparently not entirely comfortable with what he found carved on the walls, noted in his journal that the sculptures were "extremely indecent and offensive" — a reaction that guaranteed the temples would become famous the moment his report reached Calcutta.
 sources:
   - https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments
+score: 9.6
 ---
 
 The Khajuraho Group of Monuments is a UNESCO World Heritage Site comprising around 25 surviving temples (out of an original 85) built by the Chandela dynasty between roughly 950 and 1050 CE. The temples are arranged in three clusters — western, eastern, and southern — spread across the small town.

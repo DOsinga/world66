@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 The Zuid-Kennemerland National Park covers the entire strip of dunes between Haarlem and the sea — 3,800 hectares of windblown sand, pine and oak woodland, marshy slacks, and a final dune ridge dropping to the beach. It is one of the largest open natural areas in the Randstad and a delight on a sunny weekend: wide sandy paths, herds of Konik horses and Highland cattle grazing, fallow deer in the early morning, occasional sightings of the reintroduced European bison in the fenced Kraansvlak reserve.

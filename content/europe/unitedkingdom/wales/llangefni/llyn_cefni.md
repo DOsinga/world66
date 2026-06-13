@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Llyn_Cefni
+score: 6.4
 ---
 
 Llyn Cefni is a reservoir in the centre of Anglesey, about two kilometres north-west of Llangefni. It was created in 1951 by damming the Afon Cefni on what had been a low-lying peat bog, and now covers around 130 hectares. Welsh Water manages the reservoir for the island's water supply, while the surrounding area is open for walking and birdwatching.

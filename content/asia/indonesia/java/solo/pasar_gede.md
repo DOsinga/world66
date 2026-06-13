@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -7.5683
 longitude: 110.8303
+score: 7.8
 ---
 
 Pasar Gede is Solo's oldest and most architecturally notable market building — a large covered market designed by the Dutch architect Herman Thomas Karsten in 1930, with a distinctive dome-shaped entrance hall that mixes European and Javanese elements. The name means simply "Big Market" in Javanese.

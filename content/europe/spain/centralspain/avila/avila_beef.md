@@ -16,6 +16,7 @@ tags:
 - restaurant
 title: Ávila Beef and the Chuletón
 type: poi
+score: 6.6
 ---
 
 Ávila has one of the strongest food identities of any small city in Castile, and it is built around beef. The avileña negra-ibérica breed of cattle — a hardy, dark-coated animal adapted to the high Castilian plateau — produces meat that is widely considered among the best in Spain. The chuletón de Ávila, a thick-cut T-bone grilled over charcoal, appears on virtually every menu in the old town and is the default order for anyone visiting for the first time. It needs nothing beyond salt and a glass of the local Tempranillo-based wine.

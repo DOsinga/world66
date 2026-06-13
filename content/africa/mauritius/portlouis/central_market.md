@@ -8,6 +8,7 @@ tags:
   - market
   - shopping
 story: "The market dates from 1828 and was rebuilt in cast iron and corrugated steel in the 1840s — the rusting bones of that Victorian structure are still visible above the modern roof and stalls."
+score: 8.5
 ---
 
 The Bazaar de Port Louis, locally just 'the market', is two blocks of covered stalls split into a vegetable hall, a meat and fish hall, and a textile and souvenir section. It is loud, packed, and unsentimental — exactly the market of a working port city. Go in the morning when the produce is fresh.

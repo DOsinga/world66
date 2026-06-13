@@ -9,6 +9,7 @@ title: International Drive
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/International_Drive
+score: 5.4
 ---
 
 International Drive — I-Drive to everyone who spends time here — runs roughly eight miles between Universal Orlando and the SeaWorld resort, lined with the mid-range hotels, chain restaurants, outlet malls, mini-golf courses, dinner shows, and minor attractions that form the connective tissue of the tourist corridor. It is Orlando at its most unfiltered: billboards stacked three deep, traffic moving slowly past Ripley's Believe It or Not and the Wheel (a 400-foot observation wheel), families in mouse ears debating which TGI Friday's to walk into.

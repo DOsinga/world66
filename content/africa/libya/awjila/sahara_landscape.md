@@ -6,6 +6,7 @@ longitude: 21.2869
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Beyond the date palms in every direction stretches the gravel and sand of the Libyan Desert, one of the driest parts of the Sahara. The terrain is mostly flat *serir* — wind-polished stone — broken by occasional dunes and the low ridges that gave camel caravans their bearings. To the south the land slowly rises toward the Idehan Murzuq sand sea; to the east, the road eventually reaches the remote oases of [Kufra](/africa/libya/kufra) some 700 km away.

@@ -9,6 +9,7 @@ tags:
   - nature
   - swimming
 story: "Mochima was declared Venezuela's second national park in 1973, partly to protect a population of bottle-nosed dolphins that breed in the channels between islands. Boatmen still know which inlets the pods favour and on a calm morning you can usually find them."
+score: 9.2
 ---
 
 The Mochima National Park spreads across an archipelago of low limestone islands between Puerto la Cruz and Cumaná — turquoise water, white-sand beaches, mangrove channels, and reefs good enough for snorkelling. The standard half-day trip is by lancha from the Paseo Colón pier, with a stop at one of the inhabited islands for swimming and lunch.

@@ -10,6 +10,7 @@ story: >
   The museum is named after Jan Cunen, a local politician who served as mayor of Oss for decades in the early twentieth century and amassed a personal art collection that became the seed of the museum's holdings. The building itself, a monumental 1930s construction, was designed to double as a cultural centre for a town that had grown rich on meat processing and pharmaceuticals.
 sources:
   - https://en.wikipedia.org/wiki/Oss
+score: 7.0
 ---
 
 The Jan Cunen Museum is the main cultural institution in Oss, housed in a stately brick building on Molenstraat in the town centre. The collection focuses on Dutch and Flemish art from the nineteenth and twentieth centuries, with a strong thread of regional Noord-Brabant work running through it.

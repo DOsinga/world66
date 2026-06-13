@@ -5,6 +5,7 @@ longitude: 4.726111111111111
 title: Huisduinen Beach
 type: poi
 snippet: Wide North Sea beach backed by dunes, with the Lange Jaap lighthouse nearby
+score: 5.8
 ---
 
 The beach at Huisduinen is the main swimming and walking beach near Den Helder. It stretches south from the seawall for several kilometres, backed by broad dunes that shelter it from the prevailing westerly winds. The sand is pale and wide, and outside July and August the beach is uncrowded. The North Sea water is cold even in summer, rarely exceeding 18 degrees Celsius, but the beach is popular with windsurfers, kite flyers, and dog walkers year round.

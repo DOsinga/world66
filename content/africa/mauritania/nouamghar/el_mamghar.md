@@ -6,6 +6,7 @@ longitude: -16.5167
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 El Mamghar is a small Imragen village a few kilometres up the coast from Nouamghar, and the most accessible of the seven Imragen settlements within Banc d'Arguin National Park. It is essentially a cluster of wooden shacks and a beach lined with the brightly painted lanche fishing boats that the Imragen use.

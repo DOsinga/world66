@@ -14,6 +14,7 @@ tags:
 - wildlife
 title: Cíes Islands
 type: poi
+score: 9.4
 ---
 
 Three granite islands at the mouth of the Ría de Vigo form one of the most protected stretches of Atlantic coastline in Europe. Now part of the Atlantic Islands of Galicia National Park, they are reachable by ferry from Vigo harbour in about 45 minutes during summer, and access is limited by daily visitor quotas that keep the beaches from being overrun. Playa de Rodas, the white-sand bar connecting the two larger islands, is regularly cited among the finest beaches in Spain.

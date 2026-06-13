@@ -10,6 +10,7 @@ latitude: 36.96115
 longitude: 30.85394
 story: >
   Perge was the birthplace of the mathematician Apollonius, whose work on conic sections was so advanced it remained the standard reference for 1,700 years. The city supplied Rome with marble statues in such quantities that the whole collection found in its theatre — twelve Olympian gods, various emperors — ended up in the Antalya Museum, where they now form the finest display of Roman statuary outside Rome itself.
+score: 9.1
 ---
 
 Perge, 18 km east of Antalya, is the most accessible and rewarding of the ancient cities near the city. In its Roman heyday it was one of the great cities of Pamphylia — a broad colonnaded street, Roman baths, a stadium, a theatre seating 14,000, and extensive city walls still punctuated by towers. The site is large enough to spend a morning exploring.

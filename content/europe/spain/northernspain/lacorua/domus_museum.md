@@ -7,6 +7,7 @@ tags:
 latitude: 43.3776
 longitude: -8.4065
 story: "The Domus was designed by the Japanese architect Arata Isozaki and opened in 1995. The building's dramatic curved profile — clad in local slate and concrete — was controversial when it was built, but has become one of the defining images of modern La Coruña. Isozaki compared the form to a breaking wave; locals call it 'el barco' — the ship."
+score: 6.8
 ---
 
 The Domus (Casa del Hombre — House of Man) is a science museum dedicated to the human body and human identity. It occupies Arata Isozaki's striking slate-and-concrete building on the waterfront, which looks out over the Paseo Marítimo and the Atlantic.

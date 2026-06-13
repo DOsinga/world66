@@ -16,6 +16,7 @@ story: >
   political message was clear: the gods themselves had chosen this man as king.
 sources:
   - https://en.wikipedia.org/wiki/Dream_Stele
+score: 7.9
 ---
 
 The Dream Stele stands between the paws of the Great Sphinx, placed there by pharaoh Thutmose IV around 1401 BC. The stele recounts how, as a prince, Thutmose fell asleep in the shadow of the Sphinx and received a divine promise of kingship in exchange for clearing the accumulated sand. He fulfilled the bargain, ascended the throne, and erected this granite monument — one of the earliest examples of royal propaganda in history.

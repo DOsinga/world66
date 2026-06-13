@@ -9,6 +9,7 @@ tags:
 - church
 snippet: Romanesque cathedral with Crivelli's polyptych and an 8th-century crypt
 story: The cathedral's polyptych — by the Venetian Carlo Crivelli, completed in 1473 — is one of the few major works by the painter to remain in its original setting. Crivelli, a contemporary of Bellini, spent his later years working for small Marche commissions and is now considered one of the finest Italian painters outside the standard Florence-Venice canon.
+score: 8.5
 ---
 
 Built over the 8th century onwards and reworked extensively in the late medieval period, Ascoli's cathedral of Sant'Emidio sits on the east side of Piazza Arringo and remains the city's principal church. The travertine façade is Renaissance; the interior preserves the original Romanesque cross plan with substantial 15th-century rebuilding.

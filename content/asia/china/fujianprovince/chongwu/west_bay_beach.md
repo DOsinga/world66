@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.8820
 longitude: 118.9200
+score: 4.4
 ---
 
 West Bay Beach runs along the coastal strip just outside the fortress walls, a reasonable swimming beach with open views across the Taiwan Strait. The water is generally clean and the beach is not heavily developed by the standards of nearby resort areas, which keeps it relatively uncrowded on ordinary weekdays. The coastal rock formations at the northern end of the beach are the most photogenic section, where volcanic rock has been shaped by wave action into layered shelves and channels that reward exploration at low tide.

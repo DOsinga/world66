@@ -8,6 +8,7 @@ latitude: 5.0871
 longitude: -1.3536
 story: >
   Fort St Jago was built by the Dutch specifically to prevent a repeat of the manoeuvre by which they had captured Elmina Castle: in 1637, they had set up cannon on this very hill and bombarded the Portuguese castle below into surrender in a single afternoon. They then built Fort St Jago on the same hilltop to ensure nobody could do the same thing to them. It worked for 235 years.
+score: 8.3
 ---
 
 Fort St Jago sits on a rocky hill directly above Elmina Castle, commanding views over the town, the Benya lagoon, and the coastline in both directions. The Dutch built it in 1666, three decades after capturing Elmina, specifically as a defensive position to protect the castle below from the same kind of hilltop bombardment that had delivered it to them.

@@ -9,6 +9,7 @@ latitude: 40.5090
 longitude: 43.5730
 snippet: An Armenian church split in half by lightning, its cleaved cross-section a haunting image
 story: The Church of the Redeemer was built around 1035 AD to house a fragment of the True Cross. It was struck by lightning sometime after the abandonment of Ani, and exactly half the building — split vertically through the middle — collapsed, leaving a perfect cross-section of the interior standing. The cut is so clean it looks almost deliberate.
+score: 9.0
 ---
 
 The Church of the Redeemer is one of the most visually striking monuments at Ani and one of the most memorable ruins anywhere in Turkey. Built in the early 11th century as a rotunda church on an unusual circular plan, it was struck by lightning and split vertically, leaving precisely half the building standing — walls, decorative carvings, and all — while the other half has collapsed entirely.

@@ -10,6 +10,7 @@ longitude: -3.798
 snippet: One of the great gardens of Britain, in the Conwy valley 15 minutes south of Llandudno
 story: >
   The Laburnum Arch — a 55-metre tunnel of yellow laburnum trees that flowers around the middle of May for about three weeks — is the garden's most photographed feature and one of the most photographed plant features in Britain. It was planted in 1880 by Henry Pochin, the industrial chemist who bought the estate, as a piece of horticultural theatre that few other gardeners had attempted at that scale. The trees are now exceptional specimens and the timing of the bloom is anxiously watched by garden visitors across north Wales.
+score: 8.4
 ---
 
 Bodnant Garden is one of the finest gardens in the British Isles and probably the most important horticultural site in Wales. It sits on a sloping site above the Conwy valley, 15 minutes south of Llandudno, and was developed over five generations of the same family — the McLaren-Aberconway dynasty — from 1874 onwards. The garden was given to the National Trust in 1949, but the family still lives in the house and is involved in the garden's direction.

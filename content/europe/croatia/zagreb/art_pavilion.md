@@ -9,6 +9,7 @@ tags:
 - sight
 - architecture
 - donji_grad
+score: 7.1
 ---
 
 The Umjetnički paviljon — the Art Pavilion — was originally built in iron and glass in Budapest for the 1896 Hungarian Millennium Exhibition, then dismantled, shipped to Zagreb, and rebuilt in its present form in 1898. The result is a fine Secessionist building in egg-yolk yellow, sitting on its own square at one end of Tomislav Square, perfectly aligned with the railway station.

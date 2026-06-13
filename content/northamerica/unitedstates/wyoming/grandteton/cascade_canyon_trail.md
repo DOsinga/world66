@@ -9,6 +9,7 @@ tags:
   - hiking
 title: Cascade Canyon Trail
 type: poi
+score: 9.1
 ---
 
 Cascade Canyon Trail is one of the park's essential hikes, leading from Jenny Lake into a deep canyon between high Teton walls. It can be done as a moderate out-and-back or as part of more ambitious backcountry routes.

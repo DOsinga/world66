@@ -15,6 +15,7 @@ story: >
   recorded history. The island is reachable by rowing boat from the shore and
   the chapel is still used for occasional services; it may be the most
   incongruous piece of real estate in Carinthia.
+score: 7.7
 ---
 
 Faaker See is a warm, clear lake about 12 kilometres southeast of Villach, ringed by mountains and small resort villages. The water temperature in summer regularly reaches 26–28°C, making it one of the warmest Alpine swimming lakes in Austria. The lake is popular for swimming, sailing, windsurfing, and cycling around its 14-kilometre shoreline path.

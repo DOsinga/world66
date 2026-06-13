@@ -6,6 +6,7 @@ longitude: 78.0418
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A long-standing Rajpur Road bakery — part Parsi, part Anglo-Indian — that bakes the city's best plum cake, cinnamon rolls, and rum-soaked Christmas fruit cake. Open since the 1950s and still recognisably the same place.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4333
 longitude: -100.5987
+score: 5.8
 ---
 
 Shoal Lake itself is the reason most people stop here. The lake offers reliable fishing for walleye (pickerel) and northern pike, and in summer it is popular for boating and water-skiing. Lakeview Park sits on the northern shore with lakeside camping including electrical hookups, a boat launch, and basic facilities.

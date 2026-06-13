@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 29.1100
 longitude: 25.4200
+score: 7.7
 ---
 
 Bir Wahed — "Well Number One" — is the classic stop on the desert safari out of Siwa. Roughly 15 km west of town, just inside the Great Sand Sea, a hot sulphurous spring bubbles up at around 40°C into a small concrete pool. A hundred metres away, a cold freshwater pond sits surrounded by reeds.

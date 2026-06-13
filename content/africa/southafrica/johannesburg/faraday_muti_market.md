@@ -8,6 +8,7 @@ latitude: -26.2062
 longitude: 28.0371
 story: >
   Traditional healers — sangomas — are still widely consulted in South Africa alongside, and sometimes instead of, conventional medicine. The market turns over an estimated hundreds of millions of rand annually, supplying practitioners across Gauteng and beyond.
+score: 8.3
 ---
 
 The Faraday Street market (also called the Herb Market or the Muti Market) is South Africa's largest traditional medicine market. Spread across an indoor hall and the surrounding streets in the CBD, it sells the raw materials that sangomas — traditional healers — use in their practice: dried herbs, roots, bark, animal bones, skins, feathers, and compounds whose ingredients you may prefer not to examine too closely. The smell alone is something to experience.

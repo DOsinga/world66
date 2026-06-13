@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Elegant casino operating since 1951 in a neoclassical building near the spa quarter
+score: 5.6
 ---
 
 One of the oldest continuously operating casinos in Germany, occupying a neoclassical building near the thermal baths. Aachen has had a gambling tradition since the 19th century, when the spas attracted wealthy visitors from across Europe who wanted entertainment in the evenings. The current casino opened in its present form in 1951 and offers roulette, blackjack, poker, and slot machines in a setting that still makes an effort at the old elegance: jackets required at the gaming tables.

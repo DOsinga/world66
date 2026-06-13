@@ -8,6 +8,7 @@ tags:
 latitude: 50.06752
 longitude: 22.231726
 snippet: One of Poland's best-preserved 18th-century synagogues, with remarkable painted decoration
+score: 8.5
 ---
 
 Built in 1761, the Łańcut Synagogue is one of the finest surviving historical synagogues in Poland — a country that once had thousands and now has very few. The exterior is modest, tucked into the old Jewish quarter near the castle grounds, but the interior is extraordinary: the painted walls and ceilings, restored after wartime damage, show elaborate decorative schemes of animals, plants, and Hebrew inscriptions in the tradition of 18th-century Polish-Jewish folk painting.

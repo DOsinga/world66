@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Small eighteenth-century Lutheran cathedral next to the Parliament House
+score: 6.8
 ---
 
 Easily overlooked next to its grander neighbour Hallgrímskirkja, Dómkirkjan is the actual cathedral of the Icelandic Lutheran church. The building is small — barely the size of a parish chapel — but the interior, restored in pale wood and white plaster, is one of the prettiest in the city.

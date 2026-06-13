@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Government House, at the eastern edge of the seafront, is a vast Stalinist palace built between 1936 and 1952 along the lines of Moscow's wedding-cake towers — though without the tower itself. The cream-coloured stone facade, three sides of a wide plaza, holds dozens of ministries and government offices.

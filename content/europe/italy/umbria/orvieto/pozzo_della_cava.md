@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 42.7163
 longitude: 12.1074
+score: 7.6
 ---
 
 The Pozzo della Cava is a privately run underground complex in the oldest district of Orvieto — a network of nine caves, cisterns, Etruscan cellars, and a large medieval well that were discovered when the owners began renovating their building. The complex spans multiple layers of history from Etruscan times to the Renaissance, and the excavations are ongoing.

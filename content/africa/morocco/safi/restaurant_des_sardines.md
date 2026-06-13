@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 32.2890
 longitude: -9.2400
+score: 6.8
 ---
 
 The waterfront near the fishing harbour has several no-frills restaurants serving what Safi does better than almost anywhere in Morocco: grilled sardines. The sardine boats bring the catch in daily, and on a good day you can eat fish that were in the sea that morning, charcoal-grilled and served with flatbread, olives, and harissa.

@@ -15,6 +15,7 @@ story: >
   gone, but the pier — remarkably — remains.
 sources:
   - https://en.wikipedia.org/wiki/Pacasmayo
+score: 8.1
 ---
 
 Pacasmayo's historic pier dates to the 1870s, when the town was an active seaport serving the silver and copper mines of Cajamarca in the Andes. It stretches about 730 metres into the bay on wooden pilings — now weathered and repaired in places, but still intact and accessible. At night, the pier is lit with a string of lights that reflect on the water, and the view back to the colonial seafront is one of the classic images of the northern Peruvian coast.

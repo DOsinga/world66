@@ -8,6 +8,7 @@ tags:
 - monument
 title: Oesling Cross
 type: poi
+score: 6.4
 ---
 
 A 12.5-metre stone cross, erected in 1899 on the hillside just below the Abbey of Saint-Maurice, commemorates the Klëppelkrich — the "Cudgel War" of October 1798, when the rural Catholic peasants of northern Luxembourg rose against the French revolutionary administration. The insurrection began here in the Clervaux valley and spread across the Oesling region before being crushed by French troops at the village of Mersch.

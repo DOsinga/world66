@@ -9,6 +9,7 @@ tags:
 latitude: 38.0683
 longitude: -81.0833
 story: "When the bridge opened in 1977 it cut the drive across the gorge from 45 minutes to 45 seconds. For one Saturday every October — Bridge Day — the highway closes and the deck becomes the largest legal BASE-jumping event in the world: hundreds of jumpers leap off the rail into the gorge, while rappellers descend ropes and ordinary pedestrians are allowed to walk across for the only time all year."
+score: 9.3
 ---
 
 A staggering piece of engineering: 1,700 feet of curving steel arch standing 876 feet above the New River. From 1977 until 2003 it was the longest single-span steel arch bridge in the world; it's still the third longest. From the Canyon Rim Visitor Center on the north side there are two observation decks and a long boardwalk-and-staircase trail down to a lower platform that offers the best photo.

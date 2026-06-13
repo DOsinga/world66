@@ -10,6 +10,7 @@ story: >
   the living as well as the dead. The designer, Charles G. Bryant, modelled it on Mount
   Auburn Cemetery in Cambridge, Massachusetts. Scenes from the film adaptation of King's
   Pet Sematary were filmed here, including King's cameo as the minister.
+score: 7.8
 ---
 
 Mount Hope Cemetery was designed in 1836 and covers 300 acres on the edge of Bangor, making it one of Maine's largest and most historic burial grounds. The design follows the garden cemetery movement — winding paths, mature trees, gentle hills, and ornamental plantings that make it feel more like a park than a conventional burial ground. The headstones range from simple slate markers from the 1830s to elaborate Victorian monuments in granite.

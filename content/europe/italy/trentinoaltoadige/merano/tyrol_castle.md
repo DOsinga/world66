@@ -11,6 +11,7 @@ story: >
   Tyrol Castle is the founding seat of the County of Tyrol, from which the entire region takes its name. The Counts of Tyrol gradually extended their territory from here across the Alps during the 12th and 13th centuries until they controlled a swath of territory from the Brenner Pass to the Adriatic. When the last male heir died in 1363, Countess Margaret handed the county to the Habsburgs — setting off five centuries of Austrian rule over the region.
 sources:
   - https://en.wikipedia.org/wiki/Tyrol_Castle
+score: 8.1
 ---
 
 Tyrol Castle stands on a rocky spur above Merano, giving sweeping views across the valley and the town below. The castle was the ancestral seat of the Counts of Tyrol and dates in its earliest form to the 11th century, with significant rebuilding in the 12th–14th centuries. The Romanesque chapel doorways are considered the finest carved portals in the region, depicting figures and decorative motifs of considerable artistic quality for their period.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Gita_Press
 story: >
   Founded in 1923, Gita Press has sold more than 820 million copies of the Gita and other Hindu scriptures — making it one of the most prolific publishers in human history. Prices are kept deliberately low as a religious act: a copy of the Bhagavad Gita can be had for a few rupees, so that cost is never a barrier to reading.
+score: 8.0
 ---
 
 The Gita Press is one of the world's largest publishers of Hindu religious texts and has been based in Gorakhpur since its founding in 1923. Its main bookshop is a pilgrimage site in its own right: wall-to-wall shelves of the Bhagavad Gita, Ramcharitmanas, Upanishads, and other scriptures in dozens of Indian languages and scripts, all sold at prices well below market rate.

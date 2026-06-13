@@ -7,6 +7,7 @@ tags:
 latitude: 47.7949
 longitude: -4.2934
 snippet: 'A long sandy beach 800 metres west of the port, with views toward the Eckmuhl lighthouse at Penmarc''h.'
+score: 6.6
 ---
 
 The Greve Blanche is Guilvinec's main beach, a gentle crescent of fine sand stretching about a kilometre between the port and the rocky Pointe de Men Meur. It faces south, which means it catches the sun for most of the day and is sheltered from the prevailing northwesterly winds. The water is shallow and the gradient gradual, making it a good choice for families with young children.

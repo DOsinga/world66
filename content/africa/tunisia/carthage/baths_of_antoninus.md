@@ -14,6 +14,7 @@ tags:
 - historic
 title: Baths of Antoninus
 type: poi
+score: 9.2
 ---
 
 The Baths of Antoninus are the largest set of Roman thermae on the African continent and one of the most impressive surviving structures from Roman Carthage. They sit on the seafront just below the Byrsa hill, partly inside a protected archaeological park. The towering granite columns that mark the corners of the main hall still stand and give a sense of the scale of the original building — visitors entered through a series of cold rooms and passed through warm and hot bathing halls before exiting into the open swimming pool that faced the sea.

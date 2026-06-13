@@ -15,6 +15,7 @@ story: >
   supernatural difficulty, listing mountains that scrape the sky and gorges so
   deep they make birds dizzy. The landscape that inspired it still looks
   recognisably like the poem.
+score: 6.2
 ---
 
 The Li Bai Memorial Hall sits near the site traditionally identified as the poet's birthplace in the Jianmen road corridor. Li Bai (701–762 CE) was one of the two poets who defined the Tang Dynasty's golden age of verse — Du Fu was the other — and his association with this landscape, specifically the Shu Road and its terrifying passes, runs through a substantial part of his work. The memorial hall contains reproductions of manuscripts, biographical displays, and a garden designed around Tang-period aesthetics.

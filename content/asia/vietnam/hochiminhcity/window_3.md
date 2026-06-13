@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Window’s Garden Cafe
 type: poi
+score: 5.5
 ---
 
 An elaborately decorated cafe spread across multiple floors, each with a different theme. The ground-floor terrace is lush with greenery and water features. Upstairs rooms range from minimalist to ornate. The menu runs to coffee, smoothies, and ice-cream sundaes at prices above the Saigon average, but you are paying for the setting. Popular with local professionals for afternoon meetings and dates.

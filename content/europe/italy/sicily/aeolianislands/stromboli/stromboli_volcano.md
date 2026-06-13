@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Stromboli is the textbook example of 'Strombolian' eruption — a style of activity named after this very volcano, with regular small explosions of incandescent material from a half-open crater. The pattern has been documented in writing for more than two thousand years; Homer is sometimes thought to describe Stromboli in the Odyssey as the home of the bag of winds given to Odysseus by Aeolus."
+score: 9.6
 ---
 
 The cone of Stromboli rises 924 metres almost straight out of the Tyrrhenian Sea, and it has been erupting on a near-continuous schedule for at least 2,000 years. The summit craters fire small bursts of lava and rock every 10 to 30 minutes — often more dramatic at dusk, when the molten material glows against the dark sky.

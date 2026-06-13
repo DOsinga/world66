@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 19.32
 longitude: -69.537
+score: 6.5
 ---
 
 El Paseo is the pedestrian-friendly strip that runs parallel to the beach through the centre of Las Terrenas, anchoring the social life of the town in the evenings. Restaurants, bars, and small shops line both sides, and the mix reflects the town's unusual demographic: French bistros next to Dominican comedores, Italian gelato beside local rum shops. After dark it fills up gradually — the Caribbean is on its own schedule — and peaks around 9 or 10 p.m.

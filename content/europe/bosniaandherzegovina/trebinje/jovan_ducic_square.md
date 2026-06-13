@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The plane-tree-lined main square, the heart of Trebinje's evening korzo
+score: 7.6
 ---
 
 The plane-tree-lined main square between the old town walls and the river, and the social heart of Trebinje. The plane trees were planted by the Austro-Hungarians in the 1880s and now form a dense green canopy under which the cafes spill out their chairs and tables for most of the year.

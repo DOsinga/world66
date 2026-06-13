@@ -11,6 +11,7 @@ story: "Henry Flagler hired Louis Comfort Tiffany — then a relatively unknown 
 sources:
   - https://en.wikipedia.org/wiki/Ponce_de_Leon_Hotel
   - https://en.wikipedia.org/wiki/Flagler_College
+score: 8.8
 ---
 
 The Ponce de Leon Hotel, now Flagler College, is the most spectacular building in St. Augustine and one of the grandest Gilded Age structures in the United States. Railroad baron Henry Flagler commissioned it in 1887 from the architects Carrère and Hastings — it was their first major commission, and they rose to the occasion. The style blends Spanish Renaissance, Moorish, and Mission Revival elements into something that looks like a dream of Spanish colonial grandeur that the actual Spanish colonists could never have afforded.

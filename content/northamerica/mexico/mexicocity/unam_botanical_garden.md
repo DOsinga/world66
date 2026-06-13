@@ -5,6 +5,7 @@ snippet: "Mexican flora across 12 hectares on the university campus"
 tags: [things_to_do, sight, park]
 latitude: 19.3170
 longitude: -99.1816
+score: 7.0
 ---
 
 The botanical garden of the National University, on the southern edge of the Ciudad Universitaria campus, gathers more than 1,500 plant species native to Mexico — one of the most biodiverse countries on Earth — across a 12-hectare site of cactus desert, cloud forest, and pine-oak woodland.

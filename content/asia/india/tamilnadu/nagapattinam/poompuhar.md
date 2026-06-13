@@ -15,6 +15,7 @@ story: >
   settlement and found Roman coins and amphora sherds. Much of the ancient city now lies
   underwater — the sea level has risen several metres since the port's peak — and the
   submerged ruins have been partially explored by divers.
+score: 6.4
 ---
 
 Poompuhar (ancient Kaveripoompatinam) was the main port of the Chola kingdom in the early centuries CE, one of the great trading cities of the ancient world where ships from Rome, Arabia, and Southeast Asia unloaded their goods. The site lies 20 km north of Nagapattinam, at the mouth of the Kaveri River, and most of the ancient city is now underwater — submerged by a gradual rise in sea level over two millennia.

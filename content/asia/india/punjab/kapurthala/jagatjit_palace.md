@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Kapurthala
 story: >
   Maharaja Jagatjit Singh visited France repeatedly from the 1890s onward and became so captivated by Versailles that he hired French architects Alexandre Marcel and Paul Boyer to build him a scaled version in Punjab. The palace was completed in 1908 at enormous cost. When the maharaja died in 1949, the palace passed to the Indian government and was converted into the Sainik School military academy in 1961. It is now closed to the public — you can only see the exterior through the gates — which gives it an additional quality of melancholy grandeur.
+score: 7.3
 ---
 
 The Jagatjit Palace is the centrepiece of Maharaja Jagatjit Singh's project to make Kapurthala a "Paris of the East." Modelled on the Palace of Versailles and the Chateau de Fontainebleau, it was designed by French architects and completed in 1908. The facade presents an entirely convincing piece of French Baroque architecture, with the characteristic symmetry, mansard roofs, and formal gardens that you would expect to find in the Ile-de-France — placed inexplicably in the middle of Punjab.

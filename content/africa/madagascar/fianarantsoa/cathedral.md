@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Seat of the Catholic Archdiocese of Fianarantsoa, a 19th-century cathedral in the lower town
+score: 6.2
 ---
 
 The Holy Name of Jesus Cathedral is the principal Catholic church of the southern highlands and the seat of one of Madagascar's five Catholic archdioceses. The building sits in the lower town, off the main commercial drag, and is approached up a flight of steps that gives some sense of the local hierarchy — Catholicism arrived in this part of Madagascar with French missionaries in the 19th century and quickly took hold.

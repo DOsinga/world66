@@ -9,6 +9,7 @@ tags:
 story: Point Lobos was the first state reserve in California designated explicitly for nature protection rather than recreation, and it was the model for the entire California State Reserve system. The underwater reserve — established in 1960 — was one of the first marine protected areas in the United States and contains kelp forests where divers regularly encounter sea otters wrapped in fronds to keep from drifting while they sleep.
 title: Point Lobos State Natural Reserve
 type: poi
+score: 9.7
 ---
 
 The headland a mile south of Carmel village is one of the most spectacular stretches of Pacific coastline in the United States. Point Lobos State Natural Reserve protects a jagged, wildflower-covered peninsula above kelp forests and sea lion rocks. Sea otters float in the kelp beds along the shore; harbor seals haul out on the beaches; Brandt's cormorants nest on the offshore stacks. In winter, California gray whales are visible from the headlands on their migration south.

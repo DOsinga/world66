@@ -6,6 +6,7 @@ longitude: 4.0370
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 From the terrace beside the Collegiate Church the ground falls away to the Serein, the slow river that loops north toward Chablis. On a clear morning the view stretches across hedged pastures and clumps of woodland to the wooded ridge of the Morvan in the distance. Cattle and the occasional grey heron are the most you will see moving.

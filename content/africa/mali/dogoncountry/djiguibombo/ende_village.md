@@ -15,6 +15,7 @@ tags:
 - village
 title: Ende Village
 type: poi
+score: 8.3
 ---
 
 Ende is a Dogon village strung along the base of the Bandiagara Escarpment, a short walk south from Djiguibombo and one of the most accessible of the cliff-face villages. It sits at the foot of a vertical sandstone wall with the older Tellem dwellings and granaries visible high above — small stone structures clinging to ledges and recesses on the cliff face, several hundred years old and effectively unreachable.

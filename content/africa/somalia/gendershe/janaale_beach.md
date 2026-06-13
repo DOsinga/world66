@@ -7,6 +7,7 @@ tags:
 latitude: 1.8349
 longitude: 44.9668
 snippet: Long white-sand beach on the Indian Ocean, quiet and undeveloped
+score: 4.6
 ---
 
 A broad, undeveloped stretch of Indian Ocean beach that runs south from the settlement for several kilometres. The sand is fine and white, the water warm, and — in calmer times — this was precisely the kind of unspoilt coastline that travellers seek out. Coconut palms fringe the shore, and the fishing boats that still work the bay add some life to an otherwise empty landscape.

@@ -14,6 +14,7 @@ story: >
   master silversmiths in Dehang are typically the fourth or fifth generation
   in a continuous lineage. The tools used are almost unchanged from those
   visible in Qing dynasty paintings of Miao craftspeople.
+score: 6.8
 ---
 
 Dehang retains working craft workshops in a way that most tourist villages in western Hunan have lost. Miao silversmithing and embroidery are produced in the village by actual craftspeople rather than shipped in from factories elsewhere, and buying directly from workshop vendors — visible at work in their shopfronts — produces both better pieces and a more honest transaction than buying from the souvenir stalls at the gate.

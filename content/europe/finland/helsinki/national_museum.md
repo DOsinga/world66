@@ -8,6 +8,7 @@ longitude: 24.932778
 story: The entrance hall ceiling is frescoed with scenes from the Kalevala, painted
   by Akseli Gallen-Kallela in 1928. The door is pock-marked with bullet holes from
   a 1932 fascist attempt to storm parliament that ended at the museum steps.
+score: 8.8
 ---
 
 Finland's main historical museum, in a national-romantic granite building of 1916 by Saarinen, Lindgren, and Gesellius. Permanent galleries cover prehistory, the Swedish era, the Russian grand duchy, independence, and the wars. A separate gallery on the upper floor tells the story of everyday Finnish life through household objects.

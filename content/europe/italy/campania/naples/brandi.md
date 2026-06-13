@@ -12,6 +12,7 @@ tags:
 title: Pizzeria Brandi
 type: poi
 url: www.brandi.it
+score: 6.6
 ---
 
 Brandi claims the invention of the pizza Margherita, created here in 1889 for Queen Margherita of Savoy. The pizza is excellent and the history is real, but prices are higher than most Neapolitan pizzerias. Reservations recommended in high season.

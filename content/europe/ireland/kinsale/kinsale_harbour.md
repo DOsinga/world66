@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.7014
 longitude: -8.5192
+score: 7.2
 ---
 
 Kinsale Harbour is a sheltered inlet where the River Bandon meets the sea, and it has been the town's reason for existing since before recorded history. Today fishing boats, sailing yachts, and the occasional tall ship share the water, and the harbour front has been redeveloped with restaurants and a promenade without losing its working character. Seals are sometimes seen on the rocks near the entrance.

@@ -8,6 +8,7 @@ latitude: 36.1314
 longitude: 110.4508
 story: >
   The name "Hukou" — flask mouth — was given because the Yellow River, normally 300 metres wide, forces its entire flow through a gap barely 20 metres across before dropping into the gorge. In summer flood season the pressure at the constriction is so extreme that the water actually reverses flow upward at the sides, creating a boiling effect visible from the main viewing platform. The sound carries more than a kilometre away before you can see anything.
+score: 8.5
 ---
 
 The main viewing area along the Shanxi bank is developed with a paved walkway and a series of platforms at different heights, allowing you to look directly down into the gorge or view the falls from across the river. The best view is from the lower platform, reached by a steep staircase, where you are close enough to feel the spray and watch the churning base pool below the falls. In summer, rainbow mist hovers permanently above the gorge; in winter, ice formations build along the cliff faces and the flow narrows to reveal the raw geometry of the rock channel.

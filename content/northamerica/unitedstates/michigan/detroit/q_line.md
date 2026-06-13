@@ -7,6 +7,7 @@ tags:
 - sight
 title: QLine Streetcar
 type: poi
+score: 5.4
 ---
 
 The QLine is a 6.6-mile streetcar route along Woodward Avenue, opened in 2017 to connect downtown to Midtown and New Center. Twenty stops link the major attractions: Campus Martius, the Fox Theatre, Comerica Park, the Cass Corridor, the Detroit Institute of Arts, the Charles H. Wright Museum, and the Fisher Building. The cars run every 12 to 20 minutes.

@@ -6,6 +6,7 @@ tags:
 - practical_information
 title: Sants Station
 type: poi
+score: 2.8
 ---
 
 Sants Station (Barcelona Sants) is the city's main railway station and its busiest transport hub. Long-distance AVE trains to Madrid, Seville, and beyond depart from here, along with regional services to the Costa Brava, Girona, and Tarragona. The station sits at the intersection of metro lines 3 and 5, making connections straightforward.

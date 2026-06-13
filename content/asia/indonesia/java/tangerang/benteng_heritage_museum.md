@@ -12,6 +12,7 @@ story: >
   commercial positions along the Cisadane River. Indonesia has few museums focused
   specifically on the Peranakan experience, and this one, opened in 2011, was among
   the first to treat this history as something worth preserving in its own right.
+score: 7.4
 ---
 
 The Benteng Heritage Museum occupies a restored historic townhouse in Pasar Lama, the oldest part of Tangerang. It is dedicated to the history of Tangerang's Peranakan community — the descendants of Chinese immigrants who settled here from the 17th century onward and developed a distinct blend of Chinese and Malay culture.

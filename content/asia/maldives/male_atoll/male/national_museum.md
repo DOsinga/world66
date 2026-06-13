@@ -10,6 +10,7 @@ longitude: 73.5100
 snippet: "Royal regalia, ancient coral carvings, and pre-Islamic statues inside Sultan Park"
 story: >
   In February 2012 a group of religious extremists broke into the museum and smashed roughly thirty pre-Islamic coral and limestone statues — Buddhist and Hindu figures that had been recovered from across the atolls and were the only surviving physical evidence of the Maldives' pre-1153 religious past. A few of the damaged pieces are still on display.
+score: 8.2
 ---
 
 The National Museum sits inside Sultan Park, in a Chinese-funded three-storey building that replaced the original 1952 museum (which was housed in the last surviving wing of the old royal palace). The collection is small by international standards but punches above its weight: thrones, royal palanquins, ceremonial weapons, lacquered boxes and the personal effects of the last sultans share rooms with stone fragments salvaged from the country's pre-Islamic Buddhist and Hindu past.

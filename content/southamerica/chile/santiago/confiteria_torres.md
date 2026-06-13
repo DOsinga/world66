@@ -7,6 +7,7 @@ tags:
   - santiago_centro
 latitude: -33.4438
 longitude: -70.6560
+score: 7.6
 ---
 
 Confitería Torres has been operating on the Alameda since 1879, making it the oldest restaurant still functioning in its original location in Santiago. It looks it — in the best way. The carved wooden bar, the tiled floors, the mirrors, and the high ceilings are largely intact, and the menu is an exercise in Chilean classics executed with the consistency that comes from 140 years of practice.

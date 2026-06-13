@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 34.6937
 longitude: 135.5032
+score: 8.2
 ---
 
 A grand Neo-Classical public library at the eastern end of Nakanoshima island, completed in 1904 — one of the finest Meiji-era civic buildings in Japan. The exterior, designed by Noguchi Magoichi and Ito Chuta, features a colonnaded facade, a central dome, and two symmetrical side wings, all in white granite. The building looks entirely out of place and completely magnificent next to the modern city around it.

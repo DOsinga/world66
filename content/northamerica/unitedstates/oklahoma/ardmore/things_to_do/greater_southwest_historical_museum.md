@@ -1,6 +1,7 @@
 ---
 title: "Greater Southwest Historical Museum"
 type: poi
+score: 6.8
 ---
 
 The Greater Southwest Historical Museum is Ardmore's primary repository for the history of Carter County and the surrounding region. Housed in a purpose-built facility, it covers the full sweep of south-central Oklahoma history: the pre-statehood Chickasaw Nation era, the land runs and settlement period, the railroad's arrival in 1887, and the oil booms of the early twentieth century that briefly made Ardmore one of the wealthiest cities in the country per capita.

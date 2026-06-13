@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.8814
 longitude: 14.5191
+score: 5.7
 ---
 
 A small Baroque-Doric eighteenth-century church on the steep climb from the dockyard up to the main square. The facade is a restrained exercise in the Doric order that anticipates the great west front of the Immaculate Conception nearby. Inside, the single nave is unexpectedly bright, with whitewashed walls and a modest gilded altarpiece.

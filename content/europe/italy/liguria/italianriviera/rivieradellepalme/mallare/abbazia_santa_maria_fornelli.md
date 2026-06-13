@@ -12,6 +12,7 @@ story: >
   centuries. The Gothic-Lombard nave with its tunnel vaulting still shelters
   faint traces of medieval frescoes on the walls — fragments of colour that
   have survived eight hundred years of mountain winters.
+score: 7.9
 ---
 
 The former abbey of Santa Maria at the hamlet of Fornelli is the oldest and most architecturally interesting building in Mallare. Built in 1179 in a Gothic-Lombard style, it features a central nave flanked by two aisles, with tunnel vaulting overhead and traces of frescoes surviving on the interior walls.

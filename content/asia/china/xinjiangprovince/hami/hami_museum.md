@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 42.8306
 longitude: 93.5053
+score: 8.1
 ---
 
 The Hami Museum holds a collection of Bronze Age mummies excavated from the desert around the city — among the earliest evidence of Caucasian-featured populations in Central Asia, dating back 3,000 to 4,000 years. The mummies are preserved with exceptional completeness by the aridity of the Hami basin, and some still have hair, skin, and intact clothing made from wool and felt. They are related to the broader group of Tarim Basin mummies that include the Cherchen Man and the Beauty of Loulan.

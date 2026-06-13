@@ -9,6 +9,7 @@ longitude: -6.3569
 sources:
   - https://en.wikipedia.org/wiki/Manzanilla_(wine)
   - https://en.wikipedia.org/wiki/Hidalgo_(sherry)
+score: 8.6
 ---
 
 Manzanilla is what Sanlúcar does better than anywhere else on earth. It's a dry, pale fino sherry produced only in this town, and the salty sea air blowing in from the Atlantic — the poniente — is said to give it a distinctive tangy character that you can't replicate a few kilometres inland. The difference between manzanilla and a fino made in Jerez is real and obvious: manzanilla is lighter, saltier, and more delicate.

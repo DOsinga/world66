@@ -8,6 +8,7 @@ story: Bologna once had over 100 towers, status symbols for noble families. Only
 tags:
 - things_to_do
 - sight
+score: 8.9
 ---
 
 The Due Torri are what Bologna looks like in your memory after you leave. The taller Asinelli (97 metres) and the dramatically leaning Garisenda (48 metres) stand at the meeting point of the city's medieval main streets, where the road from Florence met the road from Padua. Both were built by noble families in the early twelfth century as defensive towers and demonstrations of wealth.

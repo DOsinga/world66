@@ -14,6 +14,7 @@ story: >
   Turks settled in their place soon moved on. A 1957 earthquake finished the
   job and the entire town has stood empty ever since, with around 500 houses
   slowly falling roofless into the valley.
+score: 8.5
 ---
 
 Kayaköy is the most affecting day trip from Hisaronu. The hillside above the Fethiye–Oludeniz road is covered in the stone shells of an entire Greek town that emptied out almost overnight a century ago — roofless houses, two big basilicas, chapels, schools, cisterns, all in soft creamy stone and overgrown with cypresses, figs, and pomegranates. There is a small admission gate and a marked path that loops up to the upper church and back down through the lower town. Reckon on two unhurried hours.

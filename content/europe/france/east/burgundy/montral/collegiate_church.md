@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The 26 oak choir stalls were carved in the early 16th century by a pair of itinerant brothers from a nearby workshop. One of the misericords shows two craftsmen — almost certainly self-portraits — sharing a flagon of wine, a quiet joke buried under the seats of the canons who would later sit on them."
+score: 8.6
 ---
 
 The Collegiate Church of Notre-Dame is the reason to come to Montréal. From the outside it is a modest late-Gothic building of pale Burgundian stone, set at the highest point of the village with a small terrace that looks out over the Serein valley. Step inside, though, and the interior comes alive with the extraordinary carved choir stalls that line the nave. The Biblical scenes, the saints, the cheeky misericords — figures pulling faces, drinking, fighting — are executed with a wit and confidence that you would expect at Auxerre or Beaune, not in a village this size.

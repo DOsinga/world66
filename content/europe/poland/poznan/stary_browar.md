@@ -17,6 +17,7 @@ story: >
   decoration.
 sources:
   - https://en.wikipedia.org/wiki/Stary_Browar
+score: 7.9
 ---
 
 Stary Browar — Old Brewery — is one of the most intelligent urban regeneration projects in Central Europe. A 19th-century beer factory on Półwiejska Street was converted between 1998 and 2007 into a mixed-use complex that combines high-end retail with a functioning contemporary art centre, preserving the industrial brick architecture throughout. The result is genuinely beautiful: red-brick brewery buildings connected by glass galleries, centred on a landscaped courtyard that functions as a public square.

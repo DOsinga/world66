@@ -8,6 +8,7 @@ tags:
 latitude: 23.0165
 longitude: 72.5754
 snippet: "Pink and yellow pedestrian bridge across the Sabarmati"
+score: 6.2
 ---
 
 The Atal Bridge opened in 2022 and is the centrepiece of the Sabarmati Riverfront. The 300-metre pedestrian bridge sweeps across the river in a single S-curve of pink and yellow steel, with two viewing decks at the deepest point of the bend and integrated planted gardens along the surface. The night lighting is the city's most popular Instagram backdrop.

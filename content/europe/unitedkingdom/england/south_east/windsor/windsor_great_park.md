@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.7
 ---
 
 Windsor Great Park is the surviving fragment of the medieval royal hunting forest that once stretched from Windsor to the south coast. It covers about 4,800 acres of parkland, woodland, and lakes, and is open to the public. The southern end has the formal Savill Garden, the Valley Gardens, and the steep-banked Virginia Water lake with its 30-metre Cascade waterfall and the genuine ruins of Roman columns from Leptis Magna in Libya, placed here by George IV in the 1820s.

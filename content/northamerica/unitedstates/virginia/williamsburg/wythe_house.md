@@ -9,6 +9,7 @@ latitude: 37.271667
 longitude: -76.703333
 snippet: The home of George Wythe, America's first law professor and mentor to Thomas Jefferson
 story: George Washington used the Wythe House as his headquarters immediately before the Siege of Yorktown in 1781 — the house served as the nerve centre of the Continental Army's planning for what would be the final major engagement of the American Revolution. Wythe himself was poisoned in 1806 by his grandnephew, who was trying to inherit his estate early. The murder trial became one of the most sensational legal cases in early American history.
+score: 7.9
 ---
 
 The Wythe House is one of the finest surviving pre-Revolutionary homes in America and was the residence of George Wythe — Virginia's most distinguished lawyer and legal scholar, America's first law professor, and the man who taught Thomas Jefferson the law. Jefferson considered Wythe his most important intellectual mentor, and the house was a salon for the Virginia Enlightenment.

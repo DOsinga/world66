@@ -13,6 +13,7 @@ story: >
   through in August, lean and purposeful. Quincy is a popular resupply stop — the
   post office sees dozens of hikers' food packages arrive each week through the
   summer.
+score: 8.0
 ---
 
 Bucks Lake Wilderness, about 17 miles southwest of Quincy, protects 23,000 acres of high Sierra country: granite peaks, glacial lakes, meadows, and dense mixed-conifer forest. The Pacific Crest Trail runs through the heart of it. Day hikes are possible from the Bucks Lake trailhead, and the lake itself — at about 5,150 feet elevation — is excellent for trout fishing.

@@ -9,6 +9,7 @@ story: >
   was deflecting his compass. Modern surveys have found no unusual magnetic anomaly —
   historians believe Cook may have been experiencing compass errors from another cause
   entirely. The name stuck regardless.
+score: 7.3
 ---
 
 Arcadia is the most relaxed of Magnetic Island's four settlements — a small cluster of accommodation, cafes, and a pub set back from the beach. The beach itself is gentler and less busy than Horseshoe Bay, with the Geoffrey Bay snorkel reef immediately to the north. This is where many longer-stay visitors prefer to base themselves, away from the backpacker energy of Horseshoe Bay.

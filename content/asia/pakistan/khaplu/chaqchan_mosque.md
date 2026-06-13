@@ -9,6 +9,7 @@ latitude: 35.1561
 longitude: 76.3306
 story: >
   The mosque was built around 1370 CE by the Sufi missionary Mir Sayyid Ali Hamadani during the Islamisation of Baltistan. The name "Chaqchan" translates roughly as "The Miraculous," a name given after the saint reportedly performed a series of wonders here. The tiered wooden pavilion roof is a style that arrived with Islam from Kashmir and Central Asia and has no predecessor in the indigenous Balti tradition.
+score: 8.2
 ---
 
 The Chaqchan Mosque is one of the oldest surviving religious buildings in Gilgit-Baltistan, traditionally dated to the 14th century when a Sufi missionary from Kashmir brought Islam to the Balti people. The structure is built of timber and stone in a style that blends Central Asian and Kashmiri influences — a tiered wooden roof rises above the main prayer hall, supported by carved wooden pillars.

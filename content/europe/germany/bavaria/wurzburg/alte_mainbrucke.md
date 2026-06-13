@@ -13,6 +13,7 @@ story: >
   from 1473–1543, making it the third-oldest bridge over the Main still standing.
   The twelve baroque sandstone statues of saints were added between 1730 and 1740, each
   commissioned by a different prince-bishop, each slightly different in style.
+score: 8.3
 ---
 
 The Alte Mainbrücke is Würzburg's central gathering point: a medieval stone bridge lined with twelve baroque statues of saints, connecting the old town to the Marienberg hill. In summer, the adjacent wine stands sell Franken wine by the glass, and on warm evenings the bridge fills with locals and visitors doing the **Brückenschoppen** — the Würzburg tradition of drinking a glass of wine on the bridge while watching the sun go down behind the fortress. It is the essential Würzburg experience, simple and utterly pleasant.

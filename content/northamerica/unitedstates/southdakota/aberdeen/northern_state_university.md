@@ -6,6 +6,7 @@ longitude: -98.4836
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A public liberal-arts university of around 3,500 students, NSU's campus south of downtown is the prettiest part of Aberdeen, with shaded lawns, the Spafford Hall bell tower, and a recently renovated quad. The university's Johnson Fine Arts Center hosts gallery shows, theatre productions, and concerts open to the public throughout the academic year.

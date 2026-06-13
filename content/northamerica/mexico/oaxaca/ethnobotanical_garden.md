@@ -11,6 +11,7 @@ snippet: A former monastery garden showcasing the extraordinary plant diversity 
 story: "The garden was established in 1994 in the grounds of the former Santo Domingo convent after a standoff between the Mexican army, which had occupied the site since 1938, and Oaxacan artists and intellectuals who wanted it returned to the public. The army eventually left; the garden now covers more than two hectares of what had been a military barracks."
 sources:
   - https://en.wikipedia.org/wiki/Oaxaca_Ethnobotanical_Garden
+score: 8.4
 ---
 
 The Jardín Etnobotánico de Oaxaca occupies the grounds of the former Dominican convent of Santo Domingo, directly behind the Templo de Santo Domingo church. It is not a decorative garden but a working research collection: more than 2,000 species native to Oaxaca state, one of the most biodiverse regions in Mexico, are grown here in conditions that replicate their natural habitats. The collection includes the iconic columnar cacti of the Mixtec region, the maguey agaves from which mezcal is distilled, cochineal-producing nopal cacti, native corn varieties, and dozens of medicinal plants still used in indigenous communities.

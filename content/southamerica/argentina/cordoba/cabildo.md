@@ -11,6 +11,7 @@ latitude: 31.4163
 longitude: -64.1842
 neighbourhood: Centro
 story: "When Spain abolished the cabildo system in the early 19th century, most colonial city halls across Latin America were demolished. Córdoba's survived only because the city used it as the provincial police headquarters for the next 150 years."
+score: 8.4
 ---
 
 The old colonial town hall directly across Plaza San Martín from the cathedral is one of the oldest surviving cabildos in South America. The two-storey arcaded facade dates mostly from a late-18th-century rebuilding, but parts of the structure go back to the 1580s.

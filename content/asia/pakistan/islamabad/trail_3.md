@@ -6,6 +6,7 @@ longitude: 73.0631
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Trail 3 is the most popular of the Margalla Hills hiking routes — five kilometres of steady uphill from the F-6 trailhead to the Pir Sohawa ridge, gaining about 600 metres of altitude. The path is well-maintained, signed and used by locals every morning before the heat builds.

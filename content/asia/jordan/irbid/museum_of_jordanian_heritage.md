@@ -10,6 +10,7 @@ story: >
   The museum's collection traces human settlement in Jordan from the Lower Palaeolithic — roughly 500,000 years ago — through the Ottoman period. Its prize exhibit is a plaster cast of a prehistoric human face, one of the oldest surviving examples of portraiture in the world, dating to around 7,500 BCE and found at 'Ain Ghazal near Amman.
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Jordanian_Heritage
+score: 7.3
 ---
 
 Located on the campus of Yarmouk University, the Museum of Jordanian Heritage is the best archaeological museum in northern Jordan and an underrated stop on any route through the region. Its collections span Jordan's entire human story, from Stone Age flint tools and Bronze Age pottery through Nabataean, Roman, Byzantine, and Islamic artefacts — all well-labelled and logically laid out.

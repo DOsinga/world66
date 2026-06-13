@@ -6,6 +6,7 @@ longitude: -107.9657
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Pueblo del Arroyo sits at the bend of the Chaco Wash where the canyon widens, a four-storey great house of about 280 rooms. It is one of the later builds — most of the construction is twelfth century — and the masonry shows it: thin, even slabs in the "McElmo" style that mark the final Chacoan phase.

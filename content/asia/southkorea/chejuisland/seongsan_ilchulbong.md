@@ -14,6 +14,7 @@ story: >
   most of Jeju. The crater at the summit was once used as a communal grazing
   ground by villagers, and the 99 rock columns around the rim were historically
   called the "Castle of 99" because their count was used to tax land.
+score: 8.9
 ---
 
 Seongsan Ilchulbong — Sunrise Peak — is Jeju's most iconic landmark: a 182-metre tuff cone connected to the mainland of Jeju Island by a narrow isthmus, rising directly from the sea. The UNESCO World Heritage designation is well earned. The view from the summit, looking out over the flat agricultural interior of Jeju to the west and the open ocean to the east, is one of the best on the island.

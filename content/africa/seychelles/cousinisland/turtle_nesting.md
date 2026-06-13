@@ -8,6 +8,7 @@ tags:
 latitude: -4.3323
 longitude: 55.6644
 snippet: "One of the western Indian Ocean's most important hawksbill turtle nesting sites — active October to February"
+score: 8.8
 ---
 
 Cousin Island is recognised as one of the most significant hawksbill turtle nesting sites in the western Indian Ocean. Female turtles come ashore between October and February to lay their eggs in the beach sand, returning multiple times in a season. The conservation programme has monitored and protected these nests since the island was made a reserve in 1968, producing a long-term dataset that documents the slow recovery of this critically endangered species.

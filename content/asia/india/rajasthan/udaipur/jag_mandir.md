@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Jag Mandir
 type: poi
+score: 8.5
 ---
 
 An island palace on Lake Pichola, begun in the early 17th century and used as a refuge by Mughal prince Shah Jahan when he was in rebellion against his father. The yellow sandstone structure with its elephant-flanked entrance is striking from the water. You can visit by boat from the City Palace jetty.

@@ -14,6 +14,7 @@ tags:
 neighbourhood: Gare
 title: Den Atelier
 type: poi
+score: 6.3
 ---
 
 The city's main live music venue, a short walk from the train station. Den Atelier books a serious range of international acts — indie, metal, hip-hop, electronic — and has built a strong reputation for sound quality. Check their programme before you arrive; tickets sell out fast for the bigger shows.

@@ -11,6 +11,7 @@ story: >
   The Grumeti crocodiles are the largest concentration of large Nile crocodiles in East Africa. They wait in the pools all year for the annual delivery of wildebeest, growing to enormous size on a diet that is intensely seasonal — months of near-starvation followed by weeks of abundance. The largest males exceed 5 metres. Unlike the Mara, the Grumeti crossings happen in a part of the Serengeti with fewer visitors, which means you may watch a crossing with very few other vehicles present.
 sources:
   - https://en.wikipedia.org/wiki/Grumeti_River
+score: 8.3
 ---
 
 The Grumeti River crosses the western Serengeti and is the first major water obstacle the migrating herds encounter as they move north from the southern plains in May and June. The crossings here are less famous than those at the Mara River but no less dramatic: large pools below the crossing points hold populations of enormous Nile crocodiles waiting for the seasonal bonanza, and hippos occupy the deeper stretches.

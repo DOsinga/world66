@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6558
 longitude: 116.9944
+score: 7.0
 ---
 
 Tang Song (唐宋食府) is one of Jinan's most regarded traditional Shandong cuisine restaurants, serving the formal version of Lu cuisine — the banquet style that developed in the imperial kitchens and remains the most technically complex branch of Chinese cooking. The Yellow River carp here is prepared in the classic jiutai fashion: fried crisp, then finished in a sweet-and-sour sauce that lacquers the skin while leaving the flesh moist. The braised sea cucumber and the nine-turn large intestine (a signature Shandong dish, far better than the name sounds) are also good.

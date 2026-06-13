@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -0.0310
 longitude: 109.3270
+score: 8.1
 ---
 
 Pontianak's Chinese quarter stretches along Jalan Diponegoro and the lanes behind Pasar Flamboyan, a dense concentration of shophouses, temples, and market stalls reflecting the city's large Hakka and Teochew Chinese population. Many of the families here have been in Pontianak for five or six generations — they came as traders and miners in the 18th and 19th centuries and never left.

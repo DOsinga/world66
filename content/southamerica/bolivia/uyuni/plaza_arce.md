@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.4633
 longitude: -66.8254
+score: 4.2
 ---
 
 The town's main square is a modest affair — a clock tower, a few trimmed conifers, benches around the perimeter, and the church of San Felipe de Jesús facing the open side. The plaza fills up briefly in the early evening, when residents come out to walk before dinner and street vendors set up with anticucho and salteñas.

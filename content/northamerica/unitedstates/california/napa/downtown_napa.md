@@ -8,6 +8,7 @@ snippet: Riverfront downtown with restaurants, tasting rooms and historic buildi
 tags:
 - things_to_do
 - neighbourhood
+score: 8.4
 ---
 
 Downtown Napa was, for most of the twentieth century, a quiet county seat eclipsed by the valley's grander wine towns. Sustained redevelopment over the past two decades has turned it into a destination in its own right, with a riverfront promenade, more than two dozen downtown tasting rooms, a substantial restaurant scene and a refurbished Victorian core.

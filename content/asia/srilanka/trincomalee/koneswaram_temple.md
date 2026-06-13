@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Koneswaram_Temple
 story: >
   The original Koneswaram temple — known as the Temple of a Thousand Pillars — was destroyed by the Portuguese in 1624. They dismantled the structure and used the stone to reinforce Fort Frederick. In 1950, a statue of Shiva was found on the seabed below Swami Rock, apparently thrown from the headland by the Portuguese. The discovery led to a revival of the site and the construction of the current temple complex.
+score: 9.0
 ---
 
 Koneswaram Temple perches on Swami Rock, the headland that forms the eastern tip of the Trincomalee promontory, with the sea on three sides and the harbour visible below. It is one of the Pancha Ishwarams — the five sacred abodes of Shiva in Sri Lanka — and a major pilgrimage site for Hindus across the island and from Tamil Nadu.

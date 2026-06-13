@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.805
 longitude: 2.12222
+score: 9.0
 ---
 
 The Chapelle Royale is the fifth chapel built at Versailles, completed in 1710 and the last major addition to the palace under Louis XIV. It stands at the north end of the main building, its white stone interior rising through two levels: the court worshipped from an upper royal gallery, while the king stood directly above the altar — a spatial arrangement that made clear whose prayers were most important.

@@ -9,6 +9,7 @@ longitude: 21.0154
 snippet: "Neoclassical monument to the astronomer who stopped the sun and moved the earth, on Krakowskie Przedmieście"
 sources:
   - https://en.wikipedia.org/wiki/Copernicus_Monument,_Warsaw
+score: 6.1
 ---
 
 The Copernicus Monument stands in front of the Polish Academy of Sciences on Krakowskie Przedmieście. Bertel Thorvaldsen's bronze statue, unveiled in 1830, shows the astronomer holding an armillary sphere. The inscription reads, in the original Polish: "To Copernicus from his fellow countrymen." During the Nazi occupation, Germans tried to replace it with a monument bearing a German inscription — Polish resistance fighters damaged the new plaque twice until the Germans gave up.

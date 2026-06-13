@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - neustadt
+score: 6.7
 ---
 
 The "Tanzmeisterhaus" on Makartplatz is where the Mozart family lived from 1773 to 1787, the years of Wolfgang's growing fame. The original building was destroyed by an Allied bomb in 1944 and faithfully reconstructed for the 250th anniversary of Mozart's birth.

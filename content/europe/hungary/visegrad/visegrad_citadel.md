@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   In 1335, the kings of Hungary, Bohemia, and Poland met at Visegrad to negotiate a trade alliance against Vienna — bypassing the powerful Austrian city entirely. The resulting agreement, later called the Congress of Visegrad, is considered the first international summit in Central European history and directly prefigures the modern Visegrad Group of nations formed in 1991.
+score: 9.2
 ---
 
 The Visegrad Citadel sits high above the Danube on a wooded ridge, its towers visible for miles in either direction along the river. Built in the 13th century and expanded over the following centuries, the castle served as Hungary's most important royal fortress and guarded the Hungarian crown jewels for decades. The largely intact walls and towers make it one of the better-preserved medieval fortresses in Central Europe.

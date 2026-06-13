@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.2535
 longitude: 120.1386
+score: 8.0
 ---
 
 The Zhejiang Provincial Museum occupies a series of traditional buildings on Lone Hill island in the northern part of West Lake — the island that gives West Lake its most photogenic winter view when snow dusts the plum trees. The collection spans 7,000 years of Zhejiang history: Neolithic jade from the Liangzhu culture (among the oldest jade objects in China), Song dynasty ceramics from the Longquan kilns, and a strong collection of bronzes and paintings.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 28.7010
 longitude: 115.8600
+score: 6.8
 ---
 
 The Jiangxi Art Gallery (江西美术馆) in Honggutan is the province's main public venue for contemporary and traditional Chinese art exhibitions. The permanent collection includes ink paintings and calligraphy by twentieth-century Jiangxi artists alongside rotating exhibitions of contemporary work from across China. The gallery building is part of the broader cultural campus in Honggutan that also includes the provincial museum and a concert hall.

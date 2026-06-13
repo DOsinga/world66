@@ -6,6 +6,7 @@ longitude: 4.3569
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 One of Delft's most consistently recommended restaurants for traditional Dutch cooking. The menu focuses on seasonal Dutch ingredients prepared in a straightforward style: herring, stamppot, game in season, and well-sourced meat dishes. The interior is warm and canal-house cosy, and the service is unhurried in the Dutch fashion — nobody will rush you out.

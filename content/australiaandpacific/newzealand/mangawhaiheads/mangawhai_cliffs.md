@@ -7,6 +7,7 @@ tags:
 - nature
 latitude: -36.085
 longitude: 174.595
+score: 7.3
 ---
 
 The Mangawhai Cliffs form the eastern edge of the headland, dropping vertically into the Pacific north of the harbour entrance. The cliff faces are layered sandstone and the small bay at their base — sometimes accessible at low tide, often not — is one of the prettiest spots on this coast.

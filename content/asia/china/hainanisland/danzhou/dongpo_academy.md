@@ -13,6 +13,7 @@ story: >
   unable to afford adequate food or medicine, yet continued writing. His Hainan
   poems are considered among his finest. He left in 1100 and died the following year,
   having never returned to the court that exiled him.
+score: 8.2
 ---
 
 Dongpo Academy is a memorial complex built in honour of Su Dongpo (Su Shi, 1037–1101), one of the greatest literary figures of the Song dynasty, who spent three years in Danzhou during a period of imperial exile at the end of the eleventh century. The Zaijiutang pavilion — the building where Su Dongpo lived and gave lectures during his exile — is the oldest surviving structure on the site, established in 1098. The broader academy complex was built in his memory in subsequent centuries.

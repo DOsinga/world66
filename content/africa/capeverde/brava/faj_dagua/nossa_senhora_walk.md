@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.0
 ---
 
 The old bridle path from Faja d'Agua to the inland village of Nossa Senhora do Monte is the classic Brava hike. It climbs steeply out of the bay through a tight valley, then opens onto the high green plateau in the centre of the island. Two and a half hours up, less coming down.

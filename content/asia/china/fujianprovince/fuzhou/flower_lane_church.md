@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.6
 ---
 
 Flower Lane Church (Huaxiang Christian Church) is a Protestant church in the historic heart of Fuzhou, founded in 1845 by American Methodist missionaries. It is one of the oldest Christian churches in Fujian and has been an active congregation continuously since its founding. The current building dates from the Republican era and has a Gothic-influenced facade unusual in the Chinese urban landscape.

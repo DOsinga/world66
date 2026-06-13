@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - nature
+score: 6.5
 ---
 
 Hokio Beach is a long, grey-sand strand on the Tasman coast, ten kilometres west of Levin, where the Hokio Stream drains Lake Horowhenua into the sea. It is a working coast rather than a holiday one — driftwood, surfcasting rods, occasional four-wheel-drives running for whitebait — and the surf is unpredictable, with strong rips and no patrols. Swim with care or not at all.

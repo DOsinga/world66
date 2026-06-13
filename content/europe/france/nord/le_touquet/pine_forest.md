@@ -9,6 +9,7 @@ latitude: 50.5100
 longitude: 1.6100
 sources:
   - https://en.wikipedia.org/wiki/Le_Touquet
+score: 7.4
 ---
 
 The pine forest that borders Le Touquet to the east and south was planted deliberately as part of the town's original development in the late 19th century. It is now a proper forest of several hundred hectares, criss-crossed by footpaths and cycling tracks.

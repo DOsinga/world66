@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.9328
 longitude: 79.8355
+score: 5.2
 ---
 
 The French War Memorial stands at the southern end of the Rock Beach promenade, commemorating the soldiers from Pondicherry who died in the First World War fighting under the French flag. The monument is a handsome stone structure in classical style, and the inscription reminds visitors that Pondicherry residents served in the French army — a fact easily forgotten in a territory that is now thoroughly Indian.

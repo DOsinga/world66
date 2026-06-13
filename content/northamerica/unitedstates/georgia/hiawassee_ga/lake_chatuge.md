@@ -6,6 +6,7 @@ longitude: -83.785
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Lake Chatuge is a 7,050-acre reservoir on the Hiwassee River straddling the Georgia–North Carolina border, created by the Tennessee Valley Authority's Chatuge Dam in 1942. The lake is the centrepiece of outdoor life in Hiawassee: boat ramps, marinas, and a public beach are all accessible from town, and the surrounding mountain scenery is particularly vivid in autumn.

@@ -8,6 +8,7 @@ tags:
 - culture
 title: Teatro Municipal Alberto Saavedra Pérez
 type: poi
+score: 7.1
 ---
 
 The Teatro Municipal is the main performing arts venue in La Paz, a neoclassical building dating from 1845 that sits a short walk from El Prado. The interior has been restored and the programme covers ballet, classical music, theatre, and opera, as well as Bolivian folk performances. Ticket prices are reasonable by any standard and genuinely cheap by European ones.

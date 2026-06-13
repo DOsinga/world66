@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Zutphen
+score: 7.4
 ---
 
 The waterfront promenade along the IJssel river, where the old Hanseatic warehouses face the water. The quayside has a very different character from the medieval interior of the town — wider, windier, with the broad river visible in both directions and the flat Gelderland polder landscape stretching beyond. On summer evenings the café terraces here fill up and the setting is as good as any small Dutch town can offer.

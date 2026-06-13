@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 48.8000
 longitude: -120.0500
+score: 8.8
 ---
 
 The Pasayten Wilderness covers more than half a million acres on the west side of Okanogan County, stretching to the Canadian border — one of the largest and most remote wilderness areas in Washington state. There are no roads inside it. Trails run for hundreds of miles through lodgepole pine forests, open ridgelines, subalpine meadows, and river valleys that see almost no foot traffic by Pacific Northwest standards. The Cascade Crest and the border are both reachable on foot.

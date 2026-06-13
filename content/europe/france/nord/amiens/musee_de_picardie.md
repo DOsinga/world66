@@ -8,6 +8,7 @@ latitude: 49.8906
 longitude: 2.2952
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Picardie
+score: 7.9
 ---
 
 The Musée de Picardie is one of the finest regional museums in northern France, housed in a magnificent Second Empire building from the 1860s. The collections cover three main areas: Greek and Roman antiquities from the region, medieval art including an outstanding set of Grisaille paintings from the cathedral, and French paintings from the seventeenth century to the twentieth.

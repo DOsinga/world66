@@ -15,6 +15,7 @@ story: >
   When the Green Revolution of the 1970s pushed chemical fertilisers and new rice varieties 
   that disrupted the old planting cycles, pest infestations increased dramatically. It took 
   decades for the value of the traditional system to be officially recognised.
+score: 7.9
 ---
 
 The Tegallalang rice terraces, about 9 km north of Ubud on the road toward Kintamani, are among the most dramatic in Bali — a cascade of green terraces dropping down a steep river valley, maintained by the traditional subak cooperative water management system. The view from the road above is the classic image, but you get a better sense of the scale and beauty by walking down into the terraces on the paths between the paddies.

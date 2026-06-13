@@ -7,6 +7,7 @@ tags:
 snippet: "Landscaped riverside park along the Lis through the city"
 latitude: 39.7440
 longitude: -8.8085
+score: 6.5
 ---
 
 The Lis river was channelised through Leiria during the 2000s as part of the national Programa Polis urban-renewal scheme, turning what had been a neglected industrial strip into a continuous riverside park. A landscaped walkway runs for several kilometres along both banks, with cycle paths, footbridges, and small terraced gardens.

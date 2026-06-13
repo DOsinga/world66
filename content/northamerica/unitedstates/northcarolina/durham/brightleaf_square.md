@@ -4,6 +4,7 @@ type: poi
 latitude: 35.9999
 longitude: -78.9043
 tags: [things_to_do, sight, neighbourhood]
+score: 6.5
 ---
 
 Brightleaf Square occupies a pair of 1900s tobacco warehouses on the western edge of downtown — slightly older and smaller than the American Tobacco Campus, and converted into a shopping-and-dining complex back in the 1980s when downtown Durham was still firmly in decline.

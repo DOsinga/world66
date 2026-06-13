@@ -6,6 +6,7 @@ longitude: -114.347
 tags:
   - things_to_do
   - sport
+score: 6.3
 ---
 
 The Sun Valley resort runs two 18-hole courses, one designed by Robert Trent Jones Jr. in 1980 and the other a shorter "white clouds" course laid out by Jim Engh. Both run along Trail Creek with the Boulder Mountains as a backdrop and the elevation knocks a few yards off your distances.

@@ -7,6 +7,7 @@ snippet: Second great church of Groningen, with a leaning steeple and famous org
 tags:
 - things_to_do
 - religious_site
+score: 7.9
 ---
 
 The other tower on the Groningen skyline. The Aa-Kerk stands just off the Vismarkt, named for the small River Aa it once overlooked. The first version was built in the 13th century; the steep red-brick tower as you see it now is from 1710, after the previous one collapsed twice — first in 1671, then again less than a century later.

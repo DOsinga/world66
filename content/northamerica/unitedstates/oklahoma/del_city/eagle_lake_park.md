@@ -13,6 +13,7 @@ story: >
   City Audubon Society lists it among the area's accessible urban sites, and keen-eyed
   visitors have logged a surprising number of waterfowl and shorebird species here given
   how hemmed in by suburb the lake is.
+score: 5.9
 ---
 
 Eagle Lake sits in the northern part of Del City and is the city's only significant body of water. It is stocked with bass, catfish, bluegill, carp, trout, and crappie, making it a popular spot with local anglers who know to get there early on weekend mornings.

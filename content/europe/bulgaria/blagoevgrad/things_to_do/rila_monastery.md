@@ -9,6 +9,7 @@ longitude: 23.3405
 snippet: The greatest monastery in Bulgaria, a UNESCO World Heritage Site 45km from Blagoevgrad
 sources:
   - https://en.wikipedia.org/wiki/Rila_Monastery
+score: 9.2
 ---
 
 The most important religious site in Bulgaria and one of the most visited in the Balkans. The Rila Monastery was founded in the 10th century by St. Ivan Rilski — a hermit who retreated to the Rila Mountains and gathered disciples — and has been rebuilt multiple times after fires, most recently and most spectacularly in the early 19th century. The current monastery complex, with its striped arches, painted frescoes, and central Hrelyo Tower (the only medieval structure to survive), is among the most beautiful architectural ensembles in the Balkans.

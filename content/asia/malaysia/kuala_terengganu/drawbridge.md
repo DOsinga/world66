@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.3398
 longitude: 103.1448
+score: 6.6
 ---
 
 The Kuala Terengganu Drawbridge (Jambatan Angkat) is a bascule bridge — a type of drawbridge — spanning the Terengganu River at its mouth. It is one of the few functioning drawbridges in Malaysia and provides the main river crossing between the city and the northern shore. The bridge opens periodically to allow boats to pass, and watching the mechanism in action is a minor but genuine spectacle.

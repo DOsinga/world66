@@ -7,6 +7,7 @@ longitude: 98.304393
 snippet: Quiet national park beach just south of Phuket Airport
 tags:
 - things_to_do
+score: 7.5
 ---
 
 Nai Yang sits on the northwest coast of Phuket, about 3 km south of the airport. Much of the beach falls within Sirinath National Park, which keeps it undeveloped — no resort strip, just casuarina trees and a handful of beachside restaurants. The name translates roughly as "inside the rubber" after the rubber plantations that once lined the shore.

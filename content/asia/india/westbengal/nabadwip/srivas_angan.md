@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 23.4242
 longitude: 88.3851
+score: 7.2
 ---
 
 A modest courtyard temple inside the Mayapur area, marking the site where Chaitanya is said to have led nightly *sankirtan* — the singing and dancing devotion that became the central practice of Gaudiya Vaishnavism. The original house belonged to Srivas Pandit, Chaitanya's closest friend and patron.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 title: Galway's Land National Park
 type: poi
+score: 7.0
 ---
 
 Galway's Land is a small national park — just 27 hectares — of dense montane forest at the edge of Nuwara Eliya. It sounds modest, but the forest is genuinely different from the surrounding tea estates: thick, dripping, with ferns, mosses, and Rhododendron arboreum that flowers bright red in spring. A short trail winds through the park and takes about an hour to walk.

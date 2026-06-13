@@ -15,6 +15,7 @@ story: >
   St. Croix was one of the most important slaving economies in the Danish
   Caribbean, and the plantations that surrounded Christiansted made it
   briefly among the wealthiest small towns in the Atlantic world.
+score: 9.0
 ---
 
 Christiansted National Historic Site preserves the most intact collection of 18th-century Danish colonial architecture in the Caribbean. The site encompasses Fort Christiansvaern, the Scale House (the old customs building), the Danish West India and Guinea Company Warehouse, the Steeple Building (the island's first Danish Lutheran church), and the old Public Market. Together they form a tight cluster along the harbor that gives a remarkably complete picture of what a prosperous Danish colonial port looked like in 1750.

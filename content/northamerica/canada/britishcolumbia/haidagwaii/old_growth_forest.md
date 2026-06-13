@@ -13,6 +13,7 @@ story: >
   floors. Grizzly bears never colonised the islands after the last ice age, leaving
   the black bear to evolve in their absence into the dominant large predator — growing
   noticeably larger than mainland black bears as a result.
+score: 8.2
 ---
 
 The old-growth temperate rainforest of Haida Gwaii is one of the finest examples remaining in the Pacific Northwest. Sitka spruce reaching 90 metres in height, western red cedars with bases requiring eight people to encircle, and a forest floor thick with moss and ferns that has been undisturbed for centuries — this is what much of the BC coast looked like before logging changed it. Walking into old growth is like walking into a cathedral.

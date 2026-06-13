@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Easy roadside cafe-restaurant with Catalan Mediterranean dishes
+score: 5.1
 ---
 
 A relaxed roadside cafe and bar near the port end of town, with a long Mediterranean-leaning menu. The **Marine Salad** — squid, mussels and prawns over crisp lettuce — is the safe bet on a hot day. The **Escalivade** (vegetables roasted in olive oil and dressed with anchovy) is a respectable vegetarian option that reaches back to the Catalan farmhouse tradition.

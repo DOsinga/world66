@@ -10,6 +10,7 @@ longitude: -131.5963
 sources:
   - https://en.wikipedia.org/wiki/Saxman_Totem_Park
   - https://en.wikipedia.org/wiki/Saxman,_Alaska
+score: 7.7
 ---
 
 Saxman is a Tlingit community about three miles south of downtown Ketchikan, home to one of the largest collections of standing totem poles in the world — more than two dozen poles line the park beside the village. The community operates guided tours that explain the crests, clans, and stories represented in the carvings; the guides are often tribal members, and the experience is considerably richer than reading a sign.

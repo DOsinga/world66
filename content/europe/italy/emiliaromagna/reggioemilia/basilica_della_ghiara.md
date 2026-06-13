@@ -8,6 +8,7 @@ latitude: 44.6989
 longitude: 10.6262
 sources:
   - https://en.wikipedia.org/wiki/Basilica_della_Ghiara
+score: 8.6
 ---
 
 The Basilica della Ghiara is Reggio Emilia's most theatrically beautiful church, a late-Renaissance and early Baroque masterpiece built between 1597 and 1619 on the site of a miraculous image. The exterior is pleasingly simple — a domed rotunda with a restrained facade — but the interior is extraordinary: every inch covered with seventeenth-century frescoes by the leading painters of Emilia-Romagna, most notably Ludovico Carracci and Alessandro Tiarini.

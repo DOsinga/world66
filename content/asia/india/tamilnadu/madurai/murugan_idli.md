@@ -8,6 +8,7 @@ longitude: 78.1228
 tags:
 - eating_out
 - restaurant
+score: 6.5
 ---
 
 The original Murugan Idli Shop on West Masi Street has been serving south Indian breakfasts since the 1960s and is the standard against which other Madurai idli is measured. The idlis are large, soft, and served on banana leaves with multiple chutneys — coconut, tomato, mint — and a bowl of small-onion sambar.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 40.0419
 longitude: -76.3008
+score: 5.2
 ---
 
 Musser Park is the green centre of downtown Lancaster, four blocks northeast of Penn Square. The park sits on a single city block, with shade trees, benches, a playground, and a small bandshell that hosts the city's summer concert series. The Lancaster Recreation Commission runs free outdoor yoga and movie nights here in good weather.

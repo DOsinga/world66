@@ -9,6 +9,7 @@ longitude: -155.0850
 address: 1730 Kamehameha Ave, Hilo, HI 96720
 phone: (808) 935-8711
 snippet: 24-hour Hilo diner famous for malasadas and plate lunches
+score: 5.7
 ---
 
 Ken's House of Pancakes is Hilo's 24-hour diner, a genuine institution that has been feeding the city around the clock for decades. The menu is American diner with strong local influence: pancakes and eggs for breakfast, plate lunches of teriyaki chicken and macaroni salad at midday, and everything available at 3am for the after-bar crowd or the early-morning fishermen heading out. The malasadas (Portuguese doughnuts) are the thing to order — pillowy, sugar-dusted, and made fresh.

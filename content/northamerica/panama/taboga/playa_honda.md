@@ -8,6 +8,7 @@ tags:
 snippet: Quieter beach a short walk south of the village
 latitude: 8.7942
 longitude: -79.5555
+score: 6.5
 ---
 
 Playa Honda is the second swimming beach on Taboga, a short walk southeast around the headland from the main pier. It is smaller and rockier than Playa Restinga but consistently quieter — even on busy weekend afternoons it sees only a fraction of the crowd. The water is calm and good for snorkelling on the rocks at the south end.

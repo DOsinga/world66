@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.6640
 longitude: -117.4210
+score: 5.8
 ---
 
 Clinkerdagger has been a Spokane institution since 1974, a steakhouse and seafood restaurant perched above the Spokane River in a historic brick building. The dining room looks directly onto the falls, and the views at sunset are genuinely spectacular. The menu leans on prime rib, fresh fish, and Pacific Northwest classics like Dungeness crab.

@@ -9,6 +9,7 @@ latitude: 6.4667
 longitude: 2.4167
 sources:
   - https://en.wikipedia.org/wiki/Ganvie
+score: 8.3
 ---
 
 The floating market at the heart of Ganvié is active in the early mornings, when women paddle their dugout canoes loaded with fish, vegetables, and household goods between the stilt houses. Trade is conducted boat-to-boat or at the stilted market platforms — the same principle as a land market, simply conducted on water.

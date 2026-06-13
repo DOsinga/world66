@@ -9,6 +9,7 @@ latitude: 46.2031
 longitude: -123.3832
 sources:
   - https://en.wikipedia.org/wiki/Cathlamet,_Washington
+score: 7.3
 ---
 
 The Wahkiakum County Historical Museum documents the layered history of one of Washington's most isolated counties: the Kathlamet people who built one of the region's largest Native American villages here, the fur traders who followed Lewis and Clark along this stretch of the Columbia, and the logging and fishing industries that defined the economy for over a century.

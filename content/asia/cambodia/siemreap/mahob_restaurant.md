@@ -8,6 +8,7 @@ tags:
 title: Mahob
 type: poi
 neighbourhood: Wat Bo
+score: 4.5
 ---
 
 **Mahob** on Tep Vong Street in the Wat Bo neighbourhood is a smaller and less formal alternative to Cuisine Wat Damnak for travellers seeking serious Khmer cooking. The kitchen focuses on traditional Cambodian recipes prepared with good ingredients: fish amok made with freshwater fish from the Tonlé Sap rather than canned alternatives, proper beef lok lak with a long-pepper dipping sauce, and various soups and stir-fries that represent the everyday cooking of Cambodian households rather than a tourist-adjusted version.

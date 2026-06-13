@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: Hamilton's main café and restaurant strip
+score: 6.4
 ---
 
 Victoria Street is Hamilton's most lively thoroughfare, lined with cafes, restaurants, and independent shops for about half a kilometre through the city centre. The street has improved considerably over the past decade as the city's food and coffee culture has grown, and there are now several genuinely good places to eat and drink alongside the usual chains.

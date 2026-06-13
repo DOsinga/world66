@@ -9,6 +9,7 @@ latitude: 1.6500
 longitude: 7.4300
 sources:
   - https://www.saotomeexpert.pt/en/sao-tome-principe-island-fauna-wildlife-biodiversity/
+score: 7.4
 ---
 
 Príncipe's beaches are important nesting sites for leatherback and hawksbill sea turtles, which come ashore between October and March to lay their eggs. Guided night excursions to watch nesting females or the emergence of hatchlings are available through local conservation organisations and guesthouses. The Fundação Príncipe runs monitoring programmes on the main nesting beaches; their guides are the most knowledgeable about current activity.

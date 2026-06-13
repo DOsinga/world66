@@ -11,6 +11,7 @@ tags:
 title: The Lawns Restaurant
 type: poi
 url: www.the.lawns.co.ug
+score: 4.9
 ---
 
 GREAT INTERNATIONAL CUISINE & BEST GAME MEAT IN UGANDA

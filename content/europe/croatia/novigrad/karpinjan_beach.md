@@ -6,6 +6,7 @@ tags:
   - beach
 latitude: 45.3261
 longitude: 13.5536
+score: 6.1
 ---
 
 A small pebble cove a short walk north of Novigrad's old town, in the direction of Mareda. The beach is more attractive than the concrete platforms in the town centre — fine smooth pebbles, a few patches of grass under the pines, and water that is properly clear.

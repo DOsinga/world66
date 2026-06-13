@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7900
 longitude: -5.1730
+score: 7.2
 ---
 
 The town of Puente del Arzobispo sits on the Tagus river about 20 km south of Oropesa and has been producing distinctive green-glazed ceramics since the 15th century. The characteristic pieces — plates, jugs, oil bottles, and decorative tiles — are made with local clay and finished with a mottled olive-green glaze that is immediately recognisable.

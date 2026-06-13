@@ -1,6 +1,7 @@
 ---
 title: "Ida County Courthouse"
 type: poi
+score: 5.8
 ---
 
 The Ida County Courthouse, built in 1886, occupies the center of Ida Grove's modest downtown and represents a more conventional strand of Iowa civic ambition than the castles nearby. It is a solid Italianate structure in red brick, with a small cupola and the restrained ornamentation typical of courthouse architecture from that era in the rural Midwest.

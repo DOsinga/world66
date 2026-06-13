@@ -9,6 +9,7 @@ latitude: 12.4577
 longitude: 124.6430
 sources:
   - https://en.wikipedia.org/wiki/Catarman,_Northern_Samar
+score: 6.4
 ---
 
 The Our Lady of the Annunciation Cathedral anchors Catarman's central plaza in the Spanish colonial manner that structured every Philippine town of any significance. The current building is a substantial masonry structure; the parish dates back to the Spanish period, when the Augustinian friars established the church as part of their mission network across the Visayas and Mindanao.

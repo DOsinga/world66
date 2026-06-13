@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 1823 firehouse on Market Square, now a 195-seat theatre and gallery
+score: 5.9
 ---
 
 The squat brick firehouse with the cupola dominating Market Square was built in 1823 to garage the city's hand-pumped fire engines. After a stretch as a fire museum it was converted in 1991 to a black-box theatre with a downstairs gallery and now hosts local theatre productions, music nights, comedy, and the city's small repertory cinema programme.

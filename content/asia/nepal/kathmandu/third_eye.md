@@ -8,6 +8,7 @@ tags:
 latitude: 27.7160
 longitude: 85.3120
 address: Thamel, Kathmandu
+score: 5.4
 ---
 
 Third Eye is one of the better Indian restaurants in Thamel, serving both North and South Indian food with consistency that many other restaurants in the area struggle to maintain. The thali at lunch is excellent value; the butter chicken and dal makhani are reliable staples. There is also a Nepali set menu that makes a good introduction to the cuisine.

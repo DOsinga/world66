@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Giant LED media screen on a city car park facade, showing public art at night"
+score: 6.6
 ---
 
 The Rundle Lantern is a 40-metre-high LED installation covering the facade of the Rundle Place car park. By day it looks like a glass curtain wall; at night it becomes a shifting display of commissioned artworks, event promotions, and community projects. It is managed as a public art space rather than advertising and genuinely changes the texture of Rundle Mall at night.

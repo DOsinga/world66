@@ -14,6 +14,7 @@ story: >
   — the "Federalist" — and a general outpouring of relief that the new republic seemed
   to be actually taking shape. The hill also served as a Union Army fort during the
   Civil War, with cannon aimed at the city below.
+score: 8.4
 ---
 
 Federal Hill Park is a small hilltop park just south of the Inner Harbor that provides the best panoramic view of downtown Baltimore — the basin, the World Trade Center, the Francis Scott Key Bridge in the distance, and the urban skyline compressed into a single frame. It is one of those views that makes you understand a city's geography instantly.

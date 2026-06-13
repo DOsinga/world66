@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Downtown Phoenix
 type: poi
+score: 7.8
 ---
 
 For decades Phoenix had almost no downtown to speak of — the city was famously a place where everything happened in the suburbs. The picture has changed in the last twenty years. The light rail line that opened in 2008, the relocation of the Arizona State University Downtown campus, and a wave of residential conversions have made the core a place where people actually live and walk around.

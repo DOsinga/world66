@@ -7,6 +7,7 @@ tags:
   - jabal_amman
 latitude: 31.9506
 longitude: 35.9303
+score: 6.7
 ---
 
 Souk Jara is a Friday outdoor market on Rainbow Street that runs from May to October, filling the street with crafts, handmade jewellery, artwork, food stalls and live music every Friday afternoon and evening. It is the city's most visitor-friendly market — not particularly cheap, but pleasant for browsing and eating — and it captures something of the neighbourhood's cosmopolitan character.

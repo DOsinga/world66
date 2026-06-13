@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sambadrome_Marqu%C3%AAs_de_Sapuca%C3%AD
 story: >
   Oscar Niemeyer designed the Sambadrome in 1983, and it was built in just 17 months by the city government at the insistence of Governor Leonel Brizola. The structure replaced the informal street parades that had previously taken place on Rio Branco Avenue, which were stopped when the crowds became unmanageable. Niemeyer built the audience bleachers using the same modular concrete technology he had developed for Brasília.
+score: 7.5
 ---
 
 The Sambadrome is a 700-metre avenue with permanent bleachers on both sides, designed by Oscar Niemeyer and opened in 1984. It is the venue for the main samba school processions during Rio Carnival in February — the competition between the elite samba schools that is simultaneously a sporting contest, a theatrical spectacle, and an outpouring of creative energy without equal anywhere. Each school brings 3,000 to 5,000 participants, weeks of work on elaborate floats, and the kind of organisation that would be impressive in a military campaign.

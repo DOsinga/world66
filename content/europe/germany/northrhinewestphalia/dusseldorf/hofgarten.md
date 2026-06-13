@@ -6,6 +6,7 @@ tags:
 - sight
 title: Hofgarten
 type: poi
+score: 7.5
 ---
 
 The Hofgarten is the oldest public park in Germany, laid out in its present English landscape style by Maximilian Friedrich Weyhe in the early 19th century on the grounds of the former Electoral palace gardens. It stretches from the Ehrenhof on the Rhine bank north through the city, a long green ribbon broken up by mature trees, ponds, and open lawns.

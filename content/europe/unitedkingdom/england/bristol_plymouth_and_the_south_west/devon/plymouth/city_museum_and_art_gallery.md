@@ -7,6 +7,7 @@ tags:
 latitude: 50.3733
 longitude: -4.1378
 snippet: Plymouth's main museum, covering the city's history from Tudor times through the Blitz
+score: 7.1
 ---
 
 The City Museum and Art Gallery sits on Drake Circus, at the top of the main shopping drag, in an Edwardian building that predates the postwar reconstruction. The museum covers Plymouth's history across its twin vocations — naval port and departure point — from the Tudor privateers through the age of empire to the Blitz and beyond.

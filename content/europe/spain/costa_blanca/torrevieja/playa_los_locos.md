@@ -5,6 +5,7 @@ latitude: 37.9797
 longitude: -0.6800
 tags: [things_to_do, sight]
 snippet: "A slightly wilder, less manicured beach north of the town centre, popular with locals and with a more relaxed atmosphere than the central beaches."
+score: 6.0
 ---
 
 Los Locos — the name means "the mad ones" in Spanish, origin obscure but almost certainly involving the sea — sits a kilometre or so north of El Cura and has a noticeably different character. The beach is narrower and less flat than El Cura, with some rocky sections and small coves where the cliff drops to the water, and it attracts more local families and fewer package tourists. The absence of a large hotel directly behind it helps: the beach feels like something that belongs to the town rather than to the resort industry.

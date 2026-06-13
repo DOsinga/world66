@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.2972
 longitude: 13.5867
+score: 8.2
 ---
 
 The Museo Regionale Archeologico Pietro Griffo holds the finds from the Valle dei Templi excavations and is one of the most important classical archaeology museums in Sicily. The centrepiece is the huge reconstructed telamon — the Atlas figure from the Temple of Zeus — displayed horizontally so you can walk alongside it and appreciate its 7.5-metre height. Around it are arranged grave goods, terracotta votives, coins, pottery, and architectural fragments from across the ancient city.

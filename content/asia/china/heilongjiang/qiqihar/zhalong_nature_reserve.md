@@ -12,6 +12,7 @@ story: >
   the rarest of all cranes and one of the most endangered birds in the world. The reserve protects the 
   world's largest remaining breeding population. Watching a pair of these white-and-red birds move through 
   the reeds at dawn is one of the great wildlife encounters in China.
+score: 8.9
 ---
 
 Zhalong Nature Reserve, about 30 kilometres south of Qiqihar city, protects a vast expanse of reed marsh along the Wuyuer River — the finest wetland birding site in northeast China and one of the best crane habitats anywhere. Around 260 bird species have been recorded here, but the reserve is defined by its cranes: six of the world's fifteen species have been seen, and the red-crowned crane, the most emblematic and endangered, breeds here from April to September.

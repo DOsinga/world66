@@ -16,6 +16,7 @@ story: >
   the port is active again and the Benguela Railway is being rebuilt.
 sources:
   - https://en.wikipedia.org/wiki/Port_of_Lobito
+score: 7.3
 ---
 
 The Port of Lobito is one of the finest natural deep-water harbours on the African Atlantic coast, sheltered by the Restinga spit and offering depths of 15 to 36 metres. It was the founding reason for the city — built as the ocean terminus of the Benguela Railway and designed to ship the copper and mineral wealth of central Africa to world markets.

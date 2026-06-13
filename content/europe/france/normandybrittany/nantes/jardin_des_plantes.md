@@ -8,6 +8,7 @@ latitude: 47.21944
 longitude: -1.54277
 sources:
   - https://en.wikipedia.org/wiki/Jardin_des_plantes_de_Nantes
+score: 7.8
 ---
 
 The Jardin des Plantes is one of the best municipal botanical gardens in France, covering 7 hectares near the train station. It was established in the early 19th century and has been consistently well-maintained since, with an exceptional collection of magnolias (some over 200 years old), camellias, and dahlias in addition to the usual botanical order beds and tropical greenhouses.

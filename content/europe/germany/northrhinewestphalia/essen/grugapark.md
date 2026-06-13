@@ -7,6 +7,7 @@ tags:
 latitude: 51.4280
 longitude: 6.9870
 story: "The Grugapark was created for the 1929 GRUGA garden exhibition — GRUGA stood for Grosse Ruhrlandausstellung Garten und Blumenschau, essentially 'Great Ruhr Garden and Flower Show.' The exhibition was a deliberate attempt to counter the image of the Ruhr as a purely industrial wasteland, proving that beautiful green spaces could exist within one of Europe's most intensively developed regions."
+score: 6.7
 ---
 
 The Grugapark is a 70-hectare public park on the western side of the city, originally created for a 1929 horticultural exhibition and developed further for the 1965 Federal Garden Show. It contains a botanical garden, a rose garden, themed areas including a Japanese garden, children's playgrounds, a small railway, and extensive lawns where Essen residents congregate on warm weekends.

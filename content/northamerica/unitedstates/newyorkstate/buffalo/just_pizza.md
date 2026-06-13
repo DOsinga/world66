@@ -6,6 +6,7 @@ tags:
 title: Just Pizza
 type: poi
 url: artvoice.com
+score: 4.8
 ---
 
 Originally a strict pizzeria, Just Pizza has branched out to compete head-to-head with La Nova pizza on the west side of Buffalo for your pizza dollars.

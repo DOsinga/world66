@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Chautauqua Institution gave its name to a national movement. By the 1920s, traveling chautauquas — tent shows that brought lectures, debates, and performances to small-town America — had reached an estimated 35 million people a year in 12,000 communities. President Theodore Roosevelt called the movement "the most American thing in America." The original site on the lake, with its Victorian architecture and car-free streets, is the last intact example of what that movement looked like in its permanent home.
+score: 9.4
 ---
 
 The Chautauqua Institution is the reason the town exists. Founded in 1874 by Methodist minister John Heyl Vincent as a training program for Sunday school teachers, it rapidly evolved into something far broader: a nine-week summer program of lectures, concerts, opera, religious debate, and adult education that drew American intellectual and political life to this lakeside enclave every year.

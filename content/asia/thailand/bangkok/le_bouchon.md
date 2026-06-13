@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Le Bouchon
 type: poi
+score: 5.2
 ---
 
 A cosy little French restaurant in the middle of Patpong, popular with Bangkok's French community. The contrast is part of the charm: step off one of Bangkok's most notorious streets and into a quiet dining room with checked tablecloths and a proper wine list. The menu leans toward classic bistro fare. Open daily for lunch and dinner.

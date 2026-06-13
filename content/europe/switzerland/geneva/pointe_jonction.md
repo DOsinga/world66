@@ -15,6 +15,7 @@ story: >
   several hundred metres before finally merging. The contrast is sharpest in
   spring and early summer when snowmelt peaks. It is one of those geographical
   facts that you can actually see, which is rarer than it should be.
+score: 7.3
 ---
 
 At the Pointe de la Jonction, in the Jonction neighbourhood at the western end of the city, the Rhône and the Arve rivers meet in a confluence that is visually striking enough to draw visitors specifically. The Rhône leaves Lake Geneva blue and cold; the Arve arrives from the Chamonix valley carrying glacial silt that turns it a milky grey. The two rivers run alongside each other in a shared channel, refusing to blend, for several hundred metres before the turbulence finally mixes them downstream.

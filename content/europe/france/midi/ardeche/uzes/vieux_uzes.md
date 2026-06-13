@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 44.0125
 longitude: 4.4200
+score: 9.1
 ---
 
 The medieval and Renaissance quarter of Uzès is small enough to walk end to end in twenty minutes, but it is dense enough to keep you occupied for most of a day. The lanes between the Place aux Herbes and the Duché are the oldest part: narrow streets of pale limestone, with doorways framing Renaissance courtyards and stone staircases rising to upper floors. Much of the street-level fabric dates from the 16th and 17th centuries, when Uzès was a prosperous silk and textile town with a thriving Protestant bourgeoisie — the Reformation took hold here early, and the town's wealth shaped its buildings.

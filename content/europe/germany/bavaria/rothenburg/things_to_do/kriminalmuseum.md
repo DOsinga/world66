@@ -1,6 +1,7 @@
 ---
 title: "Kriminalmuseum (Medieval Crime Museum)"
 type: poi
+score: 8.3
 ---
 
 The Kriminalmuseum on Burggasse is one of the most unusual museums in Bavaria and, depending on your disposition, either fascinating or deeply unsettling — ideally both. Three floors of the old building are filled with the instruments and documentary record of medieval justice and punishment: shame masks, iron maidens, chastity belts, thumbscrews, ducking stools, pillories, and a comprehensive collection of devices designed to humiliate, torture, and execute. The museum takes its subject seriously, placing the objects in the context of medieval law rather than treating them purely as spectacle.

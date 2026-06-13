@@ -8,6 +8,7 @@ tags:
 - hiking
 title: Mohawk Lakes Trail
 type: poi
+score: 8.3
 ---
 
 Mohawk Lakes Trail gives Breckenridge some of its range beyond the usual resort-town formula. It is close enough to town to fit into a short visit, but it rewards a little patience, especially when weather, altitude, or ski-season crowds slow things down.

@@ -8,6 +8,7 @@ tags:
   - sight
   - skiing
 story: "The Portes du Soleil is one of the largest interconnected ski areas in the world: twelve resorts, more than 600 kilometres of marked pistes, and a single lift pass that lets you ski from a Swiss village to a French one and back in an afternoon, crossing the border without a passport check."
+score: 8.6
 ---
 
 Les Crosets sits roughly in the middle of the Portes du Soleil ski area, which links twelve resorts spread between Mont Blanc and Lake Geneva. From the village lifts you can ski into Champéry, Champoussin, and Morgins on the Swiss side, then drop over into Avoriaz, Morzine, Châtel, and Les Gets in France — all on one ticket.

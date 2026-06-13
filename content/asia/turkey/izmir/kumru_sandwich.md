@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.4364
 longitude: 27.1402
+score: 7.1
 ---
 
 The kumru is an İzmir institution — a soft sesame roll filled with sausage, tomato, kashkaval cheese, and pickled peppers, sold from street stands and small sandwich shops throughout the city. Like boyoz, it has acquired the status of a protected local product and İzmiris are emphatic that a proper kumru can only be made in İzmir.

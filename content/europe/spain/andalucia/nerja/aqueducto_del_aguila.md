@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Aqueducto del Águila
 type: poi
+score: 7.0
 ---
 
 A graceful four-tier brick aqueduct in Mudéjar Revival style, built in the 1880s to carry water to the sugar mill at Maro. The aqueduct strides across a small ravine on 36 arches, the top tier crowned with a winged eagle (águila) sculpture that gave the structure its name.

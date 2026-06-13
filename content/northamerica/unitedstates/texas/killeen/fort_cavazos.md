@@ -8,6 +8,7 @@ tags:
 title: Fort Cavazos
 type: poi
 story: "Fort Cavazos is the only installation in the United States with enough maneuver space and infrastructure to support two full armored divisions simultaneously — a fact that shaped its identity as the spiritual home of US heavy armor. Established in 1942 as Camp Hood, it grew into a permanent post that has trained and deployed more armored forces than any other base in the world."
+score: 7.4
 ---
 
 Fort Cavazos is the largest active-duty US Army installation in the country, covering more than 214,000 acres of central Texas. It is home to III Armored Corps and a succession of famous divisions, and its sheer scale means tanks, helicopters, and convoys are a routine part of the local landscape.

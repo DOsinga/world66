@@ -11,6 +11,7 @@ story: >
   The Audru Polder was created in the Soviet era when coastal marshlands were drained to create agricultural land. After independence and the collapse of collectivised farming, the fields gradually reverted to wetland, and the area was designated a nature reserve in the 1990s. What was once drained farmland is now one of the most important staging points for migratory waders and wildfowl on the Eastern Atlantic Flyway.
 sources:
   - https://en.wikipedia.org/wiki/Audru_Polder%27s_Nature_Reserve
+score: 7.4
 ---
 
 Audru Polder Nature Reserve lies about 4 km northwest of Valgeranna beach, where the Audru River meets Pärnu Bay. The reserve protects a mix of shallow coastal lagoons, reed beds, wet meadows, and remnant polder farmland — a mosaic that attracts an impressive variety of birds, especially during spring and autumn migration.

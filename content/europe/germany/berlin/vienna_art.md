@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Vienna Art
 type: poi
+score: 6.0
 ---
 
 A large café and restaurant on Grimmstraße, a short walk from the Admiralbrücke and the Landwehrkanal. The space is relaxed and unhurried — good for breakfast, a long afternoon coffee, or a proper meal. In summer, tables spill outside. The mix of students, locals, and canal-walkers gives it an easy neighbourhood feel that fits Kreuzberg well.

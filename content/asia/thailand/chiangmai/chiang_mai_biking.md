@@ -6,6 +6,7 @@ tags:
 - cycling
 title: Cycling in Chiang Mai
 type: poi
+score: 6.7
 ---
 
 Chiang Mai and the surrounding countryside make for excellent cycling. The old city moat road is flat and calm enough for an easy loop, and several operators offer guided day tours through rice fields, hill tribe villages, and orchard country on the outskirts.

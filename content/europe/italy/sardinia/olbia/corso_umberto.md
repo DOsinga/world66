@@ -7,6 +7,7 @@ tags:
 latitude: 40.9233
 longitude: 9.5027
 snippet: Olbia's pedestrian main street, lined with cafes, boutiques and the city's social life
+score: 6.3
 ---
 
 Corso Umberto is the spine of Olbia's old centre — a broad pedestrian street that runs from the railway station end of town up toward the Basilica di San Simplicio. In the mornings it fills with locals heading to the market and bar; by evening it becomes the passeggiata strip, with families and groups moving slowly between the cafes and gelato shops.

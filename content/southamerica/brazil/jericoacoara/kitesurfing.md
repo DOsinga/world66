@@ -13,6 +13,7 @@ story: >
   offshore lagoons provide flat water ideal for learning while the open ocean
   gives wave riding for experts. The combination of perfectly reliable wind and
   varied conditions doesn't often occur in the same place.
+score: 8.6
 ---
 
 Kitesurfing is the defining activity of Jericoacoara's wind season from August to January. The steady northeast trade winds that blow across this part of the Ceará coast produce conditions that are genuinely world-class — consistent, powerful, and reliable — and the geography adds flat-water lagoons for beginners within easy reach of wave riding on the open beach. The kite schools along the main beach run courses from complete beginners to advanced technique.

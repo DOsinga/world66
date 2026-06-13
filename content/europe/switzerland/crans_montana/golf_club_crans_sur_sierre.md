@@ -5,6 +5,7 @@ tags: [things_to_do, sport, golf]
 snippet: "Alpine tournament venue hosting the European Masters since 1939"
 latitude: 46.3161
 longitude: 7.4742
+score: 6.3
 ---
 
 The Golf Club Crans-sur-Sierre has hosted the European Masters since 1939, making it one of the longest-running tournament venues on the European Tour. The Ballesteros course — redesigned by Severiano Ballesteros in the 1990s — plays across the plateau at 1,500 metres with the Valais Alps rising on all sides. This is one of the most scenic golf courses in Europe, and the greens fees reflect that. Even non-golfers sometimes walk the course in summer just for the views.

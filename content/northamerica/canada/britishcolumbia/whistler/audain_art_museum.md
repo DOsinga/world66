@@ -13,6 +13,7 @@ story: >
   Sea to Sky corridor.
 sources:
   - https://en.wikipedia.org/wiki/Audain_Art_Museum
+score: 7.9
 ---
 
 The Audain Art Museum houses Michael Audain's private collection of British Columbia art, spanning from the work of the Haida and other Northwest Coast First Nations right through to 20th-century BC painters such as Emily Carr and E.J. Hughes, and on to contemporary artists. The collection is serious and well-curated — this is not a provincial vanity project but a genuine art museum that happens to be in a ski town.

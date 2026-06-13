@@ -9,6 +9,7 @@ latitude: 4.0038
 longitude: 9.2108
 sources:
   - https://en.wikipedia.org/wiki/Limbe_Botanic_Garden
+score: 7.2
 ---
 
 The Limbe Botanic Garden was established during the German colonial period — Limbe was then called Victoria — and has been maintained through successive administrations to become one of the better-preserved colonial-era botanical gardens in Central Africa. The grounds hold a wide collection of tropical plants, including species native to the rainforests of the Cameroon Highlands, and the mature trees provide welcome shade on a hot afternoon.

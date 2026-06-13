@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.6121
 longitude: -120.6868
+score: 8.2
 ---
 
 Tin City is an industrial complex a mile south of downtown that has been converted into a collection of small-batch producers — wineries, a brewery, a cider house, a distillery, and a few food businesses all operating out of corrugated metal warehouse buildings. It is the most interesting place to drink in Paso Robles if you want variety in a compact space and do not want to drive between tasting rooms.

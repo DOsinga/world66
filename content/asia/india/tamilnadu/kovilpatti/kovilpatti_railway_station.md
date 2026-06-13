@@ -6,6 +6,7 @@ longitude: 77.8700
 tags:
   - things_to_do
   - sight
+score: 3.0
 ---
 
 The railway station sits about 2 km from the town centre and is one of the busier stops on the main Chennai–Kanyakumari trunk line, with regular services to Chennai, Madurai, and Thiruvananthapuram. The colonial-era station building has been added to over the years but still keeps the basic plan of an early twentieth-century South Indian Railway stop.

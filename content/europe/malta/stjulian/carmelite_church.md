@@ -8,6 +8,7 @@ latitude: 35.9146
 longitude: 14.4950
 sources:
   - https://en.wikipedia.org/wiki/Carmelite_Church,_Balluta
+score: 6.5
 ---
 
 The Carmelite Parish Church at Balluta Bay is an unusual piece of neo-Gothic architecture for Malta, where the Baroque tradition dominates ecclesiastical building. The church was built in 1859 and enlarged in the 20th century, with a prominent facade that overlooks the bay and a blue-domed interior that is calmer and cooler than it looks from outside.

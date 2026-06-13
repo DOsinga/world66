@@ -6,6 +6,7 @@ tags:
 - sight
 title: Backwater Boat Trips
 type: poi
+score: 7.3
 ---
 
 Kochi sits at the northern edge of the Kerala backwater system — the network of lagoons, canals, rivers, and lakes that stretches south to Kollam. The waterways immediately around Fort Kochi are narrower and more intimate than those further south, and a short boat trip from the Fort Kochi jetty can deliver you into a world of palm-shaded canals and fishing villages within minutes of the tourist area.

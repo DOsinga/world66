@@ -7,6 +7,7 @@ tags:
 - sight
 title: Senggigi
 type: poi
+score: 6.2
 ---
 
 Senggigi is Lombok's established beach resort, stretching along a series of bays on the west coast about 12 km north of Mataram. The setting is appealing: the beach faces west toward the Lombok Strait, and on clear evenings Mount Agung on Bali is visible above the water — a volcano-to-volcano view that is one of the more satisfying natural panoramas in the region.

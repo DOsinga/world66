@@ -13,6 +13,7 @@ story: During the Second World War, the British military secretly tested a proto
   but it remains on the lake floor today, marked by an underwater plaque that divers
   occasionally visit. The scheme, codenamed Operation Habbakuk, was championed by
   Lord Mountbatten and seriously considered at the highest levels of Allied command.
+score: 7.2
 ---
 
 Patricia Lake sits just north of Jasper townsite, a short drive or cycle along Pyramid Lake Road. The lake is known for its scenery — Pyramid Mountain rises above the far shore and reflects cleanly in the still water — and for being a fine place to canoe, with rentals available at the shore. The road out to Patricia and Pyramid lakes is one of the most popular cycling routes from town.

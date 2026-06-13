@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 33.20972
 longitude: -87.56722
+score: 6.8
 ---
 
 The Downtown Tuscaloosa Historic District preserves a concentration of 19th- and early 20th-century commercial buildings around the intersection of University Boulevard and Greensboro Avenue. Most are brick commercial buildings from the 1880s to 1920s, now occupied by restaurants, bars, and small businesses.

@@ -7,6 +7,7 @@ tags:
 latitude: 52.2920
 longitude: 104.2780
 snippet: "Working baroque convent with turquoise belfry on the Angara embankment"
+score: 8.3
 ---
 
 The Znamensky Convent is one of Irkutsk's oldest religious foundations, established in 1693, and its turquoise baroque belfry is one of the most recognisable landmarks on the Angara embankment. The complex remains an active convent — nuns live here and services are held daily in the cathedral church.

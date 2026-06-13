@@ -13,6 +13,7 @@ tags:
 title: Reykjavik Art Museum – Hafnarhús
 type: poi
 url: www.artmuseum.is
+score: 8.0
 ---
 
 The harbour-front warehouse branch of Reykjavik's contemporary art museum. The permanent collection is built around Erró, the Icelandic pop-art painter who donated thousands of works to the city; rotating contemporary exhibitions fill the rest of the building. The single ticket also covers the museum's Kjarvalsstaðir and Ásmundarsafn locations across town.

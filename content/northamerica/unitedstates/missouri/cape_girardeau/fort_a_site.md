@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.31
 longitude: -89.518
+score: 6.8
 ---
 
 Fort A was one of a series of Civil War earthwork fortifications built by Union forces on the bluffs above Cape Girardeau to defend the town and the strategic Mississippi River crossing point. The site commands an excellent view of downtown Cape Girardeau and the river below, which is reason enough to visit even if Civil War history is not your primary interest.

@@ -8,6 +8,7 @@ tags:
   - market
   - restaurant
 snippet: Fresh herring and fish direct from the boats at the largest fishing port in the Netherlands
+score: 7.1
 ---
 
 IJmuiden is the largest fishing port in the Netherlands, and the fish market that operates along the harbour quays is one of the most direct farm-to-table (or rather sea-to-hand) experiences available in the country. Fishing boats unload their catch in the morning, and the market sells fresh herring, mackerel, plaice, sole, eel, and whatever else came in that day. The fish auction takes place very early in the morning before visitors arrive, but the market itself is active well into the afternoon.

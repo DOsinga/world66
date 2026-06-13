@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Møn's only real town: medieval gate, parish church, low-key main street"
+score: 6.6
 ---
 
 Stege is the only town of any size on Møn — a quiet place of around 4,000 people built around a small harbour where the bridge from Zealand lands. The main street, Storegade, has the cafes, bakeries, bookshops and ironmongers that a Danish market town runs on, plus a handful of antique shops and galleries that have crept in over the years. An hour browsing it is enough; most visitors use Stege as a base rather than a destination.

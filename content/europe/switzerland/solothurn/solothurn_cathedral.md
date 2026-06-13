@@ -9,6 +9,7 @@ latitude: 47.2083
 longitude: 7.5394
 story: >
   The cathedral is dedicated to Saints Ursus and Victor, two soldiers of the Theban Legion who were said to have been martyred at Solothurn by the Romans around 286 AD. The cult of the Theban martyrs was important across what is now western Switzerland — the Abbey of Saint-Maurice d'Agaune in Valais was founded over a similar claimed martyrdom site. Whether the legend is historically accurate matters less than the fact that it gave Solothurn a cathedral of exceptional quality two millennia later.
+score: 8.1
 ---
 
 The Cathedral of Saint Ursus dominates Solothurn from its raised position above the old town, its Neoclassical facade with Corinthian pilasters and flanking towers the most prominent building in the city. Built between 1762 and 1773 by the architect Gaetano Matteo Pisoni from Ascona, it replaced an earlier Gothic church on the same site and represents the high point of the French-funded building programme that transformed Solothurn during the 18th century.

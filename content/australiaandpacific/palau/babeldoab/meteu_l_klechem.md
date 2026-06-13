@@ -6,6 +6,7 @@ longitude: 134.6361
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 Meteu 'L Klechem is a single carved stone monolith in the village of Melekeok, with a roughly human face and a flattened top. Palauan tradition holds that the stones of Melekeok represent ancestral chiefs and that disturbing them brings misfortune.

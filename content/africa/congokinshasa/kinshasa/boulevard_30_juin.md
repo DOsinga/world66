@@ -7,6 +7,7 @@ tags:
 latitude: -4.3028
 longitude: 15.3117
 snippet: Kinshasa's grand main avenue, five kilometres of embassies, banks, and government buildings
+score: 6.7
 ---
 
 Boulevard du 30 Juin is the spine of Gombe, Kinshasa's administrative and business district, running roughly five kilometres along the river side of the city. Named for the date of the DRC's independence from Belgium in 1960, it is lined with the embassies, international banks, government ministries, and large hotels that make Gombe feel like a different city from the residential communes sprawling beyond. The traffic is permanently gridlocked, but the pavements are more walkable than most of Kinshasa.

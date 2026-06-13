@@ -7,6 +7,7 @@ tags:
 latitude: 43.0656
 longitude: 141.3631
 snippet: Original 1876 Sapporo Beer factory converted into a shopping complex
+score: 6.0
 ---
 
 The Sapporo Factory complex occupies the original site of the 1876 Sapporo Beer brewery — the red-brick buildings where Sapporo Beer was first produced, now converted into a shopping and entertainment complex with a large glass atrium added across the middle. The original brewery buildings are the reason to come: Victorian industrial brick on a generous scale, with the scale and confidence that Meiji-era construction often had when it was trying to make a statement about modern Japan. The atrium hall under the glass dome is used for concerts, seasonal markets, and events throughout the year.

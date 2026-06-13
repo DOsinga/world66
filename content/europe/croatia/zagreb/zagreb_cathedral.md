@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - kaptol
+score: 8.2
 ---
 
 The Cathedral of the Assumption of the Blessed Virgin Mary — usually just "the Cathedral" — dominates the Kaptol skyline with two soaring neo-Gothic spires, the tallest reaching 108 metres and making this the tallest building in Croatia. The current structure dates from a thorough 19th-century rebuild after the 1880 earthquake, but the foundations go back to the 11th century. Inside, look for the tomb of Cardinal Stepinac (the controversial wartime archbishop, now beatified) and Glagolitic inscriptions in the old Croatian alphabet.

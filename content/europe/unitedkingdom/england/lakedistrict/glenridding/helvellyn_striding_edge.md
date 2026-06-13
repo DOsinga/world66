@@ -8,6 +8,7 @@ latitude: 54.5268
 longitude: -3.0161
 story: >
   In 1805, a man named Charles Gough fell to his death from the crags above Red Tarn below Striding Edge. His body lay on the mountain for three months before being discovered — kept company throughout by his faithful dog, a terrier who refused to leave. The story prompted poems by both William Wordsworth and Walter Scott and became one of the most celebrated examples of canine loyalty in English literary history.
+score: 9.8
 ---
 
 The ascent of Helvellyn (950 metres) via Striding Edge is the most famous ridge walk in England and one of the great mountain experiences in the country. Striding Edge is a narrow rocky arete that connects the approach slopes to the final summit cone — a kilometre of scrambling along a blade of rock with steep drops on both sides. It demands a head for heights and is not suitable in icy conditions, but in fair weather it is accessible to any walker in reasonable condition.

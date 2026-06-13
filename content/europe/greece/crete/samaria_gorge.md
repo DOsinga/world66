@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Samaria Gorge runs through a national park established in 1962, partly to protect the kri-kri, the Cretan ibex — a wild goat found nowhere else in the world. The animals are remarkably shy but occasionally visible on the gorge walls in the early morning. The village of Samaria, at the midpoint of the gorge, was inhabited until 1962 when its residents were relocated to allow the park to be established; you pass the ruins of their abandoned houses halfway down."
+score: 9.6
 ---
 
 The Samaria Gorge is the longest gorge in Europe — 16 km from the Omalos plateau down to the village of Agia Roumeli on the Libyan Sea — and one of the great walks in the Mediterranean. It descends through spectacular limestone scenery: narrow passages (the most famous is the Iron Gates, where the walls close to just three metres apart), clear streams, ancient plane trees, and the occasional Cretan ibex on the cliffs above.

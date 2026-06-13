@@ -8,6 +8,7 @@ latitude: 52.0629
 longitude: 4.5152
 story: >
   Snowworld Zoetermeer was one of the first indoor ski slopes in Europe when it opened in 1996, and for a time it held the record for the longest indoor piste on the continent at 520 metres. The Dutch, with their entirely flat country, took to artificial mountain sports with considerable enthusiasm.
+score: 7.5
 ---
 
 Snowworld Zoetermeer is one of the largest indoor ski and snowboard facilities in Europe, with two main slopes of different difficulty levels, a separate learner area, and a snowtubing run. The temperature inside is kept around -4°C year-round, which is a genuinely startling experience in a Dutch summer.

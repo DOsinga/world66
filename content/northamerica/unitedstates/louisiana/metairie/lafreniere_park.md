@@ -10,6 +10,7 @@ story: >
   The park sits on land that was largely used for sugarcane farming until the mid-twentieth century. Its name recalls the Lafrénière family, prominent colonial Louisiana landowners whose ancestor, Nicolas Chauvin de la Frénière, was the first native-born Louisianan to practice law in the colony and was ultimately executed for leading a rebellion against Spanish colonial rule in 1769.
 sources:
   - https://en.wikipedia.org/wiki/Lafreniere_Park
+score: 6.5
 ---
 
 Lafreniere Park is Metairie's largest green space and a genuine respite from the surrounding suburban sprawl. The 155-acre park has a large lagoon, walking and jogging paths, a playground, and enough open space to feel genuinely removed from the surrounding roads and strip malls. It is well-used by locals for morning runs and weekend picnics.

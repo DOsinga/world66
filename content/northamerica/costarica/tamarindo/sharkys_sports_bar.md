@@ -7,6 +7,7 @@ tags:
 latitude: 10.2986
 longitude: -85.8407
 snippet: Late-opening sports bar at the centre of the Tamarindo nightlife
+score: 3.8
 ---
 
 Sharky's is the loudest, busiest, most unapologetically expat bar in central Tamarindo. Big screens for whatever sports are on, two-for-one happy hours, a long happy crowd of surfers, divemasters, and travellers from late afternoon onwards. Music takes over after sunset and it stays going until two.

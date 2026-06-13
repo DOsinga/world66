@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.4167
 longitude: -79.1450
+score: 7.6
 ---
 
 The Legacy Museum occupies a historic building in downtown Lynchburg and presents the African American experience in the region through rotating exhibitions and permanent collections. The museum's focus on local history — the tobacco economy, the Civil War period, segregation, and the civil rights era — roots national stories in specific Lynchburg lives and places, which makes it more vivid than purely national-scope museums.

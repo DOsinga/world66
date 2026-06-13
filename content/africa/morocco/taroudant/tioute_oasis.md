@@ -7,6 +7,7 @@ tags:
 latitude: 30.3830
 longitude: -8.7740
 snippet: "Palm oasis with ruined kasbah, 35km from Taroudant"
+score: 7.7
 ---
 
 Tioute is a palm oasis about 35 kilometres southeast of Taroudant, reached by a straightforward road through the Souss plain. The palms are dense and the shade welcome in the heat of the day; the oasis also has the ruins of a substantial kasbah perched on a rocky outcrop above the village. The kasbah featured in Orson Welles's 1952 film "Othello," which was partly shot in Morocco.

@@ -11,6 +11,7 @@ story: >
   The ancient city of Kition was founded by Mycenaean Greeks around the 13th century BC, but was soon taken over by Phoenician settlers who built a great temple to Astarte on the site. The philosopher Zeno of Citium — founder of Stoic philosophy — was born here around 334 BC. The city is also mentioned in the Hebrew Bible, where "Kittim" refers to Cyprus.
 sources:
   - https://en.wikipedia.org/wiki/Kition
+score: 7.0
 ---
 
 Ancient Kition was one of the great city-kingdoms of Cyprus, continuously inhabited from the Late Bronze Age through the Hellenistic period. Today the excavated remains are scattered across Larnaca, with the main archaeological zone at Kathari, north of the city centre. The site preserves Phoenician temple foundations, Bronze Age fortifications, and evidence of copper smelting that made Kition wealthy.

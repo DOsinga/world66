@@ -8,6 +8,7 @@ latitude: 40.321556
 longitude: 9.336588
 sources:
   - https://en.wikipedia.org/wiki/National_Archaeological_Museum_of_Nuoro
+score: 8.1
 ---
 
 The Giorgio Asproni National Archaeological Museum sits in the historic centre beside the Cathedral of Our Lady of the Snows. Its collection covers the Nuragic civilisation — the Bronze Age culture that covered Sardinia in thousands of round stone towers (nuraghi) between roughly 1800 and 500 BCE — as well as finds from the subsequent Phoenician trading settlements and Roman occupation of the island.

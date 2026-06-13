@@ -7,6 +7,7 @@ tags:
 - sight
 title: Imamzadeh Seyyed Mir Mohammed
 type: poi
+score: 6.9
 ---
 
 A smaller domed shrine immediately adjacent to Shah Cheragh, dedicated to Seyyed Mir Mohammed, another brother of Imam Reza. The main hall is mirrored in the same style as Shah Cheragh, and the two complexes share a single courtyard — visiting one effectively brings you to the other.

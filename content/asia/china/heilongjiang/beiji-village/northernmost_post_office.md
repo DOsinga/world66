@@ -12,6 +12,7 @@ story: >
   of Lapland Christmas mythology and a Chinese government post office at −30°C
   on the Russian border is either deeply absurd or deeply logical, depending on
   your outlook.
+score: 5.2
 ---
 
 China's northernmost post office is a small but well-known attraction in Beiji Village, operating year-round and offering a commemorative stamp that marks the northernmost postal point in China. You can post a card or letter from here with a cachet that identifies the latitude and the date, which makes it a popular stop for travelers who collect such things — and for Chinese tourists who want a tangible proof of having reached the edge of the country.

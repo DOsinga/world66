@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -14.952
 longitude: -147.680
+score: 6.8
 ---
 
 Rangiroa is one of the centres of Tahitian black pearl production. Several farms operate in the lagoon near Avatoru, cultivating the Pinctada margaritifera oyster that produces the lustrous dark pearls sold across French Polynesia.

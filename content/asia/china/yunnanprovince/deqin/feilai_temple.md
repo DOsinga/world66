@@ -12,6 +12,7 @@ story: >
   gorge. The courtyard faces directly across to the Meili Snow Mountain massif, which locals
   consider no coincidence: the orientation is deliberate, aligning the monastery with the
   sacred peak of Kawa Karpo as an act of perpetual devotion.
+score: 8.7
 ---
 
 Feilai Temple sits on a ridge above the Mekong gorge about 10 kilometres before Deqin on the road from Shangrila, at an altitude of around 3,300 metres. The monastery itself is modest in scale — a handful of prayer halls, a courtyard, and resident monks — but its setting is extraordinary. The south-facing courtyard frames an unobstructed view across the river valley to the full sweep of the Meili Snow Mountain massif, with Kawa Karpo's icecap visible on clear days as the dominant feature.

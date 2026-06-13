@@ -5,6 +5,7 @@ latitude: 24.265
 longitude: 55.728
 snippet: "The Hili district in northern Al Ain has a cluster of family Lebanese and Emirati restaurants that draw locals for weekend lunches."
 tags: [eating_out, restaurant]
+score: 5.9
 ---
 
 The Hili area, north of the city centre near Hili Archaeological Park, has developed a reputation for good Lebanese and Gulf Arabic food that has made it a weekend destination for Al Ain families. The restaurants here are larger and more comfortable than the tight souq establishments in the city centre — air-conditioned, family-section separated, and staffed to handle a proper lunch crowd. Several have outdoor seating areas that are pleasant in winter.

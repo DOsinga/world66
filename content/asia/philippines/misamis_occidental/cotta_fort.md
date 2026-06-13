@@ -14,6 +14,7 @@ story: >
   in fast warships called *vintas*. The walls are made of coral blocks quarried from the
   surrounding reefs and bound with lime mortar — the same construction technique used at
   the larger Spanish forts on Luzon and Visayas.
+score: 8.1
 ---
 
 Cotta Fort, on the seafront beside Ozamiz cathedral, is the best-preserved Spanish-era fortification on the western coast of Mindanao and the standard postcard image of the province. The square coral-stone structure, with bastions at the corners and a small chapel inside, looks across the channel to Mukas and the mountains of Lanao del Norte.

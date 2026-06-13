@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.5640
 longitude: 73.9250
+score: 6.2
 ---
 
 Teenda (also spelled Tinda or Chowki Tinda) is a small town about six kilometres from Kotli, linked by a paved road, and its main value to the visitor is the government rest house and the viewpoint over the Poonch River valley. From the elevated position above the river, the valley spreads out below in a wide panorama of terraced fields, scattered villages and the forested ridges beyond. In the clear winter months, the view extends to higher snowcapped peaks to the north.

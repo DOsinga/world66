@@ -6,6 +6,7 @@ longitude: 16.6390
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 A traditional konoba in the centre of Sinj, with stone walls, wooden beams, and a wood-fired oven that turns out lamb and veal peka to order (these are best ordered ahead). Arambaši, hand-rolled like cigars, are a house specialty.

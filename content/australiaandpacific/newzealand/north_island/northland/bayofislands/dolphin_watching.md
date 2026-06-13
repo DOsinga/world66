@@ -6,6 +6,7 @@ longitude: 174.0910
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 The Bay of Islands is one of the best places in the country to see common and bottlenose dolphins in the wild. Both species are resident year-round in the inner bay and frequently approach the tour boats running between Paihia, Russell and the outer islands.

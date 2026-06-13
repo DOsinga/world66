@@ -15,6 +15,7 @@ story: >
   Hadrian's Wall dedicated these altars to obscure local gods whose names appear
   nowhere else in the Roman world, a reminder that the empire was a patchwork of
   local cults as much as a unified religion.
+score: 8.8
 ---
 
 Tullie House is the most rewarding museum in the north of England outside York and Newcastle, and yet it draws a fraction of the crowds. The Roman collection is the centrepiece: Carlisle sits at the western end of Hadrian's Wall, and the museum holds carved altars, weapons, jewellery, and everyday objects recovered from Luguvalium, the Roman fort and civilian settlement that became Carlisle. The displays are intelligent and well-lit, placing the Wall in the context of the wider Roman frontier rather than treating it as an isolated curiosity.

@@ -15,6 +15,7 @@ story: >
   it had to be large enough to house the ceremonies that confirmed the local power
   structure and to demonstrate, to the semi-nomadic peoples beyond the walls, the
   cultural authority of the empire.
+score: 8.7
 ---
 
 The Wuwei Confucius Temple, rebuilt in the fifteenth century during the Ming Dynasty, is claimed as the largest Confucius temple in northwest China, and its scale bears out the claim. The complex covers several hectares and includes multiple ceremonial halls, a classical garden, and the remains of what was once a substantial library. The main ceremonial hall is particularly impressive, its interior supported by massive timber columns and its roof proportioned with the gravity that characterises Ming Dynasty official architecture.

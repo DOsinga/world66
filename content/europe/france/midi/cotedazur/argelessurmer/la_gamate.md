@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Warm, family-run seafood place in the main town
+score: 5.5
 ---
 
 A small, family-run restaurant in central Argelès known for its fresh seafood and welcoming atmosphere. The fish is bought daily at the port; the **bouillabaisse** is good when it's on, and the grilled gambas with garlic are excellent.

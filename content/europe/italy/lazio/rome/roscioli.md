@@ -15,6 +15,7 @@ tags:
 title: Roscioli Salumeria con Cucina
 type: poi
 url: www.salumeriaroscioli.com
+score: 8.3
 ---
 
 Part deli, part restaurant, and one of Rome's most celebrated dining destinations. The walk-in deli counter at the front sells exceptional cheese, charcuterie, and anchovies; the restaurant at the back requires a reservation and serves landmark versions of cacio e pepe and carbonara alongside a wine list of several thousand labels.

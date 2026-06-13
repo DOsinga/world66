@@ -9,6 +9,7 @@ latitude: 47.5861
 longitude: -3.0283
 sources:
   - https://en.wikipedia.org/wiki/La_Trinit%C3%A9-sur-Mer
+score: 6.5
 ---
 
 La Trinité-sur-Mer is a small sailing village six kilometres east of Carnac, famous in France as one of the main bases for offshore yacht racing and the departure point for several transatlantic racing records. The harbour is very much working sailing territory — boats of every size crowd the pontoons in summer, and the quayside restaurants and bars have the lived-in feeling of a place where serious sailors come to prepare and recover.

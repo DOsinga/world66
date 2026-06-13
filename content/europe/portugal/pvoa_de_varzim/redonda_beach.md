@@ -6,6 +6,7 @@ tags:
   - beach
 latitude: 41.3793
 longitude: -8.7691
+score: 6.5
 ---
 
 Redonda Beach is the small, sheltered crescent of sand at the south end of the Passeio Alegre seafront, between the casino and the seaport. The shape gives it the name — *redonda* means round — and the curve of the breakwaters makes it the calmest of the town beaches, well-suited to families with small children.

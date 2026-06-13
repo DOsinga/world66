@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.4577
 longitude: 30.5258
+score: 7.8
 ---
 
 A steep park between Saint Michael's Square and the upper station of the funicular, topped by a black cast-iron statue of Saint Volodymyr — the prince who Christianized Kyivan Rus in 988. The 1853 monument was one of the first public sculptures in Kyiv and remains a city symbol.

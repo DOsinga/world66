@@ -8,6 +8,7 @@ tags:
 latitude: 43.5808
 longitude: 11.3028
 story: "Montefioralle is one of the few genuinely intact medieval villages in Tuscany — the elliptical walls are original, the lanes inside are too narrow for modern vehicles, and very little was built or changed between the fourteenth century and the twentieth. The Vespucci family, relatives of Amerigo Vespucci (who gave his name to the Americas), owned property here."
+score: 8.2
 ---
 
 Montefioralle sits on a low hilltop just above Greve, a ten-minute walk up a cypress-lined path from the town. Inside its elliptical medieval walls, the village has changed remarkably little in six centuries. Two narrow lanes loop around the inner circuit; the houses have stone arches and external staircases; cats occupy the sunny corners.

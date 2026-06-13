@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Trincomalee_Harbour
 story: >
   Trincomalee Harbour was described by Nelson as the finest harbour in the world. During the Second World War, the British Eastern Fleet was based here, and on 9 April 1942 Japanese carrier-based aircraft bombed the harbour in a coordinated raid. Two British warships were sunk and 17 aircraft destroyed — a glimpse of what might have been a Japanese invasion of Ceylon that the island was fortunate to escape.
+score: 7.3
 ---
 
 Trincomalee Harbour is widely considered one of the finest natural harbours in the world — deep enough for the largest ships, sheltered by hills on three sides, and strategically positioned on the Bay of Bengal. Every major naval power from the Portuguese onwards has fought to control it, and its strategic importance is why this otherwise small city appears in so much European and Asian history.

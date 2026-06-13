@@ -8,6 +8,7 @@ latitude: 38.2533
 longitude: 140.8519
 story: >
   The castle was never captured in battle. Instead, it was dismantled by its own garrison in 1871 following the Meiji government's abolition of the domain system. Fires and earthquakes took care of most of what remained. The equestrian statue of Date Masamune that surveys the city from the hilltop was cast in 1935 and survived the war intact while the castle did not.
+score: 7.6
 ---
 
 The hilltop ruins of Sendai's original castle — properly called Aobajo — are the natural vantage point over the city. Little survives beyond a stone wall section and a turret, but the elevated position offers good views east toward the coast and out across the urban sprawl. The bronze equestrian statue of Date Masamune on horseback, wearing his distinctive crescent-moon helmet, is the city's defining image.

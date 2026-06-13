@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - nature
 snippet: High plateau at 2000m with grassy plains and wide views before the cloud forest descent
+score: 6.1
 ---
 
 Los Llanos is what the locals call the high plateau that the road crosses before dropping into the Chirinos valley — an open, rolling expanse of grassland at over 2,000 metres where the air is cool and the horizons are wide. One writer, struck by the green hills and damp cloud cover, described it as Little Ireland, and on the right day that's not entirely wrong. It is a very different Peru from the dusty coastal desert or the humid jungle farther east.

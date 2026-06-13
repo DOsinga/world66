@@ -11,6 +11,7 @@ tags:
 - museum
 title: Museo Camón Aznar
 type: poi
+score: 7.1
 ---
 
 A well-curated small museum housing the personal collection of art historian José Camón Aznar in a restored 16th-century Renaissance palace. The highlight is an exceptional set of prints by Goya — the full series of Caprichos, Disasters of War, and Bullfighting. Quieter than the big museums, free admission.

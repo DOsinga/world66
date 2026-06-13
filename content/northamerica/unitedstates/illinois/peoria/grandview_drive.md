@@ -12,6 +12,7 @@ story: >
   the 1890s specifically to take advantage of the bluff views, in an era when
   Sunday drives were a genteel leisure pursuit and a good view was considered
   civic infrastructure.
+score: 8.0
 ---
 
 Grandview Drive runs for two miles along the bluff edge on the east side of Peoria, offering views across the Illinois River valley and the patchwork of farmland beyond. The road itself is lined with mature trees and large Victorian and Arts-and-Crafts houses; the residential neighbourhood it passes through — the Glen Oak area at the north end, the Moss Avenue corridor to the south — is the most architecturally interesting part of the city. Walking the bluff path that runs alongside the road gives the best views.

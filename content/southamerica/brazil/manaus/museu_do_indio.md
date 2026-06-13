@@ -8,6 +8,7 @@ tags:
 - centro
 latitude: -3.1252
 longitude: -60.0205
+score: 7.6
 ---
 
 The Museu do Índio is run by the Salesian sisters who have worked among the indigenous peoples of the upper Rio Negro for over a century. It is a small, slightly dusty, deeply specific museum — three rooms in a former convent — focused on the Tukano, Desana, Tariana, and Yanomami peoples of the São Gabriel da Cachoeira region in the north of Amazonas state.

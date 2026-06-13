@@ -8,6 +8,7 @@ latitude: 11.7095
 longitude: 122.3680
 address: "Toting Reyes Street, Kalibo, Aklan"
 opening_hours: "Daily 10:30–22:00"
+score: 5.3
 ---
 
 The reliable seafood restaurant in central Kalibo, three blocks east of the cathedral. You pick what you want from the iced display at the front — usually a half-dozen kinds of fish, prawns, squid, crab, and the occasional lapu-lapu — and tell the cook how to prepare it. Sinigang (sour soup) and inihaw (grilled) are the safe bets; the steamed prawns in garlic butter are excellent.

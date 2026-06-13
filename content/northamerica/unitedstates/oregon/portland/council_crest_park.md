@@ -9,6 +9,7 @@ latitude: 45.4971
 longitude: -122.7077
 story: >
   Council Crest is the highest point in Portland, at 1,073 feet above sea level. On a clear day — which in Portland means roughly any day from late June through September — you can see four volcanic peaks simultaneously: Mount Hood to the east, Mount St Helens and Mount Adams to the north, and Mount Rainier in the far northeast. No other point within Portland city limits gives this view.
+score: 6.4
 ---
 
 Council Crest Park sits at the top of the West Hills, at the end of a winding residential road. The summit has a small paved loop path, picnic benches, and a view indicator identifying the peaks and landmarks visible from the top. The panorama on a clear day takes in the Willamette Valley, the Cascade range, and the distant Columbia River.

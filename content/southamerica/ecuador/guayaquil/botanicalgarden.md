@@ -6,6 +6,7 @@ tags:
 - sight
 title: Guayaquil Botanical Garden
 type: poi
+score: 6.5
 ---
 
 The Guayaquil Botanical Garden is located at the foot of Cerro Colorado hill, in the north of the city on Avenida Francisco de Orellana. The garden covers around 2.5 hectares and is home to roughly 3,000 plant species, including an impressive 150 varieties of orchid — significant given Ecuador's status as one of the world's most biodiverse countries.

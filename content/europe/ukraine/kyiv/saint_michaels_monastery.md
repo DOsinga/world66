@@ -8,6 +8,7 @@ tags:
 latitude: 50.4554
 longitude: 30.5232
 story: "The original 12th-century monastery was demolished by the Soviets in 1936 to clear the site for a never-built government complex. The surviving fragments of medieval frescoes and the Saint Michael mosaic were spirited away to museums in Moscow and Saint Petersburg. The monastery you see now is a full reconstruction completed in 1999."
+score: 7.9
 ---
 
 A baroque blue-walled monastery with seven gold cupolas, perched on the hill above Maidan Nezalezhnosti. Founded in 1108 by Sviatopolk II, demolished by Stalin in 1936, and rebuilt from old photographs and plans after Ukrainian independence — most of the present building dates from the late 1990s.

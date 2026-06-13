@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.6010
 longitude: 25.1500
+score: 8.2
 ---
 
 The dovecotes of Tinos — peristereones in Greek — are one of the island's most distinctive features: approximately a thousand decorative tower structures scattered across the hillsides, built by Venetian settlers and maintained by the islanders for centuries. They are unlike dovecotes anywhere else in the world, each one elaborately decorated with geometric patterns carved in marble or schist, with intricate triangular and circular cut-outs in the upper sections that let pigeons in and out.

@@ -6,6 +6,7 @@ latitude: 49.2017
 longitude: 5.4675
 snippet: "First World War fort, scene of a famous seven-day siege"
 story: "When the garrison's water ran out and the air inside was thick with poison gas, the commander Major Sylvain Raynal sent his last carrier pigeon, Vaillant, with a desperate message. The bird died on arrival after passing on the message. Vaillant was the only pigeon ever to be decorated with the Légion d'honneur."
+score: 8.7
 ---
 
 The smaller of the two main Verdun forts, Fort de Vaux was the scene of a week-long German siege in June 1916 that became one of the symbols of French resistance. After running out of water, food and ammunition, Major Raynal surrendered with full military honours. Crown Prince Wilhelm reportedly returned Raynal's sword to him in recognition of the defence.

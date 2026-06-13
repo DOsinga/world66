@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 San Francesco, just off Via Pretoria, is the most interesting old building in Potenza. Founded by the Franciscans in the 13th century and rebuilt repeatedly after earthquakes, the church preserves a beautifully carved Renaissance wooden door from 1499 and a 14th-century Madonna fresco that survived all the disasters.

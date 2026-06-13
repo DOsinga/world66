@@ -14,6 +14,7 @@ story: >
   partly lost; a major restoration project between 2003 and 2010 reopened the
   full 185 kilometres and it became one of the most celebrated walking routes
   in Spain.
+score: 9.3
 ---
 
 The Camí de Cavalls is a historic coastal path that circles the entire island of Menorca — 185 kilometres of trail running along cliffs, beaches, and headlands that gives access to the entire coastline and most of the island's best scenery. Properly walked, it takes about nine days; most visitors do it in sections, choosing the stretches with the most dramatic scenery or the best beaches.

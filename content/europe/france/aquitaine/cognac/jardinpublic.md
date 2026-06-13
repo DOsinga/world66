@@ -7,6 +7,7 @@ tags:
 - park
 snippet: Formal public garden at the heart of the town, good for a cognac-free hour
 type: poi
+score: 5.9
 ---
 
 The Jardin Public sits at the centre of Cognac, a few minutes' walk from both the château and the main distilleries. It is a well-maintained formal French garden with mature trees, fountains, and benches — an agreeable place to sit between distillery visits. The garden is popular with locals on lunch breaks and families in the late afternoon.

@@ -9,6 +9,7 @@ tags:
 - hiking
 - lighthouse
 snippet: Lighthouse and coastal walking tracks on the headland west of Portland
+score: 8.2
 ---
 
 Cape Nelson State Park sits on a basalt headland 12km west of Portland, jutting into the Southern Ocean with dramatic effect. The working lighthouse at its tip was built in 1884 and still guides shipping today; guided tours of the lighthouse complex run on weekends and give access to the tower and the original keeper's cottages.

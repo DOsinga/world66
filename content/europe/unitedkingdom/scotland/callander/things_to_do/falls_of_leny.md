@@ -10,6 +10,7 @@ tags:
   - cycling
 sources:
   - https://en.wikipedia.org/wiki/Falls_of_Leny
+score: 6.9
 ---
 
 The River Leny rushes through the narrow Pass of Leny just west of Callander, dropping over a series of rocky steps that turn white with spray after heavy rain. The falls are easy to reach — the path runs along the old railway trackbed (now National Cycle Route 7) from the edge of Callander, about 2 km each way — making this one of the most accessible dramatic landscapes in the Trossachs. The pass itself is the natural gateway to the Highlands at this point, and the wooded gorge is good bird territory: listen for dippers and grey wagtails along the river.

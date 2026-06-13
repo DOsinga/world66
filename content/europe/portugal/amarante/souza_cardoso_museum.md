@@ -7,6 +7,7 @@ snippet: Museum to Portugal's most important early modernist, housed in the mona
 tags:
 - things_to_do
 - museum
+score: 8.5
 ---
 
 Amadeo de Souza-Cardoso was born in Manhufe just outside Amarante in 1887, moved to Paris at 19, exhibited alongside Modigliani and Brancusi, and was on his way to becoming one of the great early modernists when the Spanish flu pandemic killed him in 1918. He was 30.

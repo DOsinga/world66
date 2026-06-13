@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -33.0238
 longitude: -71.5510
+score: 5.4
 ---
 
 Café Journal is a relaxed neighbourhood cafe in the centre of Viña del Mar, the kind of place that fills in the morning with people reading newspapers and in the afternoon with those who are not quite ready to go back to the beach. The coffee is good by Chilean standards and the empanadas and pastries are made on the premises. It has the worn, comfortable feel of a place that has been here a while and intends to stay.

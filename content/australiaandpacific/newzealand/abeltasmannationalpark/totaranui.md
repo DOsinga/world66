@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - nature
+score: 7.6
 ---
 
 Totaranui is the northern road-end of the park — a long, broad beach of golden sand, backed by one of the largest DOC campgrounds in New Zealand. The road in from Takaka is unsealed for the last 12 kilometres and slow going, but it gives you a way to reach the northern end of the park without committing to several days of walking.

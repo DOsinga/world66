@@ -7,6 +7,7 @@ tags:
 latitude: 41.1266
 longitude: 16.8678
 snippet: The street where local women hand-shape pasta in front of their homes
+score: 7.8
 ---
 
 Strada Arco Basso, commonly known as Via delle Orecchiette or Strada delle Orecchiette, is a lane in Bari Vecchia where local women still sit outside their front doors making orecchiette — the ear-shaped pasta that is the signature dish of Puglia — just as they always have. The women work at astonishing speed, rolling and cutting small pieces of dough into the characteristic shape with a blunt knife in a single fluid motion that takes decades to perfect.

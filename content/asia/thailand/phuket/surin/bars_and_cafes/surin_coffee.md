@@ -8,6 +8,7 @@ tags:
 latitude: 7.9795
 longitude: 98.2815
 snippet: Small Thai-run coffee shops on the road behind the beach, good for a morning start
+score: 4.9
 ---
 
 The road running back from Surin Beach has a handful of small coffee shops serving the area's resident and working population — not destination cafes, but functional, pleasant spots for a morning espresso or Thai iced coffee before heading to the beach. The coffee is typically good; Thailand's specialty coffee culture has spread well beyond Bangkok, and even modest roadside shops in Phuket now often use decent beans and know how to use their espresso machines.

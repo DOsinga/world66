@@ -12,6 +12,7 @@ story: >
   new name. Henry the Navigator — whose maritime expeditions opened the sea routes to Africa and Asia —
   was at one point governor of the Order of Christ, giving this modest border castle an unexpected
   connection to the Age of Exploration.
+score: 7.2
 ---
 
 Castro Marim Castle sits on a hill above the town of Castro Marim, about 15 minutes by car from Praia Verde. The castle is medieval in its present form but the site has been fortified since prehistoric times — the hill commands the Guadiana estuary and the border with Spain. The main castle and its outer walls are well preserved, and views from the ramparts take in the salt pans of the natural reserve, the river, and on clear days the Spanish town of Ayamonte across the water.

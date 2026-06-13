@@ -15,6 +15,7 @@ tags:
 - architecture
 title: St. Catherine's Monastery
 type: poi
+score: 9.1
 ---
 
 St. Catherine's sits at the base of Mount Sinai in a high valley of red granite. The monastery was founded by Justinian in the 6th century around a chapel built two hundred years earlier by Helena, mother of Constantine, on the spot where Moses is said to have seen the Burning Bush. A descendant of that bush — botanists call it a rambling rose — still grows in the courtyard.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.1927
 longitude: -6.1558
+score: 6.8
 ---
 
 The Château de la Cigogne — Stork Castle — stands on a promontory at the northern edge of the medina with views over the estuary mouth and the Atlantic beyond. The fortress was built by the Spanish in the 17th century on the site of an earlier Portuguese tower, and its thick walls and angular bastions are characteristic of the period. The name comes from the white storks that nest on its towers every spring.

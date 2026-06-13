@@ -6,6 +6,7 @@ longitude: 98.2858
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A roadside viewpoint on the steep coastal road that climbs north out of Patong toward Kamala Beach. The wooden platform looks straight down the long crescent of Patong Bay — best at sunset when the lights of Patong and the silhouettes of longtail boats on the bay come together.

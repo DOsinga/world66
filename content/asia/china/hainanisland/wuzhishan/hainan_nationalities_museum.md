@@ -8,6 +8,7 @@ latitude: 18.7751
 longitude: 109.5169
 story: >
   The Li people have lived in Hainan's central highlands for over three thousand years. Their textile tradition — intricate geometric patterns woven on backstrap looms — was added to UNESCO's list of Intangible Cultural Heritage in 2009. The women who maintain the tradition are mostly elderly, and the museum's weaving demonstrations are conducted by practitioners who learned from their grandmothers in the last period when the knowledge was simply domestic rather than preserved.
+score: 8.2
 ---
 
 The Hainan Nationalities Museum in Wuzhishan city is the most comprehensive cultural collection relating to the Li and Miao peoples of Hainan's highlands. The Li are the island's principal indigenous group, with a distinct language, material culture, and history of resistance to successive waves of mainland administration. The museum covers this history honestly, including the periods of forced assimilation that erased much of the traditional way of life.

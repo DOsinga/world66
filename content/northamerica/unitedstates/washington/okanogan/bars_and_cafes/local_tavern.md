@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 48.3599
 longitude: -119.5748
+score: 5.2
 ---
 
 Okanogan's taverns are the functional kind: no craft beer lists, no cocktail menus, just cold domestic beer and a pool table. The clientele skews toward ranch workers, county locals, and people who have been coming to the same bar since before you were born. Conversation is friendly if you meet it that way.

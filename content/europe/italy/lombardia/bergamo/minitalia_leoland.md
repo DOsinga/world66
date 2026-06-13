@@ -10,6 +10,7 @@ tags:
 title: Minitalia Leolandia Park
 type: poi
 url: www.leolandiapark.it
+score: 4.4
 ---
 
 A family theme park located just off the A4 motorway at the Capriate exit, roughly halfway between Bergamo and Milan. The park is split into two sections: **Minitalia**, which features scale models of Italy's major monuments and landmarks, and **Leolandia**, the rides-and-entertainment side with flume rides, carousels, and shows aimed at younger children.

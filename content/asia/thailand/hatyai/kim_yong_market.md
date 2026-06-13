@@ -9,6 +9,7 @@ tags:
 - market
 title: Kim Yong Market
 type: poi
+score: 7.4
 ---
 
 A sprawling daytime market in the heart of Hat Yai, named after the original Hokkien owner. It is the largest dry-goods market in southern Thailand — bins of dried squid, salted fish, southern curry pastes, peppercorns, nuts, betel nut, herbal medicines, and the local specialty cashews from nearby Pattani.

@@ -8,6 +8,7 @@ tags:
 - daan
 title: Da'an Forest Park
 type: poi
+score: 7.1
 ---
 
 Da'an Forest Park is the largest park in central Taipei: a 26-hectare green square in the heart of Da'an District, with broad lawns, dense banyans, a small lake with night herons and Mandarin ducks, an outdoor amphitheatre, and the city's best running track. The park was carved out of dense military housing in the 1990s — a then-controversial demolition that has had decades of vindication.

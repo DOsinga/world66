@@ -12,6 +12,7 @@ tags:
 - shibuya
 title: Liquidroom
 type: poi
+score: 7.5
 ---
 
 One of Tokyo's best mid-sized live music venues, Liquidroom sits in Ebisu and books a strong mix of Japanese and international acts across electronic, rock, hip-hop, and everything in between. The sound system is excellent, and the standing-room layout keeps the energy high regardless of crowd size.

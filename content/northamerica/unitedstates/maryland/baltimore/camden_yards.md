@@ -14,6 +14,7 @@ story: >
   return to the intimate, urban, brick-and-steel aesthetic of pre-war baseball parks.
   Within a decade, every new ballpark in America was copying it, and the concrete
   multipurpose stadium became effectively extinct.
+score: 8.4
 ---
 
 Oriole Park at Camden Yards is one of the most beautiful baseball stadiums in the United States, and seeing a Baltimore Orioles game here is one of the city's best experiences regardless of whether you are a baseball fan. The park sits next to the city's old B&O Railroad warehouse, which forms a dramatic red-brick backdrop to right field. The sightlines are excellent, the atmosphere is genuine, and the crab cake at the concession stand is better than it has any right to be.

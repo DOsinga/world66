@@ -9,6 +9,7 @@ title: Nuwara Eliya Post Office
 type: poi
 story: >
   The Nuwara Eliya Post Office, built in 1894, is one of the oldest post offices in Sri Lanka still in its original building. It was constructed to serve the growing British colonial population of the hill station and features the red-brick and terracotta-tile vernacular architecture typical of late Victorian government buildings in Ceylon. It continues to operate as a working post office.
+score: 7.2
 ---
 
 The Nuwara Eliya Post Office is one of the town's most handsome colonial buildings — a red-brick structure with a clock tower that stands opposite Victoria Park. Built in 1894 and still in active use, it represents the well-funded confidence of the British hill station at its peak. The building looks slightly transplanted from an English market town, which is precisely the point.

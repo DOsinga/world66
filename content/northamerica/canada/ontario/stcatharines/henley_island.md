@@ -7,6 +7,7 @@ snippet: North America's largest regatta course, on canalised Twelve Mile Creek 
 tags:
 - things_to_do
 - sight
+score: 6.4
 ---
 
 The Henley course sits on the canalised channel of Twelve Mile Creek between Port Dalhousie and Martindale Pond. The 2,000-metre straight is one of the few internationally certified rowing courses in Canada and hosts the Royal Canadian Henley Regatta each August — the largest annual rowing event in North America, with over 3,000 athletes and more than 250 races spread over five days.

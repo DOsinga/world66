@@ -6,6 +6,7 @@ longitude: 21.52461
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The squat brick lighthouse at the mouth of the Venta River, dating from 1864, marks the entrance to Ventspils harbour. The structure stands at the end of a long stone breakwater — walking out to it along the breakwater is one of the more atmospheric short walks the city offers, especially in rough weather when waves break dramatically over the seaward side.

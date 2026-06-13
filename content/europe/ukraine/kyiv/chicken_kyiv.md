@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 50.4493
 longitude: 30.5224
+score: 5.1
 ---
 
 A small chain of restaurants devoted, mostly, to the city's most internationally famous dish: deboned chicken breast stuffed with herb butter, breaded and fried so that the butter erupts when the fillet is cut. The original Kyiv chicken is a 1918 invention, though the chain itself is recent.

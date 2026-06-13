@@ -15,6 +15,7 @@ story: >
   in 1710 — the first major stone building in the new city — and lived here in such style that when
   Peter died in 1725 and Menshikov briefly became the most powerful man in Russia, he was almost
   immediately arrested for embezzlement and exiled to Siberia, where he died in 1729.
+score: 8.0
 ---
 
 The Menshikov Palace on the Universitetskaya Embankment of Vasilievsky Island was the grandest house in early St Petersburg — built in 1710 for Peter the Great's right-hand man, and finished a decade before the Winter Palace existed in its present form. It is now a branch of the Hermitage covering early 18th-century Russian culture, with restored interiors hung with portraits, Dutch tile rooms, period furniture, and Menshikov's own collection of curiosities.

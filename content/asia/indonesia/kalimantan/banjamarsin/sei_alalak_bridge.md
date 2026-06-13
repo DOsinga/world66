@@ -7,6 +7,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Sei_Alalak_Bridge
+score: 4.8
 ---
 
 The Sei Alalak Bridge, opened in 2021 across the Alalak River north of central Banjarmasin, is Indonesia's first curved cable-stayed bridge — an elegant 850-metre arc whose two pylons rise above the riverside warehouses and stilt houses of the northern suburbs.

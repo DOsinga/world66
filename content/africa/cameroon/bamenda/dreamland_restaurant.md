@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 5.9620
 longitude: 10.1520
+score: 5.0
 ---
 
 A long-running mid-priced restaurant near Commercial Avenue serving a generous mix of Cameroonian, Nigerian, and Western dishes. Achu and jollof rice are the safe local choices; the grilled fish with plantains is reliably good.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -34.5704
 longitude: -58.4217
+score: 8.3
 ---
 
 A long stretch of parks and gardens running along the river bank in Palermo — Buenos Aires' answer to the Bois de Boulogne, though more democratic in character. The Bosques de Palermo encompasses the rose garden (Jardín Rosedal), the Japanese Garden, the Planetarium, a racetrack, polo fields, and several lakes with rowing boats available for hire.

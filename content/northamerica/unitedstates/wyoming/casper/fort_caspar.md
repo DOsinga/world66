@@ -12,6 +12,7 @@ story: >
   trying to rescue an army wagon train from Cheyenne and Lakota warriors. The city of Casper later
   took the same name — minus an "a", because of an early clerk's spelling error.
 snippet: "Reconstructed 1865 frontier army post west of downtown"
+score: 7.6
 ---
 
 A reconstructed army fort and museum on the south bank of the North Platte, on the spot where the

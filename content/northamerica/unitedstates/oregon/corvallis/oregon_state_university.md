@@ -11,6 +11,7 @@ story: >
   to admit women. The school has produced two Nobel laureates in chemistry: Linus Pauling 
   (winner of the Nobel Peace Prize and the Nobel Prize in Chemistry, one of the very few 
   people to have won two) and Carl David Anderson. Pauling grew up in Portland.
+score: 7.8
 ---
 
 Oregon State University's campus covers a large swath of the city and defines Corvallis's character as a college town. The campus mixes old brick collegiate buildings with modern research facilities and is well-landscaped with mature trees. The main quad is a pleasant place to walk, particularly when classes are in session and the campus is alive.

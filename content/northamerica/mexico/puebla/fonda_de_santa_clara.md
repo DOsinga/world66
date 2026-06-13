@@ -7,6 +7,7 @@ tags:
 latitude: 19.0455
 longitude: -98.1985
 snippet: "Puebla's classic restaurant for mole poblano and chiles en nogada, in business since 1965"
+score: 7.2
 ---
 
 The standard-bearer for traditional Puebla cooking, in business since 1965 and still the first place most visitors should go for mole poblano. The recipe is a closely guarded house secret: a complex sauce built from four or five types of dried chilli, dark chocolate, plantain, almonds, sesame, cumin, cinnamon, and a dozen other ingredients, cooked for hours and served over turkey or chicken. It is richer and darker than most versions you'll eat elsewhere.

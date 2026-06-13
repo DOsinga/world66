@@ -9,6 +9,7 @@ tags:
   - architecture
   - church
 story: "The 14th-century frescoes inside this otherwise modest village church are among the finest medieval Byzantine wall paintings in Albania — and they survive almost intact because the church was locked, padlocked, and bureaucratically forgotten for forty years during the communist era."
+score: 8.1
 ---
 
 The Holy Resurrection Church (Shën Mëria, also called St. Sotir) stands in Mborje, a village three kilometres east of central Korçë. The exterior is a simple Byzantine cross-in-square in stone, but the inside is remarkable: comprehensive 14th-century frescoes, restored in the 2010s, covering nearly every surface of the small nave.

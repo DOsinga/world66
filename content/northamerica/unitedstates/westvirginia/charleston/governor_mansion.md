@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.3367
 longitude: -81.6147
+score: 7.0
 ---
 
 The Governor's Mansion, built in 1925 just east of the Capitol, is a three-storey red-brick Georgian Revival residence designed by Walter Martens. The building has hosted every West Virginia governor since Howard Gore. Public tours run on Thursdays and Fridays and cover the formal rooms, the dining room, the library, and the conservatory; the upstairs family quarters are private.

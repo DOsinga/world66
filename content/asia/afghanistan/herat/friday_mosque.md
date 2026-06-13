@@ -12,6 +12,7 @@ story: >
   The Friday Mosque of Herat has been continuously repaired and renovated since the 12th century — a project that never quite ends. Craftsmen working on the tilework in the 1970s and 1980s used techniques and materials essentially unchanged from those used in the Timurid era. The result is that the mosque is simultaneously 800 years old and perpetually being born again.
 sources:
   - https://en.wikipedia.org/wiki/Friday_Mosque,_Herat
+score: 6.5
 ---
 
 The Friday Mosque of Herat — *Masjid-i Jami* or *Masjid-i Jami' Herat* — is the masterpiece of the city and one of the most magnificent mosques in the Islamic world. The structure dates originally to the 12th century and was substantially rebuilt under the Timurids in the 15th century; what you see today is largely the product of that great age of Central Asian architecture.

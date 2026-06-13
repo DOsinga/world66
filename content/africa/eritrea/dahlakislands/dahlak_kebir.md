@@ -6,6 +6,7 @@ latitude: 15.7225
 longitude: 40.0891
 story: >
   The Kufic-script tombstones in the cemetery at Dahlak Kebir date from the 9th to the 12th centuries, when the island was the seat of the Sultanate of Dahlak — a small but wealthy state that lived off pearl fishing, tortoiseshell, and the slave trade. Some of the inscriptions name merchants from as far away as Yemen and Persia, buried thousands of miles from home on this dry coral island.
+score: 8.1
 ---
 
 The largest of the islands and the only one with a real population — a few hundred people in scattered fishing villages, herding goats among the coral rubble and salt flats. There is no electricity grid, no piped water, and almost no shade. Most visitors stop here to see the cisterns and the medieval cemetery, and to walk through one of the villages where life has changed remarkably little in a thousand years.

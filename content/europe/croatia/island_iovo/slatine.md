@@ -7,6 +7,7 @@ tags:
 latitude: 43.5
 longitude: 16.3333
 story: "The catamaran service from Split to Slatine was established partly as a way to relieve summer traffic on the coastal road to Trogir — during peak season, the road through Kaštela can slow to a crawl, and arriving by sea cuts the journey to thirty minutes."
+score: 6.7
 ---
 
 Slatine sits on the northeast tip of Čiovo, the part of the island closest to [Split](/europe/croatia/split). It is the most connected village on Čiovo: the Jadrolinija catamaran from Split docks here, making it possible to reach the island in around thirty minutes without a car. That link makes Slatine feel slightly more cosmopolitan than the island's other settlements, with a small marina and a handful of waterfront cafes that serve commuters as much as tourists.

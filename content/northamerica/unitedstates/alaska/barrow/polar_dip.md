@@ -6,6 +6,7 @@ longitude: -156.7870
 tags:
   - things_to_do
   - swimming
+score: 6.6
 ---
 
 Visitors arriving in summer often choose to wade or briefly dip into the Arctic Ocean off the beach at the foot of the village — the so-called Polar Bear Dip. The water temperature sits around freezing year-round and there is usually some pack ice within sight even in August.

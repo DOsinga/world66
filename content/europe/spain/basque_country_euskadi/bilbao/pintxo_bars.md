@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.2591
 longitude: -2.9244
+score: 8.3
 ---
 
 The pintxo bars concentrated in the Casco Viejo's old streets are Bilbao's most democratic institution. Every evening from around 7pm, the bars along Calle del Perro, Calle Ledesma, Calle Jardines, and the streets radiating from Plaza Nueva lay out trays of small plates on the counter — little rounds of bread topped with tortilla, anchovies, salt cod, Iberian ham, crab, or whatever the chef has put together that day.

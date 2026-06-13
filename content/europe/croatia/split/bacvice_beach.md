@@ -13,6 +13,7 @@ story: >
   the water line without letting it touch the surface, in increasingly acrobatic dives.
   Picigin was added to Croatia's list of intangible cultural heritage in 2011, and
   the world championship is held on this beach every year.
+score: 6.8
 ---
 
 Bačvice is Split's most famous beach — a crescent of sand in a sheltered bay just ten minutes' walk east of the old town, with shallow water and a good number of snack bars and changing rooms. It is not the most beautiful beach on this stretch of coast, but it is the most alive: summer afternoons bring the full spectrum of Split society, from pensioners with newspapers to young families and the picigin players in the shallows.

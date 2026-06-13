@@ -14,6 +14,7 @@ story: >
   Boldt in the early 1900s; another credits a chef on a yacht. Just Room Enough Island,
   in the archipelago, is claimed to be the smallest inhabited island in the world: it fits
   a house, a tree, a small beach, and nothing else.
+score: 7.9
 ---
 
 The Thousand Islands begin almost immediately downstream from Kingston — in fact there are 1,864 of them, straddling the Canada-US border in the St. Lawrence River. They range from substantial islands with year-round communities down to barely-submerged rocks with a single tree (the qualifying requirement for island status is at least two living trees and one square foot above the waterline year-round). The archipelago was a fashionable resort destination for wealthy Americans in the late 19th century, and the grand Boldt Castle on Heart Island, built by the owner of the Waldorf Astoria as a gift for his wife, still stands as the era's most extravagant monument.

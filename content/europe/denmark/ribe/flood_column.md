@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The highest mark on the column — set roughly six metres above the surrounding pavement — marks the catastrophic flood of October 1634, in which more than 8,000 people drowned across the North Sea coast on a single night. Two-thirds of Ribe's livestock died and a third of the houses were destroyed."
+score: 6.6
 ---
 
 At the southern end of Sønderportsgade, just before the bridge over the river, stands a strange wooden post painted with horizontal stripes and dates. This is the **Stormflodssøjlen** — Ribe's flood column — and the stripes mark the heights of the major North Sea storm floods that have hit the town since the early seventeenth century.

@@ -8,6 +8,7 @@ tags:
 latitude: -10.6500
 longitude: 33.8000
 story: "Nyika has more terrestrial orchid species than any other site in southern Africa — around 200, with new species still being described. Some are tiny enough that you only spot them on hands and knees in the grass."
+score: 8.6
 ---
 
 For three months of the year — November to January, at the start of the rains — the plateau becomes one of the most spectacular wildflower destinations on the continent. The dormant grassland erupts into bloom: gladioli, lilies, dieramas, helichrysums, and an extraordinary range of ground orchids in every colour.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.8
 ---
 
 Kavourotrypes, on Sithonia's southeast coast between Sarti and Armenistis, is not a single beach but a series of tiny coves separated by smooth, rounded white rocks. The name means "crab holes" — a reference to the way the sea has carved out small pockets in the limestone.

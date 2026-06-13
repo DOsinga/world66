@@ -13,6 +13,7 @@ story: >
   multiplex), partly by leaning into the nostalgia, and partly because the radio-broadcast 
   audio means you watch in your own car with your own snacks — a format that turned out to 
   be unexpectedly appealing during COVID, which drove the drive-in revival more broadly.
+score: 7.2
 ---
 
 The Tiger Drive-In on Highway 49 is the only operating drive-in theater left in Mississippi, and one of fewer than 300 still operating in the entire United States. It shows double features on Friday and Saturday nights, and sometimes Sunday and during school holidays. Tune your car radio to the broadcast frequency for the audio; bring your own food or use the snack stand.

@@ -9,6 +9,7 @@ tags:
   - museum
 story: >
   The farm had no electricity until Jimmy was 14 years old, when the New Deal's Rural Electrification Administration finally brought power to the area. Carter often cited the moment lights came on in the farmhouse as a formative political memory — proof that government could meaningfully improve ordinary lives.
+score: 8.8
 ---
 
 Three miles west of Plains in the unincorporated community of Archery, the Carter family farm has been restored to its appearance during Jimmy's boyhood in the 1930s. The farmhouse, the barn, the commissary, the tenant houses, and several outbuildings have all been kept or rebuilt; the surrounding fields are still worked as a peanut and cotton farm.

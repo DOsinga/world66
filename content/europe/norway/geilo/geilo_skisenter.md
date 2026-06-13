@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 60.5167
 longitude: 8.2000
+score: 8.3
 ---
 
 Geilo's main alpine ski area is split across two sides of the valley — Geilolia and Slaatta — with a shared lift ticket and a free shuttle bus running between them. The combined area has around 40 pistes served by 20 lifts; the longest run drops about 400 vertical metres. The terrain is mostly intermediate and family-friendly, with some easy black runs but nothing extreme.

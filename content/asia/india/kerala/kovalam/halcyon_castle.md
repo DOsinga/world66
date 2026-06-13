@@ -6,6 +6,7 @@ latitude: 8.392985
 longitude: 76.972358
 story: >
   The castle was built in 1932 by the Maharaja of Travancore as a seaside retreat and guesthouse for distinguished visitors. The Czech tennis champion Ilka Másilko was reportedly one of its earliest guests. After Indian independence it passed through various hands, and for decades its distinctive pointed turrets and sea-facing veranda were rented out as a hotel — functioning, in a way, as the Maharaja originally intended.
+score: 6.2
 ---
 
 Halcyon Castle — now called Kovalam Palace — is the most architecturally distinctive building in Kovalam, sitting on a promontory slightly north of Samudra Beach with its towers and crenellations visible from the water. Built in 1932 during the Travancore princely state, it was designed as a royal summer residence and was one of the first grand buildings on this stretch of coast. The design is a peculiar Indo-colonial hybrid: whitewashed walls, tower rooms with narrow windows, and a wide veranda that faces the sea.

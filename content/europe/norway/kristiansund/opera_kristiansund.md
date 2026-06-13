@@ -13,6 +13,7 @@ story: >
   all the larger Norwegian opera projects of the same era. The opera house, 
   Festiviteten, is a 1914 building that survived the 1940 bombing and remains 
   one of the best small theatre spaces in western Norway.
+score: 7.4
 ---
 
 Kristiansund has an opera festival — the Operaen i Kristiansund — which is, improbably, the oldest opera festival in Norway, running each January since 1952. It takes place at the Festiviteten theatre, a handsome early-twentieth-century building in the town centre that survived the 1940 bombing. The festival brings professional productions, mostly from Norwegian and Scandinavian companies, to an intimate and genuinely enthusiastic audience.

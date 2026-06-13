@@ -13,6 +13,7 @@ tags:
 - surfing
 title: Widemouth Bay
 type: poi
+score: 8.1
 ---
 
 Widemouth Bay (pronounced "Widmuth" locally) is a broad open beach three miles south of Bude, facing directly into the Atlantic swell. It is the better surfing beach in the area — more exposed than Summerleaze, with more consistent and larger waves, and a sand bottom that produces reliable breaks. Several surf schools operate from the beach car park in summer, and the bay is popular with both beginners (at the milder southern end) and more experienced surfers (at the northern end where the waves are bigger).

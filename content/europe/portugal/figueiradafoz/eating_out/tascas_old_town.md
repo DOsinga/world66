@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.1520
 longitude: -8.8650
+score: 7.0
 ---
 
 The streets behind the promenade contain a number of small family restaurants — tascas — where the cooking is honest, the prices are low, and the daily specials are chalked on boards at the door. This is where local people eat lunch, and where visitors get the most food for the least money.

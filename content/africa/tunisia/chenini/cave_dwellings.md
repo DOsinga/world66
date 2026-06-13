@@ -9,6 +9,7 @@ latitude: 32.9107
 longitude: 10.2615
 sources:
   - https://en.wikipedia.org/wiki/Chenini
+score: 8.3
 ---
 
 Cut directly into the rock face of the ridge, the cave dwellings of Chenini are among the most intact examples of traditional Berber troglodyte architecture in Tunisia. The interiors stay cool in summer and warm in winter — a natural insulation that made this form of building the rational choice for millennia in a region where shade is precious and firewood scarce.

@@ -16,6 +16,7 @@ story: >
   The expression "to look down from one's tower" — meaning to take a
   superior attitude — originated in the Svan context and has entered
   Georgian as a general idiom.
+score: 9.1
 ---
 
 The defensive towers of Svaneti — koshi in Svan — are the defining feature of the landscape, and the reason Svaneti looks unlike anywhere else in Europe. About 175 towers survive across the region, ranging from simple square structures of 10 metres to elaborate 25-metre constructions with corner buttresses and machicolation. They were used for refuge during raids, for inter-family conflict (blood feuds were common), and as a status marker. Most are still inhabited or owned by families, which means access is at the owner's discretion.

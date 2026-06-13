@@ -8,6 +8,7 @@ latitude: -2.407
 longitude: -44.415
 story: >
   Alcântara was, in the 17th and 18th centuries, the wealthiest town in Maranhão — the cotton planters lived here, not in São Luís. When the cotton economy collapsed in the 19th century, Alcântara simply stopped developing. Today it is one of the best-preserved colonial towns in Brazil, not because of restoration but because nothing was built to replace what was already there.
+score: 9.1
 ---
 
 Alcântara is the most rewarding day trip from São Luís, a colonial town across the bay that time forgot. The ferry takes about 90 minutes from the São Luís waterfront terminal. Once a wealthy cotton port, Alcântara declined so completely after the cotton bust that most of its 18th-century buildings simply decayed in place rather than being demolished and replaced.

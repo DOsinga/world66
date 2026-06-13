@@ -11,6 +11,7 @@ story: >
   military operations in Kosovo. Clinton is depicted mid-wave, wearing a suit, holding a folder of documents
   that represents the Rambouillet Agreement — the failed peace talks that preceded the bombing campaign.
   A fashion boutique on the same street sells Hillary Clinton merchandise.
+score: 5.8
 ---
 
 Bill Clinton is a genuine hero in Kosovo, and the statue on William Walker Street — officially Bulevardi Bill Clinton — makes that clear. The bronze figure, about three metres tall on its plinth, shows Clinton mid-wave with a cheerful expression. He wears a suit and carries a briefcase. It is not a subtle monument.

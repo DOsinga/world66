@@ -8,6 +8,7 @@ latitude: 48.2964
 longitude: 18.0893
 sources:
   - https://en.wikipedia.org/wiki/Nitra
+score: 6.3
 ---
 
 Kalvária is a wooded hill south of the city centre with a Calvary chapel at its summit, reachable by a pleasant walk through the woods. The hilltop offers views over the city and across the agricultural plains of southwestern Slovakia, and on a clear day you can pick out the distinctive silhouette of Nitra Castle to the north.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9382
 longitude: 24.4065
+score: 6.2
 ---
 
 The waterfront strip east of the ferry terminal has a row of ouzeris and fish tavernas that face the bay. The format is the classic ouzeri model: small plates of meze — taramasalata, tzatziki, grilled bread, fried whitebait, cheese — paired with ouzo or tsipouro, the Greek pomace spirit. It is a slow, sociable way to eat that works particularly well in the late afternoon before the evening meal rush.

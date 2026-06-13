@@ -14,6 +14,7 @@ story: >
   filled seventeen rooms with everything from medieval weapons to Murillo
   paintings. He left it all to Malta on the condition that it be opened to
   the public as he had kept it — unchanged.
+score: 8.7
 ---
 
 Palazzo Falson is the finest medieval secular building in Mdina, and one of the best historic house museums in the Mediterranean. The structure dates from the Norman period — the ground floor is believed to be twelfth century — and was expanded over subsequent centuries while retaining its distinctive double-light windows and stone loggia.

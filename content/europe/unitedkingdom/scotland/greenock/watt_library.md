@@ -15,6 +15,7 @@ story: >
   tall windows, has changed little since the Victorian era.
 sources:
   - https://en.wikipedia.org/wiki/Watt_Library
+score: 7.3
 ---
 
 The Watt Library — formally the Watt Monument Library — is one of Greenock's finest buildings and one of the oldest working libraries in Britain. Opened in 1837, it was built with money raised partly through donations from James Watt's descendants and serves as a monument to Watt as much as a functioning library. The reading room is open to visitors and is worth stepping into for the architecture alone: a soaring Victorian interior with an iron gallery and good natural light.

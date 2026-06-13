@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 68.9872
 longitude: 33.0691
 snippet: "Memorial lighthouse on the hill, listing every sailor lost from Northern Fleet ships"
+score: 7.0
 ---
 
 Near the Saviour on the Waters Church on the hill above the bay, a small white lighthouse stands as a memorial to seamen and submariners lost from the Northern Fleet. Inside its base, brass plaques carry the names of every ship and submarine lost since the Second World War, together with the dates and circumstances.

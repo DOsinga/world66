@@ -7,6 +7,7 @@ tags:
 latitude: 9.762
 longitude: 43.6792
 snippet: Busy agricultural market serving the breadbasket of Somaliland
+score: 6.4
 ---
 
 Gabiley's market is the commercial hub of one of Somaliland's most productive farming regions. The town is known as the breadbasket of the country, and the market reflects that: stalls sell fresh produce that is harder to find in Hargeisa — papaya, watermelon, oranges, various vegetables grown on the farms of the surrounding plateau. Livestock is also traded here, as it is at virtually every market in Somaliland.

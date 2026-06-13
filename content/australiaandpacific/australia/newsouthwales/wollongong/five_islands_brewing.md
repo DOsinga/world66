@@ -7,6 +7,7 @@ tags:
 address: "Crown Lane, Wollongong NSW 2500"
 latitude: -34.4266
 longitude: 150.8937
+score: 6.0
 ---
 
 Five Islands Brewing Company is a craft brewery and bar in central Wollongong, named after the five small volcanic islands visible offshore from the city beach. It occupies a converted space near Crown Street and brews a rotating range of ales, lagers, and seasonals, alongside a food menu of wood-fired pizza and bar snacks.

@@ -9,6 +9,7 @@ latitude: 19.5400
 longitude: -96.9295
 snippet: "Modernist 1960s state theatre — home of the Orquesta Sinfónica de Xalapa, one of Mexico's leading orchestras"
 story: "The Orquesta Sinfónica de Xalapa, founded in 1929, is the oldest continuously operating professional orchestra in Mexico — older than the National Symphony — and has played the Teatro del Estado as its house since the building opened in 1968."
+score: 6.8
 ---
 
 The Teatro del Estado is a long, low modernist concrete shell from 1968, sitting on the green ridge between the centre and the museum quarter. It is the principal performance venue in the state — home of the Orquesta Sinfónica de Xalapa, the city's well-regarded opera season, and visiting dance and theatre.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Old_Town_Hall,_Toru%C5%84
   - https://en.wikipedia.org/wiki/District_Museum_in_Toru%C5%84
 story: "The Old Town Hall was built in stages between the 13th and 15th centuries and was once one of the most important trading houses in northern Europe — its vaults stored goods from across the Baltic trade network. Today it holds the Regional Museum, one of the oldest in Poland."
+score: 9.0
 ---
 
 The Old Town Hall dominates Toruń's market square and is one of the finest examples of Gothic brick civic architecture in Poland. Construction began in the late 13th century and continued through several phases, with the building taking its current form in the 14th and 15th centuries. The tower offers views across the old town and the Vistula.

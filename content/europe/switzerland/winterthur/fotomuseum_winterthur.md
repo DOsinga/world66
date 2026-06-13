@@ -12,6 +12,7 @@ story: >
   Winterthur's Fotomuseum was founded in 1993 in a converted industrial building — fitting for a city whose prosperity
   came from manufacturing. It was one of the first institutions in Europe to treat photography as a primary art form
   rather than a lesser cousin to painting, and its library holds over 600,000 photographic prints and negatives.
+score: 8.6
 ---
 
 The Fotomuseum Winterthur is one of the most respected photography museums in Europe, presenting both historical and contemporary work with equal seriousness. The exhibition programme rotates frequently, covering documentary photography, fine art photography, and the blurry territory between — expect to find names from Diane Arbus to Wolfgang Tillmans alongside emerging artists you won't have encountered before.

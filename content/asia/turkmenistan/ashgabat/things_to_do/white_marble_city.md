@@ -1,6 +1,7 @@
 ---
 title: "The White Marble City"
 type: poi
+score: 8.8
 ---
 
 Ashgabat holds a Guinness World Record for having the highest density of white marble-clad buildings in the world — over 543 buildings at last count, though the number grows as construction continues. The record itself is the point: no city on earth has been so deliberately engineered as an architectural statement of state power. Walking or driving the main boulevards, you pass monumental presidential palaces, government ministries, hotels, and cultural institutions, every surface faced in the same brilliant white Carrara-style marble, gleaming in the desert sun.

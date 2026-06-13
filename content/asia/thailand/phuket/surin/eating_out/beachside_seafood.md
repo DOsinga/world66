@@ -7,6 +7,7 @@ tags:
 latitude: 7.9745
 longitude: 98.2795
 snippet: Cluster of local seafood restaurants at the southern end of the beach, popular with Thai families
+score: 7.3
 ---
 
 The southern end of Surin Beach has long been the home of a cluster of no-frills seafood restaurants that cater primarily to Thai visitors. Tables are set up under the casuarina trees or on raised wooden platforms with sea views, and the menu is the kind of unfussy seafood cooking that locals travel for: whole grilled fish, crab fried with yellow curry powder, tom yum soup made with the morning's catch, and fresh prawns cooked half a dozen ways.

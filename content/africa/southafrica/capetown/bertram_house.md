@@ -13,6 +13,7 @@ tags:
 - city_bowl
 title: Bertram House
 type: poi
+score: 7.3
 ---
 
 Bertram House is the only Georgian-style brick house surviving in central Cape Town, built around 1839 for the lawyer John Barker. It now contains a small Iziko museum of nineteenth-century English domestic life at the Cape, with original furniture, ceramics and silver donated by the Ann Lidderdale Bequest.

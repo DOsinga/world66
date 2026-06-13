@@ -12,6 +12,7 @@ story: >
   royal palace — including the enormous mirror that gave the Hall of Mirrors effect in the
   throne room. The factory is still operating nearly three centuries later, making it one of the
   oldest continuously operating glassworks in the world.
+score: 8.3
 ---
 
 The Real Fábrica de Cristales de La Granja has been producing glass since 1727, when Felipe V established it to supply the palace and free Spain from dependence on expensive Venetian imports. The factory still operates today and visitors can watch glassblowers at work — the same traditional techniques, the same furnaces, the same glowing gobs of molten glass being blown and shaped by hand.

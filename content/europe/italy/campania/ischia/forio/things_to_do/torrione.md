@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 7.6
 ---
 
 The Torrione is the most prominent landmark in Forio's centro storico — a cylindrical Aragonese watchtower built in the 16th century as part of the coastal defence system that once ringed the island. Eleven such towers were constructed around Ischia to warn of raids from the Barbary corsairs; the Torrione is the best preserved of them and the only one you can enter.

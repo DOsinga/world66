@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 51.1531
 longitude: 71.4422
+score: 5.7
 ---
 
 Duman is a 1990s-vintage entertainment complex on the right bank, famous mainly for the Oceanarium — Central Asia's only saltwater aquarium and the furthest in the world from any ocean. The setup is straightforward and rather charming in its dated way: a glass walk-through tunnel with sharks and rays, tanks of tropical fish, a small penguin enclosure.

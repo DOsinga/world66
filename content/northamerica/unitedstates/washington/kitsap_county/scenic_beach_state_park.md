@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 neighbourhood: Seabeck
+score: 7.0
 ---
 
 On the west side of the peninsula, fronting Hood Canal across from the Olympic Mountains, this 88-acre park has one of the best small beaches on the Kitsap waterfront. The shoreline is good for oyster-gathering at low tide (with a state shellfish licence), the lawn above the beach is dotted with mature rhododendrons that bloom in May, and the view across to the Olympics is the standout for which the park is named.

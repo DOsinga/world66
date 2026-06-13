@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 19.2899
 longitude: -99.6545
+score: 7.0
 ---
 
 Mercado Juárez is Toluca's main covered market, a few blocks south of the Portales — a sprawling, two-storey building that draws thousands of shoppers from across the State of Mexico, especially on Friday, the traditional market day. The ground floor is mostly produce, meat, and fish; the upper floor is full of cooked-food stalls.

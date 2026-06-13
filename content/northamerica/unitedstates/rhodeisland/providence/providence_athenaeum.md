@@ -14,6 +14,7 @@ story: >
   stacks as a backdrop for their meetings. H.P. Lovecraft, who grew up just
   blocks away and knew the building intimately, set scenes of his fiction in
   and around it — he considered it one of the essential presences of Providence.
+score: 8.1
 ---
 
 The Providence Athenaeum on Benefit Street is one of the oldest subscription libraries in the United States, founded in 1753 and occupying its current Greek Revival building since 1838. It is open to the public, and visitors can browse the stacks and admire the reading rooms without becoming members. The collection runs to 175,000 volumes, with strengths in art, literature, and local history.

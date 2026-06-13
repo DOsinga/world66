@@ -8,6 +8,7 @@ title: "Musée Archéologique"
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Saintes,_Charente-Maritime
+score: 7.6
 ---
 
 The archaeological museum occupies the Présidial — a 17th-century administrative building at the centre of the old town — and contains the main collection of Roman artefacts from the excavations at Saintes and its surroundings. Mosaics, sculptures, everyday objects from Roman households, and funerary monuments give a concrete sense of what Mediolanum Santonum actually looked like as a functioning Roman city.

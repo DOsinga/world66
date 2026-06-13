@@ -7,6 +7,7 @@ tags:
 latitude: 45.2745
 longitude: -66.0601
 snippet: Long-running Maritime seafood restaurant in the uptown core
+score: 5.8
 ---
 
 Black Bear Restaurant is a reliable uptown staple for Maritime seafood, a straightforward kitchen that handles lobster, scallops, halibut, and chowder with the competence of a place that has been doing exactly this for years. It is not stylish, but the sourcing is local and the portions are generous.

@@ -7,6 +7,7 @@ tags:
 - friedrichshain
 title: Boxhagener Platz
 type: poi
+score: 7.6
 ---
 
 Boxhagener Platz — Boxi to everyone who lives nearby — is the social centrepiece of eastern Friedrichshain. On Saturday mornings a flea market fills the square, a well-stocked mix of secondhand furniture, clothes, records, and household objects that draws a regular crowd of neighbourhood people rather than tourists. Sundays bring a smaller farmers' market, with seasonal produce, cheese, and bread from regional suppliers. The playground at one end is perpetually occupied; the benches at the other are where people sit with takeaway coffee from the surrounding cafés and ignore the time.

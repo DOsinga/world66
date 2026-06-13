@@ -9,6 +9,7 @@ tags:
 title: Elm Park
 type: poi
 snippet: One of the first public parks in America, dating to 1854
+score: 7.3
 ---
 
 Elm Park, west of downtown Worcester, has a credible claim to being one of the first public parks in the United States — the land was bought by the city in 1854, predating most of Frederick Law Olmsted's better-known work. The park has the feel of a 19th-century English garden, with curved paths, two small ponds connected by a footbridge, and dozens of mature trees.

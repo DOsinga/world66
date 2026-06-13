@@ -9,6 +9,7 @@ latitude: 36.5285
 longitude: -87.3456
 story: >
   The Louisville and Nashville Railroad was one of the key supply lines for Union forces during the Civil War, and Clarksville's position on the line made it strategically important. After the Union occupation in 1862, the railroad became a military lifeline; guerrilla raids on the tracks and bridges were a constant threat throughout the war. The depot building was built in 1890 after the original wartime structure was replaced.
+score: 5.8
 ---
 
 The L&N Train Depot at 189 10th Street is a restored 1890 Romanesque Revival building that served as Clarksville's main railroad station until passenger service ended in the 20th century. The brick building with its arched windows and decorative stonework is one of the more attractive pieces of railroad architecture in middle Tennessee.

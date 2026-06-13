@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The **Hünkâr Camii** ("Sultan's Mosque") is the oldest surviving mosque in Constanța, built in 1869 during the final decade of Ottoman rule over Dobruja. It is a modest, low building of pale stucco with a slender wooden minaret — a quiet contrast to the much grander Grand Mosque a few blocks south. The interior is plain, with simple wooden screens and a single small mihrab.

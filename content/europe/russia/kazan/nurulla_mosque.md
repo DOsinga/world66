@@ -9,6 +9,7 @@ tags:
   - mosque
   - old_tatar_quarter
   - architecture
+score: 6.8
 ---
 
 The Nurulla Mosque, built in 1849, is the second oldest stone mosque in Kazan. It sits in the heart of the Old Tatar Quarter on Moskovskaya Street, a tall green-roofed building with a slim white minaret beside it.

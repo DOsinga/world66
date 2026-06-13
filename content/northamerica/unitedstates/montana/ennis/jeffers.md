@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_sight
 snippet: Tiny historic community across the river, with a 19th-century chapel
+score: 5.6
 ---
 
 Two miles east of Ennis across the Madison River, Jeffers is the older settlement — founded in the 1860s by ranchers and now mostly a scatter of historic buildings and modern ranch houses. The little white-clapboard Trinity Episcopal Church, built in 1889, is one of the oldest in the valley and still active; the Jeffers Inn, also from the 19th century, is now a quiet bed-and-breakfast.

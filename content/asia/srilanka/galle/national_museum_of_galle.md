@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.029278
 longitude: 80.216694
+score: 6.9
 ---
 
 The National Museum of Galle is housed in the oldest Dutch building inside the fort, a stout 1656 structure that originally served as a guardroom and barracks. The single-storey museum focuses on the Dutch and British colonial periods, with a modest but well-presented collection of furniture, weapons, ceramics, lace and traditional masks.

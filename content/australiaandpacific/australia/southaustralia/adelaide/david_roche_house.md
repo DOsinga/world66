@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Lavish house museum in North Adelaide filled with English furniture, art, and porcelain"
+score: 8.1
 ---
 
 David Roche was an Adelaide lawyer and obsessive collector who spent decades assembling an extraordinary private collection of English furniture, silver, paintings, and objets d'art, all of which he housed in his North Adelaide mansion. After his death the house became a museum — unusual in Australia, which has few house museums of this quality.

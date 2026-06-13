@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0767
 longitude: 11.6785
+score: 6.7
 ---
 
 The fourteenth-century Franciscan church on the north side of Corso Rossellino, one of the few medieval buildings that survived Pius II's Renaissance demolition almost intact. The plain Gothic facade and single-nave interior feel a world away from the architectural ambition of the cathedral, fifty metres away.

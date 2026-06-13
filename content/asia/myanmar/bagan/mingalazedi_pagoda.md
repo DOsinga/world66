@@ -13,6 +13,7 @@ tags:
   - landmark
 title: Mingalazedi Pagoda
 type: poi
+score: 8.4
 ---
 
 The Mingalazedi ("Pagoda of Blessing") was completed in 1277, just before Kublai Khan's Mongol forces ended the Bagan empire. It is the last and in many ways the finest of Bagan's great stupas, and its completion was said by astrologers to foretell the city's fall.

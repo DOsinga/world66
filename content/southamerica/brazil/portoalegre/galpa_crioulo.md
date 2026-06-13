@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Galpão Crioulo
 type: poi
+score: 6.8
 ---
 
 Galpão Crioulo is what you come to Porto Alegre to eat. The restaurant — its name means something like "Creole barn" — is a proper gaúcho churrascaria operating in a large, rustic building designed to evoke the ranch culture of the pampas: rough-hewn timber, cowhide upholstery, gauchos in traditional dress circulating with skewers of meat. This sounds like theatre, and it partly is, but the food is absolutely serious. The rodízio here — the all-you-can-eat format where cuts are brought continuously to the table — is considered one of the best in the city.

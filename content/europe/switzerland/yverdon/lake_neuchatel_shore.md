@@ -7,6 +7,7 @@ tags:
 latitude: 46.7807
 longitude: 6.6478
 snippet: A long lakeside promenade with beach, marina, and lawns
+score: 7.2
 ---
 
 The lakefront at Yverdon is one of the longest stretches of free public shore on Lake Neuchâtel. The promenade runs east from the marina past the Centre Thermal and on to the Clendy nature reserve, a wetland of reedbeds that is a major bird-watching site.

@@ -7,6 +7,7 @@ tags:
 author: "Bruce Clark"
 latitude: 38.4190
 longitude: 27.1285
+score: 7.0
 ---
 
 Bruce Clark's Twice a Stranger is a history of the 1923 Greek-Turkish population exchange — the largest forced migration in modern history before World War II — told through the stories of those who lived it on both sides. The exchange affected over a million Greeks and half a million Turks, uprooting communities that had lived in their respective countries for generations.

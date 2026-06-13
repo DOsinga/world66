@@ -6,6 +6,7 @@ longitude: 119.2972
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Fuzhou Confucian Temple — locally known as Xianshi Temple — dates from the Tang dynasty and has been rebuilt and restored through the centuries. It stands near the base of Yushan hill in the old city and is a working ritual site, particularly active during the spring and autumn Confucian ceremonies. The complex includes the main hall, a pavilion, and a small museum on Confucian culture.

@@ -8,6 +8,7 @@ latitude: 44.4328
 longitude: 8.5486
 story: >
   The Beigua massif was declared a UNESCO Global Geopark in 2005, one of the first in Italy, for its extraordinary geological diversity — the park sits on an ancient ophiolite sequence, a fragment of oceanic crust thrust onto the continent that dates back 180 million years. The dark greenish-grey rocks exposed on the summit ridges are some of the oldest visible material in the western Alps.
+score: 8.1
 ---
 
 The Beigua Natural Regional Park occupies the high ridge of the Ligurian Apennines above Stella, a UNESCO Global Geopark notable for its ancient geological formations and its position astride the watershed between the Mediterranean and the Po Valley. The park's highest point, Monte Beigua (1,287 m), is accessible by a combination of roads and trails from Arenzano on the coast, with Stella providing a quiet inland approach through the forests.

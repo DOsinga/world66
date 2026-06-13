@@ -16,6 +16,7 @@ story: >
   than in Bangkok.
 sources:
   - https://en.wikipedia.org/wiki/Klai_Kangwon_Palace
+score: 7.5
 ---
 
 Klai Kangwon Palace ("Far from Worries" in Thai) is the primary royal summer residence in Hua Hin, built in 1926 by King Vajiravudh and subsequently developed into the residence most associated with King Bhumibol Adulyadej (Rama IX). The palace grounds front directly onto the beach north of town.

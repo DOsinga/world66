@@ -6,6 +6,7 @@ latitude: 54.3503
 longitude: 18.6518
 story: >
   St. Mary's was damaged in 1945 and its renowned 15th-century astronomical clock — capable of displaying the day, month, year, phase of the moon, and position of the sun and moon in the zodiac — was looted during the Soviet occupation and ended up in a museum in St. Petersburg. A replica was installed in the church in 2019, but the original remains in Russia.
+score: 8.9
 ---
 
 St. Mary's Church is one of the largest brick Gothic churches in the world, capable of holding 25,000 people inside its vast nave. The scale is overwhelming: the ceiling vaults soar 29 metres above the floor, and the interior is a world of its own once your eyes adjust to the filtered light. The church was built between 1343 and 1502 and has accumulated chapels, altarpieces, and memorials across seven centuries.

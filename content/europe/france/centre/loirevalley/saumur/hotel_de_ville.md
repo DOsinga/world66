@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Hôtel de Ville
 type: poi
+score: 7.0
 ---
 
 Saumur's town hall began as a 16th-century private mansion, expanded in the 19th century with a striking neo-Gothic wing facing the Loire. The riverside facade — turrets, pinnacles, an open arcade at street level — is one of the most picturesque sights in the town, particularly when viewed from across the river or from one of the bridges.

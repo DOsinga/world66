@@ -15,6 +15,7 @@ story: >
   of the most significant pieces of Romanesque sculpture in Germany and dates to around 1200.
   A carved capital in the apse shows scenes from the life of Samson that are among the best
   examples of Romanesque stone carving in Bavaria.
+score: 8.8
 ---
 
 The Romanesque basilica of St Michael in Altenstadt, about 3 kilometres west of Schongau on the road toward the Lech, is the most important historical monument in the area and easily reached by bicycle or a short drive. Built around 1200 on the site of an earlier church, St Michael's has survived remarkably intact — its three-aisled interior with rounded arches and heavy stone columns is essentially unchanged from the medieval period.

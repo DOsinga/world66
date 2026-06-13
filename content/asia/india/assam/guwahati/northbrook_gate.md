@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1879
 longitude: 91.7387
+score: 5.4
 ---
 
 A small colonial monument on the riverfront at Sukreswar Ghat, the Northbrook Gate was built in 1874 to welcome the British viceroy Lord Northbrook on a visit to Guwahati. It is a pavilion-like ceremonial arch in cement and brick, locally nicknamed "Gateway of Assam", and is one of the very few surviving examples of British-era municipal architecture in the city — though much rebuilt after the 1897 earthquake.

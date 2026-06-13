@@ -7,6 +7,7 @@ tags:
 latitude: 48.9211
 longitude: -123.7169
 story: "The gate was built as the entrance to an ambitious artisan village and housing cooperative that was never constructed. The collective ran out of money, the land was sold, and the elaborate cedar gate was left standing as the only evidence that anything was planned at all."
+score: 4.9
 ---
 
 The Pacific Rim Artisan Village Gate stands on Willow Street as the sole remnant of an ambitious collective housing and artisan workspace project that never got past its entrance. The gate is a substantial timber structure with carved elements, and its incongruous presence — a gateway to an empty lot — gives it an oddly compelling quality.

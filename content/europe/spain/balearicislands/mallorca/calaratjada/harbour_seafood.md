@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 39.7106
 longitude: 3.4602
+score: 6.3
 ---
 
 The row of fish restaurants along the harbour front is Cala Ratjada's best eating. Most display the day's catch in iced trays at the entrance — rockfish, dentex, sea bass, and whatever the boats brought in that morning. The preparation is straightforward: grilled whole, baked in salt, or made into a simple caldero (rice cooked in fish broth). Prices are higher than inland but justified by the freshness.

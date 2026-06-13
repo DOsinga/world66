@@ -6,6 +6,7 @@ longitude: 17.2715
 tags:
   - things_to_do
   - museum
+score: 5.9
 ---
 
 The local history museum covers the archaeology of the Hanság marshlands, the Roman frontier, and the agricultural history of the Moson plain. The collection is modest but well-labelled, and a visit takes an hour at most. Captions are mainly in Hungarian with some German; English is patchy.

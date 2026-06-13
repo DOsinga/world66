@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.0630
 longitude: -81.5580
+score: 6.8
 ---
 
 The deep bay on which Matanzas was founded, sheltered by headlands to the east and west and fed by three rivers from the interior. The bay was the source of the city's colonial wealth: its depth and shelter made it one of the best natural harbours on Cuba's north coast, and the sugar and molasses from the surrounding plantations were loaded here for export to Europe and North America.

@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Temple Bar
 type: poi
+score: 7.2
 ---
 
 Temple Bar is Dublin's designated cultural quarter, a compact grid of cobbled streets between Dame Street and the Liffey, west of College Green. It has a reputation for stag parties and overpriced pints that is not entirely undeserved — on a Friday or Saturday night it is loud, crowded, and expensive. But dismiss it too quickly and you miss the point.

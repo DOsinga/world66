@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 27.5878
 longitude: 90.7378
 story: "Tamzhing was founded in 1501 by Pema Lingpa, the great treasure-revealer of Bhutan, who according to tradition designed and forged the monastery's iron chainmail armour himself — pilgrims still try it on for blessings, though it weighs around 25 kilos."
+score: 6.9
 ---
 
 Tamzhing Lhundrup Monastery lies across the Chamkhar river from Kurjey, an easy walk on a footbridge. It is the chief seat of the Pema Lingpa tradition and contains some of the oldest religious murals in Bhutan, many of them said to have been painted by Pema Lingpa himself in the early 1500s.

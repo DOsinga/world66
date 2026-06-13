@@ -8,6 +8,7 @@ tags:
 latitude: 27.7163
 longitude: 85.3121
 address: Thamel, Kathmandu
+score: 5.3
 ---
 
 Roadhouse is one of the most reliable Italian restaurants in Thamel, with three outlets in different parts of the city. The Thamel branch does excellent wood-fired pizza — a creditable production given the location — and a pasta menu that holds up. The atmosphere is relaxed, the portions are generous, and it is reasonably priced for what it delivers.

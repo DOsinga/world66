@@ -9,6 +9,7 @@ story: >
   near the reef and is now colonised by corals and fish. The wreck sits in shallow water
   and is accessible to snorkellers without any diving equipment, making it one of the
   most accessible wreck snorkels in Queensland.
+score: 8.4
 ---
 
 Geoffrey Bay near Arcadia is listed among the top ten snorkelling spots in Queensland. The reef here is close to shore and accessible directly from the beach — no boat required. An underwater snorkel trail is marked with buoys, guiding swimmers through coral gardens and past giant clams, tropical fish, and the shallow remains of the Moltke Wreck.

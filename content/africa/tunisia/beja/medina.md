@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.2
 ---
 
 Béja's medina is small, lived-in, and undiscovered by tourism. There are no tour groups, no souvenir stalls, no touts — just steep lanes of whitewashed houses, the occasional café, and a working covered market where farmers from the surrounding countryside sell olives, cheese, and dates. The street grid climbs the hillside from the lower town up to the kasbah, and the views over the rooftops to the wheat fields beyond get better with every turn.

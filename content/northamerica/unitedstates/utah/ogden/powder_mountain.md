@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.3777
 longitude: -111.7810
+score: 8.0
 ---
 
 Powder Mountain sits on the north side of Ogden Valley and is one of the largest ski resorts in the United States by skiable acreage — over 8,000 acres, most of it lift-accessed, with additional snowcat terrain beyond. Yet it remains relatively quiet. The resort is owned by a community-minded group that has deliberately kept it low-key, resisting large-scale development, and the result is one of the least crowded mountain experiences in the Wasatch.

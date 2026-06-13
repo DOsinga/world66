@@ -11,6 +11,7 @@ title: Lennon Wall
 type: poi
 story: >
   The wall began in the 1980s when an unknown artist painted a portrait of John Lennon after his 1980 murder. Communist authorities kept whitewashing it; protesters kept repainting it. The wall became a symbol of peaceful resistance. After 1989, the authorities stopped fighting it.
+score: 6.5
 ---
 
 On a quiet square behind the Maltese embassy in Malá Strana, the Lennon Wall has been continuously covered in Beatles lyrics, peace symbols, and free-form graffiti since the 1980s. It became a focal point for young Czechs who used it to voice dissent against the Communist regime through the language of Western pop music.

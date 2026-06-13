@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.5837
 longitude: 13.0165
+score: 8.1
 ---
 
 Jenner is the most accessible alpine viewpoint around Berchtesgaden, reached from Schönau am Königssee by a gondola (Jennerbahn) that runs year-round. The summit at 1,874 metres offers views across the Königssee below, the Watzmann massif to the west, and a panorama stretching into Austria. In summer there is hiking across the alpine plateau; in winter the mountain hosts a modest ski area.

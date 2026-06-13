@@ -12,6 +12,7 @@ story: >
   killing all 75 people on board. The university rebuilt its programme from
   scratch, fielding a team of freshmen the following year. The Memorial Student
   Center fountain on campus is dedicated to those who died.
+score: 6.5
 ---
 
 Marshall University sits in the heart of Huntington and is the city's most prominent institution. The campus is compact and walkable, with a mix of historic brick buildings and more recent additions. The Visual Arts Center, housed in a converted department store on Fifth Avenue, is worth a look for its galleries and rotating exhibitions.

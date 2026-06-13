@@ -13,6 +13,7 @@ story: >
   worked alongside his companions to dig it. The trench was about 5.5 km long, 3 metres wide,
   and 3 metres deep. It effectively stopped the Quraysh cavalry and their ten-thousand-strong
   coalition from reaching the city.
+score: 7.3
 ---
 
 On the slopes of the Sal hill on Medina's northwestern edge stands a cluster of small mosques associated with the Battle of the Trench (627 CE), one of the decisive moments in early Islamic history. When a coalition of ten thousand soldiers marched on Medina, the Muslim community responded by digging a defensive trench across the northern approaches — a Persian-inspired tactic that the attacking cavalry could not cross.

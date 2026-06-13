@@ -11,6 +11,7 @@ longitude: 0.0517
 story: "The abbey church holds the effigy tombs of Henry II of England, Eleanor of Aquitaine, and Richard the Lionheart — three of the most consequential figures of medieval Europe, buried not in England but in an abbey in Anjou. Eleanor outlived her son Richard and reportedly arranged the funeral herself. She died at Fontevraud in 1204 and was buried beside her husband, though she had spent much of her later life imprisoned by him."
 sources:
   - https://en.wikipedia.org/wiki/Fontevraud_Abbey
+score: 9.6
 ---
 
 The Abbaye Royale de Fontevraud is one of the largest and best-preserved medieval monastic complexes in Europe. Founded in 1101 by the wandering preacher Robert of Arbrissel, it was unusual from the start: a double monastery housing both monks and nuns, governed by an abbess. Over the centuries it became the preferred convent of Plantagenet royalty, and the church was used as the dynasty's mausoleum.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -5.6736
 longitude: 176.115
+score: 6.8
 ---
 
 Lolua is the administrative capital of Nanumea atoll and home to most of the island's 500-odd residents. The village runs along the lagoon shore for a couple of kilometres, with houses set back among coconut palms and breadfruit trees, a wharf where the inter-island boat puts in, the island council office, and a small medical clinic.

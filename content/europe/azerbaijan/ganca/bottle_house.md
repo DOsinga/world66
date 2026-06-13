@@ -8,6 +8,7 @@ story: >
   The house was built by Ibrahim Jafarov, who began embedding bottles into the walls of his home in the 1960s in memory of a family member who never returned from World War Two. His portrait, made from coloured glass bottle bottoms, is visible in the facade. The project grew over decades to consume roughly 48,000 bottles.
 sources:
   - https://en.wikipedia.org/wiki/Bottle_house_of_Ganja
+score: 7.3
 ---
 
 The Bottle House is one of the most singular buildings in the Caucasus — a two-storey private residence on the corner of Guseinli and Garia streets, its exterior walls set with approximately 48,000 glass bottles arranged in decorative patterns. Up close the effect is stranger and more beautiful than photographs suggest: the bottle bottoms catch the light in different colours depending on the time of day, and the portraits and geometric designs embedded in the wall repay slow examination.

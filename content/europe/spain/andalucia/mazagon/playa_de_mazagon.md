@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.4
 ---
 
 The town beach of Mazagón runs for several kilometres west of the small marina, a wide stretch of golden sand backed by a low promenade. It is busy in July and August with Spanish family holidaymakers from Sevilla and Huelva but rarely uncomfortably so, and almost empty outside the school holidays.

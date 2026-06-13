@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Samosir
   - https://en.wikipedia.org/wiki/Toba_catastrophe_theory
+score: 8.8
 ---
 
 Lake Toba is the largest volcanic lake in the world and the site of the most violent volcanic eruption of the past two million years. The lake occupies a caldera roughly 100 kilometres long and 30 kilometres wide, formed when a supervolcano collapsed after its cataclysmic eruption approximately 74,000 years ago. Samosir Island rose from the caldera floor over subsequent millennia due to continued volcanic pressure from below — making it a resurgent dome rather than a simple island.

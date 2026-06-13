@@ -13,6 +13,7 @@ story: >
   by the campaigning of local woman Moremi Leah Sekgoma. It set a precedent for
   community conservation that has since influenced protected area management across
   the continent.
+score: 9.4
 ---
 
 Moremi Game Reserve occupies the eastern third of the Okavango Delta and spills into the Chobe ecosystem to the northeast, covering around 5,000 square kilometres. It protects some of the richest wildlife habitat in southern Africa: permanent water attracts year-round concentrations of elephant and buffalo, while the dry season brings predators following the game.

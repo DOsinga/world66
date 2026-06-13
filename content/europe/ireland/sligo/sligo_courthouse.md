@@ -4,6 +4,7 @@ type: poi
 latitude: 54.2698
 longitude: -8.4719
 tags: [sight]
+score: 5.0
 ---
 
 A Victorian-Gothic courthouse on Teeling Street, completed in 1878 to a design by James Rawson Carroll. The crenellated stone facade is one of the more imposing pieces of civic architecture in the centre.

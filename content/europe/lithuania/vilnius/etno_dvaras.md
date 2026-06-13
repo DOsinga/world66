@@ -9,6 +9,7 @@ tags:
   - restaurant
   - old_town
 neighbourhood: Old Town
+score: 7.2
 ---
 
 Etno Dvaras on Pilies Street is one of the better places to eat traditional Lithuanian food without resorting to tourist-trap approximations. The menu is built around cepelinai (potato dumplings with meat or curd), šaltibarščiai (cold pink beet soup with kefir), skilandis (smoked pork sausage), and other dishes that appear on Lithuanian tables rather than just in restaurants designed for foreigners.

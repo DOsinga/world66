@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.9583
 longitude: 23.275
+score: 7.5
 ---
 
 The Vormsi Landscape Conservation Area covers more than 2,400 hectares of the island — alvar meadows, juniper scrub, coastal pine, and shallow shore. The reserve protects what is left of the open, grazed landscape that the Estonian Swedes maintained for centuries before the Soviet evacuation.

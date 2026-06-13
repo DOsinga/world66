@@ -6,6 +6,7 @@ tags:
   - sights
 latitude: 69.6489
 longitude: 18.9551
+score: 8.3
 ---
 
 This is a truly remarkable part of the voyage for mountain scenery. The sight of the Lyngen Alps with the sun descending like a huge red ball is not something you will forget.

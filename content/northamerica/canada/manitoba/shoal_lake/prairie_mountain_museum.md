@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.4401
 longitude: -100.5421
+score: 5.4
 ---
 
 The Prairie Mountain Regional Museum sits about five kilometres east of Shoal Lake along Highway 16 (the Yellowhead). It specialises in horse-drawn vehicles, with a large collection of fully restored farm wagons, sleighs, buggies, and related equipment representing the agricultural past of the western Manitoba prairies.

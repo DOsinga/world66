@@ -14,6 +14,7 @@ tags:
 - historic
 title: Dee Wright Observatory
 type: poi
+score: 8.2
 ---
 
 The Dee Wright Observatory stands at the high point of McKenzie Pass on the old Highway 242, about half an hour west of Sisters. It is a squat round tower built entirely of lava rocks during the Depression by the Civilian Conservation Corps, and the windows are arranged so that each frames a specific Cascade peak — Mount Hood, Mount Jefferson, the Three Sisters, Mount Washington, Three Fingered Jack — each labelled by a bronze plaque on the parapet.

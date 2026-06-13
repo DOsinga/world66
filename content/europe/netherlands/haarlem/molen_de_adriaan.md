@@ -11,6 +11,7 @@ story: >
   steam train ignited the wooden structure. The city rebuilt it from scratch in 2002
   using old photographs and plans — a labour of love that took years and was funded
   largely by public donations.
+score: 7.9
 ---
 
 A reconstructed 18th-century windmill standing on the banks of the Spaarne river, one of Haarlem's most recognisable landmarks. The tower mill was originally built in 1779 for tobacco and tanning bark grinding, and the current reconstruction faithfully reproduces the original.

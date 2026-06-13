@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 34.8829
 longitude: -1.3113
+score: 8.5
 ---
 
 The Sidi Belahcen Mosque was founded in 1296 by the Zayyanid sultan Othman ibn Yaghmorasen as the burial-place of the Sufi master Abu al-Hasan al-Tlemceni. The building is small but architecturally exceptional — a square prayer hall, a single ribbed cupola of pierced stucco, and a mihrab framed by some of the finest carved-plaster decoration in the city.

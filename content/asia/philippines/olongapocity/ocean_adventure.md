@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 5.5
 ---
 
 Ocean Adventure is an open-water marine park on the Subic Bay shoreline, the only park of its kind in Southeast Asia. The shows feature dolphins, sea lions, and false killer whales, and the enclosures are sea pens of real ocean water rather than concrete tanks.

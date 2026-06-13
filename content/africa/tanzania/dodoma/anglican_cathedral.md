@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Anglican Cathedral of St John sits on a rise in central Dodoma, a modest stone church with a square tower that has been the seat of the Diocese of Central Tanganyika since 1927. The diocese was carved out of older missionary territory when the Church Missionary Society reorganised its work in the interior, and Dodoma was chosen because of its position on the new Central Railway.

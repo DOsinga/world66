@@ -7,6 +7,7 @@ tags:
   - town
 title: Neah Bay
 type: poi
+score: 7.6
 ---
 
 Neah Bay is the Makah community near the peninsula's far northwest tip. For travellers, it is the gateway to Cape Flattery and Shi Shi Beach, but it should not be treated as just a gas stop.

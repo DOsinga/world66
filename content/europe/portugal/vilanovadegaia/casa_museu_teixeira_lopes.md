@@ -8,6 +8,7 @@ latitude: 41.1288
 longitude: -8.6117
 sources:
   - https://en.wikipedia.org/wiki/Teixeira_Lopes
+score: 7.3
 ---
 
 The Casa-Museu Teixeira Lopes preserves the home and studio of António Teixeira Lopes (1866–1942), one of the most significant Portuguese sculptors of the late nineteenth and early twentieth century. Lopes was born in Gaia and spent most of his life there, and the house — a fine bourgeois villa with an attached sculpture garden — was donated to the municipality after his death and remains much as it was during his working life.

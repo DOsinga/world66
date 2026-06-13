@@ -11,6 +11,7 @@ story: >
   freely through the natural world. The peak has been a place of pilgrimage and
   contemplation since at least the Song Dynasty, when scholars and hermits built
   small retreats in the caves and crevices of its upper slopes.
+score: 9.8
 ---
 
 Tianyou Peak (天游峰) is the highest accessible viewpoint in the Wuyishan Scenic Area and the essential hike for anyone visiting the mountains. The climb follows stone steps cut into the cliff face for about 215 metres of vertical ascent, with chains bolted into the rock for steeper sections. The summit gives a panoramic view of the Nine-Bend River below and the cascade of peaks and valleys stretching in every direction.

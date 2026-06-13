@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.9600
 longitude: 106.0200
+score: 8.0
 ---
 
 Sopheakmith is a series of waterfalls where the Mekong plunges over a limestone escarpment on the Cambodia–Laos border, about 60 km north of Stung Treng. At high water, the falls are a foaming, thunderous spectacle; in the dry season, the water level drops and the rock formations are more visible. The pools below the main cascade are excellent for swimming.

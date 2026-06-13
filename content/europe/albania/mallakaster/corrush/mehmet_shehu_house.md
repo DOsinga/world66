@@ -12,6 +12,7 @@ story: >
   His death in December 1981 was announced as suicide, but the truth remains disputed —
   Hoxha later accused him of being a triple agent working for Yugoslavia, the CIA, and the KGB,
   claims widely regarded as fabrications used to eliminate a rival.
+score: 4.1
 ---
 
 The village of Corrush is the birthplace of Mehmet Shehu, who served as Prime Minister of Albania from 1954 to 1981 under the Hoxha dictatorship. His family home still stands in the village, though it is not marked or maintained as a historic site. Visiting requires asking local residents for directions.

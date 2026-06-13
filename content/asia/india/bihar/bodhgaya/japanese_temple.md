@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.6958
 longitude: 84.9874
+score: 7.2
 ---
 
 The Indosan Nippon Japanese Temple is one of the most architecturally distinctive of Bodh Gaya's international monasteries. Built in 1972, the temple combines classic Japanese Buddhist design with Indian elements — a reminder of how far the Japanese reverence for Bodh Gaya extends. The compound is set around a well-tended garden with neatly raked gravel and an elegant interior that contrasts with the more elaborate decorative schemes of the Thai and Bhutanese temples nearby.

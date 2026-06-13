@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Simpson County Courthouse anchors Franklin's downtown square. The current building, on US 31W and Kentucky Route 73, replaces earlier structures and is the focal point of the surrounding **Franklin Downtown Commercial District** — a National Register-listed block of late-19th-century brick storefronts that survive remarkably intact.

@@ -11,6 +11,7 @@ story: >
   Montreal's underground city was not planned; it grew organically over six decades from a single 1962 tunnel connecting Place Ville-Marie to the railway station. Each new building owner, shopping centre developer, and metro line extended the network slightly, until by the 2020s some 500,000 people were passing through it daily in winter — making it the world's largest underground pedestrian network by any measure.
 sources:
   - https://en.wikipedia.org/wiki/Underground_City,_Montreal
+score: 6.2
 ---
 
 The RESO — Montreal's underground city — is 33 kilometres of interconnected tunnels linking the downtown metro stations, hotels, shopping centres, office towers, universities, and cultural venues. It was not designed as a network; it grew piece by piece from 1962 onward as individual buildings connected to each other and to the growing metro system. The result is a largely unplanned labyrinth that on cold winter days carries more pedestrians than the streets above.

@@ -5,6 +5,7 @@ tags: [eating_out, bars_and_cafes, market]
 snippet: Former abattoir now a food and event quarter on the edge of Kallio
 latitude: 60.190556
 longitude: 24.969167
+score: 6.8
 ---
 
 The old municipal slaughterhouse complex from 1933, reinvented since 2012 as Helsinki's main food-and-event district. The red-brick halls now hold restaurants (Birri's wood-fired pizza, B-Smokery for American barbecue), the Helsinki Distilling Company gin bar, a small brewery, an artisan ice cream maker, and a busy summer terrace.

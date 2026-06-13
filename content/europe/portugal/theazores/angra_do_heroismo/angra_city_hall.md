@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, historic, sight]
 latitude: 38.656
 longitude: -27.21822
+score: 6.4
 ---
 
 The city hall (Câmara Municipal) faces the Praça Velha — the Old Square — which is the social and geographical center of Angra. The building has medieval origins but has been rebuilt and enlarged multiple times, most recently after earthquake damage; the current facade is handsome without being exceptional. The square in front of it is the more important feature: lined with café terraces and flanked by the cathedral on one side and the former convent buildings on others, it functions as the living room of the city.

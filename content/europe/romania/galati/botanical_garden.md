@@ -8,6 +8,7 @@ tags:
 - park
 title: Galați Botanical Garden
 type: poi
+score: 7.2
 ---
 
 The Grădina Botanică sits on the high ground at the northern edge of the city, a 20-minute taxi ride from the centre. At around 18 hectares it is among the larger botanical gardens in Romania, with greenhouses for tropical plants, a Japanese garden, rose collection, and a stretch of restored steppe vegetation typical of the lower Danube plain.

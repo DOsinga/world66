@@ -13,6 +13,7 @@ story: >
   cows that had previously been walked up on foot every spring. Today it remains a working
   alp — the hay produced each summer from these meadows feeds South Tyrol's cattle through
   the winter.
+score: 9.4
 ---
 
 The Alpe di Siusi is the largest high-altitude Alpine meadow in Europe: 56 square kilometres of rolling green plateau at around 1,800–2,000 metres, framed to the south and east by the jagged profiles of Sassolungo (Langkofel) and the Sciliar (Schlern). In summer the plateau is carpeted with wildflowers and crisscrossed by easy walking and cycling trails; in winter it becomes a gentler ski and snowshoe area above the valley resorts.

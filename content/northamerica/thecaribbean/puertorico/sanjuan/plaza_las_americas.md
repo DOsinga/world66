@@ -6,6 +6,7 @@ longitude: -66.0769
 tags:
   - shopping
   - market
+score: 4.6
 ---
 
 Plaza Las Américas is the largest shopping mall in the Caribbean and the busiest in Puerto Rico — over 300 stores spread across a complex in the Hato Rey financial district. The anchor tenants are the standard US department stores (Macy's, JCPenney, Sears for many years) plus a movie theatre, a food court, and most of the international clothing chains.

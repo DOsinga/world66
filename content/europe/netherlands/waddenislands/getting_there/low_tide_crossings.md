@@ -7,6 +7,7 @@ tags:
 - outdoor
 title: Low tide crossings (Wadlopen)
 type: poi
+score: 8.1
 ---
 
 Wadlopen — literally "mudflat walking" — is the practice of crossing the Wadden Sea on foot at low tide, guided by an experienced leader who knows the tidal schedules and safe routes. You walk across the exposed seabed from the mainland to one of the islands, typically Schiermonnikoog, Ameland, or Terschelling, with the crossing taking two to four hours depending on the route. The mud is deep in places, the channels can be knee-deep with current, and the landscape is flat and featureless — which means navigation is non-trivial and going with an organised group is essential.

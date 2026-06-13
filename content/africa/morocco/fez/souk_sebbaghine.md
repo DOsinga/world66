@@ -9,6 +9,7 @@ tags:
 title: Souk Sebbaghine (Dyers' Souk)
 type: poi
 snippet: "Hanks of brilliantly dyed wool hung to dry over a narrow medina lane"
+score: 7.5
 ---
 
 A short walk from the Chouara tannery, the Dyers' Souk is one of the most visually striking spots in the medina: long skeins of wool and silk, freshly dyed in vivid reds, yellows, greens, and blues, hanging on poles above the lane to dry. The dyeing workshops operate at street level below, with large vats of boiling colour. The smell is powerful — vegetable dyes, mordants, and steaming wool.

@@ -13,6 +13,7 @@ address: 20 Fenchurch Street, London EC3M 8AF
 admission: Free with advance booking
 opening_hours: Mon-Fri 10am-6pm, Sat-Sun 11am-9pm
 url: skygarden.london
+score: 7.1
 ---
 
 The top three floors of Rafael Vinoly's so-called "Walkie-Talkie" building hold an enclosed public garden — three storeys of Mediterranean and South African planting under a curved glass roof — with two outdoor terraces and 360-degree views over the City of London. The building was given planning permission on condition that the upper floors be a public space, and admission is free if you book a slot online in advance.

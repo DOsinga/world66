@@ -9,6 +9,7 @@ tags:
 - historic_house
 title: Hambley-Wallace House
 type: poi
+score: 6.4
 ---
 
 The Hambley-Wallace House is Salisbury's most outrageous piece of architecture: a 1903 Beaux-Arts mansion built for Egbert Barry Cornwall Hambley, a Cornish-born mining engineer who made a fortune in North Carolina gold. The exterior is a riot of Bedford limestone, granite, copper, and tile, with a porte-cochere on one side and a glass-roofed conservatory on the other.

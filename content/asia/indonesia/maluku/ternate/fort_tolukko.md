@@ -14,6 +14,7 @@ story: >
   Spice Islands. The fort changed hands between European powers and local sultans
   several times before the Dutch finally consolidated control — a pattern repeated
   across Maluku as the spice trade drove increasingly violent competition.
+score: 7.9
 ---
 
 Fort Tolukko sits on a rocky promontory on the northeastern coast of Ternate Island, about 8 kilometres from the town centre. Built by the Portuguese in 1540, it is one of the oldest surviving European structures in eastern Indonesia. The cliff-top position was chosen for its commanding view — from the battlements you can see across the Molucca Sea in three directions, with the cone of Tidore's volcano visible to the south.

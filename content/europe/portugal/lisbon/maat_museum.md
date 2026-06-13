@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
   - belem
+score: 7.9
 ---
 
 A contemporary art and architecture museum on the Belém waterfront, opened in 2016 in a striking building by British architect Amanda Levete — a low white curved structure that appears to grow organically from the riverbank, its tiled roof doubling as a walkable surface connecting the waterfront to street level above.

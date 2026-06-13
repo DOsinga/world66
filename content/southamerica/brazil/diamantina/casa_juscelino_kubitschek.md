@@ -15,6 +15,7 @@ story: >
   city from scratch in five years. When asked years later about his confidence that Brasília could
   be completed, he is said to have answered: "Anyone who grew up in Diamantina is not afraid of
   difficulty."
+score: 6.9
 ---
 
 Juscelino Kubitschek — president of Brazil from 1956 to 1961 and the man who built Brasília — was born in Diamantina in 1902 and grew up in this small house on Rua São Francisco. The house is now a museum maintained by the JK Foundation, preserving furniture, family photographs, and objects from his boyhood and political career.

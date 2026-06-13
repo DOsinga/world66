@@ -9,6 +9,7 @@ tags:
   - church
   - architecture
 story: "The cathedral's 52-metre brick bell tower was built without scaffolding above a certain height — the Italian masons hauled themselves up on rope cradles. When it opened in 1922 it doubled as a fire watch tower, with a permanent lookout posted at the top."
+score: 8.8
 ---
 
 The Catholic Cathedral of St Mary, on Liberation Avenue, is the most prominent church in Asmara. Built between 1920 and 1923 in a romantic Lombard-Romanesque style, it has a slender brick bell tower, a rose window in the facade, and a pink-and-cream cloister on the side that is one of the calmest spaces in the city centre.

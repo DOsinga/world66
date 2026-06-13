@@ -9,6 +9,7 @@ story: >
   conditions that suit certain grape varieties well. The local Emir grape, unique to the region, produces
   a crisp white wine that pairs unusually well with the spiced lamb dishes of the area. Only in Cappadocia
   do you drink wine that was made in the same volcanic rock where it is stored.
+score: 7.2
 ---
 
 Urgup is the centre of Cappadocia's growing wine scene, which is something of a surprise in a predominantly Muslim country. The volcanic soil and high altitude of the region — around 1,000 metres — create conditions well-suited to viticulture, and Cappadocia has been producing wine since antiquity. The local Emir white grape and the darker Öküzgözü and Boğazkere varieties from eastern Anatolia are the stars.

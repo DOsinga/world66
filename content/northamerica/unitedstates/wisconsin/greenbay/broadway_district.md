@@ -7,6 +7,7 @@ tags:
 latitude: 44.5185
 longitude: -88.0195
 snippet: Green Bay's main downtown entertainment and restaurant district, running along the Fox River
+score: 6.2
 ---
 
 The Broadway District is the main dining, drinking, and entertainment strip in downtown Green Bay, a stretch of Broadway and the surrounding blocks near the Fox River. It holds most of the city's independent restaurants and bars, a few local shops, and the Weidner Center performing arts complex at the north end. The CityDeck riverfront boardwalk is directly accessible from the district, and the two together form Green Bay's most animated public space.

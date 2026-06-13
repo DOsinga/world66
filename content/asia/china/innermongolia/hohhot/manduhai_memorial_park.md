@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 40.8200
 longitude: 111.6300
+score: 6.4
 ---
 
 Manduhai Khatun (1449–1510) was the ruling queen of the Mongols for over twenty years, a figure whose military and political achievements rival those of any of her male contemporaries. She is largely unknown outside Mongolia and Inner Mongolia, despite having reunified the scattered Mongolian tribes after the collapse of the Yuan dynasty, led multiple successful campaigns against the Oirats, and re-established Mongolian sovereignty over much of the steppe. The memorial park dedicated to her in Hohhot provides an introduction to her life and the historical context of late medieval Mongolian history.

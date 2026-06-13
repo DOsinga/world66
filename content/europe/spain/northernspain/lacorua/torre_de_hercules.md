@@ -8,6 +8,7 @@ tags:
 latitude: 43.3858
 longitude: -8.4064
 story: "The tower has been in continuous operation as a lighthouse since Roman times — a span of roughly 1,900 years. The Romans built it in the 2nd century AD and dedicated it to Mars, not Hercules; the mythological association came later in medieval legend. The outer stonework visible today is an 18th-century reconstruction, but the inner Roman structure survives and is accessible inside."
+score: 9.3
 ---
 
 The Torre de Hércules stands on the northern tip of the La Coruña peninsula, guiding ships into the harbour just as it did when Roman engineers built it in the second century AD. It is the oldest working lighthouse in the world and a UNESCO World Heritage Site since 2009.

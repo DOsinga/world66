@@ -9,6 +9,7 @@ latitude: 14.7425
 longitude: -61.1800
 sources:
   - https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique
+score: 5.8
 ---
 
 The beach at Anse Céléron, on the northern edge of Saint-Pierre, is one of the town's most accessible stretches of black volcanic sand. Like most of Martinique's west coast beaches, it is sheltered from the Atlantic swell and generally calm enough for swimming. The sand here is dark grey-black — volcanic material from Mont Pelée — which is striking against the green hills and blue water.

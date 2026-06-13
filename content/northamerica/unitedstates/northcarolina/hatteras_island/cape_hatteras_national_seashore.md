@@ -12,6 +12,7 @@ story: >
   off Cape Hatteras, has claimed more than 600 ships since the 16th century, earning
   the area its nickname "the Graveyard of the Atlantic." Lightkeepers historically
   described watching ships drive hard into the shallows in storms, helpless to do anything.
+score: 9.4
 ---
 
 The Cape Hatteras National Seashore stretches 72 miles along Bodie, Hatteras, and Ocracoke islands, protecting some of the most undisturbed barrier island coastline on the American East Coast. There are no chain hotels within the park boundary, no boardwalk amusements — just open beach, wind-sculpted dunes, sound-side marshes, and miles of surf.

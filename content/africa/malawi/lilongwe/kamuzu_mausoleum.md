@@ -16,6 +16,7 @@ story: >
   he had built to his own design.
 sources:
   - https://en.wikipedia.org/wiki/Kamuzu_Mausoleum
+score: 7.4
 ---
 
 The Kamuzu Mausoleum in Lilongwe's New Town is the resting place of Hastings Kamuzu Banda, Malawi's first president and longtime dictator, who ruled from independence in 1964 until 1994. The mausoleum is an imposing structure set in formal gardens — a piece of Cold War-era African statecraft in concrete and marble — and is worth a visit for anyone interested in the country's complicated political history.

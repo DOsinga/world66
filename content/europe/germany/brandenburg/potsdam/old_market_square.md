@@ -9,6 +9,7 @@ latitude: 52.3958
 longitude: 13.0611
 sources:
   - https://en.wikipedia.org/wiki/Old_Market_Square,_Potsdam
+score: 8.4
 ---
 
 The Old Market Square (Alter Markt) is the formal heart of Potsdam — an ensemble of civic buildings that, for most of the 20th century, existed only in photographs. The original square was destroyed in the 1945 bombing and the ruins cleared by the East German state, which replaced the City Palace with a prefabricated block. Since reunification, the square has been methodically restored: the baroque Altes Rathaus, the St. Nicholas Church, and most dramatically the City Palace itself have been rebuilt or restored to recreate the pre-war ensemble.

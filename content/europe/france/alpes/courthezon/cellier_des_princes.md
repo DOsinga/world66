@@ -7,6 +7,7 @@ tags:
 latitude: 44.0964
 longitude: 4.8724
 snippet: Cooperative winery producing Châteauneuf-du-Pape, open for tastings without appointment
+score: 7.5
 ---
 
 The Cellier des Princes is the only cooperative winery in the Pays d'Orange area and brings together around 370 growers cultivating vineyards across the Châteauneuf-du-Pape, Côtes du Rhône and Pays d'Oc appellations. Unlike many top estates in the appellation, the Cellier des Princes welcomes drop-in visitors and offers tastings and sales without an appointment.

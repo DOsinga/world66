@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.2264
 longitude: 8.8129
+score: 6.8
 ---
 
 The rose gardens along Rapperswil's lakefront contain around 15,000 roses in several hundred varieties. Laid out between the lake promenade and the old town walls, they run for several hundred metres and are at their best from late May through June. Entry is free and the gardens are open year-round, though obviously most rewarding in the flowering season.

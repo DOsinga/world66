@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.1971
 longitude: -120.2340
+score: 6.4
 ---
 
 The bar at PlumpJack Inn is the most atmospheric après-ski spot in Olympic Valley — a fireplace, wooden beams, and a wine list that is notably serious for a ski resort. PlumpJack runs a winery in Napa Valley and the bar stocks its own label wines alongside well-chosen spirits.

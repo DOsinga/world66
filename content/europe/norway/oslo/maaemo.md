@@ -7,6 +7,7 @@ tags:
 latitude: 59.9066
 longitude: 10.7557
 address: "Schweigaards gate 15b, Bjørvika"
+score: 6.0
 ---
 
 Maaemo is Norway's most celebrated restaurant — three Michelin stars, a Nordic tasting menu focused entirely on Norwegian ingredients, and a reservation list measured in months. The name means "Mother Earth" in Old Norse. Chef Esben Holmboe Bang has built the menu around foraged, farmed, and fished Norwegian produce: cloudberries, reindeer, Norwegian lamb, sea urchin from the west coast, wild herbs from the Hardangerfjord. The wine pairing is particularly strong on natural and biodynamic wines.

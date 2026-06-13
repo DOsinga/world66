@@ -13,6 +13,7 @@ story: >
   protected from weather, vandalism, and the Delhi Sultanate's iconoclasts by
   the very flood that buried the city around it. Look at a 100-rupee note: that
   is Rani ki Vav on the back.
+score: 9.8
 ---
 
 Rani ki Vav — the Queen's Stepwell — is the most lavishly decorated stepwell in India, and a UNESCO World Heritage Site since 2014. Commissioned around 1063 CE by Queen Udayamati in memory of her husband Bhima I, it is built as an inverted temple seven storeys deep, descending in stages from a long approach corridor to a round well at the base. The architecture is the Maru-Gurjara style at its most ambitious: every pillar, every panel, every niche is carved.

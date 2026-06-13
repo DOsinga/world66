@@ -8,6 +8,7 @@ tags:
 latitude: 20.9685
 longitude: -89.6232
 snippet: Evening marimba concerts in the park next to the Cathedral, a Mérida institution
+score: 7.6
 ---
 
 Parque Hidalgo, the small square immediately north of the Cathedral, fills with chairs from the surrounding restaurants every evening, and from about 8pm the marimba bands start. Marimba — the large wooden xylophone instrument that is central to Yucatecan and southern Mexican music — is performed here nightly, free and in the open air, as it has been for generations. The surrounding restaurants serve food and drinks at tables arranged around the park; you do not need to buy anything to listen, but the atmosphere is better if you do.

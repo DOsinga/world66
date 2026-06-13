@@ -9,6 +9,7 @@ tags:
   - alsancak
 story: >
   Smyrna was home to one of the largest Armenian communities in the Ottoman Empire — tens of thousands of people whose presence stretched back centuries. St. Stepanos was one of several Armenian churches in the city. Most of the community, along with the Greek Orthodox population, was killed, expelled, or fled during the events of 1922. The survival of the church building is a rare physical trace of a world that was almost entirely erased.
+score: 6.4
 ---
 
 St. Stepanos (or Saint Stephan) Armenian Church in the Alsancak district is one of the few surviving traces of İzmir's pre-1922 Armenian community. The church was built in the nineteenth century to serve what was then one of the most prosperous and culturally active Armenian communities in the Ottoman world.

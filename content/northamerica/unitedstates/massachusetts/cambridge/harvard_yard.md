@@ -9,6 +9,7 @@ latitude: 42.3745
 longitude: -71.1172
 story: >
   The Statue of John Harvard in the Yard is known as the "statue of three lies": the subject isn't John Harvard (the model was a student named Sherman Hoar), Harvard didn't found the university (he merely donated money and books), and the date inscribed — 1638 — is a year off (the college was founded in 1636). Tourists queue to touch the statue's shoe for luck, which is polished bright by the contact.
+score: 8.2
 ---
 
 Harvard Yard is the original campus — a cluster of red-brick buildings and great elm trees enclosed by wrought-iron gates that date back to the 17th century. Massachusetts Hall, the oldest surviving building, has been in continuous use since 1720. The Yard is open to the public and walking through it is free; the gate-guardians will happily direct you.

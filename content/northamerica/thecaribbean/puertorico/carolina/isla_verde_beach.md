@@ -8,6 +8,7 @@ latitude: 18.4511
 longitude: -66.0219
 story: >
   Isla Verde's name means "green island" but there is no island — the name refers to a former coconut grove that once lined the shore. The strip was developed aggressively from the 1950s onward, turning what had been a quiet coastal zone into Puerto Rico's answer to Miami Beach, with high-rise hotels and casinos replacing the palms.
+score: 8.0
 ---
 
 Isla Verde is the beach resort area that technically falls within Carolina's municipal limits, though most visitors think of it as an extension of San Juan. The beach itself is excellent: a wide arc of fine pale sand with clear, warm Caribbean water, backed by a dense line of resort hotels, restaurants, and beach bars. The snorkelling near the rocks at the eastern end is decent, and the surf break at Pine Grove draws local surfers.

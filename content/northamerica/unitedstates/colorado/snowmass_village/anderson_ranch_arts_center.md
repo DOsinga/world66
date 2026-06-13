@@ -7,6 +7,7 @@ tags:
 latitude: 39.2142
 longitude: -106.9370
 snippet: Nonprofit arts campus with summer workshops, exhibitions, and visiting artists
+score: 7.8
 ---
 
 Anderson Ranch sits on a converted ranch in the heart of the village and has been one of the more unexpected institutions in Snowmass since 1966 — a serious, working centre for ceramics, photography, painting, sculpture, printmaking, and digital media. In summer it runs a packed programme of week-long workshops led by visiting artists, many of them well known.

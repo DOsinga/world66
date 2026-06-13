@@ -7,6 +7,7 @@ tags:
 latitude: 34.249722
 longitude: 36.018889
 story: "Khalil Gibran died of tuberculosis in New York in 1931 and his body was returned to Bcharre the following year. He had asked to be buried in the Mar Sarkis monastery, the seventh-century rock-cut hermitage above the town where he had spent time as a young man. His sister Marianna eventually bought the building and turned it into the museum that now houses his manuscripts, his oil paintings and the cell where he is buried."
+score: 8.2
 ---
 
 The Gibran Museum occupies a former Maronite monastery carved into the cliff face above Bcharre, and is the obvious first stop in town. The collection holds around 440 of Khalil Gibran's original paintings and drawings — Symbolist nudes, watercolours, ink sketches — plus his manuscripts, letters and personal effects, including the desk and chair from his Greenwich Village studio.

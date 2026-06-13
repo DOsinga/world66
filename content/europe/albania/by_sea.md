@@ -8,6 +8,7 @@ tags:
 - getting_around
 title: By Sea
 type: poi
+score: 6.1
 ---
 
 Albania has several ports with regular ferry connections to Italy and Greece. [Durres](/europe/albania/durres) is the main port, with frequent services to Bari and Ancona in Italy — the crossing takes roughly 8 to 10 hours overnight. [Vlora](/europe/albania/vlore) also has connections to Brindisi.

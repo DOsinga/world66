@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Salisbury Station
 type: poi
+score: 7.2
 ---
 
 Salisbury Station is the town's working Amtrak depot — three daily trains stop here on the New York–Charlotte–New Orleans corridor — and one of its handsomest buildings. Designed in Spanish Mission Revival style and opened in 1908 by the Southern Railway, the long red-tile-roofed station was carefully restored in the 1990s and now houses a small museum, a model railroad in the basement, and the working ticket counter.

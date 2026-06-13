@@ -8,6 +8,7 @@ tags:
 - church
 title: Vänersborg Church
 type: poi
+score: 6.3
 ---
 
 The main parish church of Vänersborg, completed in 1779 and substantially rebuilt after a fire in the 19th century. The current neo-Gothic building in dressed stone stands at the heart of the old town, its tower visible from much of the city centre and across the lake. The interior is straightforward and light, with a painted wooden ceiling and well-preserved furnishings from the later restoration period.

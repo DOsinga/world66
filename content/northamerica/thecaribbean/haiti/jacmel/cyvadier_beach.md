@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.0
 ---
 
 A small, scalloped cove protected by cliffs on either side, Cyvadier sits about ten minutes east of Jacmel and is the prettier of the town's local beaches. The water inside the cove is glassy and good for snorkelling, and the beach is small enough that it never feels crowded.

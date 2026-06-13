@@ -14,6 +14,7 @@ story: >
   fleets. The Norman tower was built directly over the ancient temple precinct.
 sources:
   - https://en.wikipedia.org/wiki/Erice
+score: 8.6
 ---
 
 The Norman castle at the southeastern tip of Erice sits on the very edge of the mountain, with sheer drops into the valley below on three sides. Built in the 12th century by the Normans over the site of the ancient temple of Venus Erycina, it occupies the most dramatic position in a village full of dramatic positions.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.3279
 longitude: 103.1477
+score: 5.8
 ---
 
 The Al-Muktafi Billah Shah Mosque (also known as Masjid Ladang) is the modern royal mosque of Terengganu, a striking building with a turquoise-coloured dome and minarets visible from across a wide area of the city. Built in the early 1990s, it replaced the historic Abidin Mosque as the state's main Friday prayer venue for large congregations and state occasions. The scale is considerably larger than the older mosques of Kuala Terengganu, able to accommodate thousands of worshippers.

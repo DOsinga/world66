@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - art
+score: 8.1
 ---
 
 The di Rosa Center for Contemporary Art occupies a 217-acre property in the Carneros wine country south of Napa, dedicated almost entirely to art from the San Francisco Bay Area. Founded by collectors Rene and Veronica di Rosa, the collection of around 1,600 works includes major pieces by Robert Arneson, William T. Wiley, Joan Brown, Bruce Conner and other Bay Area Figurative and Funk artists.

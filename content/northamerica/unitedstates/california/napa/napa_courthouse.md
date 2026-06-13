@@ -8,6 +8,7 @@ snippet: Greek Revival courthouse from 1879 at the centre of downtown
 tags:
 - sight
 - history
+score: 6.7
 ---
 
 The Napa County Courthouse, completed in 1879 in a restrained Greek Revival style, anchors the eastern end of downtown Napa's First Street. Together with the adjacent Hall of Records, the courthouse plaza is listed on the National Register of Historic Places as one of the most coherent Victorian-era civic groupings in northern California.

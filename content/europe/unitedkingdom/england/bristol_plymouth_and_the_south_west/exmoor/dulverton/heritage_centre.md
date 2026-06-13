@@ -6,6 +6,7 @@ longitude: -3.5510
 tags:
   - things_to_do
   - museum
+score: 5.7
 ---
 
 A small volunteer-run heritage centre on Fore Street with rotating displays on the history of Dulverton and the southern Exmoor parishes — farming, the local stag hunt, the wool and textile trades, and the impact of the great 1952 flood that devastated nearby Lynmouth.

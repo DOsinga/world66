@@ -1,6 +1,7 @@
 ---
 title: "Cunda Waterfront Seafood"
 type: poi
+score: 7.8
 ---
 
 The string of fish restaurants along the Cunda Island waterfront is the most atmospheric place to eat in the Ayvalık area. Restaurants here serve whatever came in that morning — sea bream, sea bass, red mullet, anchovies in season, along with grilled octopus, squid, and prawns. Most places display their fish on ice at the entrance; pointing at what you want is perfectly normal and lets you judge freshness by eye.

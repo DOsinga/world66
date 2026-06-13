@@ -14,6 +14,7 @@ story: >
   commissioned Fallingwater from Frank Lloyd Wright. When Julius Shulman photographed
   the Palm Springs house in 1947, the images — with the San Jacinto Mountains framing
   the glass pavilion — defined the visual language of California modernism for a generation.
+score: 9.0
 ---
 
 Palm Springs has one of the finest concentrations of mid-century modern architecture anywhere in the world. During the 1940s, 50s, and 60s, Hollywood celebrities and wealthy Los Angelenos commissioned vacation homes from the leading architects of the day — Albert Frey, Richard Neutra, John Lautner, E. Stewart Williams, Donald Wexler — and the result is a city where the residential streets read as an open-air museum of American modernism.

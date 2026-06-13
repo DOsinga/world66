@@ -7,6 +7,7 @@ address: Via Caprarie 1
 snippet: The most famous of Bologna's old delicatessens, with a stand-up lunch bar
 tags:
 - food
+score: 7.1
 ---
 
 Tamburini has been on Via Caprarie since 1932, and the window display of mortadella, prosciutto, parmigiano and freshly made tortellini is one of the small spectacles of the Quadrilatero. A counter takes orders for cooked plates of pasta, meat, and side dishes through lunchtime — eat standing at the high tables or sit in the small dining room behind.

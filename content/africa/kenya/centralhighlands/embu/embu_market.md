@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -0.5316
 longitude: 37.6667
+score: 6.4
 ---
 
 The main market in Embu town is one of the most animated trading centres on Mount Kenya's southeastern flank. Traders bring produce down from the mountain farms — coffee, bananas, sweet potatoes, yams, and varieties of beans that rarely appear in Nairobi's supermarkets — while livestock pens occupy the outer edges. On weekday mornings the market hum starts early and peaks around midday.

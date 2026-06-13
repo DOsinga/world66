@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When it opened in 2006, the Natuurbrug Zanderij Crailoo was the longest wildlife overpass in the world: 800 metres across a road, a railway, a sports complex, and a business park. Cameras have caught deer, badgers, foxes, and the occasional escaped domestic pig using it."
+score: 6.8
 ---
 
 A landscaped bridge crossing the Naarderweg, the railway, and a stretch of industrial land between Bussum and Hilversum, designed to reconnect the Spanderswoud and the Bussumerheide heath. Walkers and cyclists can use it; it doubles as a wildlife corridor.

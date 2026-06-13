@@ -7,6 +7,7 @@ tags:
 - sight
 title: Patan Dhoka
 type: poi
+score: 6.1
 ---
 
 Patan Dhoka is the northern ceremonial gateway to old Patan, a small painted arch that once marked the boundary between the medieval walled city and the open country beyond. Today the wall is long gone but the gate survives, gaudily painted and used as a kind of unofficial landmark by everyone in the neighbourhood.

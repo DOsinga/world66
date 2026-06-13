@@ -8,6 +8,7 @@ latitude: 46.7400
 longitude: -92.2200
 story: >
   The DWP Railroad Tunnel was built in 1910 to allow a railway line to pass through a rocky ridge. After the line was abandoned in the 1980s, the tunnel was incorporated into the trail system. Walking through it — over 100 metres of cold, dark passageway — is an unexpectedly atmospheric experience, particularly on hot summer days when the tunnel stays cool enough to see your breath.
+score: 7.9
 ---
 
 Ely's Peak, on the western edge of Duluth near the suburb of Fond du Lac, offers one of the best views of the city and Lake Superior from above. The hike up is roughly three kilometres return and involves some scrambling over exposed rock near the summit; the effort is well rewarded by a panorama that extends across the harbour, the lift bridge, and far out over the lake.

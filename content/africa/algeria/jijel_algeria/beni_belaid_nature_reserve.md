@@ -8,6 +8,7 @@ tags:
 - sight
 - nature
 - wetland
+score: 7.0
 ---
 
 Beni Belaid Nature Reserve lies east of Jijel, protecting a quieter coastal wetland and dune landscape away from the better-known corniche. It is a good counterpoint to the cliff scenery west of town: flatter, greener, and better for birdlife.

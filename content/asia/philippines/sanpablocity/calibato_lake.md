@@ -8,6 +8,7 @@ tags:
 snippet: Deepest of San Pablo's seven lakes at 135 metres
 latitude: 14.0370
 longitude: 121.3000
+score: 6.8
 ---
 
 Calibato is the deepest of San Pablo's seven volcanic crater lakes — at 135 metres, considerably deeper than the others — and a major source of tilapia for the city. The lake sits in a narrow valley about 5km southwest of the city centre, less visited than Sampaloc or Pandin, and accessible by jeepney or tricycle.

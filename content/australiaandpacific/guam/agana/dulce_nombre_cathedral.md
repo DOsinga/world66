@@ -12,6 +12,7 @@ tags:
 - architecture
 story: >
   The original 1669 church on this spot was built by the Spanish missionary Diego Luis de San Vitores, the man who introduced Catholicism to the Chamorros. San Vitores was murdered two years later in a dispute with a local chief over the baptism of a child; he was beatified by Pope John Paul II in 1985, and his reliquary now rests inside the cathedral he founded.
+score: 7.7
 ---
 
 Dulce Nombre de Maria Cathedral-Basilica is the seat of the Catholic Archdiocese of Agaña and, in spiritual terms, the most important church in the Marianas. The site has held a church since 1669, when the Jesuit missionary Diego Luis de San Vitores built the first Catholic chapel on Guam. The current building is the fourth on the site: the previous one was levelled in the 1944 fighting, and the present cathedral was completed in 1959.

@@ -9,6 +9,7 @@ latitude: -41.1572
 longitude: -71.8869
 snippet: "3,491 m extinct volcano on the Chilean border"
 story: "Tronador means thunderer — named for the booming sound of ice falling from its glaciers. The mountain has eight glaciers, and the **Ventisquero Negro** (Black Glacier) at its foot is famous for the dark debris embedded in the ice, giving it a coal-black appearance."
+score: 9.0
 ---
 
 Tronador is the giant of the region — a 3,491 metre extinct volcano on the Chilean border, with three peaks and eight glaciers tumbling off its slopes. It is far enough from Bariloche (90 km on a winding gravel road) that the full-day trip is a serious excursion, but the views along the way and at the end are exceptional.

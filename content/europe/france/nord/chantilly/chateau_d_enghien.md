@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 5.5
 ---
 
 A modest stone-faced pavilion in the park of the Château de Chantilly, just inside the main gate near the racing entrance. It was built in 1772 by Louis V Joseph de Bourbon, Prince of Condé, as accommodation for guests visiting the main château. The name commemorates the Battle of Enghien.

@@ -11,6 +11,7 @@ tags:
   - restaurant
   - seafood
 neighbourhood: Polana
+score: 5.8
 ---
 
 **Zambi** is one of the more polished restaurants in the city, occupying a 1960s modernist house with a wide outdoor garden in upper Polana. The kitchen does contemporary takes on Mozambican coastal food: tiger prawns in coconut sauce, line fish ceviche, lobster *à zambeziana*, slow-cooked goat with cassava, and a long wine list that leans on South African and Portuguese estates.

@@ -8,6 +8,7 @@ latitude: 33.6921
 longitude: -117.8824
 story: >
   South Coast Repertory has produced over 100 world premieres since its founding in 1964. It has won the Tony Award for Outstanding Regional Theatre, and playwrights including Jon Robin Baitz, Craig Lucas, and David Henry Hwang developed major works here before they moved to Broadway.
+score: 8.0
 ---
 
 South Coast Repertory is one of the most respected regional theatres in the United States — a company with a serious commitment to developing new American plays, not just staging established classics. Founded in 1964 by David Emmes and Martin Benson, it has been at its current location next to the Segerstrom Center since 1978.

@@ -10,6 +10,7 @@ tags:
 title: Forest Hills Cemetery
 type: poi
 url: www.foresthillscemetery.com
+score: 7.5
 ---
 
 A 275-acre Victorian garden cemetery in Jamaica Plain, founded in 1848 as a counterpart to the better-known Mount Auburn across the river in Cambridge. Forest Hills is wilder and more atmospheric — winding paths over rolling hills, a small lake, granite arches, and several thousand Victorian and Edwardian funerary monuments under old oaks and pines.

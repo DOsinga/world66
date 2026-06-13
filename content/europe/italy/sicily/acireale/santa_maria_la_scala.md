@@ -12,6 +12,7 @@ story: >
   when the jealous Cyclops Polyphemus hurled a boulder at Acis, killing him. Where Acis's
   blood met the sea, the river Aci was born. Ovid told the story; every village along this
   coast claims the geography.
+score: 6.4
 ---
 
 Below the lava cliff on which Acireale sits, reached by a steep road or a series of steps, the tiny fishing hamlet of Santa Maria la Scala is one of the most picturesque spots on the Ionian coast. A small harbour with colourful fishing boats, black lava rock, crystal clear water, and a handful of seafood restaurants make it a completely different experience from the Baroque town above.

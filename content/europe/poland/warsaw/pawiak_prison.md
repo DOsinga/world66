@@ -11,6 +11,7 @@ snippet: "Ruins of the Gestapo's main Warsaw prison, where 37,000 people were ex
 story: "Outside Pawiak grows a bronze tree — a replica of an elm that stood in the prison courtyard and survived the war. Prisoners scratched their names into its bark knowing they might not survive. After the war, thousands of families came to search for a trace of their relatives. The original tree died in 1943 but was preserved; the bronze replica in its place carries the names of the dead on metal plaques."
 sources:
   - https://en.wikipedia.org/wiki/Pawiak_prison
+score: 7.7
 ---
 
 Pawiak was the main Gestapo prison in occupied Warsaw. Between 1939 and 1944, approximately 100,000 people passed through its gates; around 37,000 were executed here, and another 60,000 were sent to concentration camps. The ruins of the prison are preserved as a museum within the walls of what remains — a small but sombre space with original cells and a substantial documentation of the occupation.

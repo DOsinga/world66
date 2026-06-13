@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Waterfront Dining
 type: poi
+score: 6.4
 ---
 
 The waterfront at Perast has several restaurants with tables right on the water, facing the two islands. The view is the obvious draw, and the best of them also serve good food: fresh Adriatic fish, octopus salad, black risotto, and grilled seafood. Lamb and veal dishes cooked under a peka (the traditional Montenegrin covered pot buried in embers) appear on most menus.

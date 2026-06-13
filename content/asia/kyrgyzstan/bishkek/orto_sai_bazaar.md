@@ -8,6 +8,7 @@ tags:
 latitude: 42.852
 longitude: 74.6021
 address: "Borombaeva Street, Bishkek"
+score: 7.0
 ---
 
 A smaller and more relaxed alternative to Osh Bazaar, Orto-Sai is the everyday market for the southern half of the city. The food halls are particularly good for fresh produce, dairy and bread; the dried-fruit and nut stalls compete on quality with those at Osh.

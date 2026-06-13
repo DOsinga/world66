@@ -7,6 +7,7 @@ tags:
 - food
 title: Breakfast Street
 type: poi
+score: 7.5
 ---
 
 A short walk south of Cumhuriyet Caddesi, in the centre of modern Van, sits the street known to locals as Kahvaltıcılar Sokağı — Breakfast Street. A block of perhaps a dozen kahvaltı salonları, all open from 6am to early afternoon, do nothing but breakfast.

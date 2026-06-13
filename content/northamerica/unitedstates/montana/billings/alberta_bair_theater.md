@@ -9,6 +9,7 @@ latitude: 45.7839
 longitude: -108.5080
 sources:
   - https://en.wikipedia.org/wiki/Alberta_Bair_Theater
+score: 6.2
 ---
 
 The main performing arts venue in Billings, a beautifully restored 1931 movie palace that now hosts touring Broadway productions, symphony performances, ballet, and major concert acts. The interior retains much of its original Art Deco detail — ornate plasterwork, period lighting, and a grand proscenium arch.

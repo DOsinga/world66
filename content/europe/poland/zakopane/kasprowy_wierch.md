@@ -11,6 +11,7 @@ story: >
   The cable car, built in 1936, was the first in Poland and remains one of the busiest in
   Europe during peak season. In winter, queues for the ascent can stretch to two hours even
   with a ticket — the ski runs down are that good, and the cable car is the only way back up.
+score: 9.4
 ---
 
 The summit cable car from Kuźnice on the edge of Zakopane to Kasprowy Wierch (1,987 m) is one of the classic Central European mountain experiences. From the upper station, a ridge walk leads east to the Świnnica saddle and west toward the Slovak border, with views over the High Tatras on clear days. The border itself runs along the ridge — you can stand with one foot in Poland and one in Slovakia.

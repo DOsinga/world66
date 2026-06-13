@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Harihareshwar
 type: poi
+score: 8.3
 ---
 
 Harihareshwar sits where the Savitri, Kundalika, and Vashishti rivers meet the Arabian Sea, about 230 km south of Pune. The town is known as the "Kashi of Southern India" — a centre of pilgrimage built around the Harihareshwar temple, which crowns a dark basalt headland jutting into the sea.

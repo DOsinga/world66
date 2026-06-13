@@ -14,6 +14,7 @@ story: >
   Chinese and Allied commanders declared the town secured, only rubble remained. The town
   visible today is almost entirely post-war reconstruction, which is why the survival of
   Heshun, outside the main battle zone, is so striking by comparison.
+score: 8.2
 ---
 
 The National Cemetery on the southern edge of Tengchong holds 9,168 graves of Chinese soldiers who died in the 1944 Salween Offensive — the campaign that drove Japanese forces from the Tengchong area after three years of occupation. The cemetery is laid out in formal rows on a hillside overlooking the Jiandie River valley, with stone monuments and a central memorial hall. It is one of the largest and best-maintained World War II cemeteries in China, and the scale of the losses recorded here gives the site a gravity that is difficult to overstate.

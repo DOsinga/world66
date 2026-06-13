@@ -9,6 +9,7 @@ tags:
 - church
 title: Lourdes Grotto
 type: poi
+score: 6.4
 ---
 
 A 252-step staircase climbs Dominican Hill on the western edge of central Baguio to a small Marian shrine built into a rock alcove — a replica of the famous grotto at Lourdes in France, established here by the Dominicans in 1907. Pilgrims pause on each step to say a Hail Mary, and most casual visitors give up halfway and rest on the benches under the pine trees.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.3912
 longitude: -122.0809
+score: 6.2
 ---
 
 Cascal is a lively tapas and Latin American restaurant that has anchored the northern end of Castro Street for years. The food draws from Spain and Latin America — patatas bravas, empanadas, grilled seafood, good sangria — and the kitchen executes it well without pretension. The outdoor patio fills up quickly on warm evenings, and the atmosphere is reliably convivial.

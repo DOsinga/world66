@@ -8,6 +8,7 @@ latitude: 32.0881
 longitude: 76.2578
 story: >
   The fort was once so impregnable that it resisted multiple Mughal sieges, including a prolonged assault by Akbar's forces in the 1560s that lasted for years without success. It finally yielded to treachery rather than force when a rival chief opened the gates. The 1905 Kangra earthquake, one of the deadliest in Himalayan history, did in minutes what centuries of invaders could not.
+score: 9.2
 ---
 
 Kangra Fort — also known as Nagarkot or Kot Kangra — is one of the oldest and largest forts in the Himalayas, perched on a rocky spur at the confluence of the Banganga and Manjhi rivers. The natural moat formed by the two rivers below made it nearly impregnable for most of its history. It was held at various times by the Katoch dynasty, the Delhi Sultanate, the Mughals, the Sikhs, and finally the British before the catastrophic 1905 earthquake damaged much of its structure.

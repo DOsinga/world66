@@ -6,6 +6,7 @@ tags:
 - park
 title: Shades Creek Greenway
 type: poi
+score: 5.8
 ---
 
 A multi-use trail running along Shades Creek through the Homewood and Mountain Brook neighborhoods south of Birmingham. The greenway is one of the more pleasant outdoor options near the city for cycling or jogging, passing through wooded creek corridor with minimal road crossings.

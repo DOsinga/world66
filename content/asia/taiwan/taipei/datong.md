@@ -8,6 +8,7 @@ tags:
 neighbourhood: Datong
 title: Datong District
 type: poi
+score: 8.4
 ---
 
 Datong is Taipei's oldest commercial district, founded in the 1850s when the city was still a small Qing-era port on the Tamsui River. Its centrepiece is **Dihua Street**, a narrow two-storey arcade of red-brick and stucco shophouses that survives in unusually good condition. Walking south to north, the shops sell traditional Chinese medicinal herbs, tea, dried mushrooms, fruit and seaweed, fabric, ceramics, and (further north) art-deco-era shops in surviving Japanese-colonial buildings.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.6802
 longitude: -122.2094
+score: 6.6
 ---
 
 The Peter Kirk Building on Central Way in downtown Kirkland is one of the oldest surviving commercial structures in the city, dating to the late 19th century. It was built during the brief boom period when English entrepreneur Peter Kirk was attempting to establish a steel manufacturing centre on the east shore of Lake Washington, taking advantage of ore deposits in the Cascades.

@@ -6,6 +6,7 @@ longitude: -6.6164
 tags:
   - eating_out
   - restaurant
+score: 7.6
 ---
 
 A small whitewashed restaurant on the waterfront at Stein, fifteen minutes' drive east of Glendale on the neighbouring Waternish peninsula. Chef Michael Smith holds a Michelin star here and runs a daily-changing menu built around what the local boats land that morning — langoustine, halibut, hand-dived scallops, lobster.

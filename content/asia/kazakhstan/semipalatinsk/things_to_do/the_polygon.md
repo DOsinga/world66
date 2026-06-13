@@ -9,6 +9,7 @@ latitude: 50.3830
 longitude: 77.7830
 sources:
   - https://en.wikipedia.org/wiki/Semipalatinsk_Test_Site
+score: 9.1
 ---
 
 The Semipalatinsk Test Site — known to everyone simply as "The Polygon" — lies about 150 km west of the city and covers 18,000 km², roughly the size of Wales. Between 1949 and 1989 the Soviet Union detonated 456 nuclear devices here: 116 in the atmosphere and 340 underground. The first Soviet atomic bomb, codenamed RDS-1, was tested here on 29 August 1949. The human cost was catastrophic. Hundreds of thousands of people living in the surrounding steppe were exposed to radiation, with elevated rates of cancer, birth defects, and premature death persisting for generations.

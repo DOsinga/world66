@@ -8,6 +8,7 @@ tags:
 - religious_sight
 title: Quranic Madrassas
 type: poi
+score: 7.2
 ---
 
 Djenné has been a centre of Islamic scholarship since the medieval period and the old town is still scattered with small Quranic schools — madrassas — where boys learn to recite the Quran on wooden tablets called *alluha*. The tablets are washed and rewritten as students progress. Many master scholars (marabouts) keep their classes in the courtyards of their own houses; you can hear the rhythmic chanting from the street.

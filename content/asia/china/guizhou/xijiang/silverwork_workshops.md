@@ -9,6 +9,7 @@ latitude: 26.4966
 longitude: 108.1698
 story: >
   Miao silverwork from this region involves techniques of filigree (细工, xìgōng) and repoussé that distinguish it from the machine-stamped silver sold at tourist markets throughout the province. The filigree method involves drawing silver into wire of different thicknesses, then bending and soldering the wire into the geometric and zoomorphic patterns characteristic of Miao aesthetic. A skilled silversmith can tell from examining a piece whether it was made by hand or by machine; the distinction is visible in the irregularity of handmade wire and the depth of handmade solder joints.
+score: 7.9
 ---
 
 The women working silverwork in their doorways in the residential lanes of Xijiang — away from the commercial street that runs from the entrance — are the place to understand the real craft rather than the tourist economy. The workshops where genuine handmade pieces are produced are concentrated in the upper residential area of the village, a ten-minute walk above the main square.

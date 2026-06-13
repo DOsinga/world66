@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 snippet: Lakefront craft-beer pub with one of the best terraces in town
+score: 7.0
 ---
 
 A craft-beer bar at the Steamer Wharf with a long lakeside terrace that catches the afternoon sun. Twenty-plus taps lean toward New Zealand independents — Garage Project, 8 Wired, Emerson's, Panhead — and there is a decent food menu of burgers, pizzas, and pub plates. The pours are honest and the staff know what they are pouring.

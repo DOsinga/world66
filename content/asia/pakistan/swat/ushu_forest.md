@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5311
 longitude: 72.5839
+score: 7.8
 ---
 
 The Ushu Forest is the dense conifer forest that begins just upstream of Kalam, lining the river valley toward Matiltan and Mahodand. The trees are mostly deodar cedar and blue pine, with stretches of fir at higher elevations, and the woods come right down to the riverbank.

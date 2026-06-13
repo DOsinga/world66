@@ -16,6 +16,7 @@ story: >
   kingdom. The Norwegian architects Snøhetta clad the complex in 350
   kilometres of stainless steel tubing that catches the desert light
   differently every hour.
+score: 9.0
 ---
 
 The King Abdulaziz Center for World Culture — known by its Arabic name Ithra — is the most ambitious cultural building in the Gulf. Designed by the Norwegian firm Snøhetta and opened in 2017, it gathers a library, a museum, an art gallery, a 900-seat theatre, an IMAX cinema, a children's discovery centre and a permanent exhibition on the history of Saudi oil into a single dramatic complex of curved silver volumes that look like enormous pebbles.

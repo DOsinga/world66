@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 21.87
 longitude: -71.95
+score: 8.1
 ---
 
 The Flamingo Pond Overlook is a viewing platform above a large shallow pond on the interior of North Caicos where a flock of West Indian flamingos feeds in the shallows. The flamingos are present year-round, though their numbers vary — you might see a dozen or several hundred depending on the season and conditions. The pond's pink tint from the algae the birds feed on is visible from the overlook even before you spot the birds themselves.

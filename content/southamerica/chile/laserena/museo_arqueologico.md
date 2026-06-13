@@ -6,6 +6,7 @@ longitude: -71.2475
 tags:
   - things_to_do
   - museum
+score: 8.4
 ---
 
 The Archaeological Museum, two blocks east of the Plaza de Armas, holds one of the best pre-Columbian collections in northern Chile. Diaguita ceramics in geometric black-and-red, Molle-period pottery, mummies from the Atacama, and the museum's prize possession: an Easter Island moai, one of only a handful off the island.

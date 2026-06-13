@@ -11,6 +11,7 @@ tags:
 title: The Ether Dome
 type: poi
 url: www.massgeneral.org
+score: 7.6
 ---
 
 A small skylit operating theatre on the top floor of the Bulfinch Building at Massachusetts General Hospital, where ether was first publicly demonstrated as a surgical anaesthetic in October 1846. Before that day, surgery was performed on screaming, fully conscious patients held down by orderlies; after it, the world changed.

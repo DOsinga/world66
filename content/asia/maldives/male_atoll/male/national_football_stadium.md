@@ -8,6 +8,7 @@ tags:
 latitude: 4.1741
 longitude: 73.5131
 snippet: "Home of the Maldivian national team and the Dhivehi Premier League"
+score: 4.8
 ---
 
 The National Football Stadium — locally the Galolhu Rasmee Dhandu — is the country's biggest sports venue, a roughly 11,000-seat ground tucked into the dense Galolhu district. It hosts national-team matches, the Dhivehi Premier League and the FA Cup final, plus the occasional concert.

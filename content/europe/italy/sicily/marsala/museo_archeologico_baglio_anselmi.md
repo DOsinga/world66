@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: "Archaeological museum housing the Punic warship found in the Stagnone"
 story: "The Punic warship on display was discovered by the British archaeologist Honor Frost in 1969, after fishermen reported snagging timbers in the lagoon. It is the only surviving warship of the Punic Wars era — the actual vessel, not a reconstruction — and Carthaginian shipwrights' marks are still visible on the timbers showing how the modular hull was assembled."
+score: 8.5
 ---
 
 The archaeological museum occupies a converted **baglio** — a fortified wine warehouse — on the seafront at the western edge of the old town. Its centrepiece is the **Punic ship**: roughly half the hull of a 35-metre Carthaginian warship, raised from the seabed off Punta Scario and painstakingly conserved.

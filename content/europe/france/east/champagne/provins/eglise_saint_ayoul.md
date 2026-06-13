@@ -11,6 +11,7 @@ tags:
 - sight
 - church
 - architecture
+score: 7.4
 ---
 
 A Romanesque church begun in the 11th century in the lower town, on the site where the body of Saint Ayoul is said to have been rediscovered in 996. The discovery turned the church into a popular pilgrimage destination and helped establish the lower town as the commercial centre of Provins during the trade fairs.

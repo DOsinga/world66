@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 23.5983
 longitude: 58.5697
+score: 5.4
 ---
 
 Ruwi is the commercial and business district of Muscat, a grid of mid-rise office buildings, bank headquarters, and shopping streets that developed rapidly from the 1970s onward as Oman's oil revenues funded modern infrastructure. It functions as the working centre of the capital, home to money exchanges, travel agencies, government offices, and the main bus station. The Ruwi souk, a covered market with gold, textiles, and electronics, is less atmospheric than Muttrah but more practical.

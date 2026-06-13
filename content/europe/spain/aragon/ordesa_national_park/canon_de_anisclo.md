@@ -7,6 +7,7 @@ snippet: "Wild limestone gorge quieter than neighbouring Ordesa valley"
 tags:
 - things_to_do
 - nature
+score: 8.4
 ---
 
 The less-visited neighbour of the Ordesa valley, Añisclo is a narrower and wilder gorge carved by the Bellós river through pale limestone. It lacks the dramatic vertical walls of Ordesa but has a rawer, quieter character — fewer people, denser vegetation, and a sense that you're somewhere the tourist buses don't reach.

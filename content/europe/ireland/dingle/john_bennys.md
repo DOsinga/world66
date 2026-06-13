@@ -6,6 +6,7 @@ longitude: -10.2745
 tags:
   - bars_and_cafes
   - bar
+score: 7.4
 ---
 
 John Benny's is the pub on Strand Street where you go for the music. The owner, John Benny Moriarty, is a well-known accordion player on the Irish traditional circuit and the sessions here are the real thing — five or six players, no microphones, regulars dropping in and out for an hour or two. The pub itself is small, busy, and unfussily good.

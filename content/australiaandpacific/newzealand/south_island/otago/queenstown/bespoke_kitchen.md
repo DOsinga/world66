@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: All-day brunch cafe with strong coffee
+score: 6.7
 ---
 
 A bright airy cafe a few minutes' walk uphill from the lakefront, serving a smart all-day brunch menu — corn fritters, eggs benedict variations, smashed avocado done well — and one of the best coffees in town. Popular with locals as well as visitors, which is unusual for the centre.

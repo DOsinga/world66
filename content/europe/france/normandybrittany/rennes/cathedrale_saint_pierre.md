@@ -12,6 +12,7 @@ story: >
   a neoclassical facade (completed when classical was already going out of fashion) fronting a
   rich interior that still contains a remarkable Flemish altarpiece from the 1520s, one of the
   few treasures to survive the Revolution.
+score: 6.6
 ---
 
 The Cathédrale Saint-Pierre anchors the south end of the old town, its twin neoclassical towers visible above the rooftops from several streets away. The interior surprises: where the outside is restrained and almost severe, the nave is covered in gilded painting and richly coloured side chapels. The 16th-century Flemish altarpiece in the Chapel of Our Lady of Miracles is worth special attention — nine painted panels depicting scenes from the life of the Virgin, with an intensity of colour that has barely faded.

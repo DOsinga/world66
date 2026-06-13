@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.5397
 longitude: -77.4400
+score: 7.5
 ---
 
 Jefferson Davis lived in this neoclassical mansion from 1861 to 1865 while serving as president of the Confederacy. The building has been carefully restored to its Civil War-period appearance and contains the largest collection of Confederate artifacts in the world: furniture, uniforms, documents, weapons, and personal effects of Davis and other Confederate leaders. The house is attached to the Museum of the Confederacy, now incorporated into the American Civil War Museum system.

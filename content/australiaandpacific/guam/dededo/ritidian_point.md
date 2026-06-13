@@ -11,6 +11,7 @@ story: >
   The date — known as Liberation Day — remains a public holiday on Guam.
 sources:
   - https://en.wikipedia.org/wiki/Ritidian_Point
+score: 8.9
 ---
 
 The northernmost tip of Guam is a protected wildlife refuge managed by the US Fish and Wildlife Service, and it is about as far from the resort strip of Tumon Bay as it is possible to get on the island. Ritidian Point has a pristine white-sand beach that curves around a lagoon of vivid turquoise water, backed by limestone forest that is home to native Guam birds. The reef offshore is one of the better snorkelling spots on the island — the fish are bigger and more numerous than at the more-visited southern beaches.

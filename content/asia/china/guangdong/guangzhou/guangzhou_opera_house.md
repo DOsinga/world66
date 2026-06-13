@@ -8,6 +8,7 @@ tags:
 latitude: 23.1196
 longitude: 113.3177
 snippet: "Zaha Hadid-designed concert hall on the Pearl River, one of Asia's finest"
+score: 7.6
 ---
 
 The Guangzhou Opera House sits on the north bank of the Pearl River in Zhujiang New Town, its irregular stone forms resembling two pebbles deposited by the river. Designed by Zaha Hadid and opened in 2010, it is one of the most impressive pieces of contemporary architecture in China — and among the best concert halls in Asia by acoustics and programme quality.

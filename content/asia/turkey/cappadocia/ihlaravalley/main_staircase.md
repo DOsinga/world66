@@ -6,6 +6,7 @@ longitude: 34.2920
 tags:
   - things_to_do
   - sight
+score: 4.6
 ---
 
 The official entrance to the valley, signposted off the road from Aksaray. A long zigzag staircase — around 380 steps — descends from the rim down to the river. There is a ticket booth at the top, a small café, and toilets.

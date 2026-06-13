@@ -15,6 +15,7 @@ story: >
   and Chimú. Archaeological sites dot the valley floor; many are unexcavated and
   virtually unknown to visitors. The Gallito Ciego dam, built in the 1980s, now impounds
   the upper valley and has created a large reservoir popular for boating and fishing.
+score: 6.6
 ---
 
 The Jequetepeque valley rises east of Pacasmayo, following the river inland through rice paddies, sugar cane, and eventually the foothills of the Andes. The road up the valley to Cajamarca passes through a landscape that has been continuously farmed for three thousand years, dotted with pre-Columbian adobe sites, colonial churches, and traditional villages. The Gallito Ciego reservoir, about an hour east of Pacasmayo, marks the point where the valley narrows and the Andean landscape takes over.

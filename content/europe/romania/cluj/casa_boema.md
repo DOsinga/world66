@@ -7,6 +7,7 @@ snippet: Long-running Romanian restaurant with a garden terrace, popular with lo
 tags:
 - eating_out
 - restaurant
+score: 6.6
 ---
 
 Casa Boema, just off Piața Muzeului, has been serving solid Romanian and Transylvanian food for years and has built a steady local following. The dining room is plain; the back garden, with its long wooden tables under vines, is the reason to come in summer.

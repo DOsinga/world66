@@ -8,6 +8,7 @@ latitude: 37.5262
 longitude: -8.7875
 story: >
   Zambujeira was for years one of the best-kept secrets on the Portuguese coast — a small village at the end of a dirt road, with a spectacular beach and almost no tourist infrastructure. The secret got out, and it now draws crowds in summer. But Zambujeira's beach is so good — deep, backed by spectacular multi-coloured cliffs — that it still feels worth the trip even when busy. The village itself remains tiny: a handful of houses, a few restaurants, and a campsite.
+score: 8.0
 ---
 
 Zambujeira do Mar is the southernmost coastal village within the Odemira municipality and the site of the Sudoeste Alive music festival, which each August transforms this remote clifftop into one of Portugal's biggest outdoor concerts. For the other eleven months of the year it reverts to a sleepy hamlet with one of the finest beaches on the Atlantic coast.

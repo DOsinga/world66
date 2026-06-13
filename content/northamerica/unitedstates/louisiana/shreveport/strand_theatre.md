@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Saenger brothers, Julian and Abraham, built the Strand in 1925 as the flagship of their Louisiana-born theatre empire — at one point they ran more than 320 cinemas across the South and Central America. The Strand was the only one to survive intact."
+score: 7.9
 ---
 
 The Strand is the most ornate building in Shreveport — a 1925 Beaux-Arts vaudeville and movie palace with a richly painted dome, gilded plasterwork, and a working pipe organ. After near-demolition in the 1970s it was restored and reopened as a performing-arts venue. It now hosts touring Broadway shows, concerts, and the Shreveport Opera.

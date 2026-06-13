@@ -11,6 +11,7 @@ tags:
 - kreuzberg
 title: Stoffwechsel
 type: poi
+score: 6.0
 ---
 
 A Kreuzberg clothing shop importing streetwear directly from Britain and France. The Oranienstrasse location sits right in the thick of Kreuzberg's shopping strip near Kottbusser Tor. A second branch operates at Oranienburger Strasse 3 in Mitte.

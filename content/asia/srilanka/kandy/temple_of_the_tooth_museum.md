@@ -13,6 +13,7 @@ story: >
   Thailand. The collection reveals the relic's role as a diplomatic object as much as a religious
   one: receiving the tooth in procession was historically one of the ways a foreign power signaled
   its respectful relationship with Sri Lanka.
+score: 7.1
 ---
 
 The museum attached to the Temple of the Tooth complex occupies a building adjacent to the main shrine. It displays gifts presented to the temple over the centuries by royalty and foreign governments, historical maps and photographs of the temple, and objects from the Kandyan royal court. The collection is well presented and labels are in English.

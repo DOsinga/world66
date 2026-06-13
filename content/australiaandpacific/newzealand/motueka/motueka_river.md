@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -41.0833
 longitude: 173.0167
+score: 6.1
 ---
 
 One of the South Island's best brown trout rivers, the Motueka flows through a wide valley of hop fields and apple orchards before reaching the sea at Motueka. The upper river is clear and fast, the lower reaches slower and more pastoral. Fly fishing is the main draw for serious anglers — the river holds good populations of both brown and rainbow trout.

@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Pete's on Patricia
 type: poi
+score: 4.8
 ---
 
 High-energy spot with DJ sets and occasional live music. Big screens showing mountain biking, snowboarding, and sports. Quieter during the day, livelier after dark. 2nd floor, 614 Patricia Street.

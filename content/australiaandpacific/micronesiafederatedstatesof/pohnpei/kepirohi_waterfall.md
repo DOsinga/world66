@@ -9,6 +9,7 @@ latitude: 6.8437
 longitude: 158.2381
 sources:
   - https://www.pohnpei-adventure.com/
+score: 7.2
 ---
 
 The most accessible and dramatic of Pohnpei's many waterfalls, Kepirohi plunges 20 metres over a black basalt face into a clear pool about 50 minutes by car from Kolonia. The pool is wide enough for a proper swim and cool enough to feel genuinely refreshing after the jungle drive. On weekdays you are likely to have it largely to yourself.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.3
 ---
 
 The hump-shaped sandstone-and-granite mountain sits on the boundary between Phoenix and Scottsdale and tops out at 2,704 feet. Two trails reach the summit: Echo Canyon (1.2 miles, hand-over-hand scrambling and railings) and Cholla (1.6 miles, longer but slightly less brutal). Both gain roughly 1,400 feet and both are full-on, especially in the heat.

@@ -7,6 +7,7 @@ tags:
 latitude: 52.4905
 longitude: 5.0678
 snippet: "Private house whose exterior is encrusted with mosaics made from 11 million cigar bands"
+score: 6.6
 ---
 
 On Slobbeland, away from the tourist waterfront, stands a private house whose facade is covered in mosaics assembled from more than eleven million cigar bands — the colourful paper rings that once wrapped individual cigars before modern packaging made them obsolete. The project took decades and turned a standard Dutch terraced house into something genuinely strange. Up close the work is dense and intricate, with repeating patterns that shift as you move along the facade.

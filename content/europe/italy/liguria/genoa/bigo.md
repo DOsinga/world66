@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Renzo Piano's panoramic lift at the old port, styled after a dockside crane
+score: 5.8
 ---
 
 Renzo Piano designed the Bigo — Italian for a type of dockside crane — as a conscious homage to the industrial history of the Porto Antico. The rotating panoramic cabin ascends 40 metres above the waterfront and gives a 360-degree view over the port, the old city, and the Ligurian hills. On a clear day you can see well along the coast in both directions.

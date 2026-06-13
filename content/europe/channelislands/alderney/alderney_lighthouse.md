@@ -9,6 +9,7 @@ longitude: -2.1643
 story: "Mannez Lighthouse was built in 1912 to warn shipping of the Alderney Race, one of the fastest tidal streams in Europe. The Race runs between Alderney and the French coast, with currents reaching 8 knots — fast enough to overwhelm most small vessels. Many ships have been lost here over the centuries."
 sources:
   - https://en.wikipedia.org/wiki/Alderney_Lighthouse
+score: 6.8
 ---
 
 Mannez Lighthouse stands on the northeastern tip of Alderney, marking the headland above the Alderney Race — the treacherous tidal passage between the island and the French coast of Cap de la Hague. The 37-metre tower is a Trinity House lighthouse built in 1912, automated since 1997 and no longer open to the public, but the walk out to the headland is worthwhile.

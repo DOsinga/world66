@@ -8,6 +8,7 @@ tags:
   - sight
 title: Castle of Palazuelos
 type: poi
+score: 6.7
 ---
 
 Palazuelos is a tiny walled village west of Sigüenza, and its castle gives a good taste of the defensive landscape that once surrounded the town. The walls still enclose much of the settlement, making the place feel like a fortified pocket of Castile left behind by the main road.

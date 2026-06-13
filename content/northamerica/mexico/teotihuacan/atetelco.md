@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.6856
 longitude: -98.8551
+score: 7.7
 ---
 
 Atetelco is one of the residential compounds in the west of the city, a kilometre's walk from the Pyramid of the Sun and so usually well off the tour-bus route. It rewards the effort: a series of small patios, doorways, and interior rooms preserve murals showing jaguars and coyotes alternating with armed warriors. The compound is read as a military quarter of the city.

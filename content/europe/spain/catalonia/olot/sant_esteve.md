@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.2
 ---
 
 The Església de Sant Esteve is the parish church of Olot — a substantial Baroque building on the Plaça Major, rebuilt in the 1750s after the previous medieval church was destroyed by the catastrophic 1428 earthquake. The interior is unexpectedly grand: a single nave with side chapels, decorated with the kind of dark altarpieces common to provincial Catalan Baroque.

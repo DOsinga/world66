@@ -9,6 +9,7 @@ latitude: 30.3271
 longitude: -82.7596
 sources:
   - https://en.wikipedia.org/wiki/Stephen_Foster_Folk_Culture_Center_State_Park
+score: 7.7
 ---
 
 Fifteen miles northeast of Lake City on the banks of the Suwannee River, this state park in White Springs commemorates the composer Stephen Foster and Florida's official state song. Foster never actually visited the Suwannee — he picked the name from a map because it scanned well in the lyric — but the park leans into the irony gracefully.

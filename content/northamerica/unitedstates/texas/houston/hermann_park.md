@@ -7,6 +7,7 @@ tags:
 - sight
 title: Hermann Park
 type: poi
+score: 7.9
 ---
 
 Hermann Park is Houston's central green space — 445 acres immediately south of the Museum District, featuring McGovern Lake with pedal boats, a Japanese Garden, the Houston Zoo, and the Miller Outdoor Theatre, where free performances are staged throughout the spring and autumn seasons.

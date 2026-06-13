@@ -11,6 +11,7 @@ address: 6640 Washington Street, Yountville
 opening_hours: Dinner nightly; lunch Friday–Sunday
 admission: Set menu, several hundred dollars per person, service included
 story: "Thomas Keller bought the failing restaurant in 1994 after a stretch of his own career he later described as a long crawl through bad jobs. He paid for the down payment with cheques scraped together from forty-seven friends and investors. The building was originally a French steam laundry built in 1900, hence the name."
+score: 9.4
 ---
 
 Three Michelin stars, the highest restaurant grade in the country, and consistently on every short list of the world's best restaurants — The French Laundry is the reason Yountville is on the global food map. Thomas Keller's tasting menu runs nine courses, sometimes more, and changes constantly: a signature is the salmon "cornet" served as an amuse, deliberately small to begin in lightness rather than weight.

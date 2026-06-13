@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - shopping
 snippet: Centuries-old handloom tradition producing the distinctive Mangalagiri sari
+score: 7.6
 ---
 
 Mangalagiri cotton is one of the few Indian handloom fabrics with its own GI tag. It is woven on pit looms in homes and small workshops throughout the older parts of town, in a tradition that goes back at least four hundred years. The signature is the contrast border — a wide band of zari or solid colour against a plain or striped body — with no woven motifs in the field of the sari.

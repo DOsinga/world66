@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7966
 longitude: -121.2145
+score: 5.7
 ---
 
 Library Park is the heart of downtown Manteca — a tree-shaded square at the corner of Yosemite Avenue and Main Street that has been the city's gathering point since the early twentieth century. The park hosts a weekly farmers market on Tuesday evenings in summer and anchors the city's annual street fair in spring.

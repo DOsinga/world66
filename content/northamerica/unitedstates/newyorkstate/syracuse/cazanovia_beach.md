@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Cazenovia Beach
 type: poi
+score: 3.2
 ---
 
 A small, private beach on Cazenovia Lake, reserved for residents of the village of Cazenovia, about 20 miles southeast of Syracuse. The lake itself is a pleasant glacial body surrounded by woodland, and the village has a handsome Main Street worth a wander. Visitors without residency access can still enjoy the lakeside scenery from the surrounding roads and parks.

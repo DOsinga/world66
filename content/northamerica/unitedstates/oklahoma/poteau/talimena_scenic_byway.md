@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The byway was built in the 1960s as a stripped-down version of a much grander Roosevelt-era plan to turn the Ouachitas into a national park. The park never happened; the road, climbing 54 miles of empty ridgeline with almost no houses or services, did."
+score: 8.2
 ---
 
 The Talimena Scenic Byway runs 54 miles along the spine of the Winding Stair Mountains from Talihina, Oklahoma, to Mena, Arkansas. It is one of the great drives of the southern United States, with overlooks every few miles and almost no commercial development the entire length. The northern end is about 45 minutes south of Poteau.

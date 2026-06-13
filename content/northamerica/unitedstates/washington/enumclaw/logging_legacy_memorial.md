@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.2031
 longitude: -121.9882
+score: 5.2
 ---
 
 A public art installation and memorial in downtown Enumclaw honoring the timber industry that shaped King County and the entire Cascade foothills region. The logging economy that built Enumclaw is long gone — the forests around the town were cleared decades ago — but the industry's legacy in the community's DNA runs deep. The memorial uses stylized logs and interpretive panels to tell that story.

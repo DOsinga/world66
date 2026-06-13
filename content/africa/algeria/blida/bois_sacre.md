@@ -7,6 +7,7 @@ snippet: "Sacred olive grove with a Sufi shrine on the southern edge of the city
 tags:
 - things_to_do
 - sight
+score: 7.3
 ---
 
 The Bois Sacré — "Sacred Wood" — is an ancient grove of olive trees a short walk south of the centre, gathered around the shrine of Sidi Yacoub al-Kabir, a 16th-century Sufi saint traditionally considered the founder of Blida. The olives are said to have been planted by the saint himself, and some of the gnarled trees are clearly several centuries old.

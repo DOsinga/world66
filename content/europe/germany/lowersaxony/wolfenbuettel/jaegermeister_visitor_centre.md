@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Wolfenb%C3%BCttel
+score: 6.4
 ---
 
 Wolfenbüttel is the birthplace and home of Jägermeister, the herbal liqueur invented by Wilhelm Mast in 1934. The Mast-Jägermeister headquarters has been here ever since, and the company operates a visitor experience — the Jägermeister World — attached to the production facility. Guided tours take in the history of the brand, the production process, and the 56 herbs and spices that go into the recipe. The tour ends with a tasting.

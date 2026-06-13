@@ -8,6 +8,7 @@ latitude: 45.8018
 longitude: 15.1708
 sources:
   - https://en.wikipedia.org/wiki/Kandija_Bridge
+score: 7.1
 ---
 
 The Kandija Bridge — also called the Old Bridge — is an iron pedestrian bridge crossing the Krka river, built in 1894. It is the oldest surviving bridge in Novo Mesto and connects the old town bluff with the Kandija suburb on the opposite bank. The view from the bridge, looking upstream toward the wooded horseshoe bend of the Krka with the cathedral spires above, is the classic image of Novo Mesto.

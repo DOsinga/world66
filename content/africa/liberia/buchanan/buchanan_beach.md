@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 5.8770
 longitude: -10.0380
+score: 7.4
 ---
 
 Buchanan Beach runs for kilometres along Waterhouse Bay, broad and almost always empty outside of a handful of fishermen and the occasional group of children. The sand is golden, the surf is consistent, and there is virtually no development — a few palms, the odd fishing pirogue pulled up on the shore, and not much else.

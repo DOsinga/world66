@@ -8,6 +8,7 @@ tags:
 neighbourhood: Vista
 latitude: 33.9994
 longitude: -81.0396
+score: 5.8
 ---
 
 Motor Supply Co. Bistro is one of the best restaurants in Columbia, occupying a converted auto parts warehouse in the Vista district. The menu changes daily based on what is available — a genuinely farm-to-table approach rather than a marketing claim — and typically runs to a dozen or so dishes mixing Southern tradition with broader American and European influences.

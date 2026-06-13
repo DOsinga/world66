@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The cathedral's interior murals are painted with Galápagos wildlife — marine iguanas, tortoises, and blue-footed boobies filling the roles usually given to cherubs and saints. It is a jarring and delightful combination that makes this one of the more unusual churches you will encounter anywhere."
+score: 6.4
 ---
 
 The Immaculate Conception Cathedral sits a few blocks from the waterfront in the town centre — the most prominent religious building on San Cristóbal. The exterior is a modest white facade in the Spanish colonial tradition, nothing remarkable at first glance. The interior is another matter entirely: the walls and ceiling are decorated with murals incorporating the native wildlife of the archipelago alongside the standard Catholic iconography, in a local artistic tradition that blurs the line between natural history and devotion.

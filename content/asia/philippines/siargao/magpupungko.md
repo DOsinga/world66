@@ -9,6 +9,7 @@ latitude: 9.9278
 longitude: 126.1386
 story: >
   The name Magpupungko comes from a local word meaning "to balance" or "to stand," a reference to the spectacular rock formations that jut from the reef. At high tide, the pools completely disappear — you'd have no idea they were there. Locals have used them as natural swimming holes for generations, but they only became known to visitors in the late 2000s.
+score: 8.4
 ---
 
 Magpupungko is one of Siargao's most magical spots, accessible only at low tide when the sea retreats to reveal a series of crystal-clear natural pools carved into the volcanic rock formations of the reef. The largest pool is deep enough to swim in and clear enough to see the bottom. Smaller pools dot the surrounding rocky platform, perfect for wading and exploration.

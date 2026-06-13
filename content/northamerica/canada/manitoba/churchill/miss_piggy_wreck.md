@@ -13,6 +13,7 @@ story: >
   cargo of live pigs. When it came down on 13 November 1979 after an engine
   failure on takeoff, everyone on board survived. The carcass was simply left
   where it fell.
+score: 5.6
 ---
 
 The Miss Piggy is a Curtiss C-46 Commando twin-engine cargo plane that crashed on 13 November 1979 while attempting to return to Churchill airport after an engine failure on takeoff. The aircraft came down on rocky ground on the edge of town and was left where it fell. Over the decades it has become one of Churchill's most photographed landmarks — the fuselage sits at a photogenic angle, slowly being reclaimed by the tundra.

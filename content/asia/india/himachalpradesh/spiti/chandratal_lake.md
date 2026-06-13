@@ -10,6 +10,7 @@ longitude: 77.6172
 sources:
   - https://en.wikipedia.org/wiki/Chandratal
 story: "The name Chandratal means 'Moon Lake' in Hindi, a reference to the crescent shape of the lake when seen from above. According to local legend, it was from the shores of this lake that the god Indra descended to take the hero Yudhishthira to heaven, as narrated in the Mahabharata."
+score: 9.5
 ---
 
 Chandratal is the one place in Spiti that stops even the most jaded mountain travellers in their tracks. A crescent-shaped glacial lake at 4,300 metres, sitting in a high-altitude meadow surrounded by bare brown peaks, it has water so intensely blue that it looks almost artificial — the colour shifts from turquoise to cobalt to deep navy depending on the time of day and cloud cover.

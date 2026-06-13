@@ -8,6 +8,7 @@ latitude: 22.6849
 longitude: 120.2925
 snippet: Lake ringed by dragon-and-tiger pagodas, temples and giant deities
 story: "The Dragon and Tiger Pagodas were built in 1976 and are based on an old belief that entering through a dragon's mouth and exiting through a tiger's mouth turns bad fortune into good. Going in the wrong way is said to do the opposite, so the path is signed."
+score: 9.0
 ---
 
 A large rectangular lake on the northern edge of Kaohsiung, ringed by an extraordinary collection of Taoist temples, shrines and giant deity figures. The signature view is the **Dragon and Tiger Pagodas** — a pair of seven-storey pagodas connected to the shore by zigzag bridges and entered through the carved mouths of a dragon and a tiger.

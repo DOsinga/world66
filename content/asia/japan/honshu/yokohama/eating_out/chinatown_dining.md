@@ -1,6 +1,7 @@
 ---
 title: "Chinatown: Dim Sum and Chinese Cuisine"
 type: poi
+score: 6.8
 ---
 
 Yokohama's Chinatown is the best place in Japan to eat Chinese food, and the range is wider than the tourist-facing frontage might suggest. The big names on the main shopping street serve serviceable Cantonese and Shanghainese food to crowds, but a few minutes' walk into the side streets reveals smaller, more serious restaurants: Hong Kong-style teahouses doing proper dim sum from carts on weekend mornings, Sichuanese restaurants with genuine heat, and Shanghainese spots where the xiaolongbao are made fresh and the hairy crab is seasonal.

@@ -8,6 +8,7 @@ latitude: 47.6600
 longitude: 11.1900
 story: >
   The Murnauer Moos covers 4,200 hectares and is the largest continuous raised bog in Central Europe. It has been accumulating peat since the last ice age — some of the peat layers are over 7,000 years old. The bog is also a major carbon store; draining it for agriculture, as happened to most European bogs in the nineteenth century, was proposed and rejected here, and the landscape you walk through today is one of the few remaining examples of what much of the pre-agricultural Alpine foothills looked like.
+score: 8.2
 ---
 
 The Murnauer Moos is an enormous wetland southeast of the Staffelsee, a mosaic of raised bog, wet meadows, and transition forest that spreads across the valley floor between the Alps and the lake. It is protected as both a nature reserve and a Ramsar wetland of international importance, and it is genuinely extraordinary in scale and ecological completeness.

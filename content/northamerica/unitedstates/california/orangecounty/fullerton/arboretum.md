@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.8
 ---
 
 Tucked on the northern corner of the Cal State Fullerton campus, the Fullerton Arboretum is a 26-acre botanical garden that feels nothing like suburban Orange County. The grounds are organised into themed sections — a desert garden, a tropical rainforest collection, a California native plants area, a citrus and stone-fruit grove — with winding paths and ponds connecting them. The collection runs to more than 4,000 plant species.

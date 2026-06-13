@@ -10,6 +10,7 @@ tags:
   - culture
 snippet: The best-restored ancient Polynesian temple on Tahiti, used for the Heiva festival ceremonies
 story: "Ancient Polynesian marae served simultaneously as temples, meeting places, courts, and cemeteries. The stones of Arahuruhu were placed here by the Oropa'a clan, and the platform's ahu (altar) faced east toward the rising sun — a consistent feature of marae across the Pacific. Today, during the annual Heiva i Tahiti festival, the site is brought back to life with traditional dance, music, and re-enacted ceremonies."
+score: 8.3
 ---
 
 Marae Arahuruhu stands near the village of Paea on the west coast of Tahiti, about 21 km south of Papeete. It is one of the best-preserved marae — ancient Polynesian ceremonial platforms — in French Polynesia, and the only one in the Society Islands that has been substantially restored. The rectangular stone platform (ahu), backed by a raised backrest structure, stands in a clearing surrounded by breadfruit trees and Polynesian *pua* flowers.

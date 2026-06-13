@@ -7,6 +7,7 @@ tags:
 latitude: 40.2102
 longitude: -8.4237
 snippet: "The university's scientific collections spanning 700 years, including the Cabinet of Natural History"
+score: 7.9
 ---
 
 The Science Museum of the University of Coimbra occupies the former Colégio de Jesus, a Jesuit college taken over by the university in the 18th century. It holds the historical scientific collections assembled over nearly seven centuries of teaching: anatomical models, astronomical instruments, early physics equipment, and the natural history collections that were the wonder of 18th-century Portugal.

@@ -9,6 +9,7 @@ tags:
 - haidhausen
 title: Salvator-Keller
 type: poi
+score: 6.5
 ---
 
 type: Beer Gardens

@@ -7,6 +7,7 @@ tags:
 latitude: 10.2993
 longitude: -85.8395
 snippet: Long-running fusion restaurant a few blocks back from the beach
+score: 5.4
 ---
 
 Dragonfly has been a Tamarindo institution for years — a thatched-roof open-air dining room tucked away on a side street, far enough from the main drag to feel like a discovery. The cooking is fusion-leaning Latin-Asian: seared tuna with wasabi, coconut-encrusted snapper, miso-glazed pork, a famously good chocolate cake.

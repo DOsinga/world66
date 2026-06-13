@@ -13,6 +13,7 @@ story: >
   and was assassinated in 1980 while saying Mass. The cathedral was not
   completed until 1999. Romero was beatified by Pope Francis in 2015 and
   canonised in 2018; his tomb is in the crypt.
+score: 7.7
 ---
 
 Plaza Barrios is the main square of San Salvador's historic centre and the logical starting point for a morning in the city. The Metropolitan Cathedral — rebuilt after the 1986 earthquake — faces the square alongside the National Palace, a turn-of-the-century neoclassical building in four colours of marble. The square itself is busy with vendors and pigeons and city life.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The official residence of the Lehendakari, the president of the Basque Government. The Basque-style chalet was built in 1918 for the industrialist Serafín Ajuria; the regional government acquired it in 1980 as the seat of its newly created executive.

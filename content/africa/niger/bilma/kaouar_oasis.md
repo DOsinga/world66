@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.8
 ---
 
 Bilma sits at the southern end of the Kaouar — a 150-kilometre line of small oases strung along the foot of a sandstone escarpment, each one a green pocket in an otherwise empty desert. The town's own palm grove is the largest of the chain: date palms, a few vegetable plots watered from shallow wells, and stretches of shaded ground that feel improbable after the drive in from Agadez.

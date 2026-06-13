@@ -8,6 +8,7 @@ tags:
 - museum
 title: Musée Mécanique
 type: poi
+score: 8.0
 ---
 
 Tucked into a warehouse at Pier 45, the Musée Mécanique is a private collection of over 300 antique arcade machines, mechanical curiosities, and coin-operated oddities dating back to the 1880s. Entry is free -- you just pay per game, usually a quarter or fifty cents.

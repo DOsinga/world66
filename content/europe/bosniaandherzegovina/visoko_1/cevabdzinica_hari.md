@@ -6,6 +6,7 @@ longitude: 18.1786
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A small ćevabdžinica in the old town serving the local version of the dish — small grilled beef sausages, sliced onion, kajmak, and fresh somun bread from the oven a few steps away. The portions are five, ten, or fifteen sausages.

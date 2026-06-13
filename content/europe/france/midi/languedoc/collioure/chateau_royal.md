@@ -19,6 +19,7 @@ story: >
   of whom died here.
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau_Royal_de_Collioure
+score: 8.6
 ---
 
 The Château Royal de Collioure sits directly on the harbour, its feet practically in the sea, a massive fortification whose scale feels slightly absurd in such a small town. The castle complex includes the original medieval core, the Aragonese expansion with its round towers, and Vauban's 17th-century modifications that gave the walls their current profile. The views from the battlements take in the harbour, the church, the beaches on either side, and the mountains behind.

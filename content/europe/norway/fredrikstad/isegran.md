@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Fredrikstad_Fortress
+score: 6.7
 ---
 
 Isegran is a small island where the Glomma empties into the Oslofjord, connected to Gamlebyen by a short bridge. The island has been fortified since medieval times — a tower here guarded the river mouth long before the 17th-century fortress town was built — and the ruins of the old fortifications can still be seen among the grass and rock.

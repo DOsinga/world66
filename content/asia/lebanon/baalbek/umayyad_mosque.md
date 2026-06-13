@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.0071
 longitude: 36.2073
+score: 7.1
 ---
 
 The Great Mosque of Baalbek stands near the entrance to the Roman ruins and is one of the earliest surviving Islamic monuments in Lebanon. Built during the Umayyad period (7th–8th century), it was constructed largely from recycled Roman material — columns, carved stone blocks, and capitals from the earlier temples were reused throughout the building, giving it a pleasingly composite character.

@@ -7,6 +7,7 @@ tags:
 snippet: "Long-standing old-town café for cake and coffee"
 latitude: 47.68240
 longitude: 13.09650
+score: 5.3
 ---
 
 Café Braun is the classic Austrian Kaffeehaus on the Bayrhamerplatz in the old town. Marble tables, dark wood panelling, a glass case of cakes — apple strudel, Esterházy torte, Schwarzwälder Kirsch — and the local newspapers spread out on a rack for anyone to read.

@@ -14,6 +14,7 @@ tags:
 snippet: "One of the world's oldest botanical gardens, founded in 1638"
 title: Hortus Botanicus
 type: poi
+score: 8.5
 ---
 
 One of the oldest botanical gardens in the world, founded in 1638 to grow medicinal herbs for Amsterdam's doctors. The greenhouses are spectacular — a three-climate dome holds plants from tropical to desert environments. The orangerie makes a good lunch stop, and the garden is calm enough to feel like a genuine escape from the city.

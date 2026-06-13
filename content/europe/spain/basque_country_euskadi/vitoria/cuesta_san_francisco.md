@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - medieval_quarter
+score: 6.6
 ---
 
 A short, steep stepped lane that links the upper old town with the Plaza de la Virgen Blanca below. The walls of the convent of San Francisco, suppressed in the 19th century, line one side; bars and pintxo joints line the other.

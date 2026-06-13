@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 4.823056
 longitude: -1.916944
+score: 7.7
 ---
 
 The quiet village of Butre lies about three kilometres east of Busua along the coast, accessible by a path through palm groves or by boat. The walk from Busua to Butre is one of the most pleasant stretches of Ghana's coastline — past mangrove-fringed estuaries, fishing settlements, and beaches with barely any visitors. Butre itself is home to a small ruined Dutch fort (Fort Batenstein, built 1656) that overlooks the village from a hilltop; it is now largely overgrown but the views from the hilltop are excellent.

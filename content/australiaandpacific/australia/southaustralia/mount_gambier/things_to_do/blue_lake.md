@@ -10,6 +10,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Blue_Lake_/_Warwar
+score: 8.8
 ---
 
 The Blue Lake is a 70-metre-deep crater lake sitting inside an extinct volcanic maar on the southern edge of the city. What makes it famous — and genuinely baffling — is the colour change: each November the water shifts from grey to a striking cobalt blue, remains that shade all summer, then reverts in March. The scientific explanation involves calcium carbonate precipitation triggered by warming water temperatures, but no model has fully replicated the timing or intensity of the change.

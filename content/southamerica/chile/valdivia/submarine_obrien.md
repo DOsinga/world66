@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -39.8161
 longitude: -73.2493
+score: 6.8
 ---
 
 Moored on the Valdivia River a short walk from the city centre, the Chilean submarine O'Brien is an Oberon-class submarine that served in the Chilean Navy from 1976 to 2004 and is now preserved as a museum ship. At over 90 metres long, it is one of the largest museum exhibits in Chile. Visitors can tour the interior, which is largely intact — the cramped torpedo room, the control room with its original instruments, the crew quarters and engine spaces that give a vivid sense of the extreme conditions of submarine service.

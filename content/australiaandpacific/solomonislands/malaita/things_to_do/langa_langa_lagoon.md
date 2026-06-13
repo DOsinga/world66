@@ -1,6 +1,7 @@
 ---
 title: "Langa Langa Lagoon"
 type: poi
+score: 9.2
 ---
 
 West of Auki, the Langa Langa Lagoon holds one of the Pacific's most extraordinary human achievements: dozens of artificial islands built entirely by hand over many centuries. The Langa Langa people constructed these platforms by hauling coral rocks and shells into the shallows, layer by layer, until they stood above the waterline — large enough to support entire communities. The islands were originally built to escape the raids and disease of the mainland; today they remain inhabited, their residents still moving between island and reef by dugout canoe.

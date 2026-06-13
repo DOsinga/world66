@@ -10,6 +10,7 @@ tags:
 - prenzlauerberg
 title: Malzcafé Café
 type: poi
+score: 5.9
 ---
 
 Tucked into Knaackstrasse in the heart of Prenzlauer Berg, the Malzcafé takes its name from the old malt house that once occupied the building. It's the kind of neighbourhood café that has regulars who stay for hours — good coffee, simple food, and no pressure to move along.

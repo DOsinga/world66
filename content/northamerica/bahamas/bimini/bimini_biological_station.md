@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bimini Biological Field Station
 type: poi
+score: 7.8
 ---
 
 Better known as the Shark Lab, the Bimini Biological Field Station on South Bimini has been studying lemon sharks, nurse sharks and great hammerheads in the surrounding mangroves and flats since 1990. It is one of the longest-running shark research programmes in the world and a major reason the species is so well documented in this part of the Atlantic.

@@ -7,6 +7,7 @@ tags:
   - film
 latitude: 61.5000
 longitude: 23.7667
+score: 8.1
 ---
 
 The Tampere Film Festival, held each March, is one of the oldest and most respected short film festivals in the world. It has run since 1969 and regularly attracts around 100 competing films from over 50 countries. The festival uses the Finnkino Plevna cinema in the Finlayson area as its main venue, along with several other screens around the city.

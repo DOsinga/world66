@@ -6,6 +6,7 @@ longitude: -3.6075
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 A long-running family-run restaurant in the centre of Consuegra, **Las Provincias** does proper Manchego home cooking — *pisto* with a fried egg, slow-braised lamb (*caldereta*), grilled chuletas, and a daily *menú del día* for around €13. The dining room is plain and the service brisk; locals fill it at lunchtime.

@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sivakasi
 story: >
   Sivakasi's fireworks industry began in 1923 when two brothers, P.A. Shanmuga Nadar and P.A. Ayya Nadar, returned from Calcutta with knowledge of the trade and set up the first matchstick factory. The fireworks followed. The town's volcanic location — Sivakasi sits in a dry, hot zone that was historically difficult to farm — meant the population had to find industrial occupations, and the two brothers' initiative created an industry that now employs hundreds of thousands of people across thousands of small enterprises.
+score: 5.8
 ---
 
 The fireworks industry of Sivakasi is one of the most concentrated industrial clusters in India. Hundreds of licensed manufacturers and thousands of small unlicensed workshops operate in and around the town, producing crackers, sparklers, rockets, and display fireworks that are sold across India for Diwali, weddings, and festivals. The town produces an estimated 90% of India's fireworks output.

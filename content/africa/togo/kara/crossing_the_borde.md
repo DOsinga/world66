@@ -8,6 +8,7 @@ tags:
 - getting_there
 title: Crossing the border to Benin
 type: poi
+score: 2.8
 ---
 
 The border between Togo and Benin can easily be crossed from Kara. The road is good and can be covered by taxi. You can book a taxi-brousse all the way to Djougou, though you may need to change vehicles before the border. Alternatively, take a taxi-brousse to the border, walk across (about 5–10 minutes), and pick up onward transport on the Beninese side.

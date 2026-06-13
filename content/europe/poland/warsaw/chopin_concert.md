@@ -9,6 +9,7 @@ longitude: 21.0358
 snippet: "Famous sculpture of Chopin beneath a willow tree in Łazienki Park, setting for free Sunday concerts"
 sources:
   - https://en.wikipedia.org/wiki/Chopin_Monument,_Warsaw
+score: 8.0
 ---
 
 The Chopin Monument in Łazienki Park is one of the most visited sculptures in Poland — a large bronze statue of the composer in a stylised posture beneath a cascading willow tree, designed by Wacław Szymanowski and unveiled in 1926. The Nazis melted it down in 1940; the post-war reconstruction was completed in 1958 from the original model.

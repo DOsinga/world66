@@ -9,6 +9,7 @@ latitude: 36.1658
 longitude: -82.3882
 sources:
   - https://en.wikipedia.org/wiki/Erwin,_Tennessee
+score: 5.8
 ---
 
 The Erwin National Fish Hatchery sits on Federal Hatchery Road on the northern edge of town and is one of the oldest federal hatcheries in the country, operating since 1894. It raises rainbow trout for stocking in rivers and streams across the Southeast, and the facility is open to the public during daytime hours.

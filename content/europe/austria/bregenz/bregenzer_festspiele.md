@@ -9,6 +9,7 @@ tags:
   - festival
 story: >
   The floating stage on Lake Constance holds up to 7,000 spectators — seated on the shore and looking out across the water at a set that can be as large as a small building. When it rains during a performance, the audience puts on ponchos and the show goes on. The stage is rebuilt every two years for a new production, and the engineering is as spectacular as the opera itself.
+score: 9.2
 ---
 
 The Bregenz Festival, held every July and August, is one of the most unusual performing arts events in Europe. Productions are staged on a vast floating platform anchored in Lake Constance, with the audience seated on the lakeside. The spectacle of singers and orchestra performing against a backdrop of water, mountains, and evening sky is genuinely extraordinary.

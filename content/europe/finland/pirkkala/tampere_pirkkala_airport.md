@@ -7,6 +7,7 @@ tags:
 latitude: 61.4141
 longitude: 23.6044
 snippet: "Regional airport serving Tampere and western Finland"
+score: 3.6
 ---
 
 Tampere-Pirkkala International Airport is the gateway to the Tampere region and western Finland, handling budget flights from European carriers including Ryanair. The airport is compact and efficient — you clear arrivals in minutes — and sits about 15 kilometres southwest of central Tampere.

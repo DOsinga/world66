@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.85
 longitude: -21.35
+score: 8.0
 ---
 
 The Strandir coast north of Holmavik is one of the least-visited stretches of road in Iceland. The gravel track winds along the edge of the Westfjords peninsula past dramatic cliffs, empty fjords, and occasional abandoned farmsteads, eventually reaching Djúpavík — a remote settlement with a ruined herring factory and one of Iceland's most atmospheric small hotels. Beyond Djúpavík the road continues to Norðurfjörður, the last settlement before the mountains close in.

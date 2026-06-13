@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The monastery stands on a cliff that has been moving slowly toward the river for centuries. The original monastery buildings, founded in 1328, collapsed into the Oka in a massive landslide in 1597. The current complex was rebuilt on firmer ground slightly uphill and completed by 1635. The threat of further sliding has never entirely gone away — the cliff continues to shift, and engineering works have been ongoing since the Soviet period.
+score: 8.2
 ---
 
 The Pechersky Ascension Monastery (Pechersky Voznesensky monastyr) occupies a commanding position on the high right bank of the Oka river, its white-walled ensemble of towers and churches visible from far downstream. Founded in 1328 by a monk from Kiev, it is one of the oldest monasteries in the Volga region and the most beautiful monastic complex in Nizhny Novgorod.

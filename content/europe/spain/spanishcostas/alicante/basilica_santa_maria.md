@@ -10,6 +10,7 @@ story: >
   The church was built over the main mosque of Moorish Alicante after the city's reconquest in 1296. Construction took more than a century, and the building bears traces of several architectural periods — the doorway is Baroque, the interior Gothic. It is the oldest active church in Alicante.
 sources:
   - https://en.wikipedia.org/wiki/Basilica_of_Santa_Maria,_Alicante
+score: 7.0
 ---
 
 The Basilica of Santa Maria stands at the foot of Mount Benacantil in the oldest part of Alicante, and is the city's most venerated church. The current building dates mainly from the fourteenth and fifteenth centuries, though it was substantially remodelled in the seventeenth. The Baroque portal on the north facade is one of the finest in the Valencian region, richly carved with figures and ornamental stonework.

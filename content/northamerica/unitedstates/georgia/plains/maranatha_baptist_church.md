@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Carter taught Sunday school at Maranatha Baptist for more than forty years, including most Sundays during his presidency, when he flew home from Washington. The class regularly drew several hundred visitors from around the world, who lined up before dawn outside the simple brick church. He continued teaching until shortly before his death in 2024.
+score: 7.2
 ---
 
 The small brick church on the western edge of town that the Carters attended for decades. Jimmy Carter taught the adult Sunday school class here on most Sundays from the 1980s until 2020, and the church became an improbable pilgrimage site for visitors hoping to meet a former president in a setting of almost startling informality.

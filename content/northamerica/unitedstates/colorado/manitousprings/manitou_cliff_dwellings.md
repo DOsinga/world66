@@ -12,6 +12,7 @@ story: >
   but it did preserve the buildings themselves.
 sources:
   - https://en.wikipedia.org/wiki/Manitou_Cliff_Dwellings
+score: 6.2
 ---
 
 The Manitou Cliff Dwellings preserve a collection of Ancestral Puebloan stone rooms built into a red sandstone cliff above Fountain Creek, a few kilometres west of the main town. The structures date from roughly 1100–1300 CE, when the people archaeologists call the Ancestral Puebloans (previously known as the Anasazi) occupied the Four Corners region of the Southwest before a prolonged drought forced their abandonment of these settlements.

@@ -6,6 +6,7 @@ longitude: -1.9985
 snippet: "A Norman motte with a Victorian Gothic rebuild — the castle that gave Devizes its name."
 tags: [things_to_do, sight, history]
 story: "The name Devizes derives from the Latin 'ad divisas', meaning 'at the boundaries' — the original Norman castle was built right on the border between three manors. It was here that Queen Matilda took refuge during the civil war with King Stephen in 1139, and from here she made her famous escape across snow-covered ground, disguised as a corpse in a funeral procession, to reach safety. The Victorian rebuild in 1842 replaced the medieval ruins with what stands today: a romantic castellated mansion that has never been a public building."
+score: 4.9
 ---
 
 Devizes Castle sits on its original Norman motte at the western edge of the old town, visible from the market square. The structure you see now is a Victorian Gothic mansion built in 1842 on the foundations of the medieval castle, which had fallen into ruin after the Civil War. It is a private residence and not open to the public, but the exterior is visible from the road and the motte gives the building an unmistakably castle-like presence.

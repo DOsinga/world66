@@ -9,6 +9,7 @@ tags:
   - sight
   - park
 snippet: 3,915-acre reservoir park with swimming beach, trails and prairie remnants
+score: 7.5
 ---
 
 Cherry Creek State Park covers nearly four thousand acres on Aurora's south-western edge — built around an 880-acre reservoir created in 1950 by the U.S. Army Corps of Engineers to control flooding on the South Platte. The lake supports swimming, sailing, fishing and motorboating; the surrounding parkland holds 35 miles of paved and unpaved trail, a model aircraft field, an off-leash dog area, and a shooting range.

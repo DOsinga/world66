@@ -5,6 +5,7 @@ author: "Kiese Laymon"
 isbn: "978-1501125652"
 tags:
   - books
+score: 7.0
 ---
 
 Kiese Laymon is the most prominent of the younger generation of Mississippi writers to come out of Oxford in the past decade — he taught at the University of Mississippi for most of the 2010s, and his memoir *Heavy* (2018) is set partly in Oxford and partly in his native Jackson. The book is about Black bodies, family, abuse, and the South; it won the Andrew Carnegie Medal and a National Book Critics Circle Award.

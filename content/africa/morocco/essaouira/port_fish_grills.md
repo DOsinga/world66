@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Port Fish Grills
 type: poi
+score: 7.2
 ---
 
 The row of identical numbered stalls at the entrance to the fishing port is the most reliable cheap meal in Essaouira. Each stall has a chest of crushed ice piled with whatever the boats brought in that morning — sardines, mackerel, sea bream, calamari, prawns, sometimes lobster. Pick what you want, agree the weight and price before they cook it (this matters), and they grill it over charcoal and serve it at a plastic table with bread, tomato salad, and a wedge of lemon. Lunchtime only, and busiest in summer.

@@ -8,6 +8,7 @@ tags:
 latitude: 34.0100
 longitude: -118.4960
 snippet: "A 22-mile paved trail running along the beach from Pacific Palisades to Torrance — best ridden early morning"
+score: 7.8
 ---
 
 The Marvin Braude Bike Trail — universally called the Strand — runs 22 miles along the coast from Pacific Palisades in the north to Torrance Beach in the south, passing through Santa Monica, Venice, Marina del Rey, and Manhattan Beach. It is flat, paved, and car-free, and represents one of the genuinely excellent pieces of cycling infrastructure in the Los Angeles area.

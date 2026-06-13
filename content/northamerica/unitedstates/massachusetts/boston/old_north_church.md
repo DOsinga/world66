@@ -12,6 +12,7 @@ tags:
 title: Old North Church
 type: poi
 url: oldnorth.com
+score: 8.7
 ---
 
 The tall white steeple of Christ Church in the City of Boston — known to everyone as the Old North Church — is the oldest standing church in the city, completed in 1723. Its place in American memory was sealed by Longfellow: it is from this tower that the two lanterns were hung on the night of Paul Revere's ride, the signal that the British were coming by water.

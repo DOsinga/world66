@@ -13,6 +13,7 @@ tags:
 title: Field Museum
 type: poi
 url: www.fieldmuseum.org
+score: 8.7
 ---
 
 One of the world's great natural history museums, home to over 40 million specimens and artifacts. The star attraction is Sue, the largest and most complete T. Rex skeleton ever found. The multi-level Egyptian exhibit is outstanding, and rotating special exhibitions keep things fresh. Allow at least two to three hours. Located on the Museum Campus alongside the Shedd Aquarium and Adler Planetarium. Closed on Christmas Day.

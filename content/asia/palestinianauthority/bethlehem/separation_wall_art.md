@@ -8,6 +8,7 @@ latitude: 31.7185
 longitude: 35.2026
 story: >
   Banksy first painted on the Bethlehem section of the separation wall in 2005, producing nine pieces including the dove in a flak jacket and the sniper girl with flowers. His work brought international attention to the wall as both a physical barrier and a surface for political statement. The pieces have been partially preserved — some repainted, some damaged — and the wall as a whole has become one of the most photographed surfaces in the world.
+score: 8.4
 ---
 
 The concrete separation wall that runs along the northern edge of Bethlehem is both a heavily contested political reality and one of the world's largest open-air galleries. Since Banksy's influential paintings in 2005, the wall has attracted artists from across the world; the Bethlehem section is particularly dense with murals, stencils, and political messages.

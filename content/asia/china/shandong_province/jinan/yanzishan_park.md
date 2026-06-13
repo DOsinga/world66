@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6950
 longitude: 117.0400
+score: 5.6
 ---
 
 Yanzishan Park occupies a low hill in the northern part of central Jinan, providing elevated views over the city and Daming Lake from a relatively accessible summit. The park is a local green space rather than a major tourist attraction — a pleasant half-hour of walking through tree-shaded paths with benches and open-air exercise equipment — but the views from the hilltop pavilion toward Daming Lake and the spring district to the south are genuinely good.

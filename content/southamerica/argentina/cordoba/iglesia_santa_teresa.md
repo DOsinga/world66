@@ -9,6 +9,7 @@ tags:
 latitude: 31.4150
 longitude: -64.1850
 neighbourhood: Centro
+score: 7.2
 ---
 
 A 17th-century Discalced Carmelite convent and church on Calle 27 de Abril, founded in 1628 and one of the most intact examples of Spanish colonial religious architecture in Argentina. The simple white facade and small bell tower are deceptive; the convent runs the full block behind.

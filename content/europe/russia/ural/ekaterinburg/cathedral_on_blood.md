@@ -14,6 +14,7 @@ story: >
   outside the city, doused with acid, and buried in a pit. Decades later the burial site was
   found, the remains identified through DNA analysis, and the family canonised by the Russian
   Orthodox Church. The cathedral now stands exactly where they died.
+score: 8.0
 ---
 
 The Cathedral on the Blood is built on the site of Ipatiev House, where Tsar Nicholas II and his entire family were executed by the Bolsheviks on 17 July 1918. The original house was demolished in 1977 on the orders of the local Communist Party chief — Boris Yeltsin, who would later become Russia's first president and who reportedly said demolishing the building was the order he most regretted obeying. The cathedral that replaced it is a large, multi-domed Russian Orthodox church that opened in 2003.

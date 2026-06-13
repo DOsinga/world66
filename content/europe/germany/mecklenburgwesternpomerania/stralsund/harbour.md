@@ -7,6 +7,7 @@ tags:
 latitude: 54.3147
 longitude: 13.0900
 snippet: "Historic Hanseatic harbour with the Ozeaneum, boat trips to Rügen and Hiddensee, and the best views of the old town"
+score: 7.5
 ---
 
 Stralsund's harbour is the natural starting point for any visit. The waterfront walk along the Hafenstrasse gives the classic view of the old town from the water — the Gothic churches and merchant gables rising above the quay exactly as they did for Hanseatic traders 600 years ago. The harbour is still working: ferries to Rügen and Hiddensee depart from here, and fishing boats tie up alongside tourist vessels.

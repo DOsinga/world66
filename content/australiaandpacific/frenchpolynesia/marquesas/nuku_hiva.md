@@ -8,6 +8,7 @@ latitude: -8.9167
 longitude: -140.1
 story: >
   Herman Melville jumped ship here in 1842 and spent several weeks living among the Typee people in the Taipivai valley — an experience he turned into his first novel, "Typee," in 1846. The book was a sensation, partly because readers assumed the story of a man living with a supposedly cannibalistic tribe was too strange to be fiction. Melville insisted it was true. The valley is still called Taipivai.
+score: 8.9
 ---
 
 Nuku Hiva is the largest island in the Marquesas and the administrative capital of the archipelago. The town of Taiohae sits in a wide bay sheltered by volcanic ridges and serves as the hub for flights and boat connections across the island group. The bay is one of the finest natural harbours in the South Pacific, regularly hosting oceangoing yachts on transpacific passages.

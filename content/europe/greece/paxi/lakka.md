@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 39.2344
 longitude: 20.1361
+score: 8.1
 ---
 
 A round, almost completely sheltered bay at the northern tip of the island. The headlands curl in to leave only a narrow channel for boats, which makes Lakka the favourite overnight anchorage of the sailing fleet that crosses the Ionian each summer — masts crowd the harbour even in shoulder season.

@@ -13,6 +13,7 @@ tags:
 - sight
 title: Cuatro Postes Viewpoint
 type: poi
+score: 8.2
 ---
 
 The Cuatro Postes is a small roadside cross with four stone pillars on a low hill northwest of Ávila, across the river, and it offers the definitive view of the walled city. From here — perhaps a 20-minute walk from the Puerta del Alcázar — the entire northern wall is visible in profile, with the cathedral's Cimorro tower rising above the circuit and the sierra behind. It is the view that appears on every postcard and travel photograph of Ávila, and it is even better in person.

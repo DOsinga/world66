@@ -8,6 +8,7 @@ tags:
 - monument
 - day_trips
 snippet: "60-metre granite column commemorating the 1918 US offensive"
+score: 8.0
 ---
 
 The Montfaucon American Monument stands on the hill north of Verdun where the 1918 Meuse-Argonne Offensive — the largest American battle of WWI and to this day the largest in US Army history — began. The 60-metre Doric column is visible from miles around, topped by a statue of Liberty pointing toward the front line.

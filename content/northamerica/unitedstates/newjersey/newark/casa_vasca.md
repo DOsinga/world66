@@ -10,6 +10,7 @@ snippet: Long-running Basque restaurant in the Ironbound — one of Newark's gre
 latitude: 40.7291
 longitude: -74.1614
 address: "141 Elm Rd, Newark, NJ 07105"
+score: 6.7
 ---
 
 Casa Vasca is a Basque restaurant that has been on Elm Road in the Ironbound since 1976 and has outlasted every trend and economic cycle that Newark has passed through. The menu is Spanish and Basque rather than Portuguese — grilled meats, bacalao, chuletón — and the cooking is straightforward and excellent.

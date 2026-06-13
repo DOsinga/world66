@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - temple
+score: 8.1
 ---
 
 The Goddess of Mercy Temple — Kuan Yin Teng in Hokkien, also called Kong Hock Keong — is the oldest Chinese temple in Penang, founded around 1728 by early Hokkien and Cantonese settlers and rebuilt in its present form in 1801. It is dedicated to Guanyin, the bodhisattva of compassion who in Chinese folk Buddhism became transformed into a goddess of mercy, fertility and protection — particularly important to sailors and merchants.

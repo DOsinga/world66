@@ -7,6 +7,7 @@ tags:
 latitude: 34.0143
 longitude: -118.4907
 snippet: "A British pub, gift shop, and general expat gathering point on Santa Monica Boulevard since 1974"
+score: 6.8
 ---
 
 Ye Olde King's Head has been on Santa Monica Boulevard since 1974 and functions as a pub, a British grocery shop, and an informal community centre for the substantial British expatriate community in Los Angeles. The bar serves real ales alongside standard American draught options, and the menu runs to bangers and mash, Scotch eggs, and fish and chips.

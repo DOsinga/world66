@@ -13,6 +13,7 @@ tags:
 - belleville
 title: Parc des Buttes-Chaumont
 type: poi
+score: 8.0
 ---
 
 One of Paris's best-kept secrets among visitors who rarely venture into the working-class 19th arrondissement. The Buttes-Chaumont is the city's most dramatic park: a fantasy landscape created by Napoleon III in the 1860s on the site of a former rubbish dump and quarry. The designers engineered steep cliffs, a 30-metre waterfall, artificial caves, and a lake with a 50-metre island at its centre.

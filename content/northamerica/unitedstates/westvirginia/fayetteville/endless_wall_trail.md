@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 38.0656
 longitude: -81.0589
+score: 9.1
 ---
 
 The best short hike in the New River Gorge: 2.4 miles round trip along the top of the eponymous Endless Wall — a 250-foot Nuttall sandstone cliff that runs almost continuously for several miles along the north rim. The path winds through hemlock and rhododendron forest, with side trails out onto rocky points called "Diamond Point" and "Fern Buttress" that give clean drops straight into the gorge.

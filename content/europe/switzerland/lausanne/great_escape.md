@@ -8,6 +8,7 @@ tags:
   - flon
 title: Great Escape
 type: poi
+score: 4.9
 ---
 
 The Great Escape is one of the most reliably busy bars in the Flon district, with a long terrace that fills up from early evening and a relaxed atmosphere that suits both a quick beer after work and a longer night. The music stays at a level where you can still talk, which distinguishes it from the louder clubs nearby.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.3232
 longitude: -90.1741
+score: 5.9
 ---
 
 A well-designed children's museum in the LeFleur's Bluff park area, with the usual mix of hands-on science, a literary playroom keyed to Mississippi authors, and a small-scale supermarket and bank. It is the obvious stop if you are travelling with kids under ten.

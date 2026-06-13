@@ -9,6 +9,7 @@ tags:
 latitude: -4.3492
 longitude: -37.9447
 snippet: Red-clay cliffs above a white beach, the most photographed landscape on the Ceará coast
+score: 7.9
 ---
 
 Canoa Quebrada, about 160 km east of Fortaleza along the CE-040 coastal highway, is the most famous beach destination in Ceará: a village perched on rust-red sandstone cliffs above a broad arc of white sand, with dunes rolling away behind and the sea a deep blue below. The main street (Rua Broadway) is lined with bars, pousadas, and craft shops, and gets lively in the evenings with live forró and capoeira.

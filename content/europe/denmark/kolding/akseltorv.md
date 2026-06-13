@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.4898
 longitude: 9.4768
+score: 5.5
 ---
 
 Akseltorv is Kolding's main square and the natural centre of the old town. The square is flanked by good cafes and restaurants and connects to the pedestrianised shopping streets that run toward the railway station. It is a functional, pleasant space — not spectacular by Danish standards, but animated by the flow of people through the town centre and by the Saturday market that takes place here in the warmer months.

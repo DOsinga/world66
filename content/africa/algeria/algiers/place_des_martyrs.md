@@ -11,6 +11,7 @@ story: >
   Roman settlement that preceded the Arab city of Algiers by more than a millennium. Roman
   foundations were found during construction work here, and some can still be seen in the
   underpasses beneath the square.
+score: 7.6
 ---
 
 Place des Martyrs occupies the flat ground between the port and the foot of the Casbah. This is the oldest part of the city — the area was continuously inhabited from Roman times — and the square itself has been a focal point since the Arab period. The name honours those killed during the colonial period and the war of independence.

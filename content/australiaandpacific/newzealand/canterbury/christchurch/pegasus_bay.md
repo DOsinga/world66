@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -43.3017
 longitude: 172.5328
+score: 7.4
 ---
 
 Pegasus Bay is about 45 minutes north of Christchurch on the Waipara Valley wine road, and it is worth the drive if you have any interest in New Zealand wine. The Donaldson family has been making wine here since the 1980s, and the estate now produces some of the best Riesling and Pinot Noir in Canterbury — the combination of limestone soils, warm days, and cold nights on the plains is well suited to both varieties.

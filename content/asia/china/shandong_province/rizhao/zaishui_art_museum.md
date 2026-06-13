@@ -9,6 +9,7 @@ latitude: 35.3700
 longitude: 119.5800
 story: >
   The Zaishui Art Museum was designed by Japanese architect Jun'ya Ishigami, known for his near-invisible structures — his Kanagawa Institute of Technology workshop has columns so thin they look like they cannot support the roof. The Rizhao building continues this interest in structures that seem to float or dissolve into their landscape.
+score: 7.2
 ---
 
 The Zaishui Art Museum opened in late 2023 and represents an unusual ambition for a relatively small Chinese coastal city: a building by a major international architect (Jun'ya Ishigami, who won the Pritzker Architecture Prize in 2019) set beside an artificial lake with a program that includes contemporary art exhibitions, a hotel, and a concrete church alongside the gallery spaces.

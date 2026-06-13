@@ -8,6 +8,7 @@ latitude: 24.5500
 longitude: 46.4000
 story: >
   The Tuwaiq Mountains are not mountains in the conventional sense but a limestone escarpment — a long, curving cliff that runs for over 800 kilometres across central Arabia, with its sheer western face standing 200–300 metres above the plateau. The cliff was formed when the Arabian plate tilted, and the Tuwaiq forms such a consistent landmark that it served as a navigational reference for caravan routes across the Nejd for centuries.
+score: 7.4
 ---
 
 The limestone escarpment that forms the western skyline of Riyadh, visible on clear days as a long flat-topped ridge above the desert. The Tuwaiq provides the closest accessible hiking to the city — the escarpment face and the plateau above it are rugged and largely undeveloped. Several tracks lead up from the western suburbs of Riyadh to viewpoints along the rim, looking east over the city and west into the broad plain of Wadi Hanifah.

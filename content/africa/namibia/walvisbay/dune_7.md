@@ -8,6 +8,7 @@ tags:
   - sight
   - sandboarding
 snippet: Towering 130-metre dune just east of Walvis Bay
+score: 7.6
 ---
 
 Dune 7 is a 130-metre sand dune about ten kilometres east of Walvis Bay along the Swakopmund road, the highest dune in the area accessible without a 4×4. The name comes simply from its position — the seventh dune from the road on the way inland — but it is the local landmark and a popular spot for a quick desert experience.

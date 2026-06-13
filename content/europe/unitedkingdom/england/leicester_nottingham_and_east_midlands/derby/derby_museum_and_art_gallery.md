@@ -15,6 +15,7 @@ story: >
   in the National Gallery — shows a group of people watching a scientist
   demonstrate a vacuum pump, killing a white cockatoo in the process. The
   Derby Museum holds more of his work than anywhere else on earth.
+score: 9.1
 ---
 
 The Derby Museum and Art Gallery on The Strand holds the world's largest collection of paintings by Joseph Wright of Derby, the 18th-century artist who became the unofficial painter of the Industrial Revolution. Wright's candlelit scenes of scientific experiments, iron forges, and philosophical gatherings capture the excitement of a moment when Derbyshire was at the centre of a world being remade. The paintings are not reproductions or secondary works — these are major canvases from a significant artist.

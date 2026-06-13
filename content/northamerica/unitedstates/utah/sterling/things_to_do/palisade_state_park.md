@@ -3,6 +3,7 @@ title: Palisade State Park
 type: poi
 latitude: 39.2100
 longitude: -111.6820
+score: 6.4
 ---
 
 The reservoir at Palisade began as a 19th-century irrigation project and is now the centrepiece of one of Utah's quieter state parks. The lake is small but well suited to swimming, trout fishing and paddleboarding — rentals are available at the park — and the cottonwood trees along the shore give it a shaded, unhurried feel that is rare in this part of the desert west.

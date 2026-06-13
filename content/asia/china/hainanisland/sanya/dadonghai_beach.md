@@ -12,6 +12,7 @@ tags:
 - dadonghai
 title: Dadonghai Beach
 type: poi
+score: 7.3
 ---
 
 Dadonghai is the most central of Sanya's three main beaches — a 2.4-kilometre crescent of pale sand tucked between Luhuitou peninsula and the cliffs east of downtown, about ten minutes by taxi from the city centre. The water is warm year-round, the bay is sheltered enough that the surf is almost always gentle, and the sand is fine and soft. It is the easiest beach to reach if you are staying in town and don't want the schlep out to Yalong Bay.

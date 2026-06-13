@@ -9,6 +9,7 @@ latitude: 43.84805555555556
 longitude: 25.952777777777776
 story: >
   The Dohodno Zdanie (which translates literally as "profitable building" — meaning a building that generates income for the municipality) was built between 1898 and 1902 to house the city theatre and provide rental income from shops and offices. The architect was Friedrich Grünanger, an Austrian who worked extensively in the Balkans and designed several of Ruse's most significant buildings during the boom decades of the late 19th century. It was the most expensive building project in Ruse's history at the time of construction.
+score: 8.0
 ---
 
 The Dohodno Zdanie is a grand neoclassical building on Freedom Square, built to house the Ruse City Theatre (now the Sava Ognyanov Dramatic Theatre) and to generate municipal revenue from its commercial tenants. The imposing facade, with its colonnaded upper storey and ornate cornice, is one of the finest examples of late 19th-century civic architecture in Bulgaria.

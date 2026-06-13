@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 47.0884
 longitude: 13.1345
+score: 6.3
 ---
 
 The **Badeschloss** is one of the most photogenic of Bad Gastein's decaying grand hotels — a late 19th-century palace that looms above the town centre in a state of beautiful dereliction. For decades it stood empty, its ornate facade crumbling and its windows dark, a monument to the town's long decline as a fashionable resort.

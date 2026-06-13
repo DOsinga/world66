@@ -1,6 +1,7 @@
 ---
 title: "Nauchowki"
 type: poi
+score: 8.2
 ---
 
 The Nauchowki — meaning "nine pavilions" — is the ornate northern embankment of Rajsamand Lake, built from white marble and considered one of the finest examples of Rajput architecture in Rajasthan. Nine elaborately carved chhatris (domed kiosks) stand in a row along the embankment, their columns and arches decorated with floral motifs, elephants, and scenes from Hindu mythology. The craftsmanship is exceptional: even after more than 350 years of exposure to sun and monsoon, much of the detail remains crisp and legible.

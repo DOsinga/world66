@@ -9,6 +9,7 @@ latitude: 49.4717
 longitude: -2.4492
 story: >
   The chapel is named for **Tugdual of Tréguier**, a 6th-century Breton saint who supposedly evangelised the Channel Islands. Whether he ever set foot on Herm is unknown; the surviving building, however, is genuinely 11th-century and one of the oldest standing structures in the Channel Islands.
+score: 7.4
 ---
 
 A small Norman chapel just inland from the harbour, dating from the 11th century when Herm was used by the Augustinians as a remote monastic retreat. Whitewashed, single-naved, with a thick granite-walled simplicity that has been left intact through multiple restorations.

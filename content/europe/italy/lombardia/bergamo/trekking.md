@@ -8,6 +8,7 @@ tags:
 title: Trekking
 type: poi
 url: www.vallebrembana.org
+score: 7.2
 ---
 
 The hills and valleys around Bergamo offer some of the most accessible mountain hiking in Lombardy. The Valle Brembana, running north from the city toward the Orobie Alps, is the main draw: a long valley lined with old stone villages, bergamo cheese farms, and waymarked trails connecting altitudes from valley floor to high pasture.

@@ -8,6 +8,7 @@ tags:
 latitude: 48.1375
 longitude: 11.5797
 story: "The Hofbräuhaus was where Hitler gave some of his earliest speeches in the early 1920s — a fact that the current management does not publicise. The beer hall putsch of 1923 was partly planned here. This history sits uncomfortably beneath the oompah bands and litre steins, and most visitors don't know it."
+score: 7.1
 ---
 
 Founded in 1589 as the Wittelsbach royal brewery, the Hofbräuhaus is now one of the world's most famous beer halls — and one of the most tourist-saturated spots in Munich. The main hall seats 1,000 people, with Bavarian folk music playing continuously and waitresses carrying multiple litre steins through the crowds. The beer (brewed to strict Reinheitsgebot standards) is genuinely good.

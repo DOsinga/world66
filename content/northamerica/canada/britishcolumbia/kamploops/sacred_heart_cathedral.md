@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 **Sacred Heart Cathedral** is the seat of the Roman Catholic Diocese of Kamloops and one of the city's defining buildings — a tall pale-yellow church on Nicola Street built in 1887 (with a major renovation in the 1980s after fire damage) in a restrained late-Victorian Gothic style. The single bell-tower is visible across much of central downtown.

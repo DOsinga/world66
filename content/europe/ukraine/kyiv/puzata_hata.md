@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 50.4496
 longitude: 30.5217
+score: 5.8
 ---
 
 A cafeteria-style Ukrainian chain with several branches in central Kyiv, including the busy Khreshchatyk one. You queue past a counter, point at what you want (borshch, varenyky, holubtsi, stewed buckwheat, kompot), and pay by weight at the till.

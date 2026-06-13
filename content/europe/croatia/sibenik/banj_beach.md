@@ -6,6 +6,7 @@ longitude: 15.8843
 tags:
   - beaches
   - beach
+score: 6.5
 ---
 
 Banj is Šibenik's main town beach, a long pebble strip across the harbour from the old town with the best skyline view in the city — the cathedral, the fortresses and the medieval roofs lined up along the opposite shore. The water is clean, the pebbles are graded fine, and there is a paved promenade with cafés and a small beach bar.

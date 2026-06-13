@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - altstadt
+score: 8.2
 ---
 
 The most interesting church in Salzburg architecturally: a squat dark Romanesque nave built around 1200 opens into a soaring Gothic choir added in the 15th century, with delicate fan vaulting that fountains down from a slender central pillar. The contrast is startling.

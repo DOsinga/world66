@@ -10,6 +10,7 @@ tags:
 - museum
 title: Doha Fort
 type: poi
+score: 5.8
 ---
 
 A restored Ottoman-era fort in the Al Bida district, now a small museum of local crafts — paintings, weavings, carved gypsum, and ornate Qatari doors. Admission is free. Twenty minutes is enough, but the building itself is worth the walk.

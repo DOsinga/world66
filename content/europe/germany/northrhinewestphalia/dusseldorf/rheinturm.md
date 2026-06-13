@@ -10,6 +10,7 @@ story: >
   The Rheinturm doubles as the world's largest digital clock. The pulse diodes embedded in the shaft represent binary time — hours, minutes, and seconds read from the pattern of lit and unlit lights running from top to bottom. It takes a moment to decode, but once you see it, you can never quite un-see it.
 sources:
   - https://en.wikipedia.org/wiki/Rheinturm
+score: 7.0
 ---
 
 The Rheinturm (Rhine Tower) stands 240 metres tall at the edge of the Medienhafen and is Düsseldorf's most distinctive skyline landmark. Built in 1981, it has an observation deck at 168 metres and a revolving restaurant just below it. On a clear day the view extends to Cologne in the south — on an exceptionally clear day, the Cologne Cathedral spires are visible some 40 km away.

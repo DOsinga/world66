@@ -9,6 +9,7 @@ longitude: 98.9327
 snippet: "Forest temple with 1,237-step climb to panoramic karst views"
 story: >
   The temple takes its name from a cave within the complex where a tiger was said to have lived. The abbot who founded the monastery in the 1970s claimed to have seen large paw prints here; he built a small shrine to the tiger in the cave, and the name stuck.
+score: 8.8
 ---
 
 Tiger Cave Temple is the most dramatic attraction near Krabi Town. The monastery sits in a forested valley about 8 kilometres northeast of town, built into a complex of caves and rock formations that the monks have occupied since the 1970s. The main cave is worth seeing — a large cavern with a seated Buddha and thousands of tiny buddha figurines covering the walls.

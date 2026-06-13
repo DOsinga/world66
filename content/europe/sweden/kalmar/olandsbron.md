@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.6733
 longitude: 16.4246
+score: 7.0
 ---
 
 The Öland Bridge is 6.07 kilometres long, which made it the longest bridge in Europe when it opened in 1972 and still makes it the longest bridge in Scandinavia. It crosses the Kalmar Strait to connect the mainland to the island of Öland, replacing a ferry service that had limited tourism and economic development on the island for generations.

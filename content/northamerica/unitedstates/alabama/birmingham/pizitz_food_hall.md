@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Pizitz Food Hall
 type: poi
+score: 5.8
 ---
 
 A food hall in the renovated Pizitz department store building, which was Birmingham's premier downtown shopping destination from 1925 to 1987. The food hall on the ground floor has a dozen vendors offering everything from sushi to Indian to Southern comfort food, plus a bar in the center of the hall. Above it, the building has been converted to residential apartments.

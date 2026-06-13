@@ -16,6 +16,7 @@ story: >
   extraordinary complexity for an animal that evolved hundreds of millions of years before
   vertebrates. The Chengjiang fauna changed the scientific understanding of how animal body
   plans developed.
+score: 9.2
 ---
 
 The Chengjiang Fossil Site on Maotian Mountain in Chengjiang County, 56 kilometres from Kunming, is one of the world's most significant Cambrian fossil deposits. The UNESCO World Heritage site (designated 2012) protects the Maotianshan Shales, which contain exquisitely preserved soft-tissue fossils from the "Cambrian Explosion" — the rapid diversification of animal body plans around 518 million years ago. More than 200 species have been identified here, representing nearly every major animal group alive today.

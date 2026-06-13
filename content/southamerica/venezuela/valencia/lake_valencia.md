@@ -8,6 +8,7 @@ tags:
 - nature_sight
 title: Lago de Valencia
 type: poi
+score: 4.2
 ---
 
 Lake Valencia (Lago de Tacarigua) sits in a closed basin between Valencia and Maracay and was one of the first South American landscapes admired by Humboldt, who travelled here in 1800 and warned that the surrounding deforestation was already lowering the water level. Over the twentieth century the level instead rose, as treated and untreated wastewater from the growing cities of the central valleys was pumped into the basin. The lake is now badly polluted and several historic villages along the shore have been partially submerged.

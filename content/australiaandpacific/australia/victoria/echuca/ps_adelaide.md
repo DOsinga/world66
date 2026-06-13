@@ -16,6 +16,7 @@ story: >
   river engineering.
 sources:
   - https://en.wikipedia.org/wiki/PS_Adelaide
+score: 8.8
 ---
 
 The PS Adelaide is the oldest wooden-hulled paddlesteamer still operating anywhere in the world, and watching her leave the wharf under a head of steam is one of the more stirring sights in inland Australia. Built in 1866 and restored by volunteers over a decade, she makes regular one-hour cruises on the Murray, paddlewheel churning, boiler hissing, timber hull leaning slightly into the current.

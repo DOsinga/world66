@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4602
 longitude: 12.3864
+score: 6.7
 ---
 
 San Silvestro is a small Romanesque church on Via Matteotti in the historic centre, deconsecrated long ago and now used occasionally for exhibitions and concerts. The simple stone facade and bell tower are typical of the twelfth-century parish churches that once dotted the hilltop towns of northern Lazio.

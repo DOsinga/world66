@@ -9,6 +9,7 @@ latitude: 36.1016
 longitude: 140.0960
 sources:
   - https://en.wikipedia.org/wiki/Tsukuba_Botanical_Garden
+score: 7.2
 ---
 
 The Tsukuba Botanical Garden is a branch of the National Museum of Nature and Science, opened in 1976 as part of the science city's founding institutions. Its 16 hectares are divided into themed zones — temperate forest, tropical greenhouse, alpine plants, and an extensive collection of Japanese native species — making it more interesting to walk through than the average municipal park.

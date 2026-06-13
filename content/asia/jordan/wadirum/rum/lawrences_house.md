@@ -12,6 +12,7 @@ story: >
   part of the general tendency to attach his name to anything photogenic in Wadi Rum. The building
   sits on a low hill with commanding views in every direction — whoever did live here chose the
   location well.
+score: 6.4
 ---
 
 Perched on a rocky outcrop about 10 kilometres south of the village, this small stone ruin is traditionally associated with T.E. Lawrence, though the connection is almost entirely romantic fiction. The building is a simple rectangular structure, partially collapsed, with walls of stacked sandstone blocks.

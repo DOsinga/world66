@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 6.1
 ---
 
 The so-called Roman Bridge — properly the Pont de Cubelles — spans a dry stream at the entrance to the Ternelles valley at the north edge of town. Despite its name, archaeologists now date the bridge to the medieval period rather than to Roman times, although it may rest on Roman foundations.

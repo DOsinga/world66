@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.0500
 longitude: -61.7000
+score: 8.4
 ---
 
 The Parc National de la Guadeloupe covers about a quarter of the island of Basse-Terre — nearly 17,000 hectares of volcanic rainforest, mangroves, and marine areas. It is one of the most biologically diverse territories in the Caribbean, with around 300 species of trees, 100 species of orchids, and 270 species of birds. UNESCO has designated it as part of the Biosphere Reserve network.

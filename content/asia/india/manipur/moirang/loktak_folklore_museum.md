@@ -8,6 +8,7 @@ snippet: "Museum of Meitei folk life on Thanga Island in Loktak Lake"
 tags:
 - things_to_do
 - museum
+score: 6.9
 ---
 
 The Loktak Folklore Museum, also called the Thanga Folklore Museum, sits on Thanga Island in the eastern part of Loktak Lake — accessed by causeway from the lakeshore road north of Moirang. The museum is a small, locally run institution presenting the folk culture of the Meitei communities that live on the lake: fishing gear, looms, household tools, costumes, musical instruments and reconstructions of phumdi-dwelling life.

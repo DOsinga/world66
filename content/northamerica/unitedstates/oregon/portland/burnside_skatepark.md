@@ -9,6 +9,7 @@ latitude: 45.5228
 longitude: -122.6695
 story: >
   Burnside Skatepark was built without permission. In 1990, a group of skateboarders began pouring concrete under the east end of the Burnside Bridge in a space that had been used as a dumping ground. The city initially threatened to demolish it but eventually gave up and incorporated the park into the city's bridge maintenance permit. The park has never received public funding; it is maintained entirely by the skate community and expanded by volunteers over the decades.
+score: 7.8
 ---
 
 Burnside Skatepark under the east end of the Burnside Bridge is one of the most famous skateparks in the world — not for its design (which was built incrementally by amateurs without a plan) but for what it represents. The DIY spirit, the community ownership, and the decades of continuity have made it a pilgrimage site for skateboarders. International pros visit regularly; local skaters who have been coming since the early 1990s are still there.

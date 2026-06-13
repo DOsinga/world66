@@ -9,6 +9,7 @@ longitude: -1.0779
 snippet: "Ghana's most extraordinary church, decorated floor to ceiling in Kassena-style murals"
 story: >
   The cathedral was built largely by the White Fathers missionary order beginning in 1906, using local materials and local labour. When the missionaries asked the Kassena people to decorate the interior, the artists applied the same geometric patterns and earth-pigment designs used on traditional compound walls — turning a Gothic nave into something that exists nowhere else in Christendom.
+score: 9.0
 ---
 
 The Cathedral Basilica of Our Lady of Seven Sorrows is one of the most remarkable buildings in West Africa, and it would be a genuine waste to pass through Navrongo and not go inside. Built in the early twentieth century under the direction of the White Fathers mission, the church is constructed of mud brick in a style that blends Catholic architecture with Sahel vernacular building. From the outside it looks unusual; from the inside it is astonishing.

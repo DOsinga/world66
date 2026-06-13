@@ -10,6 +10,7 @@ longitude: -81.3125
 story: "The cathedral faces the Plaza de la Constitución, the oldest public square in the United States. The original parish church on this site was founded in 1565, the same year the city was established — making the cathedral parish one of the oldest continuously active Catholic parishes in the country. The current building dates from 1797, though it has been modified and rebuilt several times since."
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._Augustine
+score: 7.8
 ---
 
 The Cathedral Basilica of St. Augustine anchors the south side of the Plaza de la Constitución and has occupied this spot in one form or another since the city's founding in 1565. The current building is a handsome Spanish Colonial structure with a distinctive bell tower; the interior is cool and dignified, with good tilework and painted wooden ceiling beams.

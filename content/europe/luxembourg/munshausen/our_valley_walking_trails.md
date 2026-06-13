@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Siebenaler
   - https://en.wikipedia.org/wiki/Drauffelt
+score: 7.4
 ---
 
 Several marked walking routes fan out from Munshausen into the surrounding valley landscape. The most rewarding circuit passes through the hamlets of Siebenaler and Drauffelt, dropping down into the Our valley and following the river before climbing back through forest to the village. The full loop covers around 10–12 kilometres and takes a comfortable half-day; shorter variants are possible by cutting through the valley floor.

@@ -7,6 +7,7 @@ tags:
 latitude: 33.0974
 longitude: -117.0042
 snippet: A 1,800-acre wildlife reserve in Escondido where African and Asian animals roam in open savanna habitats
+score: 7.6
 ---
 
 The San Diego Zoo Safari Park sits in the San Pasqual Valley in Escondido, 35 miles north of downtown, and operates on a scale that the city zoo cannot match. The park's 1,800 acres hold open-habitat enclosures large enough that the animals — rhinos, giraffes, lions, cheetahs, elephants, gorillas — genuinely move around rather than standing at fence lines.

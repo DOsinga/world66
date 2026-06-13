@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Dido's Al Dente
 type: poi
+score: 4.3
 ---
 
 A solid Italian restaurant in Zamalek. The pasta with mushroom, shrimp, and smoked salmon is the dish to order; the pizzas are good too.

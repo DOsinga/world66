@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lake Maharlu
 type: poi
+score: 6.7
 ---
 
 When the salt concentration is high enough, the bacteria in Lake Maharlu turn the water pink — an extraordinary, almost lurid colour against the surrounding browns and ochres of the Fars plateau. The lake lies in a shallow basin about 30 km southeast of Shiraz and is one of the more unusual day trips from the city.

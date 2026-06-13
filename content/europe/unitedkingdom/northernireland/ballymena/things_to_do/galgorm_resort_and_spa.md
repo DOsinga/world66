@@ -1,6 +1,7 @@
 ---
 title: "Galgorm Resort & Spa"
 type: poi
+score: 7.2
 ---
 
 Galgorm sits in 163 acres of wooded grounds on the River Maine, about three kilometres west of Ballymena town centre. The core of the property is a Georgian manor house, and the resort has grown substantially around it over the past decade or so into one of the most-regarded spa hotels in Ireland. The outdoor thermal spa village — fed by the river and set among woodland — is the main draw: it includes a series of heated pools, steam rooms, saunas, and hot tubs, some of them directly alongside the river.

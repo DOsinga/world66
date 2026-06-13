@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
   - downtown
+score: 4.7
 ---
 
 The Rattlesnake Bridge — formally the Diamondback Bridge — is a pedestrian and cycle bridge over Broadway Boulevard, built in the shape of a giant Western diamondback rattlesnake. Walk through its open mouth (with fangs and forked tongue) and out the back end where the rattle clatters in the wind.

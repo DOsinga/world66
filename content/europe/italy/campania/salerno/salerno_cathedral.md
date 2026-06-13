@@ -15,6 +15,7 @@ story: >
   been driven from Rome by the Holy Roman Emperor — he is said to have declared
   "I have loved justice and hated iniquity, therefore I die in exile." He is buried
   in the cathedral's crypt.
+score: 9.2
 ---
 
 Salerno's cathedral, dedicated to San Matteo (Saint Matthew), is one of the finest Norman churches in southern Italy. It was built between 1076 and 1085 under the direction of Robert Guiscard — the Norman warlord who conquered much of southern Italy — and consecrated in the presence of Pope Gregory VII. The exterior is entered through a generous atrium, an open-air courtyard of ancient columns salvaged from the old Roman city, which gives the building a sense of antiquity and gravity before you have even crossed the threshold.

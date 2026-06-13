@@ -9,6 +9,7 @@ tags:
   - park
 snippet: One of the oldest English-style landscape parks in Germany, on the hill above the old town
 story: "The park began in 1816 as a citizens' beautification project — one of the very first in Germany to be founded as an explicitly public, non-aristocratic enterprise. In 2003 it was named the most beautiful park in Germany by the German Garden Society, beating considerably grander competition from Munich and Hanover."
+score: 8.0
 ---
 
 Above the city to the north-east, the Theresienstein is an unusually fine English-style landscape park that has grown over two centuries from a single citizens' association. Inside its forty hectares you will find the botanical garden, a small zoo, a maze, two ponds, a memorial chapel, and a quiet hilltop restaurant.

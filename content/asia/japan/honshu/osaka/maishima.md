@@ -7,6 +7,7 @@ tags:
 latitude: 34.6766
 longitude: 135.4366
 story: "The Maishima Incineration Plant — designed by Austrian artist Friedensreich Hundertwasser — looks less like a garbage disposal facility and more like a collaboration between Gaudi and Wonka. Hundertwasser designed it in 1997 on the condition that it have no straight lines; the result is an explosion of gold and coloured ceramic spirals, undulating walls, and a golden onion dome visible from the highway. Around 12,000 people visit each year, most of them accidentally while looking for something else."
+score: 7.3
 ---
 
 An incineration plant on the artificial island of Maishima in Osaka Bay, designed by Austrian artist Friedensreich Hundertwasser in 1997 as a condition of his involvement: no straight lines, maximum colour. The result is a pyrotechnic piece of architecture with a gold-and-blue onion dome, ceramic mosaic towers, wavy facades, and rooftop plantings — a building that looks entirely wrong for its purpose and entirely right as a piece of urban spectacle.

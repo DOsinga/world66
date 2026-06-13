@@ -8,6 +8,7 @@ tags:
   - church
 title: "Basilique Saint-Maurice"
 type: poi
+score: 6.5
 ---
 
 The Basilique Saint-Maurice is Epinal's main church, a sober mix of Romanesque and Gothic work in the old centre. Its scale is modest beside the great cathedrals of Lorraine, but the interior has the calm, thick-walled feeling of a frontier town church.

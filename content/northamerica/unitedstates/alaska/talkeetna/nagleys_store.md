@@ -9,6 +9,7 @@ address: "Main Street, Talkeetna, AK"
 latitude: 62.3232
 longitude: -150.1140
 snippet: Old-school general store across from the Fairview Inn
+score: 6.1
 ---
 
 Nagley's General Store is a Talkeetna institution. The low log building faces the Fairview Inn from across Main Street and sells the kind of mix that only makes sense in a remote Alaskan town: ice cream, fishing tackle, locally made goods, and basic provisions. It is exactly the sort of place that rewards a slow browse.

@@ -8,6 +8,7 @@ latitude: 42.9936
 longitude: -73.6447
 story: >
   The Battle of Saratoga in October 1777 is considered the turning point of the American Revolution. The American victory convinced France to enter the war as an ally — without French money, ships, and troops, the Revolution might well have failed. Benedict Arnold, before his treason, played the decisive role here, charging enemy lines against direct orders and suffering the wound to his leg that would define his memory.
+score: 8.8
 ---
 
 One of the most significant battlefields in American history, the Saratoga National Historical Park lies about 12 miles south of the city. The British defeat here in 1777 convinced France to formally ally with the American colonies, changing the course of the Revolution. The park preserves the battlefield largely intact, with a nine-mile driving tour and several hiking trails.

@@ -11,6 +11,7 @@ story: >
   When the fire swept through Ålesund in January 1904, it burned for three days in temperatures of minus 20°C. Kaiser Wilhelm II, who had vacationed in the area, sent four ships loaded with building materials and provisions. Within three years, a new stone city had risen in its place — entirely in Art Nouveau, because that was the fashionable style of the moment.
 sources:
   - https://en.wikipedia.org/wiki/%C3%85lesund
+score: 8.3
 ---
 
 The Art Nouveau Centre occupies one of the finest Jugendstil buildings in town and tells the story of Ålesund's extraordinary rebuilding after the 1904 fire. The museum walks you through the Art Nouveau movement, its organic motifs drawn from nature, and its sudden, concentrated expression in this small Norwegian fishing town.

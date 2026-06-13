@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.6282
 longitude: -110.9595
+score: 7.2
 ---
 
 The civic centre of Magdalena, the Plaza Monumental was redesigned and rebuilt in the early 1970s around the newly relocated remains of Padre Kino. The square is broad and open with a circle of leafy trees, low walls of pinkish stone, and clear sight lines to the surrounding mountains.

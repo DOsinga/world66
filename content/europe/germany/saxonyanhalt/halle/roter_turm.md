@@ -8,6 +8,7 @@ tags:
 latitude: 51.4825
 longitude: 11.9713
 story: "The Red Tower was built between 1418 and 1506 not as part of any church but as a standalone civic belfry — a demonstration of municipal independence by a town that wanted its own bell, separate from the cathedral and the parish church. The carillon of 76 bells is one of the largest in Europe."
+score: 7.5
 ---
 
 The Roter Turm — the Red Tower — stands on its own on the Marktplatz, the fifth of Halle's five towers. Eighty-four metres high, slim and square, with a tapering top in pale red sandstone, it was completed in 1506 after nearly a century of construction.

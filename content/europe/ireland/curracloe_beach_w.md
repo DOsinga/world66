@@ -7,6 +7,7 @@ tags:
 - beaches
 title: Curracloe Beach
 type: poi
+score: 5.8
 ---
 
 Curracloe is a long stretch of golden sand backed by dunes on the southeast coast of Ireland, about 15 minutes from Wexford town. The beach gained fame as the stand-in for Omaha Beach in the opening sequence of Saving Private Ryan. It is a fine swimming beach when the weather cooperates and a popular spot for walking year-round.

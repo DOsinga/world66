@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 story: "The 100 Acres outdoor park behind the museum includes Robert Indiana's original LOVE sculpture, painted Eden green and red, and a permanent installation called *Funky Bones* by Atelier Van Lieshout that became famous after appearing in John Green's novel *The Fault in Our Stars*."
+score: 9.1
 ---
 
 Newfields is the umbrella name for the 152-acre cultural campus that includes the Indianapolis Museum of Art (one of the ten largest in the country), the Lilly House (a 1913 Cotswold-style mansion), the Virginia B. Fairbanks Art and Nature Park, and the Madeline F. Elder Greenhouse. The collection runs from Asian and African to European, American, and contemporary; the Neo-Impressionist holdings are particularly strong.

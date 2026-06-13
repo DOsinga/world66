@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 59.9067
 longitude: 10.7502
+score: 8.6
 ---
 
 The Deichman main library at Bjørvika, which opened in 2020, is one of the most ambitious public library buildings in the world — a six-storey timber and glass building designed by Lund Hagem and Atelier Oslo, set between the Opera House and the Munch Museum on the waterfront. It is completely free to enter, open to everyone, and manages the considerable feat of being both architecturally spectacular and a genuinely pleasant place to spend time.

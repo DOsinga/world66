@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 58.4640
 longitude: 8.7700
+score: 6.7
 ---
 
 The Aust-Agder Museum encompasses several collections and sites across the Arendal region, with the main building in the town centre. The collections cover maritime history, the timber trade, and the social history of coastal Agder — which is to say, the history of how this community made its living from the sea and the forests for several centuries.

@@ -9,6 +9,7 @@ longitude: 113.9851
 story: "The temple was built in 1913 after an epidemic swept through the oil-boom town. When a Taoist monk's ritual appeared to end the outbreak, the Chinese community erected this temple in gratitude. It survived Japanese bombing in World War II and stands today as the oldest temple in Miri."
 sources:
   - https://en.wikipedia.org/wiki/Tua_Pek_Kong_Temple,_Miri
+score: 6.5
 ---
 
 Tua Pek Kong Temple is the oldest Chinese temple in Miri, established in 1913 during the early oil boom years. It sits beside the Miri River, adjacent to the fish market, in one of the city's oldest districts. The temple is dedicated to Tua Pek Kong, a deity associated with prosperity and good fortune — fitting for a town that was about to become wealthy on petroleum.

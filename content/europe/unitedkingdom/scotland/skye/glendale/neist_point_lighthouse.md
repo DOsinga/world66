@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The lighthouse was designed by David Alan Stevenson — a member of the Stevenson dynasty of Scottish lighthouse engineers, and a cousin of the novelist Robert Louis Stevenson. It was automated in 1990, ending more than a century of resident keepers. The supplies were once hauled up the cliff by a small steam-powered tram, the concrete tracks of which still run alongside the path down."
+score: 9.0
 ---
 
 Neist Point is the westernmost tip of Skye, a finger of basalt cliffs jutting into the Minch. The walk from the car park down a stepped concrete path to the lighthouse takes about twenty minutes — much longer on the return, as the climb back up is steeper than it looks. The lighthouse itself, white and squat, was built in 1909 and is still operational, though long since automated.

@@ -10,6 +10,7 @@ latitude: 6.9089
 longitude: 122.0761
 sources:
   - https://en.wikipedia.org/wiki/Zamboanga_Cathedral
+score: 6.2
 ---
 
 The Metropolitan Cathedral of the Immaculate Conception, usually just called the Zamboanga Cathedral, is the seat of the Archdiocese of Zamboanga. It stands a few blocks inland from Fort Pilar on Pilar Street, a 20th-century white concrete neo-Gothic building with twin towers, replacing several earlier Spanish-era churches that were destroyed in earthquakes and wars.

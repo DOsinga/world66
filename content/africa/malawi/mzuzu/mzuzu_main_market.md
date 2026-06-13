@@ -8,6 +8,7 @@ tags:
 latitude: -11.4583
 longitude: 34.0179
 snippet: A big, chaotic, completely unfiltered Malawian market in the centre of town
+score: 7.4
 ---
 
 The main market sprawls over several blocks in the centre of Mzuzu and is the most interesting thing in the city proper. Stalls sell everything that comes out of northern Malawi — sacks of beans and chiponde groundnut paste, dried fish from the lake, second-hand clothes (kaunjika), live chickens, mismatched shoes, and seasonal heaps of green leafy vegetables.

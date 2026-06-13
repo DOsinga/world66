@@ -7,6 +7,7 @@ tags:
 latitude: 23.247
 longitude: 77.3923
 snippet: "State museum with archaeological collections from across Madhya Pradesh, including sculpture from Sanchi"
+score: 7.8
 ---
 
 The State Museum in Shyamla Hills covers the archaeology, natural history, and folk culture of Madhya Pradesh, one of India's most historically rich states. The archaeological galleries hold sculpture from the major temple sites of the region — Khajuraho, Sanchi, Vidisha, and others — as well as coins, inscriptions, and everyday objects from prehistoric to medieval periods.

@@ -13,6 +13,7 @@ tags:
 - city_bowl
 title: Cause Effect Cocktail Kitchen
 type: poi
+score: 6.9
 ---
 
 Cause Effect is one of the more serious cocktail bars in the City Bowl, operating out of a narrow space on Loop Street with a bar programme that changes seasonally and draws on local fruit, fynbos botanicals and South African spirits. The menu is written in the style that has become standard for bars of this type — descriptive but not obscurantist — and the bartenders are capable of explaining what they're doing without a lecture.

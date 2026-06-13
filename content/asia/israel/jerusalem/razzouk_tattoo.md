@@ -15,6 +15,7 @@ story: >
   have all sat in this chair. The designs, drawn from olive-wood blocks some of which
   date to the 15th century, include the Jerusalem Cross, the Last Supper, and images
   of the Holy Sepulchre.
+score: 6.5
 ---
 
 The world's oldest tattoo parlour, tucked into the Christian Quarter of the Old City, where the Razzouk family have been marking pilgrims since the 14th century. The tradition originated among Coptic Christians in Egypt and migrated to Jerusalem centuries ago; Wassim Razzouk is the current practitioner and a 28th-generation tattooist. The woodblock printing stamps he uses for designs include pieces that are 500 years old, their olive-wood surfaces worn smooth by centuries of ink and pressure.

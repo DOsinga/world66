@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.6179
 longitude: -3.9420
+score: 6.1
 ---
 
 St David's Priory is the city's main Roman Catholic church, an Early English Gothic Revival building from the 1840s. It is the cathedral church of the Diocese of Menevia in all but title, and is the principal Welsh-language Catholic church in Swansea.

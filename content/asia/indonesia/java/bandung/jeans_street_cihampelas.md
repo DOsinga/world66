@@ -7,6 +7,7 @@ tags:
 snippet: Comic-book sized superhero figures looming over the original Jeans Street
 latitude: -6.8961
 longitude: 107.6048
+score: 5.6
 ---
 
 When Bandung's first wave of denim shops set up along Jalan Cihampelas in the 1980s, the owners hit on the gimmick of mounting giant fibreglass superheroes — Spider-Man, Superman, Batman, the Hulk, Rambo and others — above their shop fronts to attract attention. The competition got increasingly absurd through the 1990s. Many have been removed but a couple of dozen survive.

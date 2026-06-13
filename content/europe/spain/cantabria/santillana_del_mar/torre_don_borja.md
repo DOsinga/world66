@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 43.3908
 longitude: -4.1080
+score: 6.2
 ---
 
 The Torre de Don Borja is a 14th-century defensive tower that now serves as the main tourist information point and a small exhibition space for the town. It stands at the entrance to the historic centre and gives a good sense of the fortified character that Santillana del Mar had in the medieval period, when noble families competed for power and land along the Cantabrian coast. The tower's name comes from a local noble family rather than any connection to the infamous Italian Borgias.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 6.8
 ---
 
 A two-hectare botanical garden and arboretum laid out on the site of the 16th-century arquebusiers' (musketeers') training ground, beside the train station. It contains some 3,500 species in themed beds — medicinal plants, regional flora, vegetable garden, alpine rockery — and a small arboretum of mature trees, including a sequoia and a Caucasian wingnut.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Sea turtle conservation centre next to the Barra Lighthouse
+score: 5.9
 ---
 
 A small public-facing visitor centre next to the Farol da Barra, run by Projeto Tamar, the Brazilian national sea-turtle conservation programme. Outdoor tanks hold rescued turtles awaiting release; indoor displays cover the five species that nest on the Bahian coast and the threats they face from longline fishing and beach lighting.

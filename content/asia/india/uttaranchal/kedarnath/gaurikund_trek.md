@@ -6,6 +6,7 @@ tags:
   - hiking
 latitude: 30.6500
 longitude: 79.0292
+score: 8.8
 ---
 
 The 16-kilometre climb from Gaurikund to Kedarnath is the way most pilgrims reach the shrine. The trail rises from about 2,000 m at Gaurikund to 3,583 m at the temple, gaining altitude through forests of rhododendron, oak, and pine before opening into alpine meadow.

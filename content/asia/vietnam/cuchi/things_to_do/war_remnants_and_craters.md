@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 10.9744
 longitude: 106.4949
+score: 7.1
 ---
 
 The landscape above the tunnels is itself a document of the war. B-52 bombing raids left craters across the Cu Chi district, and several have been preserved at both tunnel sites as memorials to the scale of the destruction. The Cu Chi area was one of the most heavily bombed regions in history; standing at the rim of a crater gives that statistic physical weight.

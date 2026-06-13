@@ -7,6 +7,7 @@ tags:
 snippet: "Ferry and riverside walk from Murazzi to Monte dei Cappuccini"
 latitude: 45.0553
 longitude: 7.6933
+score: 6.5
 ---
 
 From the Murazzi, the imposing embankment built in the Napoleonic era, you can take the river ferry upstream to Moncalieri, past Valentino Park and the green hills reflected in the water. Stroll the tree-lined avenues of the Valentino to admire the 17th-century castle and the Botanical Gardens, then visit the Borgo Medievale, an impeccable reproduction of a 15th-century castle built for the 1884 Great Exhibition.

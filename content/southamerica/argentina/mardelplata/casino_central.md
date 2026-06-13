@@ -11,6 +11,7 @@ story: >
   The Casino Central was Argentina's largest casino when it opened in 1939, and for decades it was the defining symbol of Mar del Plata's status as a luxury resort. In the summers of the 1950s and 1960s, Perón and Evita held court here among the Argentine elite. After Evita's death in 1952, the casino organised nightly prayers at her portrait. The grandeur endures; the social stratification it once enforced is largely gone.
 sources:
   - https://en.wikipedia.org/wiki/Casino_Central
+score: 7.9
 ---
 
 The Casino Central is one of the most impressive buildings in Mar del Plata — a massive, ornate structure in the English Tudor style that sits directly on the seafront promenade. Designed by Alejandro Bustillo, who also designed the Llao Llao hotel in Bariloche and the Banco Nación in Buenos Aires, it opened in 1939 and remains fully operational today.

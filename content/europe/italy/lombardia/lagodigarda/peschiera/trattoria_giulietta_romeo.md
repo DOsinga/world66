@@ -7,6 +7,7 @@ tags:
 latitude: 45.4385
 longitude: 10.6905
 sources: []
+score: 5.8
 ---
 
 Trattoria al Combattente, near the Porto Vecchio in the old town, is a reliable spot for lake fish at a fair price. The menu changes with the catch but typically includes lavarello with butter and sage, pike risotto, and a good fritto misto of small fish. The dining room is a single small space with wooden tables and a short wine list focused on Veneto whites.

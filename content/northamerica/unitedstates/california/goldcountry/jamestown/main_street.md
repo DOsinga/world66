@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Main Street has been the stand-in for the American frontier in dozens of westerns — Butch Cassidy and the Sundance Kid, Back to the Future Part III, and Little House on the Prairie all filmed scenes along this single block of wooden storefronts."
+score: 8.1
 ---
 
 Two blocks long and almost entirely 19th-century, Jamestown's Main Street is one of the most intact gold-rush streetscapes in California. The boardwalk runs past iron-shuttered banks, a Wells Fargo office, a working livery building and a row of brick and clapboard saloons. The Emporium on the corner of Main and Willow — built in 1897 and listed on the National Register — anchors the block.

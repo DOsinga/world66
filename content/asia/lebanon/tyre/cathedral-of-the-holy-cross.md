@@ -5,6 +5,7 @@ latitude: 33.270
 longitude: 35.195
 snippet: "Ruins of a Crusader cathedral within the Al-Mina site, once one of the great churches of the Latin East"
 tags: [things_to_do, sight, historic]
+score: 6.8
 ---
 
 The Cathedral of the Holy Cross was built by the Crusaders in the 12th century on the site of an earlier Byzantine church, itself built over earlier structures. At its peak it was one of the major cathedral churches of the Latin East — the kings of Jerusalem were crowned here, including Amalric I in 1162. The building was later converted into a mosque after Saladin's forces took Tyre in 1187 (briefly), and then again after the Mamluks expelled the Crusaders permanently in 1291. What remains today is a substantial footprint of walls, columns, and architectural fragments within the broader Al-Mina excavation zone.

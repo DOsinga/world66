@@ -10,6 +10,7 @@ tags:
 snippet: "Henry van de Velde-designed Jugendstil museum building, modernist collection"
 story: >
   Osthaus, who died in 1921, planned to move the entire Folkwang collection from Hagen to a purpose-built town of artists' colonies in the surrounding hills. When he died at 47 of tuberculosis, his heirs sold the collection to the city of Essen for 15 million marks — a sum vast enough at the height of the inflation crisis to pay off the inheritance debts. Hagen never recovered the loss.
+score: 8.2
 ---
 
 Karl Ernst Osthaus founded the Folkwang Museum in 1902 in this purpose-designed building by Henry van de Velde — the first museum of modern art in Germany, opening when most German galleries still considered the Impressionists too radical. After Osthaus died, most of the original collection went to Essen, where it remains the core of the Museum Folkwang there. What stayed in Hagen, and what has been acquired since, makes for a still-formidable museum.

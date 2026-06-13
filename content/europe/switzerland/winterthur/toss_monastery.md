@@ -13,6 +13,7 @@ story: >
   recording his autobiography. She also collected the lives of the convent's own holy women, creating a document of medieval
   female spirituality that historians still mine today. The convent was dissolved at the Reformation; the church has been
   repurposed but still stands.
+score: 6.9
 ---
 
 Kloster Töss, a Dominican convent founded around 1233 in the Töss river valley southwest of the city centre, was one of the most important religious houses in medieval Switzerland. In the 13th and 14th centuries it became a centre of the Rhineland mysticism movement — the spiritual current associated with Meister Eckhart — and produced notable works of devotional literature by its nuns.

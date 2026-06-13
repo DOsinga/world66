@@ -8,6 +8,7 @@ tags:
 latitude: 6.5333
 longitude: 99.3000
 snippet: "Mountainous, forested island across the channel from Ko Lipe — best for the jungle waterfall hike and the viewpoint."
+score: 8.6
 ---
 
 Ko Adang sits directly across the narrow channel from Ko Lipe's Sunrise Beach, an obvious dark green wall of mountain rising from the sea. It is part of the strict national-park zone — no resorts, no bars, only basic park bungalows and a campsite at the headquarters on the south side. A few longtails make the short crossing from Lipe throughout the day and charge a small park entry fee on arrival.

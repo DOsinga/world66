@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Shardeni Street
 type: poi
+score: 5.7
 ---
 
 Shardeni Street is a short pedestrianised lane in the old town that has become one of Tbilisi's smartest eating and drinking addresses. The street runs parallel to the main Sioni Street and is lined with restored 19th-century buildings housing restaurants, wine bars, and art galleries. It is more curated and polished than the surrounding lanes — some find it almost too polished — but the architecture is genuinely attractive and the outdoor terrace dining on a warm evening is hard to beat.

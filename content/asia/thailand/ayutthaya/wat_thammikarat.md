@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Wat Thammikarat
 type: poi
+score: 7.2
 ---
 
 Just outside the Ayutthaya Historical Park boundary, near U-Thong Road. The ruins are centered on a tall, crumbling Khmer-style prang surrounded by lion statues — over 200 of them, most headless, arranged around the base. The effect is both eerie and compelling.

@@ -9,6 +9,7 @@ latitude: 36.8628
 longitude: -5.1806
 sources:
   - https://turismodesetenil.com/en/que-visitar/
+score: 6.4
 ---
 
 Mirador del Carmen is one of the simplest ways to get above Setenil's cave quarter and see how the houses fit into the gorge. The view is more useful than grand: it turns the town's odd street plan into something you can read.

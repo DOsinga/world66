@@ -12,6 +12,7 @@ story: >
   Geologists recognise them as an exceptional example of spheroidal weathering — the
   boulders are scientifically interesting as well as visually surreal. Some are the size
   of multi-storey buildings.
+score: 7.2
 ---
 
 Volax is a small village in the interior of Tinos surrounded by one of the most bizarre landscapes in the Cyclades: enormous rounded granite boulders, some as large as houses, scattered across the hillsides as if deposited by a giant hand. The effect is deeply strange and unlike anything else in the Greek islands — a lunar quality that contrasts with the white Cycladic architecture of the village itself.

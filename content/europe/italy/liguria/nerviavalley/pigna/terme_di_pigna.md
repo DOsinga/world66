@@ -9,6 +9,7 @@ latitude: 43.9244
 longitude: 7.6631
 sources:
   - https://en.wikipedia.org/wiki/Pigna,_Liguria
+score: 7.3
 ---
 
 The Terme di Pigna sit in the valley below the village, a few kilometres down the road toward Dolceacqua. The springs produce sulphurous water at around 35°C, rich in bicarbonate and calcium, used since Roman times for the treatment of respiratory and rheumatic conditions. The modern thermal complex includes indoor pools, a wellness centre, and mud treatment facilities.

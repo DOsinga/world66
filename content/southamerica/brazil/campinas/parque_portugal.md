@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: -22.8747
 longitude: -47.0501
+score: 6.8
 ---
 
 Parque Portugal is where Campinas actually lives. The park wraps around the Lagoa do Taquaral, a large artificial lake, and on weekend mornings the paths are full of joggers, cyclists, inline skaters, and families pushing strollers. You can rent pedal boats and rowboats on the lake, and there's a small amusement park in one corner for children. A Japanese garden tucked toward the eastern end is pleasantly quiet by contrast — one of the better examples of Japanese garden design outside São Paulo itself.

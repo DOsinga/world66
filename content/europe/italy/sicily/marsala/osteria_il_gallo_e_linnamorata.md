@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Small Sicilian restaurant on Via Stefano Bilardello in the old town"
+score: 5.7
 ---
 
 Il Gallo e l'Innamorata is a tight, low-ceilinged osteria a couple of streets back from the cathedral, serving a short and changing menu of Sicilian dishes — busiate with pesto trapanese, swordfish with capers and almonds, tuna tartare with citrus. The wine list leans heavily on Marsala and the surrounding hills.

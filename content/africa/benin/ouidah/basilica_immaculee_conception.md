@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: "Yellow-painted Catholic basilica facing the Python Temple"
+score: 6.9
 ---
 
 The main Catholic church of Ouidah, built in 1909 by French missionaries and elevated to a basilica by the Vatican. A long brick-and-stucco building painted ochre yellow, with a pair of slim bell towers and a calm Latin-cross interior.

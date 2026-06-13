@@ -10,6 +10,7 @@ tags:
   - museum
   - innere_stadt
 story: "The Secession was built in 1898 by Joseph Maria Olbrich as the manifesto-in-stone of the artists who broke away from Vienna's conservative academy. Above the door is their motto: 'Der Zeit ihre Kunst. Der Kunst ihre Freiheit' — 'To every age its art, to art its freedom.' Klimt's Beethoven Frieze, painted for an exhibition opened by Mahler in 1902, hangs permanently in the basement."
+score: 8.8
 ---
 
 A small white building topped by a gilded dome of laurel leaves — the locals call it the 'Krauthappel' (cabbage head) — the Secession was built as the exhibition hall of the Vienna Secession movement led by Gustav Klimt. Today it still holds contemporary art exhibitions, with the historic Beethoven Frieze in the basement as a permanent fixture.

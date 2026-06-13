@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Via Pretoria follows the line of the Roman cardo through the upper town. The street has been the social spine of Potenza for two thousand years, surviving multiple earthquakes that flattened nearly everything around it."
+score: 6.5
 ---
 
 Via Pretoria is Potenza's pedestrian high street, running the length of the narrow ridge on which the old city sits. Lined with shops, gelaterie, bars and the occasional baroque church facade, it comes alive in the early evening when the locals turn out for the passeggiata.

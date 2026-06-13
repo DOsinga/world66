@@ -15,6 +15,7 @@ story: >
   unexpected buildings in a living history museum.
 sources:
   - https://en.wikipedia.org/wiki/Al_Rashid_Mosque
+score: 7.2
 ---
 
 Al-Rashid Mosque holds a significant place in Canadian history: built in 1938, it was the first mosque in Canada, established by Lebanese Muslim immigrants who had settled in the Edmonton area. The original wooden building at 102 Street was the centre of Muslim community life in Alberta for four decades before being replaced by a larger structure in 1982.

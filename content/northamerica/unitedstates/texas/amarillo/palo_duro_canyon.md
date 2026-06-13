@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - nature
 - hiking
+score: 9.5
 ---
 
 Palo Duro Canyon is the second-largest canyon in the United States, yet barely known outside Texas. The Prairie Dog Town Fork of the Red River carved it into the Llano Estacado over millions of years, leaving walls of red, orange, and cream-coloured rock dropping nearly 240 metres from the flat plains above. Standing at the rim and looking out, it is one of the more genuinely dramatic landscapes in the American Southwest — and the surprise of it, given how flat everything around it is, makes it more striking still.

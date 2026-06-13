@@ -6,6 +6,7 @@ tags:
   - uptown
 latitude: 44.9471
 longitude: -93.2988
+score: 7.4
 ---
 
 Magers & Quinn is a large independent bookshop on Hennepin Avenue in Uptown, widely considered the best bookshop in the Twin Cities and one of the best in the upper Midwest. The shop carries new and used books on two floors, with a particularly strong selection in fiction, art, history, and Minnesotan and regional writing.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.8
 ---
 
 Bánffy Palace, built between 1774 and 1785 by Count György Bánffy, governor of Transylvania, dominates the eastern side of Piața Unirii. The architect, Johann Eberhard Blaumann, designed a baroque facade with classical pretensions: a Corinthian portico, an ornate balustrade with twelve statues, and a grand interior courtyard.

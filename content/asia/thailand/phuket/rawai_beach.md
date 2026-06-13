@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Rawai Beach
 type: poi
+score: 6.7
 ---
 
 Rawai Beach sits on the southeast tip of Phuket, well away from the crowds of Patong. The swimming is mediocre — the beach is shallow and rocky at low tide — but that's not why you come. The waterfront is lined with cheap seafood restaurants where the catch arrives daily from the fishing boats moored offshore. Pull up a plastic chair, point at what looks good, and eat Thai-style.

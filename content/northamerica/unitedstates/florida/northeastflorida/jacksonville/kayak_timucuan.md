@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3850
 longitude: -81.4980
+score: 7.7
 ---
 
 The tidal creeks, salt marshes, and estuaries of the Timucuan Ecological and Historic Preserve offer some of the best sea kayaking in northeast Florida. The waterways are sheltered, the current is manageable for intermediate paddlers, and the wildlife is abundant — bottlenose dolphins are commonly seen in the deeper channels, manatees in summer, osprey and bald eagles overhead, and herons and egrets wading in the shallows.

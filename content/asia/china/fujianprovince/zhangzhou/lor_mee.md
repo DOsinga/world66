@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 24.5150
 longitude: 117.6480
+score: 4.4
 ---
 
 Zhangzhou is the origin point of lor mee (卤面, lǔ miàn) — braised wheat noodles in a thick, starchy, richly spiced sauce thickened with sweet potato starch and pork or seafood broth. This is the dish that Hokkien emigrants carried to Singapore, Malaysia, and Indonesia, where it became a hawker staple under various local names. The Zhangzhou version is considered the source, and local restaurants take it seriously: the sauce is darker and more complex than the Southeast Asian adaptations, with a deeper note of five-spice and fermented soybean.

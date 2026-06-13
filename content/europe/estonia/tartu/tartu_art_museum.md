@@ -6,6 +6,7 @@ tags:
 - museum
 title: Tartu Art Museum
 type: poi
+score: 7.5
 ---
 
 The Tartu Art Museum occupies an elegant neoclassical building on the bank of the Emajõgi river, housing a collection focused on Estonian art from the 19th century to the present. The permanent collection includes significant works by Eduard von Gebhardt, Kristjan Raud (who developed the visual imagery of the Estonian national epic Kalevipoeg), and the Pallas School artists of the interwar period.

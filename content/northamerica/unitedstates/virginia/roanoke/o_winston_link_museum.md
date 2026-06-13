@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Link became famous for his elaborately staged night photographs of N&W steam locomotives in the last years of steam — images set up with banks of flashbulbs along miles of track, all triggered at once. The personal story behind the work is dramatic: Link's second wife, Conchita, conspired to steal much of his archive, served time for it, and the case became one of the strangest in American photography."
+score: 8.3
 ---
 
 The O. Winston Link Museum occupies the restored former Norfolk & Western passenger station, a 1905 building on Shenandoah Avenue. The museum is devoted entirely to Link's photographs of the Norfolk & Western during the final years of steam (1955 to 1960) — black-and-white images, mostly taken at night using elaborate banks of flashbulbs strung along the line, that turned working railroad scenes into theatrical tableaux.

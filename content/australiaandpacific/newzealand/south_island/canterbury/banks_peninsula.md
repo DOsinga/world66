@@ -16,6 +16,7 @@ story: >
   The flat plains effectively grew out to meet the volcano, connecting what had
   been an island to the South Island proper. Cook thought it was an island when
   he surveyed it in 1770.
+score: 8.0
 ---
 
 **Banks Peninsula** is a volcanic outlier attached to the Canterbury coast, rising sharply from the flat plains to hills of 900 metres. Two large harbours — Lyttelton Harbour (Christchurch's port) and Akaroa Harbour (the French-heritage town) — are the drowned craters of the two ancient volcanoes that built the peninsula. The hills between them are covered in a mixture of farmland and regenerating native bush, connected by a dramatic Summit Road that runs the length of the peninsula's spine with views in both directions.

@@ -6,6 +6,7 @@ longitude: 11.7711
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The compact pedestrianised centre of Canazei is a pleasant place to spend an hour between activities. The main street, Strada Roma, runs past the church of San Floriano with its small frescoed loggia and lines of traditional Ladin wooden houses, many with painted shutters and balconies of geraniums.

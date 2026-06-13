@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 20.7233
 longitude: 107.0530
+score: 6.5
 ---
 
 Cat Ba Town is the only settlement of any size on the island, a curved strip of buildings facing a working harbour on the south coast. Most of the new construction is tourist-oriented — concrete hotels along the seafront, a strip of restaurants and tour agencies, the usual karaoke bars — but step a block back from the water and you find a real Vietnamese fishing town with a morning market, a wholesale fish dock, and a couple of small temples.

@@ -14,6 +14,7 @@ story: >
   and executed by the Spanish in 1815, but not before drafting a constitution
   and articulating a vision of Mexican independence that would eventually
   prevail. Morelia was renamed in his honour in 1828.
+score: 7.3
 ---
 
 The birthplace of Jose Maria Morelos — independence hero, priest, and military genius — is preserved as a small museum and cultural space a short walk from the cathedral. The house itself is a modest colonial structure that has been restored and furnished to reflect the late colonial period. The rooms feel appropriately spare given that Morelos grew up in a family of modest means, working as a mule driver before entering the priesthood.

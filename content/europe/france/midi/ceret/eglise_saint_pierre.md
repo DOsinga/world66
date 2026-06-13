@@ -8,6 +8,7 @@ tags:
   - church
 title: "Church of Saint Peter"
 type: poi
+score: 6.4
 ---
 
 The Church of Saint Peter anchors Ceret's old centre with a sturdy southern bell tower and a cool, shadowed interior. Like many churches in this border country, it carries Catalan religious traditions within a French town plan.

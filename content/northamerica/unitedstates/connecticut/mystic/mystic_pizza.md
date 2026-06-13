@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Mystic Pizza
 type: poi
+score: 5.4
 ---
 
 Mystic Pizza is one of the reasons Mystic works as more than a quick highway stop. The village is small, so even the major attractions feel tied to the river, the bridge, and the working-waterfront history around them.

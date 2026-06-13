@@ -11,6 +11,7 @@ tags:
 - museum
 title: Gandhi Smriti
 type: poi
+score: 7.8
 ---
 
 Gandhi Smriti (formerly Birla House) is where Mahatma Gandhi spent the last 144 days of his life and was assassinated on January 30, 1948. The house has been preserved as a memorial, with Gandhi's room kept exactly as it was, his few personal belongings on display, and the prayer ground where he held his final evening prayer marked by a column of footsteps tracing his path.

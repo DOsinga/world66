@@ -7,6 +7,7 @@ address: 1168 County Road, Montpelier, VT
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The Morse family has been making maple syrup on this Montpelier hillside for eight generations — somewhere over 200 years. The working sugarhouse, two miles north of downtown, is open year-round with free tours, a maple-themed gift shop, and (in late March) sugar-on-snow served on a paper plate.

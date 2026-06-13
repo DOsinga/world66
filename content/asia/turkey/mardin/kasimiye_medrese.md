@@ -10,6 +10,7 @@ longitude: 40.7200
 sources:
   - https://en.wikipedia.org/wiki/Kas%C4%B1miye_Medrese
 story: "The Kasımiye Medrese was built in the 15th century and completed by Sultan Kasım of the Artukid dynasty after whom it is named. Unlike most madrasas in the region, it was intended to house both male and female students — a separate section for women was built into the complex, which was unusual for the period."
+score: 8.4
 ---
 
 The Kasımiye Medrese stands at the western end of Mardin's old city, a 15th-century complex built by the last of the Artukid sultans. The facade, like the Sultan Isa Medrese, is elaborately carved with geometric interlacing patterns and calligraphic friezes, though the Kasımiye's style is somewhat different — heavier, more solid, reflecting a slight shift in the decorative vocabulary of the late Artukid period.

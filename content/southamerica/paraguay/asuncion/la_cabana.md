@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: -25.2960
 longitude: -57.5940
+score: 5.8
 ---
 
 La Cabaña is one of Asuncion's most established steak restaurants — a proper parrilla with an open grill visible from the dining room and a menu built around cuts of Paraguayan beef that hold their own against anything you'll find in Argentina or Uruguay. The beef ribs (costillas) and entrecôte are reliably good; the chimichurri is made in-house.

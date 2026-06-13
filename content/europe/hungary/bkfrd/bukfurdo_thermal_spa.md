@@ -13,6 +13,7 @@ story: >
   entire resort village had been built from scratch around the wells. The
   spring water is categorised as Hungary's most mineralised medicinal water,
   with exceptionally high levels of fluorine, calcium, and magnesium.
+score: 8.5
 ---
 
 The Bükfürdő Thermal & Spa complex is the reason most people come to this corner of western Hungary, and it does not disappoint. Spread across 18 hectares, it offers 34 pools ranging from cool splash pools and a wave pool to very hot medicinal soaking baths where the water temperature hovers around 36–38°C. An outdoor adventure section with slides and a children's pirate ship is open May to September; the covered indoor pools and an extensive sauna world — Finnish sauna, steam bath, infra sauna, and an outdoor ice plunge pool — operate year-round.

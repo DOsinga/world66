@@ -8,6 +8,7 @@ latitude: 30.7200
 longitude: 116.4700
 story: >
   The 53 interconnected caves and passages of Mystery Valley were formed when the mountain's granite boulders fractured and shifted over millions of years, tumbling into configurations that create natural tunnels, shafts, and chambers. The disorientation is genuine: the same landscape that appears simple from the air becomes a three-dimensional maze at ground level, and experienced guides routinely lead groups that have lost their sense of direction entirely.
+score: 9.0
 ---
 
 Mystery Valley is the single most visited section of Tianzhu Mountain, and the reason is immediately apparent: the maze-like corridor formed by massive fallen boulders creates an experience unlike any conventional trail. The route threads through 53 caves, tunnels, and passages over a distance of several hundred meters, passing through spaces that range from tight squeezes requiring a sideways approach to cathedral-scale chambers where the boulders overhead have stacked into accidental arches thirty meters high.

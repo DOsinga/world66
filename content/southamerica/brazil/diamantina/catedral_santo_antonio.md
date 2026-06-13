@@ -14,6 +14,7 @@ story: >
   carved woodwork visible today date from the 18th century, when Diamantina was producing most
   of the world's known diamond supply and money moved through this small mountain town on a scale
   that seems impossible given its size today.
+score: 8.1
 ---
 
 The Catedral de Santo Antônio stands on the main square and is the most prominent building in Diamantina's historic centre. The current structure dates largely from a 20th-century rebuild, but the interior retains its ornate 18th-century altarpiece and carved wooden choir stalls, both survivors from the original church funded by the town's diamond trade wealth.

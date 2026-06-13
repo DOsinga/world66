@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Beth_Israel_Synagogue_(Oranjestad,_Aruba)
+score: 6.4
 ---
 
 The Beth Israel Synagogue is Aruba's only synagogue, a Progressive Jewish congregation established in the mid-20th century. The current building on Adriaan Laclé Boulevard dates from 1962. It reflects the small but historic Jewish community that settled in Aruba and the wider Dutch Caribbean, a community with roots going back to Sephardic Jews who arrived in Curaçao in the 17th century.

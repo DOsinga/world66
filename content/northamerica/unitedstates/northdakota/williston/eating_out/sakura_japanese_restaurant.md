@@ -1,6 +1,7 @@
 ---
 title: "Sakura Japanese Restaurant"
 type: poi
+score: 5.2
 ---
 
 One of the more surprising things the oil boom left behind in Williston was a reasonably diverse restaurant scene — the influx of workers from across the country and abroad created demand for food that went beyond steakhouse and diner. Sakura is the survivor of that era that has settled most firmly into the fabric of local life. The menu covers Japanese standards competently: sushi rolls, teriyaki, tempura, and a lunch bento that is one of the best-value meals in town.

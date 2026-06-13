@@ -8,6 +8,7 @@ tags:
   - church
 latitude: 47.3518
 longitude: 8.3401
+score: 7.5
 ---
 
 The Catholic parish church of St. Nikolaus crowns the high end of the Bremgarten peninsula. The current building is essentially Baroque — finished in 1644 and richly stuccoed inside — but the bell tower below it is Romanesque, dating to the early thirteenth century and built into the old city wall. The Habsburgs founded the town here in 1230 and the church has stood on this rise ever since.

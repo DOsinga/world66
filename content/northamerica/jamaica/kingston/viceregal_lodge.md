@@ -9,6 +9,7 @@ latitude: 18.0094
 longitude: -76.7705
 story: >
   King's House was built in 1872 as the official residence of the Governor of Jamaica. It replaced an earlier residence that had been located Downtown. The current building sits on Hope Road alongside the grounds of Jamaica House — the Prime Minister's official residence — and the proximity of the two buildings encapsulates the transition from British colonial administration to Jamaican self-government in physical form.
+score: 5.3
 ---
 
 King's House on Hope Road is the official residence of the Governor-General of Jamaica — the representative of the Crown, and the ceremonial head of state in the Westminster system that Jamaica has maintained since independence in 1962. The house stands on Hope Road, a short distance from the Bob Marley Museum, and its grounds are occasionally open to the public for cultural events and the annual National Day celebration.

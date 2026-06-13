@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.7959
 longitude: 7.1626
+score: 6.0
 ---
 
 Lac de Pérolles is a reservoir formed by the Maigrauge Dam on the Sarine river, just south of the old town. The lake and its forested banks form an attractive green corridor that Fribourg residents use for walking, running, and swimming in summer. The path around the lake is roughly 7 kilometres and takes about two hours at a comfortable pace.

@@ -1,6 +1,7 @@
 ---
 title: "Caulfield Racecourse Reserve"
 type: poi
+score: 6.1
 ---
 
 Caulfield Racecourse, a short distance from Oakleigh, is one of Melbourne's major horse racing venues and home to the Caulfield Cup, a Group 1 race run each October that draws large crowds and is one of the highlights of Melbourne's spring racing carnival. Race days bring a different atmosphere to the area — well-dressed punters arriving by train, the sound of the crowd carrying across the suburb.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Plaza San Francisco
 type: poi
+score: 8.4
 ---
 
 Plaza San Francisco sits at the foot of the [Basilica de San Francisco](/southamerica/bolivia/lapaz/basilica_san_francisco) and is one of the busiest intersections in the city — not just for traffic but for everything else. From here, the market district climbs up [Calle Sagarnaga](/southamerica/bolivia/lapaz/sagarnaga_street) toward the Witches' Market and the Mercado Negro. From here, demonstrators march down toward [Plaza Murillo](/southamerica/bolivia/lapaz/plaza_murillo) when they have a point to make. From here, minibuses leave in every direction. It is a place that hums.

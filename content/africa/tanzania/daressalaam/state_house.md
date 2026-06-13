@@ -8,6 +8,7 @@ tags:
 - architecture
 title: State House
 type: poi
+score: 5.2
 ---
 
 The Tanzanian president's official residence sits at the top of the seafront drive on a low promontory between Ocean Road Hospital and Magogoni Ferry. The German governor's house occupied the site from 1897 until the British shelled it in 1916; the current low white classical building, with its small dome and shaded portico, was put up in 1922 and has been extended several times since.

@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Delfines
 type: poi
+score: 7.0
 ---
 
 The southernmost public beach in the Hotel Zone and the most scenic — a long unbroken sweep of fine white sand backed by low cliffs rather than hotels. The official viewpoint at the top of the cliff (with the giant multicoloured CANCUN sign) is one of the most photographed spots in Mexico. The water is open Caribbean and the surf is bigger than on the in-zone beaches, so swimmers should stay attentive to currents and lifeguard flags.

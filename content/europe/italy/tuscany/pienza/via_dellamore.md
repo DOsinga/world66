@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0760
 longitude: 11.6792
+score: 8.2
 ---
 
 The narrow lane that runs along the back of the town just inside the southern wall. Pius II planned it as a panoramic promenade with intermittent openings onto the Val d'Orcia; the local nineteenth-century habit of using it for assignations gave it the names that have stuck — Via dell'Amore, Via del Bacio, Via della Fortuna.

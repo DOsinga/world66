@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.1555
 longitude: -86.2722
+score: 8.6
 ---
 
 The Plaza de la República is the symbolic centre of what was once Managua's old city, a large open square in the lakefront district flanked by the ruined Old Cathedral, the National Palace of Culture, and the Rubén Darío National Theatre. Before the 1972 earthquake, this was the heart of a colonial and then early-modern city; now it is a remarkable open space surrounded by ruins and monuments in a city that never rebuilt its centre.

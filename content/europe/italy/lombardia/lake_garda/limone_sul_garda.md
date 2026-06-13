@@ -8,6 +8,7 @@ story: >
   Scientists studying the population of Limone sul Garda in the 1980s discovered an extraordinary mutation in some residents: a variant of the ApoA-1 protein that appears to protect against cardiovascular disease. The mutation — dubbed ApoA-1 Milano — has been traced to a common ancestor from the 18th century and has since been the subject of extensive pharmaceutical research as a potential treatment for heart disease.
 sources:
   - https://en.wikipedia.org/wiki/Limone_sul_Garda
+score: 7.9
 ---
 
 Limone sul Garda is one of the prettiest villages on the western shore — a cluster of colourful houses wedged between the lake and the sheer limestone cliffs of the Gardesana road, with terraced limonaia (lemon-tree structures) covering the slopes behind. The name may or may not come from lemons; some historians argue it derives from the Latin limes (boundary), as Limone sat on the old frontier between Austrian and Italian territory.

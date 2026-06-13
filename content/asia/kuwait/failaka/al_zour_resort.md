@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The main visitor facility on the island, with accommodation and ferry access"
+score: 5.9
 ---
 
 The government-developed resort on Failaka's western end is the island's only organised tourism facility — a cluster of chalets, a small hotel, a café, and beach access. It is modest by Gulf standards but functional, and staying overnight allows you to see the island at dawn and dusk, when the light is better and the day-tripping crowds from the ferry have left.

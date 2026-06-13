@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.0066
 longitude: 16.2391
+score: 7.6
 ---
 
 Baden's outdoor thermal baths — the Thermalstrandbad — make a compelling reason to visit in the warmer months. The complex is fed by the town's sulphur springs, which have been in use since Roman times, and consists of a large outdoor pool and several smaller ones at varying temperatures, all with the faint sulphur smell that is part of the Baden spa experience.

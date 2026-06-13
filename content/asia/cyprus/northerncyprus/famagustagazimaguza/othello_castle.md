@@ -8,6 +8,7 @@ title: Othello Castle
 type: poi
 story: >
   The castle's Shakespearean name comes from a theory that the play Othello was inspired by a real Venetian general stationed in Cyprus — possibly Cristoforo Moro, a Venetian governor of Cyprus in the 1500s. The name "Moro" means "Moor" in Italian, and Moro is thought to have murdered his wife in Cyprus. Shakespeare likely knew the story through a 1565 Italian novella. The connection to Famagusta is not definitively proven, but the castle took the name nonetheless.
+score: 7.6
 ---
 
 Othello Castle — officially the Citadel of Famagusta — stands at the northern end of the old walled city, controlling the harbour entrance. It was built by the Lusignans in the 14th century and substantially reinforced by the Venetians in the early 16th century, who carved the lion of Saint Mark into the main gate tower — it's still there above the entrance.

@@ -14,6 +14,7 @@ story: >
   ago, making it one of the oldest figurative sculptures known. The original
   is in the Naturhistorisches Museum in Vienna; a bronze replica marks the
   findspot at Willendorf.
+score: 6.8
 ---
 
 The Venus of Willendorf is one of the most famous prehistoric artefacts in the world — an 11-centimetre limestone figurine of a rotund female figure, estimated at around 28,000 years old, found in a railway cutting near the village of Willendorf in 1908. The original is in the Natural History Museum in Vienna, but a bronze replica marks the findspot on the path between Willendorf and Aggsbach Markt along the south bank of the Danube.

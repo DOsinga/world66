@@ -8,6 +8,7 @@ latitude: 44.0935
 longitude: 11.7809
 sources:
   - https://en.wikipedia.org/wiki/Museo_Civico_di_Montepulciano
+score: 6.9
 ---
 
 The Museo Civico di Montepulciano, also known as the Pinacoteca Crociani, occupies the Palazzo Neri-Orselli on Via Ricci, a fine Renaissance palace a short walk from the main square. The collection covers local art and archaeology from the Etruscan period through the Renaissance, with particular strength in terracottas and in the Sienese and Florentine paintings that decorated the churches and private chapels of the town.

@@ -13,6 +13,7 @@ tags:
   - sight
 title: Diani Beach
 type: poi
+score: 8.8
 ---
 
 The flagship beach of the Kenyan coast: 25 kilometres of brilliant white coral sand backed by a strip of coastal forest, with the Indian Ocean warm and flat on the other side of the offshore reef. Diani is consistently rated among the best beaches in Africa, and it deserves the reputation.

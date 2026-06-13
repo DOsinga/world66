@@ -9,6 +9,7 @@ latitude: 37.1125
 longitude: 79.9227
 story: >
   Hotan's Sunday market has operated in some form for over a thousand years, serving the same function it serves today: bringing together the farmers, herders, craftspeople, and traders of the southern Taklamakan oasis in one enormous weekly exchange. The Silk Road merchants who passed through would have recognised it immediately.
+score: 9.1
 ---
 
 The Sunday market at Hotan is one of the great markets of Central Asia, drawing Uyghur traders and farmers from across the southern Xinjiang oasis on the one day a week when business is done properly. The scale is enormous — thousands of stalls spread across several blocks of the old city, selling everything from live livestock to dried apricots, copper pots, rugs, spices, and the ubiquitous jade.

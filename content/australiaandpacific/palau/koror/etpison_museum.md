@@ -5,6 +5,7 @@ snippet: "Private museum of Palauan artefacts and Pacific photography, founded b
 tags: [things_to_do, museum, culture]
 latitude: 7.3453
 longitude: 134.4832
+score: 7.8
 ---
 
 The Etpison Museum was founded by the family of Ngiratkel Etpison, Palau's third president, and houses a private collection assembled over decades. The objects — money beads, dance regalia, war clubs, navigation charts — overlap with those at the Belau National Museum but are presented with more design care, and the labels read like they were written by someone who genuinely cares about the material.

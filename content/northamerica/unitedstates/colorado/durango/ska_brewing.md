@@ -6,6 +6,7 @@ longitude: -107.8810
 tags:
   - bars_and_cafes
   - bar
+score: 6.4
 ---
 
 The biggest Durango brewery, founded in 1995 in a garage and now occupying a large industrial space south of town. The tasting room — the World Headquarters — pours the full range including the flagship Modus Hoperandi IPA and a rotating wall of seasonal beers.

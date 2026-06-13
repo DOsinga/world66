@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - archaeology
+score: 7.8
 ---
 
 Site 2 is around 25 kilometres south of Phonsavan and split between two adjacent hilltops. The setting — a quiet pine ridge with views down across rice paddies — is the prettiest of the open jar sites, and the smaller scale (about 90 jars) makes it a more contemplative visit than Site 1.

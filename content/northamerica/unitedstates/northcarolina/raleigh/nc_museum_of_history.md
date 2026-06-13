@@ -13,6 +13,7 @@ story: >
   including original correspondence and technical documents from the brothers' notebooks. 
   Ohio may have adopted the Wrights as its own, but North Carolina is where it actually 
   happened.
+score: 7.9
 ---
 
 The North Carolina Museum of History, free and a short walk from the Capitol, covers the state's story from its indigenous cultures through the present day. The permanent exhibits are well-designed and genuinely engaging: the Civil War galleries are thorough and appropriately complex, the textile and tobacco industry exhibits explain how this state's economy worked for a century, and the civil rights section covers the Greensboro sit-ins and other local events with first-person accounts.

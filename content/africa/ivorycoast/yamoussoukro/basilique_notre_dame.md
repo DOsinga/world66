@@ -15,6 +15,7 @@ tags:
 - landmark
 title: Basilique de Notre-Dame de la Paix
 type: poi
+score: 9.5
 ---
 
 Modeled on — and slightly larger than — St. Peter's Basilica in Rome, this is the largest church in the world by area. The dome stands 158 metres high. The stained-glass windows, made in France, are genuinely extraordinary: vivid reds and blues that flood the interior with colour. A free bus from the city centre runs visitors to the entrance. You must dress modestly to enter — no shorts, arms covered.

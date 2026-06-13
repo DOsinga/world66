@@ -9,6 +9,7 @@ tags:
   - park
 title: Central Park of Arona
 type: poi
+score: 5.3
 ---
 
 Central Park of Arona is a useful patch of green in a resort zone that can otherwise feel built almost to the kerb. It has palms, paths, seating, and enough space to step away from traffic and hotel fronts for a while.

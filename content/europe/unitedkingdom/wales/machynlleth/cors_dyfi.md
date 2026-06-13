@@ -10,6 +10,7 @@ story: >
   The ospreys at Cors Dyfi were the first wild breeding pair in Wales for over 400 years when they returned in 2011. Ospreys were hunted to extinction in Wales by the early 20th century; their return is one of British conservation's genuine successes. The Dyfi osprey project has a live webcam on the nest during the breeding season, and you can sometimes watch the parents fishing in the estuary from the reserve's viewing platform.
 sources:
   - https://en.wikipedia.org/wiki/Dyfi_National_Nature_Reserve
+score: 8.0
 ---
 
 Cors Dyfi is a Montgomeryshire Wildlife Trust reserve on the Dyfi estuary south of Machynlleth, one of the best wildlife-watching spots in mid-Wales. The reserve protects a large area of raised bog, fen, and open water — an increasingly rare habitat in Wales — and is most famous as a site for nesting ospreys.

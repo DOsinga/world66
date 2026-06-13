@@ -9,6 +9,7 @@ tags:
 - sight
 title: Iglesia de San Blas
 type: poi
+score: 6.5
 ---
 
 The Iglesia de San Blas sits on a low rise just south of the historic centre, above the old neighbourhood of the same name. The first chapel on the site was built in the seventeenth century; the present building dates largely from rebuilding in the nineteenth and twentieth centuries, with a single nave and a square bell tower.

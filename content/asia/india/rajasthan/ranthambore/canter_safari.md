@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 26.0200
 longitude: 76.5000
+score: 5.8
 ---
 
 Ranthambore offers two types of safari vehicle: the jeep (seating six) and the canter (an open truck seating about twenty). The jeep safari is considerably better — quieter, more flexible, and easier to photograph from — but canters give access to the same zones at roughly half the price. Budget travellers and school groups pile into canters; serious wildlife watchers book jeeps.

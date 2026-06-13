@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.275
 longitude: 46.003
+score: 8.7
 ---
 
 High on the summit plateau of Ughtasar Mountain, thousands of petroglyphs cover the dark volcanic rock in one of the densest concentrations of prehistoric rock art in the Caucasus. The carvings date to around 10,000 BC — hunters with bows, herds of now-extinct animals, scenes of ritual and daily life scratched into the stone by people who lived on this plateau when the climate was wetter and the mountains supported large game. The sheer number of images is staggering: individual boulders carry dozens of figures, and the carvings continue across the summit in every direction.

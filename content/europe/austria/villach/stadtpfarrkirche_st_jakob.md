@@ -16,6 +16,7 @@ story: >
   the course of the Drau river. The church was rebuilt in the following decades,
   but the tower's gentle tilt has persisted for nearly seven centuries as a
   quiet reminder of what happened here.
+score: 7.5
 ---
 
 The Stadtpfarrkirche St. Jakob (Parish Church of St James) is Villach's most prominent building, its white Gothic tower rising above the Hauptplatz and visible from miles around. The church dates from the 14th century and contains late Gothic and baroque elements accumulated through centuries of reconstruction and embellishment. The interior is spacious and relatively restrained by Austrian church standards, with a notable carved stone pulpit and a series of chapels along the nave.

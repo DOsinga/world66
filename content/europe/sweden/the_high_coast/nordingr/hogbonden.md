@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The lighthouse was decommissioned in 1968 and the keeper's quarters turned into an STF youth hostel; you can sleep on the bare granite top of the island under the midnight sun, with no road, no shop, and only a wood-fired sauna for company."
+score: 8.9
 ---
 
 Högbonden is a small, treeless island of round granite about an hour's boat ride out from the coast at Bönhamn, crowned by a 1909 stone lighthouse that is one of the iconic images of the High Coast. The walk up from the jetty is steep — twenty minutes of stone steps — but the views from the top, north along the cliff line and south over the open sea, are unmatched.

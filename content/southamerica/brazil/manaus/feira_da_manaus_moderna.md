@@ -7,6 +7,7 @@ tags:
 - centro
 latitude: -3.1393
 longitude: -60.0203
+score: 8.4
 ---
 
 The Feira da Manaus Moderna is the wholesale market that wakes the city before sunrise. Spread along the river just east of the Mercado Adolpho Lisboa, hundreds of stalls and small open-fronted shops sell fish landed overnight, jungle fruits brought in by boat, sacks of farinha de mandioca, açaí pulp by the kilo, herbs and roots for natural medicine, and live chickens.

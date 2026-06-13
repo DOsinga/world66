@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.1930
 longitude: -6.6976
+score: 5.7
 ---
 
 The North West 200 is an International Road Racing motorcycle event run on a triangular circuit on public roads between Portrush, Portstewart, and Coleraine. First held in 1929, it is one of the last major motorcycle road races where competitors race on closed public roads at speeds exceeding 200 mph through towns and past ordinary houses. It typically draws 100,000 or more spectators, making it the largest outdoor sporting event in Ireland.

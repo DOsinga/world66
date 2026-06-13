@@ -8,6 +8,7 @@ tags:
 - eating_out
 - market
 - street_food
+score: 6.6
 ---
 
 Gurney Drive is the long seafront boulevard north of Georgetown's centre, named after Sir Henry Gurney (a British high commissioner assassinated by Communist insurgents in 1951). At its eastern end sits **Gurney Drive Hawker Centre** — the city's largest open-air food court, with around 80 stalls serving every Penang specialty under one roof.

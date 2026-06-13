@@ -8,6 +8,7 @@ latitude: 43.4389
 longitude: -4.8175
 sources:
   - https://en.wikipedia.org/wiki/Playa_de_Torimbia
+score: 8.2
 ---
 
 Torimbia is one of the most beautiful beaches in Asturias, a wide crescent of golden sand framed by high green headlands that drops steeply to the sea. It is a naturist beach, officially and by long tradition, though this is loosely enforced and non-naturist visitors are perfectly welcome. The approach is part of the appeal: a footpath descends steeply through woodland from the road above, arriving at a beach that feels genuinely secluded even when reasonably busy.

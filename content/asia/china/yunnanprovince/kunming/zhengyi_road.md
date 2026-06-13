@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 5.6
 ---
 
 Zhengyi Road is the central north-south spine of the old town, a long pedestrianised street running from the area around Cuihu down to Jinbi Square. Most of the buildings are modern, but a careful look picks out arcaded façades, brick warehouses, and decorative gateways that hint at the pre-revolution town the French and Burmese traders knew.

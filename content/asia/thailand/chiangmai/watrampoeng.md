@@ -6,6 +6,7 @@ tags:
 - temple
 title: Wat Ram Poeng
 type: poi
+score: 7.3
 ---
 
 Wat Ram Poeng, also known as Tapotaram, sits in a quiet wooded compound about two kilometres south of the old city and is one of the most respected meditation centres in northern Thailand. The temple has offered intensive Vipassana meditation courses to foreigners since the 1980s, and dedicated practitioners come from around the world to study here.

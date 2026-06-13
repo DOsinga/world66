@@ -7,6 +7,7 @@ tags:
   - military
 latitude: 50.4036
 longitude: 16.1942
+score: 7.9
 ---
 
 The largest of the Náchod-area fortifications is the artillery fortress at Dobrošov, about 5 km south of town on a forested hilltop. It was meant to be the linchpin of this stretch of the defensive line — three completed infantry blockhouses linked by a network of underground galleries, with three more artillery casemates planned but never built when the line was abandoned in 1938.

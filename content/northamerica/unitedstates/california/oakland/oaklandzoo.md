@@ -9,6 +9,7 @@ tags:
 title: Oakland Zoo
 snippet: Mid-sized zoo with California native animals and gondola bay views
 type: poi
+score: 6.5
 ---
 
 A mid-sized zoo in Knowland Park with a strong focus on California native species. The newer California Trail section covers 56 acres of hillside, with grizzly bears, wolves, bison, and a gondola ride offering panoramic views of the bay. Less crowded and more manageable than the San Francisco Zoo, and a solid choice if you have kids.

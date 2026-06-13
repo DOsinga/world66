@@ -5,6 +5,7 @@ latitude: -14.0678
 longitude: -75.7286
 tags: [things_to_do, museum]
 story: "Dr Javier Cabrera amassed a collection of more than 11,000 engraved stones that supposedly depict dinosaurs, heart surgery, and ancient astronomical instruments. He believed they proved an advanced prehistoric civilisation. They were almost certainly carved in the 1960s by a local farmer, but the museum remains a fascinating monument to one man's obsession."
+score: 5.2
 ---
 
 The Museo Cabrera houses the famous — or infamous — Ica Stones, an enormous collection of carved andesite stones that the late Dr Javier Cabrera believed were prehistoric artefacts proving humans coexisted with dinosaurs. The carvings show all manner of unlikely scenes, from surgeons performing heart transplants to people riding triceratops.

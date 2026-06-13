@@ -7,6 +7,7 @@ tags:
 latitude: 30.465
 longitude: 78.082
 snippet: Terraced municipal garden with Himalayan views and a small amusement area
+score: 5.4
 ---
 
 The Company Garden — officially the Municipal Garden — sits on terraced slopes below the Mall Road at the eastern end of town. It is a well-maintained public garden with flower beds, a small artificial waterfall, and views across the valley. The name dates to the British period, when it was the Company Bagh.

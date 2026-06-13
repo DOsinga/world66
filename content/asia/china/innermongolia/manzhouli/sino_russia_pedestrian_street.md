@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 49.6002
 longitude: 117.4336
+score: 7.3
 ---
 
 The Sino-Russia Pedestrian Street (Zhongsu Boyi Jie) is the social centre of Manzhouli — a long shopping and restaurant strip where Russian and Chinese businesses stand side by side. The signs are bilingual, the menus dual-language, and on any given evening you'll hear Russian spoken as commonly as Mandarin. Russian traders come across the border to stock up on Chinese goods; Chinese tourists come to sample Russian food and buy amber jewellery.

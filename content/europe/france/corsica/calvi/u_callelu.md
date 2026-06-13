@@ -6,6 +6,7 @@ longitude: 8.7585
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 A long-running fish restaurant on the Quai Landry with a covered terrace right on the harbour. Prices are firmly tourist-zone, but the bouillabaisse and the grilled red mullet are honest, and the wine list goes well beyond Corsican.

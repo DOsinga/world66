@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.532
 longitude: -44.297
+score: 8.4
 ---
 
 The Church of Our Lady of the Rosary of the Black People — *Igreja do Rosário dos Pretos* — is one of the most historically charged buildings in São Luís. Built in the 18th century by and for the enslaved African population of the city, it was the spiritual centre of the Afro-Maranhão community for generations. The church was constructed with what little resources enslaved workers could gather in their limited free time.

@@ -11,6 +11,7 @@ tags:
 - wildlife
 title: Whale Watching
 type: poi
+score: 9.1
 ---
 
 From mid-January to mid-March, Samaná Bay fills with humpback whales. They come south from the cold North Atlantic feeding grounds to breed, calve, and nurse in the warm, shallow water — and they are remarkably easy to see. A two- or three-hour boat trip out into the bay will usually deliver multiple sightings, with breaches, tail-slaps, and the occasional song-bubbles drifting up beside the hull.

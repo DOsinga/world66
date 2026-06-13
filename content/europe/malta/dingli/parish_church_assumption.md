@@ -6,6 +6,7 @@ longitude: 14.3815
 tags:
 - sight
 - historic
+score: 5.8
 ---
 
 The Parish Church of the Assumption is the principal church of Dingli village, on the small central piazza. The current building dates from 1678, rebuilt over a medieval church when Dingli was elevated to an independent parish from neighbouring Rabat. A modest single-nave Baroque structure of golden limestone, it looks out over the village's olive trees and stone houses.

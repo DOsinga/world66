@@ -14,6 +14,7 @@ story: >-
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 Edwins is a serious French restaurant on Shaker Square that doubles as a culinary school for formerly incarcerated men and women. The food is unselfconsciously classical — onion soup, escargots, steak frites, duck à l'orange — and the service is poised; the only way you would know the staff were students is the slightly extra care everyone takes.

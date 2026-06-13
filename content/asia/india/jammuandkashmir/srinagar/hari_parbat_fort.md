@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 34.0983
 longitude: 74.8017
+score: 7.9
 ---
 
 Hari Parbat Fort crowns a prominent hill on the northern edge of the old city, visible from much of Srinagar and particularly striking from the lake. The current fortification was built by Afghan governor Atta Muhammad Khan in 1808, though the hill has been a fortified position since the Mughal period. The fort walls extend down the hillside and are visible from the surrounding lanes; the complex includes some Mughal-era structures and the shrine to the goddess Sharika Devi, which is an active Hindu pilgrimage site at the base of the hill.

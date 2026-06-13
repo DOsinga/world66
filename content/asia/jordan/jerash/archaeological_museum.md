@@ -6,6 +6,7 @@ longitude: 35.8916
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Jerash Archaeological Museum is housed in a restored building within the ancient city precinct and displays finds from excavations across the site. The collection includes Roman-era coins, ceramic lamps, glass vessels, statuary fragments, and inscriptions — a cross-section of everyday and ceremonial life in ancient Gerasa.

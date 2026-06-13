@@ -14,6 +14,7 @@ story: >
   partly buried artefact emerging from the earth, the dark rust of the steel changing
   with the weather. Inside, the building spirals downward through the layers of Troy,
   with each gallery corresponding to one or more of the nine cities.
+score: 8.9
 ---
 
 The Troy Museum opened in October 2018 as part of the Turkish government's "Year of Troy," and is by some distance the finest modern museum in this part of the country. The building itself is the first thing to admire — a 13,000-square-metre cube of weathered Corten steel rising from open countryside, designed to suggest a buried artefact emerging from the soil. Inside, the visitor descends a spiralling ramp through galleries devoted to each of the major periods of the Troad region.

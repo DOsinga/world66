@@ -7,6 +7,7 @@ tags:
   - pub
 title: The Rising Sun Hotel
 type: poi
+score: 5.8
 ---
 
 A fourteenth-century thatched inn on the Lynmouth harbourfront, the Rising Sun is the most characterful eating option in the village. The menu leans toward classic British pub food elevated with local ingredients — Exmoor lamb, West Country cheeses, fish from nearby boats. The harbour-facing dining room has low beams and a fireplace; in summer the terrace outside is the obvious choice.

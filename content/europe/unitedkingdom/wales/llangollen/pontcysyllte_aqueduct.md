@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Pontcysyllte_Aqueduct
 story: >
   When the Pontcysyllte Aqueduct was proposed, canal engineers debated for years how to cross the Dee valley. The eventual solution — a cast-iron trough carried on hollow masonry piers, with no towpath parapet on the downstream side — was considered extremely bold. Thomas Telford was only 37 when he designed it. The aqueduct took ten years to build, and not a single accident was recorded during construction.
+score: 9.3
 ---
 
 The Pontcysyllte Aqueduct is one of the great engineering achievements of the British canal age, inscribed as a UNESCO World Heritage Site. The structure carries the Llangollen Canal across the valley of the River Dee in a narrow iron trough, supported on 18 elegant stone piers. At 307 metres long and 38 metres above the valley floor, crossing it on a narrowboat — with one side open to the air and nothing but the iron side of the trough between you and the drop — is a genuinely vertiginous experience.

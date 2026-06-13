@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 38.1924
 longitude: 15.5462
+score: 6.2
 ---
 
 The university botanical garden is a quiet escape from the city's traffic and noise, occupying a compact plot near the cathedral. It was founded in the 19th century and maintains a collection focused on Mediterranean flora, including species native to Sicily and southern Italy, along with succulents, subtropical plants, and a modest but well-curated collection of economically important plants. The lemon trees are particularly fine — this is lemon country, after all, and the university takes the collection seriously.

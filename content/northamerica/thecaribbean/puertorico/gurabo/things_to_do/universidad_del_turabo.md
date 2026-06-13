@@ -3,6 +3,7 @@ title: "Universidad del Turabo"
 type: poi
 latitude: 18.254
 longitude: -65.979
+score: 4.8
 ---
 
 The Universidad del Turabo campus sits just outside the town centre and gives Gurabo a slightly more dynamic character than a purely agricultural municipality would otherwise have. Students from across eastern Puerto Rico attend, and the campus is active during the academic year.

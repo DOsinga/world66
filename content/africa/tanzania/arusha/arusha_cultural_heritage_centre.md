@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Arusha_Cultural_Heritage_Centre
 story: >
   The Centre houses one of East Africa's largest collections of Maasai jewellery and beadwork, much of it sourced directly from artisans across northern Tanzania. Each colour in traditional Maasai beadwork carries meaning: red for bravery, blue for water and sky, white for purity, black for the hardships of life.
+score: 7.2
 ---
 
 The Arusha Cultural Heritage Centre, about 3km from the town centre on the Dodoma Road, functions as a high-quality craft market and cultural showcase combined. The complex is large and air-conditioned, which is a welcome relief. It carries a serious collection: Maasai jewellery and beadwork, Makonde carvings, Tinga Tinga paintings, Zanzibar chests, and an extensive range of gemstones — Tanzania produces tanzanite, ruby, and garnets in quantity, and the prices here, while not cheap, are competitive and the quality reliable.

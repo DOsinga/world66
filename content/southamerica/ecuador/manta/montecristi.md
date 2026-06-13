@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "What the world calls a Panama hat was woven in Ecuador long before the Panama Canal existed. The name stuck because Ecuadorian hats were shipped through Panama, and Theodore Roosevelt was photographed wearing one during his 1906 visit to inspect the canal works. A genuine fino-fino Montecristi can take five or six months to weave by hand from the toquilla palm, and a single hat may sell for several thousand dollars."
+score: 8.4
 ---
 
 The small inland town of Montecristi, fifteen minutes south of Manta, is where the world's finest Panama hats — properly called sombreros de paja toquilla — are woven. Toquilla-weaving has UNESCO Intangible Cultural Heritage status, and a few master weavers in Montecristi still produce the legendary superfinos that take months to make and can be folded inside a wedding ring.

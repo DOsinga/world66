@@ -6,6 +6,7 @@ longitude: -79.9389
 tags:
   - bars_and_cafes
   - bar
+score: 6.1
 ---
 
 Big Lick Brewing Company is on Salem Avenue in downtown, in a brick warehouse with a long open taproom and a large covered patio. The brewery takes its name from Roanoke's original 19th-century name (a salt lick that drew animals from the surrounding mountains) and has been one of the city's signature breweries since it opened in 2014.

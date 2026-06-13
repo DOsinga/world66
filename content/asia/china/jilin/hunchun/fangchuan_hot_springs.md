@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4000
 longitude: 130.6000
+score: 6.4
 ---
 
 The volcanic hot springs in the Fangchuan area have been developed into resort facilities that attract visitors from Yanji and further afield. The geothermal activity here is part of the same volcanic system that underlies Changbaishan and the wider Tumen River basin — a reminder that the border landscape is geologically continuous regardless of political divisions.

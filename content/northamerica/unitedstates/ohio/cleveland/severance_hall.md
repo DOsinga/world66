@@ -10,6 +10,7 @@ tags:
   - architecture
   - university_circle
 neighbourhood: University Circle
+score: 8.9
 ---
 
 Severance Hall, opened in 1931, is one of the most acoustically and architecturally distinguished concert halls in the United States, and the permanent home of the Cleveland Orchestra. The exterior is restrained Georgian; the interior is a riot of Art Deco — silver-leafed lotus motifs, an aluminium-and-bronze proscenium, sweeping curves of plaster relief.

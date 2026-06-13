@@ -7,6 +7,7 @@ tags:
   - village
 latitude: -4.5667
 longitude: 38.2167
+score: 8.3
 ---
 
 A two-hour bus ride or a two-day hike out of Lushoto sits the small ridge-top village of Mtae, perched on a finger of mountain with views down to Mkomazi National Park on one side and across to the Pare Mountains on the other. On a clear day you can see Mount Kilimanjaro from the schoolhouse.

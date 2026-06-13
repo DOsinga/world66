@@ -5,6 +5,7 @@ latitude: 27.7351
 longitude: -15.5989
 snippet: "The 1890 lighthouse that marks the southernmost point of Gran Canaria"
 tags: [things_to_do, sight, historic]
+score: 7.2
 ---
 
 The Faro de Maspalomas was built in 1890 and stands 55 metres tall at the very tip of the island, where the Atlantic currents from the north and south converge. It is still operational — the light rotates every seven and a half seconds and is visible for 22 nautical miles. The lighthouse itself is not open to visitors, but walking out to it is worth the effort: the surrounding area is one of the few places on this stretch of coast where the resort infrastructure disappears entirely.

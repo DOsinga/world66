@@ -8,6 +8,7 @@ tags:
 address: "161 Duke Street, Glasgow"
 latitude: 55.8583
 longitude: -4.2268
+score: 6.6
 ---
 
 Tennent's Wellpark Brewery has been brewing on the same site in the East End of Glasgow since 1556, making it one of the oldest continuously operating breweries in Britain. Tennent's Lager — the ubiquitous pale golden lager that accounts for much of Scottish drinking life — has been produced here since 1885. The brewery is a working industrial facility of considerable scale, and the visitor centre offers tours of the brewing process.

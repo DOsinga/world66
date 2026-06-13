@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.2177
 longitude: -82.4135
+score: 7.5
 ---
 
 The annual Vidalia Onion Festival, held each spring in late April, is the city's biggest event and the best reason to time a visit. The multi-day festival includes onion-cooking competitions, live music across several stages, arts and crafts vendors, carnival rides, and a parade.

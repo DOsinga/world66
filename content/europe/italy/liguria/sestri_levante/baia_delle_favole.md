@@ -7,6 +7,7 @@ tags:
   - beaches
 latitude: 44.2730
 longitude: 9.3970
+score: 7.2
 ---
 
 The Baia delle Favole (Bay of Fairy Tales) is the larger of Sestri Levante's two bays, facing south along the main promenade. It is longer and livelier than the Baia del Silenzio, with a sandy beach, sunbed rentals, beach bars, and the daily spectacle of Italian families at leisure. The long waterfront promenade is where everyone strolls at aperitivo hour.

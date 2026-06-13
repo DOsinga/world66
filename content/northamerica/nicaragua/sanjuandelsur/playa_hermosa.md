@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 11.1981
 longitude: -85.8700
+score: 7.5
 ---
 
 Playa Hermosa is one of the least-visited beaches in the San Juan del Sur area and one of the best for a peaceful afternoon. It sits about 13 km south of town, beyond Playa Remanso, and the journey requires either a hired 4x4 taxi or a motorbike — there is no public transport. The relative inaccessibility keeps the numbers down.

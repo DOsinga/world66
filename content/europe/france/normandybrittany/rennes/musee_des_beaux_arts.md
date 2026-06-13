@@ -11,6 +11,7 @@ story: >
   unrecognised for years in a private collection. Its true attribution was only confirmed in the
   20th century. It is now considered one of the masterpieces of 17th-century French painting and
   rarely leaves Rennes.
+score: 7.4
 ---
 
 The Musée des Beaux-Arts de Rennes holds one of the strongest regional collections in France, spread across an elegant 19th-century building on Quai Émile Zola beside the canal. The permanent collection ranges from Egyptian antiquities on the ground floor to paintings from the 14th century through to the 20th, with particular strength in Dutch and Flemish masters and a well-assembled French section that includes works by Rubens, Veronese, and Chardin.

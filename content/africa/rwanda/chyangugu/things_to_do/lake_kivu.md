@@ -10,6 +10,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Lake_Kivu
+score: 8.3
 ---
 
 Lake Kivu is one of Africa's most beautiful lakes — deep, clear, and framed by green hills that drop steeply into the water. Cyangugu sits at its southern tip and has good lake views from the town itself. The water is warm enough to swim in year-round, and the lack of the bilharzia parasite that plagues many African lakes means swimming is generally safe (check locally before diving in).

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 7.5
 ---
 
 A natural swimming pool cut into the limestone of the Delimara peninsula, about ten minutes' drive south-east of Marsaxlokk village. The water is deep, clear, and the sea has worn the rock platforms around the pool into smooth ledges that act as natural diving boards. There is no sand, no beach bar, no shade — just the rocks, the water, and (in summer) plenty of company.

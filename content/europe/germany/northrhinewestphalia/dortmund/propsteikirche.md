@@ -11,6 +11,7 @@ story: >
   destroyed in the war. The architect Gottfried Böhm designed the tower as a deliberate fragment — it
   was built to look unfinished, a permanent reminder of the destruction. Böhm later won the Pritzker
   Prize in 1986, the first German architect to do so.
+score: 6.5
 ---
 
 The Propsteikirche is the main Catholic parish church of central Dortmund, standing on Propsteistrasse just west of the Marktplatz. Its origins go back to the Dominican order, who founded a church here in the thirteenth century; the building that stands today is a postwar reconstruction in a stripped modernist style, with the deliberate visual incompleteness of its tower serving as an architectural act of remembrance.

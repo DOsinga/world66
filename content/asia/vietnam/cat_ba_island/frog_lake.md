@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, hike]
 latitude: 20.7900
 longitude: 107.0300
+score: 6.4
 ---
 
 Frog Lake is a freshwater karst lake hidden in the interior of Cat Ba Island, reached on foot from a small village called Gia Luan via a two-hour trail through national park forest. The lake itself is small and quiet — water lilies, occasional kingfishers, the occasional snake — but the walk to it is the better half of the experience, climbing through deep forest with views back over the valleys.

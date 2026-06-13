@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.4486
 longitude: -97.5161
+score: 7.4
 ---
 
 A surprising piece of Olympic-class infrastructure on the Oklahoma River south of downtown. The Boathouse District is the official training venue for USA Canoe/Kayak, with a 2,000-metre rowing course down the river itself and an artificial whitewater channel for slalom training. Visitors can go up the 24-metre adventure tower for ziplines, rope courses and the SandRidge Sky Trail — Oklahoma's only urban whitewater rafting is on the same site.

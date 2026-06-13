@@ -14,6 +14,7 @@ story: >
   It is the same reason the bazaar still functions today: it was built to last.
 sources:
   - https://en.wikipedia.org/wiki/Skopje
+score: 9.4
 ---
 
 The Čaršija, Skopje's Old Bazaar, is the largest and best-preserved Ottoman bazaar in the Balkans outside Istanbul. It dates back to the 12th century and expanded significantly under Ottoman rule from the 14th century onward. Today it is a dense quarter of stone-paved lanes lined with craft workshops, goldsmiths, tailors, tea houses, restaurants, mosques, and caravanserais — not a tourist reconstruction but a living neighbourhood where people work.

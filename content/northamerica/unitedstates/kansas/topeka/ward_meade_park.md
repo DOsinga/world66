@@ -9,6 +9,7 @@ tags:
 title: Historic Ward-Meade Park and Botanical Gardens
 type: poi
 story: "Ward-Meade Park is named for the Ward family, early settlers who homesteaded this land in the 1850s, and for Colonel Hugh Meade who later developed the property. The estate eventually passed to the city of Topeka, which has since restored the Victorian mansion and assembled a collection of pioneer-era structures on the grounds — giving the park its current character as an open-air museum of Kansas frontier life."
+score: 7.3
 ---
 
 Historic Ward-Meade Park in north Topeka combines a restored Victorian mansion, a pioneer cabin, a one-room schoolhouse, and a 19th-century train depot in a five-acre site surrounded by botanical gardens. The mansion offers period-costumed tours and seasonal Victorian-style lunches, and the assembled buildings give a sense of the range of domestic life in early Kansas.

@@ -12,6 +12,7 @@ story: >
   reach before the Vuelta de Honda rapids blocked the way. Everything — contraband silver,
   Jesuit missionaries, independence fighters, Alexander von Humboldt on his famous 1801 expedition
   — came through this stretch of river.
+score: 6.8
 ---
 
 The malecón runs along the west bank of the Magdalena through Honda's historic centre, giving a long, open view of the river that is quite different from the enclosed streets of the colonial core. The Magdalena here is wide, slow, and the colour of milky coffee. Fishermen work the banks in the early morning, and the occasional motor launch passes heading upstream or down.

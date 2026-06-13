@@ -6,6 +6,7 @@ longitude: 26.5776
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The Smotrych Canyon is the natural feature that shaped Kamianets-Podilskyi — a deep gorge cut by the Smotrych River through the local Silurian limestone, creating the rocky peninsula on which the old town stands. The canyon walls rise up to 20 metres in places, and the river makes an almost complete loop around the old town before continuing southwest. The result is that three sides of the old town are defended by sheer rock and fast-moving water rather than walls.

@@ -9,6 +9,7 @@ latitude: 38.2175
 longitude: -84.8694
 story: >
   The site takes its name from a trail worn into the earth by vast herds of buffalo crossing the Kentucky River at this point — a path so well-established that early settlers used it as a road. Distilling began here in 1775, and the distillery continued operating through Prohibition by obtaining a government licence to produce "medicinal whiskey."
+score: 8.8
 ---
 
 Buffalo Trace sits on the north bank of the Kentucky River, about a mile from downtown Frankfort, and claims to be the oldest continuously operating distillery in the United States — records show distilling on this site since 1775. The campus of brick warehouses, rickhouses, and production buildings is a National Historic Landmark, and the free guided tours take you through the full bourbon-making process, from grain milling to barrel aging in the cathedral-like rick houses.

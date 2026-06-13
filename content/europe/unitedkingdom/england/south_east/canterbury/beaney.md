@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 51.27944
 longitude: 1.07917
+score: 7.4
 ---
 
 The Beaney is a slightly absurd Victorian institution — half mock-Tudor confection, half serious museum — that sits in the middle of the High Street offering free entry to everything. Inside is a permanent collection of Anglo-Saxon and medieval finds from the area, a small but good gallery of nineteenth-century English painting, and assorted curiosities (taxidermy, a stuffed Egyptian crocodile, the city's collection of historic embroidery).

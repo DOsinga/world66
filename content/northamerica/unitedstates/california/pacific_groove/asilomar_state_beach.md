@@ -10,6 +10,7 @@ longitude: -121.9381
 story: "Asilomar comes from the Spanish 'asilo' (refuge) and 'mar' (sea). The conference grounds adjacent to the beach were designed by Julia Morgan, the first woman to be licensed as an architect in California, who also designed Hearst Castle. Her rustic Arts and Crafts buildings at Asilomar are a National Historic Landmark."
 sources:
   - https://en.wikipedia.org/wiki/Asilomar_State_Beach
+score: 8.2
 ---
 
 Asilomar State Beach stretches along the western edge of Pacific Grove, where wave-cut rock platforms and sandy pockets alternate at the base of low dunes. The water is cold — this is the open Pacific — but the beach is beautiful, and the restored dune boardwalk behind it passes through a remarkable recovery of native coastal scrub that was once a parking lot.

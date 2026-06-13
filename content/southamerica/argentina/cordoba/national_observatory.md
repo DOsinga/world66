@@ -9,6 +9,7 @@ latitude: 31.4214
 longitude: -64.1989
 neighbourhood: Nueva Córdoba
 story: "The observatory was founded in 1871 by President Sarmiento, who hired the North American astronomer Benjamin Gould to build it. Gould produced the Córdoba Durchmusterung, the first complete catalogue of the southern hemisphere's stars — 614,000 of them, recorded by hand."
+score: 7.5
 ---
 
 Argentina's first astronomical observatory, founded in 1871, sits on a small hill on the western edge of Sarmiento Park. The original Cooke refractor is still in place, alongside later instruments, and the observatory remains an active research institution attached to the university.

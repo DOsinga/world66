@@ -10,6 +10,7 @@ story: >
   During World War II, the Polish Anders' Army — soldiers who had survived Soviet gulags and prisoner camps — was mustered at Karmana in 1942 before being evacuated through Iran to fight alongside the Allies in North Africa and Italy. A Polish military cemetery survives in the town, one of the more unexpected monuments in Central Asia.
 sources:
   - https://en.wikipedia.org/wiki/Karmana
+score: 7.3
 ---
 
 Karmana, known in medieval times as Kermine, is an ancient town a few kilometres north of Navoi that was once one of the significant cities of Central Asia. The 10th-century chronicler Narshakhi described it as a birthplace of scholars and poets. Today it is a quiet settlement, but it retains several Islamic monuments of genuine importance.

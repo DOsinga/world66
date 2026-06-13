@@ -16,6 +16,7 @@ tags:
 - sight
 title: Grote Markt
 type: poi
+score: 7.2
 ---
 
 The main square of Sint-Niklaas is one of the largest in Belgium, a broad open space flanked by the 19th-century Town Hall and surrounded by cafes, restaurants, and civic buildings. The square hosts a regular market and serves as the focal point for the city's festivals and events.

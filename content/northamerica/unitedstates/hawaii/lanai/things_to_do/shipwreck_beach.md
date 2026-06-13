@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 20.9147
 longitude: -156.8639
+score: 7.2
 ---
 
 Shipwreck Beach runs for miles along Lanai's northeast coast, a windswept stretch of hard-packed sand and bleached driftwood facing the channel between Lanai and Molokai. The name comes honestly: a rusting Liberty ship from World War II sits grounded on the reef offshore, visible from the beach, its hull slowly dissolving into the channel.

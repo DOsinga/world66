@@ -8,6 +8,7 @@ tags:
 latitude: 38.8913
 longitude: -77.0260
 story: "The Hope Diamond, the most famous gemstone in the world, lives in the Janet Annenberg Hooker Hall of Geology on the second floor. It is a 45.52-carat blue diamond with a history involving Louis XIV, Marie Antoinette, and a curse that has killed or ruined most of its owners. The curse is not confirmed. The diamond is real."
+score: 8.1
 ---
 
 The National Museum of Natural History is one of the most visited museums in the world — it holds over 145 million specimens of plants, animals, fossils, rocks, meteorites, and cultural artefacts. Free admission, open daily. The building itself, a classical Beaux-Arts structure with a massive central rotunda, is as impressive as what's inside.

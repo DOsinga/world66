@@ -12,6 +12,7 @@ story: >
   the Indus and Hunza rivers. Around 900 Pakistani workers and 200 Chinese workers died 
   during construction — many in rockfalls and explosions. The highway follows a route that 
   caravans used for more than 2,000 years and is still referred to as the modern Silk Road.
+score: 8.4
 ---
 
 The Karakoram Highway (KKH) runs 1,300 km from Abbottabad in Pakistan to Kashgar in China, passing through some of the most dramatic mountain scenery on earth. From Gilgit the highway heads north through the Hunza Valley, past the flanks of Rakaposhi and Ultar Sar, to the Chinese border at the Khunjerab Pass — at 4,693 metres, one of the world's highest paved international border crossings.

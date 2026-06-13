@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.8373
 longitude: 80.6299
+score: 6.6
 ---
 
 The Ibbankatuwa Megalithic Tombs are an ancient burial site about 10 km south of Dambulla on the shores of the Ibbankatuwa Reservoir. The tombs date from the Iron Age, roughly 1000–500 BC, and consist of large granite slabs arranged over burial chambers — a funerary tradition that links this part of Sri Lanka to the megalithic cultures of South India of the same period.

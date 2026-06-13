@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.976
 longitude: -74.180
+score: 6.4
 ---
 
 Insectropolis bills itself as New Jersey's only insect museum, and it is precisely as wonderfully odd as that sounds. Located behind a pest control company on Route 9 in Toms River, the museum features live insect exhibits, preserved specimens from around the world, and interactive displays explaining the lives and habits of insects. The collection includes exotic beetles, giant walking sticks, and tarantulas.

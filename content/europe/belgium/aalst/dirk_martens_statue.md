@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dirk Martens Statue
 type: poi
+score: 4.6
 ---
 
 In the middle of the Grote Markt stands a bronze statue of Dirk Martens (c. 1446–1534), the printer credited with introducing the printing press to the Southern Netherlands. Martens printed the first book on Belgian soil in Aalst in 1473, just a couple of decades after Gutenberg.

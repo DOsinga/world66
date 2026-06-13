@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 19.2944
 longitude: -99.6562
+score: 7.2
 ---
 
 The Fine Arts Museum of Toluca occupies the former 18th-century convent of San Juan de Dios, a fine colonial building a short walk from the cathedral. The permanent collection is heavy on Mexican religious painting from the 17th and 18th centuries and on landscapes by José María Velasco, the great 19th-century painter who was born nearby in Temascalcingo.

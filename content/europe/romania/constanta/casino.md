@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 story: The casino was completed in 1910 to a design by **Daniel Renard**, a Romanian architect of Swiss origin who studied in Paris and brought a Belle Époque sensibility to the Black Sea coast. It hosted gala balls until the Second World War, was converted to a German military hospital, then a Soviet field kitchen, then a state restaurant, then nothing at all. The long-promised restoration was finally completed in late 2023, ending nearly fifty years of decay.
+score: 9.3
 ---
 
 The **Cazinoul din Constanța** is the city's emblem — a Belle Époque palace of curving glass, scallop shells and wrought iron set on the very edge of the seafront promenade, with the Black Sea breaking against the rocks below. From most angles it looks like something that has wandered out of Brighton or Ostend and got lost in the wrong climate.

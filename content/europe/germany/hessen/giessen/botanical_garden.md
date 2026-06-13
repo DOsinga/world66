@@ -14,6 +14,7 @@ story: >
   in Germany. It was established specifically to supply the university's medical
   faculty with medicinal plants — the study of botany and the study of medicine
   were inseparable in 17th-century European universities.
+score: 7.8
 ---
 
 The Botanischer Garten der Justus-Liebig-Universität Gießen is a four-hectare garden dating to 1609, maintained by the university as both a research facility and a public garden. It holds a substantial collection of plants arranged by taxonomic family, geography, and ecological habitat, including greenhouse sections for tropical and subtropical species.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Torre de Espantaperros
 type: poi
+score: 7.2
 ---
 
 The Almohad watchtower at the southern corner of the Alcazaba, built in the late 12th century and the tallest of the fortress's surviving structures. Octagonal in plan with a Mudéjar belfry added in the 16th century, it is one of the few intact Almohad military towers in Spain — a sibling of the more famous Giralda in Seville, which was raised by the same dynasty around the same time.

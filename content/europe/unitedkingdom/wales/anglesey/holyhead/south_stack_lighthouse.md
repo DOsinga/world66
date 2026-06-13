@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Reaching the lighthouse used to require a hemp rope basket slung across the chasm — passengers were hauled over, one at a time, while spray exploded a hundred feet below. The current 1828 cast-iron suspension bridge replaced the basket; the descent down the 400-step staircase still feels alarming in a westerly gale."
+score: 9.2
 ---
 
 South Stack is a tiny island off the western tip of Holy Island, reached by a steep flight of more than 400 steps and a small aluminium footbridge that replaced the cast-iron Victorian original in 1997. The white-painted lighthouse, completed in 1809 by Daniel Alexander, has guided shipping through the busy Irish Sea routes for two centuries. Inside, on guided tours, you can climb the spiral staircase to the lantern room and walk out onto the gallery for a giddy view of the cliffs.

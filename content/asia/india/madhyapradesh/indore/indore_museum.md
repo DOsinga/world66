@@ -9,6 +9,7 @@ longitude: 75.8793
 snippet: "Archaeological museum with Parmar dynasty sculptures and Holkar-era artifacts"
 sources:
   - https://en.wikipedia.org/wiki/Indore_Museum
+score: 7.4
 ---
 
 The Indore Museum, also known as the Central Museum, is the main archaeological and historical museum of the city, housed in a building near Nehru Stadium. Its collection focuses on the medieval period of the Malwa plateau, with a strong section on the Parmar dynasty (10th to 13th centuries) whose capitals were at Ujjain and Dhar. The stone sculptures — particularly the Shaiva and Vaishnava figures recovered from temple sites across the region — are impressive, and many are in excellent condition.

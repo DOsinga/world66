@@ -9,6 +9,7 @@ tags:
 - waikiki
 title: Waikiki Aquarium
 type: poi
+score: 6.9
 ---
 
 The Waikiki Aquarium is managed by the University of Hawaii and focuses specifically on Hawaiian and Pacific marine environments. It is modest in scale compared to major mainland aquariums but stronger in relevant content — the coral reef exhibits recreate the actual ecosystem of the lagoon just outside, and the Hawaiian monk seal pool allows close viewing of one of the world's most endangered marine mammals (around 1,400 remain in the wild).

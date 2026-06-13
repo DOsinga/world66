@@ -8,6 +8,7 @@ tags:
 latitude: 48.1261111111
 longitude: 8.2275
 story: "The Triberg Waterfalls drop a total of 163 metres over seven cascades, making them Germany's highest waterfall series — though the claim requires some definitional flexibility, since each individual cascade is modest compared to the total. Gutach Stream has been powering mills and saw works in the valley since the Middle Ages; the waterfalls only became a tourist attraction in the 19th century when the Black Forest became fashionable with Romantic-era travellers."
+score: 7.6
 ---
 
 The Triberg Waterfalls are Germany's highest waterfalls, with the Gutach stream dropping 163 metres in total through a series of seven cascades in the central Black Forest, about 6 kilometres east of Schonwald. The falls are located within a wooded gorge and accessed via a network of paths that climb alongside the water, allowing you to view the cascades from multiple angles.

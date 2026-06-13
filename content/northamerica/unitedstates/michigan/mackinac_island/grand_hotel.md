@@ -13,6 +13,7 @@ story: >
   and every October fans arrive on the island dressed in Edwardian costume for a
   "Somewhere in Time Weekend." The tradition has been running for over thirty
   years.
+score: 8.3
 ---
 
 The Grand Hotel opened in 1887, funded by railroad and steamship companies who needed a destination grand enough to justify the journey to this remote island. Its front porch stretches 660 feet — claimed to be the longest in the world — and overlooks the Straits of Mackinac in the direction of the mainland. The hotel is seasonal, open from May to October, and has never allowed motor vehicles on the approach road; guests arrive by horse-drawn carriage.

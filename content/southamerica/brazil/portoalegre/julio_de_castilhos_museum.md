@@ -8,6 +8,7 @@ tags:
 story: The museum is named for Júlio de Castilhos, the positivist politician who dominated Rio Grande do Sul politics in the 1890s and whose austere, authoritarian brand of republicanism shaped the state for generations. His portrait stares down from several walls. The museum's collection was partly assembled from his personal belongings, which gives it an oddly intimate feeling for a state institution.
 title: Júlio de Castilhos Museum
 type: poi
+score: 7.3
 ---
 
 The Museu Júlio de Castilhos is Rio Grande do Sul's official state history museum, housed in a handsome late 19th-century mansion a short walk from Praça da Matriz. The collection covers the full sweep of the state's history: indigenous artefacts from before European contact, colonial-era documents and religious objects, weapons and equipment from the Farroupilha revolution of 1835, and an extensive collection of items relating to gaúcho material culture — bombachas (the traditional wide-legged trousers), spurs, saddles, silver mate equipment, and the working tools of the pampas cattle culture.

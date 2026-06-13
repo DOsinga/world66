@@ -12,6 +12,7 @@ tags:
 - djurgarden
 title: Rosendal Castle
 type: poi
+score: 7.3
 ---
 
 Rosendal Palace is a surprisingly intimate royal residence on Djurgården, built in the 1820s for King Karl XIV Johan. Unlike the grand Kungliga Slottet in Gamla Stan, Rosendal is modest in scale — more country retreat than seat of power. The interiors are the real draw: original Swedish Empire furnishings, painted trompe-l'oeil walls, and a remarkable collection of early 19th-century decorative arts, all preserved almost exactly as the king left them.

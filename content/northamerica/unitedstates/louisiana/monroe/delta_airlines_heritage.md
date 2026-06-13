@@ -10,6 +10,7 @@ longitude: -92.038
 address: "Monroe Regional Airport, Monroe, LA"
 snippet: "Where Delta Air Lines took its first scheduled passenger flight in 1929"
 story: "Delta started as a crop-dusting company called Huff Daland Dusters in 1924, spraying cotton fields to kill boll weevils. It pivoted to passenger aviation in 1929 and launched the first scheduled passenger service from Monroe to Dallas. The route carried 5,782 passengers in its first year — a number a single modern Delta flight exceeds in a few days."
+score: 4.8
 ---
 
 Monroe holds a claim that few cities can match: it is the birthplace of Delta Air Lines, now one of the largest airlines in the world. The company began as a crop-dusting operation, Huff Daland Dusters, before C.E. Wooldridge renamed it Delta Air Service and launched scheduled passenger flights from Monroe on June 17, 1929.

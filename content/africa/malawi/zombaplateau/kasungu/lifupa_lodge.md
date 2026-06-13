@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -12.9333
 longitude: 33.1333
+score: 5.5
 ---
 
 Lifupa Lodge sits inside Kasungu National Park, overlooking the Lifupa Dam — a small reservoir built to attract game. From the deck you can watch elephant, buffalo, and antelope come down to drink. The lodge has timber chalets, a campsite for self-driving travellers, and a kitchen serving simple Malawian and Western food.

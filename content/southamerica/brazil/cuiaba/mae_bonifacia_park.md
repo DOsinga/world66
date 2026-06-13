@@ -10,6 +10,7 @@ story: >
   The park is named for Mãe Bonifácia, a formerly enslaved woman who became one of Cuiabá's most celebrated folk healers in the 19th century. She was said to know the medicinal properties of the cerrado plants that grow in abundance in the area, and the naming of an urban nature reserve for her is a rare acknowledgement of the African and African-Brazilian contribution to the city's history.
 sources:
   - https://en.wikipedia.org/wiki/M%C3%A3e_Bonif%C3%A1cia_State_Park
+score: 7.8
 ---
 
 The Mãe Bonifácia State Park is a 77-hectare cerrado forest reserve within the city limits — one of the larger urban nature parks in Brazil. The cerrado (the vast tropical savanna that covers much of Brazil's interior) is a globally significant biome that has been largely destroyed by agriculture; this park is one of the few remaining cerrado fragments in the Cuiabá metropolitan area, and the diversity of plants within it is impressive.

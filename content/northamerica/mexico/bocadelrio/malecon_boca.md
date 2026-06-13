@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.1058
 longitude: -96.1052
+score: 6.9
 ---
 
 The seafront promenade that runs along the mouth of the Jamapa River and out toward the open Gulf. On weekdays it is a quiet place to walk, with the river on one side and a strip of shaded benches on the other. On weekends — and especially Sunday afternoons — it becomes one of the most lively gathering places in the metropolitan area, packed with families, food stalls, musicians, and pop-up artisan markets.

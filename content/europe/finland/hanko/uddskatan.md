@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.8089
 longitude: 22.8908
+score: 7.9
 ---
 
 Uddskatan is the southwestern tip of the Hanko peninsula and one of Finland's premier spring and autumn bird-migration sites — a low headland of windswept pine, juniper, and granite shoreline that funnels passerines and raptors as they cross the Gulf of Finland. The Hanko Bird Observatory, founded in 1979, has its main ringing station here.

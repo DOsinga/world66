@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.9058
 longitude: -90.1833
+score: 7.3
 ---
 
 The McPike Mansion, also known as Mount Lookout, is a substantial Italianate-style Victorian house built in 1869 by Henry Guest McPike, a prominent local businessman and horticulturist. It stands on a bluff above Alton with commanding views of the surrounding area and is one of the most impressive pieces of 19th-century domestic architecture in the region.

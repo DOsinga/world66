@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 4.2500
 longitude: 15.7500
+score: 5.9
 ---
 
 The Mambéré River flows through the prefecture that takes its name from it, passing through forested terrain west and south of Berberati before joining the Kadéï River near the Cameroon border. The river is the defining natural feature of the region and offers a different perspective on the landscape from the city.

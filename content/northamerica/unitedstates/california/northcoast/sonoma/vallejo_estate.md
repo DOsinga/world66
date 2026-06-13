@@ -13,6 +13,7 @@ story: >
   to squatters and legal challenges following California's entry into the union. Despite having welcomed
   American annexation, Vallejo spent the rest of his life fighting in courts to hold onto what remained
   of a once-enormous land grant.
+score: 7.5
 ---
 
 General Mariano Vallejo's estate sits a short walk northwest of the plaza — the home he built after the Mexican period ended and his vast rancho empire began to dissolve. The Gothic Revival house (1852) is handsome and well-furnished, with a separate Swiss Chalet building on the grounds that served as a storehouse for Vallejo's wine.

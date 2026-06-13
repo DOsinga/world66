@@ -7,6 +7,7 @@ snippet: One of the city's best modern bistros, a Michelin Bib Gourmand
 tags:
 - eating_out
 - restaurant
+score: 6.1
 ---
 
 Le Bouchon et l'Assiette has held a Bib Gourmand for years and is among the most reliable contemporary tables in Nîmes. The cooking takes Languedoc and Provençal ingredients — lamb from the Cévennes, Camargue rice, garrigue herbs — in a refined modern direction. The dining room is small, simple, and unfussy.

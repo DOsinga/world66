@@ -13,6 +13,7 @@ story: >
   that when they arrived at Arles the gravediggers would be paid. By the Middle
   Ages the site had become a pilgrimage destination, filled with the tombs of
   bishops and crusaders. Van Gogh and Gauguin painted it together in 1888.
+score: 8.9
 ---
 
 The Alyscamps — from the Latin Elysii Campi, the Elysian Fields — is one of the most atmospheric sites in Arles. A long avenue of Roman and early Christian sarcophagi leads through poplar trees to the ruined church of Saint-Honorat. The remains are fragmentary; many of the best sarcophagi were given as diplomatic gifts in the 16th century and ended up in Paris, but what remains is still striking.

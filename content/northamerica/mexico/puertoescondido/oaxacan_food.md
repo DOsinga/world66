@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 15.8650
 longitude: -97.0730
+score: 7.2
 ---
 
 Puerto Escondido sits in the state of Oaxaca, and the cooking reflects the richness of the Oaxacan culinary tradition. Tlayudas — large, crunchy tortillas topped with black beans, Oaxacan cheese, and your choice of meat or vegetables — are the most common local dish. Mole negro, the complex dark sauce made with chocolate and dozens of other ingredients, appears on menus across town. Chapulines (toasted grasshoppers seasoned with lime and chile) are available at the market.

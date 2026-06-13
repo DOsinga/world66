@@ -8,6 +8,7 @@ latitude: 50.3471608
 longitude: -3.5342279
 sources:
   - https://en.wikipedia.org/wiki/Coleton_Fishacre
+score: 8.3
 ---
 
 Coleton Fishacre is an Arts and Crafts house and garden on the cliffs between Dartmouth and Brixham, built for the D'Oyly Carte family in the 1920s. Richard D'Oyly Carte was the theatrical impresario who commissioned Gilbert and Sullivan's operas and built the Savoy Theatre; his son Rupert built this house as a seaside retreat. The National Trust now manages it.

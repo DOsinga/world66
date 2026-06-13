@@ -8,6 +8,7 @@ latitude: -31.4528
 longitude: -57.9083
 sources:
   - https://en.wikipedia.org/wiki/Termas_del_Daym%C3%A1n
+score: 8.5
 ---
 
 The Termas del Daymán are the most popular hot springs complex near Salto, located 10 kilometres south of the city on Route 3. The springs are thermal and mineral-rich, pumped from underground aquifers at temperatures of around 37–42°C into a series of public and private pools. The water is slightly sulphurous but the Uruguayans swear by its restorative properties, and on weekends the complex fills with families from Salto and across the country.

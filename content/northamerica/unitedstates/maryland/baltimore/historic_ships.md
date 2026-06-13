@@ -14,6 +14,7 @@ story: >
   the Civil War she was stationed in the Mediterranean to intercept Confederate commerce
   raiders and prevent them from reaching European ports. She never fought a battle but
   made herself useful anyway.
+score: 7.7
 ---
 
 Historic Ships in Baltimore is a collection of warships moored in the Inner Harbor, including the USS Constellation (an 1854 sloop-of-war), the USS Torsk (a Second World War submarine), the USCGC Taney (a Coast Guard cutter and the last ship afloat that was present at Pearl Harbor on December 7, 1941), and the Chesapeake lightship. A single ticket covers all vessels.

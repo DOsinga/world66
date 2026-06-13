@@ -8,6 +8,7 @@ tags:
 latitude: -34.1837
 longitude: 142.1614
 snippet: Mildura's most celebrated restaurant, in the Grand Hotel's cellars
+score: 8.0
 ---
 
 Stefano's is the restaurant that put Mildura on the Australian food map. Chef Stefano de Pieri has been cooking here since the early 1990s, serving northern Italian food built around the region's own produce — Murray cod, local olive oil, the fruit and vegetables grown on the irrigation farms outside town. The setting is the vaulted cellars of the Mildura Grand Hotel, which adds atmosphere to go with the food.

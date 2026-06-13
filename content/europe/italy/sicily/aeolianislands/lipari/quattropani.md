@@ -6,6 +6,7 @@ longitude: 14.9239
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Quattropani is a small hamlet on the north-west of the island, reached by the panoramic road that loops around Lipari. The interest is partly the dramatic cliff scenery — exposed kaolin clay quarries that flash white and orange — and partly the small church of the Madonna della Catena perched on a rise above the water.

@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 41.6041
 longitude: -93.6328
+score: 5.8
 ---
 
 Mars Cafe sits on Drake University's campus edge and is the city's best-known independent coffee shop — a community gathering point as much as a place to drink coffee. The beans come from Iowa roasters; the espresso is reliably good and the cold brew has a small reputation.

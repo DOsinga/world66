@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Twenty Rodin bronzes on an open lawn, free and always open"
+score: 8.4
 ---
 
 A small lawn outside the Cantor Arts Center holding the largest collection of Rodin bronzes outside

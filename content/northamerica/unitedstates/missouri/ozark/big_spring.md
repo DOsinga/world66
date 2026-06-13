@@ -12,6 +12,7 @@ story: >
   works its way through limestone caves for weeks before erupting here. Dye
   traces in the 1970s confirmed the connection — water dropped into sinkholes
   near Mountain View showed up at Big Spring nine days later.
+score: 8.6
 ---
 
 Big Spring near Van Buren is the largest spring in Missouri and one of the largest single-outlet springs in the United States, with an average flow of 286 million gallons a day. The water boils up out of a rock face at the base of a dolomite bluff, fills a pool that is an unnatural opaque blue, and runs down a short channel into the Current River.

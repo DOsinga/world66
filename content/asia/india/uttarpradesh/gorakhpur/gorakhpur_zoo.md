@@ -9,6 +9,7 @@ latitude: 26.7192
 longitude: 83.4084
 sources:
   - https://en.wikipedia.org/wiki/Gorakhpur_Zoo
+score: 5.2
 ---
 
 The Shaheed Ashfaq Ullah Khan Zoological Park — almost always called simply Gorakhpur Zoo — is a mid-sized zoo on the southern edge of the city. The collection includes tigers, leopards, deer, various bird species, and reptiles, spread across a reasonably spacious site that has been gradually upgraded over the years.

@@ -13,6 +13,7 @@ story: >
   through the progressive abstraction of his Broadway Boogie-Woogie period. The
   museum's own building, designed by H.P. Berlage and completed in 1935, is itself
   considered one of the finest examples of Amsterdam School architecture.
+score: 9.0
 ---
 
 The Kunstmuseum Den Haag — formerly the Gemeentemuseum — is one of the best art museums in the Netherlands, with a collection that runs from medieval applied art through Impressionism to the present day. The Mondrian collection is exceptional and justifies the trip on its own; nowhere else can you trace his development from naturalistic painting to pure geometric abstraction so completely.

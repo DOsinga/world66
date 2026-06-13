@@ -6,6 +6,7 @@ longitude: 7.3530
 tags:
 - things_to_do
 - sight
+score: 4.8
 ---
 
 Twelve metres high, a Bartholdi-licensed copy of the Statue of Liberty stands on a roundabout at the northern entrance to Colmar, marking the 100th anniversary of the sculptor's death in 2004. It is a peculiar sight in approach traffic — a small green Liberty rising above the suburbs and rapeseed fields — but it is a sincere local tribute and a quick stop for photos.

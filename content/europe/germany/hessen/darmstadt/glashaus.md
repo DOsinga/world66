@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.8730
 longitude: 8.6490
+score: 5.9
 ---
 
 Glashütte is a popular modern bistro near the Luisenplatz, with a menu that rotates with the seasons and leans toward creative European cooking — market vegetables, good regional meat, and a short but well-chosen wine list. The interior is bright and lively, with exposed brick and large windows, and the crowd is predominantly university-educated locals in their 30s and 40s. Reservations are advisable for dinner on weekends.

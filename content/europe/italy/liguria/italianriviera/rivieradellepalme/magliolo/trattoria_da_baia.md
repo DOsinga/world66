@@ -6,6 +6,7 @@ longitude: 8.2500
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A village trattoria a short walk from the church, with a few tables on the road and a kitchen built around what comes out of the local gardens and the chestnut forests up the valley. Standards include trofie al pesto (made with the right small-leaf basil), coniglio alla ligure (rabbit slow-cooked with olives and rosemary), and a chestnut-flour tart.

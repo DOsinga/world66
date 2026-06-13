@@ -11,6 +11,7 @@ tags:
 - historic_site
 title: Peacock Window
 type: poi
+score: 7.0
 ---
 
 The most celebrated of Bhaktapur's carved wooden windows, tucked away down a narrow alley off Durbar Square. It is a second-floor window on an ordinary building, but the intricacy of the carving makes it one of Nepal's most famous architectural details. Across the alley, a master woodcarver specialises in replicas and variations — he will let you up to his second-floor window for a closer look and photographs.

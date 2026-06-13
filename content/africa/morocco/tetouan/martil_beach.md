@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6175
 longitude: -5.2747
+score: 5.8
 ---
 
 Tetouan's beach town, eight kilometres east on the Mediterranean. Martil is busy and a little tatty in high summer, when Moroccan families decamp here from inland cities, but the long flat sand, warm shallow water, and seafront promenade with grilled-fish restaurants make for a pleasant afternoon escape.

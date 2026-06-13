@@ -8,6 +8,7 @@ latitude: 21.2000
 longitude: 101.3000
 story: >
   Nam Ha was one of the first areas in the world where "ecotourism" was applied as a deliberate conservation tool: the theory being that if local communities earned income from guiding trekkers through the forest, they would have an economic reason to protect it rather than clear it. The UNESCO-supported project began in the 1990s and has become a case study in development circles. Whether it works is contested — forest loss has continued in the region — but the model of community-benefit trekking it established has been replicated across Southeast Asia.
+score: 8.9
 ---
 
 The Nam Ha National Protected Area covers the mountains north and west of Luang Namtha, stretching to the borders with China and Myanmar. It is an ASEAN Heritage Park of international biodiversity significance, home to tigers, elephants, black bears, clouded leopards, and an enormous variety of bird life — though the large mammals are rarely seen. The more visible diversity is cultural: dozens of ethnic communities live within or on the fringes of the park, each with distinct traditions, architecture, and dress.

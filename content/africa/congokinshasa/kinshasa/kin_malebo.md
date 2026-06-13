@@ -7,6 +7,7 @@ tags:
 latitude: -4.301
 longitude: 15.296
 snippet: A riverside restaurant in Gombe with views across the Congo to Brazzaville and a menu built around river fish
+score: 6.8
 ---
 
 Kin Malebo sits near the Gombe waterfront with views across the Congo River toward Brazzaville, and its menu reflects its position: the focus is on river fish, with capitaine and tilapia prepared grilled or in sauce alongside the Congolese staples of plantain, fufu, and pondu (cassava leaves). On a clear evening the light on the river turns copper and the air off the water provides some relief from the city's heat.

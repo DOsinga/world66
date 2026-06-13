@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 17.1175
 longitude: -61.8456
+score: 7.3
 ---
 
 The public market on Market Street is the beating heart of everyday St. John's. Friday and Saturday mornings are the busiest, when farmers from across the island bring in tropical fruit, vegetables, and spices alongside vendors selling saltfish, provisions, and local snacks. It is loud, colourful, and entirely unglamorous — which is exactly the point.

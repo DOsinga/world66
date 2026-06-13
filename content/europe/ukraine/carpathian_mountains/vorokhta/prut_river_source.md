@@ -15,6 +15,7 @@ tags:
 - hiking
 title: Source of the Prut River
 type: poi
+score: 6.2
 ---
 
 The Prut River begins on the high slopes of the Chornohora massif, not far below the Hoverla trailhead. The source area is reached on the same approach route used for climbing Ukraine's highest peak — walkers heading for Hoverla will pass close to the spring that marks the river's origin. The spot itself is modest: a boggy hollow in the alpine meadow where clear water emerges from the ground, cold even in August.

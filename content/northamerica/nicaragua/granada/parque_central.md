@@ -9,6 +9,7 @@ latitude: 11.9299
 longitude: -85.9540
 story: >
   The park's central gazebo and iron benches were imported from France in the early 20th century, a common status symbol among Latin American cities flush with export revenue. Granada's prosperity came from coffee and cattle, and the elegant park was the civic face that the merchant class wanted to present to the world.
+score: 7.5
 ---
 
 Parque Central is the hub of Granada life — horse-drawn carriages circle it, street vendors sell vigorón and tropical fruit from banana-leaf wraps, and locals gather on the benches at all hours. The park is flanked by the cathedral on one side and the old town hall on another, with colonial buildings in various states of restoration completing the square.

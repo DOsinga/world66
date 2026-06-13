@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.6848
 longitude: 16.5855
+score: 5.8
 ---
 
 A well-regarded restaurant on Fő Tér serving traditional Hungarian cooking with a focus on local Sopron wines. The menu covers the classics — gulyás, pörkölt, stuffed peppers — alongside roast meats and freshwater fish. The quality is reliable and the location, in a vaulted medieval building on the main square, is excellent.

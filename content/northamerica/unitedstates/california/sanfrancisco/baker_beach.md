@@ -10,6 +10,7 @@ tags:
 - park
 title: Baker Beach
 type: poi
+score: 8.0
 ---
 
 Baker Beach sits in the Presidio just south of the Golden Gate Bridge, offering one of the most dramatic beach settings in the city. The views of the bridge from the sand are unforgettable. Picnic tables and barbecue pits near the north parking lot make it popular with locals on weekends.

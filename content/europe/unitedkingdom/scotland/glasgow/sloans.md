@@ -8,6 +8,7 @@ tags:
 address: "108 Argyle Street, Glasgow"
 latitude: 55.8603
 longitude: -4.2527
+score: 7.3
 ---
 
 Sloan's in the Argyle Arcade is Glasgow's oldest bar and restaurant, trading in various forms since 1797 in a location that was once the main covered shopping thoroughfare of the city. The building is splendid — ornate Victorian plasterwork, a grand ballroom upstairs, and a warren of rooms and bars below that still feel genuinely old rather than refurbished to look old.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -19.9727
 longitude: 23.4312
+score: 6.4
 ---
 
 Maun Airport is worth mentioning because it is unlike almost any other airport in the world. The main terminal handles commercial flights from Gaborone, Johannesburg, and Windhoek — but the real spectacle is the general aviation apron alongside it, which on any morning is thick with Cessna Caravans, Pilatus Porters, and assorted small turboprops being loaded for runs to bush airstrips across the Okavango and Chobe.

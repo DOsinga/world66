@@ -15,6 +15,7 @@ story: >
   fact he had ever encountered — a church built from the timber of one redwood tree. He was
   buried back in his hometown, where the strangest building in town was the result of his
   own collecting instinct turned outward.
+score: 4.6
 ---
 
 Robert Ripley, creator of the Believe It or Not syndicated cartoon and museum empire, was born in Santa Rosa in 1890 and is buried in the Oddfellows Cemetery on College Avenue. The grave is straightforward — a flat stone in a quiet Victorian-era cemetery — but the connection between the man and the city is worth knowing. A few blocks away, the Church of One Tree (the chapel built from a single redwood) now houses the Ripley's Believe It or Not Museum, a full-circle story that Ripley himself would have appreciated.

@@ -9,6 +9,7 @@ latitude: 43.5549
 longitude: -5.9241
 sources:
   - https://en.wikipedia.org/wiki/Balsera_Palace
+score: 6.8
 ---
 
 The Balsera Palace is one of the finest aristocratic buildings in the Avilés old town, a late Renaissance structure with an impressive stone facade and heraldic decoration typical of Asturian noble architecture. It dates from the seventeenth century and faces the narrow streets of the historic centre, where a remarkable concentration of medieval and Renaissance palaces survived the industrial period unscathed.

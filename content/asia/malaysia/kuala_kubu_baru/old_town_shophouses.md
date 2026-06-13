@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 3.5533
 longitude: 101.6395
+score: 6.4
 ---
 
 The old town centre of KKB has a row of early 20th-century shophouses in the Chinese colonial style typical of Malaysian market towns — two-storey buildings with covered walkways, decorative facades, and ground-floor businesses that have sometimes been in the same families for generations. There are coffee shops, hardware stores, and a morning market that's liveliest before 9am.

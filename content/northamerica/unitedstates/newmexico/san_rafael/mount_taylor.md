@@ -13,6 +13,7 @@ story: >
   one of four peaks that bound traditional Navajo territory. To the Acoma it is
   **Kaweshtima**, "Place of Snow." The summit is a destination for prayer and
   ceremony as much as for hikers.
+score: 8.5
 ---
 
 The 11,301-foot summit dominates every horizon in this corner of New Mexico — visible from Acoma, from Albuquerque on a clear day, from far down NM-53. It is a stratovolcano that last erupted around 1.5 million years ago, eroded into a graceful set of ridges and a broad caldera basin on the eastern side.

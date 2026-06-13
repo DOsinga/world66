@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sugarloaf Mountain
 type: poi
+score: 8.4
 ---
 
 Sugarloaf is a glacial hill north of Marquette with a short, steep trail to a

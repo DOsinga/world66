@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 51.249
 longitude: 22.568
+score: 8.5
 ---
 
 Lublin's stare miasto (old town) sits on a low hill, compact and almost entirely pedestrianised. The main market square, Rynek, is lined with colourful Renaissance and Baroque townhouses — many rebuilt after wartime damage, but authentically styled. Street cafes occupy the square from spring through autumn.

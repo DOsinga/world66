@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kirkstall Abbey
 type: poi
+score: 9.1
 ---
 
 One of the best-preserved Cistercian monasteries in Britain, Kirkstall Abbey was founded in 1152 and stands remarkably intact for a ruin. The nave, tower, and chapter house are all still recognisable, set in parkland along the River Aire about three miles northwest of the city centre. Entry is free. The adjacent Abbey House Museum recreates Victorian Leeds street scenes.

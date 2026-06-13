@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.5263
 longitude: 35.1080
+score: 7.3
 ---
 
 Tel Rumeida is a low hill on the western edge of Hebron's old city that has been continuously occupied since the Bronze Age. Excavations have revealed remains spanning 4,000 years: Canaanite walls, Iron Age levels, and material from the period of the biblical Kingdom of Judah. This is almost certainly the site of ancient Hebron — the city that, according to the Book of Genesis, Abraham chose as his base and where he negotiated the purchase of the Cave of Machpelah.

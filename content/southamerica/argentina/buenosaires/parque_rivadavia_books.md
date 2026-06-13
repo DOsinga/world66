@@ -8,6 +8,7 @@ tags:
 latitude: -34.6213
 longitude: -58.4288
 address: Avenida Rivadavia 4900, Caballito
+score: 6.5
 ---
 
 A permanent open-air market in the Caballito neighbourhood where dozens of dealers sell second-hand books, comics, records, and magazines from tables under the shade of large plane trees. The market has been running since the 1950s and occupies a pleasant park at the junction of Rivadavia and Acoyte — about 30 minutes from the centre by subway (Line A to Caballito station).

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Three-property Sierra Nevada-themed casino complex at the heart of downtown Reno"
+score: 6.6
 ---
 
 The Eldorado, Silver Legacy, and Circus Circus together form **The Row** — a three-property casino complex connected by skybridges and covering several blocks of downtown Reno. The Eldorado is the original, opened in 1973 by the Carano family and best known for a serious wine and food programme that runs counter to the cheap-buffet stereotype of Nevada casino dining.

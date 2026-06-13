@@ -7,6 +7,7 @@ snippet: "Six-hundred-seat performing arts hall on the Davidson College campus"
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 Inside the Knobloch Campus Center, the 620-seat Duke Family Performance Hall hosts the college's serious concert and theatre programme: classical recitals, jazz, contemporary dance, touring theatre, lectures by visiting writers. The acoustics are excellent and the room is intimate enough that there is no bad seat.

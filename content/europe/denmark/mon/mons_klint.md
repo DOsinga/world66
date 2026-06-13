@@ -13,6 +13,7 @@ story: >
   the dramatic wall you walk along today. The chalk itself is the compressed
   remains of microscopic plankton from a tropical sea that covered Denmark
   70 million years ago — every white face you see is essentially a fossil.
+score: 9.5
 ---
 
 Møns Klint is the main reason most visitors come to the island and rightly so. A six-kilometre stretch of brilliant white chalk cliffs rises 128 metres straight out of the Baltic, fringed by beech woods that turn translucent green in spring. The drop is dramatic and the contrast — white chalk, turquoise water, dark green forest — is genuinely beautiful. The cliffs are slowly collapsing into the sea: large chunks fall every few years, so the path along the top is rerouted regularly.

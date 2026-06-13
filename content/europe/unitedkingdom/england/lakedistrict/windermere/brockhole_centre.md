@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "National park visitor centre with lakeside gardens, adventure play and a treetop walk"
+score: 6.2
 ---
 
 Brockhole is the National Park's main visitor centre, set in a beautifully positioned Arts and Crafts house and 30 acres of terraced gardens directly on the western shore of Windermere. The Victorian gardens — laid out by Thomas Mawson in the 1890s — slope down to a small private jetty and lawn, with views across to the Langdale Pikes.

@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 51.6701
 longitude: -1.2793
+score: 6.3
 ---
 
 The Cosener's House sits on the north bank of the Thames, separated from the town by the Abbey mill stream and very much within the original grounds of Abingdon Abbey. The "cosener" was the medieval abbey's kitchener, responsible for buying and preparing food for the monks — the building survived because it was sold off privately at the Dissolution.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Penyengat_Island
 story: >
   The Grand Mosque of the Sultan of Riau, built in the 1840s, is said to have been constructed using egg whites mixed into the mortar. While this legend is beloved locally, it reflects something real: the builders used whatever binding agents they had, and the walls have stood for nearly two centuries.
+score: 8.8
 ---
 
 Penyengat Island (Pulau Penyengat) sits just a few minutes by sampan from the Tanjung Pinang waterfront — the crossing costs almost nothing — and rewards the trip with a compact, walkable island packed with the remnants of the Riau-Lingga Sultanate that once controlled trade across this part of the archipelago.

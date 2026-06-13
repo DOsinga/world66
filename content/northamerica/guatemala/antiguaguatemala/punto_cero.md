@@ -13,6 +13,7 @@ tags:
 - nightlife_and_entertainment
 title: Punto Cero
 type: poi
+score: 5.5
 ---
 
 A rooftop bar and restaurant one block west of Central Park. The main draw is the top terrace, which gives a 360-degree view over Antigua's rooftops and the surrounding volcanoes. House drinks and beers are cheap, and the wi-fi is reliably fast — popular with travellers who want to linger over a beer and a laptop.

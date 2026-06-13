@@ -1,6 +1,7 @@
 ---
 title: Ksour Landscape
 type: poi
+score: 7.5
 ---
 
 Ghomrassen is one of several towns in the Tataouine region with surviving ksar architecture, and the surrounding landscape contains numerous smaller ksour visible from the road or reachable on foot. The eroded limestone gorges, rocky hillsides, and Berber hilltop settlements give the whole region a distinctive character that sets it apart from the sandy desert further south or the coastal lowlands to the north.

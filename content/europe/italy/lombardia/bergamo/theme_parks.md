@@ -10,6 +10,7 @@ tags:
 title: Theme Parks
 type: poi
 url: https://www.gardaland.it
+score: 4.9
 ---
 
 The area around Lake Garda, about 60km from Bergamo, has the highest concentration of theme parks in Italy — all reachable in under an hour.

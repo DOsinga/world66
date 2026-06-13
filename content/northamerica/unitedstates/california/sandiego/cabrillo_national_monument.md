@@ -9,6 +9,7 @@ tags:
 title: Cabrillo National Monument
 type: poi
 url: https://www.nps.gov/cabr
+score: 8.8
 ---
 
 At the southern tip of Point Loma, marking the spot where the Portuguese explorer Juan Rodríguez Cabrillo became the first European to set foot on what is now the West Coast of the United States, in 1542. The view back across San Diego Bay is the best in the city — downtown, the Coronado Bay Bridge, the harbour and Mexico all visible in one sweep. The Old Point Loma Lighthouse and the tidepools on the ocean side are worth the short walks.

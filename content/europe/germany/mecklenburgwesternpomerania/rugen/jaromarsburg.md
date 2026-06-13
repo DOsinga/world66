@@ -6,6 +6,7 @@ longitude: 13.4369
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Jaromarsburg was the religious centre of the Rani, a West Slavic tribe that controlled Rügen and large parts of the southern Baltic coast through the early Middle Ages. The temple here, dedicated to the four-headed god Svantevit, was the most important pagan shrine in the western Slavic world. The fort fell to a Danish crusade in 1168, and with it, the last organised pagan worship on the Baltic.

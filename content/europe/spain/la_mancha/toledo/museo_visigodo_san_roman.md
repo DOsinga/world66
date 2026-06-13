@@ -8,6 +8,7 @@ latitude: 39.8613
 longitude: -4.0258
 story: >
   Toledo was the capital of the Visigothic Kingdom of Hispania from the mid-6th century until the Arab conquest of 711. The Visigoths held 18 church councils here — essentially the legislative assemblies of the early medieval Iberian peninsula. The church of San Román, which now houses this museum, was built on a site the Visigoths used, and its Mudéjar tower is one of the most photogenic in the old city.
+score: 7.7
 ---
 
 The Museo de los Concilios y la Cultura Visigoda occupies the beautiful Mudéjar church of San Román, one of Toledo's finest medieval buildings. The museum traces the history of the Visigoths — the Germanic people who ruled Iberia between the fall of Rome and the Arab conquest — through stone carvings, decorative bronzes, jewelry, manuscripts, and architectural fragments.

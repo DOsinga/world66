@@ -9,6 +9,7 @@ latitude: 37.4726
 longitude: -5.6384
 sources:
   - https://en.wikipedia.org/wiki/Carmona,_Spain
+score: 7.8
 ---
 
 The Prioral Church of Santa María de la Asunción sits at the heart of the old town, built on the site of the main mosque after the Christian reconquest of 1247. The cloister, which predates the church, was constructed around the ablutions courtyard of the original mosque — you can still see the Moorish horseshoe arches around its perimeter. A Visigothic calendar carved in stone is embedded into one of the walls and is one of the more unusual objects in the building.

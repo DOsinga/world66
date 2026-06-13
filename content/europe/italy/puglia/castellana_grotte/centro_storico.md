@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 title: Centro Storico
 type: poi
+score: 5.6
 ---
 
 Castellana's centro storico is small but pleasant: a tight grid of whitewashed lanes around a handful of small piazzas, with the church of San Leone Magno at its centre. The houses are typically Pugliese — flat-roofed, white-painted, with stone exterior staircases and small wrought-iron balconies. The Palazzo Municipale, with its clock tower, and the small church of the Madonna della Vetrana on the south edge of the old town are the main architectural points.

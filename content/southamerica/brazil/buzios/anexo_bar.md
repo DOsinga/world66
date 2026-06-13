@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -22.7477
 longitude: -41.8826
+score: 5.8
 ---
 
 Anexo is one of the most enduring bars on Rua das Pedras and the closest thing Búzios has to a proper late-night anchor. The caipirinha is the reason most people come: made with fresh lime, good cachaça, and the right ratio of sugar, it's the benchmark against which the rest of the street measures itself.

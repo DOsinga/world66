@@ -8,6 +8,7 @@ tags:
 - sight
 - historic_site
 - temple
+score: 8.5
 ---
 
 The Varaha Cave Temple (also known as the Adivaraha Cave) is a rock-cut mandapa from the late 7th century featuring four relief panels of exceptional quality. The principal panel shows Vishnu in his Varaha (boar) incarnation, lifting the earth goddess Bhudevi from the cosmic ocean. The figure is powerfully rendered — the boar-headed god massive and calm, the earth goddess small and serene on his arm.

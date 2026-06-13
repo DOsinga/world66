@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6987
 longitude: 8.6364
+score: 7.4
 ---
 
 St. Johann is the older of Schaffhausen's two main churches, with foundations going back to the 9th century and a pre-Romanesque crypt that is one of the earliest surviving examples of church architecture in the canton. Most visitors head straight for the Münster — the larger, more prominent Romanesque minster nearby — but St. Johann rewards the detour. The crypt in particular is simple and cool and surprisingly moving for its age.

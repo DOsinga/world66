@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, surfing, sight]
 latitude: 44.9499
 longitude: -124.0280
+score: 7.9
 ---
 
 Nelscott Reef is the only spot on the Oregon coast that generates big-wave surfing conditions. When a large Pacific swell hits the reef at the right angle, waves can reach 30 to 60 feet — on par with the famous breaks at Mavericks in California or Jaws in Hawaii. Big-wave surfers travel from across the Pacific Northwest on the right days, and the reef is the site of the occasional Nelscott Reef Pro big-wave contest.

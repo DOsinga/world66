@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.4
 ---
 
 The Saturday Night Market at nearby Arpora is the calmer, evening-only cousin of the Wednesday flea market. Stalls open from about 6pm to midnight in a permanent fenced site set among trees, with several food courts and a stage for live music.

@@ -8,6 +8,7 @@ tags:
   - sight
   - shopping
 story: "Foumban's bronze casters use the lost-wax method that has been practiced in West Africa for more than a thousand years. Wax models are coated in clay, fired so the wax runs out, and then filled with molten brass — each mould is destroyed when the piece is freed, so every sculpture is a one-off."
+score: 7.9
 ---
 
 The streets immediately around the palace are lined with open workshops where craftsmen cast brass, carve wood, weave indigo cloth, and embroider robes. The Village des Artisans is the most concentrated stretch — a cooperative of around fifty workshops where you can watch every stage of production, from raw materials to finished masks and statues.

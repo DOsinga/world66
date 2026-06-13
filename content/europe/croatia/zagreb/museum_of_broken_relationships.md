@@ -15,6 +15,7 @@ tags:
 - things_to_do
 - museum
 - gornji_grad
+score: 8.9
 ---
 
 This is probably the most original museum in Europe. Each exhibit is an everyday object — a toaster, a wedding dress, a stuffed animal, an axe — accompanied by a label from its anonymous donor explaining the relationship it once stood for, and how that relationship ended. The accumulated effect is more moving than you expect: the small accidental cruelties and absurdities of romantic life, made universal.

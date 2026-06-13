@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.6421
 longitude: 34.8289
+score: 9.4
 ---
 
 Cappadocia's balloon flights are one of those experiences that justify the cliché. Launches happen before dawn — operators collect you from your hotel around 4:30 am — and the baskets rise as the sun breaks over the valley, turning the fairy chimneys amber and pink below you. Flights last roughly an hour and cover the valleys north and east of Göreme, landing in fields wherever the wind takes you.

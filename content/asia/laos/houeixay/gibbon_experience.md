@@ -16,6 +16,7 @@ story: >
   experiment in whether it is possible to make wildlife worth more alive than
   dead. The gibbons' morning calls, which echo through the canopy at dawn,
   are among the most striking sounds in Southeast Asia.
+score: 9.1
 ---
 
 The Gibbon Experience is one of the most unusual things to do in Laos: you sleep in treehouses high in the forest canopy of the Bokeo Nature Reserve and travel between them on a network of ziplines strung through the jungle. The experience lasts two or three nights and includes guided walks with the chance of spotting black-crested gibbons, one of the rarest primates in the world.

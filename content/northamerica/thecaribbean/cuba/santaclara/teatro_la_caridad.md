@@ -14,6 +14,7 @@ story: >
   Caridad" (Charity). Abreu also funded schools, a waterworks, and an
   electrical plant for the city, and is remembered in Santa Clara as a kind
   of secular saint.
+score: 8.4
 ---
 
 Teatro La Caridad is one of the finest surviving 19th-century theatres in Cuba, and one of the best-preserved in the Caribbean. Built in 1885 on the eastern edge of Parque Vidal, it's a neoclassical building with an ornate interior that can seat around 1,500 people. The painted ceiling and the decorative boxes along the sides give it the atmosphere of a proper 19th-century opera house — because that is exactly what it was.

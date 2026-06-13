@@ -6,6 +6,7 @@ longitude: 36.752
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Orontes passes through the centre of Hama in a series of broad curves, its banks lined with palm trees, gardens, and the parks surrounding the norias. In the evenings this stretch of riverside was one of the most pleasant places in the Syrian interior — families walking between the waterwheel parks, the sound of the creaking norias carrying across the water, tea-sellers working the promenades. The combination of flowing water, vertical wheels, and high garden walls gave the city a quality unlike anywhere else in Syria.

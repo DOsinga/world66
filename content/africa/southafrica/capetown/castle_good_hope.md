@@ -22,6 +22,7 @@ tags:
 - city_bowl
 title: Castle of Good Hope
 type: poi
+score: 8.9
 ---
 
 The Castle of Good Hope is a five-pointed star fort that has anchored the eastern edge of Cape Town's centre for more than 350 years. Inside the walls is a small village of historic buildings — the Kat Balcony, the William Fehr Collection of Cape Dutch furniture, the Military Museum, the Castle Forge — and the old governor's residence, partly restored to its eighteenth-century state.

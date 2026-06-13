@@ -7,6 +7,7 @@ tags:
   - museum
 title: Photo Elysée
 type: poi
+score: 7.7
 ---
 
 Photo Elysée is Switzerland's national photography museum, relocated to a new building on the Plateforme 10 arts campus in 2022. The collection covers the history of photography from its 19th-century origins to the present, with particular strength in Swiss and European photography and a strong programme of temporary exhibitions.

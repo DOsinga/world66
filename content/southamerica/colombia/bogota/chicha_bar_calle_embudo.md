@@ -8,6 +8,7 @@ tags:
 latitude: 4.5971
 longitude: -74.0748
 snippet: "Historic alley in La Candelaria lined with bars serving chicha, the pre-Columbian corn beer"
+score: 7.5
 ---
 
 The Calle del Embudo and the surrounding alleys in La Candelaria are home to a cluster of chicherías — bars serving chicha, the slightly sour fermented corn drink that predates the Spanish conquest and was banned by the colonial authorities. It has made a comeback as both a cultural assertion and a genuinely refreshing drink.

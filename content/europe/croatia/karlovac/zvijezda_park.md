@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.4
 ---
 
 The moats and bastions of the Renaissance fortress have been turned into a continuous green ring that wraps the old town. Walking the full loop takes about half an hour, follows the shape of the six-pointed star, and is the easiest way to grasp the geometry of the place.

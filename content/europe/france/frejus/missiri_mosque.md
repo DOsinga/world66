@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Missiri_Mosque
 story: >
   The mosque was built in 1930 as a community centre for Senegalese soldiers of the Tirailleurs Sénégalais regiment stationed at the Fréjus military camp. The design was based on the famous mosque of Djenné in Mali, rendered in concrete rather than the original's mud brick. After independence, the building served various purposes before being partially restored.
+score: 7.8
 ---
 
 The Missiri Mosque is one of the most unexpected sights on the entire Côte d'Azur: a Sudano-Sahelian style building with tapering mud-style towers and terracotta colouring, set incongruously among the pine trees and villas of a quiet residential quarter north of Fréjus town centre. Nothing in the surrounding landscape prepares you for it.

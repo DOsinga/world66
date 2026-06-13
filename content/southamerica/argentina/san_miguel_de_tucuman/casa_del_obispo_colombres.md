@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 6.8
 ---
 
 Inside Parque 9 de Julio sits a small whitewashed colonial house with a tiled roof — once the home of José Eusebio Colombres, a friar who signed the Declaration of Independence in 1816 and is credited with introducing modern sugar-cane farming to the province. Today the house is a small museum dedicated to the history of Tucumán's sugar industry, which still dominates the economy of the surrounding province.

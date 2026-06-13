@@ -9,6 +9,7 @@ tags:
   - beach
 snippet: The neon heart of the Gold Coast — high-rises, nightlife, and the long beach
 story: "Surfers Paradise was once a quiet bathing village called Elston. When entrepreneur Jim Cavill built the Surfers Paradise Hotel in 1936, he renamed the area and launched a marketing campaign that eventually turned this strip of Queensland coast into one of Australia's most recognisable destinations."
+score: 6.5
 ---
 
 Surfers Paradise is the commercial heart of the Gold Coast — a dense strip of high-rise towers, resort hotels, and tourist operations running along Cavill Avenue and the Esplanade. It is unabashedly commercial, occasionally brash, and very popular. The beach is long enough to absorb the crowds, and the surf is decent for bodyboarding and beginner surfing.

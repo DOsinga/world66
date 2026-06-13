@@ -6,6 +6,7 @@ longitude: 36.9528
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Catholic cathedral of the Archdiocese of Nyeri sits a couple of kilometres south of the town centre at Mathari, on the site of one of the oldest Consolata Missionary stations in East Africa. The Consolata Fathers, an Italian missionary order, arrived in Nyeri in 1902 and built up a substantial mission complex of school, hospital, and church that helped make the region one of the most Christian parts of Kenya.

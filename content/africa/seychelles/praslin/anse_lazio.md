@@ -11,6 +11,7 @@ story: >
   composed of continental granite rather than volcanic rock — fragments of an
   ancient continent that was left behind when India broke away from Africa.
   The boulders, rounded and pink, are among the oldest exposed rock in the world.
+score: 9.3
 ---
 
 Anse Lazio sits on the northwest corner of Praslin, reached by a short walk from the road end through the palms. It is consistently ranked among the finest beaches in the world, and the ranking, for once, is not an overstatement. The sand is white and deep, the water a layered spectrum from turquoise at the shallows to deep blue offshore, and the enormous granite boulders at either end of the bay frame the scene in a way that feels composed.

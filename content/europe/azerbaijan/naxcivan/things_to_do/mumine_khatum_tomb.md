@@ -8,6 +8,7 @@ tags:
 - sight
 title: Mumine Khatum Tomb
 type: poi
+score: 9.0
 ---
 
 The Momine Khatun Tomb is one of the finest examples of medieval Azerbaijani architecture, built in 1186 by the architect Ajami Nakhchivani. The ten-sided tower rises 25 metres above Nakhchivan's western quarter, its exterior covered in intricate geometric brickwork and Kufic inscriptions. The structure was commissioned by Shamsaddin Eldeniz, founder of the Atabeg state, as a mausoleum for his wife Momine Khatun; his son Muhammed Jahan Pahlavan completed the work.

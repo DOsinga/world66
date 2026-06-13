@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Carlisle_Barracks
   - https://en.wikipedia.org/wiki/United_States_Army_War_College
+score: 8.1
 ---
 
 Carlisle Barracks is the second-oldest active military installation in the United States, and the campus that surrounds it is worth a visit for its history and its handsome Federal-era architecture. The United States Army War College occupies the post — it is the senior professional military education school for the Army, where colonels and generals come to think about strategy.

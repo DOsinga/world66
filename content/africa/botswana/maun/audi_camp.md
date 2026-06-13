@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -19.9780
 longitude: 23.4250
+score: 7.1
 ---
 
 Audi Camp is one of Maun's most established budget operations, offering a base for travellers planning their own Okavango excursions. The camp has long served as a departure point for guided mokoro trips and bush walks into the delta, run by BaTawana community polers who grew up navigating the waterways.

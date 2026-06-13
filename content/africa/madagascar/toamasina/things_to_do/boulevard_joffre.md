@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.5
 ---
 
 Boulevard Joffre is Toamasina's main promenade, running south from the port along the oceanfront for about two kilometres. It is lined with royal palms and the faded facades of colonial-era buildings — a few still functioning as hotels and government offices, others slowly returning to the tropical vegetation. The effect, especially in the late afternoon light, has a melancholy elegance: Indochine by way of the Indian Ocean.

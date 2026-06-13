@@ -8,6 +8,7 @@ tags:
 - sight
 - swimming
 snippet: A thermal pool inside Hierapolis where you can swim among submerged Roman columns
+score: 7.4
 ---
 
 In the middle of the Hierapolis ruins lies a swimming pool unlike any other in Turkey. An earthquake in the seventh century tipped a row of marble columns from a portico of the Temple of Apollo into the warm spring that fed the ancient baths. The columns settled where they fell, and the pool has been used for bathing ever since. Locals call it **Cleopatra's Pool** on the unconvincing legend that Mark Antony gave Hierapolis to the Egyptian queen as a wedding present.

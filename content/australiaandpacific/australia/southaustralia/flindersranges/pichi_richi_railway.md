@@ -16,6 +16,7 @@ story: >
   hasn't changed much since the 1880s.
 sources:
   - https://en.wikipedia.org/wiki/Pichi_Richi_Railway
+score: 7.9
 ---
 
 The Pichi Richi Railway is a heritage narrow-gauge line running 40 kilometres through the southern Flinders Ranges between Quorn and Port Augusta. It operates steam and vintage diesel services on scheduled days, offering one of the best ways to see the rocky gorges and mulga scrub of the southern ranges without a car.

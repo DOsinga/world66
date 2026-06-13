@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.5
 ---
 
 Opened in 2024 in a striking white-cube building designed by the Japanese architect Fumihiko Maki, the Museum Reinhard Ernst houses the private collection of the German industrialist Reinhard Ernst — about 900 works of post-war abstract art from Europe, the US, and Japan. The collection is particularly strong on the New York and German Informel schools, with works by Robert Motherwell, Helen Frankenthaler, Karl Otto Götz, and Gerhard Richter.

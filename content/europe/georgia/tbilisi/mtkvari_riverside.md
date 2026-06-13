@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mtkvari Riverside Promenade
 type: poi
+score: 6.5
 ---
 
 The Mtkvari River cuts through the heart of Tbilisi, and the embankment walk between Metekhi Bridge and the Bridge of Peace offers some of the best continuous views of the old city. On the right bank, the terrace above the river gives a clear sightline to Metekhi Church on its cliff and, beyond it, to the domed rooftops of Abanotubani and the Narikala ridge above.

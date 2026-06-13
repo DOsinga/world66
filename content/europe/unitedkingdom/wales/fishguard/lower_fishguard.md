@@ -8,6 +8,7 @@ tags:
 latitude: 51.9938
 longitude: -4.9768
 story: "When John Huston filmed the 1971 adaptation of Dylan Thomas's Under Milk Wood — with Richard Burton, Elizabeth Taylor, and Peter O'Toole — he chose Lower Fishguard as the stand-in for the fictional Welsh village of Llareggub. The harbour cottages, the quay, and the surrounding hills looked exactly right for Thomas's vision of a small Welsh community going about its day."
+score: 7.7
 ---
 
 Lower Fishguard is a world apart from the commercial town on the clifftop above. The old harbour quarter sits at the bottom of a steep lane — a cluster of fishermen's cottages around a small quay, boats resting in the water, the hills of Pembrokeshire visible across the bay. It is quiet enough now to feel genuinely undiscovered, though it is well known to those who seek it out.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Until 1970 the central span of the Ampera Bridge could actually be raised — a vertical-lift design that allowed the largest river vessels to pass underneath. Operating the lift mechanism took thirty minutes per cycle and snarled the city's traffic so badly that the authorities eventually welded it shut. The lift machinery is still there, but it has not moved in over fifty years."
+score: 7.7
 ---
 
 The Ampera Bridge is the city's defining landmark: a long red-painted vertical-lift bridge that arches across the Musi River, linking the northern (Ilir) and southern (Ulu) halves of Palembang. It was completed in 1965 with Japanese war-reparation funds and was the largest bridge in Southeast Asia at the time.

@@ -8,6 +8,7 @@ tags:
 title: Brat Tor
 type: poi
 snippet: "Granite tor topped by a tall Victorian cross, an hour's walk from the village"
+score: 7.3
 ---
 
 Brat Tor (also known as Widgery Tor) is the dramatic granite outcrop visible to the east of Lydford. It is crowned by the 11-foot stone cross erected by William Widgery in 1887 to mark Queen Victoria's golden jubilee — one of the most distinctive landmarks on the western edge of Dartmoor.

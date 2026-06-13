@@ -9,6 +9,7 @@ tags:
 - nature
 title: Salar de Uyuni
 type: poi
+score: 6.8
 ---
 
 The Salar de Uyuni is not easily done as a day trip from La Paz, despite what some tour operators imply. The town of Uyuni is roughly 500 kilometres south of La Paz: an overnight bus takes about ten hours and arrives at dawn; a 45-minute flight (BoA or Amaszonas) is faster but more expensive. Plan on at least two nights: one night in Uyuni town (which has little to recommend it beyond being the gateway), and one night either in a salt hotel on the flat itself or in a basic guesthouse in the villages nearby.

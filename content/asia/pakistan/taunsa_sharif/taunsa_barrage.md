@@ -11,6 +11,7 @@ story: >
   only a handful of engineered water structures in the world to receive this designation. The reason
   is the Indus river dolphin — a nearly blind species that navigates entirely by sonar — which lives
   in the waters below the barrage in one of its last remaining strongholds.
+score: 7.4
 ---
 
 The Taunsa Barrage is one of the major barrages on the Indus River, built in 1958 to divert irrigation water across the arid plains of Dera Ghazi Khan district. It controls the flow of the Indus and has transformed agricultural productivity in the region, providing water for hundreds of thousands of hectares of farmland across southern Punjab.

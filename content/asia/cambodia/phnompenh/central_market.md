@@ -17,6 +17,7 @@ story: >
   Art Deco style now intimately associated with Phnom Penh. A 2009 restoration
   funded by France peeled away decades of grime and water damage to restore
   the original colour.
+score: 7.2
 ---
 
 The Phsar Thmei — "new market" in Khmer — is one of the great market buildings of Southeast Asia. Four covered wings radiate from a vast central rotunda crammed with gold and silver jewellery stalls. The wings sell everything from electronics and watches to flowers, T-shirts and household goods, with the surrounding outdoor stalls handling fresh produce, fish and meat.

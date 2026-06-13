@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Seasonal Danish cooking on a quiet cobbled side street
+score: 6.6
 ---
 
 Aarstiderne ("the seasons") serves a constantly changing menu built around Funen produce — local lamb, root vegetables from nearby farms, fish from the strait, dairy from small producers. The dining room is in a 17th-century half-timbered building near the cathedral; service is unfussy and informed. Set menus of three to five courses pair well with the wine list, which leans heavily on small French and German growers.

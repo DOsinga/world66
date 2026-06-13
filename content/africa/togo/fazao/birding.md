@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 8.7000
 longitude: 0.8000
+score: 8.3
 ---
 
 Over 200 bird species have been recorded in Fazao-Malfakassa, and birding is probably the single most rewarding activity in the park. The mix of habitats — gallery forest, miombo woodland, savanna grassland, riverine swamp and the higher-altitude vegetation in the Malfakassa hills — packs an unusual variety into a small area. Hornbills, turacos, rollers, bee-eaters, sunbirds and a long list of raptors are easy to see in a day's walking.

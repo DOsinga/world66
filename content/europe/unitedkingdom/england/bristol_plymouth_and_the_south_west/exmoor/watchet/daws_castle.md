@@ -6,6 +6,7 @@ longitude: -3.34417
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 Daw's Castle is the eroded remains of a Saxon promontory fort on the cliffs about a kilometre west of Watchet. Built or refortified by King Alfred in the late ninth century as part of his system of fortified burhs along the Wessex coast, it was specifically intended to defend the mint and the harbour at Watchet from Viking raids.

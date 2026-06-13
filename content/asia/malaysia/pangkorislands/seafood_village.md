@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, sight]
 latitude: 4.2333
 longitude: 100.5667
+score: 6.6
 ---
 
 The working waterfront around the ferry jetty at Pangkor Town is the most authentic part of the island — fish drying on racks in the sun, boats unloading catches, and the smell of the sea mixed with salt and diesel. This is where Pangkor's fishing industry operates. Several seafood restaurants cluster near the jetty; the freshness of the fish is guaranteed because you can essentially see where it came from.

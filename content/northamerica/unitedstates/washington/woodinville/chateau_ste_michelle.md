@@ -11,6 +11,7 @@ story: >
   Chateau Ste. Michelle was established in 1934, just after Prohibition ended, making it Washington's oldest winery. The estate buildings were modeled on a French manor and the grounds were designed by the Olmsted Brothers firm, the same landscape architects responsible for Central Park and Seattle's Volunteer Park.
 sources:
   - https://en.wikipedia.org/wiki/Chateau_Ste._Michelle
+score: 8.1
 ---
 
 Chateau Ste. Michelle is Washington's flagship winery and the largest producer in the state, set on a 105-acre estate in the Hollywood Hill district of Woodinville. The property is handsome — manicured grounds, a French chateau-style manor, and mature trees — and the tasting room is one of the most polished in the Pacific Northwest.

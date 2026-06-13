@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 6.6
 ---
 
 Home to Club Atlético Tucumán, this football stadium — nicknamed Monumental — holds around 35,000 spectators and is the largest in northwestern Argentina. It opened in 1922 and has been progressively rebuilt over the decades, most recently for Tucumán's participation in the Copa Libertadores. Match days are intense: a sea of blue and white shirts, drum-heavy fan chants, and the local rivalry with San Martín de Tucumán bringing a genuine edge to derby matches.

@@ -9,6 +9,7 @@ tags:
 title: Taj Mahal
 type: poi
 story: "The white marble inlay work — known as parchin kari — uses thousands of cut pieces of jasper, jade, lapis lazuli, turquoise, and onyx. Some of the larger flowers contain more than fifty separate stones. The Mughals didn't invent the technique; they brought it from Florence, where the same process is called pietre dure."
+score: 10.0
 ---
 
 The Taj Mahal needs no introduction. Shah Jahan built it between 1632 and 1648 for his wife Mumtaz Mahal, who died giving birth to their fourteenth child. Twenty thousand artisans worked on it under the Persian architect Ustad Ahmad Lahauri, and the white marble was hauled from Makrana in Rajasthan, 350 kilometres away.

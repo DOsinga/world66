@@ -14,6 +14,7 @@ story: >
   and repeatedly, stating that the film's setting was not based on any particular place in Taiwan.
   The claim has nonetheless stuck and continues to drive visitors. The building predates the
   film and was already a tourist attraction before the *Spirited Away* connection was invented.
+score: 8.0
 ---
 
 A-Mei Tea House occupies a terraced building at the top of the old stone steps in Jiufen, its red lanterns strung across multiple levels and its balconies hanging over the hillside. At dusk, when the lanterns are lit and mist comes in off the Pacific, it looks like something from a film set — which is, in various ways, exactly what it is.

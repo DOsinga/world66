@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -26.1073
 longitude: 28.0556
+score: 6.3
 ---
 
 Sandton is where Johannesburg's money moved when the inner city became difficult in the 1990s. The Johannesburg Stock Exchange, the major bank headquarters, and most of the country's corporate law firms are all here, in a cluster of glass towers that would look at home in any global financial district. Sandton City mall anchors the precinct — it is one of the largest shopping centres in Africa and considerably more polished than it sounds.

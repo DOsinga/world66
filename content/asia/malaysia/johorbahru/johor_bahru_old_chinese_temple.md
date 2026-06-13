@@ -7,6 +7,7 @@ tags:
 - sight
 title: Johor Bahru Old Chinese Temple
 type: poi
+score: 7.4
 ---
 
 The oldest Chinese temple in Johor Bahru, built around 1870 by early Chinese immigrants and dedicated to five deities representing the five main dialect groups who settled here: Hokkien, Teochew, Cantonese, Hakka, and Hainanese. Each community contributed to and maintains one of the five shrines within the temple compound. It was renovated in 1995–96 but retains its original character and proportions. The temple is free to enter and active throughout the week.

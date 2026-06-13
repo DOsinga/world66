@@ -8,6 +8,7 @@ tags:
 address: "605 Robert E Lee Rd"
 latitude: 30.2632
 longitude: -97.7718
+score: 7.2
 ---
 
 The Umlauf Sculpture Garden in Zilker Park contains the life's work of Charles Umlauf, a University of Texas sculpture professor who taught in Austin for 40 years and bequeathed his studio and collection to the city. Over 130 sculptures — in bronze, marble, terracotta, and wood — are displayed in a rambling outdoor garden and a small indoor gallery.

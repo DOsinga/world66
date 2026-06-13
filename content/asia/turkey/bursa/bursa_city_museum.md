@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.1829
 longitude: 29.0608
+score: 6.7
 ---
 
 The Bursa City Museum (Bursa Kent Müzesi) occupies the restored Ottoman-era municipal building on Atatürk Caddesi, a short walk from the Grand Mosque. The museum covers the history of the city from prehistoric times through the Ottoman period and into the 20th century, with particular emphasis on Bursa's role as the first Ottoman capital and its importance in the silk trade.

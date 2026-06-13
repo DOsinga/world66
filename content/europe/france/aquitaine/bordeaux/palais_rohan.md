@@ -8,6 +8,7 @@ tags:
 latitude: 44.8379
 longitude: -0.5793
 snippet: The 18th-century Archbishop's Palace that became Bordeaux's City Hall
+score: 7.0
 ---
 
 The Palais Rohan was built as the residence of the Archbishop of Bordeaux in the 1770s, on the same grand scale as everything else in this district. After the Revolution it became the city hall — a role it still serves today — with the Musée des Beaux-Arts housed in the wings behind it. The building faces Place Pey-Berland, the main civic square.

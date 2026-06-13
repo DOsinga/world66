@@ -1,6 +1,7 @@
 ---
 title: "Zum Pulverer"
 type: poi
+score: 6.2
 ---
 
 Zum Pulverer (the name refers to the town's old powder magazine, which is nearby) is one of the best places in Rothenburg for an evening glass of Franconian wine without the daytime tourist crush. It sits on Herrngasse, one of the main streets running through the old town, and draws a mix of locals and overnight guests rather than the day-trip crowds who have long since returned to their coaches.

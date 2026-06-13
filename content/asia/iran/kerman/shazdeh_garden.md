@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 Thirty-five kilometres south of Kerman, on the road to Mahan, the Shazdeh Garden is one of the most dramatic Persian gardens in the country and a UNESCO World Heritage Site. The garden runs down a long slope inside a high wall, with a single central water channel cascading through a series of stone pools and small fountains, flanked by formal lines of cypress, pine, and pomegranate.

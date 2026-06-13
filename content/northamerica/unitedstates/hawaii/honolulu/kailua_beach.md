@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Kailua Beach
 type: poi
+score: 8.1
 ---
 
 Kailua Beach on the windward side of Oahu is consistently rated one of the best beaches in America — powdery white sand, warm shallow water, the Mokulua islands sitting offshore, and the Ko'olau mountains rising dramatically behind. The drive from Honolulu through the Nu'uanu Pali tunnel takes about 30 minutes.

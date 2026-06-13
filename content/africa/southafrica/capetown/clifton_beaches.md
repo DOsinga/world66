@@ -13,6 +13,7 @@ tags:
 - camps_bay_neighbourhood
 title: Clifton Beaches
 type: poi
+score: 7.5
 ---
 
 Clifton's four beaches — numbered prosaically First to Fourth — are tucked between granite boulders on the western side of Lion's Head, sheltered from the famous Cape southeaster wind. Of the four, Fourth Beach is the largest and the most family-friendly; First Beach the most secluded; Third the traditional gay beach.

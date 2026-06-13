@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 1930 colonial hall commemorating a century of Egba self-rule
+score: 6.7
 ---
 
 The Centenary Hall, on Lantoro Road in central Abeokuta, was built in 1930 to mark a hundred years of Egba self-rule from the founding of the city around Olumo Rock. The two-storey hall mixes British colonial architecture with Yoruba decorative motifs: pointed arches, a sloping tiled roof, and carved wooden panels at the entrance. It was used for civic functions during the colonial period and later as a meeting hall for the Egba traditional council.

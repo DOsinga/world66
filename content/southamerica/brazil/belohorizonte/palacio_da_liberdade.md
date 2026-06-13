@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Palácio da Liberdade
 type: poi
+score: 8.2
 ---
 
 The Palácio da Liberdade closes the south end of Praça da Liberdade and is the most grandly conceived building on the square. Built between 1895 and 1898 in a French Belle Époque style — pink stone, mansard roof, ornamented balconies — it served as the official residence of the state governors of Minas Gerais for over a century before being converted into a public cultural venue in 2010.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - fishing
+score: 6.7
 ---
 
 Naufrage Harbour is a small working fishing harbour typical of the northeast PEI coast. Lobster is the main catch, and during lobster season (spring and fall) the harbour is active from before dawn. The harbour is protected by a long sandspit that creates the calm bay behind it. Red-hulled lobster boats, weathered wharfs, and the smell of salt water make this an authentic PEI fishing community image.

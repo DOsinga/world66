@@ -8,6 +8,7 @@ latitude: 39.8559
 longitude: -4.0288
 story: >
   El Greco — born Doménikos Theotokópoulos in Crete — arrived in Toledo in 1577, having failed to get a commission at El Escorial. Philip II did not like his work. Toledo's citizens did. He spent the rest of his life here, becoming the city's defining artist, painting its light, its spiritual intensity, and its elongated, mystical figures in a style unlike anyone else in Spain.
+score: 7.9
 ---
 
 The El Greco Museum occupies a house in the Judería (Jewish Quarter) near where the painter reportedly lived and worked in the early 17th century. The museum is not his actual house — that was demolished long ago — but was reconstructed in the early 20th century to approximate the setting. It holds a significant collection of his work, including a famous series of the twelve Apostles and a version of his celebrated *View and Plan of Toledo*.

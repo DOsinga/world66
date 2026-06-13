@@ -9,6 +9,7 @@ latitude: 52.3982
 longitude: 13.0363
 sources:
   - https://en.wikipedia.org/wiki/Chinese_House_(Sanssouci)
+score: 7.4
 ---
 
 The Chinese House is one of the most delightful buildings in Sanssouci Park — a circular Rococo pavilion from 1757, covered in gilded figures of Chinese musicians and diners, with a canopy roof supported by palm-shaped columns and a gilded Mandarin perched on top. It is chinoiserie at its most exuberant: not a scholarly representation of China but an 18th-century European fantasy of what China might look like, executed with great skill and obvious pleasure.

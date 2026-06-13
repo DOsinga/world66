@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Unterseen
 type: poi
+score: 7.8
 ---
 
 Most visitors to Interlaken never cross the river Aare to Unterseen, and that is precisely why it is worth doing. This small town predates Interlaken itself and has its own distinct character: a medieval church tower, cobbled lanes, old burghers' houses, and a market square where Swiss life continues at its own pace regardless of the coach parties rolling through two minutes away.

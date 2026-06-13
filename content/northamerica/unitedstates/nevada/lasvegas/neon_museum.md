@@ -11,6 +11,7 @@ tags:
 - downtown
 story: >
   The visitor centre is the salvaged lobby of the 1961 La Concha Motel — its swooping shell-shaped concrete roof was disassembled, moved across town, and reassembled on the museum's site in 2012.
+score: 9.1
 ---
 
 The Neon Museum is exactly what it sounds like: a two-acre outdoor lot full of the giant signs that once advertised long-gone Vegas casinos and motels. The Stardust, the Sahara, the original Golden Nugget letters, Aladdin's lamp, the Moulin Rouge cursive — they are all here, propped up in rows like the world's most colourful auto graveyard. Some are restored and re-lit; most are gloriously rusted.

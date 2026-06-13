@@ -7,6 +7,7 @@ tags:
 latitude: 28.6822
 longitude: 77.4111
 snippet: White marble Jain temple in the northern part of the city
+score: 5.8
 ---
 
 A large Digambara Jain temple in the Mohan Nagar locality, finished in pale marble and topped with several shikharas in the classic Nagara style. The interior has black-marble idols of the Jain Tirthankaras and a peaceful courtyard with potted plants and small fountains.

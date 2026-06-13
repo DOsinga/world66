@@ -16,6 +16,7 @@ story: >
   the man who preserved Paraguay's independence from Argentina and Brazil.
 sources:
   - https://en.wikipedia.org/wiki/Yaguaron
+score: 6.8
 ---
 
 The Museo Dr. Francia occupies a colonial-era house that belonged to the family of José Gaspar Rodríguez de Francia, Paraguay's most controversial founding ruler. The building is an excellent example of Paraguayan rural colonial architecture: thick adobe and stone walls, ceramic tile roof, and the characteristic corredor (shaded walkway) that wraps around the house.

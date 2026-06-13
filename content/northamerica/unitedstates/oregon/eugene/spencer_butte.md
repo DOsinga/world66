@@ -9,6 +9,7 @@ snippet: "Forested 2,058 ft summit south of town with 360° views"
 address: "Willamette Street, 3 miles south of downtown"
 latitude: 44.0017
 longitude: -123.0913
+score: 8.4
 ---
 
 Spencer Butte is the high point on Eugene's southern skyline — a forested 2,058 ft (627 m) dome that rises from the Willamette Valley and offers the standard local 360° view: snow on the Three Sisters to the east, the Coburg Hills to the north, the Willamette Valley running south.

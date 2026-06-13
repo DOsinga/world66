@@ -16,6 +16,7 @@ story: >
   legendary, but the geography is real: Hangu Pass was the most strategically
   vital gateway in ancient China, the narrow point between cliffs and river
   where the entire western approach to the Zhou heartland could be controlled.
+score: 6.6
 ---
 
 Hangu Pass sits in a narrow gorge about 75 kilometres west of Sanmenxia, where the Yellow River and the Qinling Mountains create a natural bottleneck that was the strategic key to control between the Zhou states of the east and the Qin state of the west. The pass changed hands repeatedly during the Warring States period; it was here that Qin's westward expansion was most dramatically contained, and here that Qin's eventual eastward conquest began. The rebuilt pass gate (entry ¥80) is a theatrical reconstruction rather than an original, but the gorge scenery that made the location strategically vital is entirely genuine and impressive.

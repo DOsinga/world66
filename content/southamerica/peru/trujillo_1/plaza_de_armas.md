@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -8.1117
 longitude: -79.0288
+score: 8.2
 ---
 
 Trujillo's colonial centre is one of the finest in northern Peru, and the Plaza de Armas is its heart. The square is large and well-maintained, flanked by brightly painted mansions and the yellow-fronted cathedral. A central monument to Liberty, erected in 1820 following Trujillo's declaration of independence, stands in the middle.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.6083
 longitude: -1.9558
+score: 6.2
 ---
 
 The Swanage Museum and Heritage Centre is a small volunteer-run museum on the seafront — entry free, set in a stone-walled former coastguard building — covering the town's history of stone quarrying, smuggling, the coming of the railway, and the Victorian-era arrival of seaside tourism. The collection is small and pleasingly local: maps, photographs, a few quarrymen's tools, a model of the Edwardian pier.

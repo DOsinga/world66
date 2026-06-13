@@ -14,6 +14,7 @@ story: >
   sufficient height without exceeding the maximum gradient of 5.5 percent.
   The tunnel exits at a completely different point on the cliff face from
   where it entered, which confuses everyone the first time.
+score: 9.1
 ---
 
 The Flåmsbana is one of the steepest standard-gauge railways in the world, descending 866 metres in 20 kilometres from the mountain station of Myrdal (on the Bergen–Oslo main line) to the village of Flåm at the head of the Aurlandsfjord. It is consistently voted among the most beautiful train journeys in Europe. The ride through narrow valleys, alongside waterfalls, through tunnels blasted directly through cliff faces, and along ledges above the rushing Flåmselva river takes about an hour in each direction.

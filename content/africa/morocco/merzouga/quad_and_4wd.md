@@ -6,6 +6,7 @@ tags:
   - activity
 latitude: 31.0992
 longitude: -4.0117
+score: 5.8
 ---
 
 Merzouga has a large fleet of quad bikes and 4WD vehicles available for hire, and the flat stony hammada and the dune fringes are well-suited to both. A one-hour quad circuit around the base of the dunes costs around 200–300 MAD per person; longer half-day trips to Dayet Srji, the nomadic camps to the north, or the Algerian border area run 400–600 MAD and cover far more ground.

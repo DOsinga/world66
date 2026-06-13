@@ -7,6 +7,7 @@ tags:
 latitude: 40.5440
 longitude: -104.9820
 story: "Bill Swets, a retired farmer, began welding animals from old farm machinery and car parts in the 1980s. What started as a few sculptures in his yard has grown into a collection of over 150 metal creatures — dinosaurs, insects, horses, dragons — spread across several acres of farmland. Swets has never charged admission and has refused repeated offers to move the collection to a formal venue."
+score: 7.4
 ---
 
 The Swetsville Zoo is one of the great roadside oddities of northern Colorado — a private folk art installation on a farm east of Fort Collins, where retired farmer Bill Swets has spent decades creating an ever-growing menagerie of welded metal sculptures from old farm equipment and machine parts.

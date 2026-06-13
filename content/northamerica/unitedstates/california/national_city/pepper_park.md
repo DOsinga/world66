@@ -8,6 +8,7 @@ tags:
 address: 3299 Tidelands Ave, National City, CA 91950
 latitude: 32.6618
 longitude: -117.1149
+score: 6.8
 ---
 
 Pepper Park is the small bayfront park at the foot of National City, looking north across San Diego Bay toward downtown. It has a fishing pier, a basic playground, picnic tables, and a launch ramp for kayaks and small boats. The view of the downtown skyline at sunset, framed against the cargo cranes of the harbour, is the best in the city.

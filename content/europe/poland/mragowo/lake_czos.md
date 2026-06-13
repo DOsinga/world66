@@ -9,6 +9,7 @@ tags:
   - sailing
 latitude: 53.8661
 longitude: 21.3046
+score: 6.8
 ---
 
 Lake Czos is the larger of the two lakes within the town limits of Mragowo, stretching for about five kilometres through a landscape of mixed forest and low meadows. The town beach on its southern shore is the main summer focus: a stretch of sand and grass with pedalos and rowboat hire, a sailing school, and the cafes and ice cream stands that appear wherever Polish families gather by water in August. It's unpretentious and functional — the kind of resort beach that has been doing this job for a hundred years without any attempt at reinvention.

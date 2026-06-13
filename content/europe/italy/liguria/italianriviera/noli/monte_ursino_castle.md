@@ -9,6 +9,7 @@ latitude: 44.2100
 longitude: 8.4130
 story: >
   The castle above Noli formed part of an interlocking fortification system that helped the Republic of Noli — one of Italy's five medieval maritime republics — defend its independence for several centuries. At its peak, Noli had a fleet, a consul, and trade links across the Mediterranean. The republic survived until 1797 when Napoleon's armies ended it, as they ended so many old Italian institutions.
+score: 8.2
 ---
 
 The ruined castle on Monte Ursino looms above the old town, reachable by a trail that winds through pine and olive groves. The climb takes about 30 to 40 minutes from the town centre and is worth every step: from the towers you look down over the medieval rooftops and the curved beach, with the cape to the west and the coastline stretching east toward Savona and Genoa.

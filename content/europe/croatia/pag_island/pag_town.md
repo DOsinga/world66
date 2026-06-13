@@ -14,6 +14,7 @@ story: Pag Town was designed in the 1440s by the Dalmatian architect Juraj Dalma
   follow a conscious urban design rather than medieval organic growth. The layout has
   survived almost unchanged, which makes it unusual not just in Croatia but in the
   whole Adriatic.
+score: 8.8
 ---
 
 **Pag Town** (*Grad Pag*) is the administrative centre of the island and one of the most architecturally coherent medieval towns on the Dalmatian coast. Built from scratch in the 1440s to replace the original Pag settlement, which had been abandoned due to conflict with the rival city of Zadar, it was designed as a planned Renaissance town by the master builder Juraj Dalmatinac. The regular grid of streets, the central Trg kralja Petra Krešimira IV, the Gothic-Renaissance Church of the Assumption, and the old town hall are all original to the 15th-century plan.

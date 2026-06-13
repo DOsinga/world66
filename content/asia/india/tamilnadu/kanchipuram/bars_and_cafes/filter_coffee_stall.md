@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 12.9645
 longitude: 79.7838
+score: 5.9
 ---
 
 The filter coffee stalls near the bus stand and the main temple entrances are among the most useful spots in Kanchipuram — not because they are destinations, but because they are the hinge between temple visits and the rest of the day.

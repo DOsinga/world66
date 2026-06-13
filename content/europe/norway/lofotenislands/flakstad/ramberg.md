@@ -9,6 +9,7 @@ tags:
 title: Ramberg
 type: poi
 snippet: "Administrative centre of Flakstad, set beside a curving white-sand beach facing the open Arctic Ocean"
+score: 7.4
 ---
 
 Ramberg is the largest settlement in Flakstad and its administrative centre. The houses string along the E10 and the sheltered side roads behind the beach, with the municipal offices, school, and a small supermarket clustered near the main junction. The setting is the draw: a long arc of fine white sand on Skagsanden Bay, with the mountains of Flakstadøya rising directly from the dunes.

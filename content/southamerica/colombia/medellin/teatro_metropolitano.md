@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Teatro Metropolitano
 type: poi
+score: 6.7
 ---
 
 The city's main concert hall and the home of the Filarmónica de Medellín, a 1650-seat auditorium in monolithic brick across from the Plaza Mayor convention centre. Programme runs heavy on classical music with regular jazz, contemporary, and theatre nights. Acoustics are excellent; ticket prices low by international standards. A useful evening if you want a more sit-down counterweight to the Poblado bar scene.

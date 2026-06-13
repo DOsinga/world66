@@ -8,6 +8,7 @@ tags:
   - cafe
 snippet: "Belle Epoque coffee-house where Lenin, Joyce, Tzara and Einstein all drank"
 story: "Lenin spent his pre-1917 exile in Zurich just around the corner on Spiegelgasse and worked daily at a corner table here, reading the newspapers and meeting fellow revolutionaries. He left for Russia from Zurich's main station in April 1917; the marble tables and the mirrored walls he sat among are largely the same today."
+score: 7.9
 ---
 
 Café Odeon, on the corner of Limmatquai and Rämistrasse opposite the lake, opened in 1911 as a Viennese-style coffee house and almost immediately became the unofficial salon of pre-war Zurich's exiled intellectuals. Lenin, James Joyce, Tristan Tzara, Stefan Zweig, Mussolini, Einstein and Trotsky are all documented as regulars at different points; a small plaque inside lists some of them.

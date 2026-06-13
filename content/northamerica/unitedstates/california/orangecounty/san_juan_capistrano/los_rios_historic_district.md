@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Los Rios Historic District
 type: poi
+score: 8.2
 ---
 
 Los Rios Street is the oldest residential street in California still in its original use — a block of adobe and wooden houses dating from the late 18th and early 19th centuries, running alongside the tracks of the San Juan Capistrano Amtrak station. The houses are a mix of authentic period adobes and later wooden structures; some are still occupied as private residences, others as cafes and small shops.

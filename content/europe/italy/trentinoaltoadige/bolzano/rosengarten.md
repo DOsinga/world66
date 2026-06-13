@@ -10,6 +10,7 @@ latitude: 46.5025
 longitude: 11.5681
 story: >
   The Rosengarten (Catinaccio in Italian) glows deep red at sunset — a phenomenon so dramatic that medieval legend attributed it to a curse placed on a dwarf king who had hidden his rose garden in the rocks. The "enrosadira" effect (from the Ladin word for "reddening") is caused by the pale dolomite rock absorbing the warm light of the setting sun.
+score: 8.4
 ---
 
 The Rosengarten (Catinaccio) and Schlern (Sciliar) massifs are the closest of the great Dolomite formations to Bolzano, visible from the city on clear days as dramatic vertical rock faces rising above the valley. Both are reachable as day trips: the village of Tiers am Rosengarten (Tires) is the starting point for Rosengarten hikes; Völs am Schlern (Fie allo Sciliar) accesses the Schlern plateau.

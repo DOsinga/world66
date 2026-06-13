@@ -8,6 +8,7 @@ tags:
 neighbourhood: Yas Island
 latitude: 24.4892
 longitude: 54.6088
+score: 5.5
 ---
 
 The largest mall on Yas Island, directly connected to Ferrari World and within shuttle distance of the rest of the leisure cluster. Around 400 shops, the usual mix of international brands, and a 20-screen cinema.

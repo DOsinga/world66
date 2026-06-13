@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 1.8144
 longitude: 102.9405
+score: 6.9
 ---
 
 A low, jungle-covered hill (442 metres) about ten kilometres south of Batu Pahat town, with a well-trodden trail to the summit and the best wide view of the surrounding rubber and palm-oil country. The climb takes around 90 minutes from the base; the trail is steep in places but well marked, with a couple of steel staircases on the worst sections.

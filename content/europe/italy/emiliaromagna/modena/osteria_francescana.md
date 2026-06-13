@@ -5,6 +5,7 @@ tags: [eating_out, restaurant]
 snippet: "Three Michelin stars and former World's 50 Best number one — Massimo Bottura's legendary restaurant"
 latitude: 44.6448
 longitude: 10.9215
+score: 7.6
 ---
 
 Osteria Francescana is the most celebrated restaurant in Italy and one of the most famous in the world. Chef Massimo Bottura opened it in 1995 in a converted medieval storehouse on Via Stella. It has held three Michelin stars since 2012 and was ranked first on the World's 50 Best Restaurants list in 2016 and 2018. Dishes like "Five Ages of Parmigiano Reggiano" and "An Oops, I Dropped the Lemon Tart" are as much conceptual art as food.

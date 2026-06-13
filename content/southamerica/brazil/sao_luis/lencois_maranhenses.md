@@ -8,6 +8,7 @@ latitude: -2.52
 longitude: -43.12
 story: >
   The Lençóis Maranhenses appear on every list of Brazil's most spectacular landscapes, yet they remain far less visited than Iguazu or the Pantanal. The dunes are not technically desert — rainfall here is actually quite high — but the white silica sand drains water so quickly that no vegetation can take hold. The lagoons between the dunes fill up during the January-June rainy season and then slowly evaporate, leaving a landscape that transforms completely from month to month.
+score: 8.8
 ---
 
 The Lençóis Maranhenses National Park, 250 kilometres east of São Luís, is one of the most otherworldly landscapes in South America: enormous white sand dunes, up to 40 metres high, extending for over 1,500 square kilometres along the coast, their hollows filled from January to September with freshwater lagoons of impossible turquoise and emerald clarity.

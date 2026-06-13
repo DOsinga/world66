@@ -8,6 +8,7 @@ tags:
   - restaurant
   - wuchang
 neighbourhood: Wuchang
+score: 7.4
 ---
 
 The streets immediately outside the western gate of Wuhan University, especially Guangba Lu and the lanes off it, are a student-priced breakfast paradise — and one of the best places in the city to graze the full Wuhan breakfast canon at low prices and with a young, lively crowd.

@@ -13,6 +13,7 @@ story: "Alessandro Volta — inventor of the electric battery — was a professo
   about 75,000."
 snippet: One of Europe's oldest universities, with galleries tracing the history of physics and medicine
 type: poi
+score: 8.0
 ---
 
 The University of Pavia traces its formal founding to 1361, though teaching has been recorded here since the 9th century. The historic campus in the city centre is a series of connected courtyards occupying a large block, with departments, libraries, and the rector's office all within the old buildings. Visitors can walk freely through the public arcaded courtyards.

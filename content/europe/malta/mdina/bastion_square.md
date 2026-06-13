@@ -12,6 +12,7 @@ story: >
   current extent, and Mdina's defences were more symbolic than strategic. The
   city's real protection was obscurity — the Ottomans bypassed it during the
   Great Siege of 1565, focused entirely on the harbours to the south.
+score: 7.4
 ---
 
 Bastion Square stands at the highest point of Mdina and commands a panoramic view across much of Malta. On a clear day you can see from the Grand Harbour in the south to the coast near Mellieħa in the north, with the dome of Mosta church and the towers of Valletta picked out in the middle distance. The sight is worth coming for alone.

@@ -8,6 +8,7 @@ tags:
   - bar
 address: 256 South Center Street
 snippet: "Long-running downtown saloon, oil-town atmosphere intact"
+score: 5.8
 ---
 
 A no-nonsense downtown saloon that has been pouring drinks since the 1930s. Pool tables, juke

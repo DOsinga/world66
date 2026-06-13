@@ -11,6 +11,7 @@ story: >
   The Gran Telescopio Canarias at Roque de los Muchachos has a primary mirror 10.4 metres in diameter, made of 36 hexagonal segments — it is the world's largest single-aperture optical telescope. The altitude and the stable Atlantic air flowing around La Palma's summit give it some of the clearest and most consistent skies in the northern hemisphere, rivalled only by sites in Chile and Hawaii.
 sources:
   - https://en.wikipedia.org/wiki/Caldera_de_Taburiente_National_Park
+score: 8.8
 ---
 
 At 2,396 metres on La Palma's summit ridge, the Roque de los Muchachos Observatory is one of the world's premier astronomical research facilities. More than a dozen major telescopes from institutions across Europe and beyond operate here, taking advantage of skies that are legally protected from light pollution by a strict island ordinance — La Palma's "sky law" restricts artificial lighting across the island to preserve observing conditions.

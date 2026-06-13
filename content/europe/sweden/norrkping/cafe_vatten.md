@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 58.5881
 longitude: 16.1848
+score: 6.2
 ---
 
 Café Vatten (Water Café) sits right at the edge of the Motala Ström, with an outdoor terrace where in summer you can sit above the water with a coffee and watch the falls. In winter it retreats indoors behind large glass windows that keep the view intact. It serves good coffee, pastries, and a simple lunch menu of open sandwiches and soups.

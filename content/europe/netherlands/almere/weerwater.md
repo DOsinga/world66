@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.3612
 longitude: 5.2173
+score: 6.5
 ---
 
 The **Weerwater** is the artificial lake that wraps around the southern edge of Almere-Stad. It was dug out when the polder was drained — the planners deliberately left a body of water in the middle of the city to give the centre a horizon and a recreational front. The shoreline carries a six-kilometre footpath and cycle loop, the Kunstlinie sits on its northern bank, and there are landing stages for sailing dinghies and SUPs.

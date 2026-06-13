@@ -2,6 +2,7 @@
 title: "Aviary Café"
 type: poi
 tags: [bars_and_cafes]
+score: 5.3
 ---
 
 Aviary Café on South Campbell Avenue has been a cornerstone of Springfield's independent coffee scene for years, occupying a cozy space that draws a mixed crowd of students, remote workers, and neighborhood regulars. The café takes its coffee seriously — single-origin espresso drinks, pour-overs, and cold brew prepared with attention — and pairs it with a selection of house-baked pastries and a light food menu. The space has the lived-in comfort of a place where people actually linger, with eclectic décor, mismatched seating, and windows that make it pleasant on good days.

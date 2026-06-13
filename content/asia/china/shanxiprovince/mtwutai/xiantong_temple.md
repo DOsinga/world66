@@ -16,6 +16,7 @@ story: >
   than to a Chinese temple. The bronze pavilion in the rear courtyard, cast in
   segments in the 1607, is one of the largest copper-alloy buildings of the
   Ming dynasty.
+score: 8.7
 ---
 
 The Xiantong Temple is the oldest of the active monasteries of Mt. Wutai — its origins are traditionally placed in the first century, which would make it among the earliest Buddhist sites in China, although the present buildings are mostly Ming and Qing. It is also the largest, with seven main halls running in a strict axial sequence up the gentle slope above Taihuai village. Within the complex you will find the Daxiongbao Dian (the main hall, with three large gilded Buddhas), the Wuliang Dian, and the bronze pavilion of 1607.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.0402
 longitude: 110.3239
+score: 6.4
 ---
 
 Binhai Park (滨海公园) runs along Binhai Road on the northern seafront, a long linear park with walking and cycling paths shaded by rows of coconut palms. To the north, across the Qiongzhou Strait, the hills of Guangdong province are visible on clear days — a reminder that the mainland is only about 20 kilometres away. Haikou has long been an island just visible from the coast, and the view across the strait captures that geographical tension well.

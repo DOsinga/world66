@@ -7,6 +7,7 @@ tags:
 - nature
 title: Hoodoo Ski Area
 type: poi
+score: 6.2
 ---
 
 Hoodoo Ski Area sits at Santiam Pass on Highway 20, about 45 minutes west of Sisters and the closest skiing to town. It is small by Pacific Northwest standards — five chairlifts, around 800 skiable acres, vertical drop of 1,000 feet — and pitched at families and learners rather than the destination-skier crowd. Lift tickets are substantially cheaper than at Mount Bachelor, the larger resort south of Sisters near Bend.

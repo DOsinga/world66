@@ -8,6 +8,7 @@ tags:
   - hiking
   - sight
 snippet: The higher, quieter alternative to Huayna Picchu with panoramic views over the whole site
+score: 8.3
 ---
 
 Machu Picchu Mountain (Montaña Machu Picchu) rises to 3,082 metres behind the main archaeological site — about 650 metres above the ruins. It is the alternative to [Huayna Picchu](/southamerica/peru/machupicchu/huayna_picchu) for those who want elevated views: fewer crowds, a longer climb, and a wider panorama that takes in more of the surrounding mountain range.

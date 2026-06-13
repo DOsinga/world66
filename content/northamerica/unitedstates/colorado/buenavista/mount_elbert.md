@@ -13,6 +13,7 @@ story: >
   each year, yet the combination of thin air at 14,439 feet and the sheer distance of 
   the ascent turns it into a genuine all-day endeavor. Colorado's tallest mountain is 
   often humbling even to experienced hikers.
+score: 7.7
 ---
 
 Mount Elbert, at 14,439 feet the highest point in the Rocky Mountains, is reachable via well-maintained trails from two trailheads south of Leadville — about 45 minutes north of Buena Vista. The North Elbert and South Elbert trails are both non-technical, making this the most-climbed fourteener in Colorado. The round trip is around 9–10 miles with about 4,500 feet of elevation gain.

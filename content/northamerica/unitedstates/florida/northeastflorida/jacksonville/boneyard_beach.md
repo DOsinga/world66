@@ -8,6 +8,7 @@ latitude: 30.4720
 longitude: -81.4150
 story: >
   The beach gets its name from the hundreds of bleached, salt-sculpted tree trunks and root systems that lie on the sand and in the surf. These were once part of a maritime forest that extended to the waterline, but erosion — accelerated by development on nearby Little Talbot Island — has pushed the shoreline inland, killing the trees and leaving their bones on the beach. The same process continues: the beach retreats a little each year, and new trees fall.
+score: 8.3
 ---
 
 Boneyard Beach, on the Atlantic side of Big Talbot Island State Park, is one of the more dramatically photogenic places in Florida. The beach is covered with enormous bleached oak and cedar trunks, their roots exposed and sculpted by salt and wind into shapes that resemble giant hands or driftwood sculptures. It is genuinely strange and beautiful in a way that is unusual for Florida, where most beaches are simply long, flat, and sandy.

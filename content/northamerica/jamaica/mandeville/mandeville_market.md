@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market]
 latitude: 18.0438
 longitude: -77.5060
+score: 6.9
 ---
 
 The market sits a few blocks north of the green and is busiest on Thursdays and Saturdays, when small farmers from the surrounding hills bring in produce. The cooler upland climate gives Manchester parish a wider range of crops than the coast — carrots, cabbage, citrus, ginger, escallion, the famous Bombay mangoes from nearby orchards, and the local sorrel grown for the Christmas drink.

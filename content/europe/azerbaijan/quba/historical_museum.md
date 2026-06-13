@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.3596
 longitude: 48.5125
+score: 7.1
 ---
 
 The Historical Museum occupies the former home of the writer Abbas Qulu Ağa Bakıxanov, a 19th-century Azerbaijani intellectual who lived here during the early Russian period and wrote one of the first histories of Azerbaijan. The building is a fine example of late khanate domestic architecture, and the upper floor has views over the Kudyal river.

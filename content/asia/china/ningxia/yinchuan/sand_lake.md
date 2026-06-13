@@ -12,6 +12,7 @@ story: >
   Mountains providing a backdrop to the west. Locals say it is the only
   place in China where you can ride a camel in the morning and go birdwatching
   in the afternoon.
+score: 6.8
 ---
 
 Sand Lake (Shahu) is one of Yinchuan's most unusual attractions — a large wetland reserve where open water and reed marshes meet the edge of the desert, with sand dunes rising directly from the lake shore. The juxtaposition of water and dunes in the same frame is striking.

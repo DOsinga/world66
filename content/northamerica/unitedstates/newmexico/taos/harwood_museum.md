@@ -8,6 +8,7 @@ latitude: 36.4058
 longitude: -105.5772
 sources:
   - https://en.wikipedia.org/wiki/Harwood_Museum_of_Art
+score: 8.2
 ---
 
 The Harwood Museum occupies a rambling adobe complex in the heart of Taos and holds the most comprehensive collection of Taos art outside of major national museums. The collection spans the full history of the Taos art colony, from the founding generation of the Taos Society of Artists in the early 1900s through the modernists and contemporary Native American artists working today.

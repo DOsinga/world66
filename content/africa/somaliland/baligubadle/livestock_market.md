@@ -6,6 +6,7 @@ longitude: 44.0005
 tags:
   - things_to_do
   - market
+score: 6.4
 ---
 
 The livestock market is the busiest part of Baligubadle on its trading days. Camels, goats, and sheep are brought in from the surrounding Hawd, sold, and either trekked back out or loaded onto trucks heading north to Hargeisa and Berbera for export to the Gulf states.

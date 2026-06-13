@@ -10,6 +10,7 @@ longitude: 8.1325
 snippet: "The village's eighteenth-century parish church in the centre of Bardineto"
 sources:
   - https://en.wikipedia.org/wiki/Bardineto
+score: 5.9
 ---
 
 Bardineto's parish church was built in 1720, replacing an earlier structure on the same site. Its façade is characteristic of the unpretentious baroque style found in many inland Ligurian villages of that era — dignified but without the extravagance of coastal counterparts. The interior contains a decent collection of devotional paintings and carved wooden furnishings.

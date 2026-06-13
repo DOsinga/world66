@@ -5,6 +5,7 @@ latitude: 33.270
 longitude: 35.195
 snippet: "The working port of the old city — colourful boats, nets being mended, and the smell of the sea"
 tags: [things_to_do, sight]
+score: 7.5
 ---
 
 The fishing harbour at the tip of the Tyre peninsula has been in continuous use since antiquity. Today it is a working port where small wooden and fibreglass boats go out at night and return in the early morning. The harbour wall is a good place to watch the catch being unloaded and sorted, and in the late afternoon the boats are lined up and the crews are mending gear or cleaning decks. The atmosphere is unhurried and entirely functional — this is not a heritage re-enactment but a real fishing community.

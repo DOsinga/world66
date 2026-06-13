@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - bar
+score: 6.4
 ---
 
 A wood-panelled roadhouse on Broadway that has been feeding river runners and truck drivers since 1943. The walls are covered with photos and rafting memorabilia; the burgers are large and the beer is cold. It is the social heart of Green River in the way a small-town tavern still can be.

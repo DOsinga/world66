@@ -11,6 +11,7 @@ story: >
   water from the permanent snowfields on Pico Simón Bolívar — at 5,700 metres,
   the highest point in Colombia. The water is correspondingly cold even in the
   lowland heat of Valledupar, which is why Colombians drive hours to swim here.
+score: 6.5
 ---
 
 The Balneario Hurtado is a stretch of the Río Guatapurí in the foothills north of Valledupar where the water runs clear and cold over clean river stones and local families come to swim on weekends. There are food stalls, hammocks strung between the trees, and the kind of easy afternoon that Colombian leisure culture does better than almost anyone.

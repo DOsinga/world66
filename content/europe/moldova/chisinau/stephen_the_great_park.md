@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 47.0250
 longitude: 28.8280
+score: 8.2
 ---
 
 Laid out in 1818 as Chisinau's first public park, this 7-hectare wedge of mature chestnuts, maples, and limes between Stefan cel Mare Boulevard and Eminescu Street is the social centre of the city. Locals come for chess tables, ice cream, free Wi-Fi, and the open-air book market that runs along the western edge most weekends.

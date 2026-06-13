@@ -12,6 +12,7 @@ tags:
 - sight
 title: Tarlair
 type: poi
+score: 7.7
 ---
 
 Just east of town, the Tarlair open-air swimming pool is now a striking ruin on the rocks, its Art Deco terraces slowly being reclaimed by salt spray and grass. It was built in 1933 as a seaside bathing complex and operated until 1995, when maintenance costs finally outran the capacity of the local council to justify them. What remains is an unusually atmospheric derelict site: curved concrete decks, rusted iron railings, and the tidal pool still filling twice a day despite nobody in it.

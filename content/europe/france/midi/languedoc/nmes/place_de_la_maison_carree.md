@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - square
+score: 7.9
 ---
 
 Place de la Maison Carrée is where Roman temple meets contemporary architecture: the perfectly preserved Maison Carrée on one side, Norman Foster's glass-and-steel Carré d'Art on the other, and a pedestrianised square between them lined with cafés.

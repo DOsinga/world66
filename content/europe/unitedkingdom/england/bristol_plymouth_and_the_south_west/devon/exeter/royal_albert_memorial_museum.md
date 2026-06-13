@@ -9,6 +9,7 @@ tags:
   - museum
 title: Royal Albert Memorial Museum
 type: poi
+score: 8.1
 ---
 
 The Royal Albert Memorial Museum and Art Gallery (RAMM) on Queen Street is one of England's best regional museums and entirely free. The building itself is a fine example of Victorian Gothic Revival, opened in 1868 and extensively renovated and expanded between 2007 and 2011.

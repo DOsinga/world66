@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.6
 ---
 
 A pleasant lakeside park stretching along several adjoining lakes in the Kelana Jaya section, with a paved jogging loop, a small amphitheatre, and shaded picnic areas. It fills up at dawn and dusk with runners, families, and the city's growing dog-walking community.

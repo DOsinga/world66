@@ -6,6 +6,7 @@ longitude: 121.75
 snippet: "Hillside park above the harbour dominated by a soaring white Guanyin statue"
 tags: [things_to_do, park, sight]
 story: "The white Guanyin statue at Zhongzheng Park was completed in 1967 and stands about 23 metres tall on its hilltop plinth. Sailors returning to Keelung harbour can see it from the sea long before they dock — for generations of fishermen it has served as both landmark and benediction."
+score: 8.0
 ---
 
 Zhongzheng Park climbs the hill directly above Keelung harbour and offers some of the best views of the port and the surrounding mountains. The park is layered on multiple levels connected by staircases and winding paths. At the top, the enormous white Guanyin statue faces the sea with arms open — she is visible from container ships coming into port and from the city below at night when she is lit up.

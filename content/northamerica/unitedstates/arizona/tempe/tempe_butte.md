@@ -11,6 +11,7 @@ story: The giant white "A" painted on the hillside dates to 1918, when ASU stude
   hauled bags of cement up the butte. Rival students from the University of Arizona
   routinely repaint it red overnight. Tempe students then whitewash it back. The cycle
   has continued for over a century.
+score: 7.1
 ---
 
 Tempe Butte is a volcanic outcrop of dark andesite rock on the north edge of downtown, rising 100 metres above the Salt River. Most locals call it "A" Mountain after the enormous white letter A painted on its south face by Arizona State University students in 1918.

@@ -9,6 +9,7 @@ tags:
 latitude: 34.8875
 longitude: 73.6931
 story: "The lake's name comes from a Persian tale: Prince Saiful Muluk fell in love with a fairy princess here, and a jinn — furious at the trespass — caused the valley to flood, creating the lake. The mountain reflected in its waters is Malika Parbat, 5,290 metres high, and the combination of glacial blue water, snow-capped peak, and the story behind it has made this Pakistan's most photographed mountain lake."
+score: 9.1
 ---
 
 At 3,224 metres above sea level, Lake Saiful Muluk is the highest point most visitors to Kaghan reach — a glacial lake ringed by mountains at the head of a side valley above Naran. The water is an almost unnatural shade of turquoise-blue, fed by snowmelt from Malika Parbat and the smaller Saiful Muluk Glacier that hangs above the southern shore. On clear mornings, the reflection of Malika Parbat in the lake's surface is one of the most striking sights in northern Pakistan.

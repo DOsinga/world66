@@ -12,6 +12,7 @@ tags:
 - architecture
 title: St Paul's Cathedral
 type: poi
+score: 9.4
 ---
 
 Wren's masterpiece, completed in 1710, dominates the City skyline in a way that London's newer towers haven't quite managed to diminish. The dome is famous; the Whispering Gallery inside it is the genuinely strange attraction — words whispered against the curved wall carry all the way around to listeners on the opposite side. Climb higher for panoramic views across the city. Below, the crypt holds the graves of Nelson and Wellington.

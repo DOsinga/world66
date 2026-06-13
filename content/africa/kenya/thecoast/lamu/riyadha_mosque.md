@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Riyadha Mosque, at the southern end of the old town, is the most important Islamic religious centre in Lamu and one of the leading Sufi institutions in East Africa. It was founded in 1900 by Sheikh Habib Saleh and remains both a mosque and a madrasa, drawing students from across the western Indian Ocean.

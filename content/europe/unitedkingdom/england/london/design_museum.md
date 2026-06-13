@@ -14,6 +14,7 @@ tags:
 title: Design Museum
 type: poi
 url: designmuseum.org
+score: 7.0
 ---
 
 The Design Museum moved to its current home in the former Commonwealth Institute building in Kensington in 2016, a vast improvement on its cramped original space on Shad Thames. The permanent collection — Designer Maker User — covers the history of design from mass production to the present day, and is free. It includes everything from iconic posters and chairs to the Apple Mac.

@@ -9,6 +9,7 @@ latitude: 42.6363
 longitude: 24.3567
 story: >
   Dimcho Debelyanov was killed in the First World War in 1916, aged 28, near the Greek village of Kenali. He had been a symbolist poet of considerable promise. His mother lived on in the Koprivshtitsa house, and the story goes that she waited daily by the gate for a son who never returned. A sculpture in the courtyard by the Bulgarian artist Andrey Nikolov — a woman standing at a gate — was made in her image.
+score: 7.5
 ---
 
 The Debelyanov House is the most quietly affecting of Koprivshtitsa's museums. Dimcho Debelyanov (1887–1916) was born here and grew up to become one of Bulgaria's finest symbolist poets before being killed in the First World War at 28. The house preserves his childhood rooms, manuscripts, and the courtyard where his mother reportedly waited for his return.

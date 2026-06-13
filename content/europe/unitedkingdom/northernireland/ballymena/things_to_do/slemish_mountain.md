@@ -1,6 +1,7 @@
 ---
 title: "Slemish Mountain"
 type: poi
+score: 8.0
 ---
 
 Slemish is an isolated volcanic plug rising about 437 metres from the flat farmland of the Antrim plateau, some nine kilometres southeast of Ballymena. The cone is unmistakable on the horizon — abrupt, steep-sided, and quite unlike anything else in the surrounding landscape. Geologically it's the eroded neck of an ancient volcano, left standing after the softer rock around it was worn away.

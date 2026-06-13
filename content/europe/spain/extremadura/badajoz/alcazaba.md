@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Alcazaba of Badajoz
 type: poi
+score: 8.8
 ---
 
 One of the largest Moorish fortresses in Spain, built in the 9th century by the Galician-Muslim rebel Ibn Marwan when he founded the city as a defensible refuge from the Emirate of Cordoba. The walls enclose a hilltop area of about eight hectares, with gardens, the Palace of the Dukes of La Roca, the small church of San Pedro and the octagonal Torre de Espantaperros — built in the 12th century by the Almohads and still the most distinctive feature of the Badajoz skyline.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.4474
 longitude: 30.5359
+score: 7.0
 ---
 
 The official ceremonial residence of the Ukrainian president, commissioned by Empress Elizabeth in 1744 and designed by Bartolomeo Rastrelli — the same architect who built Saint Andrew's Church just down the hill. The palace is named for Empress Maria Alexandrovna, who lived there during the 19th century.

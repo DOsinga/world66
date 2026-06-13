@@ -14,6 +14,7 @@ story: >
   to Lipica. During Napoleon's Italian campaign, the horses were evacuated across
   Europe to keep them safe — they returned, as they always have, to this limestone
   plateau in the Karst.
+score: 8.8
 ---
 
 The Lipica Stud Farm is the reason the village exists and the reason to visit. Founded in 1580, it is one of the oldest continuously operating horse-breeding establishments in Europe, the origin of the Lipizzan breed, and the source of the white horses that have performed at Vienna's Spanish Riding School for over four centuries.

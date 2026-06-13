@@ -7,6 +7,7 @@ tags:
 - market
 title: Chao Phrom Market
 type: poi
+score: 6.2
 ---
 
 The city's main covered market, near the river on the east side of the island. A classic Thai wet market full of fresh produce, dried goods, prepared food stalls, and the usual morning chaos of local commerce. It is one of the livelier spots to witness everyday Ayutthayan life away from the temple circuit.

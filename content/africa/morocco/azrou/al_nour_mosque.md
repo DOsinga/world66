@@ -8,6 +8,7 @@ tags:
   - religious
 sources:
   - https://en.wikipedia.org/wiki/Al-Nour_Mosque_(Morocco)
+score: 5.4
 ---
 
 The Al-Nour Mosque is the largest mosque in Azrou, sitting on a rise above the main road on the way out towards Ifrane. The dimensions are imposing — a wide courtyard, twin minarets, and a green-tiled prayer hall that holds several thousand worshippers — and it dominates the modern part of town the way the older mosques anchor the medina.

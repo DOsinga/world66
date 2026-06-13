@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - square
+score: 6.7
 ---
 
 The main square of Grazalema, the focal point of village life: a small triangular plaza ringed by bars, the 18th-century parish church of La Aurora, and a stepped fountain whose water comes directly from springs in the sierra above. The bar terraces are filled from late morning until lights-out, and the locals have not given the square over to tourists.

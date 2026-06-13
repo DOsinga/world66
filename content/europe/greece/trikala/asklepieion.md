@@ -11,6 +11,7 @@ story: >
   at Epidaurus. Ancient sources including Strabo confirm that Tricca was the primary city of 
   Asclepius, and the Hippocratic writings describe it as the original centre of Greek medical 
   practice. The family of Hippocrates claimed descent from Asclepius himself.
+score: 6.8
 ---
 
 In the heart of the modern city, between the church of Agios Nikolaos and the central square, lie the excavated remains of a sanctuary dedicated to Asclepius — an Asklepieion. These are among the oldest known remains of an Asclepian healing sanctuary in Greece, predating even the famous Epidaurus complex. The ruins include traces of stoas, cult buildings, and mosaic floors from the Roman period that sits atop the earlier Greek sanctuary.

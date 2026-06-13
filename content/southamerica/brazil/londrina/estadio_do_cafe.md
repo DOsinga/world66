@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.2822
 longitude: -51.165
+score: 5.6
 ---
 
 The Estádio Jacy Scaff, universally known as the Estádio do Café (Stadium of Coffee), is Londrina's main football ground and one of the best-known stadiums in Paraná. Built in 1976 and with a capacity of around 30,000, it serves as the home ground of Londrina Esporte Clube and the venue for major events in the city. The name is an unambiguous statement about what built Londrina.

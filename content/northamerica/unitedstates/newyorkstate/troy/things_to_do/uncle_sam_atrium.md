@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Uncle_Sam_Atrium
   - https://en.wikipedia.org/wiki/Uncle_Sam
+score: 4.9
 ---
 
 The Uncle Sam Atrium is a covered shopping arcade on Broadway named for Troy's most famous claim to national mythology. Samuel Wilson (1766–1854) was a Troy meat packer who supplied barrels of beef to the US Army during the War of 1812, stamping them "US" for United States. His workers took to calling the supplier "Uncle Sam," and the nickname eventually attached to the national personification of America itself. Wilson is buried in Oakwood Cemetery north of downtown, where his grave is marked with an explanatory plaque.

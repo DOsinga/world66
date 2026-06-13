@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - juan_les_pins
 neighbourhood: Juan-les-Pins
+score: 7.3
 ---
 
 For ten days in mid-to-late July, the pine grove behind the Juan-les-Pins seafront becomes one of the more atmospheric concert venues on the coast. Headline acts play under the umbrella pines with the bay just visible through the trunks; smaller free shows spill out into the town in the afternoon.

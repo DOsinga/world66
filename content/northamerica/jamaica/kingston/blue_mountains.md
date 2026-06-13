@@ -9,6 +9,7 @@ latitude: 18.0573
 longitude: -76.6396
 story: >
   The Blue Mountains rise to 2,256 metres at Blue Mountain Peak — higher than anything in Cuba, Hispaniola, or Puerto Rico. The mountain coffee grown in the upper elevations, between 900 and 1,500 metres, is among the most expensive in the world. Jamaica's Blue Mountain Coffee fetches premium prices largely because the dense cloud forest and cool temperatures create slow-ripening cherries with unusually complex flavour. Most of what is sold under that label at lower prices is blended or outright mislabelled.
+score: 8.7
 ---
 
 The Blue Mountains rise directly behind Kingston, visible from anywhere in the city on clear days — deep blue-green ridges that seem impossibly close given their 2,200-metre summits. The range is one of the oldest in the Caribbean, forms the spine of eastern Jamaica, and is protected as a UNESCO World Heritage Site (Blue and John Crow Mountains National Park). From Kingston, the drive to the mountain villages at the base takes 45 minutes to an hour.

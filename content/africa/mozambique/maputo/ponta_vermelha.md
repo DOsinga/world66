@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The **Palácio da Ponta Vermelha** ("Red Point Palace") sits on a clifftop bluff above the south-eastern end of the bay, looking across the water to Katembe. The salmon-pink palace was built in 1887 for the colonial governor and is now the official residence of the **President of Mozambique**. It is named for the red soil of the headland on which it stands.

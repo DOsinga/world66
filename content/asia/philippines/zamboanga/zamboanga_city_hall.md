@@ -10,6 +10,7 @@ latitude: 6.9040
 longitude: 122.0761
 sources:
   - https://en.wikipedia.org/wiki/Zamboanga_City_Hall
+score: 6.3
 ---
 
 The City Hall is a low, white American-period building on Plaza Pershing in the very centre of downtown — Mediterranean-revival arcades, red-tiled roof, palm trees out front. Built in 1907, it was originally the headquarters of the Moro Province under American military governor General John J. Pershing (who later commanded US forces in Europe in the First World War) and the square in front of the building takes his name.

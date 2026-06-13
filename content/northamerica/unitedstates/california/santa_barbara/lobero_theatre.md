@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.4216
 longitude: -119.6999
+score: 7.3
 ---
 
 The Lobero is the oldest continuously operating theatre in California, opened in 1873 by the Italian-born musician José Lobero and rebuilt in its current Spanish Colonial Revival form in 1924. It is small (about 600 seats) and intimate — most performers complain about, or rave about, how close the front row is to the stage.

@@ -7,6 +7,7 @@ tags:
 latitude: 53.3252
 longitude: 5.9993
 snippet: "Traditional Dutch restaurant near the canal, reliable for a sit-down lunch or dinner."
+score: 5.7
 ---
 
 Restaurant Het Schip (The Ship) takes its name from the maritime heritage of Dokkum and occupies a canal-side spot in the old town. The menu is solidly Dutch-traditional — stamppot in winter, fish dishes in summer, and year-round the kind of cooking that provincial Dutch restaurants have always done well.

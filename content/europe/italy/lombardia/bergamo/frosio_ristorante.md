@@ -12,6 +12,7 @@ tags:
 title: Frosio Ristorante
 type: poi
 url: http://www.acena.it/stellemichelin/frosio.html
+score: 6.8
 ---
 
 A Michelin-starred restaurant in the village of Almè, just north of Bergamo. Frosio changes its menu with the seasons — autumn brings onion tart with black truffles, summer a risotto with basil and shrimp. Set menus run €34–47. Booking is essential.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6558
 longitude: 116.9944
+score: 6.8
 ---
 
 Jinan's spring parks stay open after dark, and the evening illuminations transform the atmosphere. Baotu Spring and the canal channels around it are lit with soft colored lights that reflect off the flowing water; the willow trees are spot-lit from below; the stone bridges cast rippling shadows. The crowds thin out significantly after 8pm, and the park in the two or three hours before closing has a quieter, more contemplative quality than during the tourist-heavy daytime hours.

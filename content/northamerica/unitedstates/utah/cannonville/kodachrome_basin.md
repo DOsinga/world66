@@ -14,6 +14,7 @@ tags:
 - hiking
 title: Kodachrome Basin State Park
 type: poi
+score: 8.4
 ---
 
 Kodachrome Basin State Park, a few miles south of Cannonville on the road to the Paria River, is named for the vivid, saturated colours of its rock formations — reds, pinks, whites, and oranges that shift dramatically with the angle of light. The park's most unusual features are its 67 sedimentary pipes: solid stone columns standing in isolation, formed from ancient underground geyser vents that hardened while the surrounding softer rock eroded. The tallest reach 170 feet.

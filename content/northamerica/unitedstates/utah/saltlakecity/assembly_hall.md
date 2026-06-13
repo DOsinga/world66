@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.7703
 longitude: -111.8923
+score: 6.9
 ---
 
 The Assembly Hall, on the southwest corner of Temple Square, is a smaller, more church-like building than its neighbours — a Victorian-Gothic chapel of grey granite with six spires that echo the larger spires of the Temple opposite. It was built between 1877 and 1882 from granite left over from the Temple construction.

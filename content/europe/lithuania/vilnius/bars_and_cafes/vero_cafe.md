@@ -9,6 +9,7 @@ tags:
   - bar
   - old_town
 neighbourhood: Old Town
+score: 6.3
 ---
 
 Vero Cafe is Lithuania's answer to serious espresso — a local chain that takes coffee properly and has a branch right on Cathedral Square with outdoor tables looking directly at the Cathedral and Gediminas Hill. The coffee is well-made, the pastries are good, and the location is among the most coveted outdoor table real estate in Vilnius.

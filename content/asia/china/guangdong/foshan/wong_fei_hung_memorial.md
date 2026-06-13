@@ -14,6 +14,7 @@ story: >
   in Guangzhou who was also known for his martial arts school; the heroic folk avenger of the
   movies is almost entirely a later construction. The memorial in Foshan focuses on the real
   person, which is in some ways more interesting than the legend.
+score: 7.0
 ---
 
 The Wong Fei-hung Memorial Hall is part of the Zumiao complex, a short walk from the Ancestral Temple's main hall. It documents the life and legacy of Foshan's most famous son through photographs, artefacts, and displays on the development of Hung Gar kung fu, the style Wong Fei-hung practised and taught. The hall is thoughtful about distinguishing between documented history and later mythology — a distinction the cinema has largely collapsed.

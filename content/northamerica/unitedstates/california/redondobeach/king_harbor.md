@@ -8,6 +8,7 @@ snippet: "Small-craft harbour sheltering 1,400 boats just north of the pier"
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 King Harbor is the small-boat marina that wraps around the curve of coast just north of the pier. It shelters around 1,400 vessels — mostly recreational sailboats, sport-fishing charters and a handful of commercial fishing boats — behind a long breakwater that gives the harbour its name (King for the substantial public works push that built it in the 1960s).

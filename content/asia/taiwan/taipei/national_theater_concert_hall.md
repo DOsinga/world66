@@ -9,6 +9,7 @@ tags:
 title: National Theater and National Concert Hall
 type: poi
 url: https://npac-ntch.org
+score: 8.1
 ---
 
 Facing each other across the immense plaza in front of the Chiang Kai-shek Memorial, the National Theater and National Concert Hall are a matched pair of grand performance halls built in 1987 in the same Chinese imperial-palace style as the memorial itself: yellow tile, red columns, sweeping multi-tiered roofs. The interiors are however thoroughly modern; the auditoria are among the best in East Asia for acoustics and sightlines.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Night Slalom on Planai
 type: poi
+score: 8.4
 ---
 
 The FIS Alpine World Cup Night Slalom held each January on Planai is one of the signature events in alpine skiing — a men's slalom race run under floodlights with 40,000–50,000 spectators filling the slope and the Stadtplatz below. The atmosphere is unlike a normal race: the crowd is loud, close to the course, and deeply partisan.

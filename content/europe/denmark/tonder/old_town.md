@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 54.9381
 longitude: 8.8630
+score: 8.3
 ---
 
 The old town of Tønder is compact, extremely well preserved, and contains one of the best collections of 17th and 18th-century merchant architecture in southern Jutland. The gabled houses that line Storegade, Vestergade, and the streets around the old market square were built by prosperous lace merchants at the peak of Tønder's commercial success, and the town has managed to protect them from the worst of 20th-century redevelopment.

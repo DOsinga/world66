@@ -7,6 +7,7 @@ snippet: Long, wide beach on Phuket's west coast, quieter than Patong
 tags:
 - things_to_do
 - beach
+score: 7.2
 ---
 
 Karon is Phuket's second longest beach — a broad sweep of fine white sand stretching about three kilometres along the island's west coast. It sits between Patong to the north and Kata to the south, and has considerably less noise and nightlife than Patong while still having a full range of restaurants and guesthouses along the main road.

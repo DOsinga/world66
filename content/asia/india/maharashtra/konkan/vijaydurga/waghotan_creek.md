@@ -9,6 +9,7 @@ latitude: 16.5481
 longitude: 73.3367
 sources:
   - https://en.wikipedia.org/wiki/Vijaydurg_(town)
+score: 7.5
 ---
 
 The estuary where the Waghotan Creek enters the sea at Vijaydurga is one of the most reliable spots on the Konkan coast to see dolphins. Resident populations of Indo-Pacific humpback dolphins and bottlenose dolphins feed in the shallow waters of the creek mouth, and local fishermen will sometimes take visitors out in their boats in the early morning. Early October to May is the best season — from June to September the monsoon makes the sea too rough.

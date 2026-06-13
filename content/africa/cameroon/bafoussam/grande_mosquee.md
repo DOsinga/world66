@@ -9,6 +9,7 @@ latitude: 5.4886
 longitude: 10.4073
 sources:
   - https://en.wikipedia.org/wiki/Diocese_of_Bafoussam
+score: 6.8
 ---
 
 The Grande Mosquée is the most architecturally striking building in Bafoussam's city centre. Its towers are visible from several streets away and represent the most visible sign of the city's Muslim community — drawn historically from the Hausa trading networks that spread across West and Central Africa, whose neighbourhood, Quartier Haussa, remains a distinct enclave north of the central market. The mosque is the largest in the city and serves as the Friday prayer centre for the wider Muslim population of the West Region.

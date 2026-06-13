@@ -9,6 +9,7 @@ latitude: 49.8498
 longitude: -119.4677
 story: >
   Charles Pandosy, the Oblate priest who founded the mission in 1859, planted apple trees in the mission garden that are considered the origin of the Okanagan's apple industry — now one of the largest in Canada. He is buried at the mission, and the orchard, though much reduced, still produces fruit.
+score: 7.3
 ---
 
 Father Pandosy Mission is the oldest non-indigenous settlement in the Okanagan Valley, established in 1859 by Father Charles Pandosy, a French Oblate missionary. The surviving buildings — a chapel, a schoolroom, a farm building, and several sheds — are among the oldest standing structures in the British Columbia interior, and the site has been preserved as a heritage park in the south of Kelowna.

@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 9.3110
 longitude: 123.3052
+score: 5.8
 ---
 
 The streets around Silliman University support a cluster of small coffee shops that cater to students but welcome everyone. They are generally affordable, reliably air-conditioned, and produce decent espresso alongside the standard Filipino coffee-shop repertoire of frappes and flavoured lattes. A few have outdoor seating that catches the breeze off the boulevard.

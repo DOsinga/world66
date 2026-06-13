@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - theatre
+score: 7.4
 ---
 
 The Valentine Theatre is downtown Toledo's restored 1895 vaudeville house, on the corner of Superior and Adams. The interior — a 901-seat Italianate auditorium with hand-painted murals, ornate plasterwork and box seats — was meticulously restored between 1996 and 1999 after the theatre had spent decades as a movie house and then closed altogether.

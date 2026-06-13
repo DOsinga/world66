@@ -9,6 +9,7 @@ tags:
 latitude: 6.1276
 longitude: 1.2141
 story: "The hotel takes its name from 2 February 1974, the day President Gnassingbé Eyadéma's plane crash in northern Togo was officially blamed on French and German mining interests — a useful piece of nationalist propaganda. The 36-storey tower opened six years later as the regime's principal showpiece."
+score: 6.7
 ---
 
 The Hôtel 2 Février is the tallest building in Togo at 102 metres, and a stubborn piece of Eyadéma-era modernism that has dominated the Lomé skyline since 1980. After a long period of state-run decline it was sold to Radisson, refurbished and reopened as a Radisson Blu in 2016, and is now the most upmarket address in the city.

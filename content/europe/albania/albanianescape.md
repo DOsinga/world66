@@ -7,6 +7,7 @@ tags:
 - books
 title: Albanian Escape
 type: poi
+score: 4.2
 ---
 
 The True Story of U.S. Army Nurses behind Enemy Lines

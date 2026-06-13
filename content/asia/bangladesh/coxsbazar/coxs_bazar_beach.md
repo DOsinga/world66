@@ -11,6 +11,7 @@ story: >
   The beach takes its name from Hiram Cox, a British East India Company officer who died here in 1799 while trying to resettle Arakanese refugees — an eerily apt origin for a coast that has since become home to the world's largest refugee settlement. The unbroken 120-kilometre sweep of sand is genuinely one of the world's longest natural beaches, a fact the Bangladeshi tourism board has promoted with gusto since the 1980s.
 title: Cox's Bazar Beach
 type: poi
+score: 4.4
 ---
 
 One of the longest natural sandy beaches in the world — 120 kilometres of unbroken shoreline running south along the Bay of Bengal toward the Myanmar border. The beach is wide and gently sloping, backed by casuarina trees and, closer to town, a wall of hotels. The waves are moderate, good enough for swimming when the sea is calm between November and March.

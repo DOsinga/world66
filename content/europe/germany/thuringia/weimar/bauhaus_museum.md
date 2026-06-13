@@ -11,6 +11,7 @@ tags:
 - museum
 title: Bauhaus Museum
 type: poi
+score: 8.6
 ---
 
 Opened in 2019 for the Bauhaus centenary, this purpose-built museum on the Stéphane-Hessel-Platz houses the world's oldest Bauhaus collection — ceramics, furniture, typography, textiles, and paintings from the school's Weimar years. The building itself is a considered piece of design: a long glass and concrete rectangle that sits lightly in the park. Allow two hours minimum; the collection is richer than it looks from outside.

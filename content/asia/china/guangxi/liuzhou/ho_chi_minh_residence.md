@@ -15,6 +15,7 @@ story: >
   revolutionary solidarity that connected Chinese communists and Vietnamese
   nationalists long before either country's revolution was complete — a
   relationship the official histories of both nations tend to simplify.
+score: 6.8
 ---
 
 The small house in the Dongmen area of Liuzhou where Ho Chi Minh lived during his periods in the city has been preserved as a memorial museum. It is a modest structure — a single-storey wooden building with period furnishings — but the exhibits contextualise Ho's time in Guangxi within the broader history of the Vietnamese independence movement and the connections between Chinese and Vietnamese revolutionary politics of the 1940s.

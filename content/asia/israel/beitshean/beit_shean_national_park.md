@@ -9,6 +9,7 @@ latitude: 32.4968
 longitude: 35.4973
 story: >
   When the earthquake of 749 CE struck on a January morning, the city was busy — markets open, bathhouses full, the theatre perhaps hosting a performance. The quake levelled virtually the entire Roman lower city in seconds. Archaeologists found the ruins preserved under the rubble almost exactly as the inhabitants had left them: oil lamps still on shelves, coins scattered mid-transaction across the marketplace pavement.
+score: 9.6
 ---
 
 The national park encompasses the Roman lower city and the tel — the great mound of superimposed cities — that looms above it. Together they represent continuous human occupation stretching back more than seven thousand years, making this one of the oldest and most layered archaeological sites in the Middle East.

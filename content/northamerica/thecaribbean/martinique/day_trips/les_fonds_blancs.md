@@ -9,6 +9,7 @@ tags:
 - nature
 title: Les Fonds Blancs
 type: poi
+score: 8.1
 ---
 
 Off the east coast of Martinique, between Le François and Le Vauclin, patches of white sand rise just below the surface of the Caribbean, creating waist-deep pools of clear turquoise water in the middle of the sea. The most famous of these sandbars is called the Baignoire de Joséphine — legend says Empress Joséphine herself used to bathe here, though the story is almost certainly invented.

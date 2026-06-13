@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Wonderfully complete 18th-century Albanian merchant's house, inside the castle"
+score: 7.8
 ---
 
 A quietly excellent small museum inside Krujë Castle, in a restored 18th-century Ottoman-Albanian merchant's house belonging to the Toptani family. Every room is set up as a living space: the kitchen with its copper kettles, the women's quarters with low cushions and carved oak chests, the master's reception room with carved ceiling, the carpet looms on the upper floor.

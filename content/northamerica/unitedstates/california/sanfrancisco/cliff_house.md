@@ -8,6 +8,7 @@ tags:
 title: Cliff House
 snippet: Historic clifftop landmark overlooking Seal Rocks and the Sutro Baths ruins
 type: poi
+score: 7.1
 ---
 
 Perched on the cliffs above Ocean Beach, the Cliff House has been a San Francisco landmark since the 1860s (though the current building dates from 1909). The site overlooks Seal Rocks, where sea lions bask and bark, and on clear days the views up and down the coast are spectacular.

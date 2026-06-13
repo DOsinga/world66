@@ -8,6 +8,7 @@ tags:
   - architecture
 title: Dark Gate
 type: poi
+score: 6.5
 ---
 
 The Dark Gate (Sötétkapu) is a vaulted tunnel passage cut through the artificial earthwork slopes of Castle Hill, connecting the lower town to the castle precinct. The name is literal — before modern lighting, the passage was genuinely dark, and travellers moved through it by feel. Today it is the main pedestrian approach to the hilltop from the Víziváros district below.

@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 48.77833
 longitude: -123.61444
+score: 8.0
 ---
 
 Mount Tzouhalem rises above the eastern shore of Maple Bay, about 10 km from Duncan, and offers the best hiking in the immediate Cowichan Valley. The mountain's southern slopes are covered with a Garry oak ecosystem — one of the most endangered ecosystems in Canada — and in spring the hillside is covered with wildflowers including camas, shooting stars, and sea blush. The peak gives views across the Salish Sea toward the Gulf Islands and the mainland mountains.

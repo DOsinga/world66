@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.635359
 longitude: -3.167464
+score: 6.8
 ---
 
 Santiago el Mayor is one of the most distinctive churches in Guadalajara's old town, with a tall square tower that dominates the streetscape around it. The church was built in the 15th and 16th centuries in a transitional Gothic-Renaissance style and contains several good examples of Mendoza family patronage — the tombs and chapels inside reflect the wealth and piety of the families who controlled Guadalajara during its brief period of prominence.

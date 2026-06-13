@@ -12,6 +12,7 @@ story: >
   anything visible from the surface. They spent years excavating and enlarging the entrance passages
   before opening the caves to the public in 1953. The original entrance hole — barely large enough
   for a person — is still visible near the ticket booth.
+score: 8.3
 ---
 
 Tuckaleechee Caverns sit right in the centre of Townsend, about as convenient a cave visit as you will find anywhere in the Smokies. The cave system is genuinely impressive: a mile of well-lit passages open to the public, featuring one large "Big Room" roughly the size of a football field, with ceiling formations that include stalactites more than 20 feet long.

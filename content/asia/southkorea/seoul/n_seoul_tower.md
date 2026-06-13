@@ -15,6 +15,7 @@ story: >
   of coloured metal that has become a tourist attraction in its own right. The
   tradition spread from Seoul to lover's locks on bridges across Europe and
   Asia.
+score: 7.4
 ---
 
 N Seoul Tower stands 236 metres tall on the summit of Namsan Mountain near the centre of the city, giving it an effective height of nearly 480 metres above sea level. The observation deck at the top offers a 360-degree panorama of the city — on clear days you can see Bukhansan to the north and the Han River south to Gangnam. The tower is lit in different colours at night depending on the city's air quality index, making it a visible gauge of Seoul's pollution levels.

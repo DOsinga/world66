@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: A serious, slightly ridiculous museum of mammal genitalia
 story: "The founder, a retired teacher named Sigurður Hjartarson, started the collection in 1974 when colleagues began giving him bull pizzles as joke gifts. He spent the next thirty years adding to it. The museum's stated goal is to be the only institution in the world with specimens from every mammal species in a single country."
+score: 6.4
 ---
 
 A small, surprisingly scholarly museum dedicated to the penises of every mammal species in Iceland — whales, seals, foxes, sheep, mice, the lot. Roughly 280 specimens are on display in jars and on plaques, with bilingual labels that give the species, the length, and the curator's wry comments.

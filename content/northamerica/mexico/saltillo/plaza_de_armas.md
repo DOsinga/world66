@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.4219
 longitude: -101.001
+score: 6.8
 ---
 
 The Plaza de Armas is the heart of Saltillo's colonial centre, a large shaded square flanked by the cathedral to the south, the Palacio de Gobierno to the west, and the Palacio Municipal to the north. In the evenings the square fills up — families with strollers, vendors selling corn and sweets, old men on benches. It feels genuinely lived-in rather than preserved for tourists.

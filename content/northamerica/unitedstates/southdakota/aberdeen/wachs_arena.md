@@ -6,6 +6,7 @@ longitude: -98.4804
 tags:
   - things_to_do
   - sport
+score: 5.7
 ---
 
 The 8,000-seat multipurpose arena on the Northern State University campus is the largest indoor venue in the region. Basketball and volleyball games for the NSU Wolves run from October through March; the arena also hosts trade shows, concerts, and the South Dakota high school state tournaments.

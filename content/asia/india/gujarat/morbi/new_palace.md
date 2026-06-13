@@ -9,6 +9,7 @@ tags:
 - sight
 title: New Palace
 type: poi
+score: 7.0
 ---
 
 The New Palace (Naya Mahal) was built in the early 20th century by the Morbi royal family — the Jadeja clan who ruled Morbi as an independent princely state until 1948. The building combines Art Deco and European Neoclassical elements with Indian decorative motifs, a combination typical of the forward-looking Jadeja rulers who were known for inviting international architects and influences to their court.

@@ -13,6 +13,7 @@ story: >
   since it began in 1975. The roll call runs from Clint Eastwood and Meryl
   Streep to Quentin Tarantino and Scarlett Johansson — a quiet way of
   turning the daily walk into a stroll through the festival's history.
+score: 8.3
 ---
 
 The Promenade des Planches — literally "the boardwalk of planks" — is the most famous stretch of seafront in Normandy. Half a kilometre of weathered wooden decking runs along the dunes, lined on its inland side by 450 striped beach cabins in Art Deco-revival style, painted in pastel pinks, blues and greens. Each cabin carries the name of a star or director who has attended the Deauville American Film Festival.

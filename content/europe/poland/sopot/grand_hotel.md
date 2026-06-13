@@ -11,6 +11,7 @@ story: >
   The Grand Hotel was a favourite of Adolf Hitler during his visits to Sopot (then Zoppot) in the 1930s. After the war it passed into Polish state ownership and was later sold and renovated as a Sofitel. Its Art Deco interior and beachfront position make it one of the grander reminders of Sopot's pre-war life as an international resort.
 sources:
   - https://en.wikipedia.org/wiki/Grand_Hotel,_Sopot
+score: 6.8
 ---
 
 The Grand Hotel — now the Sofitel Grand Sopot — dominates the seafront at the north end of the beach. Built in 1927, it is a large, handsome building in the Central European resort style, with the kind of white-painted facade and terraces that suggest Côte d'Azur ambitions transplanted to the Baltic. It is the most prominent building on Sopot's seafront and an unavoidable landmark.

@@ -10,6 +10,7 @@ tags:
   - swimming
 sources:
   - https://en.wikipedia.org/wiki/Ad%C3%ADcora
+score: 8.1
 ---
 
 Adícora sits on the eastern coast of Paraguaná, where the Médano trade winds blow consistently from the northeast and the shallow lagoon behind the beach provides ideal conditions for kitesurfing and windsurfing. Several operators rent equipment and run lessons. The wind draws an international crowd of surfers, giving this small fishing village an unexpectedly cosmopolitan atmosphere.

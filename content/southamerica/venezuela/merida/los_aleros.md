@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.6433
 longitude: -71.1042
+score: 7.8
 ---
 
 Los Aleros, about 25 kilometres from Mérida in the mountain village of Tabay, is a large open-air recreation of an Andean village from the 1930s — not a museum but an inhabited attraction, with resident artisans, a working school, a church, a village square, and restaurants serving traditional Andean food. The creator, Alexis Montilla, built it in 1984 as a tribute to the way of life he grew up in.

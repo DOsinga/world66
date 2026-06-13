@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 7.0720
 longitude: 125.6010
+score: 7.9
 ---
 
 Bankerohan is Davao's main public market, a sprawling collection of stalls and vendors that has been the food supply of the city for generations. It is a working market, not a tourist attraction, which is exactly what makes it worth visiting. The produce section is spectacular — tropical fruits in abundance, including the full range of Mindanao exotics like marang, pomelo, rambutan, and of course durian in season.

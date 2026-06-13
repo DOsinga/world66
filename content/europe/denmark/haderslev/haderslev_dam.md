@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.2510
 longitude: 9.4940
+score: 7.1
 ---
 
 Haderslev Dam is a long, narrow lake — created by damming the Haderslev stream in the medieval period — that runs through the centre of town and defines its geography. The banks are lined with walking paths, benches, and old mill buildings, and the lake is a genuine pleasure in summer and autumn when the surrounding trees turn.

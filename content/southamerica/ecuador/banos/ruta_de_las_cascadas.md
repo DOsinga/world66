@@ -9,6 +9,7 @@ latitude: -1.4175
 longitude: -78.3572
 story: >
   The Pailón del Diablo (Devil's Cauldron) takes its name from the sound — on a rainy season day when the Río Pastaza is running high, the noise of the falls thundering into the canyon is genuinely alarming, a continuous roar that you hear long before you see the falls. The name was given by local guides who thought the churning white water at the bottom resembled the visions of hell described by the Spanish missionaries.
+score: 8.8
 ---
 
 The Route of the Waterfalls is a 17-kilometre downhill ride (by bicycle, chiva bus, or a combination) from Baños along the Pastaza River valley toward the Amazon basin. The road drops through a spectacular gorge, passing five waterfalls of varying size and character. Rental bikes are available in Baños and the route is almost entirely downhill — the return trip is made by public bus.

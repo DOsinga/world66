@@ -8,6 +8,7 @@ tags:
   - sight
   - balboa_peninsula
 story: "Newport's dory fishermen — the last commercial fleet in the U.S. that fishes from beach-launched skiffs — have been launching off the sand at the base of the pier since 1891. Boats go out before dawn and the catch is sold straight off the boats around 9 or 10am — rock cod, sand bass, halibut, sea urchin, spider crab."
+score: 7.7
 ---
 
 The Newport Pier was first built in 1888 as McFadden's Wharf — a working wharf for shipping lumber and produce by rail to inland California. Today's pier, rebuilt several times, is 980 feet long and a popular spot for fishing without a licence, sunsets, and walking off a big breakfast at one of the cafes at the base.

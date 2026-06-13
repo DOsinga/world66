@@ -6,6 +6,7 @@ longitude: 2.0111
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The Estadi Olímpic de Terrassa hosted the field hockey competition at the 1992 Barcelona Olympic Games — the most important international sporting event ever held in the city. The 11,000-seat stadium is still in active use, hosting hockey internationals, the local Atlètic Terrassa HC and Egara HC clubs, and occasional concerts.

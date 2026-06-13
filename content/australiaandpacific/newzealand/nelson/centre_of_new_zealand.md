@@ -9,6 +9,7 @@ latitude: -41.2683
 longitude: 173.2942
 story: >
   The marker at the top of Botanical Hill claims to mark the geographic centre of New Zealand, but the calculation it is based on — an 1870s survey reference point — is more historical than geographically accurate. The actual centre of mass of the country is somewhere in the bush behind Spooners Range, less convenient for a sign.
+score: 7.1
 ---
 
 The Centre of New Zealand walk starts in the Botanical Reserve on the eastern edge of town and climbs through pines and regenerating native bush to a viewpoint at 168 metres. The path is well-graded and takes about thirty minutes each way at an easy pace.

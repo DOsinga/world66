@@ -9,6 +9,7 @@ tags:
 snippet: "9,000-year-old Neolithic city, one of the earliest large human settlements"
 story: >
   At its peak around 7000 BC, Çatalhöyük housed perhaps 8,000 people in a labyrinth of mud-brick houses packed so tightly together that there were no streets — residents entered through holes in the roofs and walked from house to house along the rooftops. The dead were buried under the floors of the same rooms in which the living slept. The wall paintings — hunting scenes, geometric patterns, hand-prints — are among the earliest art in any settled human society.
+score: 9.4
 ---
 
 Çatalhöyük, 50 km southeast of Konya, is one of the most important archaeological sites in the world: a Neolithic city, occupied between roughly 7400 and 5600 BC, which gives us our best picture of what early settled human society looked like. UNESCO-listed since 2012, it has been under excavation continuously since the late 1950s.

@@ -13,6 +13,7 @@ story: >
   is a grass that grows on the rocky terraces; Federspiel is the lure
   (literally "feather game") used by falconers; Smaragd is the green lizard
   (Lacerta viridis) that basks on the warm stone walls of the vineyards.
+score: 9.2
 ---
 
 The Wachau is one of Austria's premier wine regions, and the terraced vineyards on the steep south-facing slopes above the Danube produce some of the finest white wines in the German-speaking world. The valley's position — sheltered by the hills on three sides, warmed by the river's reflected heat, with loess and primary rock soils — gives the Grüner Veltliner and Riesling a distinctive mineral character and longevity.

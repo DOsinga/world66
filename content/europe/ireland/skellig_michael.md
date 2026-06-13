@@ -8,6 +8,7 @@ tags:
 - sights
 title: Skellig Michael
 type: poi
+score: 9.8
 ---
 
 Skellig Michael is a dramatic rock island rising from the Atlantic off Ireland's southwest coast. Local boatmen ferry visitors out from Portmagee or Ballinskelligs, dropping them at the base of the cliffs to climb roughly 600 stone steps — built by monks over a thousand years ago — up to a cluster of beehive huts perched near the summit.

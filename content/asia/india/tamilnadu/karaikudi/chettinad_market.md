@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 10.0711
 longitude: 78.7820
+score: 6.8
 ---
 
 Karaikudi's main market area sells the traditional goods of the Chettiar community alongside the antiques and architectural salvage that have become the town's second industry. As the old mansions are cleared or renovated, their contents — carved teak pillars, marble panels, Belgian mirrors, copper vessels, Chinese ceramic jars, period photographs — end up in the antique shops that line parts of the main bazaar.

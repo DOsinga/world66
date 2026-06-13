@@ -9,6 +9,7 @@ tags:
   - park
 story: >
   Coachman Park reopened in 2023 after a $84 million renovation that transformed 20 acres of downtown waterfront into a modern civic space. The centerpiece is the BayCare Sound, a 4,000-capacity outdoor amphitheater that hosts concerts, festivals, and community events overlooking Clearwater Harbor.
+score: 6.5
 ---
 
 Coachman Park stretches along the downtown Clearwater waterfront between the Memorial Causeway and Cleveland Street, offering views across Clearwater Harbor to the barrier islands. The park was completely rebuilt in 2022-2023 and now includes a large outdoor amphitheater, interactive splash fountains, playgrounds, and a waterfront promenade.

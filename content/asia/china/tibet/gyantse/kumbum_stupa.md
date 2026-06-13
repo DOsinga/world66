@@ -13,6 +13,7 @@ story: >
   across nine floors. Completing the circumambulation of every chapel and climbing
   to the top is a genuinely moving experience, less because of any single image than
   because of the sheer accumulated weight of 600 years of devotion.
+score: 9.3
 ---
 
 The Kumbum is a nine-storey, 35-metre-high stupa containing 108 chapels arranged in a vast three-dimensional mandala. It is one of the most ambitious works of Buddhist architecture in the world, and certainly the finest in Tibet. Built between 1427 and 1439, it serves simultaneously as a stupa, a temple, and a philosophical diagram of the Buddhist cosmos.

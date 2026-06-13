@@ -9,6 +9,7 @@ tags:
   - swimming
 sources:
   - https://en.wikipedia.org/wiki/Zlatni_Rat
+score: 9.1
 ---
 
 Croatia's most photographed beach — and one of the most distinctive in the Mediterranean. Zlatni Rat (Golden Horn) is a long triangular spit of white pebble that juts 500 metres into the sea from the western edge of Bol, shifting shape with the currents and winds. The tip actually moves, sometimes swinging east or west by tens of metres in a single season.

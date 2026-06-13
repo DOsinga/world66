@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 40.5644
 longitude: 44.9389
+score: 8.6
 ---
 
 The larger of the two 9th-century churches that make up the monastery, Sourb Arakelots (Church of Holy Apostles) is built in the plain, severe style typical of early Armenian stone architecture. There is almost no ornament on the exterior — the beauty is in the proportions and in the material itself, a dark volcanic tufa that turns reddish in low light.

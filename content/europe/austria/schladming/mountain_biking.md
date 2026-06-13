@@ -7,6 +7,7 @@ tags:
   - sight
 title: Mountain Biking in Schladming
 type: poi
+score: 7.3
 ---
 
 When the ski lifts switch to summer mode, Schladming becomes one of the better mountain biking destinations in the Austrian Alps. The Planai gondola carries bikes to altitude, and a network of marked trails descends through forest and meadow back to the valley. The terrain suits cross-country and enduro riders well; dedicated downhill tracks are also available.

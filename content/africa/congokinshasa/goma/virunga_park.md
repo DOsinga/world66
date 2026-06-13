@@ -10,6 +10,7 @@ tags:
 - sight
 title: Virunga National Park
 type: poi
+score: 9.4
 ---
 
 Virunga National Park stretches from Lake Edward in the north down to Lake Kivu and the volcanoes around Goma. It is Africa's oldest national park and one of the most biodiverse, holding mountain gorillas, eastern lowland gorillas, chimpanzees, savanna elephants, hippos, and the Nyiragongo and Nyamulagira volcanoes. Gorilla tracking around Bukima and Rumangabo is the marquee experience, with permits sold directly through Virunga at a fraction of the price of Rwanda's. The encounter, deep in tangled forest rather than tidy bamboo, is unforgettable.

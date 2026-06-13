@@ -8,6 +8,7 @@ tags:
   - river
 title: "Tech River Walk"
 type: poi
+score: 5.8
 ---
 
 The Tech River gives Ceret its lower, greener edge. Paths near the Pont du Diable let you trade the old streets for water, trees, and views back toward the bridge.

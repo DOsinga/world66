@@ -6,6 +6,7 @@ longitude: 0.5474
 tags:
   - things_to_do
   - sight
+score: 4.3
 ---
 
 Gillingham High Street is the main pedestrianised shopping strip running east-west through the town centre, with the railway station at one end and the post office at the other. It is a typical Medway high street: a mix of national chains, charity shops, takeaways, and a small but stubborn cluster of independent traders.

@@ -7,6 +7,7 @@ tags:
 latitude: 32.6499
 longitude: 14.2644
 snippet: Al Khums's working Mediterranean fishing harbour and evening corniche
+score: 6.4
 ---
 
 The working harbour at Al Khums is the heart of the town itself, away from the Roman ruins. Small fishing boats come and go through the day, and the seafront corniche offers an agreeable walk in the evening when the heat has subsided. The fish market near the harbour is busiest in the morning and has fresh Mediterranean catch — if you can negotiate with a local family or a small restaurant, the fish is outstanding.

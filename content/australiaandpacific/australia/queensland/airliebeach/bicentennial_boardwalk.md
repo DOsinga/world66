@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Foreshore boardwalk from the Lagoon to Cannonvale Beach
+score: 6.4
 ---
 
 The Bicentennial Boardwalk runs along the foreshore from the western end of the Lagoon all the way around to Cannonvale, a flat, easy three-kilometre walk that takes about 45 minutes one way. It passes the Abel Point Marina at its midpoint, with cafés and bars to break up the trip.

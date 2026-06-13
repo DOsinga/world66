@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.0708
 longitude: 12.6131
+score: 6.7
 ---
 
 A higher-end restaurant set over an excavated Roman domus — you can see the original mosaic floors through glass panels in the dining room. The cooking matches the setting: ambitious modern Umbrian, with truffles in season, hand-rolled pasta, slow-cooked meats, and a serious wine list weighted toward central Italy.

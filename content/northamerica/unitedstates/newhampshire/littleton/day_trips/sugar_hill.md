@@ -8,6 +8,7 @@ latitude: 44.1948
 longitude: -71.8133
 sources:
   - https://en.wikipedia.org/wiki/Sugar_Hill,_New_Hampshire
+score: 7.5
 ---
 
 A tiny hilltop town about 10 miles southwest of Littleton, Sugar Hill is worth a detour in June when its roadsides and meadows fill with lupine — tall spires of purple, pink, and white blooms that put on one of the most vivid floral displays in New England. The Lupine Festival, held for two weeks in mid-June, draws visitors from across the region.

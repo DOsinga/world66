@@ -12,6 +12,7 @@ story: >
   visual tradition from what is now Pakistan and Afghanistan that traveled
   north with the dharma. Some of the finest pieces are now in the Termez
   Archaeological Museum.
+score: 8.0
 ---
 
 Fayaz Tepe is a Buddhist monastic complex from the first to third centuries AD, located about 15 kilometres west of Termez off the M39 highway. It is one of the best-preserved early Buddhist sites in Central Asia and a compelling place even for travellers without a specialist interest in archaeology.

@@ -8,6 +8,7 @@ latitude: 55.6490
 longitude: 12.0800
 story: >
   The reconstructed Viking longships at the museum are built from scratch using historical methods — no power tools, no modern adhesives, just wood, iron, and rope. Shipwrights spend years on each vessel. When you sail one across the fjord, you are on a working research vessel as much as a tourist attraction: every trip generates data about how these craft actually handled, which feeds back into the museum's understanding of Viking seafaring.
+score: 8.2
 ---
 
 In summer, the Viking Ship Museum runs sailing trips on reconstructed Viking ships on Roskilde Fjord. These are not pleasure boats with a Viking theme — they are functional reproductions built using historical methods, and you are expected to pull an oar and help with the sailing. The crew demonstrates techniques and explains what is known (and not known) about Viking maritime practice as you go.

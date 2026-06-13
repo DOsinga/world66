@@ -9,6 +9,7 @@ longitude: 120.9822
 neighbourhood: Entertainment City
 sources:
   - https://en.wikipedia.org/wiki/Solaire_Resort_and_Casino
+score: 5.9
 ---
 
 Solaire was the first of the Entertainment City resorts to open (2013) and its lobby and bar areas remain among the most refined on the strip. The Bay Bar on the ground floor faces the water and is ideal for watching the sunset over Manila Bay with a properly made cocktail — a combination that is harder to find in this city than it should be.

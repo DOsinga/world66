@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 4.3833
 longitude: 102.4000
+score: 5.8
 ---
 
 Kuala Tahan is the small settlement on the banks of the Tembeling River that serves as the gateway to Taman Negara. Most of the accommodation, restaurants, and tour operators are based here, just across the river from the park headquarters. The crossing is made by a small ferry that runs continuously.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 27.0517
 longitude: 108.4176
+score: 8.5
 ---
 
 Zhenyuan's old town occupies the south bank of the Wuyang River in a long, narrow strip between the water and the hills behind. The main street runs parallel to the river for about a kilometre, lined with wooden shophouses of Ming and Qing construction — two-storey structures with carved eaves, covered ground-floor galleries, and the slight lean of buildings that have settled over centuries. Behind the main street, lanes climb the hillside to residential areas that see few tourists.

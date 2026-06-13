@@ -13,6 +13,7 @@ story: >
   the four Vedas. Whether the tree is genuinely ancient or not, the priests will tell you
   which branch is which, and the story has been told here for so many centuries that it
   has become its own kind of truth.
+score: 8.8
 ---
 
 The largest temple in Kanchipuram, dedicated to Shiva in his form as Ekambaranathar — Lord of the Mango Tree. The 59-metre gopuram at the entrance is one of the tallest in Tamil Nadu and visible from much of the city; even if you don't go inside, it orients you through the town.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - surfing
+score: 6.8
 ---
 
 Olas Altas — "high waves" — is the surfing beach on the open Pacific side, at the north end of Bahía de Santiago. It does not have the calm sheltered water of La Audiencia, but it has the only consistent surf in the area and a more relaxed, less developed feel.

@@ -9,6 +9,7 @@ tags:
 - historic_site
 - monument
 story: "The cave is not a cave at all — it is an open-air rock-cut shrine surrounded by a ring of carved yali heads (mythical lion-like creatures), each one individually detailed. The whole ensemble was likely a royal performance space: the natural hollow in the rock behind the yali ring would have provided shade and acoustics for dance or music, and the theatrical framing would have announced the presence of royalty."
+score: 7.4
 ---
 
 Tiger Cave is a Pallava rock-cut monument 3 kilometres north of the main Mahabalipuram complex at the coastal hamlet of Saluvankuppam. The centrepiece is a natural rock outcropping carved with a ring of eleven yali (mythical animal) heads around a central shrine niche — the effect is of a stage set framing a performance space open to the sea.

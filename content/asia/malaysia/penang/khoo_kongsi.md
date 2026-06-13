@@ -13,6 +13,7 @@ story: >
   as a sign that they had overreached and offended the gods by building something too magnificent for mere
   mortals. They rebuilt at a slightly more modest scale. The structure standing today, though reduced in
   ambition, remains the most ornate clanhouse in Malaysia.
+score: 8.9
 ---
 
 The Khoo Kongsi is the seat of the Leong San Tong Khoo clan — Hokkien Chinese who migrated from Fujian province and became one of the most powerful clans in colonial Penang. The kongsi (clan association) served as bank, court, social welfare system, and place of worship for its members. Its building reflects that power: an extraordinary assembly of carved timbers, ceramic figurines, painted murals, gilded columns, and granite stonework all competing for the eye's attention.

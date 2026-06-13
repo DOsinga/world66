@@ -9,6 +9,7 @@ latitude: 14.7512
 longitude: -60.9091
 story: >
   The Caravelle Peninsula takes its name — probably — from the Portuguese sailing vessel, because from a distance its narrow shape resembles a ship heading out to sea. The peninsula was one of the first parts of Martinique to be settled by the French in the seventeenth century, and the ruins at Château Dubuc at its eastern tip are among the oldest colonial structures surviving on the island.
+score: 8.6
 ---
 
 The Presqu'île de la Caravelle is a protected nature reserve jutting eastward into the Atlantic from just outside La Trinité. The peninsula is about ten kilometres long and mostly uninhabited — scrubby dry forest, dramatic sea cliffs, and narrow trails threading through thorny vegetation to viewpoints over the open Atlantic. On clear days you can see Dominica to the north.

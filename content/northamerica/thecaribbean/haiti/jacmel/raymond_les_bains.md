@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 The closest proper beach to Jacmel, Raymond les Bains is a long stretch of soft golden sand backed by coconut palms, about a fifteen-minute drive east of town. The water is clear and shallow enough for easy swimming, and the breeze keeps the heat manageable even at midday.

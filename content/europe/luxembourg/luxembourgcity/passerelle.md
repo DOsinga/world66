@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The 'old' viaduct over the Pétrusse, built between 1859 and 1861 to carry the new railway line from the Gare district up to the old town. The 290-metre brick arched bridge is overshadowed today by the bigger Adolphe Bridge a short distance west, but the Passerelle is the older, more elegant, and arguably the more atmospheric of the two.

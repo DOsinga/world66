@@ -7,6 +7,7 @@ tags:
 latitude: 49.2853
 longitude: -122.7906
 snippet: Coquitlam's main theatre and visual arts venue, on the southern edge of Town Centre Park
+score: 6.3
 ---
 
 The Evergreen Cultural Centre is the principal performing and visual arts venue in Coquitlam. It opened in 1997 on the southern edge of [Town Centre Park](/northamerica/canada/britishcolumbia/vancouver/coquitlam/town_centre_park) and contains a 257-seat proscenium theatre, two visual art galleries, a recital studio and several rehearsal and teaching rooms.

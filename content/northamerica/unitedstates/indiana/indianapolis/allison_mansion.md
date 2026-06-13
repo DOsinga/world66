@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The 1911 mansion of James Allison — co-founder of the Indianapolis Motor Speedway and the Allison Engineering Company — sits on the campus of Marian University. The 25,000-square-foot Mediterranean-style house contains a marble-domed conservatory with a sunken garden, a music room with a Skinner pipe organ, and a private aviary lined with rare South American marble.

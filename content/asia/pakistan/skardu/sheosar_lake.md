@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - outdoor
+score: 7.5
 ---
 
 Sheosar Lake is a high-altitude lake at 4,142 metres on the Deosai Plateau, about three hours' drive south of Skardu in summer. The name means "blind lake" in Balti — its still, deep blue water sits in a shallow basin with no obvious inflow or outflow.

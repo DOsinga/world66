@@ -12,6 +12,7 @@ story: >
   inside the church, believing the stone walls would protect them. The pyroclastic 
   flow buried the church and its congregation together; the bell tower that juts 
   from the lava is said to have served as a mass grave marker.
+score: 8.8
 ---
 
 The ruined belfry of the 18th-century Cagsawa Church, rising from hardened lava with Mayon perfectly framed behind it, is the most photographed image in the Bicol region. The original church was buried by Mayon's 1814 eruption — an event that killed more than 1,200 people in the immediate area — and all that remains above the lava field is the bell tower and a few fragments of wall. The juxtaposition of the ruined Spanish colonial stonework and the still-active volcano beyond makes the place unusual even by Philippine standards.

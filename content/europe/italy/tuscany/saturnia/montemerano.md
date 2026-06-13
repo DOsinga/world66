@@ -5,6 +5,7 @@ latitude: 42.6217
 longitude: 11.4903
 tags: [things_to_do, sight, day_trip]
 story: Montemerano consistently ranks among the official "most beautiful villages of Italy" and was almost completely abandoned after the war until a wave of returning local families restored the empty houses one by one. There is no scaffolding, no chain shops, and almost no signs of the 20th century.
+score: 8.0
 ---
 
 A ten-minute drive south, Montemerano is the model medieval hilltop village — concentric rings of stone houses spiralling up to a tiny piazza and the parish church of San Giorgio, which holds an unexpectedly fine 15th-century altarpiece. The village is intact, immaculately maintained, and almost devoid of cars within the walls.

@@ -14,6 +14,7 @@ tags:
 - hiking
 title: Grand Staircase-Escalante National Monument
 type: poi
+score: 9.1
 ---
 
 Grand Staircase-Escalante National Monument covers nearly 1.9 million acres of canyon country east of Cannonville and is one of the largest protected areas in the contiguous United States. The monument takes its name from the geological staircase visible from its northern edge — successive rock layers stepping down from Bryce Canyon in the north toward the Colorado River in the south — and from the Escalante River canyon system that threads through its interior.

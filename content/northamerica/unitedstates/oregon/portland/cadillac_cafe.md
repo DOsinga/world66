@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Cadillac Cafe
 type: poi
+score: 5.6
 ---
 
 A longtime Portland breakfast institution on NE Broadway near the Lloyd District. The Cadillac Cafe is the kind of place where portions are enormous and the coffee never stops flowing. Their omelets are stuffed well past the point of reason, and the hash browns come crispy and golden.

@@ -8,6 +8,7 @@ tags:
 latitude: 6.8104
 longitude: -58.1581
 snippet: "Wooden colonial residence turned museum to Cheddi Jagan"
+score: 7.8
 ---
 
 A handsome two-storey wooden colonial residence painted entirely in red, the Red House on High Street served as the official residence of Cheddi Jagan, the dentist-turned-politician who led Guyana toward independence and served as both Premier of British Guiana and President of independent Guyana. The building now houses the Cheddi Jagan Research Centre.

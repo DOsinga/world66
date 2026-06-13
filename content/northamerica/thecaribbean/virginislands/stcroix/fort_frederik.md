@@ -14,6 +14,7 @@ story: >
   Crown had authorized him to do so. Von Scholten acted unilaterally in
   the face of a slave uprising and was later court-martialed for exceeding
   his authority, though he was eventually acquitted.
+score: 7.8
 ---
 
 Fort Frederik stands at the waterfront in Frederiksted, the smaller of St. Croix's two main towns. The fort was built in 1760 and named after the Danish crown prince; it's smaller and less elaborate than Fort Christiansvaern in Christiansted, but its historical significance is arguably greater. This is the site where Danish Governor Peter von Scholten proclaimed the emancipation of enslaved people in the Danish West Indies in 1848 — one of the earlier formal emancipations in the Caribbean, though it came under the duress of an imminent rebellion.

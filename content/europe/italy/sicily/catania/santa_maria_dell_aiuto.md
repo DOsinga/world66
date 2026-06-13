@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5008
 longitude: 15.0817
+score: 5.6
 ---
 
 Santa Maria dell'Aiuto is a small late-baroque church on Via Garibaldi, the street running west from Piazza del Duomo toward Porta Garibaldi. It was rebuilt after the 1693 earthquake and is one of several small parish churches that punctuate the western half of the old city.

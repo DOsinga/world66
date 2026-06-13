@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.9257
 longitude: 14.7287
+score: 7.4
 ---
 
 The Cathedral of San Giovanni Battista in Ragusa Superiore — the upper, modern town — is often overlooked in favour of the more famous Duomo di San Giorgio in Ibla, but it has considerable Baroque merit of its own. Construction began in 1706 after the earthquake of 1693 and was completed in 1760, with a broad piazza in front giving the facade room to breathe.

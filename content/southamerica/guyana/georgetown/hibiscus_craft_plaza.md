@@ -6,6 +6,7 @@ tags:
 latitude: 6.8052
 longitude: -58.1601
 snippet: "Permanent craft market beside the Stabroek Market clocktower"
+score: 5.9
 ---
 
 A small permanent craft market next to the Stabroek Market clocktower, the Hibiscus Plaza is the easiest place in Georgetown to pick up Amerindian basketry, hammocks, carved wooden animals, and other handicrafts. Prices are moderate and most vendors will negotiate gently.

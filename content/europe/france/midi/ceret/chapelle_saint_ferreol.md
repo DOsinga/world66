@@ -8,6 +8,7 @@ tags:
   - viewpoint
 title: "Chapelle Saint-Ferreol"
 type: poi
+score: 6.8
 ---
 
 Chapelle Saint-Ferreol sits on the hill above Ceret and is best treated as a viewpoint with a chapel attached. From the slopes around it, the town drops away toward the Tech valley and the Pyrenees begin to look close and serious.

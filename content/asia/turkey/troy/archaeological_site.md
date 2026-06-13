@@ -14,6 +14,7 @@ story: >
   Troy VIIa — the great walled city destroyed around 1200 BC — is the most likely
   candidate for Homer's setting. UNESCO recognised the site as a World Heritage Site
   in 1998 in part because of how cleanly the layers can still be read in section.
+score: 9.3
 ---
 
 The site is a low mound — Hisarlık ("place of fortresses" in Turkish) — about 30 metres high and a few hundred metres across. The walking trail is well-signed and loops the perimeter, with information boards in Turkish and English explaining what you are looking at in each phase of occupation. You should walk it slowly; the rewards come from recognising one period's wall passing through another period's house through another period's street, all at slightly different angles and depths.

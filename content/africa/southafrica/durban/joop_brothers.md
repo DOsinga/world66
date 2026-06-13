@@ -10,6 +10,7 @@ neighbourhood: Morningside
 latitude: -29.8259
 longitude: 31.0120
 address: "275 Florida Road, Morningside"
+score: 7.3
 ---
 
 House of Curries is Florida Road's go-to bunny chow shop, the kind of place you order at the counter, grab a paper napkin, and eat with your hands. Their bunny — a hollowed half-loaf filled with curry — is consistently among the best in the city, with the option of mutton, chicken, lamb, beans or a vegetable version, all hot enough to make you sweat.

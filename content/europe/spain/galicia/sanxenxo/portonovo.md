@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 snippet: "Working fishing village a 20-minute walk west of Sanxenxo"
 latitude: 42.3925
 longitude: -8.8236
+score: 6.8
 ---
 
 Portonovo is the fishing village that Sanxenxo used to be before tourism arrived. It has been absorbed into the same municipality but kept a distinct character: a small working port with a fish market, narrow streets running back from the harbour, and a row of seafood restaurants along the quay. The whole village is walkable from Sanxenxo in about twenty minutes along the coastal promenade.

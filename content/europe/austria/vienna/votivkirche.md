@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Votive Church was built in thanks for the failed 1853 assassination attempt on Emperor Franz Joseph by Hungarian nationalist János Libényi. The emperor was stabbed in the neck but survived because his stiff military collar deflected the blade. Construction began the following year and took 25 years to complete."
+score: 7.2
 ---
 
 A 99-metre neo-Gothic church near the university, built in thanksgiving after the young Emperor Franz Joseph survived an assassination attempt in 1853. Its twin spires and white stone make it look almost too clean — it is one of the largest neo-Gothic churches in the world.

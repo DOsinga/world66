@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1620
 longitude: 91.7090
+score: 5.8
 ---
 
 A modern marble temple complex on the slopes below Nilachal Hill, just down the road from Kamakhya. ISKCON Guwahati is one of the larger Krishna Consciousness temples in India and runs the usual programmes — daily aratis, lectures on the Bhagavad Gita, and the standard prasadam canteen (₹150 for an excellent all-you-can-eat thali, vegetarian, slightly Bengali-leaning).

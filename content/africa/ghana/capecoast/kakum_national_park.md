@@ -9,6 +9,7 @@ tags:
 - nature
 title: Kakum National Park
 type: poi
+score: 8.8
 ---
 
 Thirty kilometres north of Cape Coast, Kakum protects 360 square kilometres of tropical rainforest — one of the few remaining intact patches of Upper Guinean forest in West Africa. The headline attraction is the canopy walkway: a series of seven rope bridges strung 40 metres above the forest floor, totalling about 350 metres in length, with viewing platforms on the largest trees.

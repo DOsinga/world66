@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.8150
 longitude: 4.6680
+score: 8.1
 ---
 
 Voorstraat is the old town's spine — a long, gently curving street that follows the line of an old dike and runs for the best part of a kilometre from the city hall in the west to the Groothoofdspoort in the east. It is the most consistently old street in the city: a mix of 16th, 17th and 18th-century facades, an unbroken run of small shops, bakeries, antiquarians and cafes, and parallel to it a working canal where some of the buildings still have their old loading hatches.

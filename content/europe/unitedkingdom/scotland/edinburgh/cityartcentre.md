@@ -11,6 +11,7 @@ tags:
 - old_town
 title: City Art Centre
 type: poi
+score: 7.2
 ---
 
 The city's main exhibition space, with six floors of changing shows that range across Scottish art, photography and the occasional crowd-pleaser (Star Trek, Star Wars). The permanent collection of Scottish painting from the 17th century onwards is worth a look. Free entry to the permanent collection; charges for major touring exhibitions.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 28.8180
 longitude: -111.9342
+score: 6.7
 ---
 
 The small museum in Kino Viejo dedicated to the Comcáac (Seri) people is the best introduction to the indigenous group who have inhabited this stretch of coast and Isla Tiburón for millennia. The Seri were among the last hunter-gatherer peoples in North America to maintain their traditional way of life into the twentieth century, and the museum holds basketry, ironwood carvings, and traditional clothing alongside photographs and explanatory text.

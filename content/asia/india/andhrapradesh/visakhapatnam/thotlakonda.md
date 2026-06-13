@@ -14,6 +14,7 @@ story: >
   two thousand years ago.
 sources:
   - https://en.wikipedia.org/wiki/Thotlakonda
+score: 8.3
 ---
 
 Thotlakonda is an archaeological site on a hilltop about 15 km north of Visakhapatnam, where excavations have revealed the remains of a Buddhist monastery complex dating from the 2nd century BCE to the 3rd century CE. The site includes a mahastupa (a large domed relic monument), meditation halls, monks' cells, a refectory, and a rainwater cistern — all in remarkably good condition for their age.

@@ -12,6 +12,7 @@ story: >
   between warm water and forest air genuinely pleasurable. The water is geothermally
   heated and consistent year-round — one of the few things on Hainan that does not
   depend on the weather.
+score: 7.2
 ---
 
 The hot springs complex at Mount Qixian sits in the national forest park on Baoting's western edge, about forty minutes by bus from Sanya. The springs are the main draw for Chinese wellness tourists visiting Baoting: a series of outdoor soaking pools set among bamboo and forest, fed by naturally heated groundwater at consistent temperatures. The setting is considerably more atmospheric than the hotel spa pools in Sanya, and the combination of hot water and cool highland air makes it genuinely therapeutic rather than just a warm bath.

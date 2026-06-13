@@ -6,6 +6,7 @@ tags: [eating_out, shopping]
 latitude: 47.3942
 longitude: 0.6850
 snippet: Loire Valley chocolatier with classic tea-room on Place Plumereau
+score: 6.7
 ---
 
 Bigot is the most established chocolatier in Tours, founded in 1913 and run as a family business ever since. The tea-room next door is an old-school institution — marble tables, ladies of a certain age, hot chocolate served properly in a porcelain pot.

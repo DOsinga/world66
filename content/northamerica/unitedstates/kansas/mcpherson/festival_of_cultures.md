@@ -14,6 +14,7 @@ story: >
   immigrant history of central Kansas, where Swedish, Czech, German, and
   Mexican-American communities have each left their mark. The Highland games and
   pipe band competition continue as the centrepiece.
+score: 7.1
 ---
 
 The Festival of Cultures is McPherson's signature annual event, held the fourth weekend of September at Lakeside Park. It grew out of the McPherson Scottish Festival & Highland Games, which ran for over twenty years as one of the larger Celtic events on the Great Plains. In 2016 the name changed and the scope expanded to include cultural traditions from across the county, but the Highland competitions remain the heart of it.

@@ -8,6 +8,7 @@ snippet: Canada's second-largest ski resort by area, 45 km north-east of Kamloop
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 **Sun Peaks** is the second-largest ski resort in Canada by skiable area, after Whistler Blackcomb, with 4,270 acres of terrain spread across three mountains — Tod, Sundance and Mount Morrisey — and a vertical drop of 882 metres. The snow is consistently dry and powdery (the resort sits in the dry interior, well east of the coast ranges) and lift lines are typically a fraction of what you find at Whistler.

@@ -9,6 +9,7 @@ longitude: 88.6047
 sources:
   - https://en.wikipedia.org/wiki/Namgyal_Institute_of_Tibetology
 story: "The institute was founded in 1958 with support from the Dalai Lama and the Chogyal of Sikkim, at a time when the kingdom was still independent. It houses one of the largest collections of Tibetan manuscripts in existence — more than 200,000 pages — and its library is used by scholars from around the world researching the history and religion of the Himalayan region."
+score: 8.4
 ---
 
 The Namgyal Institute of Tibetology is one of the most important repositories of Tibetan Buddhist scholarship outside Tibet itself. Founded in 1958, it holds an extraordinary collection of thangkas, religious artifacts, rare manuscripts, and ritual objects gathered from monasteries across Sikkim and beyond. The museum on the ground floor makes these accessible to general visitors with well-labelled displays on Tibetan religion, medicine, and iconography.

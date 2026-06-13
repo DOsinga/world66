@@ -6,6 +6,7 @@ tags:
   - shopping
 title: Rappelkiste
 type: poi
+score: 4.3
 ---
 
 A Trier institution on Liebfrauenstrasse, just beside the cathedral, Rappelkiste sells toys, hand puppets, wooden games, puzzles, and children's books. It is a genuine toy shop rather than a souvenir outlet — the kind of place where the stock is chosen by someone who actually cares about it. Good for gifts, and easy to lose an hour in.

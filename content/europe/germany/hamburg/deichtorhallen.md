@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 7.8
 ---
 
 The Deichtorhallen are two soaring late-19th-century iron-and-glass market halls just east of the city centre, repurposed in 1989 into Hamburg's largest contemporary art and photography exhibition space. The taller hall (Halle für aktuelle Kunst) takes the major contemporary art shows; the smaller one (Haus der Photographie) holds the city's photography collection, including the F.C. Gundlach archive.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.4465
 longitude: -123.8062
+score: 6.8
 ---
 
 North Coast Brewing Company is one of the most respected craft breweries in California, established in Fort Bragg in 1988. It operates a taproom and restaurant in a converted 1912 Presbyterian church on North Harold Street — a handsome building for a handsome brewery. The flagship beers are excellent: Red Seal Ale is the everyday choice, while Rasputin Imperial Stout and Brother Thelonious Belgian-style Abbey Ale have earned the brewery national recognition.

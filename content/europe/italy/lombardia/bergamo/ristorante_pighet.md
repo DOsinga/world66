@@ -11,6 +11,7 @@ tags:
 title: Ristorante Pighet
 type: poi
 url: www.pighet.it
+score: 4.8
 ---
 
 This restaurant on a hill surrounded by nature and with a panoramic view has seating for 230 people on the veranda outdoors, 40 on the ground floor and 80 people on the upper floor. You can also have wedding receptions, work meeting luncheons, birthday parties, graduation parties, first communion parties, dinners with dancing music, wedding anniversaries and baptism receptions.

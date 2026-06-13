@@ -6,6 +6,7 @@ longitude: 4.6490
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 The last surviving medieval city gate of Haarlem, dating from around 1355. The twin-towered gatehouse straddles the road on the eastern edge of the old centre, where the road to Amsterdam once passed through the city walls. It is one of the oldest and best-preserved city gates in the Netherlands.

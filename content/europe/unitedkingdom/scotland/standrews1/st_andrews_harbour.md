@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.3382
 longitude: -2.7845
+score: 6.9
 ---
 
 St Andrews harbour is a compact working harbour at the eastern end of town, below the cathedral. The stone piers enclose a small tidal basin where lobster pots, fishing boats, and small pleasure craft share the space. It is not a postcard harbour in the polished, tourist-oriented way of some Scottish fishing villages — it still does actual fishing — and that makes it more interesting.

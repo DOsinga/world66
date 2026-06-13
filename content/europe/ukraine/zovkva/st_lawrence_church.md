@@ -13,6 +13,7 @@ story: >
   Russian tsar and briefly putting a Polish prince on the Muscovite throne. Żółkiewski
   himself died in battle ten years later and was buried here; his severed head, recovered
   from the battlefield, was eventually returned to the crypt.
+score: 8.4
 ---
 
 St. Lawrence's Church is the finest architectural monument in Zhovkva — an Italian Mannerist structure built between 1606 and 1618 that served as the mausoleum for the Żółkiewski, Daniłowicz, and Sobieski dynasties. It stands on a raised terrace and presents an elegant Renaissance facade that feels out of place in a small Ukrainian town, which is exactly the point: this was a prestige project by one of Poland's most powerful military families.

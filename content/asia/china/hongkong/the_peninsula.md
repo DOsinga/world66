@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: The Peninsula
 type: poi
+score: 6.5
 ---
 
 The Peninsula has been Hong Kong's grande dame hotel since 1928, and its lobby tea service is one of the city's genuine institutions. A string quartet plays from the gallery above as you work through the three-tier stand of sandwiches, scones, and pastries. Tea runs daily 2–7pm (lobby) and Friday–Sunday 3–5pm (Verandah). Dress smartly. Book ahead, particularly on weekends.

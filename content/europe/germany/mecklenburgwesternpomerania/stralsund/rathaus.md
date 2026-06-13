@@ -10,6 +10,7 @@ longitude: 13.0842
 snippet: "Medieval Gothic town hall with spectacular tracery gable facade — one of the finest in the Hanseatic world"
 sources:
   - https://en.wikipedia.org/wiki/Stralsund_Town_Hall
+score: 8.8
 ---
 
 Stralsund's Town Hall is one of the most impressive secular Gothic buildings in northern Germany. The north facade, facing the market square, is a tall tracery screen of Brick Gothic ornament — four great gabled bays with gothic windows, blind arcading, and decorative brickwork. It was built in stages from the 13th to 15th centuries. The UNESCO World Heritage designation for Stralsund's old town centres largely on buildings like this one.

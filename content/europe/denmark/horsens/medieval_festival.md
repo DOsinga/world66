@@ -6,6 +6,7 @@ tags:
 - sight
 title: European Medieval Festival
 type: poi
+score: 8.0
 ---
 
 The European Medieval Festival (Middelalderens Marked) is held in Horsens for several days in late August and is one of the largest medieval markets in northern Europe. The prison grounds and surrounding streets are transformed into a medieval market town, with around 1,500 costumed participants — craftspeople, merchants, knights, and performers — recreating life in the 13th–15th centuries. The programme includes jousting tournaments, falconry displays, fire eating, archery, period music, and a large market selling handmade goods and medieval-style food and drink.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Tsaghkadzor_ski_resort
 story: >
   During Soviet times, Tsaghkadzor served as a training base for the USSR national ski team. The altitude and consistent snowfall made it one of the preferred preparation sites before international competitions. A small sports museum at the base station displays photographs and equipment from that period, including images of Armenian Olympic athletes who trained here during the Cold War decades.
+score: 8.4
 ---
 
 Tsaghkadzor Ski Resort runs up the slopes of Teghenis Mountain, with lifts reaching from the base at around 1,950m to the summit at 2,819m. The vertical drop gives a reasonable range of terrain, with beginner runs near the base, several intermediate blue and red runs in the middle section, and more challenging descents towards the top. The season typically runs from December through March, depending on snowfall.

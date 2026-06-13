@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Carnegie_Museum_of_Art
   - https://en.wikipedia.org/wiki/Carnegie_Museum_of_Natural_History
+score: 9.3
 ---
 
 The Carnegie Museums of Art and Natural History share a massive Beaux-Arts building on Forbes Avenue in Oakland, and together they constitute one of the great combined museum complexes in the United States. The Natural History museum has outstanding dinosaur halls — the Carnegie Dinosaur Collection is one of the most important in the world, assembled in the late 19th and early 20th centuries from Wyoming and Montana digs. The Egyptian, gem, and mineral collections are also impressive.

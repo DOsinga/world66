@@ -6,6 +6,7 @@ tags:
 - sight
 title: Inkeroinen Station
 type: poi
+score: 3.7
 ---
 
 Inkeroinen is the busiest of the three railway stations in the former Anjalankoski municipality, on the main Helsinki–Kouvola line. The current station building dates from a 1962 reconstruction; the original wooden station burned down in the 1950s.

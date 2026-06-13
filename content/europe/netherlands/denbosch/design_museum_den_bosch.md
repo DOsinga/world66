@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 51.6862
 longitude: 5.3038
+score: 7.1
 ---
 
 The Design Museum Den Bosch — formerly the Stedelijk Museum 's-Hertogenbosch — focuses on contemporary design and applied arts, with a collection that spans ceramics, glass, jewellery, fashion, and industrial design. The museum is housed in an elegant 18th-century almshouse complex, and the contrast between the old building and the modern objects inside works surprisingly well.

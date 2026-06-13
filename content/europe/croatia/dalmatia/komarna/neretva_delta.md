@@ -11,6 +11,7 @@ story: >
   Croatian coast — is a stop on the migratory route between Africa and
   northern Europe. More than 300 bird species have been recorded here,
   including pygmy cormorant and several species of egret and heron.
+score: 7.9
 ---
 
 The Neretva river meets the sea twenty kilometres north of Komarna, in a vast flat delta of channels, lagoons, and reed beds — a startling contrast to the karst landscape that dominates the rest of the Dalmatian coast. The villages of the delta cultivate citrus, watermelons, and rice on the alluvial soil.

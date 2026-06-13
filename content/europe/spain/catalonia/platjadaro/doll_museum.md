@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.81482
 longitude: 3.03085
+score: 6.1
 ---
 
 The Museu de la Nina in Castell d'Aro's old town is one of those slightly eccentric museums that turns out to be more absorbing than expected. The collection covers dolls from around the world — ceramic, cloth, wood, and celluloid figures from Europe, the Americas, and Asia — with particular depth in early 20th-century French and German porcelain dolls. The museum also documents the history of doll-making as a craft and industry.

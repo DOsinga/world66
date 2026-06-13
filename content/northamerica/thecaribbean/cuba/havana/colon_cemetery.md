@@ -16,6 +16,7 @@ story: >
   it, make your request, knock on the marble, and leave walking backwards so
   as not to turn your back on her. The queue is longest on Tuesdays, her
   feast day.
+score: 9.1
 ---
 
 The Cementerio de Cristóbal Colón, opened in 1876 and covering 57 hectares in the Vedado district, is one of the most beautiful and architecturally significant cemeteries in the Americas — a planned city of the dead laid out on a grid with neoclassical tombs, Modernist mausoleums, Art Deco chapels, and Baroque funeral monuments filling every street.

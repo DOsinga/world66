@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.168937
 longitude: -120.143478
+score: 6.7
 ---
 
 The Truckee River flows out of Lake Tahoe through Tahoe City, and in summer it is one of the most popular float trips in the Sierra Nevada. The stretch from Tahoe City to the River Ranch Lodge — about five miles of easy Class I–II water — takes two to three hours by raft and is gentle enough for families with young children.

@@ -8,6 +8,7 @@ latitude: 55.0638
 longitude: 15.1189
 sources:
   - https://en.wikipedia.org/wiki/Bornholm_Butterfly_Park
+score: 5.8
 ---
 
 On the western edge of Nexø, the Bornholm Butterfly Park (Bornholms Sommerfuglepark) is a large tropical greenhouse where hundreds of free-flying butterflies from around the world share space with exotic plants. The warm humidity inside is a noticeable contrast to the Baltic air outside, and the butterflies land on visitors without much persuasion.

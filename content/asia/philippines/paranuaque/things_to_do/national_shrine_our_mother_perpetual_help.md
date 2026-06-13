@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/National_Shrine_of_Our_Lady_of_Perpetual_Help_(Baclaran)
 story: >
   The Wednesday novena at Baclaran has been held continuously since 1948, making it one of the longest-running weekly devotions in Asia. On a typical Wednesday the church and its forecourt hold upwards of 100,000 people across multiple simultaneous Masses. The queue for confessions begins before sunrise.
+score: 8.0
 ---
 
 Baclaran Church — officially the National Shrine of Our Mother of Perpetual Help — is one of the most visited Catholic sites in Asia. The Redemptorist fathers built the current modernist structure in the 1950s, though the devotion to the image of Our Lady of Perpetual Help at this location predates it. The church holds the extraordinary distinction of conducting its famous Wednesday novena to a congregation that regularly numbers in the tens of thousands.

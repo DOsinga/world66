@@ -8,6 +8,7 @@ latitude: 41.6364
 longitude: -70.9240
 story: >
   New Bedford was the wealthiest city per capita in the United States in 1854 — wealthier than New York, Boston, or any other city — on the strength of the whale oil trade alone. The Federal and Greek Revival mansions throughout the historic district are the architectural record of that wealth, built in a style that signalled taste and permanence to anyone who might doubt a whale-oil merchant's social standing.
+score: 8.9
 ---
 
 The New Bedford Whaling National Historical Park encompasses 34 acres across 13 city blocks of downtown New Bedford, preserving the core of what was once the whaling capital of the world. It is a partnership park — the National Park Service manages and interprets the area, but most of the buildings are still privately owned or operated by other institutions. The Visitor Center is in the old Third District Courthouse and is the best starting point for understanding the district's layout and significance.

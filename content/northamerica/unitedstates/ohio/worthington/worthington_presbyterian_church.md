@@ -15,6 +15,7 @@ story: >
   fashionable as a symbol of democratic ideals — at a time when Worthington was
   still a frontier settlement barely a day's travel from what most Ohioans
   considered civilisation.
+score: 6.2
 ---
 
 Worthington Presbyterian Church anchors the north end of the Village Green and has stood at the civic heart of the town since its congregation was established in 1805. The current structure, built in 1837 in the Greek Revival style, is a clean and well-preserved example of the form: a broad pediment, a columned entry, and a restrained interior that reflects the Calvinist taste of its founders.

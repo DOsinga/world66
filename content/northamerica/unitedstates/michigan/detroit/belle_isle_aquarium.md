@@ -9,6 +9,7 @@ tags:
 neighbourhood: Belle Isle
 title: Belle Isle Aquarium
 type: poi
+score: 7.6
 ---
 
 The Belle Isle Aquarium opened in 1904 and is the oldest continuously operating aquarium in the United States. The interior — a single barrel-vaulted hall lined with backlit green glass tile — was designed by Albert Kahn and still looks like nothing else. The collection is modest by modern standards, focused on freshwater and Great Lakes species, but the building alone justifies the visit.

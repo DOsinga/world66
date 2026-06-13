@@ -15,6 +15,7 @@ story: >
   changing taste without ever closing permanently.
 sources:
   - https://en.wikipedia.org/wiki/Bakken_(amusement_park)
+score: 8.4
 ---
 
 Bakken — officially Dyrehavsbakken — holds a genuine record: it has been operating continuously since 1583, making it the oldest amusement park on earth. It sits at the southern edge of Dyrehaven (the Deer Park), accessible by a short walk through beech forest from Klampenborg S-tog station — an entrance that feels entirely appropriate for a place this old.

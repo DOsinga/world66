@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
   - bar
+score: 5.3
 ---
 
 A reliable Irish-American pub on Webster Street, dark-wood interior, half a dozen draught beers, and a kitchen that makes a decent shepherd's pie and a respectable plate of beef-on-weck. Friday nights bring live folk music; Sundays bring corned beef and cabbage.

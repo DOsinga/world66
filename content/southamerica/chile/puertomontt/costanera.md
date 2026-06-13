@@ -6,6 +6,7 @@ longitude: -72.9500
 tags:
   - things_to_do
   - sight
+score: 5.0
 ---
 
 A long sea-facing promenade runs three kilometres west from the centre to Angelmó, edged by the Reloncaví Sound on one side and Avenida Diego Portales on the other. On clear days the Osorno volcano rises directly behind the city, and Calbuco's twin peak hangs above the water further east.

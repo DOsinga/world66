@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 27.329
 longitude: 88.612
+score: 7.2
 ---
 
 MG Road — Mahatma Gandhi Marg — is the social spine of Gangtok, a pedestrianised strip of restaurants, shops, and stalls that runs along the ridge at the heart of the city. Cars are banned, which makes it a rare pleasure in Indian urban life: a place where you can walk and look around without constant traffic. In the evenings it fills with families taking the evening air, and the valley views to either side remind you that this is a city perched rather improbably on a Himalayan ridge.

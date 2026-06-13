@@ -10,6 +10,7 @@ latitude: -34.60956
 longitude: -58.38586
 story: >
   The Barolo's design encodes the structure of Dante's Divine Comedy: the ground floor represents Inferno, the offices above represent Purgatory, and the lighthouse at the top represents Paradise — 22 floors for the 22 stanzas of each canto. The number 100 (the cantos of the full poem) recurs in measurements throughout the building. Barolo commissioned the building as a potential resting place for Dante's ashes, which he hoped to transfer from Ravenna to Buenos Aires.
+score: 8.3
 ---
 
 A 1923 office tower on the Avenida de Mayo that is one of Buenos Aires' most unusual buildings — designed by Italian architect Mario Palanti as a structural homage to Dante's *Divine Comedy*. At 100 metres tall it was the tallest building in South America when completed.

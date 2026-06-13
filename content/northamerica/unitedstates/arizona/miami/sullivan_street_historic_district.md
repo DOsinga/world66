@@ -9,6 +9,7 @@ latitude: 33.3972
 longitude: -110.8747
 sources:
   - https://en.wikipedia.org/wiki/Miami,_Arizona
+score: 7.3
 ---
 
 Sullivan Street is the main commercial spine of old Miami, lined with early 20th-century brick storefronts that went up during the copper boom years before the First World War. The street has seen better days, but a handful of the buildings have been revived as antique shops, small galleries, and studios, giving the downtown a quiet, unhurried character that suits a browse on a weekday afternoon.

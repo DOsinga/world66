@@ -6,6 +6,7 @@ longitude: 115.1693
 tags:
   - shopping
   - mall
+score: 4.8
 ---
 
 A large beachfront mall on Jalan Kartika Plaza in Tuban — air-conditioned escape from the heat, midrange Indonesian and international brands, a food court, and a supermarket in the basement that is useful if you are self-catering. The seaward side opens onto its own stretch of sand with deckchairs and a small fountain plaza.

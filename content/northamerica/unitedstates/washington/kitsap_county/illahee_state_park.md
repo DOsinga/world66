@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 neighbourhood: East Bremerton
+score: 6.5
 ---
 
 A modest 82-acre state park on the bluff above Port Orchard Bay, north of East Bremerton. The headline feature is the **largest yew tree in the United States** — somewhere over 500 years old, fenced off near the picnic area — but the real draw is the beach and the small fishing pier, both reached by a short, steep trail down through the forest from the parking lot.

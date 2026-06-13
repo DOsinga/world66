@@ -8,6 +8,7 @@ tags:
 - history
 title: Grand Mosque
 type: poi
+score: 7.2
 ---
 
 The principal mosque of Tangier, in the lower medina between the Petit Socco and the Grand Socco. The current structure dates from the rebuilding by Sultan Moulay Ismail in the late 17th century after the English departure from Tangier in 1684, but the site has held a place of worship since Roman times — the foundations rest on a temple to Hercules, replaced by a Visigothic church, replaced by an early mosque, briefly converted to a cathedral during the Portuguese occupation (1471-1661), and finally returned to use as a mosque.

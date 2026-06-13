@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 38.2466
 longitude: 21.7356
+score: 7.4
 ---
 
 The Apollon Theatre on Georgiou Square is the oldest municipal theatre in Greece, opened in 1872 in an Italian neoclassical design. The exterior is handsome in a restrained way that suits the square it faces, but the interior is the reason to seek it out: the horseshoe-shaped auditorium with three tiers of boxes and a painted ceiling is one of the finest theatre interiors in Greece, modelled loosely on La Scala in Milan. It seats around 800 and has been functioning continuously as a performance space for well over a century.

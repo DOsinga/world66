@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 48.4838
 longitude: 135.0774
+score: 7.1
 ---
 
 The Military Museum documents the history of the Russian military presence in the Far East from the Cossack expansion of the 17th century to the Soviet period. The collection includes weapons, uniforms, maps, and documents covering the Russo-Japanese War of 1904–5, the Russian Civil War in Siberia (fought partly in Khabarovsk itself), and the Soviet campaign against Japan in 1945.

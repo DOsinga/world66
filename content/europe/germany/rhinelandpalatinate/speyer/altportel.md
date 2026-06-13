@@ -8,6 +8,7 @@ tags:
 snippet: "One of the best-preserved medieval city gates in Germany"
 latitude: 49.3175
 longitude: 8.4322
+score: 8.0
 ---
 
 The Altpörtel — literally "old gate" — is the western anchor of Speyer's medieval fortifications, and one of the most complete city gates surviving in Germany. Built in the 13th century and standing 55 metres tall, it dominated the approach to the city along the Maximilianstrasse, Speyer's long central axis that still runs straight from the gate to the cathedral. The masonry is solid and largely original, with a pointed arch at street level and progressively smaller openings rising to the top. The clock on the facade is from 1761 and still works.

@@ -12,6 +12,7 @@ sources:
   - https://www.parks.ca.gov/?page_id=509
 story: >
   At its peak in 1879, Bodie had a population of around 10,000 and a reputation so violent that a young girl arriving with her family reportedly wrote in her diary: "Goodbye God, I'm going to Bodie." The state preserves it in a condition of "arrested decay" — nothing is restored, nothing is removed, and the buildings stand exactly as they were left when the last residents walked away.
+score: 9.8
 ---
 
 The best-preserved ghost town in the American West, Bodie sits on a high desert plateau 13 miles east of Bridgeport on an unpaved road. At its 1870s gold rush peak it was one of the largest towns in California; today around 100 of its original 2,000 buildings still stand, frozen in time with furniture, tools, and household goods still inside.

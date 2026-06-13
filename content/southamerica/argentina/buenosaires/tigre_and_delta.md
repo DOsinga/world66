@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.4263
 longitude: -58.5794
+score: 8.2
 ---
 
 Thirty kilometres north of the city, where the Paraná River splits into hundreds of channels before meeting the Río de la Plata, lies the Paraná Delta — a 14,000-square-kilometre labyrinth of islands, willow trees, and waterways. The town of Tigre at the edge of the delta is reachable from Buenos Aires by suburban train in about an hour; from Tigre, *lanchas* (river taxis) run into the delta along the main channels.

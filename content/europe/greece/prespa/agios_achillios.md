@@ -14,6 +14,7 @@ story: >
   the Byzantine Emperor Basil II, who blinded 15,000 of Samuel's soldiers and
   sent them home in groups of 100, each led by a one-eyed man to guide them.
   Samuel died of shock on seeing his army return.
+score: 8.8
 ---
 
 The island of Agios Achillios sits in the middle of Micro Prespa and is reached by a wooden pontoon bridge from the village of Psarades — about 150 metres of planking across the still water. The island holds the ruins of a large 10th-century Byzantine basilica, the remnants of a medieval town, and a small number of permanent residents.

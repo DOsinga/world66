@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - zona_hotelera
+score: 6.2
 ---
 
 Gitano is one of the more theatrical bars on the beach road — a clearing in the jungle hung with strings of golden lights, a long curving bar, and a kitchen turning out small plates designed to share over drinks. The mezcal list is one of the most extensive in the country, with bottles from across Oaxaca and Guerrero; the cocktails are mezcal-led and sweet-sour-smoky.

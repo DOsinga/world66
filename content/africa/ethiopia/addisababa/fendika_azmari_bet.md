@@ -8,6 +8,7 @@ tags:
 latitude: 9.0310
 longitude: 38.7470
 snippet: "Traditional azmari music venue keeping a centuries-old Ethiopian tradition alive"
+score: 8.2
 ---
 
 An azmari bet is a traditional Ethiopian drinking and music venue where azmari musicians perform — professional bards who improvise songs on the masinko (a single-stringed fiddle), combining music, poetry, and sharp social commentary in real time. Fendika is one of the most celebrated, performing in the Piazza neighbourhood.

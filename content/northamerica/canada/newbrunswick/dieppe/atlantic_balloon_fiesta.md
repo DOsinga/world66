@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 46.0943
 longitude: -64.7481
+score: 6.5
 ---
 
 Every year on the first full weekend of September, the skies over Dieppe fill with hot-air balloons for the Atlantic Balloon Fiesta, one of the largest balloon festivals in eastern Canada. Dozens of balloons representing operators from across Canada and the United States launch at dawn and dusk from a large open field on the edge of town, when the cooler temperatures and calmer winds give pilots the best flying conditions.

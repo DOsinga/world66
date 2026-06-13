@@ -8,6 +8,7 @@ tags:
   - bushwalk
 title: Giant Stairway
 type: poi
+score: 8.7
 ---
 
 The Giant Stairway is the most direct way to descend from the Echo Point lookout into the Jamison Valley below. Cut into the sandstone cliff face, it consists of around 800 steps and drops about 300 metres over roughly 1 km — a steep but steady descent that takes 20–30 minutes down. The reward is arriving in the valley rainforest, where coachwood, sassafras and tree ferns fill the gorge floor, and the rock formations that look like three sisters from above become towering walls around you.

@@ -11,6 +11,7 @@ tags:
 title: Boston Public Garden
 type: poi
 url: www.swanboats.com
+score: 8.4
 ---
 
 Adjacent to the Boston Common, the Public Garden is a slightly more formal greenspace with lush plantings, majestic trees, ornate fountains, and impressive statues. Founded in 1837, it is a quiet oasis in the middle of the city.

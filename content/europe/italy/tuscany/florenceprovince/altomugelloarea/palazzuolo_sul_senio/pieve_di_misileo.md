@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1192
 longitude: 11.5557
+score: 6.6
 ---
 
 A small rural parish church of medieval origin, on a hillside outside the village. The pieve is documented as early as the 11th century, when it was the principal religious centre for the scattered farms of the upper Senio valley. The building has been altered many times but the simple stone bell tower and apse retain their medieval character.

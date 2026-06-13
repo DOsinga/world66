@@ -13,6 +13,7 @@ story: >
   The navigator Andrés de Urdaneta had plotted a route no European vessel had yet completed.
   Ninety-three days later they raised the Mariana Islands; within two years Spain had its foothold
   in the Philippines, a possession it would keep for 333 years.
+score: 6.6
 ---
 
 Near the southern end of the beach stands a modest monument commemorating the 400th anniversary of the departure of the 1564 expedition to the Philippines. It marks the spot from which Miguel López de Legazpi and the friar-navigator Andrés de Urdaneta set sail on what would become one of the defining voyages of the Spanish Empire — the colonisation of the Philippines and the establishment of the Manila Galleon trade route that would link Asia and the Americas for 250 years.

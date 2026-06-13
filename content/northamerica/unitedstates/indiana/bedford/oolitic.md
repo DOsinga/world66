@@ -6,6 +6,7 @@ longitude: -86.5253
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The small town of Oolitic, just north of Bedford, takes its name from the oolitic limestone that built it. It is barely more than a few streets, but it is worth a brief stop for the bronze statue of "Joe Palooka" — the comic-strip prize-fighter — that stands on the main intersection, carved in limestone in 1948 by the Indiana Stone Workers' Union.

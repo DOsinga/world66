@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.7200
 longitude: 82.9300
+score: 8.0
 ---
 
 The covered bazaar in Kuqa's old quarter, west of the central roundabout, is one of the more genuinely local markets remaining in Xinjiang — less affected by tourism and modernisation than Kashgar's equivalent, and consequently more interesting as an experience of contemporary Uyghur commercial life. The lanes under the wooden roof sell dried fruit, spices, bolts of cloth, copper and brassware, rope, tools, and food, all mixed together in the organic way of a market that has evolved over centuries rather than being planned.

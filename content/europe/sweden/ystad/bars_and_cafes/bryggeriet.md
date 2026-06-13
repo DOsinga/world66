@@ -8,6 +8,7 @@ tags:
 - bar
 title: Systemet Bryggeriet
 type: poi
+score: 5.9
 ---
 
 Ystad's brewpub occupies a restored 19th-century building on Långgatan and serves its own lagers and ales alongside a short food menu of burgers and pub snacks. The beer list changes with the season; the house lager is reliable. Busy on Friday and Saturday evenings, quieter the rest of the week.

@@ -9,6 +9,7 @@ snippet: Local-history museum covering pioneer and agricultural life in western 
 tags:
 - things_to_do
 - museum
+score: 6.4
 ---
 
 The Heartland of America Museum is Weatherford's local history museum, covering the settlement, agricultural development, and daily life of the western Oklahoma region from the Land Run period onward. Exhibits include a recreated one-room schoolhouse, period rooms, farming equipment, and material on the local Native American history.

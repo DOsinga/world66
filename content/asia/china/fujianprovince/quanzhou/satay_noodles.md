@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 24.9100
 longitude: 118.5950
+score: 4.4
 ---
 
 Quanzhou's satay noodles (沙茶面, shāchá miàn) are a uniquely Fujianese dish born from the Hokkien emigrant communities of Southeast Asia. The sauce — a peanut and dried shrimp base with chilli and spice — was adapted from the satay preparations of Malaysia and Indonesia by emigrants who returned home, and in Quanzhou it has been transformed into a noodle soup unlike anything found elsewhere in China. The broth is rich, peanutty, and slightly spicy; the toppings typically include pig intestines, duck blood, tofu, and various cuts of pork, each table customising their bowl with the additions of their choice.

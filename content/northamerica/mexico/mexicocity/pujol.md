@@ -7,6 +7,7 @@ neighbourhood: Polanco
 address: "Tennyson 133, Polanco"
 latitude: 19.4341
 longitude: -99.1972
+score: 7.8
 ---
 
 Pujol is the restaurant that recalibrated what fine-dining Mexican cuisine could be. Enrique Olvera opened it in 2000, and over the years he has rebuilt the menu around the most ordinary ingredients of the Mexican kitchen — corn, mole, beans, tortillas — using a precision and restraint usually reserved for European haute cuisine.

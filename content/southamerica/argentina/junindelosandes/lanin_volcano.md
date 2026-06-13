@@ -9,6 +9,7 @@ latitude: -39.6333
 longitude: -71.5000
 story: >
   Lanín is a stratovolcano and is considered potentially active, though it has not erupted in recorded history. The Chilean National Geology and Mining Service monitors it alongside the Argentinean side. Its perfect cone shape — often compared to Japan's Fuji — is the result of successive layers of lava and ash building symmetrically over thousands of years. On clear days it is visible from San Martín de los Andes, 40 kilometres to the south, and from various points on the Ruta de los Siete Lagos.
+score: 9.0
 ---
 
 Lanín volcano, at 3,776 metres, is the defining landmark of the Junín de los Andes region — a near-perfect snow-capped cone that rises above the Andean foothills and is visible from vast distances on clear days. It sits on the Argentine–Chilean border and gives its name to Lanín National Park, which surrounds its flanks.

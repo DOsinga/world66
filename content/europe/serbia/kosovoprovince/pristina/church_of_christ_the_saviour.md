@@ -14,6 +14,7 @@ story: >
   and used as a community centre. The Serbian Orthodox Church wants to complete it; the Kosovo government
   has consistently blocked construction permits. The 1,389 planned golden crosses reference the year of
   the Battle of Kosovo.
+score: 6.6
 ---
 
 The Church of Christ the Saviour is one of the most contested structures in Kosovo — a large, unfinished Serbian Orthodox church on the University of Pristina campus that has been at the centre of disputes about identity, sovereignty, and memory since the 1999 war.

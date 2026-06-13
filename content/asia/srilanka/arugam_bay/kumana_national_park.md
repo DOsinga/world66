@@ -14,6 +14,7 @@ story: >
   elephants and leopards had been breeding undisturbed for decades. The park saw only a fraction of
   Yala's visitors even years after reopening, making it one of the best wildlife parks in Sri Lanka
   that most tourists still hadn't discovered.
+score: 9.0
 ---
 
 Kumana National Park lies about 30 km south of Arugam Bay and is one of Sri Lanka's most undervisited wildlife reserves. The park covers mangrove lagoons, scrub forest, and open grasslands that support healthy populations of elephants, leopards, sloth bears, crocodiles, and water buffalo. The Kumana Villu — a 200-hectare lagoon at the park's heart — is a critical nesting site for hundreds of species of waterbirds, including painted storks, spoonbills, pelicans, and open-billed storks.

@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: El Celler de Can Roca
 type: poi
+score: 8.5
 ---
 
 One of the most celebrated restaurants in the world, holding three Michelin stars and named World's Best Restaurant twice (2013, 2015). Run by three brothers — Joan (chef), Josep (sommelier), and Jordi (pastry chef) — in a purpose-built dining room in the Taialà neighbourhood, a short taxi ride from the old city.

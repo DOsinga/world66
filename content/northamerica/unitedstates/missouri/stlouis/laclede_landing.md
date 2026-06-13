@@ -8,6 +8,7 @@ tags:
 - downtown
 latitude: 38.6308
 longitude: -90.1825
+score: 5.7
 ---
 
 Laclede's Landing is the surviving sliver of historic St Louis riverfront — about nine blocks of cobblestone streets and 19th-century warehouses just north of the Eads Bridge. Almost everything else along the river was cleared in the 1930s to build the Gateway Arch grounds, so this district carries most of what remained of the city's commercial origins.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.5018
 longitude: 15.0875
+score: 6.3
 ---
 
 Porta Uzeda is the gate at the southern end of Via Etnea, immediately behind the cathedral. It was built in 1696 as part of the rebuilding after the earthquake and named for the Spanish viceroy Don Manuel de los Cobos, Duke of Uzeda.

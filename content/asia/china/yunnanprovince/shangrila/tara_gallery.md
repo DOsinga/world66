@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
   - bar
+score: 5.2
 ---
 
 Tara is a cafe and gallery on a quiet lane in the Old Town that does Western breakfasts, decent espresso, and Tibetan crafts on the walls for sale. Pancakes, eggs, and a strong coffee make it the standard first stop for foreign travellers arriving in town in need of acclimatisation calories.

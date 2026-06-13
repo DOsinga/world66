@@ -13,6 +13,7 @@ story: >
   built in the rock beside the mines. In 1969, Israeli archaeologists
   discovered one of the oldest known woven fabrics here — a scrap of textile
   dyed with colours still vivid after three thousand years.
+score: 8.8
 ---
 
 An extraordinary geological and archaeological site in the Negev desert, about 30 kilometres north of Eilat. The park is centred on an ancient copper-mining district that was worked for thousands of years — first by the Egyptians, then the Nabataeans, then successive powers through the medieval period. The landscape is dramatic: a natural amphitheatre of eroded sandstone formations, including the famous King Solomon's Pillars, a row of towering rock columns carved by millennia of wind and water.

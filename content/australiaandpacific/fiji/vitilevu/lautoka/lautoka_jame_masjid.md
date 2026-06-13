@@ -8,6 +8,7 @@ latitude: -17.6061
 longitude: 177.4550
 sources:
   - https://en.wikipedia.org/wiki/Lautoka_Jame_Masjid
+score: 6.0
 ---
 
 The Lautoka Jame Masjid is the main mosque of Lautoka's Muslim community, serving the Indo-Fijian Muslim population that has been part of the town since the first Indian indentured labourers arrived in the late 19th century. The building dates from the early 20th century and has been expanded and renovated since; it is a substantial white structure with a characteristic green dome, visible from much of the town centre.

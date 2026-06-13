@@ -7,6 +7,7 @@ tags:
 snippet: "Long undeveloped beaches and small fishing harbour on the Gulf of Aden"
 latitude: 10.7306
 longitude: 43.6917
+score: 7.8
 ---
 
 Lughaya sits directly on the Gulf of Aden, and the coast is what defines the place. The town's small **fishing harbour** still uses traditional wooden dhows alongside more recent fibreglass skiffs; the catch — tuna, kingfish, lobster, the occasional shark — is sold on the beach at dawn and consumed locally or trucked to Berbera and Hargeisa.

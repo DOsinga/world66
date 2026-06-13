@@ -6,6 +6,7 @@ longitude: 22.7033
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 The city museum at Storgatan 2 covers the cultural and maritime history of Jakobstad and the surrounding Ostrobothnian coast. The collection concentrates on the town's two great historical industries — shipbuilding and tobacco — and includes material on the bilingual Swedish-Finnish character that has shaped the town since its founding in 1652.

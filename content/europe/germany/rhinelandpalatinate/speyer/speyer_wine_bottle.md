@@ -7,6 +7,7 @@ tags:
 snippet: "The world's oldest surviving wine bottle, sealed since around 325 AD"
 latitude: 49.3155
 longitude: 8.4415
+score: 6.8
 ---
 
 In the Historisches Museum der Pfalz, in a glass case, sits a small sealed amphora of greenish glass containing about half a litre of liquid. It has been there, in one form or another, since archaeologists pulled it from a Roman nobleman's tomb near Speyer in 1867. The liquid inside is still wine-coloured. The bottle has never been opened. It dates to around 325 AD, making it the oldest surviving bottle of wine in the world by a considerable margin.

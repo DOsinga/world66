@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.5
 ---
 
 The main town beach is a long stretch of greyish sand backed by suru pines and coconut palms, with the silhouette of Kolaba Fort visible offshore. It is at its busiest on weekend afternoons when Mumbai day-trippers arrive, complete with camel rides, horse carts, and food stalls selling bhel, vada pav and fresh coconut.

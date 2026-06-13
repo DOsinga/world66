@@ -13,6 +13,7 @@ tags:
   - sight
 title: Devil's Bridge
 type: poi
+score: 8.5
 ---
 
 One of the most unusual sights in mid-Wales: three bridges stacked directly on top of each other over the Mynach Gorge, where the River Mynach plunges down a series of spectacular waterfalls before joining the Rheidol. The gorge is about 20 kilometres inland from Aberystwyth, and the easiest way to reach it is on the [Vale of Rheidol Narrow Gauge Steam Railway](/europe/unitedkingdom/wales/aberystwyth/vale_of_rheidol_railway), which makes the journey into a destination in itself.

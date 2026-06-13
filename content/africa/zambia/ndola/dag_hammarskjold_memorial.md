@@ -15,6 +15,7 @@ story: >
   sabotage by Belgian, French, British, or American operatives have all been proposed.
   A UN investigation in 2019 concluded that an attack was "plausible." The mystery has
   never been resolved.
+score: 5.1
 ---
 
 About 13 km outside Ndola, a small memorial marks the spot where the DC-6 carrying UN Secretary-General Dag Hammarskjöld crashed on the night of 17 September 1961. Hammarskjöld was en route to negotiate a ceasefire in the Katanga secession crisis in the Congo; he never arrived. The crash site is in the bush, accessible by road, and consists of a stone monument and a small park maintained by the Zambian government.

@@ -9,6 +9,7 @@ tags:
 - nature
 title: Crowfoot Glacier
 type: poi
+score: 6.9
 ---
 
 One of over a hundred glaciers visible along the Icefields Parkway, and one of the easiest to see — a well-marked viewpoint sits right off the road. The glacier once had three toe-like extensions that gave it a crow's foot shape, but the lowest toe has receded dramatically, leaving only two. It is a striking, sobering reminder of how quickly mountain ice is disappearing.

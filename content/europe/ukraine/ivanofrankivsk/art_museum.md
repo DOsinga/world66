@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.9236
 longitude: 24.7092
+score: 7.9
 ---
 
 The regional art museum lives inside the old Collegiate Church of the Virgin Mary, the bulky red-brick building that closes off Sheptytsky Square. The church was built between 1672 and 1703 as the Potockis' Catholic family church, was secularised under the Soviets in the 1960s and turned into a museum.

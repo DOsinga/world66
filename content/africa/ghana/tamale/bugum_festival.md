@@ -10,6 +10,7 @@ tags:
   - festival
 story: >
   The festival commemorates a moment from Dagomba history when a chief's young son fell into a river and went missing. Search parties went out at night carrying burning grass torches, calling and singing as they moved through the darkness. When the boy was found alive, the people celebrated with fire and song — and have done so every year since on the same night.
+score: 8.6
 ---
 
 On the 28th day of the first Islamic month — usually falling in January — Tamale lights up in a way that has nothing to do with electricity. The Bugum Fire Festival sees thousands of people move through the city's streets carrying bundles of grass tied into torches and set alight. The procession is accompanied by singing and drumming, and the sight of so many flames moving through the darkness is genuinely striking — there is nothing quite like it anywhere else on the regional calendar.

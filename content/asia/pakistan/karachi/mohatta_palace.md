@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Mohatta Palace Museum
 type: poi
+score: 8.7
 ---
 Built in 1927 for a wealthy Hindu merchant, Mohatta Palace is one of Karachi's most striking buildings — a fusion of Rajasthani and Mughal styles rendered in pale pink Jodhpur sandstone and local yellow stone. After Partition it served variously as a government residence and was at one point home to Fatima Jinnah. Today it functions as a museum and cultural venue, with rotating exhibitions of Pakistani art alongside a permanent collection reflecting the palace's layered history.
 

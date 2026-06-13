@@ -13,6 +13,7 @@ story: >
   island that forces tuk-tuks and buses to navigate around it. The tower serves as the
   informal meeting point of Kandy — "meet you at the clock" is the local equivalent of
   London's "meet you under the clock at Waterloo."
+score: 4.9
 ---
 
 The Kandy Clock Tower stands at the main intersection in the center of town, at the junction of Sri Dalada Veediya and Bandaranaike Mawatha. It is a compact colonial-era structure dating to 1922, built as a World War I memorial. The tower is surrounded by the controlled chaos of Kandy's main traffic junction and serves as the navigational center point of the city.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 53.0163
 longitude: -9.3776
+score: 7.0
 ---
 
 McDermott's in Roadford is the most local-feeling of Doolin's pubs, with a small interior that can feel genuinely cramped during a session and a regulars' culture that takes slightly longer to warm up than O'Connor's. The music here tends to start a little later and run longer, and the atmosphere at its best is more intimate than the bigger pub in Fishstreet.

@@ -8,6 +8,7 @@ snippet: "More than 50 large-scale murals depicting city history along the river
 latitude: 38.7300
 longitude: -82.9970
 story: "Muralist Robert Dafford was commissioned in 1992 to paint a single test panel; the project grew to 52 murals stretching some 2,000 feet along the concrete floodwall. Dafford worked on them on and off for two decades, finishing the last panel in 2002."
+score: 8.2
 ---
 
 Portsmouth's defining attraction is also its most accidental one: a series of more than fifty enormous murals painted along the city's Ohio River floodwall. Each panel covers a different chapter of local history, from Shawnee villages and pioneer settlement through the canal era, steamboat boom, and twentieth-century steel and shoemaking industries.

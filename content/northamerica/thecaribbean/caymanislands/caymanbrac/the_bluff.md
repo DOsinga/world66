@@ -11,6 +11,7 @@ latitude: 19.7333
 longitude: -79.75
 story: >
   At 43 metres, the Bluff is the highest natural point in the Cayman Islands — modest by global standards but so dominant on a flat archipelago that it gave the island its name (Gaelic *brac* meaning bluff). On a clear day from the eastern tip you can see Little Cayman 8 km away, and the lighthouse at the eastern edge stands close enough to the cliff that during winter swells the spray can reach it.
+score: 8.0
 ---
 
 The Bluff is the limestone spine that runs along the eastern two-thirds of Cayman Brac, rising gently from the west and ending in a sheer 43-metre cliff at the eastern tip. It dominates the island physically and culturally — almost every map of Cayman Brac is oriented around it, and locals talk about "up on the Bluff" or "below the Bluff" the way other places talk about districts.

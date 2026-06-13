@@ -12,6 +12,7 @@ story: >
   Fat Margaret earned its name from its squat, round form — it is almost as wide as it is tall. Built between 1510 and 1529 to defend the harbour entrance, its walls are up to 4.7 metres thick. The cannon of the period couldn't penetrate it. In 1917, after Estonian sailors mutinied against the Imperial Russian Navy, the tower was briefly seized by revolutionaries; during the Estonian War of Independence it was defended against Russian Bolshevik forces.
 sources:
   - https://en.wikipedia.org/wiki/Fat_Margaret
+score: 7.5
 ---
 
 Fat Margaret is a massive Renaissance-era gun tower that anchors the Great Coast Gate — the main entrance to Tallinn from the sea. The tower, completed in 1529, has walls up to 4.7 metres thick and was designed to house heavy artillery facing the harbour. Today it houses a branch of the Estonian Maritime Museum with exhibits on seafaring and ship navigation.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Museum
 story: >
   The museum holds finds from Kaymaklı, one of the deepest underground cities in Cappadocia, including storage vessels designed to be sealed against Bedouin raids. The Hittite, Phrygian, and Byzantine layers of Cappadocia's history are all represented in a single building within easy reach of the bus station.
+score: 7.2
 ---
 
 The Nevşehir Museum houses archaeological finds from across the province, spanning from the Chalcolithic era through the Byzantine period. The collection includes Hittite pottery, Bronze Age artefacts from the volcanic plateau, Roman and Byzantine ceramics, and objects from the underground cities of the region.

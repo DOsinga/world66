@@ -17,6 +17,7 @@ story: >
   enslaved artisans.
 sources:
   - https://en.wikipedia.org/wiki/Kenmore_(Fredericksburg,_Virginia)
+score: 8.3
 ---
 
 Kenmore is a Georgian plantation house built around 1775 for Fielding Lewis and his wife Betty Washington Lewis, George Washington's only surviving sister. It sits in a quiet neighborhood a short walk from the downtown commercial district, surrounded by formal gardens that have been restored to approximate their 18th-century appearance. The house is a National Historic Landmark and is operated by the nonprofit George Washington's Ferry Farm and Historic Kenmore.

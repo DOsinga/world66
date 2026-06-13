@@ -7,6 +7,7 @@ tags:
 latitude: 27.7034
 longitude: 85.3129
 address: Dwarika's Hotel, Battisputali, Kathmandu
+score: 7.0
 ---
 
 Krishnarpan is Nepal's most acclaimed restaurant, set within Dwarika's Hotel — a heritage property built around salvaged Newari carved windows and courtyards — in the Battisputali area east of the city. The cuisine is traditional Nepali in multiple courses: the standard set menus run from 6 to 22 courses, each course representing a different culinary region or tradition within Nepal, from the Terai to the highlands.

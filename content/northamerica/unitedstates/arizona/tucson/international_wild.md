@@ -9,6 +9,7 @@ url: "www.thewildlifemuseum.org"
 tags:
   - things_to_do
   - museum
+score: 5.6
 ---
 
 The International Wildlife Museum sits on the western edge of town along Gates Pass Road, set up like a fort. It houses around 400 mounted specimens — most donated from the collections of game hunters — arranged in elaborate dioramas that illustrate African plains, Arctic tundra, and the desert mountains nearby.

@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 7.2
 ---
 
 The Breite Oak Tree Reserve is a 74-hectare nature reserve on a plateau above Sighisoara, about 4 kilometres from the citadel. It contains hundreds of ancient oak trees, some estimated at over 800 years old, growing in the traditional "Hutweide" pattern — widely spaced trees in open meadow — that was once common across central Europe before modern farming destroyed it almost everywhere else.

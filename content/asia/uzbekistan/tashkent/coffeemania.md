@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3100
 longitude: 69.2792
+score: 4.8
 ---
 
 A small Tashkent chain serving the city's best espresso, along with a long menu of cakes, breakfasts, and light meals. The Amir Timur Square branch is the most central — comfortable, air-conditioned, with English menus and Wi-Fi.

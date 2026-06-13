@@ -14,6 +14,7 @@ tags:
 - historic_house
 title: Iwahig Prison and Penal Farm
 type: poi
+score: 6.8
 ---
 
 Iwahig is a low-security open prison colony covering some 37,000 hectares of farmland south of Puerto Princesa. Inmates — known as colonists — grow rice, vegetables, and fruit, and are free to move around the colony without guards. Some have brought their families to live with them on the grounds. The arrangement is closer to a small farming community than a conventional prison.

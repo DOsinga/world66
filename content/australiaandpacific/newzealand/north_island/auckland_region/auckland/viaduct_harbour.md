@@ -15,6 +15,7 @@ story: >
   Team New Zealand defended the Cup here. The infrastructure built for the event 
   — the superyacht berths, the widened promenades, the restaurants — became 
   the template for Auckland's waterfront renewal.
+score: 6.9
 ---
 
 The Viaduct Harbour is the beating heart of Auckland's waterfront. What was once a rough working wharf is now a marina lined with superyachts, bars, and seafood restaurants, with the harbour in front and the city rising behind. It is at its best on a summer evening when half the city decamps here for a drink on the water.

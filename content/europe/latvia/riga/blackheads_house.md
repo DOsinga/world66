@@ -12,6 +12,7 @@ title: House of the Blackheads
 type: poi
 story: >
   The Brotherhood of Blackheads was a guild of unmarried foreign merchants, named after their patron saint, the Moorish martyr St Maurice. They were one of the wealthiest and most powerful organisations in medieval Riga. The original house was destroyed by Soviet bombing in 1941 and the ruins were demolished in 1948; the reconstruction, completed in 1999, is exact enough to be indistinguishable from an original.
+score: 7.0
 ---
 
 The House of the Blackheads (Melngalvju nams) is one of Riga's most striking buildings and easily the most photographed — an ornate 14th-century Gothic guild house on the main town hall square, with an elaborately decorated façade of stepped gables, stone tracery, and golden ornamentation.

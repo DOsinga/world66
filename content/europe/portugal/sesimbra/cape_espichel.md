@@ -9,6 +9,7 @@ latitude: 38.4141
 longitude: -9.2224
 story: >
   At the foot of the 130-metre cliff below the lighthouse, several lines of fossilised dinosaur footprints climb the rock face at an angle — sauropods walking in single file across what was, in the Late Jurassic, a tidal flat. The rock then bent upward as the Iberian plate rose; the tracks tilted with it. You can see them clearly from the cliff edge with binoculars, or scramble down the path at the south end of the cape for a closer look.
+score: 9.1
 ---
 
 Cape Espichel is the western tip of the Setúbal peninsula — a wind-scoured limestone headland that drops 130 metres straight to the Atlantic. The lighthouse, the Sanctuary of Nossa Senhora do Cabo, and the long colonnaded pilgrim lodgings (the Casa dos Círios) make for an extraordinary tableau in the middle of nowhere: a Baroque pilgrimage complex at the end of the world, with the sea on three sides and almost nobody about.

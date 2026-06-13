@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 41.1406
 longitude: -8.6113
+score: 9.2
 ---
 
 Ribeira is the old medieval quarter that lines the Douro riverfront, a tangle of narrow streets climbing the steep slope above the Cais da Ribeira waterfront. The colourful tiled facades stacked up the hillside form Porto's most iconic view — best seen from the other bank in Vila Nova de Gaia, especially in the evening when the buildings catch the light.

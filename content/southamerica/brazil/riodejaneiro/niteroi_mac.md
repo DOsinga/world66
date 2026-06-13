@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Niter%C3%B3i_Contemporary_Art_Museum
 story: >
   Oscar Niemeyer designed the museum when he was 88 years old, and produced what many consider his greatest building. The structure — a 16-metre flying saucer balanced on a concrete stem above a reflecting pool, cantilevered over the cliffs of Boa Viagem — was completed in 1996. Niemeyer said he was inspired by a flower: the stem, the petals, the form rising from the earth.
+score: 7.8
 ---
 
 The Niterói Contemporary Art Museum sits across Guanabara Bay from Rio, in the city of Niterói — a 45-minute ferry ride from Praça XV in Centro. Oscar Niemeyer designed the building in 1991, completing it in 1996 when he was 88 years old. The result is one of the most extraordinary museum buildings in the world: a 16-metre diameter disc of white concrete perched on a single stem above a reflecting pool on the cliff edge of Boa Viagem point.

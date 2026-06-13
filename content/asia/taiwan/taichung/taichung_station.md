@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.1369
 longitude: 120.6868
+score: 7.1
 ---
 
 The old Taichung Station building is a red-brick Renaissance Revival station built by the Japanese colonial government in 1917, with a clock tower and a stuccoed front. It was retired from rail service in 2016 when the new elevated station opened next door, and now functions as a railway museum and event space.

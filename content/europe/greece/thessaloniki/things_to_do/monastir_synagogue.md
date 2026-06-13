@@ -15,6 +15,7 @@ story: >
   In 1943 the German occupation deported virtually all of them to Auschwitz, where 96 
   percent were killed. The Monastir Synagogue is one of the very few physical remnants 
   of a community that shaped this city for 450 years.
+score: 7.2
 ---
 
 The Monastir Synagogue, tucked into a courtyard off Syngrou Street near the Modiano market, is the only surviving active synagogue in a city that once had 40. Built in 1927 by Jews who had emigrated from Monastir (now Bitola in North Macedonia), it survived the Nazi occupation when most of Thessaloniki's Jewish community did not.

@@ -14,6 +14,7 @@ story: >
   the highway bypassed the old alignment and traffic fell away, the building sat empty for
   years before the current owners rescued it and filled it with motorcycles, giving it a
   second life more flamboyant than its first.
+score: 7.8
 ---
 
 Seaba Station is a restored 1921 filling station about five miles east of Chandler on the original Route 66 alignment, now housing an eccentric collection of vintage motorcycles gathered over decades. The building itself is a fine example of early roadside commercial architecture — a white stucco structure with a distinctive hipped roof and gas pump islands still in place out front.

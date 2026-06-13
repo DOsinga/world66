@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 18.7617
 longitude: 73.4048
+score: 5.3
 ---
 
 **Bhutta** — roasted corn on the cob — is the quintessential monsoon snack of the Western Ghats hill stations, and Lonavala is no exception. Vendors set up coal braziers near Bhushi Dam, Tiger's Leap, Lonavala Lake, and along the main road, roasting corn to order and rubbing it with lemon, chilli, and salt. A cob costs a few rupees.

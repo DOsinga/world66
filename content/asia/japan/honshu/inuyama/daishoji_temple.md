@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.38916
 longitude: 136.94931
+score: 6.9
 ---
 
 Naritasan Daishoji is a Shingon Buddhist temple in the heart of Inuyama, a branch of the famous Naritasan Shinshoji temple in Chiba Prefecture. The temple compound is large and atmospheric, with a main hall, pagoda, and beautifully tended gardens. It draws local worshippers throughout the year and sees larger crowds during the New Year period (Hatsumode) and during cherry blossom season, when the grounds fill with blossoms.

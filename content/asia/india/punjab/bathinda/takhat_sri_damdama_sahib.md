@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "It was here in 1706 that Guru Gobind Singh dictated the final, authorised version of the Guru Granth Sahib to his scribe Bhai Mani Singh — the scripture that every gurdwara in the world still reads from today. The Guru rested in Damdama (literally 'the breathing place') for nearly nine months after the battles of Anandpur and Chamkaur."
+score: 8.4
 ---
 
 About 30 km southeast of Bathinda, in the village of Talwandi Sabo, stands **Takht Sri Damdama Sahib** — one of the five *takhts*, the supreme seats of Sikh temporal authority. A vast white marble complex with a gilded dome and an enormous sarovar, it draws hundreds of thousands of pilgrims at *Baisakhi* in mid-April.

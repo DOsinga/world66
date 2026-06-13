@@ -10,6 +10,7 @@ tags:
 - nature
 title: Triund
 type: poi
+score: 9.3
 ---
 
 Triund sits at 2,975 m at the foot of the Dhauladhar range, about 18 km from Dharamshala. On a clear day the views of the snow-capped peaks above and the Kangra Valley below are hard to beat.

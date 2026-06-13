@@ -6,6 +6,7 @@ longitude: -24.9891
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Avenida Marginal is Mindelo's seafront boulevard: a wide palm-lined avenue that runs along the bay from the cruise port at one end to Laginha beach at the other, passing the Palacio do Povo, the fish market, and a string of cafes and restaurants on the inland side.

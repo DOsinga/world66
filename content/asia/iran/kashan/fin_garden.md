@@ -14,6 +14,7 @@ story: >
   agents of the court opened his veins in the hammam at the garden's edge. The
   bathhouse where it happened is still there, preserved with the grim matter-of-factness
   that Iranians apply to their complicated history.
+score: 9.1
 ---
 
 Fin Garden — Bagh-e Fin — is the oldest surviving Persian garden in Iran and one of nine historic Persian gardens inscribed as a UNESCO World Heritage Site. It lies about 9 kilometres southwest of Kashan city centre and makes a natural half-day excursion from any base in the city.

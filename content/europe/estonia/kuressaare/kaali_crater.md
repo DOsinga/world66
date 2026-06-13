@@ -12,6 +12,7 @@ story: >
   Estonian and Finnish myths describe the Sun falling to Earth and dying in a lake —
   scholars believe these stories may preserve a folk memory of the actual event, which
   occurred around 1500–1000 BCE.
+score: 8.5
 ---
 
 About 18 kilometres northeast of Kuressaare, near the village of Kaali, a meteorite struck Saaremaa roughly three thousand years ago and left a cluster of craters. The main crater is 110 metres across and 22 metres deep; it has since filled with groundwater to form a small lake, ringed by trees and surrounded by the smaller satellite craters that pock the surrounding pasture. A low stone wall marks the rim.

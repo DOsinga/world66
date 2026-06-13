@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 21.2200
 longitude: -86.7250
+score: 8.8
 ---
 
 The waters around Isla Mujeres sit at the northern edge of the Mesoamerican Barrier Reef, the second-largest coral reef system in the world. The reef is accessible from multiple points on the island's western and southern shores, with visibility often exceeding 20 metres in the dry season. Nurse sharks and rays are common; whale sharks pass through the waters north of the island in large numbers from May to September.

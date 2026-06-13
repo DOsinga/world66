@@ -7,6 +7,7 @@ tags:
 - market
 title: Kapra Bazaar
 type: poi
+score: 6.8
 ---
 
 Jodhpur's textile market is the place to look for the two weaving traditions that Rajasthan does better than anywhere else. Bandhani is a tie-dye technique in which tiny dots of fabric are bound before dyeing, creating intricate geometric patterns in bright colors on silk, chiffon, or cotton. Lahariya is a diagonal wave-striped pattern — the name means "wave" — traditionally worn at the monsoon festival of Teej. Both are sold here by the meter or made up into dupattas, saris, and kurtas.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.8848
 longitude: 14.4036
+score: 5.2
 ---
 
 The Mdina Dungeons occupy the medieval vaults and prison cells beneath the square just inside the main gate, and present Maltese history through a series of dramatic life-sized tableaux. The exhibits cover the Arab occupation, the Inquisition, piracy in the Mediterranean, and various episodes of plague and punishment with rather more gusto than academic rigour.

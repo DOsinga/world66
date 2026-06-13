@@ -14,6 +14,7 @@ story: >
   more landmark than operational, and the last traffic officer stepped down from
   the cage in 2000, but the structure remains one of Hamilton's most photographed
   spots.
+score: 6.3
 ---
 
 Front Street runs along Hamilton Harbour and is the commercial and social spine of Bermuda's capital. Cruise ships dock directly along its length, making it the first thing many visitors see of Bermuda — which is unfortunate, because the duty-free shops and jewellery stores that line the waterfront give a misleading impression of the island's character.

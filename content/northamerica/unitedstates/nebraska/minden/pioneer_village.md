@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   Harold Warp grew up on a farm near Minden in the early 20th century and was struck by how rapidly the world was changing around him. He began collecting objects from the pre-modern era in the 1930s — not to sell or display, but because he genuinely feared the evidence of how Americans lived before technology would be lost. By the time he opened Pioneer Village in 1953, he had over 30,000 items; the collection has since grown to more than 50,000 artefacts.
+score: 9.5
 ---
 
 Pioneer Village is one of the most extraordinary roadside attractions in the American Midwest — a sprawling, 20-acre complex of 28 historic buildings packed with over 50,000 artefacts tracing American material culture from the 1830s through the mid-20th century. It was assembled by Harold Warp, a Nebraska-born entrepreneur, who bought and moved authentic pioneer-era structures from across the region: a Pony Express way station, a country church (still holding services), a land office, a blacksmith shop, a log cabin, and more.

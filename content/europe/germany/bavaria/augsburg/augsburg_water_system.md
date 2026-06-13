@@ -13,6 +13,7 @@ tags:
 - sight
 title: Augsburg Water Management System
 type: poi
+score: 9.0
 ---
 
 Augsburg's historic water supply system, a UNESCO World Heritage Site since 2019, covers the network of canals, water towers, and pumping stations that have supplied the city since the medieval period. The system was one of the most sophisticated in Europe when it was built, and several of its original structures survive: the three water towers near the Rotes Tor (Red Gate) can be explored, and the canal system still flows through the old town. A free trail map from the tourist office connects the main surviving elements on a 90-minute walking route.

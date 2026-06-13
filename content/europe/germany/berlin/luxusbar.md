@@ -8,6 +8,7 @@ tags:
 - prenzlauerberg
 title: Luxus Bar
 type: poi
+score: 5.8
 ---
 
 A low-key neighbourhood bar near Senefelderplatz, one block back from the more touristy Kastanienallee strip. Good for a quiet evening drink without the crowds. The interior is spare and unpretentious — mismatched furniture, decent beer selection, a regular local crowd. The kind of place that earns its reputation without trying too hard.

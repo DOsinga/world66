@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau-Vieux_(Bayonne)
 story: >
   The Château-Vieux has been a fortification since Roman times and served as a residence for various rulers including the English Plantagenet kings during their long control of Gascony. The Duke of Wellington used it as his headquarters during the 1814 siege of Bayonne, the last major engagement of the Peninsular War.
+score: 6.8
 ---
 
 The Château-Vieux, or Old Castle, is the oldest substantial structure in Bayonne, its origins going back to a Roman castellum. The core of the current building dates from the 12th century, when Bayonne was under English Plantagenet rule — one of the more curious footnotes of medieval history, this corner of the Basque coast belonged to England for three centuries. The castle changed hands repeatedly between English and French rule, and was substantially modified under each.

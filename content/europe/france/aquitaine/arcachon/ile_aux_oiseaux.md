@@ -14,6 +14,7 @@ story: >
   an icon while being entirely functional working structures.
 sources:
   - https://en.wikipedia.org/wiki/Arcachon_Bay
+score: 8.3
 ---
 
 The Île aux Oiseaux — Bird Island — sits in the middle of the Arcachon bay, an oyster-farming community with a handful of permanent inhabitants and the famous cabanes tchanquées, wooden huts on stilts that stand at the island's southern tip and have become the most photographed image of the bay. Boat trips from the Arcachon jetties visit the island and the surrounding oyster beds; you can eat freshly-opened oysters on board most of these trips.

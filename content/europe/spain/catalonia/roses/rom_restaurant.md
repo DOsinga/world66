@@ -6,6 +6,7 @@ longitude: 3.1740
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 A small, smartly run modern restaurant a couple of streets back from the harbour, Rom does ambitious cooking at a fraction of Els Brancs' prices. The format is a short tasting menu with optional wine pairings, leaning into seafood and seasonal vegetables from the Empordà.

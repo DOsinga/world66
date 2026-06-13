@@ -16,6 +16,7 @@ story: >
   master who brought Tantric Buddhism to Bhutan in the eighth century. The
   temple in Phuntsholing is a deliberate earthly replica of this paradise, built
   in the 1990s by Dasho Aku Tongmi, a lama from Paro.
+score: 6.1
 ---
 
 Zangto Pelri Lhakhang rises three storeys above a small park near the centre of Phuntsholing, a few minutes' walk from the Bhutan Gate. The building is an architectural statement — modelled on the celestial abode of Guru Rinpoche, with richly carved wooden facades, vivid murals depicting scenes from Guru Rinpoche's life, and statues of Buddhist deities on each level.

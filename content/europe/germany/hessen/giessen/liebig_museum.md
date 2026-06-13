@@ -14,6 +14,7 @@ story: >
   nitrogen in soil effectively invented modern agriculture — the fertilisers
   that sustain half of humanity today trace back to experiments in this very
   building.
+score: 8.5
 ---
 
 The Liebig Museum occupies the original laboratory where Justus von Liebig conducted his groundbreaking chemistry research in the 19th century. Liebig is one of the most important chemists in history: he established organic chemistry as a discipline, invented a method of agricultural fertilisation that transformed food production worldwide, and trained a generation of chemists who spread across Europe and America.

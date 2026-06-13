@@ -10,6 +10,7 @@ latitude: 43.5341
 longitude: 5.4443
 snippet: A folly built by a lovestruck cardinal, now a quiet museum and garden
 story: "The Duke of Vendome, a cardinal who had renounced his vows for love of a local woman, built the pavillon in 1665 as a discreet place to entertain her. It was originally a one-storey building tucked into a garden well outside the city walls; later owners added the upper floors and pulled the pavilion back into the growing town."
+score: 7.1
 ---
 
 The Pavillon de Vendome is a graceful seventeenth-century folly hidden behind a high wall on the northwest edge of the old town. A formal garden of clipped box and gravel paths leads up to a small classical pavilion with two muscular caryatids holding up the central balcony — the work of the local sculptor Jean-Claude Rambot.

@@ -12,6 +12,7 @@ story: >
   two harbours, and was named after his wife, Empress Maria Alexandrovna. The Empress Maria
   (Mariehamp in Swedish, Maria's harbour) never visited the town named after her; she died
   in 1880, leaving a namesake that would outlast the Russian empire by over a century.
+score: 6.4
 ---
 
 Torggatan is Mariehamn's main commercial street, running north-south through the centre of town. It is lined with wooden buildings, small shops, a handful of restaurants and cafés, and trees that create a pleasant shaded promenade in summer. The street is wide enough to be comfortable and quiet enough to walk without traffic stress.

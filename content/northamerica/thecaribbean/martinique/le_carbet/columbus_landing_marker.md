@@ -13,6 +13,7 @@ story: >
   Madinina, meaning "Island of Flowers." Columbus did not stay long enough to
   claim it for Spain, and Martinique remained uncolonised for another century
   until French settlers arrived in 1635.
+score: 4.6
 ---
 
 A small marker on the waterfront pier at Le Carbet commemorates Columbus's landing here in 1502. This was the first confirmed European contact with Martinique — though the Carib people who were already living on the island had a less celebratory view of the occasion.

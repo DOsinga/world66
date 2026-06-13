@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.0768
 longitude: 1.1415
+score: 6.2
 ---
 
 An award-winning family restaurant with a quieter atmosphere than the main promenade dining rooms. The seafood is the highlight — the salmon fillet with pesto, tomato salsa, and olive oil is consistently excellent. Located away from the main crowds, it attracts a repeat clientele that values quality over proximity to the beach.

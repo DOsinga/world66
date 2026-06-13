@@ -5,6 +5,7 @@ tags: [things_to_do, sight, beaches]
 latitude: 36.0202
 longitude: 14.2630
 address: Mġarr ix-Xini, Sannat, Gozo
+score: 7.5
 ---
 
 Mġarr ix-Xini is a narrow cleft on the south coast of Gozo — a long, steep-sided valley dropping to a tiny pebble beach and a small stone watchtower built by the Knights of St John in 1661 to guard against pirates. The water in the cove is some of the clearest on the island; it's a favourite of snorkellers and free-divers.

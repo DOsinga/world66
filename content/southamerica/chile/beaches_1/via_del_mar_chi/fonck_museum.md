@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -33.0228
 longitude: -71.5486
+score: 8.1
 ---
 
 The Fonck Museum is a natural history and archaeology museum with one outstanding attraction: a genuine Easter Island moai standing outside on the pavement, staring impassively at the passing traffic. It is the only moai on the South American mainland and has become one of the most photographed objects in Viña del Mar. The museum's collection includes pre-Columbian artefacts, natural history specimens, and a solid section on Rapa Nui (Easter Island) culture.

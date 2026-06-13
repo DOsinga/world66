@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.6103
 longitude: 16.5438
+score: 6.4
 ---
 
 Västerås Konstmuseum is a small but well-curated regional art museum housed in a building adjacent to the city hall complex. The permanent collection focuses on Swedish art from the 19th century to the present, with a decent selection of early-20th-century Swedish modernism and a growing collection of contemporary work from artists connected to the region.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4683
 longitude: 6.8354
+score: 7.7
 ---
 
 A pretty 1900-vintage funicular climbs from Vevey through the Lavaux vineyards to the village of Mont Pelerin at 810 metres, with a change of train at Chardonne. The whole trip takes about 25 minutes one way and costs the price of a regular train ticket — covered by the Swiss Travel Pass.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.7
 ---
 
 The covered souk ringing the Imam Ali Shrine is one of the liveliest in southern Iraq, especially during the major Shia pilgrimage seasons. Stalls sell prayer beads, turbas (small clay tablets pressed from Karbala soil), rings of agate and turquoise from Iran, religious books, embroidered shrouds, perfumes, and devotional posters.

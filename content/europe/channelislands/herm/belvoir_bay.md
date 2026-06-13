@@ -6,6 +6,7 @@ tags:
   - beach
 latitude: 49.4724
 longitude: -2.4413
+score: 7.3
 ---
 
 A smaller crescent of pale sand on the east coast of Herm, fifteen minutes' walk south from Shell Beach along the cliff path. Belvoir is more sheltered and quieter than Shell — the southern cliffs of the island block the prevailing wind.

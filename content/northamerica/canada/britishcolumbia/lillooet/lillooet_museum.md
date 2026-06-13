@@ -15,6 +15,7 @@ story: >
   population of 15,000 — larger than San Francisco at the time. The gold ran
   out, the population collapsed, and today's quiet town gives little indication
   of that brief feverish moment.
+score: 7.5
 ---
 
 The Lillooet Museum, housed in a former church on Main Street, covers both the St'át'imc Indigenous history of the Fraser and Seton river valleys and the Cariboo Gold Rush period that briefly made Lillooet one of the largest cities in western North America. The St'át'imc collection includes traditional tools, baskets, and cultural objects from a people who have lived in this canyon country for thousands of years. The Gold Rush displays cover the extraordinary influx of miners in the early 1860s and the infrastructure that grew up to supply them.

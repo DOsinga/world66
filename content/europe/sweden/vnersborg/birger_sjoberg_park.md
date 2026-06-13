@@ -10,6 +10,7 @@ title: Birger Sjöberg Park and Memorial
 type: poi
 story: >
   Birger Sjöberg's 1922 poetry collection "Fridas bok" (Frida's Book) — written entirely about characters and streets in Vänersborg — became a nationwide sensation, selling widely across Sweden and making this small town briefly famous throughout the country. The character Frida herself was likely inspired by Sjöberg's Vänersborg childhood sweetheart.
+score: 5.9
 ---
 
 Birger Sjöberg (1885–1929) was born in Vänersborg and drew much of his inspiration from its streets, personalities, and the particular atmosphere of a small Swedish provincial town at the turn of the 20th century. It was he who gave the city its affectionate nickname "Little Paris" — half ironically, in recognition of its aspirations and self-regard rather than its grandeur.

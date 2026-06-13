@@ -8,6 +8,7 @@ longitude: 3.9634
 tags:
 - things_to_do
 - sight
+score: 7.1
 ---
 
 De Venoge was founded in 1837 by a Swiss-born wine merchant and is housed in a beautiful pale-stone mansion roughly halfway along the avenue. The boutique on the ground floor is one of the most attractive on the street and a good place to stop in even if you don't book a tour.

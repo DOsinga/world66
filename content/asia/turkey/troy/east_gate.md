@@ -8,6 +8,7 @@ tags:
 latitude: 39.9568
 longitude: 26.2398
 snippet: "The best-preserved Bronze Age city gate of Troy VI — the ramp, side towers, and inner approach are all intact."
+score: 8.1
 ---
 
 The East Gate is the best preserved of the four gates of Troy VI, the great walled city of around 1300 BC that is the strongest candidate for the Troy of Homer's *Iliad*. The gate complex consists of a stone-paved entrance ramp climbing through a narrow defended passage with a sharp dog-leg, flanked by two massive square towers. Defenders on the towers could rain missiles down on attackers funnelled through the narrow approach.

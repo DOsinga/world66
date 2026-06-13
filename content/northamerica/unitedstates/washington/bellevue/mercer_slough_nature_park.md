@@ -12,6 +12,7 @@ story: >
   once fringed the lake before settlement drained and filled most of them. The slough narrowly escaped
   development in the 1970s when a highway was planned directly through it; a sustained community campaign
   blocked the road and eventually led to the city buying the land as parkland.
+score: 8.0
 ---
 
 Just south of downtown, Mercer Slough is Lake Washington's largest remaining wetland — 320 acres of marsh, bog, and riparian forest threading through the middle of a dense suburb. The Mercer Slough Trail and boardwalk allow exploration without mud, passing blueberry farms that have operated in the slough since the 1940s, and several viewpoints over the open water where herons, egrets, and the occasional bald eagle fish.

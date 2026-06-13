@@ -9,6 +9,7 @@ latitude: 45.5479
 longitude: 13.7296
 story: >
   Titov Trg stands on the site of the original island's central piazza — the heart of the city when Koper was surrounded by sea. During Venetian rule, the Doge appointed the local mayor (the *podestà*), who governed from the Praetorian Palace on this square. The palace still serves as the city hall, making this one of the few medieval civic squares in Europe where the original building still fulfils its original public function.
+score: 8.1
 ---
 
 Titov Trg is the centrepiece of Koper's old town and one of the most beautiful town squares in Slovenia. It is surrounded on three sides by significant Gothic and Renaissance buildings, and the proportions are Venetian — long and relatively narrow, with a well at the centre. The whole space has the feeling of a *campo* transplanted from the Adriatic islands.

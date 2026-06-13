@@ -13,6 +13,7 @@ story: >
   they called their island in their own language, they said "Ellan Vannin" — Isle of Manannan.
 sources:
   - https://en.wikipedia.org/wiki/House_of_Manannan
+score: 8.1
 ---
 
 The House of Manannan is an award-winning heritage attraction housed in the former Peel railway station building on the harbourfront. The exhibits tell the story of the Isle of Man from Celtic and Norse times through to the modern age, using dramatic reconstructions, artefacts, and audio-visual presentations. The section on the Viking settlement of the island is particularly good, and the reconstructed Viking longship in the main hall is impressive.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The current Amphitheater was completed in 2017, replacing a beloved 1893 structure that had become structurally unsound. The controversy over its replacement was fierce — Chautauquans are deeply attached to their institutions — but the new building preserves the open-sided format and the orientation toward the lake. President Franklin Roosevelt gave one of his most famous foreign policy speeches here in 1936, declaring that the United States would remain neutral in European conflicts; three years later, the war changed everything.
+score: 8.4
 ---
 
 The Amphitheater is the heart of the Chautauqua Institution — a large, open-sided performance and lecture hall that seats around 5,000 people under a soaring roof with no walls between the audience and the surrounding trees. Morning lectures, evening concerts, and the Sunday morning services that have been a fixture since the Institution's founding all take place here.

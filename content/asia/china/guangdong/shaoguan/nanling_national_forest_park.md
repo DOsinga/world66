@@ -14,6 +14,7 @@ story: >
   other patch was logged during the twentieth century. The survival of this
   forest is partly due to its remoteness and partly to its role as a watershed,
   supplying water to several major rivers downstream.
+score: 8.3
 ---
 
 The Nanling National Forest Park covers the section of the Nanling mountain range that forms Guangdong's northern border, and it contains the most intact forest in the province. Unlike the landscaped scenic areas that dominate Guangdong tourism, this is actual wilderness: primary forest with old-growth trees, genuine hiking trails rather than paved promenades, and wildlife including leopard cats, macaques, and over 300 bird species.

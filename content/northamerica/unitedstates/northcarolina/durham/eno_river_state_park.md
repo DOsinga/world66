@@ -4,6 +4,7 @@ type: poi
 latitude: 36.0760
 longitude: -79.0001
 tags: [things_to_do, sight, nature]
+score: 8.7
 ---
 
 The Eno River runs west to east across the northern edge of Durham, dropping through a narrow rocky gorge that was protected as a state park in the 1970s after a vigorous local campaign blocked plans to dam it. The park preserves twenty-eight miles of riverside, with a network of well-marked trails of varying difficulty and several photogenic crossings on swing bridges.

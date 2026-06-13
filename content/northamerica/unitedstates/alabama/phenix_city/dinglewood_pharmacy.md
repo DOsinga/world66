@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Dinglewood Pharmacy
 type: poi
+score: 5.4
 ---
 
 A 1918 working pharmacy in Columbus, just across the river, with a marble-topped soda fountain that serves the regional speciality known as the scrambled dog: a chopped-up hot dog buried under chilli, mustard, onions, dill pickle chips, and oyster crackers. It is messy, salty, and absurdly satisfying.

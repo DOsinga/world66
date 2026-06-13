@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Marine_Biological_Laboratory
 story: >
   More than 60 Nobel laureates have conducted research at the MBL, giving this small village one of the highest concentrations of Nobel Prize-winning science per square kilometre of anywhere on earth. The sea squirt, the squid's giant axon, and the horseshoe crab all became foundational model organisms for biology in large part because they were studied here.
+score: 8.4
 ---
 
 The Marine Biological Laboratory (MBL) is one of the oldest and most distinguished biological research institutions in the United States, founded in 1888. Its mission has always been to bring scientists together in summer to work on shared problems — the annual influx of researchers from universities around the world gives Woods Hole its distinctive intellectual character in July and August.

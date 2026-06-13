@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Lone surviving modernist house from a vanished urban scheme
+score: 6.6
 ---
 
 A single curved-corner modernist building on the Avenida Joana Angélica, the only constructed survivor of a 1950s plan to rebuild the entire surrounding neighbourhood in the style of Le Corbusier. The plan was abandoned but the prototype house remained, derelict for decades and now restored as a cultural centre with rotating exhibitions and a small café.

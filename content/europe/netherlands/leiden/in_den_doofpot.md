@@ -4,6 +4,7 @@ type: poi
 latitude: 52.1581
 longitude: 4.4924
 tags: [eating_out, restaurant]
+score: 6.8
 ---
 
 A Michelin-recognised restaurant on the Turfmarkt offering modern French-Dutch cooking in a quietly elegant canalside room. The set menus are the way to go — three to six courses, each precisely composed, with a wine pairing that is among the more thoughtful in town.

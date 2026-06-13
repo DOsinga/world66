@@ -7,6 +7,7 @@ tags:
 latitude: 14.341
 longitude: 121.084
 snippet: "Popular grill bar serving sisig, gambas, and cold beer"
+score: 5.4
 ---
 
 Cowboy Grill is the kind of place where you come for one beer and stay for three, which is partly the food's fault. The grill menu is the main draw — sisig in particular, served properly sizzling on a cast-iron plate, and gambas al ajillo cooked in more butter and garlic than is strictly necessary. Order something off the charcoal, get it with a round of cold San Miguel, and settle in. The bar does its job without theatrics.

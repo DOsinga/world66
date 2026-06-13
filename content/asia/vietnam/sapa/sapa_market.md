@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 22.3361
 longitude: 103.8439
+score: 8.0
 ---
 
 The central market in Sapa is where the hill-tribe communities come to trade, and it remains one of the most vivid concentrations of traditional dress and culture in the north of Vietnam. Black Hmong women in dark embroidered jackets, Red Dao in their elaborate red headdresses, Flower Hmong in brilliant multicoloured clothes — on market days the crowd is a festival of ethnic diversity.

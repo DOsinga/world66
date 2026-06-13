@@ -9,6 +9,7 @@ tags:
 title: Under the Ground of Città Alta
 type: poi
 url: www.nottole.it
+score: 7.5
 ---
 
 Take a guided tour beneath the cobblestones of Bergamo's upper town and discover a hidden world of aqueducts, water cisterns, fountains, wells and wartime bomb shelters. A huge cistern lies under Piazza Mercato delle Scarpe; underground galleries once used for cannon emplacements stretch further below. The Fountain of Lantro, situated beneath the Church of San Lorenzo at the beginning of Via Boccola, dates to before 928 AD. Tours run by reservation and depend on the weather.

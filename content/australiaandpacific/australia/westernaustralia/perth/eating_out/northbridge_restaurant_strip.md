@@ -7,6 +7,7 @@ tags:
   - multicultural
 latitude: -31.9466
 longitude: 115.8603
+score: 7.2
 ---
 
 The streets of Northbridge — particularly William Street and the surrounding blocks — make up Perth's best and most diverse dining precinct. Chinese restaurants have anchored the area since the 1890s (Perth has a long Chinese-Australian history connected to the gold rush), and the food culture has expanded to cover almost every Asian cuisine: Malaysian laksa and char kway teow, Japanese ramen and izakaya, Korean BBQ, Vietnamese pho and banh mi, Taiwanese bubble tea, and everything in between. Prices are generally reasonable and quality is consistently solid, making this the default answer to "where should I eat tonight?" for Perth residents on a weeknight.

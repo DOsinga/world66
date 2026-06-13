@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 21.0072
 longitude: 101.4076
+score: 7.8
 ---
 
 The flat valley floor around Luang Namtha is ideal for cycling, with quiet roads passing through Lao, Akha, and Lanten villages against a backdrop of forested mountains. Rental bicycles are available from guesthouses and shops in town; half-day and full-day circuits to nearby villages are easily self-guided with a basic map.

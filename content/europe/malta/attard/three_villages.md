@@ -6,6 +6,7 @@ longitude: 14.448
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Attard sits at the centre of what the Maltese call the Three Villages — Attard, Balzan, and Lija — a contiguous patch of leafy old streets running into one another with no real boundaries between them. The settlements grew up around the country palaces of wealthy Maltese families in the 17th and 18th centuries and remain among the most desirable addresses on the island.

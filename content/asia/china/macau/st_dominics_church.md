@@ -7,6 +7,7 @@ tags:
 latitude: 22.1948
 longitude: 113.5402
 snippet: Baroque church in yellow and white at the top of Senado Square
+score: 8.2
 ---
 
 St Dominic's Church stands at the north end of Senado Square, its yellow and white baroque facade looking out over the black-and-white tiled square below. The church was established by Dominican friars around 1587 — one of the oldest churches in Macau — and the present building dates largely from the 17th century. The interior is richly decorated with Portuguese baroque altarpieces and side chapels.

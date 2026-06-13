@@ -11,6 +11,7 @@ address: "2006 Riverside Dr, Monroe, LA"
 phone: "+1 318-387-5281"
 snippet: "Where Coca-Cola was first put in a bottle — and a remarkable Bible collection besides"
 story: "Joseph Biedenharn was a candy merchant selling Coca-Cola from a soda fountain in 1894 when he had the idea to put it in bottles for sale to workers in the cotton fields. He did so without asking the Coca-Cola Company's permission. The company eventually ratified the idea and sold bottling rights to two lawyers from Tennessee for one dollar — a deal they came to regret."
+score: 7.8
 ---
 
 The Biedenharn Museum on Riverside Drive tells two stories in one building. Joseph Biedenharn opened his candy store in Monroe in 1890, and in 1894 he became the first person to bottle Coca-Cola commercially — a decision that changed how the drink was sold and consumed worldwide. The museum preserves his original candy store and soda fountain, along with exhibits on the bottling innovation that made him a footnote in American commercial history.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Aberconwy_House
 story: >
   Aberconwy House is the only medieval merchant's house in Conwy to survive, and it is thought to date from the 14th century. During its long life it has served as a bakery, antique shop, and temperance hotel, among other uses, before the National Trust acquired it in 1934 and began the painstaking process of understanding and restoring its structure. The carved wooden details on the ground floor are among the oldest surviving domestic fittings in Wales.
+score: 7.8
 ---
 
 Aberconwy House, on the corner of Castle Street and High Street, is the sole surviving medieval merchant's house in Conwy, and probably dates from the early 14th century. That makes it older than almost anything else in the walled town except the castle and walls themselves. The National Trust manages it, and different rooms in the house have been furnished to represent different periods in its history, from medieval merchant to Victorian shopkeeper.

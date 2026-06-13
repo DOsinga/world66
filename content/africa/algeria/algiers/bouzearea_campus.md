@@ -6,6 +6,7 @@ longitude: 3.0580
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The central campus of the University of Algiers occupies a large colonial-era complex in the upper city. Founded in 1879 as part of the French colonial academic expansion, it was one of the first universities in North Africa and remains one of the largest in the Arab world, with over 100,000 students across multiple campuses.

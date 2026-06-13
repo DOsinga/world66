@@ -14,6 +14,7 @@ story: >
   Dolores Hidalgo cemetery is shaped like a giant sarape (shawl) and
   sombrero. The Mausoleum sits a short drive from the museum and is the
   other half of any pilgrimage.
+score: 7.5
 ---
 
 José Alfredo Jiménez is the most important songwriter in ranchera music and one of the half-dozen most beloved figures in modern Mexican culture. The museum is housed in the family home where he was born in 1926, and the collection covers his career through photographs, gold records, costumes, instruments, and personal letters. There are recorded performances playing through speakers in most rooms — the soundtrack is part of the visit.

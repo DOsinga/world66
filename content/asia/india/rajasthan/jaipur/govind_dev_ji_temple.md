@@ -10,6 +10,7 @@ longitude: 75.8218
 address: City Palace Complex, Pink City, Jaipur
 opening_hours: Various darshan times throughout day
 snippet: The most important Vaishnavite temple in Jaipur, housed within the City Palace complex
+score: 7.6
 ---
 
 Govind Dev Ji is the most important temple in Jaipur — a shrine to an image of Krishna that was brought here by Maharaja Sawai Jai Singh II when he founded the city and has been at the center of Jaipur's religious life ever since. The temple is part of the City Palace complex, just outside the main palace entrance, and is technically open to all visitors, though it functions as a genuine working temple rather than a tourist monument.

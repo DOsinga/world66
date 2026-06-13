@@ -10,6 +10,7 @@ story: >
   Son Doong was known to local hunters for decades before a British caving expedition made the first full exploration in 2009.
   Inside, a collapsed ceiling section created a shaft of light that allowed a jungle to grow, complete with its own fog and weather system.
   The cave is so large that a Boeing 747 could fly through its main passage.
+score: 10.0
 ---
 
 Son Doong is the largest cave in the world by volume — a fact that only makes sense when you are standing inside it and looking at a jungle growing in the half-light beneath a collapsed ceiling. The main passage runs more than five kilometres, with sections over 200 metres high. The cave contains its own climate: clouds form inside it, and the temperature stays cool while the jungle above bakes.

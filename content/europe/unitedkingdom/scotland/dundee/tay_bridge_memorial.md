@@ -12,6 +12,7 @@ story: >
   responsible by the Board of Trade inquiry and died within months;
   Britain's second great rail bridge — the Forth Bridge — was redesigned
   in steel rather than iron in response.
+score: 5.9
 ---
 
 Two slate memorials, one at each end of the present Tay Rail Bridge, were installed in 2013 to mark the 134th anniversary of the disaster. They list every known victim by name. The Dundee memorial stands on the Esplanade just east of the bridge approach, close to the water.

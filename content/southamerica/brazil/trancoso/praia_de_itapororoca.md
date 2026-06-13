@@ -6,6 +6,7 @@ tags:
 - beach
 title: Praia de Itapororoca
 type: poi
+score: 7.1
 ---
 
 Itapororoca is quieter again, a long beach south of the village where reef shelves and low-tide pools give the coast a rougher, more natural feel. It is better for walking and scenery than for a quick dip between errands.

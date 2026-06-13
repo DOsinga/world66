@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.526
 longitude: -44.3
+score: 7.2
 ---
 
 Praça João Lisboa is one of the smaller squares in the historic centre, named for João Francisco Lisboa, a 19th-century journalist and historian born in São Luís who wrote extensively about Maranhão's history and culture. The square has a small statue of Lisboa and a few benches where residents sit in the evenings.

@@ -2,6 +2,7 @@
 title: "Chardzhou Bazaar"
 type: poi
 tags: [things_to_do, sight]
+score: 7.0
 ---
 
 The main covered bazaar is the liveliest place in Chardzhou and well worth an early morning visit. Carpets pile up alongside dried fruit from the Lebap region's orchards, bolts of cloth, and the vegetables and grains that supply the city's kitchens. The famous Chardzhou melons — considered by many to be the finest in Central Asia, with a sweetness and texture that the melons of Uzbekistan and Afghanistan aspire to — appear in abundance from July through September, and melon season is genuinely the best time to be here.

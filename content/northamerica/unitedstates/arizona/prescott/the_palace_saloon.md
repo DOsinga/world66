@@ -9,6 +9,7 @@ latitude: 34.5413
 longitude: -112.4704
 sources:
   - https://en.wikipedia.org/wiki/The_Palace_Restaurant_and_Saloon
+score: 6.9
 ---
 
 The Palace is widely considered the oldest bar in Arizona, operating in some form on this site since the 1870s. The current building, rebuilt in brick after the 1900 fire, retains the original back bar — a carved wooden piece installed in the 1880s that made the famous journey across the plaza on fire night and back again when the dust settled.

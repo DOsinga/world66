@@ -8,6 +8,7 @@ latitude: 43.0836
 longitude: -79.0710
 sources:
   - https://en.wikipedia.org/wiki/Bridal_Veil_Falls_(New_York)
+score: 8.1
 ---
 
 Bridal Veil Falls is the smallest of the three Niagara cataracts, separated from the American Falls by Luna Island and from the Canadian Horseshoe Falls by Goat Island. Despite being the least voluminous of the three, it is often considered the most elegant — a narrower, cleaner sheet of water that earns its name. The Cave of the Winds boardwalk provides the closest viewing, bringing visitors to the Hurricane Deck directly beside the falling curtain.

@@ -13,6 +13,7 @@ story: >
   dining car across Canada. After the factory closed in 1954, the
   buildings stood derelict for forty years before being saved and
   reopened as a working museum and ceramic arts centre — kilns and all.
+score: 8.7
 ---
 
 Medalta is the heart of Medicine Hat's "Historic Clay District," a few blocks of brick factories that exploited the same natural gas reserves Kipling joked about — gas-fired kilns turned local clay into stoneware crocks, table china and industrial insulators from 1916 until the 1950s. The site is now a National Historic Site, with the original beehive kilns, the production halls, and the office buildings preserved.

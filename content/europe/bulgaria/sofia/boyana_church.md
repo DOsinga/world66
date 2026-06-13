@@ -9,6 +9,7 @@ tags:
   - church
   - unesco
 story: "The 1259 frescoes of Boyana Church are some of the earliest realistic portraits in European medieval art, predating the Italian Renaissance by half a century. The faces of the donors, Sebastokrator Kaloyan and his wife Desislava, are individualised in a way that no other Byzantine-tradition painter of the period attempted. The anonymous painter is sometimes called the first Renaissance artist."
+score: 9.4
 ---
 
 A small medieval church on the southern edge of the city, at the foot of Vitosha — a UNESCO World Heritage Site for the astonishing quality of its 1259 frescoes. The building is three churches in one: a 10th-century domed apse, a 13th-century narthex (where the famous frescoes are), and a 19th-century western extension.

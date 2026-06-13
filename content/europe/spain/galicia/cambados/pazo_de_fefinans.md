@@ -10,6 +10,7 @@ longitude: -8.8141
 snippet: A 17th-century granite manor and the finest arcaded square on the Rías Baixas coast
 story: >
   The Bazán family, who built and long occupied the Pazo de Fefiñáns, claimed descent from Admiral Álvaro de Bazán, the Spanish naval commander who never lost a battle and played a central role at Lepanto in 1571. Whether the genealogy stands up to scrutiny is beside the point — the story gave the family enormous prestige in a region where military glory counted for a great deal, and the imposing towers of the pazo were built partly to make that claim visible from across the estuary.
+score: 8.7
 ---
 
 The Praza de Fefiñáns is the heart of Cambados and one of the most handsome squares in all of Galicia. Three sides are enclosed by the 17th-century Pazo de Fefiñáns itself — a granite manor house with corner towers, arcaded ground floor, and a monumental entrance arch that frames the view perfectly. The fourth side opens directly onto the Ría de Arousa, so on a clear day the square feels as though it is floating above the water. The effect is both grand and effortlessly natural, which is the genius of Galician baroque at its best.

@@ -9,6 +9,7 @@ latitude: 39.3908
 longitude: -99.6175
 sources:
   - https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
+score: 9.2
 ---
 
 The National Park Service visitor center, housed in the old Township Hall, is the right place to start. Rangers give a thorough orientation and an excellent film covers the founding of the town, the Exoduster migration, and the community's arc from boom to quiet survival. From here you can pick up a walking tour map and move between the five preserved historic structures at your own pace across the 161-acre site.

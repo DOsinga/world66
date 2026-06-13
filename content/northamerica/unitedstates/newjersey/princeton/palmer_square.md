@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 40.35011
 longitude: -74.66153
+score: 6.8
 ---
 
 Palmer Square is what Princeton has instead of an old town centre — a self-consciously colonial-style shopping square built in the 1930s on land donated by Edgar Palmer, a local industrialist. The brick-and-clapboard buildings look older than they are, the seasonal plantings are well kept, and the Nassau Inn at the far end has been welcoming visitors since 1937 (a much older Nassau Inn stood in the same area as far back as 1756).

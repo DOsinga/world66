@@ -12,6 +12,7 @@ story: >
   When the Lermontov Baths were completed in 1884, the Moorish style was a deliberate Imperial statement: Russia building in the style of the Muslim cultures of the Caucasus to signal confidence in its conquest of the region. The hydrogen sulphide waters piped through the building were — and still are — claimed to cure a long list of ailments from arthritis to skin conditions.
 sources:
   - https://en.wikipedia.org/wiki/Lermontov_Baths
+score: 7.4
 ---
 
 The Lermontov Baths are the most architecturally extravagant of Pyatigorsk's historic spa buildings, an 1880s Moorish fantasy of horseshoe arches, elaborate tilework, and decorative towers. The building was designed by the architect Eduard Chodorovsky in a style that mixed North African and Andalusian influences with the demands of a working 19th-century sanatorium.

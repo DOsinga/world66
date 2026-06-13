@@ -13,6 +13,7 @@ tags:
 - green_point
 title: Giovanni's Deli
 type: poi
+score: 6.9
 ---
 
 Giovanni's has been on Main Road in Green Point since the early 1990s, and the formula has not changed: an Italian deli counter of good cheeses, cured meats, fresh pasta and olives alongside a coffee bar that opens early and serves until the afternoon. The morning crowd is largely made up of joggers and dog-walkers from the nearby Sea Point promenade; by midday it is busy with office workers from the surrounding neighbourhood.

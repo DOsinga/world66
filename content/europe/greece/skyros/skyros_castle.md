@@ -9,6 +9,7 @@ latitude: 38.9058
 longitude: 24.5674
 story: >
   The castle perches on the same precipitous rock that the ancient Greeks associated with the myth of Achilles, who was sent here in disguise by his mother Thetis to keep him out of the Trojan War. The disguise failed — Odysseus was cleverer than Thetis expected.
+score: 8.6
 ---
 
 The Byzantine-Venetian castle crowns the great rock at the top of Skyros Town, rising above the maze of white houses in a way that makes the whole settlement look like it is leaning against it for support. The fortifications date from the Venetian period, though Greeks, Byzantines, and ancient peoples had all used this natural stronghold before them. The climb to the top is steep and rewarding: the panorama takes in the northern forest, the southern badlands, the Aegean in every direction, and the beach at Magazia far below.

@@ -6,6 +6,7 @@ longitude: -114.3531
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Despite the name, the Sun Valley Opera House was built in 1937 as a movie theatre for guests of the new resort. It has a single screen and the original wooden interior, and it has been running pretty much continuously ever since.

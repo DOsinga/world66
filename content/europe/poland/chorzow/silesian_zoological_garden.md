@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.2817
 longitude: 18.9935
+score: 5.7
 ---
 
 The zoo, on the southern side of Silesian Park, opened in 1958 along with the rest of the park and covers about 47 hectares. Highlights are the small herd of giraffes, the elephants, the big cat enclosure, and a tropical reptile house. Like most zoos of its vintage, the older enclosures feel cramped, but the newer sections have more generous habitats.

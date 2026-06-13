@@ -8,6 +8,7 @@ tags:
 snippet: "Hilltop wooden church modelled on a Black Forest original"
 latitude: 41.32070
 longitude: -72.98550
+score: 8.0
 ---
 
 The Iglesia del Sagrado Corazón — the Sacred Heart Church — sits on the small hill above the town centre and is the most photographed building in Puerto Varas. It was built between 1915 and 1918 by German Capuchin friars and modelled on the Marienkirche in the Black Forest village of Marienthal, complete with twin octagonal towers and a steeply pitched red roof.

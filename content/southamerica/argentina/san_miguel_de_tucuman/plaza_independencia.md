@@ -6,6 +6,7 @@ longitude: -65.2035
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The main square of Tucumán is the heart of the city, a leafy block lined with palms, jacarandas, and government buildings. A statue of Liberty stands at its centre, surrounded by benches where porteños, students, and shoeshine boys gather through the day. The square is busiest on 9 July, Argentine Independence Day, when bands play and crowds fill every corner.

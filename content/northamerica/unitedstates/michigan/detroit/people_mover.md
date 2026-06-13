@@ -10,6 +10,7 @@ neighbourhood: Downtown
 title: Detroit People Mover
 type: poi
 story: "The People Mover opened in 1987 as the downtown leg of a regional rapid-transit system whose other legs were never built. For nearly forty years it has circled three miles of downtown alone, the most underused mass-transit project in America and, in a strange way, one of its most charming."
+score: 6.0
 ---
 
 The People Mover is a 2.9-mile elevated automated rail loop that circles downtown Detroit, stopping at 13 stations including Greektown, Renaissance Center, Joe Louis Arena, Times Square, and the Financial District. The trains are small, the stations are decorated with public art, and the whole thing exists in a state of cheerful obsolescence.

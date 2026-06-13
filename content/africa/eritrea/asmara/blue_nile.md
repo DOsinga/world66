@@ -6,6 +6,7 @@ longitude: 38.9356
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 A long-running Eritrean restaurant in the centre, popular with locals and small enough to feel friendly. The menu is short: shiro, zigni, tsebhi dorho, kitfo, the daily vegetarian platter on fasting days, all served on injera in the traditional way.

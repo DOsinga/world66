@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.2042
 longitude: 5.7974
+score: 8.3
 ---
 
 A late-Gothic hall church started by the Dominicans (Jacobijnen) in the thirteenth century and rebuilt and expanded in stages until the sixteenth. The interior is whitewashed and luminous in the Dutch Reformed manner, but the floor and side chapels preserve striking medieval tombstones — including the burial vaults of several stadtholders of Friesland.

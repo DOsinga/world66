@@ -12,6 +12,7 @@ story: >
   Francisco. Mark Twain worked for the Territorial Enterprise newspaper on this
   street in the early 1860s, filing the dispatches — and inventing the pen name
   "Mark Twain" — that launched his writing career.
+score: 9.1
 ---
 
 C Street is the historic main street of Virginia City, running along the hillside with wooden boardwalks, Victorian-era commercial buildings, and an improbable density of history per block. The street looks much as it did in the 1870s and 1880s, preserved partly by intent and partly by the fact that nobody had the money to demolish and rebuild when the silver ran out.

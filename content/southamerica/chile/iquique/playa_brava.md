@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 5.8
 ---
 
 Playa Brava lives up to its name — the surf is rough, the currents strong, and swimming is not safe in most conditions. It is the longest beach in Iquique, stretching for several kilometres south of Cavancha along an avenue of high-rise apartment blocks. The Mirador Playa Brava lookout at the southern end is a good spot for taking in the sweep of the Pacific.

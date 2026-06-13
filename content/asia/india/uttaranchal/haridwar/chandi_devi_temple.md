@@ -8,6 +8,7 @@ latitude: 29.9342
 longitude: 78.1794
 story: >
   The idol of Chandi Devi is said to have been installed by the philosopher Adi Shankaracharya in the 8th century AD. According to legend, the demon commanders Shumbha and Nishumbha were slain by the goddess on this very hill, which is known as Neel Parvat — the blue mountain.
+score: 7.9
 ---
 
 Chandi Devi Temple stands on Neel Parvat hill on the eastern bank of the Ganges, accessible by cable car from Chandi Ghat or by a 3-kilometre trek through the forest. It is one of the five tirthas of Haridwar and dedicated to Chandi, a fierce form of the goddess Durga. The temple's hilltop position offers sweeping views across the Shivalik range.

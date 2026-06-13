@@ -11,6 +11,7 @@ tags:
 - sight
 title: Saihō-ji (Kokedera)
 type: poi
+score: 8.8
 ---
 
 Saihō-ji — popularly *Kokedera*, the Moss Temple — is one of the most famous gardens in Japan and arguably the most beautiful. The pond garden was laid out in the fourteenth century by the great Zen master and garden designer Musō Soseki on a damp, shaded site at the foot of a wooded mountain. Over the centuries the surrounding maples and pines were largely replaced by an extraordinary carpet of around 120 species of moss, which now covers virtually every horizontal surface.

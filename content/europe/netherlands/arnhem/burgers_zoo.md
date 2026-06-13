@@ -7,6 +7,7 @@ tags:
 latitude: 52.01
 longitude: 5.8997
 story: "Burgers' Zoo pioneered the concept of immersive themed environments decades before it became standard zoo practice. Its Bush — a tropical rainforest under glass, opened in 1988 — was the first of its kind in the world: a complete enclosed ecosystem with free-flying birds, free-ranging mammals, and plants from the actual tropics, all under a single vast roof. The approach has been widely copied but rarely matched."
+score: 8.3
 ---
 
 Burgers' Zoo is consistently rated one of the best zoos in Europe, notable for its series of large enclosed biomes that recreate complete ecosystems rather than conventional enclosures. The Bush is a tropical rainforest under a 2-hectare glass roof, with free-flying birds, jungle vegetation, and a creek running through it. The Ocean is a coral reef aquarium with sharks and rays. The Desert recreates a Sonoran landscape with Gila monsters and roadrunners. The Savanna is a mixed African habitat.

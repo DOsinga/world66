@@ -11,6 +11,7 @@ longitude: 1.5959
 sources:
   - https://en.wikipedia.org/wiki/Le_Touquet
   - https://en.wikipedia.org/wiki/Royal_Picardy
+score: 8.1
 ---
 
 Behind the seafront promenade, Le Touquet hides one of the finest collections of early 20th-century resort architecture in northern France. The streets are shaded by pines planted as part of the original town plan, and between them stand villas in a range of styles — Art Deco, Norman half-timbering, Anglo-Norman hybrid, and the occasional mock-Tudor flourish from the English residents who wintered here.

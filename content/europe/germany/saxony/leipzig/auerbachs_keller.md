@@ -9,6 +9,7 @@ latitude: 51.3394
 longitude: 12.3753
 address: "Mädler-Passage, Grimmaische Straße 2-4"
 snippet: Germany's most literary restaurant, in a Renaissance cellar where Goethe set a scene in Faust
+score: 7.6
 ---
 
 Auerbachs Keller has been operating since 1525 and is Leipzig's most famous restaurant by some distance. It occupies two spaces: the historic Renaissance wine cellar where the student Faust supposedly made a bet with Mephistopheles (Goethe immortalised it in *Faust, Part I*), and a series of larger rooms around it. Two bronze figures — Faust and Mephisto — guard the entrance from the Mädler-Passage arcade above.

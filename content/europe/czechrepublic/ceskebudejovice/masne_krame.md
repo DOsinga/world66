@@ -6,6 +6,7 @@ longitude: 14.4760
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Masné Krámy (the Meat Shops) occupies a Gothic hall on the main square that served as the town's meat market from the 16th century. The building has been a restaurant for decades and the setting — vaulted stone ceilings, heavy wooden furniture — is genuinely distinctive. The menu focuses on Czech meat dishes: pork knee, roast duck, game in season, and the obligatory svíčková (sirloin in cream sauce with bread dumplings).

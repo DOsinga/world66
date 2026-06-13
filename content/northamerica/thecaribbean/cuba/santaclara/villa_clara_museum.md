@@ -6,6 +6,7 @@ tags:
   - museum
 title: Villa Clara Provincial Museum
 type: poi
+score: 6.7
 ---
 
 The Villa Clara Provincial Museum occupies one of the better-maintained colonial buildings in the city, a few blocks north of the central park. Its collection covers the history of the province from pre-Columbian times through the colonial period and the independence wars to the revolution. The archaeology section includes Taíno ceramics and implements from the communities that lived in this region before Spanish arrival; the colonial section covers the sugar industry and the social history of the province.

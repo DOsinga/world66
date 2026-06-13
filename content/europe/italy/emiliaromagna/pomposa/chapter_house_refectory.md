@@ -6,6 +6,7 @@ longitude: 12.1751
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Tucked behind the church are the chapter house and refectory, both lined with frescoes and easy to skip if you do not know they are there — make sure you do not. The chapter house, where the monks met daily, was painted around 1320 by an unknown Bolognese master with a Crucifixion and standing saints. The refectory, the monks' dining room, contains a Last Supper and a remarkable depiction of Christ in benediction painted directly above the abbot's seat.

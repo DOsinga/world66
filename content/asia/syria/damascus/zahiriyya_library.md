@@ -7,6 +7,7 @@ tags:
 latitude: 33.5124
 longitude: 36.3051
 snippet: 13th-century madrassa-library with the tomb of Sultan Baybars
+score: 7.9
 ---
 
 A small Mamluk-era complex just north of the Umayyad Mosque, built between 1277 and 1281 as a madrassa and library. The founder, Sultan Baybars I — who famously turned back the Mongol advance at Ain Jalut — is buried in a fine marble tomb inside.

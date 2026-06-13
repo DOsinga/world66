@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Everest_Base_Camp_trek
 story: >
   The trail to Everest Base Camp has become so popular that at the height of October season, it functions as a one-way human conveyor belt — hundreds of trekkers moving in single file between the stone walls and mani stones of the Khumbu. This was unimaginable in 1953, when Edmund Hillary and Tenzing Norgay's expedition was the first group of outsiders most Sherpa villages had ever seen. The trail is essentially the same; the world around it has changed utterly.
+score: 9.7
 ---
 
 The Everest Base Camp trek is the most famous long-distance walk in the world — a 12 to 14-day round trip from the airstrip at Lukla (2,860m) to the rocky moraine of base camp at 5,364m, threading through Sherpa villages, alpine pastures, and increasingly dramatic mountain scenery. The route climbs through Phakding to the market town of Namche Bazaar, then follows the Dudh Koshi valley past Tengboche Monastery to the high yak pastures around Dingboche and Lobuche, ending at base camp with views of the Khumbu Icefall and the South Col.

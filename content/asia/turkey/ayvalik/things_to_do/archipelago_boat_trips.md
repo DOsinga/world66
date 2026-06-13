@@ -1,6 +1,7 @@
 ---
 title: "Archipelago Boat Trips"
 type: poi
+score: 7.5
 ---
 
 The bay of Ayvalık contains around twenty small islands, most of them uninhabited, some with small beaches that are only reachable by water. Boat trips departing from the Ayvalık town waterfront visit a selection of these in a half-day or full-day circuit — typically stopping at two or three islands for swimming, with lunch either provided on board or at a small waterfront spot on Cunda on the return.

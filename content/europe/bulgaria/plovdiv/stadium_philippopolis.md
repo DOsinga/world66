@@ -8,6 +8,7 @@ story: >
   The Roman stadium could seat 30,000 spectators — making Philippopolis one of the most important athletic venues in the eastern Roman Empire. It hosted competitions modelled on the Olympic Games. For centuries the stadium lay completely buried; only the northern curved end (the sphendone) has been excavated and can be visited. The rest remains under the main pedestrian street.
 sources:
   - https://en.wikipedia.org/wiki/Stadium_of_Philippopolis
+score: 8.8
 ---
 
 The Stadium of Philippopolis is a 2nd-century Roman athletics track — 240 metres long, designed for foot races, chariot races, and athletic competitions — buried under what is now the main pedestrian thoroughfare of Plovdiv. The excavated northern end (sphendone) can be visited from a dedicated underground entrance in the pedestrian zone.

@@ -9,6 +9,7 @@ longitude: 105.3239
 sources:
   - https://en.wikipedia.org/wiki/H%C3%B2a_B%C3%ACnh_Dam
   - https://viettracks.com/hoa-binh-dam-and-hydropower-station/
+score: 6.7
 ---
 
 The Hoa Binh Dam stretches nearly a kilometre across the Da River (also called the Black River) and stands 128 metres high — an astonishing piece of infrastructure completed in 1994 after more than a decade of construction with Soviet technical assistance. For years it was the largest hydroelectric project in Southeast Asia, with a generating capacity of 1,920 megawatts and eight underground turbine halls buried inside the mountain. At its peak it produced a third of Vietnam's entire electricity supply.

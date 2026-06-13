@@ -10,6 +10,7 @@ tags:
 - museum
 title: Kunsthalle Mannheim
 type: poi
+score: 8.5
 ---
 
 One of the stronger art museums in southwestern Germany, with a permanent collection focused on 19th- and early 20th-century German and French painting and sculpture. The Impressionist and Expressionist holdings are particularly good — Manet, Cézanne, Kirchner, Beckmann. The building itself is a Jugendstil landmark, redesigned and extended in 2018 with a new wing that added substantially to the gallery space.

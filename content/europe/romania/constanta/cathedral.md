@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The **Catedrala Sfinții Apostoli Petru și Pavel** is Constanța's main Orthodox cathedral, completed in 1885 to a design by **Ion Mincu**, the architect who effectively defined the Romanian National style. The plan is a Greek cross with a single dome over the crossing; the exterior is finished in brick and pale stone with deep eaves and shallow blind arches typical of Romanian late-19th-century church work.

@@ -8,6 +8,7 @@ tags:
 latitude: 31.1986
 longitude: 29.9117
 story: "Designed by French architect Georges Parcq and opened in 1921 as the Mohamed Ali Theatre, the opera house was the most lavish performance venue in early-20th-century Alexandria. It hosted European and Egyptian opera, ballet, and theatre for the city's polyglot bourgeoisie. The building was renamed for Sayed Darwish, the great Egyptian composer (1892–1923) who wrote what became Egypt's national anthem, in the 1960s. The theatre was closed for restoration in the 1990s and reopened in 2004."
+score: 7.0
 ---
 
 Alexandria's grand belle-époque opera house, on Tariq al-Horreya near the city centre. The building is a confection of neoclassical and rococo elements with a fully restored interior — gilded plasterwork, frescoed ceiling, plush red seats, and excellent acoustics for a theatre of its size (around 600 seats).

@@ -6,6 +6,7 @@ latitude: -33.8039
 longitude: 121.8614
 story: >
   The replica was built by Kim Beale, a local farmer and stonemason who spent years quarrying local Esperance granite and assembling the circle to the exact dimensions of the original Wiltshire monument. He built it to mark the 2001 Southern Hemisphere winter solstice and aligned it to catch the solstice sunrise in the southern sky — which is on the northern horizon, the reverse of the original. Visitors at the right time of year see the sun rise precisely over the heel stone, just as at Salisbury Plain, but looking north.
+score: 6.4
 ---
 
 Esperance Stonehenge is a full-scale replica of the prehistoric monument on Salisbury Plain, built from locally quarried Esperance granite on a farm about 15km from the town. The blocks are the same dimensions as the originals and the circle is laid out to the same plan, right down to the correct astronomical alignments adapted for the Southern Hemisphere.

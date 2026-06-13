@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.8
 ---
 
 The Kerama Islands are considered one of the best diving destinations in Japan. The water clarity is exceptional — 30 to 50 metres visibility is common — and the coral reefs around Tokashiki are diverse and in good health. Dive sites include walls, gentle slopes with hard coral gardens, and a handful of deeper sites with large sea fans and pelagic fish.

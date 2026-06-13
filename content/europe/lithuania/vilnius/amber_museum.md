@@ -9,6 +9,7 @@ tags:
   - museum
   - old_town
 neighbourhood: Old Town
+score: 7.1
 ---
 
 The Amber Museum-Gallery on Šv. Mykolo Street displays a collection of Baltic amber with inclusions — insects, plant fragments, and other organic material trapped in fossil resin 40–50 million years ago. Baltic amber is scientifically significant as a preservative of Eocene-era organisms, and the pieces on display here include some of the more unusual inclusions: spiders, ants, mushrooms, lizard tails.

@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Orbeliani Baths
 type: poi
+score: 7.9
 ---
 
 The Orbeliani Baths are the most recognisable building in Abanotubani — the blue-and-white Persian-style tiled facade with its pointed archways appears in virtually every photograph of old Tbilisi. Behind the facade, the bathhouse operates exactly as it has for centuries: natural sulphurous hot water feeding underground stone pools, with private rooms available by the hour.

@@ -7,6 +7,7 @@ tags:
   - eating_out
 latitude: 12.5682
 longitude: 99.9578
+score: 7.1
 ---
 
 The Hua Hin Night Market (Dechanuchit Night Market) is the social heart of the town after dark — a sprawling collection of food stalls, clothing vendors, craft sellers, and occasional live music that fills several blocks near the town centre each evening. It is where locals shop and tourists eat, and the food options are among the best in the region.

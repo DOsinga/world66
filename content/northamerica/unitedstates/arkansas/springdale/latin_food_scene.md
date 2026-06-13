@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.1847
 longitude: -94.1264
+score: 8.4
 ---
 
 Emma Avenue in central Springdale is the heart of the city's Latin American restaurant strip — a several-block stretch of taquerias, pupuserias, tortillerias, and carnicerías that represents the best and most authentic Central American street food in Arkansas. The restaurants here mostly serve Guatemalan and El Salvadoran food alongside Mexican, reflecting the demographics of the workforce that built this community.

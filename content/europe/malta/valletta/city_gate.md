@@ -15,6 +15,7 @@ story: >
   locally quarried limestone throughout. The new Parliament building, open on the ground floor
   to the public, is heated and cooled almost entirely through the thermal mass of its stone,
   drawing on traditional Maltese building techniques.
+score: 7.4
 ---
 
 City Gate is the main entrance to Valletta, rebuilt for the 2018 European Capital of Culture year to a design by Renzo Piano. The new gate is a straightforward cut through the bastion walls — more incision than arch — flanked by Piano's new Parliament building on one side and the ruins of the Royal Opera House (now the Pjazza Teatru Rjal) on the other. The design was deliberately restrained to let the surviving Baroque fortifications dominate.

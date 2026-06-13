@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 43.4462
 longitude: -79.6681
+score: 5.2
 ---
 
 Harbour Lights is a long-standing pub a short walk from the marina, popular with the boating crowd in summer and the after-work crowd year-round. It has the standard Ontario pub formula — a long bar, sports television, and a menu of burgers and wings — but a good selection of Ontario craft beer on tap and a covered patio that catches the lake breeze in summer.

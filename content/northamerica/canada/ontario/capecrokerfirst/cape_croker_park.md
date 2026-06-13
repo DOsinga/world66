@@ -10,6 +10,7 @@ tags:
 - park
 title: Cape Croker Park
 type: poi
+score: 8.1
 ---
 
 Cape Croker Park is a First Nations-operated campground and day-use area on a rocky point reaching out into Georgian Bay. The setting is genuinely dramatic — limestone bluffs drop to cold clear water on both sides, and the forest behind is dense and quiet.

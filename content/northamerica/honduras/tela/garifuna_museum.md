@@ -6,6 +6,7 @@ longitude: -87.4552
 tags:
   - things_to_do
   - museum
+score: 6.4
 ---
 
 The Museo Garifuna is a small but well-presented museum in Tela's centre devoted to the history, language, music, and beliefs of the Garifuna people — descendants of shipwrecked enslaved Africans and Carib Indians from the island of Saint Vincent.

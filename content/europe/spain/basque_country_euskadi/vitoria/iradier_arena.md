@@ -6,6 +6,7 @@ longitude: -2.6644
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The city's bullring, opened in 1880 and named after a local matador, hosts bullfights during the August festival and is otherwise used for concerts and large events. The capacity is around 9,000.

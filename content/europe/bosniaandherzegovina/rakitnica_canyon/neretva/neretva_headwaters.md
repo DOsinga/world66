@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4500
 longitude: 17.5833
+score: 7.7
 ---
 
 The Neretva rises near Neretva village in the Zelengora mountains, making this the starting point of one of Bosnia's major rivers — which flows 218 kilometres to the Adriatic at Ploče. The headwaters here are among the most pristine river water in Europe: Class I purity with temperatures of just 7–8°C year-round, fed by snowmelt and limestone springs.

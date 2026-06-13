@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 44.15611
 longitude: 8.01528
+score: 8.1
 ---
 
 Monte Galero (1,708 m) is the highest peak in the immediate area above Nasino, rising on the northern edge of the Pennavaire valley. The mountain marks the boundary between the Ligurian coastal climate and the more continental conditions of the Piedmontese side, and the change in vegetation as you ascend from the valley floor is noticeable — Mediterranean scrub giving way to beech and fir, then open grassland and limestone outcrops near the summit.

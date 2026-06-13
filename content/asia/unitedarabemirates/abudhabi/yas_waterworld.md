@@ -9,6 +9,7 @@ tags:
 neighbourhood: Yas Island
 latitude: 24.4914
 longitude: 54.5897
+score: 6.4
 ---
 
 The water park on Yas Island, themed around an Emirati pearl-diving legend that gives a thin narrative to the otherwise standard collection of slides, lazy rivers, and wave pools. Around 40 rides in all, including a six-person tornado slide and one of the few hydromagnetic-launch waterslides in the world.

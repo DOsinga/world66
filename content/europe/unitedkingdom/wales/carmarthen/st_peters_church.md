@@ -8,6 +8,7 @@ tags:
 latitude: 51.858
 longitude: -4.3027
 snippet: The medieval parish church of Carmarthen, containing the tomb of General Sir Thomas Picton
+score: 7.8
 ---
 
 St Peter's is the parish church of Carmarthen and the largest medieval building still in use in the town. The earliest fabric is 13th-century, but the church was extensively remodelled in the 14th and 15th centuries — the chancel arch, the tower and most of the nave windows date from this period. The exterior is restrained Welsh perpendicular; the interior is more rewarding, with a fine 15th-century roof, an Easter Sepulchre, and a set of carved heads on the arcade capitals.

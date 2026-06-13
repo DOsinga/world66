@@ -14,6 +14,7 @@ story: >
   trained here in camp administration, and its systematic methods of terror and
   dehumanisation were exported throughout the Nazi camp system. Dachau operated
   for twelve years until American troops liberated it on 29 April 1945.
+score: 9.6
 ---
 
 The memorial at the former Dachau concentration camp is the most important and sobering site in the Munich region. Dachau was the first camp opened by the Nazis, in March 1933, and the last to be liberated — it operated for the entire twelve years of the Third Reich. Over 200,000 prisoners passed through it; at least 41,500 were killed here.

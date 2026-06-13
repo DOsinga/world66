@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 51.848
 longitude: 5.870
+score: 7.4
 ---
 
 The Waalkade — the riverside promenade directly below Valkhof hill — is lined with café-restaurant terraces that have the best setting in Nijmegen: wooden decking over the water, views across the wide Waal, the bridge off to one side and the old harbour cranes in the other direction. In summer the terraces fill from mid-afternoon and stay busy until late. The food ranges from Dutch bar snacks and burgers to proper full meals; quality varies but the location compensates for a lot.

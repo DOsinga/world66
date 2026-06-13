@@ -16,6 +16,7 @@ story: >
   started, and the result — a pentagonal palazzo on a stepped hill, with a
   circular courtyard inside — became one of the defining works of Italian
   Mannerist architecture.
+score: 9.2
 ---
 
 The Villa Farnese (also called Palazzo Farnese) in Caprarola, a few kilometres east of Lake Vico, is one of the most impressive Renaissance palaces in Italy and one of the least visited. The pentagonal building, designed by Jacopo Barozzi da Vignola for Cardinal Alessandro Farnese in the 1560s, sits on a terraced hill above the town with a monumental staircase approach and an extraordinary circular courtyard at its centre.

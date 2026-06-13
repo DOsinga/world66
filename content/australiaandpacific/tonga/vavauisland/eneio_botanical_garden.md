@@ -6,6 +6,7 @@ tags:
 - nature
 latitude: -18.6414
 longitude: -173.9137
+score: 6.9
 ---
 
 Tonga's first botanical garden, established in 1997 by a New Zealand conservationist on a hillside on the eastern side of the main island. The garden grows native Tongan species alongside plants from across the Pacific, with an emphasis on medicinal plants and traditional uses. The collection documents plants that are disappearing from the island's landscape as agriculture and development reduce natural habitat.

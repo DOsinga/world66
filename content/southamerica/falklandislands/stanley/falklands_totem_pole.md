@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Falkland Islands Totem Pole
 type: poi
+score: 5.9
 ---
 
 A cluster of homemade wooden signposts pointing the direction and distance to home towns in the UK and beyond, started in the years after the 1982 war by British troops stationed on the islands. New signs are added regularly by visiting service personnel, and the post has grown into a colourful, eccentric Stanley landmark.

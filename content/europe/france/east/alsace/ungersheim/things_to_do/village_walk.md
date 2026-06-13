@@ -3,6 +3,7 @@ title: "Village Walk"
 type: poi
 latitude: 47.878
 longitude: 7.307
+score: 6.1
 ---
 
 Beyond the Écomusée's gates, Ungersheim village itself has kept its Alsatian character. Half-timbered houses, kitchen gardens, and quiet lanes lined with geranium-filled window boxes make for a short but pleasant walk that provides real context for what the museum has reconstructed inside.

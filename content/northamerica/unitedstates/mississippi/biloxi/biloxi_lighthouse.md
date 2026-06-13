@@ -12,6 +12,7 @@ story: >
   survived Hurricane Katrina in 2005 — and it survived Camille in 1969 before that. After Katrina, the
   lighthouse stood alone in a field of debris for months, its beam still operational, as one of the only intact
   structures on a coast that had been all but erased.
+score: 7.5
 ---
 
 The Biloxi Lighthouse stands in the median of Highway 90, a 61-foot cast-iron tower that has looked out over the Mississippi Sound since 1848. It is the most recognisable landmark in a city that has reinvented itself many times. Guided tours allow visitors to climb the interior spiral staircase to the lantern room and look out over the casino strip, the beach, and the water — a jarring contrast of eras.

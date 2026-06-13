@@ -7,6 +7,7 @@ tags:
 latitude: 44.7935
 longitude: -72.0325
 snippet: Small state park with a prominent glacial erratic on the ridge
+score: 5.9
 ---
 
 Sentinel Rock State Park sits north of Westmore on the ridge above the lake, protecting a large glacial erratic — a boulder deposited by the retreating glacier at the end of the last ice age. The "sentinel" rock itself is dramatic: a massive chunk of granite perched on a hillside, visible from the road below.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic]
 latitude: 26.7394
 longitude: -11.6703
 story: "Ma El Ainin built his religious and political complex here in 1898, dragging stone across hundreds of kilometres of desert because he believed the site was prophesied. The French shelled and partly destroyed the complex in 1913. The ruins still stand at the edge of town, a strange echo of an attempted Saharan state."
+score: 8.1
 ---
 
 The zawiya and mosque complex founded by Sheikh Ma El Ainin in 1898 is the only formal sight in Smara and the reason the town exists in its current location. Ma El Ainin was a Mauritanian-born religious scholar who rallied Sahrawi tribes against French and Spanish colonial encroachment, and he chose this remote spot to build a fortified religious centre that briefly served as the political capital of a nascent Saharan resistance.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Saale-Unstrut Wine Region
 type: poi
+score: 8.0
 ---
 
 Naumburg sits at the heart of the Saale-Unstrut wine region — Germany's most northerly classified wine area and one of its least-known outside the country. Viticulture here dates back over a thousand years, and the landscape of steep terraced vineyards above the Saale and Unstrut river valleys is genuinely striking. The main grape varieties are Müller-Thurgau, Silvaner, and Weißburgunder (Pinot Blanc), producing dry, mineral whites that pair well with the region's food.

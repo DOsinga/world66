@@ -8,6 +8,7 @@ tags:
 - park
 title: Hat Yai Municipal Park
 type: poi
+score: 7.2
 ---
 
 A large hillside park on the southwestern edge of the city, with a long flight of stairs (or a chairlift and cable car) climbing past a giant standing Buddha to a hilltop shrine with a four-faced Brahma. From the top there are panoramic views across the city and out to the surrounding rice plains — particularly worth doing at sunset.

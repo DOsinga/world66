@@ -5,6 +5,7 @@ latitude: 33.5638
 longitude: 35.3712
 snippet: "Legendary Sidon sweet shop — Lebanese pilgrimage site for knafeh and baklava"
 tags: [eating_out, restaurant]
+score: 6.2
 ---
 
 Al-Baba is one of the names that comes up whenever Lebanese argue about who makes the best sweets in the country. The Sidon original — there are now branches across Lebanon and abroad — is a busy, brightly lit shop where trays of knafeh, baklava, ma'amoul, and bird's nest pastries are restocked throughout the day.

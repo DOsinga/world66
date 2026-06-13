@@ -7,6 +7,7 @@ tags:
 latitude: 52.3220
 longitude: 5.3173
 story: "Boezem planted the poplars in 1987 with a deliberately limited lifespan — Lombardy poplars live around 60 years, after which the cathedral will collapse and disappear. He calls the work a meditation on the difference between buildings and forests."
+score: 8.1
 ---
 
 The **Groene Kathedraal** is a piece of land art by the Dutch conceptual artist **Marinus Boezem**, hidden in a patch of polder farmland in the Oosterwold area on the eastern edge of Almere. He planted 178 Lombardy poplars in 1987 in the exact ground plan of **Notre-Dame de Reims** — towers, nave, transepts, choir — so that the trees rise where the cathedral's walls and columns would have stood. Walk between them and you find yourself in a perfectly proportioned Gothic interior made of bark, leaves and sky.

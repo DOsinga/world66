@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.1390
 longitude: 2.4932
+score: 7.5
 ---
 
 Walk to the esplanade at the northern edge of the village for the best view of the surrounding landscape: the Puy Mary volcano rises to the south, and the green valleys of the Maronne and Rhue rivers spread out below. On a clear day the panorama extends across the Monts du Cantal.

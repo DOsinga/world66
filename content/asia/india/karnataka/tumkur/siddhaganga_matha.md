@@ -13,6 +13,7 @@ story: >
   leadership of successive pontiffs. The late Shivakumara Swamiji, who headed the
   matha for over 80 years until his death in 2019 at the age of 111, was regarded by
   many Kannadigas as a living saint.
+score: 7.4
 ---
 
 The Siddhaganga Matha is a large Lingayat monastery about 5 km from Tumkur on the Sira road. It is one of the most important religious institutions in Karnataka and draws pilgrims from across the state. The monastery is built around an ancient Shiva temple on a small hill, and the complex of prayer halls, dormitories, and school buildings spreads over a considerable area.

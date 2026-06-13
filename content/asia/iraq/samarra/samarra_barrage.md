@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.1958
 longitude: 43.8506
+score: 5.4
 ---
 
 The Samarra Barrage is a large dam and diversion structure on the Tigris River, completed in 1954, that controls water flow into the Tharthar Depression to the west — Iraq's largest lake. The barrage serves flood control and irrigation functions across a large swath of central Iraq and is an impressive piece of engineering.

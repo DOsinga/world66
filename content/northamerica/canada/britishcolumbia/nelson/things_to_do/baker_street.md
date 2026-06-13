@@ -8,6 +8,7 @@ latitude: 49.4951
 longitude: -117.2933
 sources:
   - https://en.wikipedia.org/wiki/Nelson,_British_Columbia
+score: 8.8
 ---
 
 Nelson's main street is one of the most intact Victorian commercial streetscapes in British Columbia. Over 350 heritage buildings line Baker Street and the surrounding blocks — brick facades, ornate cornices, wooden awnings, and cast-iron details dating to the 1890s silver-mining boom. Today the ground floors hold independent bookshops, galleries, clothing boutiques, and coffee roasters rather than assay offices and hardware merchants, but the bones of the boomtown are all still there.

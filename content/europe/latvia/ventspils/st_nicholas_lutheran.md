@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious
+score: 5.5
 ---
 
 The principal Lutheran church of Ventspils, an austere octagonal building in pale yellow with a green spire, consecrated in 1835 to replace an earlier wooden church on the same site. The interior is plain in the Protestant manner of the Baltic — white walls, dark wooden pews, a single large organ above the western door.

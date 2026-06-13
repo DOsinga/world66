@@ -7,6 +7,7 @@ tags:
 address: "2815 Guadalupe St"
 latitude: 30.2910
 longitude: -97.7404
+score: 7.6
 ---
 
 Austin City Limits is the longest-running music programme in American television history, filmed at the Moody Center arena on the UT campus (previously filmed at the smaller KLRU studios, where the famous neon skyline backdrop was created). The programme has featured nearly every major American musician since its launch in 1976, and the Austin City Limits Music Festival in Zilker Park is named after it.

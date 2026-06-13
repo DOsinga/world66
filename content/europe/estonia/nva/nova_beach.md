@@ -14,6 +14,7 @@ story: >
   deportation. The empty farmsteads they left behind slowly returned to forest, and
   traces of the old Swedish settlement still surface in place names and the occasional
   abandoned foundation in the woods.
+score: 7.4
 ---
 
 Nõva's beach is a long, gently curved stretch of sand and smooth stones backed by pine forest, with no facilities and almost no people on most days. The water is relatively shallow for a good distance out, warming up well by midsummer — cold by Mediterranean standards, but perfectly swimmable in July and August by Estonian ones.

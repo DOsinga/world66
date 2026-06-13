@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 title: Parasio
 type: poi
+score: 8.3
 ---
 
 Parasio is the oldest part of Porto Maurizio, a medieval quarter that sits on the headland above the harbour. The lanes here — proper Ligurian caruggi, often no wider than outstretched arms — run between tall painted houses and link small squares that open suddenly to views over the sea. The whole quarter is closed to traffic, which makes it unusually quiet for a town of this size.

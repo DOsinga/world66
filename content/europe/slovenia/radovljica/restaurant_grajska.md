@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Restaurant Grajska gostilnica
 type: poi
+score: 5.4
 ---
 
 Grajska gostilnica sits in a vaulted medieval building on Linharjev trg, Radovljica's handsome main square. The menu leans into Slovenian classics — štruklji (rolled dumplings), žlikrofi, game stew in season — with portions sized for hikers coming off the trails. The house wine is decent and cheap. In summer, grab a table on the terrace for views across the square to the Karavanke mountains.

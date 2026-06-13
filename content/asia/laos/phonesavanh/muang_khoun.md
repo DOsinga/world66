@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 7.4
 ---
 
 Muang Khoun, 35 kilometres south-east of Phonsavan, is the former capital of Xieng Khouang province and the site of the old royal city that was levelled by American bombing in the late 1960s. A handful of ruins survives in a quiet rural village: the brick remains of That Foun, a 30-metre Buddhist stupa partly destroyed by Chinese looters in the 19th century and finished off by bombs in the 20th, and the brick walls of Wat Phia Wat, where a large seated Buddha sits roofless in the open air.

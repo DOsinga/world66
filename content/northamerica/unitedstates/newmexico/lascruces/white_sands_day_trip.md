@@ -13,6 +13,7 @@ story: >
   out of ancient lake beds, washed into a closed basin with no outlet, and
   evaporated over thousands of years to leave this impossible landscape. It
   is the most otherworldly national park in the continental United States.
+score: 9.5
 ---
 
 White Sands National Park, about 80 kilometres east of Las Cruces via US-70, is the region's single greatest natural attraction and one of the most extraordinary landscapes in North America. The gypsum dune field stretches for miles in every direction, bright white and shifting, with no vegetation except for a few hardy species that have evolved specifically for this environment. Walking into the dunes feels like entering another planet.

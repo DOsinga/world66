@@ -7,6 +7,7 @@ snippet: The historic centre — squares, churches, museums, and most of the caf
 tags:
 - things_to_do
 - neighbourhood
+score: 8.7
 ---
 
 The Centru — the medieval and Habsburg-era centre — is what most visitors come to Cluj for. It runs roughly from Piața Mihai Viteazu in the west to Piața Avram Iancu in the east, with Piața Unirii at its core. Almost everything historic is within ten minutes' walk: the cathedrals, the opera, the museums, the medieval walls.

@@ -8,6 +8,7 @@ latitude: 42.6632
 longitude: 21.1645
 sources:
   - https://en.wikipedia.org/wiki/National_Theatre_of_Kosovo
+score: 6.1
 ---
 
 The National Theatre of Kosovo, founded in 1946 in Prizren and moved to Pristina in 1949, is the country's principal dramatic institution and one of the cultural anchors of the city centre. The main building sits on the edge of Skanderbeg Square, convenient to the central promenade.

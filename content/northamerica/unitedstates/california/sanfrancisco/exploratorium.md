@@ -12,6 +12,7 @@ tags:
 title: Exploratorium
 type: poi
 url: www.exploratorium.edu
+score: 9.1
 ---
 
 The Exploratorium is one of the best science museums in the country, now housed in a stunning waterfront location on Pier 15. Hundreds of hands-on exhibits cover everything from light and sound to weather and biology. It is fantastic for kids but genuinely engaging for adults too -- you can easily spend half a day here.

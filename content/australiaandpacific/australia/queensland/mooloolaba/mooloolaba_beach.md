@@ -6,6 +6,7 @@ longitude: 153.1196
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Mooloolaba's beach is the calmest of the popular surf beaches on the Sunshine Coast. The crescent of golden sand faces north and east, sheltered by Point Cartwright at the northern end, which kills the worst of the southern swell. The result is a beach you can let children swim at most days of the year.

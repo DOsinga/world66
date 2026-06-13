@@ -9,6 +9,7 @@ story: >
   across the Ottoman Empire. When the population exchange forced the Greek community to leave for Greece, they
   abandoned some of the finest stone mansions in Cappadocia. Many remain standing, their carved facades still
   readable, though most are now empty or converted into small hotels.
+score: 8.3
 ---
 
 Mustafapaşa sits about eight kilometres south of Urgup, an unusually well-preserved Ottoman-era village that was until 1923 a prosperous Greek Orthodox settlement called Sinasos. The village has a remarkable collection of carved stone mansions — two-storey houses with elaborate facades decorated in the Greek neoclassical style, built by merchants who were among the most successful traders in the region. Walking through the quiet streets, you pass one handsome doorway after another.

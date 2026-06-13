@@ -9,6 +9,7 @@ tags:
 title: Café Hardenberg
 snippet: Long-running student café near TU Berlin, cheap and unhurried
 type: poi
+score: 5.8
 ---
 
 A student café near the Technical University, running since the late 1960s. Cheap breakfast, casual atmosphere, and the kind of steady hum of conversation that makes it good for working or reading. An institution for TU students and staff.

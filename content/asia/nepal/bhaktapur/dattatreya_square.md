@@ -7,6 +7,7 @@ tags:
 latitude: 27.6717
 longitude: 85.4315
 snippet: Bhaktapur's oldest square, with the Dattatreya Temple and craft workshops nearby
+score: 8.4
 ---
 
 Dattatreya Square (Tachapal Tole) is the oldest of Bhaktapur's three historic squares and the most local-feeling — fewer tour groups reach it, and it has a quieter rhythm than Durbar Square or Taumadhi. The Dattatreya Temple at its centre is unusual in being dedicated simultaneously to Shiva, Vishnu, and Buddha — reflecting the Newari religious tradition of incorporating all three without contradiction.

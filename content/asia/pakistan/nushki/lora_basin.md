@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The wide salt-flat depression west of town that defines the local landscape
+score: 7.1
 ---
 
 To the west of Nushki the land flattens into the Hamun-i Lora, a broad shallow basin of clay and salt that fills only when the rare flash floods from the surrounding hills bring water down. In a dry year — which is most years — it is a vast white plain studded with scrub and the tracks of camels and pickup trucks.

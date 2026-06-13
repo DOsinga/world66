@@ -8,6 +8,7 @@ latitude: 52.3991
 longitude: 13.0631
 sources:
   - https://en.wikipedia.org/wiki/Dutch_Quarter,_Potsdam
+score: 7.9
 ---
 
 The Dutch Quarter (Holländisches Viertel) is a tight grid of 134 red-brick gabled houses built in the 1730s and 1740s for Dutch craftsmen invited by Frederick William I to settle in Potsdam. The king admired Dutch urban planning and wanted skilled artisans — bricklayers, carpenters, weavers — so he built them a neighbourhood to feel at home in. The craftsmen largely returned home when the king died, but the houses survived.

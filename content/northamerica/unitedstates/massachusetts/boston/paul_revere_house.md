@@ -12,6 +12,7 @@ tags:
 title: Paul Revere House
 type: poi
 url: www.paulreverehouse.org
+score: 8.1
 ---
 
 The oldest building in downtown Boston, built around 1680 — a century before Revere bought it. The squat clapboard house in North Square survived three centuries of fire, expansion, and the wholesale rebuilding of the surrounding North End, and was saved in 1908 by Revere's great-grandson, who turned it into one of the first historic house museums in the United States.

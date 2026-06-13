@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 27.9210
 longitude: 78.0742
+score: 6.7
 ---
 
 The house where Sir Syed Ahmad Khan — founder of Aligarh Muslim University and one of the key Muslim reformers of 19th-century India — lived and worked is preserved as a small museum on the AMU campus. The rooms contain period furniture, personal correspondence, photographs and documents relating to both Sir Syed's life and the founding of the university.

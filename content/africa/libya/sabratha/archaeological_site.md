@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Excavated Roman city including forum, temples, baths, and a well-preserved Capitoline Temple"
+score: 9.2
 ---
 
 The archaeological site extends considerably beyond the theatre, covering the remains of the Roman city from the 1st through 4th centuries AD. The central area includes the forum — the civic heart of any Roman city — flanked by the remains of temples and public buildings. The Capitoline Temple, dedicated to the Roman state triad of Jupiter, Juno, and Minerva, survives with several columns standing. A temple to Isis and one to Liber Pater reflect the religious diversity of Sabratha's population, which mixed Punic, Berber, and Roman traditions.

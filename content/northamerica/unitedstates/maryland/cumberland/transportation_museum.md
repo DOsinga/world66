@@ -8,6 +8,7 @@ tags:
   - museum
   - historic
 snippet: "Local-history museum housed in the 1933 Federal Building downtown."
+score: 6.7
 ---
 
 The Allegany Museum occupies the city's old Federal Building, a 1933 limestone-clad Art Deco block on the corner of Pershing and Liberty. The collections tell the layered transport history of Cumberland — the National Road, the C&O Canal, the B&O Railroad, the Western Maryland — plus the industries that came along with them: coal, glass, brewing, textiles.

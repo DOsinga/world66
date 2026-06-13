@@ -9,6 +9,7 @@ latitude: 35.7328
 longitude: 27.1469
 story: >
   The women of Olympos still wear full traditional dress every day — embroidered jackets, head scarves, and leather boots — not for tourists but as genuine local custom. The dialect spoken here preserves features of ancient Doric Greek that linguists travel from across Europe to study.
+score: 9.0
 ---
 
 Olympos clings to a knife-edge ridge in the uninhabited north of Karpathos, and getting there is half the experience. Most visitors arrive by excursion boat from Pigadia to the tiny harbour of Diafani, then take a minibus up the mountain track. The village sits at around 500 metres, overlooking the Aegean on both sides, with windmills turning on the ridge above.

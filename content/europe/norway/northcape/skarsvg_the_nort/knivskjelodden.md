@@ -5,6 +5,7 @@ tags: [things_to_do, sight, hiking]
 latitude: 71.1856
 longitude: 25.6817
 story: Knivskjelodden sits 1,500 metres further north than the North Cape plateau, yet almost nobody knows it. The discrepancy exists because the North Cape road was built to the plateau, not to the actual northernmost point — a bureaucratic accident of infrastructure that has persisted for over a century.
+score: 8.5
 ---
 
 Knivskjelodden is the actual northernmost point of Europe that is accessible on foot — a narrow, rocky peninsula that juts into the Arctic Ocean at 71°11' north, about 1,500 metres further north than the famous globe on the North Cape plateau. It is reached by a 9-kilometre hiking trail from the North Cape car park, passing through open tundra with views down to the sea on both sides of the ridge.

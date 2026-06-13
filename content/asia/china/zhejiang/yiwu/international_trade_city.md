@@ -9,6 +9,7 @@ latitude: 29.3397
 longitude: 120.1111
 story: >
   The scale of Yiwu International Trade City is hard to convey until you are inside it. The market occupies five districts, each the size of a large shopping mall, connected by corridors that require half a day to walk at a steady pace. Some estimations put the number of individual product lines on offer at over a million — everything from Christmas decorations to surgical equipment to fake flowers.
+score: 9.0
 ---
 
 Yiwu International Trade City is the world's largest wholesale market for small commodities, and visiting it is one of those experiences that rewires your understanding of how consumer goods actually move around the world. The market is divided by product category — District 1 handles crafts, jewelry, and accessories; District 2 has toys, games, and electronics; District 3 is hardware and tools — and each district is subdivided into thousands of individual stalls where the minimum order quantities start at a few hundred units and the haggling is real.

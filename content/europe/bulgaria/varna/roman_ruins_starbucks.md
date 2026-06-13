@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2072
 longitude: 27.9148
+score: 4.8
 ---
 
 At the intersection of Knyaz Boris I and Preslav streets in central Varna, a cafe occupies a building whose floor incorporates a glass section revealing Roman remains from the 3rd and 4th centuries AD. The ruins — sections of wall, tile, and structural foundation from the ancient city of Odessus — sit in a shallow excavation beneath the current floor level, with lighting installed to make them visible to anyone walking past or sitting at a nearby table.

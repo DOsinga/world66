@@ -9,6 +9,7 @@ latitude: 46.3198
 longitude: 9.3985
 story: >
   The baptistery attached to the Collegiata contains an octagonal font carved from a single block of local stone in the twelfth century. The font took fifty years to complete and its elaborate Romanesque carvings depict the life of Christ, the Last Judgement, and scenes from the life of John the Baptist. It is one of the finest examples of Lombard Romanesque stone carving in Italy, yet the baptistery that houses it is rarely crowded.
+score: 7.0
 ---
 
 The Collegiata di San Lorenzo is the main church of Chiavenna, a solid Romanesque-Gothic building that stands at the heart of the old town. The church itself dates from the eleventh century, though it has been rebuilt and altered many times since. The present facade is Renaissance, and the bell tower is medieval.

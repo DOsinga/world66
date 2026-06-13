@@ -11,6 +11,7 @@ tags:
 - museum
 - sight
 story: "Until the late 1970s this building was simultaneously the emir's palace, the police headquarters, the customs office and the jail. The dungeon-like cells in the corner have been left as they were, complete with the shackles and the prisoner-graffiti scratched into the walls."
+score: 7.8
 ---
 
 The Ajman Museum is housed in a coral-block fort built around 1775 and used by the ruling Al Nuaimi family as palace, courthouse, police station and prison until 1978. The architecture alone — wind towers, gun-bastions, an inner courtyard with date palms — is worth the entrance fee.

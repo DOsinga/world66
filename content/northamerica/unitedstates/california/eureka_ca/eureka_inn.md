@@ -16,6 +16,7 @@ story: >
   and renovation and was added to the National Register of Historic Places in 1982.
 sources:
   - https://en.wikipedia.org/wiki/Eureka_Inn
+score: 7.6
 ---
 
 The Eureka Inn on 7th and F Streets is the grandest historic building in the city after the Carson Mansion, and unlike the mansion it is fully accessible — it operates as a hotel and bar. The 1922 Elizabethan Tudor Revival exterior sets the tone: half-timbered gables, brick chimneys, and steep rooflines. Inside, the lobby is extraordinary for a city this size: carved oak ceiling beams, a baronial fireplace, stained glass windows, and a sense of early 20th-century civic ambition that the city has never quite recaptured.

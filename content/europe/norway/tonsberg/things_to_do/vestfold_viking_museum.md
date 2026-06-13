@@ -8,6 +8,7 @@ latitude: 59.2670
 longitude: 10.4073
 sources:
   - https://en.wikipedia.org/wiki/T%C3%B8nsberg
+score: 8.1
 ---
 
 The Vestfold Viking Museum (Vestfoldmuseene) combines two strands of regional history that at first seem unconnected but are linked by the sea: Viking-age Vestfold and the Norwegian whaling industry. The whaling collection — one of the most significant in the world — covers the era when Vestfold whalers operated in Antarctic waters, and it does so without flinching at the moral dimensions. Ship equipment, harpoons, and the social history of the whaling towns are all here.

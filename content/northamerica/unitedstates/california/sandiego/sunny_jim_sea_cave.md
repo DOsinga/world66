@@ -15,6 +15,7 @@ story: >
   — the cave opens directly onto the sea and boats could approach from outside. L. Frank Baum,
   who lived in San Diego briefly while writing the Oz books, named the cave "Sunny Jim" after a
   popular cereal mascot of the era.
+score: 6.5
 ---
 
 Sunny Jim Cave is the only one of La Jolla's seven sea caves accessible from land. The entrance is through a gift shop on Cave Street — pay the small admission, descend 145 wooden steps carved through the sandstone cliff, and emerge on a wooden platform overlooking a wave-carved cave with a direct ocean opening.

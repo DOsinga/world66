@@ -9,6 +9,7 @@ tags:
 latitude: -40.9
 longitude: 176.2167
 story: The Castlepoint lighthouse was built in 1913 from cast-iron sections shipped from England, and was once the tallest in New Zealand. The original keeper's house was abandoned when the light went automatic in the 1980s, but the lighthouse itself still flashes every fifteen seconds, visible thirty kilometres out into the Pacific.
+score: 8.8
 ---
 
 Castlepoint is the wild, lighthouse-topped headland an hour east of Masterton — a long sand beach, a sheltered lagoon, the cone-shaped Castle Rock rising 162 metres straight out of the surf, and the 23-metre Castlepoint lighthouse on the cliff above. It is one of the most dramatic coastal landscapes in the lower North Island and a popular weekend getaway from Wellington.

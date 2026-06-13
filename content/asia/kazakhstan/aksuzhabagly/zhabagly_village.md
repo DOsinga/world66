@@ -6,6 +6,7 @@ longitude: 70.6346
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Zhabagly is the gateway settlement — a quiet farming village of low whitewashed houses, fruit orchards, and family homestays. The village runs a community-based ecotourism cooperative, founded with Dutch development support in the 1990s, which channels visitor income directly into local households.

@@ -9,6 +9,7 @@ longitude: 121.3277
 sources:
   - https://en.wikipedia.org/wiki/Taoyuan_Confucian_Temple
 snippet: Elegant Confucian temple in central Taoyuan, one of the few in northern Taiwan
+score: 6.8
 ---
 
 The Taoyuan Confucian Temple (桃園孔廟) is one of the better examples of traditional Taiwanese temple architecture in the city center, set in a courtyard complex with red columns, sweeping roofs, and ornate woodcarving throughout. Confucian temples in Taiwan are rarer than the far more numerous Buddhist and Taoist temples, and they follow a more austere aesthetic — less golden, less incense-thick, more architecturally formal.

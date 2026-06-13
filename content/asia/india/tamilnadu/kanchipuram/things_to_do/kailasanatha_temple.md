@@ -13,6 +13,7 @@ story: >
   worship and were repeatedly renovated, it passed under Archaeological Survey of India
   management and was left largely untouched — which is why it retains its original sandstone
   carvings and intimate proportions almost exactly as Rajasimha intended.
+score: 9.1
 ---
 
 The oldest surviving structure in Kanchipuram and one of the finest examples of early Pallava temple architecture in India. Built in sandstone around 700 CE by King Rajasimha, the temple is smaller and more intimate in scale than the great later temples of the city — a quality that makes it, for many visitors, the most rewarding of all.

@@ -12,6 +12,7 @@ story: >
   a quieter, more family-oriented alternative to Aspen, which was already
   established as a celebrity destination — the contrast is still visible in the
   bars, the prices, and the average age on the gondola.
+score: 8.5
 ---
 
 Snowmass is the largest of the four mountains in the Aspen Snowmass complex. It rises from about 2,470 m at the base to 3,813 m at the top of the Cirque Headwall, with a vertical drop of 1,343 m — among the highest in North America. The trail network spreads across multiple bowls and ridges and includes serious expert terrain (the Cirque, Hanging Valley) alongside long cruising blues and a sheltered beginner area at the base.

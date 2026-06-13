@@ -7,6 +7,7 @@ tags:
 latitude: 48.4244
 longitude: -89.2306
 snippet: "Three-pavilion tropical greenhouse in Centennial Park"
+score: 5.9
 ---
 
 A welcome warm-and-green refuge in the long Thunder Bay winter, the Centennial Botanical Conservatory consists of three glass pavilions — tropical, show, and cactus — packed with plants in a small civic park north of downtown. Built in 1967 to mark Canada's centenary, it remains one of the few year-round indoor gardens in northwestern Ontario.

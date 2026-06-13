@@ -15,6 +15,7 @@ story: >
   extraordinary: the entire ground floor of every building on all four sides has been converted to cafe or bar 
   use, their terraces merging into a single vast outdoor drinking space that, on a warm evening in term time, 
   holds several thousand students simultaneously.
+score: 7.6
 ---
 
 The Oude Markt (Old Square) sits one block behind the Grote Markt and occupies a completely different register. Where the Grote Markt impresses with architecture, the Oude Markt impresses with density — it is ringed entirely by cafes and bars, their terraces flowing together into one enormous outdoor space. In term time it is one of the most vivid demonstrations of student culture in Belgium: thousands of young people drinking in the open air, spilling from bench to terrace to pavement.

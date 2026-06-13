@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.2086
 longitude: 29.9239
+score: 7.9
 ---
 
 A focused, well-organised museum in an Italian-style villa on Tariq al-Horreya, telling the city's story chronologically across three floors: Pharaonic, Graeco-Roman, and Coptic-Islamic-Modern. The collection of around 1,800 objects is smaller than the Cairo Museum but better presented — labels are clear, in both Arabic and English, and the lighting is thoughtful.

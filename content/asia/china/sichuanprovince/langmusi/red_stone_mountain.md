@@ -13,6 +13,7 @@ story: >
   at the summit are renewed regularly by monks from both monasteries below,
   who make the climb on auspicious calendar dates to replace weathered flags
   with new ones and recite prayers that are carried by the wind across the plateau.
+score: 7.4
 ---
 
 Red Stone Mountain rises directly above Langmusi and is the most accessible hike in the area, achievable in about an hour and a half round trip from the village. The sandstone formations at the summit are a deep ochre-red against the blue sky common at this altitude, and the prayer flags accumulated there over years of monastic attention make a striking visual combination. The panoramic view from the summit takes in the entire Langmusi valley and, on clear days, the snow peaks to the south that mark the higher country of northern Sichuan.

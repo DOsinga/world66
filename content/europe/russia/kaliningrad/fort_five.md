@@ -11,6 +11,7 @@ story: >
   The fort saw one of the most intense engagements of the April 1945 battle. Soviet assault troops took it after 16 hours of fighting, breaking through defences that were considered impregnable. The crater-marked earthworks and heavily damaged brick walls still show the violence of that assault. A monument outside commemorates the Soviet soldiers who died here.
 sources:
   - https://en.wikipedia.org/wiki/Fort_No._5_(Kaliningrad)
+score: 8.4
 ---
 
 The ring of 19th-century forts built to protect Königsberg is one of the most remarkable military engineering relics in Europe — over a dozen heavy brick-and-earthwork fortifications still stand in the forests and suburban areas surrounding the city. Fort No. 5 is the most visited, having been converted into a military history museum dedicated to the April 1945 battle for the city.

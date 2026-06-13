@@ -6,6 +6,7 @@ longitude: -86.951
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Kinta is the kind of restaurant Cozumel needs more of: contemporary Mexican cooking in a small garden setting a couple of blocks inland from the malecón. The menu changes seasonally but reliably features handmade tamales, chiles en nogada in late summer, and a strong list of mezcals.

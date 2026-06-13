@@ -15,6 +15,7 @@ story: >
   trees. The coffee from these hillsides has been exported to Europe and Japan since the
   19th century. Locally it is served in ways that would horrify specialty coffee devotees
   — olla-brewed with cinnamon and brown sugar — and it is absolutely correct.
+score: 8.1
 ---
 
 The coffee-growing villages of Coatepec and Xico, both within thirty minutes of Xalapa, offer the best coffee farm visits in Mexico. Coatepec in particular is known as the "coffee capital of Mexico" — a small colonial town surrounded by shade-grown arabica plantations, with a central market where the local coffee is sold and consumed at every café and juice stand. Several farms offer tours that cover the full cycle from cherry to cup, running through the harvest months of October to February.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 About four kilometres west of Limburg, just across the border in Rhineland-Palatinate at the edge of Diez, Schloss Oranienstein is a Baroque palace built between 1672 and 1684 by Albertine Agnes, daughter of Frederick Henry of Orange. It was one of the ancestral seats of the House of Orange-Nassau and remains symbolically important to the Dutch royal family, who still send representatives on state occasions.

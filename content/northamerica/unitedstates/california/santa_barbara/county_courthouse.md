@@ -13,6 +13,7 @@ story: >
   set the architectural tone for the entire city. The clock tower's observation
   deck (free, open daily) gives the best public view of Santa Barbara's tile-roofed
   rooftops against the mountains.
+score: 9.4
 ---
 
 The courthouse occupies a full city block and is one of the few civic buildings in the United States routinely included in lists of must-see architecture. The exterior is hand-carved sandstone, cast plaster, and hand-painted tilework; the gardens fill most of the block and are still used as a public park, used for the Old Spanish Days fiesta in August.

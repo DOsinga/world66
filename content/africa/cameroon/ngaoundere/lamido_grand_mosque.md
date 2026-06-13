@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Lamido Grand Mosque
 type: poi
+score: 7.0
 ---
 
 The Grand Mosque stands directly across the square from the Palais du Lamido and is the spiritual centre of the predominantly Muslim Fulani town. The building is plain in the Sahelian tradition — whitewashed walls, a single minaret, and an interior of bare floors and prayer mats — but the Friday gathering is one of the most photogenic in the country, as hundreds of men in long robes spill out into the surrounding streets.

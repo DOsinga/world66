@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.2233
 longitude: 91.8511
+score: 8.6
 ---
 
 Pantumai (sometimes Pangthumai) is a tall waterfall just inside India that visitors view from across a shallow river on the Bangladesh side — you can wade close enough to feel the spray, but not technically cross the border. The setting is dramatic: green hills rising sharply, the white fall cutting down between them, and clear river water at your feet.

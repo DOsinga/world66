@@ -10,6 +10,7 @@ latitude: 40.8163
 longitude: -96.7046
 sources:
   - https://en.wikipedia.org/wiki/Lied_Center_for_Performing_Arts
+score: 6.9
 ---
 
 The Lied Center for Performing Arts is the main concert hall on the University of Nebraska campus and the home of Lincoln's most serious performing arts programming. The 2,200-seat concert hall has excellent acoustics and books a season that ranges from Broadway touring productions and classical orchestras to jazz, world music, and dance — a stronger lineup than you might expect for a city of this size, subsidized by the university's commitment to the arts.

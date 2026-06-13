@@ -7,6 +7,7 @@ tags:
 latitude: 41.4344
 longitude: 22.6398
 snippet: A peaceful monastery on the wooded slopes above Strumica, named for 4th-century Christian martyrs
+score: 6.8
 ---
 
 Set in pine woods on the hill above Strumica, the Monastery of the Holy Fifteen Martyrs is a peaceful retreat ten minutes' walk from the centre of town and a popular spot for local Sunday outings. It commemorates fifteen Christians said to have been martyred in Strumica (then called Tiberiopolis) during the persecution under Emperor Julian the Apostate in the 4th century. Excavations behind the monastery in the 1970s uncovered an early Christian basilica with a martyrium that has been argued to be the original burial place of the saints.

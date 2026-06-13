@@ -8,6 +8,7 @@ tags:
 latitude: 24.4135
 longitude: 123.8062
 story: "The 'stars' are not sand at all but the calcareous shells of tiny single-celled foraminifera. They wash up on a handful of beaches in the southern Ryukyus. Take a closer look with a wet fingertip — the points are sharper than you'd expect."
+score: 6.5
 ---
 
 Hoshizuna, on the northern coast near Uehara, is the most accessible of Iriomote's beaches and famous for the star-shaped grains of sand mixed into the white coral debris. Press a wet palm into the surface and shake it off, and a handful of little white stars will cling to your skin.

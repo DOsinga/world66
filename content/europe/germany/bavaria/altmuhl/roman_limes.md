@@ -16,6 +16,7 @@ story: >
   Danube Limes, added by Emperor Hadrian to connect the Rhine-Danube frontier.
 sources:
   - https://en.wikipedia.org/wiki/Limes_Germanicus
+score: 7.4
 ---
 
 The Altmühl Valley sits close to the line of the ancient Roman frontier, the Limes Germanicus, which runs through the region from northwest to southeast. Several watchtower foundations and reconstructed sections of the fortified frontier wall can be visited along the valley's edges, most accessibly near the village of Weissenburg, just north of the valley proper.

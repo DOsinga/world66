@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.5269
 longitude: -108.7436
+score: 7.6
 ---
 
 The Chief Theater on West Coal Avenue is one of the finest surviving examples of Pueblo Deco architecture in New Mexico — a style that emerged in the 1920s and 30s, blending Art Deco geometry with the forms and motifs of Southwestern Pueblo architecture. Built in 1920 and listed on the National Register of Historic Places, it represents the moment when Gallup was a genuine boomtown, flush with railroad money and trading post wealth.

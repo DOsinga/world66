@@ -8,6 +8,7 @@ latitude: 50.4101
 longitude: 80.2248
 sources:
   - https://en.wikipedia.org/wiki/Semey_Bridge
+score: 6.3
 ---
 
 The Irtysh is one of the great Siberian rivers, flowing northwest from the Altai into Russia before joining the Ob. In Semey it divides the city into two districts, and the embankment on the right bank is where local life comes for an evening walk. The riverside promenade is straightforward and pleasant — tree-lined paths, benches, views across the wide, brown river — and gives the city an ease it lacks in other parts.

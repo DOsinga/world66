@@ -9,6 +9,7 @@ latitude: 36.3817
 longitude: 140.4646
 story: >
   Kairakuen was laid out in 1842 by Tokugawa Nariaki, the feudal lord of the Mito domain. Unlike most feudal gardens that were private retreats, Nariaki explicitly designed it to be opened to his subjects — "kairan" in the name means "to be enjoyed together." He planted over 3,000 plum trees, calculating that their early spring bloom would coincide with when farmers needed to assess the state of their land before planting season.
+score: 8.9
 ---
 
 Kairakuen is ranked alongside Kenrokuen in Kanazawa and Korakuen in Okayama as one of Japan's three great gardens (nihon sankoen). It sits on a plateau above Lake Senba and spreads over 13 hectares of plum trees, bamboo groves, cedars, and manicured lawns, with views over the lake from the garden's edge.

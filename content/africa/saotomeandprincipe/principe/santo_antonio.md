@@ -9,6 +9,7 @@ latitude: 1.6367
 longitude: 7.4178
 sources:
   - https://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio
+score: 6.8
 ---
 
 Santo António is the capital and only town on Príncipe, and also one of the smallest capitals in the world — a few thousand people clustered on a hillside above the harbour, with a central square shaded by old trees and a handful of streets laid out in the colonial grid pattern that the Portuguese established here in 1502. From 1753 to 1852 it was the colonial capital of the entire São Tomé and Príncipe territory, which explains why a settlement of this size has such handsome public buildings.

@@ -15,6 +15,7 @@ story: >
   spinach. Each morning the vegetable market convenes on the water: shikara after
   shikara loaded with produce, the sellers poling through the early mist to reach
   buyers before the tourists wake up.
+score: 9.6
 ---
 
 Dal Lake is the reason Srinagar exists. This 18-square-kilometre body of water in the heart of the city functions simultaneously as a neighbourhood, a highway, a market, and a garden. The houseboats along its shore range from modest wooden rooms to elaborately carved Victorian-era floating palaces. The shikaras that cross it carry everything from tourists on sunset rides to LPG cylinders and wedding guests. The floating gardens on the lake's surface are farmed by families who have worked the same plots for generations.

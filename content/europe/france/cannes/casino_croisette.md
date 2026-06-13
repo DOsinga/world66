@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.5506
 longitude: 7.0181
+score: 5.4
 ---
 
 The Casino Croisette, part of the Barrière group, is one of two major casinos in Cannes and the one with the best address — adjacent to the Palais des Festivals on the seafront. It operates a full complement of table games (roulette, blackjack, baccarat) alongside slot machines, a bar, and a restaurant. Dress code applies: jacket and tie are required in the main gaming rooms.

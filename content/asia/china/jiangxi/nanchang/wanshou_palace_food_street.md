@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 28.6815
 longitude: 115.8992
+score: 6.9
 ---
 
 The commercial street surrounding Wanshou Palace has been developed into one of the city's main culinary destinations, with restaurants serving Jiangxi dishes alongside snack vendors, tea houses, and dessert shops in restored Qing-dynasty shophouses. The selection is genuinely local rather than generic — you'll find clay-pot dishes, freshwater crab, smoked pork with dried chilli (熏肉), and the Jiangxi version of steamed fish with black bean sauce that the city does particularly well.

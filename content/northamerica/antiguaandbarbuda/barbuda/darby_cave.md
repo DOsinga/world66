@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.6592
 longitude: -61.7750
+score: 7.4
 ---
 
 Darby Cave is a large sinkhole in the Barbuda Highlands, formed when the roof of an underground limestone cavern collapsed centuries ago. The result is a circular pit about 100 metres across and 15 metres deep, its walls overgrown with vegetation that cannot survive on the dry plateau above. Ferns, orchids, and small trees fill the cave's interior, creating a microclimate entirely different from the scrubland that surrounds it.

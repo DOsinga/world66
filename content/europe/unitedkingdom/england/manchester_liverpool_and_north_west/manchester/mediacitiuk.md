@@ -10,6 +10,7 @@ type: poi
 snippet: The BBC's northern headquarters — a modern media campus on the Salford waterfront
 sources:
   - https://en.wikipedia.org/wiki/MediaCityUK
+score: 6.3
 ---
 
 MediaCityUK, on the waterfront at Salford Quays, is the BBC's northern headquarters and home to ITV Studios, Dock10 studios, and a growing cluster of media and technology companies. It is a purpose-built media campus opened in 2011, and the BBC's move here was one of the largest relocations in British broadcasting history.

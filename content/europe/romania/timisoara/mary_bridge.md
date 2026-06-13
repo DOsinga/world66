@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.4
 ---
 
 The Mary Bridge (Podul Mariei) crosses the Bega Canal at the western edge of central Cetate, a concrete arched span of the inter-war period that replaced an earlier wooden bridge. It is named after the small St. Mary chapel and statue on the south side of the bridge.

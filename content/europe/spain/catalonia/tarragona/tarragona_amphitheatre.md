@@ -12,6 +12,7 @@ tags:
 snippet: "2nd-century Roman amphitheatre dug into the cliffs above the beach — the most dramatically sited ruin in Spain"
 story: >
   In 259 AD, the Christian bishop Fructuosus and two deacons were burned alive in the centre of this amphitheatre on the orders of Emperor Valerian. The execution made them the first recorded Christian martyrs in Hispania, and a Visigothic basilica was later built directly on top of the arena floor to mark the spot. The basilica was destroyed in the Muslim conquest, rebuilt by the Knights Templar in the 12th century, and the surviving walls of both churches are still visible in the centre of the ruin today.
+score: 9.0
 ---
 
 A 2nd-century Roman amphitheatre dug into the soft sandstone cliffs directly above the Mediterranean, with a capacity of around 14,000 spectators and a view that you won't find at any other surviving Roman amphitheatre — the cavea opens directly onto the sea. The arena was used for gladiatorial combat and animal hunts until the late 4th century, after which it was variously used as a quarry, a church, and a prison.

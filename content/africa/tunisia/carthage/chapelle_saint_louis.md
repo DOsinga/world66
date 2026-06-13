@@ -14,6 +14,7 @@ tags:
 - historic
 title: Chapelle Saint-Louis de Carthage
 type: poi
+score: 5.1
 ---
 
 The Chapelle Saint-Louis de Carthage was a small Roman Catholic chapel built in 1840 by the French — well before the formal French protectorate over Tunisia — to mark the supposed site of the death of King Louis IX during the Eighth Crusade in 1270. It was the precursor to the much larger Acropolium of Carthage on the Byrsa hill above and reflects the French colonial fascination with both Carthage as Crusader battleground and Saint Louis as patron of French Catholic Tunisia.

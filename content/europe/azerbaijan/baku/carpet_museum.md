@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The building itself looks like a giant rolled carpet — a fairly literal piece of architecture by Austrian designer Franz Janz, opened in 2014. The collection moved here from the former Lenin Museum on Neftchilar Avenue."
+score: 8.0
 ---
 
 The Carpet Museum is exactly what it sounds like: three floors of Azerbaijani carpets grouped by region — Tabriz, Karabakh, Shirvan, Quba, Baku, Ganja — with each style displayed alongside the tools, dyes, and looms used to make it. The labelling is good and the staff are knowledgeable enough to walk you through the symbolism if you ask.

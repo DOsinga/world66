@@ -10,6 +10,7 @@ latitude: 36.3700
 longitude: 140.4731
 story: >
   Arata Isozaki designed the tower as a "monument to the future" for Mito's centenary as a city in 1990. The 100-metre titanium spiral is composed of 28 equilateral triangles arranged in a helix — the same number as Mito's founding year of 1869, if you squint at the numerology. Isozaki described it as a form that "grows endlessly upward without ever completing itself."
+score: 7.3
 ---
 
 The Art Tower Mito is a cultural complex centring on a 100-metre spiral tower of gleaming titanium panels designed by architect Arata Isozaki and completed in 1990. It contains a contemporary art gallery (ATM), a concert hall with excellent acoustics, and a theatre for dance and performance. The tower itself is a landmark visible from across the city.

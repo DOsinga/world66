@@ -8,6 +8,7 @@ tags:
   - sight
 title: Monument to the Heroes of Cavite
 type: poi
+score: 6.2
 ---
 
 The Monument to the Heroes of Cavite and Santiago de Cuba stands near the waterfront and commemorates Spanish sailors killed in the naval battles of 1898. It is a sober piece of public art, tied to the moment when Spain lost the last large pieces of its overseas empire.

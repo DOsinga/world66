@@ -10,6 +10,7 @@ tags:
 - bar
 title: Norman
 type: poi
+score: 5.2
 ---
 
 A small, cozy bar on Hilel Hazeken street that feels like someone's living room. Norman keeps at least five draught beers on tap alongside a serious whiskey selection, with a soundtrack of jazz, blues, and rock. The intimate size is both its charm and its limitation — it fills up fast, so come early if you want a seat.

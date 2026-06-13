@@ -13,6 +13,7 @@ story: >
   boundary runs through this part of the Ksani valley. Access can be uncertain
   and the situation on the ground changes. Check the current state of the
   conflict zone before attempting to visit.
+score: 5.8
 ---
 
 The Largvisi Monastery is a medieval Georgian Orthodox foundation in the village of Largvisi, a few kilometres north of Tskhavati in the Ksani river valley. Like Tskhavati, it sits in the part of Shida Kartli that became a conflict zone after the 2008 war between Georgia and Russia, and the area's disputed political status has left its heritage poorly documented and minimally conserved.

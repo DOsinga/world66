@@ -12,6 +12,7 @@ story: >
   warships. The entire peninsula can be walked end to end in under an hour, and the
   density of historic sites relative to its size is extraordinary for a Philippine
   provincial city.
+score: 7.3
 ---
 
 The old Cavite City peninsula, known locally as Cavite Proper, repays a slow afternoon on foot. The streets are narrow, the buildings are a mix of Spanish colonial, American-era, and mid-20th century architecture, and the atmosphere is genuinely unhurried compared to Manila. Several heritage sites are within easy walking distance of each other.

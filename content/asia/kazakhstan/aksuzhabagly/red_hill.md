@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 story: "The hill turns scarlet for two weeks in late April when the wild Greig tulips bloom — botanists from across Europe time their visits to the day. The flowers are the genetic ancestors of every cultivated tulip on earth, growing wild on the slopes exactly as they did before humans discovered them."
+score: 7.8
 ---
 
 Red Hill is the easiest and most popular trek from Zhabagly village, a day trip on foot or horseback that climbs to around 2,000 metres. The main reason to go is the Greig tulip bloom in late April — entire hillsides turn red, with smaller patches of yellow Kaufmann tulips and white Regel tulips mixed in.

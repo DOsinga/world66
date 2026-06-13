@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.269
 longitude: 35.572
+score: 7.8
 ---
 
 The Iyyon Nature Reserve lies on the western edge of Metula, where the Iyyon Stream (Nahal Iyyon) cuts through a narrow gorge on its way to join the Hasbani River in Lebanon. The gorge trail is one of the best short walks in the upper Galilee: it descends through a cool, shaded canyon with four waterfalls — Tanur, Cascade, Iyyon, and Shulamit — over a 4 km route.

@@ -18,6 +18,7 @@ story: >
   misfortune. The village elders were eventually persuaded to allow access, and
   within a few years Gocta had become northern Peru's second most visited attraction
   after Kuélap.
+score: 9.1
 ---
 
 The 770-metre Gocta Falls drops in two stages through cloud forest in the Chachapoyas region — one of the tallest waterfalls in the world, and barely known outside Peru until 2005.

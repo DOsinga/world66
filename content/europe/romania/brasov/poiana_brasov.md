@@ -7,6 +7,7 @@ snippet: Romania's best-known ski resort, twelve kilometres above the city
 tags:
 - things_to_do
 - sight
+score: 6.8
 ---
 
 Poiana Brasov is a small ski resort spread across a meadow at 1,030 metres, twelve kilometres up the hill from the city. By Alpine standards it is modest — about 25 kilometres of pistes served by half a dozen lifts — but the skiing is cheap, the slopes are well-groomed, and the snow is normally reliable from mid-December to late March.

@@ -6,6 +6,7 @@ tags:
 - market
 title: Mercado Independencia
 type: poi
+score: 6.3
 ---
 The Mercado Independencia is the working heart of Los Mochis, a covered market in the city centre where locals shop for fruit, vegetables, meat, and dry goods. It is the cheapest and most straightforward place to stock up on supplies before boarding the Chepe, and the food stalls inside serve solid, no-frills breakfasts and lunches.
 

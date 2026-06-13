@@ -12,6 +12,7 @@ story: >
   commanders of opposing fleets were treated under the same roof. The battle was Napoleon's only naval
   victory over Britain in the Napoleonic Wars, and it is the only naval battle name inscribed on the Arc
   de Triomphe in Paris.
+score: 7.8
 ---
 
 The National History Museum occupies a handsome French colonial mansion built in the 18th century. Its collection covers the full history of Mauritius from the first Dutch settlers through the French and British colonial periods, including the era of slavery and indentured labour that shaped the island's multiethnic population. The exhibits include period furniture, weapons, maps, and artefacts from the colonial era, as well as items salvaged from the French warships that fought at Grand Port.

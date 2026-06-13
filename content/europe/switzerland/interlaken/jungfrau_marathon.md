@@ -7,6 +7,7 @@ tags:
 - sight
 title: Jungfrau Marathon
 type: poi
+score: 6.3
 ---
 
 The Jungfrau Marathon starts on the Höhenmatte meadow in Interlaken and climbs continuously for 42 kilometres to the Kleine Scheidegg at 2,061 metres, with 1,800 metres of altitude gain and the Eiger, Mönch and Jungfrau looming over the final stretch. It consistently appears on lists of the world's most beautiful — and most merciless — marathons.

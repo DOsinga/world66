@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/St_Andrews_Cathedral
 story: >
   When the cathedral was consecrated in 1318, King Robert the Bruce rode his horse into the nave as part of the celebrations. The building took 158 years to construct and, at 391 feet long, was by far the largest church in Scotland. It stood complete for only 222 years before the Reformation mob reduced it to rubble in 1559 — less time than it had taken to build.
+score: 9.1
 ---
 
 The ruins of St Andrews Cathedral stand at the eastern end of town on a headland above the sea, and even in their wrecked state they are impressive enough to justify the walk. Founded in 1158 and consecrated in 1318, the cathedral was the seat of the Primate of Scotland — effectively the headquarters of the Scottish church — and the most important religious building in the country. What you see now is essentially the shell: the west facade with its twin towers largely standing, the eastern gable intact, and the south wall of the nave open to the sky.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: Islas Cíes
 type: poi
+score: 9.2
 ---
 
 The Islas Cíes form part of the Atlantic Islands of Galicia National Park —

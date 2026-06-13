@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, wildlife]
 latitude: 10.4679
 longitude: -84.6427
+score: 7.7
 ---
 
 The La Fortuna area is excellent for wildlife despite its level of tourism. The forests around the volcano and along the rivers hold sloths (both two-toed and three-toed), howler and spider monkeys, dozens of frog species including the iconic red-eyed tree frog, caimans along the Laguna de Arenal and smaller waterways, and over 400 bird species. Toucans — specifically the keel-billed toucan and the collared aracari — are almost comically common. Hummingbirds are attracted to the flowers at almost every lodge.

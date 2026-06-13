@@ -4,6 +4,7 @@ type: poi
 latitude: 36.0064
 longitude: -78.9136
 tags: [things_to_do, sight, neighbourhood]
+score: 7.0
 ---
 
 Duke's East Campus — the original Trinity College, founded in 1838 — sits about a mile east of the more famous West Campus and feels markedly different. The architecture is red-brick Georgian rather than Gothic limestone, the lawns are open and welcoming, and the 1.5-mile gravel loop around the perimeter is a Durham institution for joggers and dog-walkers.

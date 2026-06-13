@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - theatre
+score: 7.6
 ---
 
 Cluj is one of very few cities to have two state operas — the Romanian one near Piața Avram Iancu and the Hungarian one at the western end of the Central Park. Founded in 1948, the Hungarian Opera continues to perform a full Hungarian-language repertoire and is one of the most important Magyar cultural institutions outside Hungary.

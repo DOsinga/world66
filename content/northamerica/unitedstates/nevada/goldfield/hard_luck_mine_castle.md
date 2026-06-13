@@ -6,6 +6,7 @@ longitude: -117.2000
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Out in the desert south of Goldfield, on a working claim, a single resident named Randy Johnston has been building a multi-storey stone castle on top of an active gold mine for decades. The structure is part folly, part fortress, with crenellated walls, a turret, an internal mine shaft, salvaged stained glass, and improvisations that change every visit. The owner has historically welcomed visitors who arrange ahead — there is a phone number, an inconsistent website, and an entrance fee.

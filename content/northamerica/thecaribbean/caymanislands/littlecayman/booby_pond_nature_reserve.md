@@ -9,6 +9,7 @@ latitude: 19.65
 longitude: -80.0667
 story: >
   The Booby Pond colony holds around 5,000 nesting pairs of red-footed boobies — the largest colony in the western Caribbean. The birds nest in the mangroves around the pond and fly out to feed at sea each day, often returning past sunset in formation. A Ramsar Convention site since 1994, the lagoon also supports the Cayman magnificent frigatebird, herons, ospreys, and migrating waders.
+score: 8.4
 ---
 
 The Booby Pond Nature Reserve is a 24-hectare hypersaline lagoon ringed by red and black mangroves on the south-west side of Little Cayman, immediately across the road from the airfield. The colony of red-footed boobies — bright white seabirds with pale blue beaks and the namesake red feet — has been continuously nesting here for centuries. A two-storey wooden viewing platform run by the National Trust gives raised views over the pond and into the mangroves; binoculars and a spotting scope are kept here for visitor use.

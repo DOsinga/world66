@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Henry Street was Roanoke's Black main street through the segregation era. The Dumas Hotel, opened in 1917, was one of a handful of Black-owned hotels in the South where touring Black musicians could lawfully stay. Duke Ellington, Count Basie, Cab Calloway, Louis Armstrong and Ella Fitzgerald all stayed and played here on tour."
+score: 6.9
 ---
 
 Henry Street is a short block of buildings just north of the railway tracks that was, from the 1900s to the 1970s, the social, cultural and commercial core of Black Roanoke. The Hotel Dumas, the Ebony Club, the Magic City Pharmacy and the Strand Theatre were among more than 200 Black-owned businesses on or near the block.

@@ -7,6 +7,7 @@ tags:
 - bar
 title: Mena House Bar
 type: poi
+score: 5.5
 ---
 
 The Mena House Hotel is one of the few places in the immediate pyramid area where you can get a cold beer or a properly made cocktail in civilised surroundings. The bar occupies a terrace and interior salon inside the original hunting lodge building, which retains its original carved ceilings, tilework, and period furniture. Churchill, Roosevelt and Stalin's representatives stayed here during World War II; the atmosphere still has something of that era's solidity.

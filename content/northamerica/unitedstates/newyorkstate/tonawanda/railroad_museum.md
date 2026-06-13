@@ -6,6 +6,7 @@ longitude: -78.8734
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 A small all-volunteer museum housed in the 1922 New York Central station on Oliver Street, devoted to the local railroad history of the Niagara Frontier — the corridor between Buffalo and Niagara Falls that once carried more freight than almost any rail line in the eastern United States.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The Manta culture, which dominated this coast from roughly 600 AD to the Spanish arrival, were among the great ocean-going traders of the pre-Columbian Americas. They built ocean-worthy balsa rafts and reached as far north as western Mexico, trading red Spondylus shell — sacred to Andean cultures — for goods unobtainable in Ecuador."
+score: 7.6
 ---
 
 The city's main museum, on the Malecón near Playa Murciélago, with a good collection of ceramics, stone U-shaped seats (sillas Manteñas), and gold ornaments from the Manta and Chorrera cultures. Some pieces date from 3,500 BC; the most striking are the carved stone thrones the Manta nobility used, found at sites across Manabí.

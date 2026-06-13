@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The Wrigley Mansion, now headquarters of the Tournament of Roses
 type: poi
+score: 6.8
 ---
 
 Tournament House is the former Wrigley family mansion (as in William Wrigley Jr. of the chewing gum fortune), now the official headquarters of the Pasadena Tournament of Roses Association. The Italian Renaissance building was donated to the city of Pasadena by William Wrigley III in 1958 on the condition that it be used for Tournament of Roses activities. It houses the association's offices year-round and a small museum about the parade and the Rose Bowl game.

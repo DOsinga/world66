@@ -14,6 +14,7 @@ story: >
   primary physical evidence that he existed at all — no dynasty followed him,
   no coins bear his image, and most of what we know of him comes from the
   inscriptions on these stones.
+score: 7.5
 ---
 
 At Sondhni, a village a few kilometres from Mandsaur, stand two tall victory pillars (vijaya stambhas) erected by King Yashodharman in the sixth century CE to commemorate his defeat of the Huna — the Central Asian nomads who had been pushing into the subcontinent as the Gupta empire weakened. The inscriptions on the pillars describe campaigns ranging from the Himalayas to the southern sea, suggesting a rule of considerable scope.

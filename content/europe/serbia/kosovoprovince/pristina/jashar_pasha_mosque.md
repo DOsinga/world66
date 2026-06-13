@@ -8,6 +8,7 @@ latitude: 42.666
 longitude: 21.1664
 sources:
   - https://en.wikipedia.org/wiki/Jashar_Pasha_Mosque
+score: 6.3
 ---
 
 The Jashar Pasha Mosque is one of Pristina's finest surviving Ottoman mosques, situated in the old bazaar quarter beside the Great Hammam. Built in the 18th century, the mosque is notable for its elegant proportions and well-preserved interior decoration — painted ceilings with floral and geometric motifs that are quite different from the plain whitewashed interiors common in Albanian mosques.

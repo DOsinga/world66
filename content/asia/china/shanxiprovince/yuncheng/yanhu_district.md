@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.015
 longitude: 110.9983
+score: 6.5
 ---
 
 The Yanhu (Salt Lake) District is the part of Yuncheng city that directly borders the lake, and the name — literally "salt lake district" — reflects the centuries when the lake was the city's reason for existing. The waterfront area has been developed as a promenade and park, with views across the salt pans toward the coloured water visible in summer. The residential streets behind the promenade have a lived-in quality that the more developed tourist areas lack, and the morning market near the old salt trade warehouses is a good place to eat breakfast.

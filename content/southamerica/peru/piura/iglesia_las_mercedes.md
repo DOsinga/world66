@@ -7,6 +7,7 @@ tags:
   - church
 latitude: -5.1957
 longitude: -80.6335
+score: 6.5
 ---
 
 A handsome white-stuccoed colonial church a few blocks west of the Plaza de Armas, with twin bell towers and a richly carved wooden interior. Originally founded by the Mercedarian order in the early 1600s, the building has been rebuilt several times after earthquakes.

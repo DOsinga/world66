@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Conservation park with kiwis and other native birds
+score: 6.9
 ---
 
 A five-acre wildlife park at the foot of the Skyline gondola, set up as a breeding and recovery centre for kiwi, kea, tuatara, and other native species. The kiwi house — kept dim to suit nocturnal birds — is the only reliable place in Queenstown to see one, and the staff feeding talks throughout the day are surprisingly substantive.

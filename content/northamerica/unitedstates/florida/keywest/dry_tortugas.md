@@ -12,6 +12,7 @@ story: >
   Fort Jefferson, the massive hexagonal fortress at the Dry Tortugas, was built to guard the Gulf of Mexico shipping lanes and took 30 years to construct — yet was never finished and never fired a shot in anger. Its most famous prisoner was Dr. Samuel Mudd, sentenced to life imprisonment for setting the broken leg of John Wilkes Booth after Lincoln's assassination, unaware of what Booth had done.
 sources:
   - https://en.wikipedia.org/wiki/Dry_Tortugas_National_Park
+score: 9.5
 ---
 
 The Dry Tortugas are a cluster of seven small islands 70 miles west of Key West, accessible only by seaplane or ferry. The main attraction is Fort Jefferson, one of the largest coastal brick fortifications ever built — a massive hexagonal structure rising from the sea, begun in 1847 and never completed. The fort takes up nearly the entire island of Garden Key.

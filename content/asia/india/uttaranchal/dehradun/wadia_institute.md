@@ -6,6 +6,7 @@ longitude: 78.0131
 tags:
   - things_to_do
   - museum
+score: 7.5
 ---
 
 The Wadia Institute is the leading research centre on Himalayan geology in India and runs a small but excellent public museum on its campus — exhibits cover the formation of the Himalayas, plate tectonics, glaciers, earthquakes, and the fossil record of the Shivalik foothills.

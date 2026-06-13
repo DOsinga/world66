@@ -8,6 +8,7 @@ tags:
 latitude: 43.7237
 longitude: 12.6373
 story: "Federico's architects built a spiral horse ramp under the city so that the duke could ride directly from the stables (the Data) up into the palace courtyard above. Mounted servants could resupply the palace without ever crossing public streets — a 15th-century logistical hack carved straight into the cliff."
+score: 8.1
 ---
 
 Tucked at the western base of the Palazzo Ducale is an extraordinary piece of Renaissance engineering: a wide spiral ramp climbing through the rock from the former stables (the *Data*) to the palace courtyard far above. Big enough for horses, lit by occasional windows, it allowed the duke's household to move animals and goods invisibly into the palace.

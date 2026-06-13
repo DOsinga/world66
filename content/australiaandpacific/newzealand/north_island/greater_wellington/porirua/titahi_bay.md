@@ -8,6 +8,7 @@ tags:
 latitude: -41.108
 longitude: 174.832
 story: The brightly painted boat sheds at the north end of the beach are heritage-protected and have been there since the 1930s. They were originally built by working-class Wellington families who couldn't afford holiday cribs but wanted somewhere to store gear and shelter from the wind on weekends at the beach.
+score: 7.1
 ---
 
 Titahi Bay is the long, exposed surf beach on the western side of the Porirua peninsula. The beach faces the Tasman Sea and gets a much heavier swell than the sheltered Plimmerton side — surfers and bodyboarders do well here, swimmers should stay between the flags in summer.

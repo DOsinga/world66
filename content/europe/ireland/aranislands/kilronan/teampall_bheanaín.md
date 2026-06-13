@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1025
 longitude: -9.6661
+score: 7.6
 ---
 
 Teampall Bheanaín — St. Benignus's Church — is a tiny oratory near the village of Killeany, often claimed to be the smallest church in Ireland. It is probably 8th to 10th century, built of dry-laid limestone, and is largely intact despite its age. The peculiarity that has puzzled archaeologists for years is its orientation: where virtually every early Christian church in Ireland is aligned east-west (altar facing east toward Jerusalem), Teampall Bheanaín runs north-south. No one has produced a fully satisfying explanation.

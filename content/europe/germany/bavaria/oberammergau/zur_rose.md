@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 address: Dedlerstrasse 9
+score: 6.3
 ---
 
 Zur Rose is the village's reliable Bavarian inn, a few doors from the parish church and run by the same family for several generations. The menu sticks to the regional standards — roast pork with dumplings, Käsespätzle, Wiener schnitzel, Tafelspitz — done properly rather than reinvented.

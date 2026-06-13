@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.8780
 longitude: 125.3100
+score: 5.3
 ---
 
 The streets immediately surrounding Jilin University have developed into the city's principal student bar district — the concentration of universities in this area generates a captive market for affordable food, coffee, and drinking establishments that has shaped the neighbourhood's commercial character. The bars here are the informal type: cheap beer, snacks, music loud enough to prevent conversation but not to preclude it.

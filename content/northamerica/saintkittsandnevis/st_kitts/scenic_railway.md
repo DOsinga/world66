@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The narrow-gauge railway was built between 1912 and 1926 to carry sugar cane to the central mill at Basseterre. When the sugar industry collapsed in 2005 the tracks were saved from being torn up and converted to a tourist train — the only working scenic railway in the eastern Caribbean."
+score: 7.0
 ---
 
 A three-hour loop around the perimeter of the island on the old sugar-cane railway, now refitted with double-decker carriages and an open upper deck. The train rolls past former plantation estates, sugar-mill ruins, small villages, and stretches of coastline where the Atlantic crashes against black volcanic cliffs.

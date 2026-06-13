@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 39th Expressway alignment through Bethany was opened in 1932 as a bypass of an earlier Route 66 route, and quickly became the main commercial strip of town. Many original buildings — the Mobil station, the Triple X drive-in, a clutch of small motels — survived the interstate era because Bethany was never on I-40."
+score: 7.6
 ---
 
 Bethany sits on a particularly intact stretch of Historic Route 66, which runs through town along the 39th Expressway. The road's heyday lasted from the early 1930s into the 1960s, and the alignment retains a clearly readable streetscape from that period — modest brick storefronts, a former Mobil filling station, signs in mid-century neon, and a couple of motel survivors.

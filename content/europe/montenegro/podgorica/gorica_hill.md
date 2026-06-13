@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4380
 longitude: 19.2490
+score: 7.1
 ---
 
 Gorica Hill is Podgorica's green lung — a forested park rising from the western edge of the city centre, with marked walking and jogging trails through pine and oak forest. It's not a demanding climb, and from the upper paths you get panoramic views across the city and out toward the surrounding mountains.

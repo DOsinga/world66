@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7602
 longitude: -118.1893
+score: 6.3
 ---
 
 Shoreline Village is a small waterfront shopping and dining complex that manages to avoid most of the pitfalls of designed tourist attractions. The harbour views are genuinely good — you look across to the Queen Mary at her berth, and the combination of the historic liner against the working port makes for an unusually interesting skyline. The restaurants and shops are nothing special, but the outdoor boardwalk along the water is pleasant for a walk.

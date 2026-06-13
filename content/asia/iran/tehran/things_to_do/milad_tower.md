@@ -8,6 +8,7 @@ latitude: 35.7447
 longitude: 51.3753
 story: >
   When Milad Tower was completed in 2007, it was the world's sixth-tallest tower and the tallest structure in Iran. It also cost roughly $350 million to build — approximately 10% of Iran's entire national construction budget for the year. The decision to build it was made during the reform-era presidency of Mohammad Khatami, who wanted a symbol of Iranian modernity that did not reference the revolution. The building's spiralling form, loosely inspired by the cypress tree (a Persian symbol of eternity), avoids all revolutionary iconography.
+score: 7.0
 ---
 
 Milad Tower is Tehran's most prominent landmark from a distance — a 435-metre communications tower with a revolving restaurant and observation deck visible from most of the city on clear days. It stands in western Tehran near the Iran International Exhibition centre and has become the default backdrop for aerial shots of the city.

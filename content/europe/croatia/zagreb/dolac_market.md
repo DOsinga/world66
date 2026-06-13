@@ -9,6 +9,7 @@ tags:
 - sight
 - market
 - donji_grad
+score: 8.7
 ---
 
 Dolac, the "belly of Zagreb," is a working farmers' market that has been on this site since 1930. The upper, open-air level is a sea of red parasols — a Zagreb signature — under which stallholders sell whatever is in season: strawberries and cherries in summer, mushrooms and pumpkins in autumn, *zelje* and *kiseli kupus* (sauerkraut) in winter. The lower, covered level is the meat, dairy, and fish market, where Croatian cheeses (Pag, Lika), prosciutto from Istria and Dalmatia, and Adriatic seafood are all on display.

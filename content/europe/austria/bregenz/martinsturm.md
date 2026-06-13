@@ -11,6 +11,7 @@ tags:
 neighbourhood: Oberstadt
 story: >
   The Martinsturm is said to be the largest onion dome in the German-speaking world, added to an otherwise plain medieval tower in 1601 — an architectural non-sequitur that somehow works. The tower was once part of the city's defences; the dome was added when the fortifications lost their military function and the Habsburgs wanted something more decorative.
+score: 7.5
 ---
 
 The Martinsturm is the most distinctive landmark of the Oberstadt, a medieval defensive tower capped with a huge copper onion dome that gleams green above the old town rooftops. The combination of squat fortress below and baroque flourish above is distinctly odd and immediately recognisable.

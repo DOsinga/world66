@@ -12,6 +12,7 @@ tags:
 - museum
 title: National Institute for Zorig Chusum
 type: poi
+score: 7.0
 ---
 
 A government arts and crafts school in southern Thimphu where students train in the 13 traditional arts of Bhutan. Visitors can walk through the studios and watch students at work: painting thangkas, carving wood, casting bronze, embroidering silk, or weaving. The level of skill on display — from first-year students to advanced practitioners — is impressive. There is no hard-sell; students are working and generally happy to explain what they are doing. One of the most authentic craft experiences available in the capital. Open weekday mornings.

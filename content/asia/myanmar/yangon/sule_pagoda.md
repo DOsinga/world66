@@ -12,6 +12,7 @@ story: >
   The result is a gilded Buddhist stupa rising from the middle of a traffic
   circle, surrounded by colonial-era government buildings. Pagoda and empire,
   eye to eye.
+score: 7.6
 ---
 
 The Sule Pagoda stands at the geographical centre of downtown Yangon, rising from the middle of a busy roundabout on Sule Pagoda Road. The stupa is said to be 2,000 years old, making it one of the oldest in Myanmar, though the current structure dates from various reconstructions over the centuries. At 46 metres, it is a smaller and more intimate sight than the Shwedagon, but its setting — surrounded by colonial government buildings — gives it a distinctive character.

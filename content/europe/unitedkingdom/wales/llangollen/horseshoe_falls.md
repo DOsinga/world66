@@ -8,6 +8,7 @@ latitude: 52.9814631
 longitude: -3.1988876
 sources:
   - https://en.wikipedia.org/wiki/Horseshoe_Falls_(Wales)
+score: 6.6
 ---
 
 Horseshoe Falls is a weir on the River Dee, built by Thomas Telford in 1808 to create the head of water needed to feed the Llangollen Canal. The horseshoe shape maximises the length of weir for the width of river, and Telford's design has continued to operate successfully for over 200 years. The water that passes over this weir eventually supplies Liverpool's drinking water, carried eastward through the canal system.

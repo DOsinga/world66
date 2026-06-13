@@ -6,6 +6,7 @@ longitude: -89.5162
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Big Bad Breakfast is the all-day breakfast restaurant that John Currence opened a few blocks north of the Square in 2008 — and which has since grown into a small Southern chain. The Oxford original is still the best of them. The menu is intentionally over-the-top Southern: hand-cut bacon (cured on site), thick biscuits with redeye gravy, eggs from a Mississippi farm, hot pepper jam.

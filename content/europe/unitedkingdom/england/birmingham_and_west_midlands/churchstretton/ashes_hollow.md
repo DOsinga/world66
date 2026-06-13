@@ -10,6 +10,7 @@ latitude: 52.5240
 longitude: -2.8310
 sources:
   - https://en.wikipedia.org/wiki/Long_Mynd
+score: 7.8
 ---
 
 Ashes Hollow is the most rewarding of the quieter valleys cutting up into the Long Mynd from the south. Where Carding Mill Valley can feel crowded on summer weekends, Ashes Hollow — accessed from Little Stretton village, 2 miles south of Church Stretton — sees a fraction of the visitors. The stream tumbles over small falls as the valley narrows, the path picking its way up through bracken and heather to reach the plateau above.

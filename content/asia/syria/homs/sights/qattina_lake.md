@@ -9,6 +9,7 @@ tags:
 - sight
 title: Qattina Lake
 type: poi
+score: 6.4
 ---
 
 Qattina Lake (also called Lake Homs) sits about 15 km south of the city. Created by one of the oldest dams in the world — originally built in Roman times and possibly earlier — the lake is fed by the Orontes River and was historically central to the region's agriculture.

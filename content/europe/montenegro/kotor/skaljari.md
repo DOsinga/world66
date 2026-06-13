@@ -6,6 +6,7 @@ longitude: 18.7664
 tags:
   - things_to_do
   - neighbourhood
+score: 5.3
 ---
 
 Škaljari is the residential neighbourhood that sits below the southern walls of the old town, on the road towards Tivat and Budva. It is where most Kotor residents actually live: low stone houses, family-run shops, a couple of small parks, and noticeably none of the prices of the old town a few hundred metres away.

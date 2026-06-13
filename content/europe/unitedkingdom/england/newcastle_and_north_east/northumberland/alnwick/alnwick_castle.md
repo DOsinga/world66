@@ -11,6 +11,7 @@ story: >
   Alnwick Castle appears in more films than almost any other English castle. The exterior doubled as Hogwarts School in the first two Harry Potter films, and the outer bailey was used for the broomstick-flying lessons. Before that, it appeared in Elizabeth (1998), Robin Hood: Prince of Thieves (1991), and Blackadder Goes Forth. The Percy family — who have owned the castle continuously since 1309 — take a pragmatic view of the filming income, which helps with the considerable costs of maintaining a medieval castle.
 sources:
   - https://en.wikipedia.org/wiki/Alnwick_Castle
+score: 9.5
 ---
 
 Alnwick Castle is the second largest inhabited castle in England, after Windsor, and it has been the home of the Percy family — Dukes of Northumberland — since 1309. The outer walls and towers are medieval and formidably intact; the interior was remodelled in the nineteenth century by Anthony Salvin and then decorated by the 4th Duke of Northumberland in an Italian Renaissance style, so the rooms are unexpectedly opulent for a north country fortress. The state rooms are open to the public and contain paintings by Titian, Canaletto, and Turner.

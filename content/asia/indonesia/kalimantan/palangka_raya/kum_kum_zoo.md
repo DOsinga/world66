@@ -7,6 +7,7 @@ tags:
 - wildlife
 title: Kum Kum Mini Zoo
 type: poi
+score: 5.4
 ---
 
 Kum Kum is a small riverside zoo and rescue centre on the eastern side of the Kahayan, reached by a short boat ride from town. It houses confiscated and orphaned Borneo wildlife — orangutans, sun bears, proboscis monkeys, hornbills — in conditions that are workmanlike rather than luxurious.

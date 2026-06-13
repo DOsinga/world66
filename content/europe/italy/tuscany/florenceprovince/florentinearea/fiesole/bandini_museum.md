@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.8066
 longitude: 11.2931
+score: 7.2
 ---
 
 The Museo Bandini occupies a small palazzo on Via Dupré, a short walk from the cathedral. It holds the collection assembled by Angelo Maria Bandini, an 18th-century canon of the cathedral who spent decades acquiring medieval and Renaissance works. The core of the collection is Tuscan panel painting from the 13th to 15th centuries — Byzantine-influenced gold-ground panels, early Florentine altarpieces, and a handful of pieces by artists from the circle of Giotto.

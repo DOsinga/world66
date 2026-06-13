@@ -10,6 +10,7 @@ longitude: -81.435
 snippet: 18 miles of undeveloped Atlantic beach — one of the longest wild beaches on the US East Coast
 story: >
   Cumberland Island's east beach is one of only a handful of stretches of Atlantic coast in the eastern United States without a single building on it. No road, no concession stand, no lifeguard, no development of any kind. In a region where virtually every accessible beach has been developed to some degree, this absence is itself extraordinary — and it exists because the Carnegies kept the island private for a century, then the federal government inherited what they'd preserved.
+score: 8.6
 ---
 
 The east beach runs the full 18-mile length of the island, a broad strip of white sand and dune backed by maritime forest and separated from the rest of the island by low dunes. There are no facilities anywhere on the beach — no food, no water, nothing. What there is: shells, shorebirds, loggerhead turtle nests from May to August, dolphins visible offshore on most days, and the Atlantic horizon.

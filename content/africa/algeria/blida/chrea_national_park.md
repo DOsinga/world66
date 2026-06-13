@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 Chréa National Park covers the slopes of the Tell Atlas above Blida — 26,000 hectares of pine, oak, and Atlas cedar forest rising to 1,629 metres at the summit of Sidi Abdelkader. The road from Blida climbs steeply for fifteen kilometres of switchbacks; the views back over the Mitidja plain are spectacular, and the air cools noticeably with altitude.

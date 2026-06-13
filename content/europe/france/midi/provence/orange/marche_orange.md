@@ -8,6 +8,7 @@ tags:
   - market
   - shopping
 snippet: Weekly Provençal market filling the streets around the Hôtel de Ville
+score: 7.1
 ---
 
 Every Thursday morning, the streets around the Hôtel de Ville and Place Clemenceau fill with the Thursday market — one of the largest in northern Provence, with about 250 stalls running from 7am to 1pm. The food half stretches along the central streets: Provençal olives, tapenades, cheeses, fresh produce from the surrounding *plaine*, charcuterie, and trays of *navettes* and *calissons*.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.5760
 longitude: 68.7860
+score: 7.9
 ---
 
 The main north-south boulevard of Dushanbe, running from the flagpole area south past the national library, parliament, and central park, is the spine of the city and its most pleasant neighbourhood for walking. The broad tree-lined sidewalks have been maintained and upgraded since independence, and the avenue has a genuine sense of civic pride.

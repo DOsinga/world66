@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.4439
 longitude: 77.7286
+score: 6.5
 ---
 
 Losar is the first village you reach when entering Spiti from the Manali direction, sitting at 4,079 metres at the foot of the Kunzum Pass road. It is a small settlement that serves mainly as a fuel and food stop for travellers crossing the pass, but the village itself has a simple charm: stone houses with carved wooden windows, prayer flags strung between rooftops, and the particular quality of quiet that high-altitude Himalayan villages share.

@@ -10,6 +10,7 @@ tags:
 - bar
 title: Rock Pub
 type: poi
+score: 5.9
 ---
 
 A Bangkok institution for fans of heavy metal and hard rock. Located opposite the Asia Hotel on Phayathai Road, within walking distance of Siam Square. The house bands take requests and the guitarists are genuinely impressive. Unpretentious, loud, and beloved by both Thai and foreign rock fans.

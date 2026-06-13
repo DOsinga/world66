@@ -8,6 +8,7 @@ tags:
   - historic_house
 latitude: 39.4036
 longitude: -84.5594
+score: 6.8
 ---
 
 The Lane-Hooven House is a mid-19th-century Italianate mansion that has survived well enough to stand as one of the best examples of the style in southwestern Ohio. The house dates from around 1863 and reflects the prosperity of Hamilton's manufacturing boom years. It's listed on the National Register of Historic Places and serves as a historic house museum.

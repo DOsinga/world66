@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.9370
 longitude: -7.8470
+score: 7.1
 ---
 
 Claycastle is Youghal's main beach, a broad sweep of sand stretching south from the town along the edge of Youghal Bay. It holds a Blue Flag award and is one of the better beaches on the south Cork coast — wide enough that it rarely feels crowded, with clean water and enough space to set up well away from other visitors.

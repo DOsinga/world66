@@ -8,6 +8,7 @@ tags:
 - sight
 title: Mbudya Island
 type: poi
+score: 7.9
 ---
 
 Mbudya lies about three kilometres offshore from Kunduchi, north of the city — twenty minutes by motor boat from the resort beach there. It is the quieter and more rustic of the two main day-trip islands; no permanent buildings, a few sun-bleached bandas, and a clutch of fishermen who grill the catch on driftwood fires.

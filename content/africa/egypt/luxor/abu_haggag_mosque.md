@@ -12,6 +12,7 @@ story: >
   The mosque was built in the 13th century in honour of Sheikh Abu Haggag al-Uqsuri, a Sufi mystic who settled in Luxor around 1150 CE. It sits inside the great pylon of Luxor Temple, built literally on top of the ancient structure when the temple was buried under accumulated debris. When archaeologists began clearing the temple in the 19th century, the mosque was already so deeply embedded — and so important to the local community — that it was left in place. Its floor level is several metres higher than the ancient temple floor below.
 sources:
   - https://en.wikipedia.org/wiki/Abu_Haggag_Mosque
+score: 7.8
 ---
 
 The Abu Haggag Mosque sits inside the first court of Luxor Temple, perched above the ruins on an accumulated layer of centuries. It is a working mosque, still in use by Luxor residents, and represents one of the most striking examples of religious palimpsest in Egypt — an Islamic sanctuary built into a pharaonic monument that was itself built over even earlier structures.

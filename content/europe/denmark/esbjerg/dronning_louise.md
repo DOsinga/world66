@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 55.4669
 longitude: 8.4525
+score: 6.2
 ---
 
 Dronning Louise — Queen Louise — has been the city's main restaurant on Torvet since 1891, occupying a tall yellow nineteenth-century building on the eastern side of the central square. The ground floor is a bustling brasserie serving smørrebrød, salads, and Danish standards; the more formal upstairs dining room does dishes built around local fish, beef tenderloin, and Wadden Sea oysters in season.

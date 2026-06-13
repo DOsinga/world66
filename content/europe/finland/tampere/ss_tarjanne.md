@@ -8,6 +8,7 @@ tags:
 latitude: 61.4950
 longitude: 23.7600
 story: "SS Tarjanne has been carrying passengers across Lake Näsijärvi since 1908, making it one of the longest-continuously-operating passenger steamships in the world. The 7-hour journey to Virrat passes through a landscape of islands, forested shores, and summer cottages that looks essentially unchanged from photographs taken in the 1930s. The engine room is open for inspection and the original steam machinery still runs."
+score: 7.6
 ---
 
 SS Tarjanne is a historic passenger steamship that runs a summer service from Laukontori in Tampere to the town of Virrat, 120 km north, traversing Lake Näsijärvi. The journey takes approximately 7 hours each way and passes through some of the most unspoilt inland waterway scenery in Finland.

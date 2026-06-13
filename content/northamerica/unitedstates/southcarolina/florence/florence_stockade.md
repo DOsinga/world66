@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Florence_Stockade
   - https://en.wikipedia.org/wiki/Florence_National_Cemetery
+score: 6.3
 ---
 
 The Florence Stockade was a Confederate prisoner-of-war camp operating in the final year of the Civil War, from September 1864 until the end of the war. Originally a hastily built outdoor stockade — no buildings, just a perimeter fence and trenches for shelter — it held tens of thousands of Union soldiers in conditions that became increasingly brutal as the Confederacy's supply situation collapsed. Disease, exposure, and inadequate food killed thousands.

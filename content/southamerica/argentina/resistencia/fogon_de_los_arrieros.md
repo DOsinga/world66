@@ -9,6 +9,7 @@ latitude: -27.4515
 longitude: -58.9869
 address: "Brown 350, Resistencia"
 story: "Founded in 1943 by a group of intellectuals around the writer Aldo Boglietti, the Fogón rejected the idea that art belonged in a museum. Members would gather, drink, argue, and over time persuade visiting sculptors to leave a work behind. The pieces grew into a permanent collection — and then spilled out of the building and onto Resistencia's streets, where they remain."
+score: 8.8
 ---
 
 The Fogón de los Arrieros — "the fire of the muleteers" — is the cultural centre that turned Resistencia from a provincial Chaco capital into the City of Sculptures. Founded in 1943 by writers, painters and architects, it grew into a peripatetic salon and a bohemian club: a place where artists from across Argentina stopped, drank, exchanged work and gradually filled the rooms with art.

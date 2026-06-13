@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 6.4
 ---
 
 Ramnaparken is the largest of Borås's central parks — a pleasant landscaped green space on the west side of the city built around a small lake and the open-air museum of Ramna. The park is the usual place for summer concerts and outdoor events, and the surrounding paths along the Viskan river are popular with runners and cyclists.

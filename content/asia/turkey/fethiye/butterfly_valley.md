@@ -8,6 +8,7 @@ tags:
 snippet: Secluded canyon beach accessible only by boat, home to the Jersey tiger moth
 latitude: 36.5349
 longitude: 29.0719
+score: 6.8
 ---
 
 Butterfly Valley is a narrow, steep-sided canyon that opens onto a small beach on the coast between Fethiye and Ölüdeniz. The valley is named for the Jersey tiger moth — a striking orange-and-black species — which breeds here in large numbers, particularly in June and July. The beach itself is a beautiful crescent of sand and pebbles backed by towering cliffs.

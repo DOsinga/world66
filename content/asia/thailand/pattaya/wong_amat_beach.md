@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9600
 longitude: 100.8847
+score: 7.1
 ---
 
 Wong Amat Beach is at the northern end of Pattaya, beyond the main resort strip. It is quieter and cleaner than central Pattaya Beach, and the high-end hotels that line it keep the beach relatively well-maintained. The water is calmer here and better for swimming.

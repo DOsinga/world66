@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Puente de Palmas
 type: poi
+score: 7.1
 ---
 
 The graceful 15th-century stone bridge that carries the road from Portugal across the Guadiana into Badajoz. It has 32 segmental arches and stretches almost 600 metres, making it one of the longest medieval bridges in Spain. The current bridge replaced an earlier wooden structure that was repeatedly swept away in floods.

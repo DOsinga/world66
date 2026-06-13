@@ -2,6 +2,7 @@
 title: "Lambert's Café"
 type: poi
 tags: [eating_out]
+score: 6.4
 ---
 
 Lambert's Café, 15 miles south of Springfield in the town of Ozark, is a Missouri institution built around a single tradition: the "throwed rolls." Hot yeast rolls are tossed from basket to table — or rather, to whoever in the dining room raises a hand — throughout the meal, and the practice has made Lambert's one of the most talked-about roadside restaurants in the United States. The original Lambert's opened in Sikeston, Missouri in 1942; the Ozark location opened in 1994 to handle overflow demand.

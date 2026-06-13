@@ -15,6 +15,7 @@ story: >
   During World War II the unfinished building was used to store artworks evacuated from Leningrad 
   and Moscow, including paintings from the Hermitage, while the construction continued around 
   the crates. It finally opened in 1945.
+score: 8.5
 ---
 
 The Novosibirsk Opera and Ballet Theatre — known locally simply as *NOVAT* — is the largest opera house in Russia and one of the most distinctive pieces of architecture in Siberia. The dome, which spans 60 metres, was the largest in the Soviet Union when it was completed, and the building as a whole is a monumental statement of Soviet cultural ambition planted emphatically in the middle of the Asian continent.

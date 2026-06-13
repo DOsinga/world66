@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.6315
 longitude: 120.5745
+score: 7.9
 ---
 
 The East Quarter is the older section of Wuzhen, more compact and museum-dense than the West. The main street follows a narrow canal past residences converted into displays of traditional life — an old pharmacy with its drawers of medicinal herbs, a bed museum showing the ornate carved wooden beds of wealthy Jiangnan families, and a leather-shadow puppet theatre that gives performances several times a day.

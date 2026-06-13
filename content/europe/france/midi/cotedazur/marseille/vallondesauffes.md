@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Vallon des Auffes
 type: poi
+score: 7.8
 ---
 
 Hidden just below the Corniche Kennedy, the Vallon des Auffes is Marseille at its most photogenic — a tiny natural harbour where traditional wooden pointus are still moored alongside fish restaurants that have served bouillabaisse for generations. The viaduct arches overhead and the traffic disappears; down here the pace slows to that of the fishermen spreading their nets. Several of the best bouillabaisse addresses in the city are on the quayside.

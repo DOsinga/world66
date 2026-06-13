@@ -1,6 +1,7 @@
 ---
 title: "Skenduli House"
 type: poi
+score: 8.8
 ---
 
 The Skenduli House is one of the finest kulla (tower houses) in Gjirokastër open to visitors, and arguably the best introduction to the domestic architecture that defines the city. Built in the 18th century, it is a classic example of the local style: a stone-walled lower floor used for storage, a vaulted middle floor for livestock and provisions during siege, and elaborate upper floors with carved wooden ceilings, built-in divans, and large windows designed to catch the mountain light. The Skenduli family still owns the property and typically conducts tours themselves, which gives the visit an unusual personal quality.

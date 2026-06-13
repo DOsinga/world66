@@ -7,6 +7,7 @@ tags:
 latitude: 46.4756
 longitude: 6.8514
 story: "Chaplin moved to the Manoir de Ban in 1953 after being effectively exiled from the United States during the McCarthy era. He lived here for the last 25 years of his life, raised eight children with Oona O'Neill, and is buried in the Corsier-sur-Vevey cemetery just up the road."
+score: 8.6
 ---
 
 Set in the Manoir de Ban — the elegant 19th-century mansion above Vevey where Charlie Chaplin lived for 25 years — Chaplin's World combines a biographical museum in the original house with a film studio across the courtyard. The studio recreates sets from City Lights, Modern Times, The Great Dictator, and others, with waxworks of Chaplin and contemporaries.

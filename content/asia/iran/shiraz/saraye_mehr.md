@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Saraye Mehr
 type: poi
+score: 6.1
 ---
 
 The Saray Moshir is a beautifully restored 19th-century caravanserai just off the Vakil Bazaar, now home to several shops, a hotel, and the Saraye Mehr restaurant on the upper floor. The dining room overlooks a small inner courtyard with a fountain and orange trees.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The three-storey facade of Amir Chakhmaq is one of the most photographed sights in Iran — a perfect symmetrical grid of arched niches and iwans that looks almost too regular to be real. It was built in the 15th century as a hosseinieh (a gathering place for Shia commemorations of Muharram) and still serves that function during Ashura, when a massive nakhl — a wooden palm-shaped bier representing the funeral of Imam Hussein — is carried through the square.
+score: 8.4
 ---
 
 The Amir Chakhmaq Complex centres on a grand three-storey mosque facade overlooking a large square in the middle of Yazd. The symmetrical grid of sunken arched niches, best seen just after sunset when it is lit up, is one of the iconic images of Iranian architecture. The square itself is a lively gathering spot with a traditional caravanserai, a bazaar entrance, and a restored ab anbar (underground water cistern) nearby.

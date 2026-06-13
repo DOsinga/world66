@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 snippet: "1962 shopping arcade with a fairground-style clock that performs the nursery rhyme every hour"
+score: 5.4
 ---
 
 A modest mid-century shopping arcade off the Elizabeth Street Mall, notable mainly for its **mechanical clock**. Every hour from 09:00 to 17:00, a small troupe of figures (the cat, the cow, the dish, the spoon, the moon) emerges to perform the *Hey Diddle Diddle* nursery rhyme to tinny mechanical music, much to the delight of any small children in the vicinity. The clock has been operating since the arcade opened in 1962 and has become a quiet Hobart landmark.

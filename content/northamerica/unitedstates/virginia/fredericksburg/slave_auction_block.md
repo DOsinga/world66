@@ -15,6 +15,7 @@ story: >
   plain granite curb — the mundane appearance is part of what makes it so striking.
 sources:
   - https://en.wikipedia.org/wiki/Slave_Auction_Block,_Fredericksburg
+score: 5.8
 ---
 
 The Slave Auction Block is a granite curb stone at the corner of William and Charles Streets that served as one of the principal auction sites for enslaved people in Fredericksburg from at least the 1820s through the Civil War. It is a simple object — unadorned stone, flush with the sidewalk — and the historical marker beside it is the only indication of what it signifies.

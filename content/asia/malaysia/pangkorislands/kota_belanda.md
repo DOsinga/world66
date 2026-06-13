@@ -8,6 +8,7 @@ story: >
   The Dutch East India Company (VOC) built its fort on Pangkor in 1670 to control the tin trade from the Perak interior. It was destroyed by the local Malay ruler within a few years. The Dutch rebuilt it in 1745, only to abandon it again shortly after. The restored ruins include a large carved stone that Dutch soldiers left as graffiti — a tiger attacking a child — still visible after 300 years.
 sources:
   - https://en.wikipedia.org/wiki/Dutch_Fort,_Pangkor_Island
+score: 7.6
 ---
 
 The Dutch fort at Kota Belanda is the island's most significant historical monument, and it does not disappoint — even in its ruined state. The VOC (Dutch East India Company) first established a presence here in 1670 to tap into the Perak tin trade, and the fort went through several cycles of construction and destruction before finally being abandoned. What remains is a substantial ruin with thick laterite walls and the base of what was once a substantial outpost.

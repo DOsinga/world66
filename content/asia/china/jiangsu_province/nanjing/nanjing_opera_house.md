@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - entertainment
 - cultural_site
+score: 6.6
 ---
 
 The Nanjing Performing Arts Center (南京保利大剧院) is the city's main venue for classical music, opera, and theatre. The programme includes visiting international orchestras, major Chinese opera productions, and dance performances. The building is a contemporary design on the south bank of the Yangtze.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 25.3628
 longitude: 51.5218
+score: 7.2
 ---
 
 The mosque inside Katara Cultural Village is one of the more carefully considered modern religious buildings in Qatar. Designed in a contemporary interpretation of Ottoman-Mughal style with a prominent dome and minaret, it commands the cultural village's main square and offers an interior with geometric tilework and stained glass that is more ornate than the stripped-down aesthetic of most Gulf mosques.

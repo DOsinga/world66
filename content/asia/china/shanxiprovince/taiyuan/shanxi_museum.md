@@ -8,6 +8,7 @@ latitude: 37.865
 longitude: 112.5264
 story: >
   The Shanxi Museum's Bronze Age collection is built on the finds from thousands of Jin-state aristocratic tombs excavated across the province over the last century. Jin was one of the great states of the Spring and Autumn period, and its aristocracy was buried with spectacular ritual bronze vessels, jade, and lacquerwork. The quantity and quality of material is such that Shanxi bronzes have reshaped scholarly understanding of Chinese Bronze Age craft traditions.
+score: 8.7
 ---
 
 The Shanxi Museum is one of China's finest provincial museums and the best single place to understand what makes Shanxi historically significant. The building, opened in 2005, is itself worth seeing — a large, dramatic structure on the western bank of the Fen River — but the collections inside are the real reason to come.

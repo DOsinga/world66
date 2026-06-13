@@ -10,6 +10,7 @@ latitude: 7.3747
 longitude: 99.2990
 story: >
   The Emerald Cave (Tham Morakot) can only be entered by swimming through an 80-metre tunnel in the cliff face, in complete darkness. Emerge at the far end and you find a hidden beach lit by a shaft of light from a hole in the roof — a lagoon entirely enclosed by rock, with no other way in.
+score: 8.6
 ---
 
 Ko Muk is the most accessible of Trang's islands, reachable by longtail from Hat Pakmeng in around 45 minutes. The main beach, Hat Farang, is a proper white-sand stretch backed by casuarina trees with a handful of bungalows and seafood restaurants. The island is small enough to walk across in an hour.

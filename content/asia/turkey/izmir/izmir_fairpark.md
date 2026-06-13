@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4350
 longitude: 27.1400
+score: 6.6
 ---
 
 Kültürpark is İzmir's central public park, a large green space in Alsancak that hosts the annual İzmir International Fair — one of the oldest running trade fairs in the world, established in 1936 on Atatürk's personal initiative. The park covers 421,000 square metres and contains exhibition halls, gardens, a zoo, restaurants, and an outdoor amphitheatre used for summer concerts.

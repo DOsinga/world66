@@ -10,6 +10,7 @@ tags:
 - church
 title: Lon Wa Buddhist Temple
 type: poi
+score: 7.5
 ---
 
 The largest Buddhist temple in Mindanao, set in the northern suburbs of Davao City along J.P. Cabaguio Avenue. The main hall features Italian marble slabs, a gold Kuan Yin statue, and carved wood ornamentation depicting the life of Buddha. Outside, carp-filled lily ponds surround the high-ceilinged halls. It is an active place of worship, so dress modestly and keep your voice down.

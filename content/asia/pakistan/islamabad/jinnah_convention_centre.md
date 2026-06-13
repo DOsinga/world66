@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The Jinnah Convention Centre is the principal large venue in Islamabad — a 1,500-seat auditorium plus exhibition halls and conference rooms — used for state functions, international summits and the occasional concert. The building, opened in 1997, is a striking white modernist structure with a sweeping curved roof loosely inspired by tribal tents.

@@ -7,6 +7,7 @@ tags:
 - nature
 title: Anfiteatro
 type: poi
+score: 7.0
 ---
 
 The Anfiteatro is a sweeping natural wall of folded rock and salt, one of the valley's most theatrical formations. It catches colour beautifully near sunset, shifting from beige to rose to bruised purple as the sun drops.

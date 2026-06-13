@@ -6,6 +6,7 @@ neighbourhood: Ghent
 snippet: "Ghent favourite for Chesapeake Bay seafood in a relaxed setting"
 latitude: 36.8626
 longitude: -76.3006
+score: 5.7
 ---
 
 Zoe's Steambar is a reliable Ghent institution for Chesapeake Bay seafood — steamed blue crabs, oysters, and clam chowder in a no-frills, local-favourite setting. The steamed shrimp and crab legs draw regulars, and the relaxed atmosphere makes it a good choice for a casual dinner in the neighbourhood.

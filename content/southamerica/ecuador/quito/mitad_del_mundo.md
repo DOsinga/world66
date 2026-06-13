@@ -14,6 +14,7 @@ story: >
   equatorial line and do the famous experiment of watching water drain
   in opposite directions on either side. The official monument remains
   more visited, however, because it has better souvenir shops.
+score: 6.3
 ---
 
 The Mitad del Mundo complex, about 22 km north of central Quito, was built in 1982 to mark the precise location of the equator as calculated by the 18th-century French Geodesic Mission, which came to this spot in 1736 to measure the Earth's circumference. A 30-metre monument topped by a globe marks the spot, with a yellow painted line running across the plaza indicating the equatorial line.

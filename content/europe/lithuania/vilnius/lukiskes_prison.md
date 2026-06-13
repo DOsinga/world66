@@ -16,6 +16,7 @@ tags:
   - history
   - new_town
 neighbourhood: New Town
+score: 8.0
 ---
 
 Lukiškės Prison opened in 1904 and operated until 2019 — 115 years of continuous use as a place of detention. The massive brick complex on the edge of the new town has been through Russian imperial, German, Soviet, and Lithuanian hands, and the list of people held here reads like a compressed history of the region's catastrophes. After its closure, the complex was gradually converted into a cultural centre with bars, a hostel, creative studios, and event spaces.

@@ -8,6 +8,7 @@ tags:
 - waikiki
 title: Healer Stones of Kapaemahu
 type: poi
+score: 7.1
 ---
 
 The four Healer Stones sit in a small enclosure on Kuhio Beach in Waikiki. According to Hawaiian tradition, four sorcerers of extraordinary healing power arrived from Tahiti and lived in Waikiki for some years, curing the sick through supernatural means. Before departing, they transferred their powers into four large boulders placed on the beach as healing shrines.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3697
 longitude: 16.9225
+score: 8.5
 ---
 
 The village of Brela, 3 kilometres up the coast from Baška Voda, is home to what many consider the finest beach on the entire Makarska Riviera. The Punta Rata cove in particular — a small crescent of smooth pebbles framed by pine trees growing almost to the water's edge, with a distinctive rock pillar standing offshore — has the kind of Mediterranean perfection that ends up in travel photographs.

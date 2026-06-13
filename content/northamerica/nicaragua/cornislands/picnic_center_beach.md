@@ -7,6 +7,7 @@ tags:
 snippet: "Big Corn's most popular swimming beach, on the southwestern shore"
 latitude: 12.1612
 longitude: -83.0625
+score: 7.8
 ---
 
 Picnic Center is the social heart of Big Corn's beach scene. The sand is soft, the water is calm and shallow for some distance out, and a handful of small restaurants and bars line the back of the beach selling cold Toña, fried fish, and lobster in season. On weekends the local community comes here too, which gives the place a livelier, less self-conscious feel than the typical Caribbean resort beach.

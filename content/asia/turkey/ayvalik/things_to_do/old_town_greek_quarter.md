@@ -1,6 +1,7 @@
 ---
 title: "Old Town Greek Quarter"
 type: poi
+score: 9.0
 ---
 
 Ayvalık's old town is one of the best-preserved 19th-century Greek townscapes in Turkey. The neighbourhood survived the 1923 population exchange largely intact — the Greek Orthodox families who had built these houses were gone within months, but the buildings remained. Walking the cobbled lanes today, you pass three-storey stone mansions with carved wooden balconies, arched doorways, and shuttered windows that have barely changed since they were built.

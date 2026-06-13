@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Dolphin Safari
 type: poi
+score: 7.8
 ---
 
 The Original Dolphin Safari has been running since 1969, making it one of the longest-established marine excursions in Europe. Boats depart from Marina Bay and head into the Strait of Gibraltar, where resident pods of common and bottlenose dolphins are reliably spotted year-round. On a good day you may also see pilot whales or striped dolphins further out.

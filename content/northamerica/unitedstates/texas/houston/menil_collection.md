@@ -14,6 +14,7 @@ story: >
   covering Byzantine icons, Surrealism, Minimalism, and Indigenous art. When Dominique
   de Menil opened the museum in 1987, she insisted it remain free forever — a condition
   that still holds.
+score: 8.9
 ---
 
 The Menil Collection occupies a quiet residential block in Montrose — a purpose-built Renzo Piano building from 1987, low and grey with diffuse natural light filtering through cypress-louver ceilings. The permanent collection of 17,000 works includes exceptional holdings in Byzantine art, Surrealism (including the world's largest collection of René Magritte works outside Belgium), African and Pacific art, and American minimalism.

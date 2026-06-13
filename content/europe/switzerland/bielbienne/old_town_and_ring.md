@@ -12,6 +12,7 @@ story: >
   The Ring, Biel's central medieval square, is notable for being almost entirely surrounded by arcaded buildings on three sides, with the City Church closing the fourth side. This configuration — square, arcades, church — is a pattern found in medieval Swiss towns, but the Ring is one of the best-preserved examples. On market days it fills with stalls, and in summer the covered arcades provide shade for outdoor tables that seem to belong to half a dozen different cafes simultaneously.
 sources:
   - https://en.wikipedia.org/wiki/City_Church_of_Biel
+score: 8.4
 ---
 
 The old town climbs the hillside above the modern city centre in a tight grid of medieval lanes, and the Ring — the central arcaded square — is its heart. The City Church (Stadtkirche) at the top of the Ring was built in the Gothic style between 1451 and 1470 and is one of the finer late-medieval churches in the canton of Bern, with good stained glass and a Baroque organ. The clock on the tower has been ticking since the 16th century.

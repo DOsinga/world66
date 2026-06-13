@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - cycling
+score: 8.0
 ---
 
 A 20-mile paved path that follows the Grand River and Red Cedar River through the city — north from the Sycamore Creek confluence in the south, past Potter Park Zoo, through downtown, then east to the MSU campus and beyond. It is the easiest way to see Lansing without a car.

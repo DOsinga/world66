@@ -13,6 +13,7 @@ story: >
   An inscription records their names and the temple's dedication to Vishnu —
   it is one of only a handful of Angkor temples dedicated to Vishnu rather than
   Shiva, and the only one with extensive interior brick carvings that survive.
+score: 7.4
 ---
 
 **Prasat Kravan** ("Cardamom Sanctuary") is a modest but remarkable brick temple built in 921 AD, standing in a quiet location south of the main Angkor circuit. It consists of five brick towers in a row, and its distinction lies in the interior: the central tower contains carved brick reliefs of Vishnu in three forms — standing with eight arms, striding in his Trivikrama form to measure the universe, and mounted on Garuda — while a smaller tower has images of Vishnu's consort Lakshmi. These interior carvings, in warm red brick, are among the best-preserved figurative sculptures at Angkor and see only a fraction of the visitors that the main temples attract.

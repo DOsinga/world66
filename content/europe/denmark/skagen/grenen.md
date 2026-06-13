@@ -13,6 +13,7 @@ story: >
   against each other.
 sources:
   - https://en.wikipedia.org/wiki/Grenen
+score: 9.4
 ---
 
 Grenen is the actual northernmost point of Denmark — a long curving sandbar where the Skagerrak and the Kattegat collide in waves that visibly clash with each other. Getting there requires a 20-minute walk (or a ride on the Sandormen tractor-bus) across open beach from the car park, then a scramble along the narrowing spit.

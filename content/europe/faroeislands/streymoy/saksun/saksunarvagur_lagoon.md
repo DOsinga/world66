@@ -13,6 +13,7 @@ story: >
   Within a generation the village had gone from a sheltered port to a
   road-less farming hamlet, and stayed that way until the access road was
   finally cut over the moor in 1962.
+score: 9.0
 ---
 
 The tidal lagoon at the foot of the village is why most people come to Saksun. Almost entirely enclosed by hills, with only a narrow gap to the sea — when conditions are right, the Atlantic pushes in through the channel and the lagoon fills. The water level changes hour by hour. At low tide the beach is exposed and you can walk along the shore; at high tide the lagoon reflects the surrounding cliffs and the effect is extraordinary.

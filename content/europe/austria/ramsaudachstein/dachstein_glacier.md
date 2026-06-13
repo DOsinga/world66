@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.48
 longitude: 13.616
+score: 7.5
 ---
 
 The Dachstein Glacier is the southernmost glacier in Austria and one of the few that supports year-round skiing. The ski area is small by Alpine standards — a couple of dozen kilometres of pistes — but it operates from October to May and stays open in summer for training teams.

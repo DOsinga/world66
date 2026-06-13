@@ -7,6 +7,7 @@ tags:
   - basque_block
 latitude: 43.6143
 longitude: -116.2016
+score: 6.9
 ---
 
 Bar Gernika on the Basque Block is the most straightforward place to eat Basque food in Boise, and one of the most authentic Basque bars outside the Pyrenees. The menu is simple: lamb sandwiches, Basque chorizo, croquetas, and the essential chistorra (a thin, paprika-red Basque sausage) served with crusty bread. Rioja and Basque cider are the drinks of choice.

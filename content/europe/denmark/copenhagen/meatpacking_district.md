@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood, bars_and_cafes]
 latitude: 55.6656
 longitude: 12.5450
+score: 7.8
 ---
 
 The Kødbyen — Meatpacking District — in Vesterbro is the best cluster of restaurants, bars, and clubs in Copenhagen. The old slaughterhouse buildings from the early 20th century have been converted into a creative quarter where restaurants, design studios, galleries, and food producers share space with the remaining meat traders who never left.

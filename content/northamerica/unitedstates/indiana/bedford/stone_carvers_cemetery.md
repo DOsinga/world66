@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Louis Baker's workbench, carved entirely in limestone by his fellow stone cutters, is said to depict the exact arrangement of tools he was using at the moment of his death. Visitors sometimes leave coins on the carved bench in tribute."
+score: 8.1
 ---
 
 Green Hill Cemetery, on the western edge of town, is the best place to see what Bedford's stone carvers could do when they worked for themselves. Quarrymen, masons, and sculptors who spent their lives shaping limestone for buildings elsewhere are buried under headstones that read as a kind of trade exhibition.

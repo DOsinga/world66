@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 14.6042
 longitude: 121.0318
+score: 7.6
 ---
 
 Museo El Deposito takes its name from the Spanish water depot (deposito) that stood on this site and was the target of the 1896 Katipunan attack. The original deposit was a critical piece of colonial infrastructure — it supplied water to much of Manila — and attacking it was both a practical and symbolic act of defiance.

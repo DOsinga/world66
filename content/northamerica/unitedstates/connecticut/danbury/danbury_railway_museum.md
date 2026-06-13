@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 41.3980
 longitude: -73.4501
+score: 7.5
 ---
 
 The Danbury Railway Museum occupies the city's former Union Station, a handsome 1903 building that has been meticulously restored to its Edwardian glory. The museum holds an impressive outdoor collection of historic diesel and steam locomotives, passenger cars, and freight equipment that visitors can climb aboard and explore. On weekends, train rides run on the adjacent tracks.

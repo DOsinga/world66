@@ -6,6 +6,7 @@ longitude: 101.6941
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 A small but well-curated museum that traces the history of Malaysian textiles — songket, batik, pua kumbu, and the various ethnic dress traditions that make up the country's wardrobe. The building itself is a handsome example of Mughal Revival architecture from 1905, originally housing the Federated Malay States Railway headquarters.

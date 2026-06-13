@@ -7,6 +7,7 @@ tags:
 latitude: 46.2297
 longitude: -63.14
 story: "Dead Man's Pond, a small body of water in the park, is rumoured locally to be bottomless. The legend probably dates to an era when the pond was used as a dumping ground for the bodies of executed criminals and those who died in the nearby prison. It is not actually bottomless — it has been measured at around 9 metres — but the name has stuck."
+score: 7.5
 ---
 
 Victoria Park is a 40-hectare green space on the harbour's edge, a ten-minute walk from downtown. It is where Charlottetown goes to run, walk dogs, and escape the compact historic core. Mature trees shade walking paths that wind along the waterfront and through the grounds of Fanningbank, the lieutenant governor's official residence.

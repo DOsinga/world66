@@ -13,6 +13,7 @@ tags:
 - food
 title: Auvergnat Cuisine
 type: poi
+score: 6.7
 ---
 
 Auvergnat cuisine is one of the most distinctive regional traditions in France, built on the produce of a high-altitude farming region: pork, potatoes, and above all cheese. The most famous dish is truffade — sliced potatoes fried slowly with lard until soft, then mixed with fresh Cantal cheese until it melts into a rich, stringy mass. It is simple, filling, and good. Aligot, the even more elastic potato-and-cheese preparation from the Aubrac plateau (just south of the Auvergne), appears on most menus in the region.

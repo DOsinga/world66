@@ -9,6 +9,7 @@ tags:
   - zona_dorada
 neighbourhood: Zona Dorada
 snippet: "Long-running American-style coffee house in the Zona Dorada"
+score: 4.2
 ---
 
 The Looney Bean has been the morning meeting point for Mazatlan's American and Canadian expat community for the better part of two decades. It is a wood-floored coffee house at the south end of the Zona Dorada, with espresso drinks, decent breakfast pastries, and free wifi. The board out front lists yoga classes, language exchanges, and home-rental listings.

@@ -7,6 +7,7 @@ tags:
 latitude: 70.3671
 longitude: 31.1278
 snippet: "A large American-built radar dome on Vardøya, officially for space surveillance"
+score: 4.4
 ---
 
 The large white radome on the eastern shore of Vardøya — a sphere roughly fifteen metres in diameter mounted on a concrete building — is the GLOBUS II radar installation, operated by the Norwegian Intelligence Service. It was installed in the late 1990s and is officially described as a space surveillance radar tracking satellites and orbital debris. Russia has consistently contested this description, arguing it is primarily an early-warning radar facing Russian territory across the Barents Sea.

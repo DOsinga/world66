@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Selime served as a stand-in for Tatooine in Star Wars location-scouting trips and gets called 'the Star Wars monastery' by guides. The producers never actually shot here — but the resemblance to the desert planet is real enough to keep the comparison alive."
+score: 9.3
 ---
 
 At the northern end of the gorge, where the valley opens out onto the Aksaray plain, sits the largest rock-cut complex in Cappadocia after Göreme. Selime is more than a monastery: it is a small city carved into the cliff, with a basilica-sized church, kitchens, stables, dormitories, and a chimney-vented refectory all hollowed out of the rock.

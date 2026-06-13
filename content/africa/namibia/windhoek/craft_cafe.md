@@ -8,6 +8,7 @@ tags:
 - bar
 title: Craft Cafe
 type: poi
+score: 6.1
 ---
 
 Craft Cafe occupies a converted bungalow on Tal Street, just north of the city centre. The leafy courtyard tables are the best part — surrounded by potted plants, with a misting fan keeping things bearable in summer. The drinks list runs from proper espresso through Namibian craft beers (Camelthorn and Brewers & Union are usual) to South African gins and wine by the glass.

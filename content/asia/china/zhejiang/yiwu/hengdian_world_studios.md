@@ -8,6 +8,7 @@ latitude: 29.1653
 longitude: 120.2419
 story: >
   Hengdian World Studios employs more registered extras than any other film production location on earth. On any given day, several thousand people dressed in Qing court costumes, Tang dynasty armour, or Republican-era suits drift between the sets in search of a casting agent or a role in a period drama. Many have moved to Hengdian specifically for this purpose, creating a permanent floating population of aspiring actors who inhabit the historical recreations waiting for the cameras to roll.
+score: 8.1
 ---
 
 Hengdian World Studios, about forty kilometres from Yiwu city, is the largest film production base in China and one of the most bizarre tourist destinations in the country. The backlot contains full-scale recreations of the Forbidden City, Tang dynasty palace complexes, Republican-era Shanghai street sets, and various other historical environments built to serve the Chinese period drama industry that produces hundreds of television series and films every year.

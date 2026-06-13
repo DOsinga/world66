@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.6
 ---
 
 About twenty kilometres south of Kribi, past Grand Batanga, the road comes down to Eboundja — a small fishing village with what is probably the best beach within easy reach of town. The sand is fine and pale, the palms come right down to the shoreline, and on a weekday you may have a kilometre of beach to yourself.

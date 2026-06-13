@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 40.2749
 longitude: -76.6532
+score: 7.4
 ---
 
 Tröegs has been brewing in central Pennsylvania since 1997, and their purpose-built Hershey brewery is one of the best taproom experiences in the state. The Snitz Creek Pub inside has a full kitchen serving wood-fired pretzels, sandwiches, and seasonal plates — food that's genuinely good, not afterthought bar food.

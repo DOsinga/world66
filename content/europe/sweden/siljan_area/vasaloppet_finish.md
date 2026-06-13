@@ -16,6 +16,7 @@ story: >
   not the original escape route.
 sources:
   - https://en.wikipedia.org/wiki/Vasaloppet
+score: 6.7
 ---
 
 Every first Sunday in March, the Vasaloppet delivers around 15,000 skiers to Mora after 90 kilometres of cross-country skiing from Sälen. The finish portal in the centre of Mora — with the motto "In our fathers' tracks for future victories" — stands year-round and is easy to find; the locals are used to people photographing it. The Vasaloppet Museum nearby covers the race's century of history with equipment, films, and records.

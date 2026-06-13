@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 19.807
 longitude: 85.815
+score: 7.3
 ---
 
 The Lokanath Temple is Puri's most important Shiva shrine and ranks among the 52 major Shiva temples (*Shiva Chalisha*) in Odisha. What makes it singular is the *lingam* at its centre: it sits in a pit that naturally fills with seawater, which seeps up through the ground from the nearby Bay of Bengal. The lingam is perpetually bathed by this subterranean sea — an arrangement that devotees understand as Shiva receiving constant *abhisheka* (ritual bathing) from the ocean itself. The temple is old, its origins disputed but certainly pre-medieval, and it draws a devoted local congregation quite apart from the massive pilgrimage traffic at the Jagannath Temple.

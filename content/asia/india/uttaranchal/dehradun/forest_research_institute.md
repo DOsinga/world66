@@ -9,6 +9,7 @@ tags:
   - architecture
   - museum
 story: "The colossal red-brick building was designed by C. G. Blomfield in 1929 in a Greco-Roman-Mughal hybrid style that was meant to embody British forestry science in the subcontinent. The main facade is reportedly the longest purely brick-built structure in the world; the building is so big it has appeared on Indian banknotes."
+score: 8.7
 ---
 
 The FRI campus is the strangest and most impressive piece of architecture in the city — a vast Indo-Saracenic edifice set in 450 hectares of forest, with kilometres of arcaded corridors and seven small museums covering everything from timber to pathology to forest entomology.

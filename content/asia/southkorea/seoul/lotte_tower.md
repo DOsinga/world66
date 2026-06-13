@@ -14,6 +14,7 @@ story: >
   Korean celadon ceramics and calligraphy brushes — an ambitious piece of
   contextualisation for a supertall skyscraper. The glass floor on the 500th
   floor observation deck is four inches thick.
+score: 7.2
 ---
 
 Lotte World Tower in Songpa-dong dominates the skyline of southeastern Seoul, its tapered glass form visible from much of the city. The 123-floor building contains offices, a hotel, residences, and the Seoul Sky observation deck on floors 117-123. The views from the top are the most expansive in the city — on clear days you can see beyond the urban area to the mountains in all directions.

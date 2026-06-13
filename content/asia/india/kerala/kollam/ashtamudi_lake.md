@@ -8,6 +8,7 @@ title: Ashtamudi Lake
 type: poi
 story: >
   Ashtamudi means "eight braids" in Malayalam, referring to the eight channels that radiate from the central lake like a palm leaf. The lake covers 61 square kilometres and is Kerala's second-largest wetland, supporting fishing communities that have worked its waters for centuries.
+score: 8.2
 ---
 
 Ashtamudi Lake is the starting point for one of Kerala's most rewarding waterway journeys. The lake's palm-fringed shores, where fishermen pull in their nets at dawn and egrets wade through the shallows, are a proper antidote to modern India's bustle.

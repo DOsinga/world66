@@ -7,6 +7,7 @@ longitude: 0.0344
 snippet: Third-highest Pyrenean peak with a rewarding two-day ascent
 title: Monte Perdido Summit
 type: poi
+score: 8.8
 ---
 
 At 3,355 m, Monte Perdido is the third-highest peak in the Pyrenees and the highest massif lying entirely within Spain. The standard ascent goes via the Góriz mountain refuge (reached in about four hours from the valley), with a high camp before the final push to the summit the next morning. The route is non-technical in summer but requires good fitness, mountain experience, and an eye on the weather — storms build fast on the massif.

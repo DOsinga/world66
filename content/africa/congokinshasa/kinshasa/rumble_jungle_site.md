@@ -17,6 +17,7 @@ story: >
   Norman Mailer covered it for a book; the documentary Quando Ali venceu Foreman
   and the later film When We Were Kings both captured the extraordinary moment
   when Kinshasa briefly became the centre of the world's attention.
+score: 6.4
 ---
 
 The Stade Tata Raphaël -- named after a former mayor of Kinshasa -- is an older stadium in the Kasa-Vubu commune that would be entirely unremarkable were it not for one night in 1974. This is where Muhammad Ali defeated George Foreman in what was billed as the "Rumble in the Jungle," one of the most famous sporting events of the twentieth century and one of the defining moments of Ali's career.

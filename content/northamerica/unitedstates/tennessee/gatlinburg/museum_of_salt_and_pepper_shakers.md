@@ -7,6 +7,7 @@ tags:
 latitude: 35.716
 longitude: -83.5025
 snippet: "20,000+ shaker collection — one of the world's stranger museums"
+score: 5.9
 ---
 
 This is exactly what it says: a museum dedicated entirely to salt and pepper shakers, with over 20,000 sets on display from around the world. The collection was started by a couple from Bolivia and donated to Gatlinburg, where it found a natural home among the town's other singular attractions. The shakers range from the mundane (standard diner sets) to the genuinely bizarre — figural pairs, novelty themes, hand-painted ceramics, mid-century plastics, and objects from dozens of countries that you would never have guessed had a salt and pepper shaker tradition.

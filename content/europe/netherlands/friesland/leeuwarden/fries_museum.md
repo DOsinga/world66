@@ -7,6 +7,7 @@ tags:
 latitude: 53.1996
 longitude: 5.7944
 story: "The museum's Mata Hari collection is the largest in the world. It includes her scrapbook of press cuttings, photographs from her stage career, and the letters she wrote from prison in Paris before her execution by firing squad in 1917, aged 41."
+score: 8.8
 ---
 
 The Fries Museum is one of the best regional museums in the Netherlands and the obvious anchor of a visit to Leeuwarden. Housed in a striking modern building on the Wilhelminaplein since 2013, the collection covers Frisian history, silver, ceramics, and decorative arts, with a thoughtful permanent exhibition on what it has meant to be Frisian — language, identity, water, agriculture — over the centuries.

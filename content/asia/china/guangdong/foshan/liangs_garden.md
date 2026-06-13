@@ -14,6 +14,7 @@ story: >
   gatherings — its spaces named after poems, its rock arrangements meant to suggest landscapes
   from classical literature. The calligraphy inscriptions on the walls and buildings are
   considered among the finest examples of Guangdong scholar's hand still intact.
+score: 8.0
 ---
 
 Liang's Garden (梁园) is one of the four great classical gardens of Guangdong, a Qing-dynasty estate in central Foshan that has been carefully restored and is considerably less visited than its counterpart gardens in Suzhou. The garden is an example of the Lingnan garden style — adapted to the southern climate with more water, more shade, and more integration of rocks as the primary decorative element — and its layouts of covered corridors, lotus ponds, and scholar's rocks feel distinctively southern in character.

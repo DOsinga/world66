@@ -7,6 +7,7 @@ snippet: Ruined Jacobean fortified house, five kilometres west of Dungannon
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 Castle Caulfield is the substantial ruin of a Jacobean fortified house built by Sir Toby Caulfield in 1611, soon after he was granted lands here as part of the Plantation of Ulster. The three-storey U-plan house was unusually domestic in design — large mullioned windows, wide doorways, classical detailing — reflecting the Caulfields' belief that the worst of the Ulster troubles were over.

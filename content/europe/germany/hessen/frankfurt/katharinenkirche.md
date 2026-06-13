@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church, altstadt]
 latitude: 50.1133
 longitude: 8.6794
+score: 6.2
 ---
 
 The plain Baroque Katharinenkirche on the Hauptwache is the city's main Lutheran church and the only one of the inner city churches whose tower made it through the war intact. Goethe was baptised here in 1749, and Schopenhauer attended sermons here as a young man.

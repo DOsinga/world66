@@ -10,6 +10,7 @@ latitude: -30.4308
 longitude: 152.2669
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_Rock_National_Park
+score: 8.2
 ---
 
 Cathedral Rock National Park sits about 65 km east of Armidale, straddling the edge of the New England Tablelands. The park takes its name from a granite formation that rises dramatically from the surrounding heath and forest — a tor of rounded boulders stacked improbably high, with sweeping views east toward the coast and west over the tablelands.

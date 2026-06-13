@@ -13,6 +13,7 @@ story: >
   niche above the west gate by the official overseers as a demonstration of
   the engineer's skill. It is still there. If someone moves it, the story
   goes, the whole wall will collapse.
+score: 9.8
 ---
 
 Jiayu Pass (嘉峪关) is the westernmost fortress of the Ming Great Wall and one of the most evocative historical sites in China. The trapezoid complex — inner wall, outer wall, watchtowers, military parade ground, and a civilian quarter — was built in 1372, early in the Ming Dynasty, and represents the effective western limit of Han Chinese territory for two centuries. Standing on the outer ramparts with the snow-capped Qilian Mountains behind you to the south and the Gobi Desert stretching north and west, the phrase "last fort under heaven" stops feeling metaphorical.

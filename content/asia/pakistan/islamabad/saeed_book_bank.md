@@ -6,6 +6,7 @@ longitude: 73.0560
 address: F-7 Markaz, Jinnah Super
 tags:
   - shopping
+score: 7.8
 ---
 
 Saeed Book Bank, in the south side of the Jinnah Super Market, is one of the largest bookshops in Pakistan. Three floors of new books — Urdu and English fiction, a deep section on Islamic studies, an excellent travel and history section on Pakistan and the wider region, large children's and academic sections.

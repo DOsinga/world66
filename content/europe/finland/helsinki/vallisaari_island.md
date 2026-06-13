@@ -10,6 +10,7 @@ story: Vallisaari was a military island for two centuries, closed to civilians t
   ordnance — clearance took the best part of a decade — and the closed period left
   the island with one of the richest bird and butterfly populations near a European
   capital.
+score: 8.3
 ---
 
 A pair of wooded former military islands east of Suomenlinna, opened to the public in 2016 after the army cleared the unexploded ordnance. The trails crisscross overgrown fortifications, gun batteries, barrack ruins, and a remarkable variety of butterfly habitats. Several rare species shelter here that exist nowhere else in southern Finland.

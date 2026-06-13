@@ -8,6 +8,7 @@ latitude: 41.0283
 longitude: 9.5477
 story: >
   Porto Rotondo was conceived in the 1960s by brothers Giorgio and Nicolò Donà delle Rose as a planned resort that would echo the Aga Khan's Costa Smeralda development nearby, but with a Venetian aesthetic — lower key, less flashy, more refined. The circular harbour they built was not artificial; it exploited a natural bay of near-perfect geometry, which is what gives the marina its visual coherence and its name.
+score: 7.1
 ---
 
 The marina is the obvious centrepiece of Porto Rotondo — a curved harbour of several hundred berths, lined on its inner edge by the Piazzetta San Marco and the pastel-fronted restaurants, boutiques, and cafés that make up the village's commercial strip. In summer, the assembled yachts range from serious racing machines to floating apartments the size of small hotels.

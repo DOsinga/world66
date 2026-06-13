@@ -9,6 +9,7 @@ tags:
 title: John Mark Verdier House
 type: poi
 story: "The Marquis de Lafayette gave an impromptu speech from the front porch in 1825 during his triumphant farewell tour of the United States, which is why locals still call the building the Lafayette Building."
+score: 7.1
 ---
 
 Built around 1804 by a wealthy Sea Island cotton merchant, the Verdier House is the only Federal-style mansion in Beaufort open to the public. The exterior is restrained — symmetrical, white-painted, with the high foundation and double porches typical of the period — but the interior has been restored room by room to its early-nineteenth-century state with original and period furniture.

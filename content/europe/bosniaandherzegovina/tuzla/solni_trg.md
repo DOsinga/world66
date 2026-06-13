@@ -10,6 +10,7 @@ latitude: 44.5385
 longitude: 18.6737
 story: >
   Salt has been extracted in Tuzla continuously for over 6,000 years, making it one of the longest uninterrupted industrial operations in European history. Neolithic communities were already exploiting the salt springs here in 4000 BC. The name Tuzla comes from the Turkish word for salt, but the industry predates Ottoman rule by millennia.
+score: 7.6
 ---
 
 Solni Trg — Salt Square — is an open-air museum in the heart of Tuzla's old town, occupying the site of one of the city's historic salt-production areas. The exhibition tells the story of salt extraction in Tuzla from the Neolithic period through the Ottoman era, Austro-Hungarian industrialisation, and into the 20th century.

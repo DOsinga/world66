@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.7200
 longitude: 39.2100
+score: 5.9
 ---
 
 The Voronezh Reservoir, a 70-square-kilometre body of water created in 1972 by damming the Voronezh River, is the city's playground. In summer, sandy beaches along the banks fill up with locals; sailing clubs operate from several points; and the western shore has walking paths and picnic areas under the trees.

@@ -9,6 +9,7 @@ latitude: 45.5823
 longitude: 9.2740
 sources:
   - https://en.wikipedia.org/wiki/Santa_Maria_in_Strada,_Monza
+score: 6.8
 ---
 
 Santa Maria in Strada is a small 14th-century Gothic church at the southern edge of the historic centre, notable for its elaborate terracotta facade — one of the finest examples of decorated terracotta work in Lombard Gothic architecture. The facade is covered in floral patterns, figurative panels, and intricate mouldings baked from the local clay, creating a richness of surface that contrasts with the simpler stone facades elsewhere in the city.

@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Le Busy
 type: poi
+score: 5.3
 ---
 
 A small bar tucked into the old town on rue Montorge, popular with locals and students alike. Good for a casual drink in a lively part of the centre.

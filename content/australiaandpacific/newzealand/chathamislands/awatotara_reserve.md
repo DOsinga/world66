@@ -7,6 +7,7 @@ tags:
 - sight
 title: Awatotara Conservation Covenant
 type: poi
+score: 7.4
 ---
 
 Awatotara is a privately owned bush block on the western side of Chatham

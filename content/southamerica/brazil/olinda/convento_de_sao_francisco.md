@@ -7,6 +7,7 @@ tags:
 latitude: -8.0075
 longitude: -34.8542
 snippet: The oldest Franciscan convent in Brazil, founded 1585, with exceptional azulejo tile panels
+score: 9.1
 ---
 
 Founded in 1585, the Convento de São Francisco is the oldest Franciscan religious complex in Brazil and one of the most important examples of colonial religious architecture in the country. The complex consists of the main church (Igreja Nossa Senhora das Neves), the Chapel of São Roque, the Chapel of the Third Order of Saint Francis, and the cloister — each worth time in its own right.

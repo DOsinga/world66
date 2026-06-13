@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.6326
 longitude: -1.1381
+score: 6.7
 ---
 
 Two connected medieval buildings form this free museum of Leicester social history, from the Tudor period to the 20th century. Wygston's Chantry House is one of the oldest surviving domestic buildings in the city; Skeffington House has a peaceful garden planted in period style.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.1937
 longitude: 71.4653
+score: 7.4
 ---
 
 The **Bohar Gate** is the most photogenic of Multan's surviving city gates, a three-arched brick portal in the western wall of the old city. Originally built in the medieval period and repeatedly rebuilt, the current structure dates from the eighteenth century, when the gates were repaired under the Afghan governors. The name comes from the *bohar* (banyan) tree that once grew immediately outside it.

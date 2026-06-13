@@ -9,6 +9,7 @@ tags:
 latitude: 26.8738
 longitude: 80.9044
 story: "The complex is also known as the Palace of Lights — during Muharram each year the building is lit with hundreds of oil lamps and chandeliers, the original purpose for which Muhammad Ali Shah ordered it built in 1838 as his own future mausoleum."
+score: 8.6
 ---
 
 The Chota Imambara — properly the Imambara Hussainabad Mubarak — is more decorative than its larger sibling: a smaller white-and-gold mausoleum complex built in 1838 by Nawab Muhammad Ali Shah as his own tomb. Twin gateways flank a long tank that mirrors the central building; the interior is lined with Belgian chandeliers, gilded calligraphy from the Qur'an, and the silvered tomb of the Nawab and his mother.

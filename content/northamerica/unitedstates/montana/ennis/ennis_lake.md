@@ -9,6 +9,7 @@ tags:
   - nature
   - swimming
 snippet: Shallow reservoir north of town, good for paddling and warm-water fishing
+score: 7.1
 ---
 
 Ennis Lake is a small, shallow reservoir on the Madison River about five miles north of town, formed by the Madison Dam in 1906. The water is much warmer than the river itself — in midsummer it gets to swimmable temperatures, which is unusual at this altitude — and it is the easiest place near Ennis to launch a kayak or stand-up paddleboard. Trout, perch and northern pike all live here; the fishing is less famous than the river but well worth a half day.

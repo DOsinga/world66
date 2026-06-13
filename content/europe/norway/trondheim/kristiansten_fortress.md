@@ -8,6 +8,7 @@ story: "Kristiansten was thrown up in a hurry after the 1681 fire — King Chris
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 The seventeenth-century star fortress on the hill east of the river was built after the 1681 fire to defend the rebuilt city, and it has the finest view in Trondheim. The walk up takes fifteen minutes from Bakklandet — through cobbled streets, up wooden steps, and onto a grassy ridge where the white-walled donjon stands above the rooftops.

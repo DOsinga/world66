@@ -8,6 +8,7 @@ latitude: 46.3217
 longitude: 9.3978
 story: >
   The park's name comes from a medieval fortification called the Castrum Paradisi, which stood on this rocky outcrop above town. Archaeological excavation in the twentieth century revealed layers of occupation going back to the Bronze Age — the site was occupied continuously for three thousand years, precisely because its commanding position above the valley made it strategically irresistible to every culture that passed through.
+score: 7.4
 ---
 
 The Paradiso Botanical Archaeological Park occupies a rocky, forested hill on the edge of Chiavenna's old town. What makes it distinctive is the combination of a small archaeological museum, the ruins of a medieval castle, and a botanical garden containing plants native to the Valchiavenna — all within a few acres above the town centre.

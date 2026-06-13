@@ -8,6 +8,7 @@ tags:
   - sport
   - nature
 snippet: Class III-IV white water on the Mendoza River, 40km from the city
+score: 7.4
 ---
 
 The Mendoza River, flowing east from the Andes through the Potrerillos canyon about 40 kilometres from the city, offers some of the best accessible white-water rafting in South America. The standard section used by day tours runs through Class III and IV rapids — challenging enough to be genuinely exciting, manageable enough for first-timers with guides. The river is at its highest and most dramatic from October to December when Andean snowmelt is at its peak.

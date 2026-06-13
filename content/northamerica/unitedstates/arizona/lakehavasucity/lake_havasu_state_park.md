@@ -9,6 +9,7 @@ tags:
 latitude: 34.4932
 longitude: -114.3590
 snippet: Desert hiking trails and quiet beaches on the Arizona shore of Lake Havasu
+score: 6.9
 ---
 
 Lake Havasu State Park covers the Arizona shoreline north of the city, offering a quieter alternative to the lake's busier recreational beaches. The park has several miles of hiking trails through Sonoran Desert scrub, crossing terrain of eroded volcanic rock and dry washes that contrast dramatically with the blue water below. The **Mohave Sunset Trail** is the most rewarding — a two-mile loop with views across the lake to the California shore and the Whipple Mountains beyond.

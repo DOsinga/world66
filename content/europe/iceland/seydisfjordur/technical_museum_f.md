@@ -12,6 +12,7 @@ tags:
 title: Technical Museum of East Iceland
 type: poi
 url: www.tekmus.is
+score: 6.9
 ---
 
 The Technical Museum of East Iceland was established in 1984 and focuses on the modernisation of the region from around 1880 to 1950. Exhibits cover mechanics, electricity, communications, telephony, and commerce — the tools and technologies that transformed everyday life in the East Fjords. The museum doubles as an open-air area with a pleasant waterside setting, and serves as a research centre for the region's industrial and social history.

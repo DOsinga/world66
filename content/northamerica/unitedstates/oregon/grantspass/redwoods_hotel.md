@@ -7,6 +7,7 @@ tags:
 - architecture
 title: The Redwoods Hotel
 type: poi
+score: 6.2
 ---
 
 The Redwoods is a three-storey Mission Revival building put up in 1907 to serve passengers off the Southern Pacific railroad and travellers heading down the Redwood Highway. The white stucco walls, red-tile roof, and arched verandah look like something transplanted from southern California, and they are — the style was unusual in Oregon at the time.

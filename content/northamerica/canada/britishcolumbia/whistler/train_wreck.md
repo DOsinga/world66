@@ -12,6 +12,7 @@ story: >
   awkward to retrieve. Over the decades they became a canvas for graffiti artists from across
   the Pacific Northwest, and the site now functions as an unofficial open-air gallery in the
   forest.
+score: 7.2
 ---
 
 The Train Wreck is one of Whistler's more unusual attractions — a collection of old Canadian National Railway boxcars that derailed decades ago and were abandoned in the forest near Cheakamus River. Getting there requires a short hike through second-growth forest across a suspension bridge, which adds to the sense of discovery.

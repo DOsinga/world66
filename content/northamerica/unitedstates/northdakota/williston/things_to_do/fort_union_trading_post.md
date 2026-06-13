@@ -1,6 +1,7 @@
 ---
 title: "Fort Union Trading Post National Historic Site"
 type: poi
+score: 8.8
 ---
 
 At the confluence of the Missouri and Yellowstone rivers, about 40 km northwest of Williston, Fort Union was the most important fur-trading post on the upper Missouri for the better part of five decades. Built in 1828 by the American Fur Company, it was the hub through which beaver pelts, bison robes, and pemmican moved east and trade goods — blankets, guns, kettles, glass beads — moved west to the Assiniboine, Crow, Blackfeet, and other nations who made the place their own commercial capital as much as the company's. At its height, Fort Union was doing business on a scale that made it one of the most significant commercial sites between St Louis and the Pacific.

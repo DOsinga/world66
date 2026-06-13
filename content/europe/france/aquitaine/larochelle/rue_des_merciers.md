@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.1599
 longitude: -1.1524
+score: 8.1
 ---
 
 La Rochelle is famous for its arcades — long covered walkways running down both sides of the main shopping streets, built into the ground floors of the buildings to shelter merchants and customers from the Atlantic weather. The Rue des Merciers, the Rue du Palais, and the Rue Chaudrier are the best stretches: independent shops, cafés with tables under the arches, and the limestone facades of three centuries of merchant houses above.

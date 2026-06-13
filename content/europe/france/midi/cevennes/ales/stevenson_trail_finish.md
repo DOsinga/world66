@@ -8,6 +8,7 @@ tags:
   - literary
 title: "Stevenson Trail Finish"
 type: poi
+score: 7.3
 ---
 
 Alès is the traditional southern end of the Chemin de Stevenson, the GR 70 route inspired by Robert Louis Stevenson's 1878 journey with a donkey through the Cévennes. Walkers who have crossed the plateaux and valleys often arrive here with dusty boots and mixed feelings about returning to town.

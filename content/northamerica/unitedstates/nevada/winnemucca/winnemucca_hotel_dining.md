@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9744
 longitude: -117.7375
+score: 7.0
 ---
 
 The bar and dining room of the Winnemucca Hotel — the oldest hotel in Nevada — serves the same Basque family-style dinner format as the Martin: a long table, a multi-course meal, pitchers of wine. It is quieter and less famous than the Martin Hotel, which means easier walk-ins and a slightly more relaxed pace.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.4612
 longitude: -80.0644
+score: 5.9
 ---
 
 A New England-flavoured seafood-and-bar institution sitting directly across A1A from the beach. Boston's has been here since 1979 and has the comfortably worn-in atmosphere of a place that has not bothered to chase trends. Lobster rolls, fried clams, fish and chips, plus burgers and a substantial drinks menu.

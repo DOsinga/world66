@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - fontainhas
+score: 6.1
 ---
 
 Viva Panjim — sometimes called "Linda's place" after the owner — has been in the same Fontainhas townhouse for over twenty years and is widely considered one of the best places in the city for traditional Goan home cooking. The menu is long and unfussy: pork vindaloo, beef xacuti, prawn balchao, fish recheado, chicken cafreal, and the unmissable bebinca for dessert. Portions are generous; the prices are reasonable.

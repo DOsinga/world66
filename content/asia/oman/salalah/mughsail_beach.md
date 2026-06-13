@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The blowholes at Mughsail are at their most dramatic during rough weather — when large swells push through the limestone caves beneath the shore, the water explodes upward through cracks in the rock with a deep percussion like a cannon firing. Dhofari fishermen traditionally used the sound of the blowholes to judge sea conditions before going out.
+score: 8.5
 ---
 
 Mughsail is the most dramatic coastal scenery near Salalah, 35 km west of the city. The wide bay of white sand is backed by dramatic limestone cliffs, and the natural blowholes in the rocky shelf at the western end shoot seawater high into the air when the surf is strong enough. The whole area is pleasantly uncrowded outside of the khareef season.

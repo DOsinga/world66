@@ -9,6 +9,7 @@ tags:
 - nature
 title: Lake Batur
 type: poi
+score: 7.8
 ---
 
 Lake Batur is a volcanic crater lake that fills a large portion of the Batur caldera floor. At about 16 kilometres long and 8 kilometres wide, it is the largest lake in Bali. The water is deep and clear, and the lake is encircled by the outer caldera wall — from Songan's shore you look across the lake to the volcanic peak of Mount Batur rising from its centre, an arrangement that makes for a striking view at almost any hour.

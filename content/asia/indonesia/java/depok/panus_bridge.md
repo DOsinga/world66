@@ -9,6 +9,7 @@ tags:
 - bridge
 title: Panus Bridge
 type: poi
+score: 4.8
 ---
 
 The Panus Bridge (Jembatan Panus) is a concrete arch bridge over the Ciliwung river in the older part of Depok, just east of the Margonda corridor. It carries an ordinary two-lane road today but was a piece of colonial-era engineering in its time, replacing an earlier wooden crossing on the route between Batavia and Bogor.

@@ -10,6 +10,7 @@ longitude: -107.9951
 snippet: Volcanic badlands with a 17-mile lava tube system, natural arch, and ice caves amid black basalt flows
 story: >
   El Malpais means "the badlands" in Spanish — the name the Spanish gave to the vast field of black basalt lava that erupted here as recently as 3,000 years ago. The lava tubes formed when the outer surface of flowing lava cooled and hardened while molten rock continued to flow underneath; when the flow stopped, it left hollow tubes behind. Some still hold ice year-round.
+score: 8.8
 ---
 
 El Malpais National Monument protects a volcanic landscape of jagged lava flows, cinder cones, and an extensive system of lava tube caves that stretches at least 17 miles underground. The terrain is harsh and striking — black basalt rock, ponderosa pine struggling up through cracks, and views across the high desert to Mount Taylor. La Ventana Natural Arch, within the adjacent National Conservation Area along Highway 117, is the largest natural arch in New Mexico.

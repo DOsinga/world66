@@ -16,6 +16,7 @@ story: >
   collection of diamonds in the 1950s to fund government spending, they
   replaced the floor diamond with a replica — and nobody told anyone for
   decades. The original is now in the Museo Nacional de Bellas Artes.
+score: 8.1
 ---
 
 El Capitolio is one of the most impressive buildings in Havana — a neoclassical colossus completed in 1929 that is slightly larger than its obvious model, the US Capitol in Washington. The building was constructed in just three years as a symbol of Cuban republican prosperity and cost $17 million, an extraordinary sum for the time. The dome rises 55 metres above the interior, and the bronze seated figure of the Republic in the central hall is the third-largest indoor statue in the world.

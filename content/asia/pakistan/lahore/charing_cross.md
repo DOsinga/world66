@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mall
+score: 7.4
 ---
 
 Charing Cross is the central junction of the Mall, where Shahrah-e-Quaid-e-Azam meets Egerton Road and Davis Road. The roundabout was originally crowned with a statue of Queen Victoria (now exiled to the Lahore Museum); it is currently dominated by a marble pavilion containing the Quran, with the cubic WAPDA House building looming behind.

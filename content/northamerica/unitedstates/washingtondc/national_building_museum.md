@@ -8,6 +8,7 @@ tags:
 latitude: 38.8990
 longitude: -77.0217
 story: "The National Building Museum's great hall is 316 feet long, 116 feet wide, and 159 feet high — one of the largest interior spaces in the United States. When it was completed in 1887, the Pension Bureau building (as it was originally called) was called the 'old barn' and mocked for its industrial scale. William Tecumseh Sherman refused to attend his own inaugural ball there, claiming it was unfit for the purpose."
+score: 8.1
 ---
 
 The National Building Museum occupies the old Pension Bureau building, a massive red brick Italianate structure completed in 1887 to process Civil War pension claims. The exterior frieze wraps around all four sides of the building showing a continuous procession of soldiers, sailors, and marines — over 1,200 figures in total.

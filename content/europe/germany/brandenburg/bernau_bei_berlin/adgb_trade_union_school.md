@@ -12,6 +12,7 @@ story: >
   core, with no hierarchical arrangement between teachers and students.
 sources:
   - https://en.wikipedia.org/wiki/ADGB_Trade_Union_School
+score: 8.7
 ---
 
 About 4km north of Bernau's town centre, on the edge of a pine forest, stands one of the most significant Bauhaus buildings in Germany. The ADGB Trade Union School was designed in 1928 by Hannes Meyer and completed in 1930 as an educational retreat for trade union officials. Its curved, sinuous layout — five residential wings radiating from a central core — broke decisively with the symmetrical rationalism of most Bauhaus work.

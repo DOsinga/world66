@@ -6,6 +6,7 @@ tags:
 - getting_there
 title: Drive yourself
 type: poi
+score: 3.8
 ---
 
 **Ijsselmeer Dam route** (also called Closing dike or Afsluitdijk route).

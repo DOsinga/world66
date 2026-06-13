@@ -6,6 +6,7 @@ longitude: -88.2700
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 Chetumal Bay itself is the city's main natural feature — a vast shallow estuary fed by the Río Hondo that defines the border with Belize. It is also one of the few places in the world where you can still see the West Indian manatee, an endangered marine mammal that grazes the bay's seagrass meadows. A protected sanctuary covers the bay's eastern reaches, and sightings, while never guaranteed, are reasonably common from boats.

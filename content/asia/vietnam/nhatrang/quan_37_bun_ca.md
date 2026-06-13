@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.2445
 longitude: 109.1962
+score: 7.3
 ---
 
 Quán 37 Bún Cá on Lê Lợi street is one of the best-known places in Nha Trang to try the local fish noodle soup. The broth here is turmeric-yellow, rich, and deeply fishy in the best possible way, topped with slices of fresh ocean fish, a few pieces of fried fish cake, and served with a plate of bean sprouts, fresh herbs, and chilli. It opens early and is busy from 6am.

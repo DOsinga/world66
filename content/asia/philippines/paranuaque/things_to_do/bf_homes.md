@@ -8,6 +8,7 @@ latitude: 14.4517
 longitude: 121.0249
 sources:
   - https://en.wikipedia.org/wiki/BF_Homes_Para%C3%B1aque
+score: 6.2
 ---
 
 BF Homes is Parañaque's most established residential district: a large, partially gated community of quiet streets, mature trees, and an unusually dense concentration of restaurants and cafes for a neighbourhood that was originally purely residential. Over the decades, the ground floors of many BF Homes houses have been converted into small businesses, and the result is a pleasant, walkable restaurant strip along Aguirre Avenue and its side streets.

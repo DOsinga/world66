@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0600
 longitude: 42.7400
+score: 6.6
 ---
 
 Hatsvali is the ski resort above Mestia, on the south-facing slopes of the Caucasus at around 2,000-2,400 metres. The current infrastructure — built in 2013 with a gondola from the base and several chairlifts above — replaced a Soviet-era facility that had fallen into disrepair. The skiing is modest: a few kilometres of groomed runs, suited to intermediate and beginner levels. The off-piste terrain above is considerably more interesting for advanced skiers.

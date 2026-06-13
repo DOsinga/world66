@@ -8,6 +8,7 @@ tags:
 - sight
 title: Acuario de Valencia
 type: poi
+score: 5.8
 ---
 
 The Acuario de Valencia (officially Acuario Fundación Seijas) was opened in 1976 and was the first public aquarium in Venezuela. It sits on a leafy block near the Avenida Cedeño and is one of the city's main family destinations, more a small zoological park than a pure aquarium.

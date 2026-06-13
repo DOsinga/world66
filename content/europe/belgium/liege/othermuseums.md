@@ -7,6 +7,7 @@ tags:
 latitude: 50.6445
 longitude: 5.5736
 snippet: Smaller museums covering glass, archaeology, and folklore
+score: 5.9
 ---
 
 Liège has several other museums worth seeking out beyond the big-name attractions:

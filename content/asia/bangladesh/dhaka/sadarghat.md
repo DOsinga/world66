@@ -8,6 +8,7 @@ latitude: 23.7
 longitude: 90.41
 story: >
   Bangladesh has over 700 rivers and a river transport system that carries millions of passengers annually. Sadarghat is the largest inland river port in the world by volume of traffic: on any given day, hundreds of launches, ferries, and country boats move through it, carrying people and cargo to every corner of the Ganges-Brahmaputra delta. In a country prone to cyclones and floods, the boat routes are often the only reliable connection between communities.
+score: 8.0
 ---
 
 The main river terminal on the Buriganga, where enormous wooden paddle steamers and launches depart for every corner of the Bangladesh river network. Sadarghat is one of the most viscerally impressive scenes in Dhaka: a continuous motion of boats, passengers, porters, food sellers, and hawkers at the edge of a wide, brown, busy river, with the skyline of old Dhaka behind.

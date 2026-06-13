@@ -9,6 +9,7 @@ tags:
 - architecture
 - altona
 neighbourhood: Altona
+score: 7.8
 ---
 
 Övelgönne is a single narrow waterfront lane in Altona's western reaches, with whitewashed fishermen's cottages on one side and the Elbe on the other. The Museumshafen — museum harbour — moored along the quay holds a collection of restored 19th- and early-20th-century working vessels: small steam tugs, an icebreaker, a lightship, a fleet of sailing barges. Many are still seaworthy and head out for sail-by events through the summer.

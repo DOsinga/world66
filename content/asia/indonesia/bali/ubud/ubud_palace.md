@@ -14,6 +14,7 @@ story: >
   an artistic centre. The palace continues to host traditional dance performances in its 
   courtyard most evenings, maintaining a tradition that the royal family has supported for 
   nearly a century.
+score: 7.4
 ---
 
 Puri Saren Agung — the Ubud Palace — occupies the central intersection of Ubud's two main streets, and it is both the physical and symbolic centre of the town. The palace is a working royal residence; the family of the Ubud royal house still lives in part of the complex. The outer courtyard is open to visitors during the day, and the elaborate carved gates, pavilions, and gardens give a sense of traditional Balinese court architecture.

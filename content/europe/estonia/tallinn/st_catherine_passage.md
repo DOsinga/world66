@@ -10,6 +10,7 @@ longitude: 24.7463
 snippet: Atmospheric medieval alley lined with artisan workshops and gallery spaces
 sources:
   - https://en.wikipedia.org/wiki/St._Catherine%27s_Passage,_Tallinn
+score: 7.3
 ---
 
 St. Catherine's Passage (Katariina käik) is a narrow medieval alley running between Vene and Müürivahe streets, passing along the wall of the former Dominican monastery of St. Catherine. The alley is lined with the tombstones of medieval monks embedded in the monastery wall, and the ground-floor premises have been converted into small artisan workshops — glassblowers, jewellers, textile artists, and ceramicists who work in open studios and sell from their own spaces.

@@ -10,6 +10,7 @@ tags:
 snippet: Eccentric 18-room castle built from granite, bottles, and desert debris
 title: Mystery Castle
 type: poi
+score: 7.4
 ---
 
 Mystery Castle may be the only castle you will ever see made from granite, recycled bottles, and bricks. Built in 1930, it boasts 18 rooms and 13 fireplaces, all furnished with traditional Southwest furniture. The grounds are surrounded by cacti and trees, with stone steps leading to the castle door. Tours cost about five dollars and are well worth it for this one-of-a-kind piece of Phoenix architecture.

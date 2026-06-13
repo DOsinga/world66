@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 9.1
 ---
 
 The Pinang Peranakan Mansion is the best museum in Georgetown for understanding the Peranakan or Straits Chinese — the descendants of early Chinese settlers who married local Malay women and developed a hybrid culture combining Chinese ancestry, Malay food and language, and (from the 19th century) British colonial taste. The mansion was the home and office of Kapitan Cina Chung Keng Kwee, a 19th-century tin baron and secret society leader; it was restored and opened to the public in 2005.

@@ -6,6 +6,7 @@ tags:
 latitude: 8.9230
 longitude: -79.5350
 snippet: Cluster of seafood restaurants and casual dining along the waterfront causeway
+score: 5.9
 ---
 
 The Amador Causeway has the best concentration of restaurants near Balboa, spread along the 6-kilometre breakwater between the mainland and Isla Flamenco. Seafood dominates — ceviche, fried fish, rice with shrimp — at a range of prices from casual open-air spots to proper sit-down restaurants with harbour views.

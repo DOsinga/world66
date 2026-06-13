@@ -6,6 +6,7 @@ longitude: -3.1008
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 The County Ground has been the home of Somerset County Cricket Club since 1882 and remains one of the most picturesque grounds on the county circuit, with St James's church tower in plain view over the pavilion roof. The ground is small by modern standards — capacity around 8,000 — but the atmosphere on a championship day is exactly what county cricket should feel like.

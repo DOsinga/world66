@@ -7,6 +7,7 @@ tags:
 - religious
 title: Saint Gregory the Illuminator Cathedral
 type: poi
+score: 6.8
 ---
 
 The largest cathedral of the Armenian Apostolic Church, consecrated in 2001 to mark 1,700 years of Christianity in Armenia. The vast central dome rises 54 metres above a stripped-back, almost austere interior — there are no frescoes, no painted vaults, just pale stone walls and a single carved altar. The effect is calmer and more modern than the country's medieval monasteries, which gives it a different kind of presence.

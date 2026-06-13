@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.1125
 longitude: 13.3568
+score: 7.1
 ---
 
 Palazzo Sclafani, opposite the cathedral, was built in 1330 by Count Matteo Sclafani in a Chiaramontese-Gothic style — three storeys of dressed limestone, double-arched windows in twos and threes, a battlemented cornice. It survives almost intact, one of the very few 14th-century secular palaces in Sicily still in original form.

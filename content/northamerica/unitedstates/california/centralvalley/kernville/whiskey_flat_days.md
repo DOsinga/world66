@@ -6,6 +6,7 @@ longitude: -118.4253
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 Whiskey Flat Days is the town's annual long weekend of old-west pageantry held over the Presidents' Day weekend in February. It is a chance for Kernville to reconnect with its original name (Whiskey Flat, before respectable folk renamed it Kernville in 1864) and the gold-mining frontier behind it.

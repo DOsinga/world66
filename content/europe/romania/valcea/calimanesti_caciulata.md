@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2280
 longitude: 24.3350
+score: 6.9
 ---
 
 Călimănești-Căciulata is a twin spa town on the Olt River south of Râmnicu Vâlcea, where mineral springs have drawn health visitors since the 19th century. The waters are rich in sodium chloride, calcium, and magnesium; there are several sanatoriums and hotels offering cures and treatments in the old Romanian style — more clinical than luxurious, but genuinely therapeutic. Romanian doctors still prescribe spa cures here.

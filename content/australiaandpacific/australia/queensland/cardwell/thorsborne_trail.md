@@ -11,6 +11,7 @@ story: >
   Numbers on the Thorsborne Trail are strictly limited to 40 walkers at any one time — fewer than almost any comparable wilderness walk in the world. The restriction exists to protect the island's ecosystem and the saltwater crocodiles, sea eagles, and cassowaries that use the same beach campsites. Permits sell out months in advance for the dry season months.
 sources:
   - https://en.wikipedia.org/wiki/Thorsborne_Trail
+score: 9.4
 ---
 
 The Thorsborne Trail is a 32 km multi-day walk along the eastern coast of Hinchinbrook Island, widely regarded as one of Australia's great wilderness hikes. The trail takes 3–5 days at a comfortable pace, camping on beaches backed by rainforest, crossing clear creek mouths, and passing under the granite peaks of Mount Bowen (1,121 m — the highest point in Queensland's national parks islands).

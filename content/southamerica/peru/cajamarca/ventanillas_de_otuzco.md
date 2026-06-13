@@ -14,6 +14,7 @@ story: >
   there were around 340 niches here. Many have been destroyed by looting and erosion,
   but enough remain to give a powerful sense of the scale of the site and the care
   taken in preparing the dead.
+score: 7.4
 ---
 
 Ventanillas de Otuzco is a pre-Inca necropolis about 8 km northeast of Cajamarca, where hundreds of burial niches have been carved directly into a tuff cliff face. The site dates from the Cajamarca culture, roughly 800–1000 AD, predating the Inca conquest of this region by several centuries. The niches are arranged in rows and columns across the cliff, some reaching several metres above the ground, and the effect is striking — a cliff honeycombed with small rectangular windows, each one a tomb.

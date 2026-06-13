@@ -12,6 +12,7 @@ story: >
   homesick for Versailles. He was born in France as a grandson of Louis XIV and never entirely
   felt at home in the austere Castilian landscape. He is buried in the palace chapel — the only
   Spanish king not interred at El Escorial — a pointed statement about where his heart remained.
+score: 9.1
 ---
 
 The Royal Palace of La Granja de San Ildefonso is one of Spain's finest Bourbon royal residences and a beautiful counterpoint to the severe grandeur of [El Escorial](/europe/spain/centralspain/elescorial). Felipe V built it beginning in 1720 as his own version of Versailles — smaller, but in the same French classical idiom — and the result is a palace that feels lighter and more graceful than most Spanish royal architecture.

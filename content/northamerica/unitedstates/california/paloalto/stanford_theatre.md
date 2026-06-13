@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Restored 1925 movie palace screening classic Hollywood film"
+score: 7.7
 ---
 
 A 1925 Spanish-Moorish movie palace on University Avenue, restored by David Packard's foundation in

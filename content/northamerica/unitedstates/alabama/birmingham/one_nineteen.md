@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: One Nineteen
 type: poi
+score: 6.1
 ---
 
 One Nineteen in Mountain Brook is one of Birmingham's most consistently excellent fine dining restaurants, with a menu focused on Southern ingredients and French technique. The wine list is well-curated and the service is attentive without being fussy. The outdoor terrace is one of the nicest places to eat in the city in good weather.

@@ -14,6 +14,7 @@ story: >
   surrendered elsewhere in Denmark. Nexø was the last place in Denmark to be
   liberated, and the postwar rebuilding explains the town's unusually uniform
   1950s streetscape.
+score: 7.6
 ---
 
 The Nexø Museum is the town's main cultural institution, covering both the history of the fishing port and the life of Martin Andersen Nexø, the novelist who grew up here and adopted the town's name as his pen name. His most celebrated works, including *Pelle the Conqueror* (1906–10), drew directly from his impoverished Bornholm childhood and were later adapted into an Oscar-winning film.

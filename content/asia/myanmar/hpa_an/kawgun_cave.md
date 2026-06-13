@@ -11,6 +11,7 @@ story: >
   Kawgun Cave contains one of the most remarkable collections of Buddhist votive art in Myanmar — tens of thousands of small terracotta Buddha figures and plaques pressed into the cave walls, packed so densely that the stone itself seems to be made of them. The oldest figures are dated to the 7th century by Mon inscriptions still readable on some plaques.
 sources:
   - https://en.wikipedia.org/wiki/Kawgun_Cave
+score: 8.8
 ---
 
 Kawgun Cave near the village of Kawgun, about 25 kilometres south of Hpa-an, is an extraordinary sight. The cave mouth opens onto the Thanlwin River, and the entire interior surface — walls, ceiling, every recess and ledge — is covered with thousands of miniature Buddha images pushed into the rock. Some are gilded, some painted, some weathered to bare terracotta. They accumulate in density that makes the cave feel more like a mosaic than a conventional pagoda.

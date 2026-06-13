@@ -9,6 +9,7 @@ latitude: 34.6082
 longitude: -120.0714
 sources:
   - https://en.wikipedia.org/wiki/Chumash_Casino_Resort
+score: 5.7
 ---
 
 The Chumash Casino Resort is the largest casino on the California Central Coast, owned and operated by the Santa Ynez Band of Chumash Mission Indians — the same community whose ancestors lived in this valley for thousands of years before the Spanish missions arrived. It sits on tribal land at the east end of town, off Highway 246.

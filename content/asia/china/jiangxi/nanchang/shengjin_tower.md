@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 28.6746
 longitude: 115.8947
+score: 7.6
 ---
 
 Shengjin Tower (绳金塔) is a seven-story Tang dynasty pagoda standing in the Xihu district, one of the few surviving ancient structures in a city that has been repeatedly rebuilt. The current structure dates primarily to reconstructions in the Song and Ming dynasties, though the site has been occupied since the Tang. The pagoda is compact and elegant rather than imposing, set in a small park surrounded by a temple complex that remains active.

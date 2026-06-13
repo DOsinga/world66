@@ -15,6 +15,7 @@ story: >
   It was the end of the crusader presence in the Holy Land.
 sources:
   - https://en.wikipedia.org/wiki/Fall_of_Ruad
+score: 7.8
 ---
 
 Near the west coast of the island stand the ruins of a Crusader castle that has an older history beneath it. The Phoenicians fortified this spot, and the structure was repeatedly rebuilt by successive rulers — Hellenistic, Roman, Byzantine, and finally Crusader. Locals traditionally attribute its founding to Alexander the Great, though there is no good evidence for this; the visible remains are mostly medieval.

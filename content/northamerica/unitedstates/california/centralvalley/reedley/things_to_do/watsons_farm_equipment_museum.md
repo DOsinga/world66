@@ -7,6 +7,7 @@ tags:
 latitude: 36.5589
 longitude: -119.4386
 address: "5716 S. Frankwood Avenue, Reedley, CA 93654"
+score: 7.1
 ---
 
 A quirky private collection on the outskirts of town, Watson's Antique Farm Equipment Museum houses dozens of restored tractors, combines, plows, and other machinery that once worked the Central Valley fields. The collection spans roughly a century of agricultural technology, from horse-drawn implements to early gasoline-powered machines.

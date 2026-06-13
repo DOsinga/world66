@@ -8,6 +8,7 @@ tags:
 - wildlife
 title: Dulhazra Safari Park
 type: poi
+score: 6.5
 ---
 
 Bangladesh's largest safari park, about 50 kilometres north of Cox's Bazar near Chakaria. The park covers around 900 hectares of mixed forest and has a resident population of Bengal tigers, Asian elephants, lions, bears, and deer. It is a government-run facility, which means it is affordable and fairly well maintained by Bangladeshi standards.

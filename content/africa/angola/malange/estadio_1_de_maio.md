@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -9.5496
 longitude: 16.3601
+score: 6.1
 ---
 
 The 1st of May Stadium is Malanje's main sports venue, used by the provincial clubs in the Girabola and Segundona — Angola's top two football divisions. It holds around 25,000 and on match days fills with drums, horns, and impressive vocal support from local fans.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.6826
 longitude: -105.9376
+score: 5.5
 ---
 
 A modest single-storey adobe across from San Miguel Chapel, marketed as the oldest house in America. The claim rests on a layer of clay foundation believed to date from before 1646, predating most rivals. The upper structure is much later — possibly the late seventeenth century — and the building has been knocked around and patched ever since.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.4
 ---
 
 Sukhna Lake is an artificial reservoir at the foot of the Shivalik Hills, dammed in 1958 to give the new city a piece of water for evening walks. The promenade along the southern shore is one of the most popular places in Chandigarh, busy from before dawn with joggers and tai chi groups, and from late afternoon with families eating chaat and drinking sugarcane juice.

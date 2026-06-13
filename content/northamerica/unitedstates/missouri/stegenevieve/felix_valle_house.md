@@ -9,6 +9,7 @@ latitude: 37.9775
 longitude: -90.046
 sources:
   - https://en.wikipedia.org/wiki/Ste._Genevieve_National_Historical_Park
+score: 7.8
 ---
 
 The Felix Vallé House (1818) represents a later period of Ste. Genevieve's history — built after the town's commercial heyday but during its transition from French colonial village to American frontier trading post. The house was built by Jean-Baptiste Pratte and later became the home and store of fur trader Felix Vallé, who operated a successful business here during the peak of the Missouri fur trade era.

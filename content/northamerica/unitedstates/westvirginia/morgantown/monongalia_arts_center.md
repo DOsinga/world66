@@ -9,6 +9,7 @@ latitude: 39.6281
 longitude: -79.9581
 sources:
   - https://en.wikipedia.org/wiki/Monongalia_Arts_Center
+score: 6.3
 ---
 
 The Monongalia Arts Center (MAC) is Morgantown's main arts venue, occupying a historic building near the WVU campus. The center hosts rotating gallery exhibitions of visual art, a permanent collection, and performance events across the year. The programming tends toward work by regional and national artists, with a particular focus on Appalachian themes and traditions.

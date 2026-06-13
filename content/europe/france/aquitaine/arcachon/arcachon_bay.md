@@ -15,6 +15,7 @@ story: >
   iodine-rich flavour from the bay's mix of ocean and river water.
 sources:
   - https://en.wikipedia.org/wiki/Arcachon_Bay
+score: 9.0
 ---
 
 The Bassin d'Arcachon is a vast enclosed bay — one of the largest in France — covering about 150 square kilometres at high tide. It is not a natural harbour in the conventional sense but a huge tidal lagoon, fed by the Eyre river from the inland Landes and opened to the Atlantic by a narrow gap between two sand spits. The tides here are dramatic: the bay drains almost completely at low water, leaving exposed mudflats and sandbanks that attract enormous flocks of waders and wildfowl.

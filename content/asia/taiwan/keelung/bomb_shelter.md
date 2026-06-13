@@ -5,6 +5,7 @@ latitude: 25.131
 longitude: 121.742
 snippet: "Wartime tunnel now used as a pedestrian shortcut through the city centre"
 tags: [things_to_do, sight, history]
+score: 7.4
 ---
 
 Keelung's old WWII bomb shelter is a practical piece of living history: a tunnel network built during the Japanese colonial period for civilian protection during Allied bombing raids, now repurposed as a pedestrian passageway cutting through the city centre. The passage is genuinely old — the brickwork and original structure are largely intact — and it sees daily foot traffic from locals using it as a shortcut between streets.

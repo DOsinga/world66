@@ -6,6 +6,7 @@ latitude: 35.4871
 longitude: -96.6818
 story: >
   Thorpe's 1912 Olympic gold medals in the pentathlon and decathlon were stripped by the IOC after it emerged that he had been paid a small sum to play minor-league baseball — a technicality that would be trivial by today's standards. The medals were finally restored to his family in 1983, thirty years after his death.
+score: 7.5
 ---
 
 The Jim Thorpe Home is a state historic site on the edge of Prague, preserving the two-storey white clapboard house where the athlete lived with his family in the early 20th century. Jim Thorpe (Wa-Tho-Huk, "Bright Path") was born near here in 1887, a member of the Sac and Fox Nation, and grew up to become arguably the most complete athlete America has ever produced.

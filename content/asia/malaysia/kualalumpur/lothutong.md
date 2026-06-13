@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bukit_bintang
   - restaurant
+score: 6.1
 ---
 
 A basement food court in the Lot 10 mall on Bukit Bintang, but a special one — curator Francis Yeoh assembled around twenty of KL's oldest and most respected hawker names, persuaded them to open branches under one air-conditioned roof, and called the project a Heritage Hawker Centre. The result is a one-stop tasting menu of KL's best street food without the heat or the queues of the originals.

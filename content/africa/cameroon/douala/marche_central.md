@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 4.0500
 longitude: 9.7050
+score: 7.7
 ---
 
 The Marché Central (Central Market) is Douala's main market and one of the largest in Central Africa. A sprawling, tightly packed complex near the Akwa district bus station, it sells everything from fresh produce and dried fish to textiles, electronics, household goods, and second-hand clothing. Go in the morning before the heat peaks and the crowds become overwhelming.

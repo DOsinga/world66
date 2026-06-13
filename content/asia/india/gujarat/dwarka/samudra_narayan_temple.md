@@ -6,6 +6,7 @@ tags:
 - sight
 title: Samudra Narayan Temple
 type: poi
+score: 6.1
 ---
 
 Samudra Narayan Temple stands near the Gomti's meeting with the sea, where river, ocean, and pilgrimage ritual overlap. It is smaller than the main temple but closely tied to the waterfront atmosphere.

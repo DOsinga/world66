@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Reconstructed feudal castle at the heart of Kokura
 story: "The original castle, built in 1602 by Hosokawa Tadaoki, was burned down by retreating samurai during the Boshin War in 1866. The current concrete reconstruction dates from 1959 — the donjon was rebuilt with an extra layer at the top that the original lacked, giving it a slightly top-heavy look that locals still debate."
+score: 7.0
 ---
 
 Kokura Castle sits on the Murasaki River at the edge of the arcade district, its white-walled donjon visible from much of the city centre. The original was the seat of the Ogasawara clan; the current reinforced-concrete reconstruction dates from 1959 and houses a museum of castle-town life and a small theatre.

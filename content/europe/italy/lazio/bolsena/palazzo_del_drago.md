@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Palazzo del Drago
 type: poi
+score: 5.4
 ---
 
 The Palazzo del Drago (also known as Palazzo Netti) is a Renaissance aristocratic palace on Via Francesco Cozza in the town centre, one of the more refined buildings in this otherwise medieval-scale town. The facade features the carved dragon emblem that gives the palace its common name.

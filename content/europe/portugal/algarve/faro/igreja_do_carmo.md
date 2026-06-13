@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 37.0199
 longitude: -7.9345
 snippet: "Twin-towered Baroque church with the famous Chapel of Bones behind it"
+score: 7.1
 ---
 
 The pinkish twin-towered church facing Largo do Carmo was built between 1713 and 1719, with gold sent back from Brazil paying for the lavish gilded interior. Two facing altarpieces, dripping with gilt cherubs and twisted columns, dominate the nave; the side chapel of São Caetano is particularly fine.

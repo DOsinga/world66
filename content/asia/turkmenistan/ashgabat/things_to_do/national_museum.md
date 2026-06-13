@@ -1,6 +1,7 @@
 ---
 title: "National Museum of Turkmenistan"
 type: poi
+score: 8.4
 ---
 
 The National Museum of Turkmenistan is, by floor space, one of the largest museums in Central Asia. The building itself is a statement — a vast domed structure on Archabil Avenue that could plausibly double as a government ministry — and the exhibits inside occupy five floors covering the full arc of Turkmen history from prehistoric times through to independence and the present day. The archaeological collections from Nisa, Merv, and the broader Parthian period are the highlight: genuine artefacts from one of the great trade civilisations of antiquity, including Parthian rhytons (drinking horns), Greek-influenced sculpture, and ceramics that trace the Silk Road's passage through what is now southern Turkmenistan.

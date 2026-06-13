@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3170
 longitude: 25.3893
+score: 6.2
 ---
 
 The small horseshoe harbour at the eastern end of town is the one corner of Hersonissos that still looks like Crete rather than a resort strip. A short stone breakwater shelters the working fishing fleet — perhaps thirty boats in bright reds and blues — and a line of tavernas along the quay serve grilled fish landed that morning. Look for a board-of-the-day rather than a menu.

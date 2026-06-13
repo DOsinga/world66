@@ -8,6 +8,7 @@ tags:
 - books
 title: Birds of Edmonton
 type: poi
+score: 4.8
 ---
 
 [](http://www.amazon.com/exec/obidos/ASIN/1-55105-125-7/osingacom?creative=125581&camp=2321&link_code=as1)

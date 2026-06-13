@@ -6,6 +6,7 @@ latitude: 45.9719
 longitude: 6.8858
 story: >
   The Lac Blanc refuge, which sits beside the lake at 2,352 metres, has been in continuous operation since 1891. During the golden age of alpinism, it was a starting point for climbs on the Aiguilles Rouges. The lake itself is named for the white granite boulders that line its shore, which glow pink at sunset against the Mont Blanc backdrop.
+score: 8.8
 ---
 
 Lac Blanc is the most photographed view in the Chamonix valley — a turquoise high-alpine lake at 2,352 metres with Mont Blanc and the main peaks of the massif reflected perfectly in its surface when the wind is still. The easiest approach is via the Flégère cable car followed by a walk of about 1.5 hours each way, climbing steadily through rocky alpine terrain. There is a refuge at the lake serving food and drinks, and it is possible to stay the night.

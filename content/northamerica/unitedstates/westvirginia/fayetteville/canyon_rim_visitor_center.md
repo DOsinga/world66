@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 38.0700
 longitude: -81.0789
+score: 7.4
 ---
 
 The Canyon Rim Visitor Center stands on the north end of the bridge. The exhibits inside cover the geology of the gorge, the history of coal mining and railroads through the canyon, and the area's transformation into a national park. Rangers can give current advice on hikes, river levels, and bridge events.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.1994
 longitude: 2.6976
+score: 5.8
 ---
 
 The bars and cafés around the Plaça de la Llibertat serve coffee, cold drinks, and **pa amb tomàquet** — the Catalan staple of bread rubbed with ripe tomato and olive oil, which here costs almost nothing and is better than it has any right to be.

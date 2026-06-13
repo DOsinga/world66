@@ -7,6 +7,7 @@ tags:
 latitude: 32.7479
 longitude: -117.1291
 snippet: San Diego's best neighbourhood for craft beer, local restaurants, and independent businesses
+score: 7.7
 ---
 
 North Park is the inner-city neighbourhood that has become the creative and culinary heart of San Diego over the past two decades. The intersection of 30th Street and University Avenue is surrounded by craft breweries, independent restaurants, coffee shops, record stores, and music venues in densely packed walkable blocks — rare for San Diego.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1124
 longitude: 11.5476
+score: 5.9
 ---
 
 The main square of Palazzuolo, lined with stone arcades and the houses of what was once a small market town. It is the social centre of village life: the morning paper, the evening passeggiata, and the table where every official festival begins.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A half-day tour of the Neretva wetlands by traditional flat-bottomed boat, the standard way to see the delta.
+score: 8.5
 ---
 
 The standard way to experience the Neretva delta is to hire a boat with a guide for half a day. Operators in Metković, Opuzen, and the smaller delta villages run trips in lađa or in modernised, motorised versions of the same hull, threading the narrow channels between mandarin orchards and reed islands. A typical tour includes stops to taste local wine and frogs' legs (the regional delicacy) and to watch the resident bird life — herons, kingfishers, marsh harriers, and migrating ducks in winter.

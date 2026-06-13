@@ -7,6 +7,7 @@ tags:
 latitude: 40.613
 longitude: 43.110
 snippet: Regional museum covering Kars province's history from prehistoric times through the Russian occupation
+score: 7.3
 ---
 
 The Kars Museum is a well-organised regional museum covering the long history of this frontier zone, from Chalcolithic and Bronze Age artefacts through Urartian, Hellenistic, Armenian, and Ottoman periods to the Russian occupation of the 19th and early 20th centuries. The collection is particularly strong on the medieval Armenian period — the richness of the regional material culture from this era is often underappreciated.

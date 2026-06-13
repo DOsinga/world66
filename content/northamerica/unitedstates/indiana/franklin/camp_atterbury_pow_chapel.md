@@ -9,6 +9,7 @@ latitude: 39.3861
 longitude: -86.0300
 story: >
   During World War II, Camp Atterbury held thousands of Italian prisoners of war, many of whom were put to work on local farms and construction projects. In 1943, the Italian POWs were given permission to build a chapel for their own use. They constructed it largely from scrap materials and painted the interior with murals depicting Italian religious scenes. After the war the camp was largely demolished, but the chapel survived and was restored — a remarkable piece of wartime history just outside Franklin.
+score: 8.2
 ---
 
 Camp Atterbury, about 10 miles south of Franklin, was a major World War II training and prisoner of war facility. The camp held thousands of Axis prisoners, predominantly Italians, who built a small chapel on the grounds using salvaged and improvised materials.

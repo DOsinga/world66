@@ -8,6 +8,7 @@ tags:
   - birdwatching
 title: "Domaine de la Palissade"
 type: poi
+score: 7.3
 ---
 
 Domaine de la Palissade protects a rare piece of Camargue near the natural mouth of the Rhone, where river, marsh, and sea still meet with relatively little engineering. Trails and observation points let you explore without disturbing the fragile habitats.

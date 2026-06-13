@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 46.2267
 longitude: 15.0836
+score: 8.5
 ---
 
 The Šempeter Roman Necropolis, about 11 km west of Celje on the road toward Vransko, is one of the most impressive and least-visited Roman sites in Slovenia. Four monumental tomb monuments from the 1st to 3rd century AD stand in an outdoor setting alongside the Savinja River, reconstructed from fragments discovered during road construction in 1952.

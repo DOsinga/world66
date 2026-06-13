@@ -10,6 +10,7 @@ tags:
 neighbourhood: Midtown
 title: Charles H. Wright Museum of African American History
 type: poi
+score: 7.9
 ---
 
 The Charles H. Wright Museum holds the largest permanent exhibit on African American history of any museum in the country: "And Still We Rise" walks visitors from West African origins through the Middle Passage, slavery, the Civil War, Reconstruction, the Great Migration, the Civil Rights movement, and modern Detroit. The atrium below the central dome is laid with a circular bronze map of the African diaspora.

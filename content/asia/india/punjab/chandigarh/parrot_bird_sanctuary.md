@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - wildlife
+score: 6.2
 ---
 
 A small but charming patch of trees in Sector 21 that serves as a roosting site for thousands of rose-ringed parakeets. At dusk the parakeets stream in from all over the city in screeching green waves and settle on a few favourite trees, a spectacle that lasts about half an hour and is best watched from the open lawn.

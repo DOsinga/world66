@@ -10,6 +10,7 @@ tags:
   - island
   - wildlife
 story: "Nosy Komba is sometimes called Nosy Ambariovato — 'the island surrounded by stone' — for the rocky reef that rings its coast. The black lemurs here are not wild in any strict sense: villagers feed them bananas at the edge of the forest, and they will climb a tourist's shoulder for one without hesitation. Whether this is a fair trade for the photographs is up to you."
+score: 7.8
 ---
 
 A 20-minute boat ride south of Hell-Ville lies the volcanic cone of Nosy Komba. The settlement of Ampangorinana on the north coast is the standard stop on day-trip itineraries: a beach lined with embroidery and woodcarving stalls, a path up to a clearing where habituated black lemurs come down for bananas, and a swimming bay.

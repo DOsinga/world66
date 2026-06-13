@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 12.1080
 longitude: -86.2580
+score: 5.9
 ---
 
 Peruvian restaurants have proliferated across Latin America in the past two decades as ceviche and lomo saltado won international audiences. Managua has several good Peruvian options, and La Terraza Peruana on the Carretera Masaya strip is among the better ones — a proper sit-down restaurant with a full menu of ceviches, tiraditos, causas, and grilled dishes, run by a Peruvian family.

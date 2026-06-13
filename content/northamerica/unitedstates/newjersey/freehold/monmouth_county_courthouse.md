@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The Classical Revival courthouse that anchors Freehold's historic downtown
+score: 6.4
 ---
 
 The Monmouth County Courthouse, an imposing Classical Revival building rebuilt in 1955 on the historic original site, remains the seat of county government and the focal point of downtown Freehold. The surrounding stretch of Court Street is the oldest part of the town, and several 18th- and 19th-century buildings survive nearby, giving the block a coherent historic character that much of suburban New Jersey has long since lost.

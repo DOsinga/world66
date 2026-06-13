@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 story: "The collection was built in the late 19th century as a teaching tool at the University Hospital Eppendorf. Wax moulages — life-size painted casts of patients' skin diseases, tumours and surgical conditions — were the era's answer to colour photography, and the museum holds one of the largest surviving collections in Europe, made by the in-house moulageur Karl Henning between 1909 and 1934."
+score: 7.0
 ---
 
 The Medizinhistorisches Museum, in a corner of the University Hospital Eppendorf, is a small but quietly disturbing collection of anatomical specimens, surgical instruments, wax moulages of diseases and a reconstructed early-20th-century operating theatre. It is not for queasy visitors.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4615
 longitude: 30.5169
+score: 7.0
 ---
 
 A whimsical sculpture park strung along a hillside between the Saint Andrew's Church and the Historical Museum, populated by oversized cartoon-figure sculptures, mosaic-tiled benches, and Cheshire-cat staircases. The project began informally in the 2000s and has been added to gradually since.

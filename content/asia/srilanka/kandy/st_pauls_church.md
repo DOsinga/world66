@@ -14,6 +14,7 @@ story: >
   dysentery, and other tropical diseases rather than by any conflict. The inscriptions
   record a steady attrition of administrators and their families that the official
   histories of the colonial period tend to overlook.
+score: 6.7
 ---
 
 St. Paul's Church stands near the lake on the edge of the temple complex area, a solid neo-Gothic structure built by the British colonial administration in 1843. The interior is modest but cool, with stained glass windows and memorial plaques to British soldiers and administrators. The churchyard is worth a slow walk for its inscriptions.

@@ -9,6 +9,7 @@ latitude: 34.0010
 longitude: 118.5100
 story: >
   Luoma Lake takes its name from a legend: a celestial horse (luo ma) was said to have galloped across this part of the plain, leaving hoofprints that filled with water and became the lake. The less romantic explanation involves the same hydraulic dynamics that created Hongze Lake — excess water from the Huai River system finding its lowest point.
+score: 6.6
 ---
 
 Luoma Lake lies east of the city and offers quieter, less developed access to Suqian's lake scenery than Hongze to the south. The lake is smaller but more intimate, with reed beds along the margins, fishing villages on the eastern shore, and a waterway network that connects to the Grand Canal. Boat trips are available from several points around the lake, and the flat agricultural landscape surrounding it has a particular quality in early morning light.

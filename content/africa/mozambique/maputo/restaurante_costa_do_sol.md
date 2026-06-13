@@ -11,6 +11,7 @@ tags:
   - restaurant
   - seafood
 neighbourhood: Costa do Sol
+score: 7.8
 ---
 
 The **Restaurante Costa do Sol** is the city's most famous restaurant and one of its longest survivors. Opened in 1933 in a salmon-pink Art Deco building right on the bay at the end of the Avenida Marginal, it has changed barely at all in nine decades — the wooden ceilings, the long bar, the terrace tables, the heavy white tablecloths.

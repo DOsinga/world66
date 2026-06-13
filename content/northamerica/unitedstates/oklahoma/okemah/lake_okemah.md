@@ -7,6 +7,7 @@ tags:
 - outdoors
 title: Lake Okemah
 type: poi
+score: 5.5
 ---
 
 Lake Okemah is a small reservoir a few miles east of downtown, created by damming a tributary of the Deep Fork River. It is a local fishing spot — catfish, bass, and crappie — and a pleasant place for a picnic or an evening walk. The lake sees little of the development that surrounds Oklahoma's bigger reservoirs, which gives it a quiet, unhurried feel.

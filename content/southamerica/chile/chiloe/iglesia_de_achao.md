@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Iglesia de Achao
 type: poi
+score: 8.2
 ---
 
 The Church of Achao, on Quinchao Island, is one of the oldest and most important wooden churches in the archipelago. Its weathered exterior is modest, but the interior has the deep calm of a building shaped by long use.

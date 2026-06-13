@@ -6,6 +6,7 @@ latitude: -36.3653
 longitude: 145.4189
 story: >
   Albanian Muslims began settling in Shepparton in significant numbers in the 1960s and 1970s, drawn by work in the fruit-processing industry. The community eventually built this mosque — one of very few Albanian-rite mosques in Australia — as a marker of a migration story that played out quietly in the orchards and canneries of the Goulburn Valley.
+score: 6.7
 ---
 
 The Albanian Mosque is a distinctive building in a residential suburb of Shepparton — a reminder that the city's food-processing industry drew migrants from across the world, including a substantial Albanian Muslim community that has maintained its own religious traditions here for decades.

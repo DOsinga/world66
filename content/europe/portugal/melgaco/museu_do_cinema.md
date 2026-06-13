@@ -11,6 +11,7 @@ story: >
   (1908–2015), who directed his first film in 1931 and his last in 2014 at the
   age of 105 — making him the world's oldest active filmmaker. His hometown
   honour him with a collection that spans a century of cinema.
+score: 7.3
 ---
 
 Melgaço has an improbable claim to fame in the film world: it was the birthplace of Manoel de Oliveira, Portugal's greatest filmmaker and one of the last surviving directors to have made silent films. The Museum of Cinema in the town centre collects equipment, posters, correspondence, and documentation spanning the full history of the medium, with particular focus on Oliveira's extraordinary career.

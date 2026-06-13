@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.4
 ---
 
 A Queen Anne Victorian built in 1891 by James Pritchard, a banker and merchant who built much of early Titusville. The two-story frame house — turrets, wraparound porch, decorative shingles — remained in the Pritchard family until 2005, which is part of why it survived intact while most of its neighbours were torn down.

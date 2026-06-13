@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 8.5
 ---
 
 A long, brilliantly lit corridor on the third floor of the Vatican Museums, lined with 40 large topographical maps of Italy frescoed onto the walls between 1580 and 1583. Pope Gregory XIII commissioned them from the Perugian geographer and cosmographer Ignazio Danti.

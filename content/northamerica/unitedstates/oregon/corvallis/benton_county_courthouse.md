@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Benton County Courthouse is a striking example of Italianate architecture, dating from 1888 and considered one of the finest historic courthouses in Oregon. Its brick facade, arched windows, and cupola make it a visual anchor for the downtown area. The building is still in use as an active courthouse, which keeps it maintained and gives it a purposeful feel rather than the slightly forlorn quality of some preserved buildings.

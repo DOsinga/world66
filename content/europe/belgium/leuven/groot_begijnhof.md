@@ -15,6 +15,7 @@ story: >
   beguine movement faded, the complex fell into disrepair and was used as a barracks and then a slum, before 
   KU Leuven bought it in 1962 and spent decades restoring it brick by brick. Today it houses around 1,000 
   students, making it possibly the only UNESCO World Heritage Site you can rent a room in.
+score: 9.1
 ---
 
 The Groot Begijnhof is the finest thing in Leuven, and arguably one of the most beautiful enclosed communities in northern Europe. It is a complete medieval neighbourhood in miniature: a dozen cobbled streets lined with brick and sandstone houses dating from the 13th to 17th centuries, threaded through by the small river Dijle, with a church at its centre. The whole enclave is closed to traffic and has an extraordinary atmosphere of quiet, especially in the early morning or late evening when the students who now inhabit it have retreated indoors.

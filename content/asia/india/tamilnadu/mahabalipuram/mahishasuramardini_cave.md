@@ -9,6 +9,7 @@ tags:
 - historic_site
 - temple
 story: The relief panel here showing Durga slaying the buffalo-demon Mahishasura is one of the finest examples of Pallava sculpture anywhere — the goddess fights with eight arms, each holding a different weapon, her expression serene while the battle rages around her. The opposite wall carries an equally remarkable scene of Vishnu reclining on the cosmic serpent, attended by celestials. Both panels date to the 7th century.
+score: 8.8
 ---
 
 The Mahishasuramardini Cave Temple is cut into the hillside above the main Mahabalipuram complex, up a path past Krishna's Butterball. The cave itself is a modest mandapa with three chambers, but its two principal relief panels rank among the most important Pallava sculptures in existence.

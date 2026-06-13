@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Callendar_House
 story: >
   Mary Queen of Scots stayed at Callendar House in 1561, and Oliver Cromwell used it as his headquarters during his invasion of Scotland in 1650. The house was later home to William Forbes, whose eccentric mausoleum now sits in the Callendar Woods nearby — a Victorian folly that has been quietly rotting into atmospheric ruin ever since.
+score: 7.5
 ---
 
 Callendar House is a large French Renaissance-style mansion at the edge of a country park east of Falkirk town centre. The original fortified house dates from the 14th century, though what you see today is largely a mid-19th century remodelling. The interior houses the local history museum for Falkirk, but done properly — rooms are furnished in period style from different eras of the house's history, so you walk from a Georgian kitchen to a Victorian parlour to a room exploring the area's industrial heritage.

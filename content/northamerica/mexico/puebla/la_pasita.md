@@ -7,6 +7,7 @@ tags:
 latitude: 19.0413
 longitude: -98.1965
 snippet: "A cantina since 1916, famous for its raisin liqueur served with a cube of cheese on a toothpick"
+score: 7.3
 ---
 
 A small, irreplaceable cantina that has been operating since 1916, tucked on a side street near the Barrio de los Sapos. The entire business model is based on a single product: pasita, a sweet raisin-flavoured liqueur made in-house and served in a small glass with a cube of fresh white cheese impaled on a toothpick. You eat the cheese, you drink the pasita. That is the menu.

@@ -17,6 +17,7 @@ title: Dulle Griet
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Dulle_Griet
+score: 6.6
 ---
 
 Dulle Griet ("Mad Meg") is a large medieval wrought-iron cannon, dating from around 1430, sitting on display at the Grootkanonplein near the Vrijdagmarkt. At nearly 5 metres long and weighing over 12 tonnes, it is one of the largest medieval bombards in existence. It was used to hurl heavy stone balls over city walls — a weapon of siege, not of battle.

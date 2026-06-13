@@ -7,6 +7,7 @@ tags:
 latitude: 9.0289
 longitude: 38.7450
 snippet: "The traditional Ethiopian coffee ceremony — a ritual as old as the drink itself"
+score: 7.8
 ---
 
 The Ethiopian coffee ceremony is not a single venue but a cultural practice found throughout the country and in many cafes and restaurants in Addis. Green coffee beans are roasted over charcoal in front of guests, ground by hand, and brewed in a clay jebena pot. The ceremony involves three rounds of coffee — abol, tona, and baraka — representing strength, blessings, and grace respectively.

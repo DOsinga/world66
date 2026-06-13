@@ -6,6 +6,7 @@ tags:
   - cbd
 latitude: -31.9535
 longitude: 115.8566
+score: 4.8
 ---
 
 Hay Street Mall and the parallel Murray Street Mall form the pedestrian shopping heart of Perth's CBD, a several-block stretch of mainstream retail that includes David Jones and Myer department stores, the major Australian chains, and a mix of international brands and local retailers. London Court (the Tudor arcade) connects Hay Street through to St George's Terrace, providing a more characterful shortcut than the surrounding glass-fronted shops. The malls are functional rather than inspiring as a retail experience, but they are well-shaded, air-conditioned in the arcades, and represent the practical core of city shopping.

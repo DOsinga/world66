@@ -14,6 +14,7 @@ story: >
   botanist and clergyman who worked in Finland during the early nineteenth century and was
   known for his research on lichens — an appropriately modest subject for a ship that has
   spent its life quietly outlasting expectations.
+score: 5.8
 ---
 
 The F.P. von Knorring, a small 1928 passenger vessel moored in the eastern harbour, has operated as a floating guesthouse and tourist attraction for several decades. The ship is smaller and less dramatic than the Pommern but has the distinct advantage of being an actually functioning historic vessel. Visitors can go aboard and see the original fittings; the ship occasionally hosts events and exhibitions.

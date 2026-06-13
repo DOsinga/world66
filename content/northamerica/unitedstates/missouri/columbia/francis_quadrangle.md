@@ -8,6 +8,7 @@ latitude: 38.9480
 longitude: -92.3286
 story: >
   The six Ionic columns standing in the quadrangle are all that remain of Academic Hall, which burned to the ground in 1892. The university decided to leave the columns in place as a reminder. Students still hold the superstition that walking between them before graduation will bring bad luck — a tradition that ensures the columns remain the most carefully avoided structures on campus.
+score: 8.0
 ---
 
 The Francis Quadrangle is the historic heart of the University of Missouri, a broad open lawn surrounded by the oldest buildings on campus. At the far end stand the six limestone Ionic columns, the ruins of Academic Hall — the original university building, destroyed by fire in 1892. The columns were left standing as a memorial and are now the symbol of the university.

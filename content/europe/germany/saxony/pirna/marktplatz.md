@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Pirna's Renaissance market square, one of the best-preserved in Saxony"
+score: 8.2
 ---
 
 The Marktplatz is the heart of Pirna's old town and one of the most coherent Renaissance and late-Gothic squares in Saxony. The surrounding burghers' houses were built largely in the 16th century, after the town prospered from the Elbe trade in timber and sandstone — the same golden sandstone used to build much of Dresden. The houses have held their proportions and their stepped gables unusually well; bomb damage that flattened so much of this region largely spared Pirna's centre.

@@ -7,6 +7,7 @@ tags:
 - nature
 title: Pine Island
 type: poi
+score: 7.8
 ---
 
 Pine Island is the largest island on the Gulf Coast of the United States, but it looks nothing like what that description might suggest — no beach, no resort hotels, no condominiums. The western shore faces Pine Island Sound and is backed by mangroves rather than open Gulf; the island's quiet towns of Matlacha, Pine Island Center, St. James City, and Bokeelia have retained the character of working fishing communities in ways that most of coastal Florida has not.

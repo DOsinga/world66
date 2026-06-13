@@ -10,6 +10,7 @@ tags:
 neighbourhood: Downtown
 title: Campus Martius Park
 type: poi
+score: 6.3
 ---
 
 Campus Martius is the central square at the heart of downtown Detroit, where Woodward Avenue, Michigan Avenue, and four other streets converge. The space was redesigned in 2004 as a year-round public park: in summer it has a sand beach with deck chairs and a band stage; in winter it hosts the largest outdoor ice rink in the city. Cadillac Square next door extends the public space east.

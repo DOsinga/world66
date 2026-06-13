@@ -14,6 +14,7 @@ story: >
   The actual builders were Ancestral Puebloans — a mistake that has stuck for
   over 150 years despite the best efforts of archaeologists and the Pueblo
   peoples descended from the site's builders.
+score: 8.6
 ---
 
 About 12 miles northeast of Farmington in the town of Aztec, this UNESCO World Heritage Site preserves a large Ancestral Puebloan complex built between 1100 and 1300 CE. The ruins include multi-storey masonry structures, ceremonial rooms, and — the highlight — the Great Kiva, the oldest and largest reconstructed great kiva in North America. You can walk down into it and stand in a circular room 48 feet in diameter, with massive wooden columns supporting a reconstructed roof.

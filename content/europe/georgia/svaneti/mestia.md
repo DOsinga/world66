@@ -15,6 +15,7 @@ story: >
   a local museum in Mestia. The result is that one of the finest collections
   of medieval Georgian art in existence sits in a small town that most
   people have not heard of.
+score: 8.7
 ---
 
 Mestia is the capital of the Svaneti region — a small, chaotic, charming town at 1,500 metres in the upper Enguri valley, surrounded by peaks rising to nearly 5,000 metres. The town has improved its infrastructure significantly since 2010, with new guesthouses, a few restaurants, cleared roads, and a new terminal for the small airport. The medieval Svan towers still stand throughout the town; about 30 are intact in Mestia alone, giving the skyline an extraordinary bristling quality.

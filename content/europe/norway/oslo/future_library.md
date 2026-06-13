@@ -14,6 +14,7 @@ story: >
   it as "a vote of confidence in the future" — an act of faith that there will still be readers,
   books, and trees in 100 years. The first author was Margaret Atwood. No one alive today will
   read what she wrote.
+score: 6.7
 ---
 
 The Future Library is one of the most quietly radical art projects in Europe: a 100-year publishing project in which one author per year contributes an unpublished manuscript to be printed and released in 2114. The manuscripts are stored in a purpose-built room in the new Deichman Library at Bjørvika, alongside a small exhibition about the project. In the Nordmarka forest north of Oslo, 1,000 trees have been planted that will eventually be cut to print the collection.

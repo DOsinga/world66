@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.3103
 longitude: 9.5008
+score: 7.5
 ---
 
 The **Orangerie** is a long, low Baroque pleasure palace stretching along the bank of the Fulda at the edge of the **Karlsaue** park. Built between 1703 and 1711 by Landgrave Karl, it now houses the city's astronomy and physics museum (the Astronomisch-Physikalisches Kabinett) and a planetarium.

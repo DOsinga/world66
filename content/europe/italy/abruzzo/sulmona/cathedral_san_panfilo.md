@@ -5,6 +5,7 @@ latitude: 42.0539
 longitude: 13.9206
 snippet: "Romanesque-Gothic cathedral with an elaborate crypt — Sulmona's oldest major church"
 tags: [things_to_do, sight, architecture, historic]
+score: 7.5
 ---
 
 The Cathedral of San Panfilo stands a short walk north of the old town centre, on the spot where (according to tradition) a Roman temple to Apollo and Vesta once stood. The current building dates mainly from the 11th to 13th centuries, with Gothic and later additions; the 2009 earthquake forced a long restoration that has now reopened the church to visitors.

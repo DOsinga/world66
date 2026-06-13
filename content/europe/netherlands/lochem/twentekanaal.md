@@ -9,6 +9,7 @@ tags:
   - sight
   - cycling
   - canal
+score: 6.6
 ---
 
 The Twentekanaal — built in the 1930s to link Twente's industry with the IJssel — runs east-west just north of Lochem. The towpath cycle route along its straight bank is one of the easiest long-distance rides in the Achterhoek, suitable for any bicycle and almost flat. East takes you toward Goor and Hengelo; west, toward the lock at Eefde and the IJssel itself.

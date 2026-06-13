@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Wé
 type: poi
+score: 4.5
 ---
 
 Wé is Lifou's administrative centre — and by island standards, its only real town. It's where the airstrip lands, where the supply boats come in, and where you'll find the bank, the supermarket, the post office, and most of the rentable accommodation. None of that adds up to a destination in its own right, but you'll pass through repeatedly.

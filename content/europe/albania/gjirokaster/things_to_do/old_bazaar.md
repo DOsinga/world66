@@ -1,6 +1,7 @@
 ---
 title: "Old Bazaar"
 type: poi
+score: 8.7
 ---
 
 The old bazaar district below the castle is one of the most atmospheric in Albania — a cluster of low stone workshops, covered arcades, and stepped alleys that has barely changed in form since the 18th century. Most of the traders here deal in practical goods rather than tourist souvenirs, which keeps the bazaar feeling genuinely lived-in rather than performed. The cobblestones are original and brutal underfoot; wear decent shoes.

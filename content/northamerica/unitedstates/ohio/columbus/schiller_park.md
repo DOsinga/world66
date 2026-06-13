@@ -8,6 +8,7 @@ tags:
 latitude: 39.9461
 longitude: -82.9985
 snippet: "German Village's green heart, with a pond, a statue of Schiller, and summer theatre"
+score: 6.2
 ---
 
 Schiller Park is the centrepiece of German Village, a 23-acre park surrounded by Victorian brick cottages. A statue of the German poet Friedrich Schiller stands at its centre — a gift from the German-American community in 1891 — and a small pond reflects the surrounding trees in good weather.

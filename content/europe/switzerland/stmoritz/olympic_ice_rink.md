@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sport
 type: poi
+score: 6.9
 ---
 
 The Olympic Ice Rink at St. Moritz was the venue for figure skating and speed skating at the 1928 and 1948 Winter Olympics, making it one of a very small number of outdoor rinks with two Olympic Games to its credit. It remains in use through the winter season and is open for public skating alongside more serious training and competition.

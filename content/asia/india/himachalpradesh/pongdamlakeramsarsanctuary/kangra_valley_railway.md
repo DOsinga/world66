@@ -9,6 +9,7 @@ latitude: 32.055
 longitude: 76.090
 snippet: A narrow-gauge mountain railway running through Shivalik valleys from Pathankot to Jogindernagar, passing through Nagrota Surian
 story: The Kangra Valley Railway opened in 1929, built primarily to serve the hill stations and tea gardens of the Kangra valley. At 164km, it is one of the longest narrow-gauge railways in India. Despite its age and multiple threats of closure over the decades, it continues to operate as one of the few practical links for communities in the mid-hills. The railway is now listed as a UNESCO World Heritage candidate as part of the Mountain Railways of India.
+score: 7.7
 ---
 
 The Kangra Valley Railway is a narrow-gauge (2 ft 6 in) mountain railway that runs 164km from Pathankot, at the base of the hills, through the Kangra valley to Jogindernagar. Nagrota Surian is one of the stations on the line. The railway passes through some of the most visually striking terrain in Himachal Pradesh — the Shivalik foothills give way to the mid-Himalayan ranges, and the track crosses numerous river gorges and cuts through dense forest on a line that has changed little since its construction.

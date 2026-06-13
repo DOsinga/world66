@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The Cathedral of Saints Peter and Paul is the dominant building of central Šiauliai — a tall white Renaissance and Baroque church with a 70-metre tower that, when built in the early 1600s, was for a long time the tallest in Lithuania. The interior holds an ornate Baroque main altar and a striking 17th-century sundial on the south façade.

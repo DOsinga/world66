@@ -15,6 +15,7 @@ story: >
   in fact it is an expression of Mahayana Buddhist cosmology rather than Hindu
   geometry, and the 216 faces staring from its towers are generally believed to
   represent the Bodhisattva Avalokiteshvara blended with the king's own features.
+score: 9.1
 ---
 
 **The Bayon** stands at the exact geometric centre of Angkor Thom, Jayavarman VII's great walled city. It is one of the most extraordinary buildings in the world: a mountain of towers, each carved with four enormous serene faces gazing to the four compass points, so that from a distance the structure seems to bristle with eyes. At its height the temple had 54 towers bearing 216 faces in total — a deliberate number, matching the 54 provinces of the Khmer empire and the 54 gods and demons who churn the cosmic ocean in Hindu mythology.

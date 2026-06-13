@@ -9,6 +9,7 @@ tags:
 - sight
 title: Pier 39
 type: poi
+score: 6.4
 ---
 
 San Francisco's most visited attraction is a two-level waterfront shopping and dining complex built on a former cargo pier. It is unabashedly touristy — souvenir shops, chain restaurants, and street performers — but it earns its place on the itinerary for one reason: the sea lions.

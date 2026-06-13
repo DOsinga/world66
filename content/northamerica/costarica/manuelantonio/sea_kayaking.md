@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 9.3900
 longitude: -84.1420
+score: 7.0
 ---
 
 Sea kayaking along the Manuel Antonio coastline offers a perspective on the park's sea cliffs and coves that you cannot get on foot. The Punta Quepos headland has interesting rock formations, and paddling into the sheltered bays at low tide gives access to beaches that the park trails do not reach.

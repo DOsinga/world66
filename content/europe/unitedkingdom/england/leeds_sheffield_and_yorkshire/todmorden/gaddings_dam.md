@@ -16,6 +16,7 @@ story: >
   the community eventually claimed the land. Today it is managed by the Gaddings
   Dam Community Association and charges a small fee in summer to help maintain
   the site — one of the more charming instances of common land use in West Yorkshire.
+score: 8.2
 ---
 
 Gaddings Dam is often described as England's highest beach, a reservoir at around 1,300 feet that has developed a sandy shore on its south side and become popular for wild swimming in summer. The walk up from Todmorden takes about an hour through heather moorland; the climb is real and the reward, on a warm day, is a mountain lake experience that feels improbable for West Yorkshire.

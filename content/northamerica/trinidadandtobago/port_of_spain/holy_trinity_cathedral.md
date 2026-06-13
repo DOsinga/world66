@@ -9,6 +9,7 @@ latitude: 10.6523
 longitude: -61.5104
 sources:
   - https://en.wikipedia.org/wiki/Holy_Trinity_Cathedral,_Port_of_Spain
+score: 7.5
 ---
 
 The Anglican Holy Trinity Cathedral stands near the Woodford Square and the Red House, its Gothic spire rising above the surrounding colonial-era streetscape. Built in the nineteenth century in an English Gothic style, it houses a carved wooden throne said to have been given by the Duke of Wellington, who served briefly in the Caribbean in the 1790s, as well as several marble memorial tablets to colonial-era governors and military officers.

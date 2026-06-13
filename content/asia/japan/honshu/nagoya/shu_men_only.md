@@ -8,6 +8,7 @@ tags:
 - bar
 title: Shu (Men Only)
 type: poi
+score: 4.2
 ---
 
 A small, welcoming gay bar on the second floor of the Manshin Building, overlooking the Horikawa river. Shu keeps a well-stocked selection of spirits and the atmosphere is relaxed and friendly. Men only.

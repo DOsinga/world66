@@ -8,6 +8,7 @@ latitude: 29.5547
 longitude: 106.5353
 story: >
   The museum's most dramatic exhibit is the full-scale model of the Three Gorges Dam, showing the scale of the project — 2.3 kilometres long and 185 metres high — in physical form that makes the engineering achievement comprehensible in a way that photographs cannot. It sits alongside a history of industrial development in the Chongqing region that traces the city's transformation from river trading post to one of China's largest manufacturing centres.
+score: 5.6
 ---
 
 The Chongqing Science and Technology Museum is a large modern facility on the Yuzhong peninsula near the People's Auditorium. Its interactive exhibits cover physics, astronomy, engineering, and the history of technology, making it primarily a destination for families with children.

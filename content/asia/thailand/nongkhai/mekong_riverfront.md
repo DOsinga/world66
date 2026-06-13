@@ -14,6 +14,7 @@ story: >
   that rise from the water each October at the end of Buddhist Lent (Bang Fai Phaya Nak)
   are attributed to the serpent's breath. Thousands come to watch; scientists have
   proposed various natural explanations, but none has fully satisfied the locals.
+score: 8.2
 ---
 
 The riverside promenade that runs through the centre of Nong Khai is one of the most pleasant stretches of Mekong waterfront in Thailand. The path follows the river for several kilometres past temples, old wooden shophouses, guesthouses and restaurants, with Laos visible just across the water — close enough to see people on the far bank but far enough to feel like a proper border.

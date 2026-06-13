@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 33.3380
 longitude: 44.4010
+score: 5.9
 ---
 
 The Tigris River has run through the centre of Baghdad since the city was founded in 762 CE by the Abbasid Caliph Al-Mansur, and the riverfront remains one of the city's most pleasant public spaces. The long promenade on the western bank is lined with parks, gardens, and open-air cafes, and on a Thursday or Friday evening it fills with families, young couples, and fishermen.

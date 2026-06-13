@@ -5,6 +5,7 @@ tags: [eating_out, market, sight]
 latitude: 44.4777
 longitude: -73.2148
 snippet: Burlington's beloved food co-op, a serious grocery and deli for local Vermont produce
+score: 7.8
 ---
 
 City Market, also known as the Onion River Co-op, is a full-service natural foods cooperative on South Winooski Avenue, a short walk from Church Street. It is one of the best food shops in Vermont and a genuine community institution — member-owned, committed to local sourcing, and operating a hot food counter and deli that serves as an informal lunch spot for half the city.

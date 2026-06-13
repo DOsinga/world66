@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4093
 longitude: -77.1012
+score: 6.6
 ---
 
 Shaw Park Botanical Gardens sits on a hilltop above Ocho Rios, reached by a steep drive up from the main road. At 25 acres, it offers a well-maintained collection of tropical plants, including palms, bromeliads, orchids, and bamboo groves, with views down over the bay and the town below. A small waterfall tumbles through the grounds, and the paths are largely flat and easy to walk.

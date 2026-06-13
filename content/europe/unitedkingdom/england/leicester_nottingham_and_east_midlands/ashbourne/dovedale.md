@@ -8,6 +8,7 @@ latitude: 53.0522
 longitude: -1.7804
 story: >
   Izaak Walton wrote about fishing the River Dove in "The Compleat Angler" in 1653, making Dovedale one of the earliest tourist attractions in England. The stepping stones at the valley entrance have been there since at least 1890, placed for Victorian visitors who arrived by the thousand on the newly opened railway.
+score: 9.2
 ---
 
 Dovedale is a spectacular limestone gorge running northward from Thorpe, about 5 km from Ashbourne, and one of the most popular walking destinations in the Peak District. The River Dove carves through the gorge beneath towering rock pillars, pinnacles, and crags — Thorpe Cloud, Ilam Rock, Pickering Tor — while ash woodland clings to the valley sides. The famous stepping stones at the entrance are a postcard image of English countryside.

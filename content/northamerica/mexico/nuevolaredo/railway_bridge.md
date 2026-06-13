@@ -12,6 +12,7 @@ story: >
   United States by rail. The bridge was originally known as the Texas Mexican
   Railway International Bridge and was renamed in 2025 after a longtime
   executive of the Kansas City Southern railroad.
+score: 6.7
 ---
 
 The international railway bridge is the functional spine of the Nuevo Laredo crossing. Where passenger bridges carry people with passports, this bridge carries the freight that defines the city's economic reason for existing: automotive parts, electronics, agricultural products, and consumer goods flowing in both directions under NAFTA and its successor agreements.

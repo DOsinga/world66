@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.7115
 longitude: 9.5260
+score: 7.4
 ---
 
 The windmill stands on Møllebanken, the ridge immediately north of the town centre, and the walk up from the old town takes around ten minutes on foot. The mill itself is a well-preserved nineteenth-century post mill — the whole body rotates to face the wind — and has been restored to working condition. On open days it operates under sail and the interior is accessible.

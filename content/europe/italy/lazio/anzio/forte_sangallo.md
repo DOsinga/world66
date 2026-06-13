@@ -9,6 +9,7 @@ latitude: 41.456
 longitude: 12.6563
 sources:
   - https://en.wikipedia.org/wiki/Forte_Sangallo
+score: 7.4
 ---
 
 Forte Sangallo is a well-preserved Renaissance fortification in Nettuno, the twin town just east of Anzio. Built in the late 15th and early 16th centuries under Pope Alexander VI, it was designed to defend the coast from Ottoman naval raids — a real concern at the time, given the range of Barbary corsairs in the Tyrrhenian Sea. The fortress is named after Giuliano da Sangallo, the architect who worked on it, though his involvement is debated.

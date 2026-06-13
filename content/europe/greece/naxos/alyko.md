@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.0011
 longitude: 25.3778
+score: 7.8
 ---
 
 Alyko is the strangest and most compelling stretch of Naxos's southern coast. The area takes its name from the Greek for salt cedar — the aromatic coastal trees that form an actual forest here, unusual enough in the Cyclades to feel almost hallucinatory. Between and behind the trees, a series of sandy beaches curve along the coast, most of them barely developed: a few paths, some driftwood, the occasional windblown sign. The swimming is excellent and the landscape is unlike anything else on the island.

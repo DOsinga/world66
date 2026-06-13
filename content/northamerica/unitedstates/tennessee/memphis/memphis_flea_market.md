@@ -7,6 +7,7 @@ snippet: The Mid-South's largest flea market, held the third weekend of each mon
 tags:
   - shopping
   - market
+score: 5.8
 ---
 
 The Memphis Flea Market, held the third weekend of each month at the Mid-South Fairgrounds off Central Avenue, is one of the largest flea markets in the South. Several thousand vendors spread across indoor and outdoor space, selling antiques, vintage clothing and furniture, collectibles, tools, electronics, jewelry, and the usual mixture of new merchandise and salvaged goods that makes a large flea market worth an afternoon. It draws both dealers and casual shoppers from across the region.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.1
 ---
 
 Granite Bay sits between Tea Tree Bay and Alexandria Bay along the national park coastal walk — a thirty-minute amble from the trailhead. The bay is named for the dark, lichen-streaked boulders that pile up at its southern end, and the small crescent of sand between them is one of the most photogenic spots in the park.

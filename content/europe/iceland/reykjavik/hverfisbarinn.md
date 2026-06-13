@@ -10,6 +10,7 @@ tags:
 title: Hverfisbarinn
 type: poi
 url: https://www.hverfisbarinn.is
+score: 5.8
 ---
 
 A two-floor bar that has been part of the downtown scene for decades. The upstairs is a quieter spot for a conversation; downstairs the DJ plays crowd-pleasers and it gets packed.

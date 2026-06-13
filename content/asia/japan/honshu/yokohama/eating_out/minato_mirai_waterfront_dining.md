@@ -1,6 +1,7 @@
 ---
 title: "Minato Mirai Waterfront Dining"
 type: poi
+score: 5.8
 ---
 
 The Minato Mirai district has the highest concentration of restaurants with harbour views, ranging from casual to upscale. The Red Brick Warehouse (Aka Renga) is the most atmospheric option: the converted Victorian warehouses hold a cluster of small restaurants and cafes on the ground floor, with a terrace that looks directly onto the water. The food is international and good without being exceptional — pizza, pasta, craft beer, and light Japanese food — but the setting more than compensates.

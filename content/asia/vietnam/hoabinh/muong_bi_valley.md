@@ -9,6 +9,7 @@ longitude: 105.2000
 sources:
   - https://yesd.org/hoa-binh-vietnam/
   - https://www.originvietnam.com/destinations/hoa-binh/
+score: 7.3
 ---
 
 The Muong Bi valley, southwest of Hoa Binh city in Tan Lac district, is one of the most accessible places in the province to see traditional Muong life on its own terms rather than packaged for tourists. Unlike the White Thai villages of Mai Chau, which see heavy day-trip traffic from Hanoi, Muong Bi remains relatively quiet. Stilt houses of hardwood and woven bamboo line the valley floor, surrounded by wet-rice paddies and kitchen gardens. The surrounding hills are covered in forest and laced with streams.

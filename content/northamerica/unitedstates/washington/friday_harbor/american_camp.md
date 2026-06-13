@@ -3,6 +3,7 @@ title: American Camp (San Juan Island National Historical Park)
 type: poi
 tags: [things_to_do, sight, hiking]
 story: The Pig War of 1859 began when an American settler shot a Hudson's Bay Company pig that was rooting in his potato garden. The British demanded compensation; the American refused. Both sides escalated by landing soldiers — 461 Americans, 2,140 British troops, 5 warships — and the standoff lasted 12 years before Kaiser Wilhelm I of Germany settled the boundary dispute in America's favour. No human being was harmed. Only the pig.
+score: 8.4
 ---
 
 American Camp at the southern end of San Juan Island preserves the site of the US Army encampment during the Pig War of 1859 — a decade-long border dispute between the United States and Britain that began with a dead pig and ended without a shot fired at any person. The camp itself consists of reconstructed buildings on an exposed bluff above a long beach of driftwood and coarse sand, with the Olympic Mountains visible across the Strait of Juan de Fuca on clear days.

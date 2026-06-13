@@ -4,6 +4,7 @@ type: poi
 tags: [shopping, market, medina]
 latitude: 31.6290
 longitude: -7.9880
+score: 8.7
 ---
 
 The main spine of the central souks, running north from Jemaa el-Fna under a striped wooden roof that throws bars of sunlight onto the cobbles below. The northern end branches off into dozens of specialist sub-souks: ironwork (Souk Haddadine), leather (Souk Chouari), babouches (Souk Smata), textiles, dyes, ceramics. Allow at least half a day for a proper wander.

@@ -14,6 +14,7 @@ story: >
   The whale shark exhibit — a tank so large that the sharks turn in slow
   circles against a floor-to-ceiling window — has a scale that is
   genuinely difficult to process as a built structure.
+score: 5.6
 ---
 
 Chimelong Ocean Kingdom, on Hengqin Island on the western edge of the city, is one of the most visited theme parks in China and claims several world records for its aquarium facilities. The centrepiece is the whale shark exhibit, where multiple whale sharks move through an enormous tank behind a curved panoramic window approximately 39 metres wide and 8.3 metres tall. The effect is less like being in an aquarium and more like standing in front of a very large, very slowly moving natural phenomenon.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The leopards of the Margallas — perhaps fifteen remain — are the city's wildest neighbours. They occasionally venture down into the suburban sectors at night, and the wildlife board posts warnings whenever fresh tracks turn up at the Trail 3 carpark."
+score: 8.8
 ---
 
 The Margalla Hills are the wooded ridges that rise immediately north of Islamabad — the southern-most spur of the Himalaya. The national park covers around 17,000 hectares of pine and oak forest, threaded with marked hiking trails of every length and difficulty.

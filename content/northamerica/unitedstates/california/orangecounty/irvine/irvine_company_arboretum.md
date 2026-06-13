@@ -5,6 +5,7 @@ latitude: 33.6456
 longitude: -117.8415
 snippet: "A 12-acre campus garden specialising in California natives and South African proteas that seems transplanted from another continent"
 tags: [things_to_do, nature]
+score: 7.8
 ---
 
 The UCI Arboretum sits on the western edge of the university campus and covers twelve acres of cultivated garden. It was established in 1959 and has developed a particular focus on two plant communities that don't obviously belong together: California native plants, and South African species, primarily proteas, restios, and bulbs from the Cape Floristic Region. The combination works because the two regions share a Mediterranean-type climate.

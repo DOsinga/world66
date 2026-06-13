@@ -8,6 +8,7 @@ title: Lago di Bolsena
 type: poi
 story: >
   The two islands visible from the shore — Bisentina and Martana — have unusual histories. Bisentina was used as a retreat by several popes and contains chapels built by the Farnese family; Martana is where the Ostrogoth queen Amalasuntha was strangled in 535 AD on the orders of her cousin Theodahad, triggering the Byzantine invasion of Italy.
+score: 8.7
 ---
 
 Lago di Bolsena is the largest volcanic lake in Europe, formed in the crater of an ancient volcano about 370,000 years ago. The water is clean, the shore is largely undeveloped, and in summer the lake is the main reason people come to Bolsena. Swimming is excellent from the rocky beach below the town and from several other access points around the perimeter.

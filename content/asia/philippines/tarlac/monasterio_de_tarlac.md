@@ -9,6 +9,7 @@ latitude: 15.4366
 longitude: 120.4312
 sources:
   - https://en.wikipedia.org/wiki/Monasterio_de_Tarlac
+score: 7.6
 ---
 
 The Monasterio de Tarlac is a Servants of the Risen Christ monastery on top of Mount Resurrection, in the foothills of the Zambales range west of Tarlac City. The reason most people visit is the giant 30-metre statue of the Risen Christ that stands above the chapel — arms raised, blessing the plains stretching east towards the Sierra Madre. On a clear day the view runs all the way to Mount Pinatubo.

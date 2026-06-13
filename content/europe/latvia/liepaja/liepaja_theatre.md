@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Liep%C4%81ja_Theatre
+score: 7.0
 ---
 
 The Liepāja Theatre is one of the most distinguished buildings in the city — a handsome Art Nouveau structure built in 1903, when Liepāja was still the Latvian Libau and one of the most important ports on the eastern Baltic. The theatre has operated continuously, through German occupation, Soviet rule, and independence, and its main auditorium is still considered one of the finest theatre spaces in Latvia.

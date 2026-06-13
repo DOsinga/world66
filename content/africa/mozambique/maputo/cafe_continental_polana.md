@@ -10,6 +10,7 @@ tags:
   - polana
   - cafe
 neighbourhood: Polana
+score: 6.4
 ---
 
 **Café Camissa** is a small specialist coffee shop in upper Polana that takes Mozambican coffee seriously — the country's small plantations on the slopes of **Mount Gorongosa** produce a soft, fragrant arabica that is hard to find brewed properly anywhere in the country, and this is one of the few places in Maputo that does. The flat whites and *macchiatos* are made on a good machine and the staff know what they are doing.

@@ -8,6 +8,7 @@ latitude: 46.5063
 longitude: 9.7874
 sources:
   - https://en.wikipedia.org/wiki/Piz_Nair
+score: 7.9
 ---
 
 Piz Nair (3,057 m) is the peak above St. Moritz that can be reached by the Corviglia funicular and then a cable car, bringing visitors to 3,000 metres without any walking. The summit gives a 360-degree panorama over the Engadine lakes, the Bernina massif, and on clear days across to the Ortler in Italy and the Silvretta range in Austria.

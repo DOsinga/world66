@@ -9,6 +9,7 @@ tags:
 - zizkov
 title: Olšany Cemetery
 type: poi
+score: 7.9
 ---
 
 The Olšany Cemetery, established in 1680 during a plague epidemic, is Prague's largest graveyard — a vast, quietly atmospheric park of old trees and elaborate funerary monuments running eastward from Žižkov. The oldest section near the main gate has the most remarkable 18th- and 19th-century tomb sculpture: allegorical figures, weeping angels, and elaborate carved headstones.

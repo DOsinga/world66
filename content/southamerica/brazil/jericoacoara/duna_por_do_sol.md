@@ -15,6 +15,7 @@ story: >
   over the ocean. The tourist version of the ritual is more crowded but the sun
   still sets in the same place, over the same Atlantic, and it is still, on most
   evenings, genuinely beautiful.
+score: 8.2
 ---
 
 The Duna do Pôr do Sol — the Sunset Dune — is the giant sand dune at the western edge of Jericoacoara village, and the gathering point for the daily sunset ceremony. Every evening from about an hour before sunset, people climb the dune's sandy face to claim a spot on the ridge, and at the moment the sun touches the horizon a cheer goes up. It is completely unironic. The cheer is real, the joy is genuine, and the sight is good enough to justify both.

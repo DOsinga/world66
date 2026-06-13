@@ -10,6 +10,7 @@ tags:
   - wildlife
 story: >
   Caladesi Island was once connected to Honeymoon Island until the hurricane of 1921 carved a pass between them. The island has remained roadless ever since, accessible only by boat, and its Gulf-side beach has repeatedly been ranked among the top beaches in the United States by coastal geologist Stephen Leatherman, known as "Dr. Beach."
+score: 9.3
 ---
 
 Caladesi Island is one of the few undeveloped barrier islands left on Florida's Gulf Coast. There are no cars, no hotels, and no paved roads — just three miles of white sand beach, a mangrove kayak trail, and a nature path through the island's interior. The ferry from Honeymoon Island runs every 30 minutes and takes about 20 minutes each way, dropping you at a small marina on the bay side.

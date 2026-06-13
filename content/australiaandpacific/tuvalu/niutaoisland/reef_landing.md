@@ -8,6 +8,7 @@ latitude: -6.117
 longitude: 177.281
 story: >
   Until the 1980s the landing was a matter of timing the surf with paddled outrigger canoes; outboard motors have made it less spectacular but no safer. Cargo handlers on Niutao are unusually skilled — they read the swells, the tide, and the gaps in the breakers by feel, and the failure rate on landings is extraordinarily low for what is effectively bringing a boatload of rice in through a wall of surf.
+score: 7.8
 ---
 
 Niutao has no harbour and no anchorage — the reef drops straight off the island into deep ocean, with no lagoon to shelter a boat. When the inter-island vessel arrives from Funafuti it has to stand off in deep water while small launches and the village's own boats ferry passengers and cargo ashore through a gap in the surf on the western side.

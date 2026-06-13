@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Belle Époque casino, the social heart of the resort."
+score: 6.2
 ---
 
 Built in 1900 and expanded several times since, the Casino Barrière sits behind the promenade roughly in the centre of town. The white facade with its mansard roofs and pillared porch is the most photographed building in La Baule. Inside, there is a gambling floor, two restaurants, a theatre, and a nightclub.

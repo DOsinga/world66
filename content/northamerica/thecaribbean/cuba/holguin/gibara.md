@@ -9,6 +9,7 @@ latitude: 21.1072
 longitude: -76.1367
 sources:
   - https://en.wikipedia.org/wiki/Gibara
+score: 8.1
 ---
 
 Gibara is a small colonial town on the north coast of Holguín province, about 30 kilometres west of Guardalavaca. It was once an important port — the walls that enclosed it still stand in places — and the whitewashed streets, wooden balconies, and seafront malecón give it a faded, melancholy beauty that has attracted filmmakers and artists. The Cine Pobre (Poor Cinema) festival, founded here by director Humberto Solás, draws low-budget filmmakers from around the world each spring.

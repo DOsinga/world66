@@ -8,6 +8,7 @@ latitude: 38.67508
 longitude: -122.82247
 address: "6706 State Hwy 128, Healdsburg, CA 95448"
 snippet: Alexander Valley's beloved general store, deli, and antique emporium since 1895
+score: 6.6
 ---
 
 A genuine old general store at the northern entrance to Alexander Valley, about 20 minutes east of Healdsburg on Highway 128. Jimtown Store has been selling provisions to the valley since 1895, and its current incarnation — revived in the 1990s and now stocking local wines, artisan condiments, antique folk art, and exceptionally good sandwiches — is one of those places that makes a wine country drive feel like more than a sequence of tasting rooms.

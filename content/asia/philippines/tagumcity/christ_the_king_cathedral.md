@@ -8,6 +8,7 @@ latitude: 7.4441
 longitude: 125.8000
 story: >
   The rosary here is made entirely from wood — large wooden beads the size of footballs strung together on a heavy chain and hung on the cathedral exterior. It was declared the world's largest rosary, though the exact record has been contested at various times. The piece was built as a devotional object and remains an active site of prayer, not a tourist novelty.
+score: 7.2
 ---
 
 The main Catholic cathedral of Tagum City and seat of the Diocese of Tagum. The church itself is a large modern building in the Filipino ecclesiastical style — practical rather than ornate, but impressive for its scale. The surrounding grounds are kept carefully.

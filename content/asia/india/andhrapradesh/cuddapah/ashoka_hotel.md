@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - vegetarian
+score: 5.7
 ---
 
 Ashoka Hotel (not connected to the luxury chain of the same name) is a pure-vegetarian restaurant in central Cuddapah known for cleanliness and consistent home-style south Indian cooking. The standard items — idli, dosa, vada, thalis with rice and three or four vegetables — are reliably good. Filter coffee is the right finish.

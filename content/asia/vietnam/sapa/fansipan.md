@@ -15,6 +15,7 @@ story: >
   longest non-stop three-rope cable car.
 sources:
   - https://en.wikipedia.org/wiki/Fansipan
+score: 8.9
 ---
 
 Fansipan at 3,143 metres is the highest peak in Vietnam and in the entire Indochina Peninsula — the "Roof of Indochina" — and it dominates the skyline from Sapa on clear days. The summit is often in cloud, which adds to the drama on the days when it isn't.

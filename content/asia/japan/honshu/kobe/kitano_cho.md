@@ -14,6 +14,7 @@ story: >
   styles but adapted them with Japanese roof tiles and local materials. One of the
   mansions has a recreation of Sherlock Holmes's 221B Baker Street sitting room,
   because the Japanese enthusiasm for Holmes has no obvious limits.
+score: 8.0
 ---
 
 Kitano-chō is the hillside district above Sannomiya where foreign traders settled from the 1860s onward. Their "ijinkan" — Western-style residences with Japanese touches — still line the sloping streets, painted in pastel colours with wrought-iron railings and bay windows looking out over the harbour. The district has a pleasantly un-Japanese atmosphere: it is the most European-feeling neighbourhood in Kobe.

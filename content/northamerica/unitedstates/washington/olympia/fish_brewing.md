@@ -7,6 +7,7 @@ tags:
 title: Fish Brewing Company
 type: poi
 snippet: Pioneer Olympia craft brewery with a downtown taproom
+score: 6.0
 ---
 
 One of the longest-running craft breweries in Washington state, founded in 1993 and known for its Fish Tale and Leavenworth Biers lines. The downtown taproom on Jefferson Street has 20-plus taps, a sunlit beer garden and a short pub menu of burgers, fish and chips and pretzels.

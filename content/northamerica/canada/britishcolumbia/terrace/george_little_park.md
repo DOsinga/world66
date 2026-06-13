@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 5.7
 ---
 
 The central downtown park, named after George Little, the prospector who founded Terrace in 1905. It sits next to the restored 1925 train station and the visitor centre, and is the focus of the city's summer events — Riverboat Days at the start of August in particular.

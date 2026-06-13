@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80497
 longitude: 2.12172
+score: 7.8
 ---
 
 The Salon d'Hercule is the antechamber between the Royal Chapel and the first of the King's state rooms, and it contains one of the finest ceilings in the palace. The enormous painting — François Lemoyne's *Apotheosis of Hercules*, completed in 1736 — covers 150 square metres of ceiling and contains more than 140 figures. It took Lemoyne three years to paint and was his masterpiece; the effort of it is said to have contributed to his mental breakdown and suicide the year after it was unveiled.

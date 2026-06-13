@@ -13,6 +13,7 @@ story: >
   ties with Moscow. It was decommissioned in 1989 after 27 years of service, then dismantled
   and remarkably reassembled piece by piece in Surabaya's Taman Hiburan Rakyat park — where
   it now sits landlocked on a concrete plinth.
+score: 6.8
 ---
 
 The KRI Pasopati submarine monument is one of Surabaya's most unusual attractions: a fully intact 1960s Soviet submarine that visitors can climb through. The vessel is displayed in a public park in the south of the city, cut open along its length so you can walk through the cramped engine room, torpedo room, and crew quarters.

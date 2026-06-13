@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 25.6907
 longitude: 100.1639
+score: 7.6
 ---
 
 The east-west axis of the old town, running from the West Gate to the lake-facing East Gate, and the centre of contemporary Dali life. Renmin Lu has gradually replaced Foreigner Street as the place where the more interesting cafes, bars, bookshops, and small restaurants cluster — both Chinese-run boutique places and a smaller number of Western-run operations.

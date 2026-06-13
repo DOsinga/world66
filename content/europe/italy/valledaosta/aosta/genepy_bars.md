@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 45.7372
 longitude: 7.3200
+score: 5.8
 ---
 
 Génépy is the signature alpine liqueur of the Aosta Valley: a bitter-sweet green spirit distilled from Artemisia genepi, a plant that grows at altitudes above 2,000 metres and flowers in short windows during the summer. The plant is legally protected and the harvest strictly limited, which makes properly made Génépy a genuine regional product rather than a commodity. It is served as a digestivo after meals, sometimes dropped into a cup of coffee (a caffè corretto), and occasionally used in cocktails by more adventurous bars.

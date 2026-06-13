@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -39.8140
 longitude: -73.2456
+score: 5.6
 ---
 
 Inside the Universidad Austral de Chile on Teja Island hangs a Foucault pendulum — a heavy weight suspended on a long wire that swings slowly and continuously, knocking down small pins arranged in a circle around its base as the Earth's rotation causes the plane of its swing to gradually shift. The Valdivia pendulum is one of the largest in South America, with a wire length of about 19 metres, and watching it knock down successive pins as the Earth turns beneath it is one of those rare moments when a physical fact about the universe becomes viscerally real rather than abstractly known.

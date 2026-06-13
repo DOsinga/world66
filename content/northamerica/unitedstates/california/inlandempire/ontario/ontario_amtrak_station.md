@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.3
 ---
 
 A 1922 Spanish Colonial Revival depot built by the Union Pacific, the Ontario station is one of the most attractive small-city train depots in Southern California — red-tile roof, stuccoed arcade, palm trees in front. It is still in active use as an Amtrak stop on the Sunset Limited route, though only twice a week in each direction.

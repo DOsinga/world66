@@ -13,6 +13,7 @@ story: >
   tower — the only structure that withstood the attack. Standing in the modern 
   interior, you look up at a spire built from the ruins of a city that was 
   essentially erased in a single night.
+score: 5.9
 ---
 
 Bodø Cathedral is a post-war reconstruction, built after German bombing destroyed the previous church in 1940. The result is a modest but dignified building in the centre of town, notable for retaining the original medieval tower — which somehow survived the raid — alongside a thoroughly modern nave. The interior is sparse in the Lutheran tradition but worth a look for the stained glass and the organ, one of the larger instruments in northern Norway.

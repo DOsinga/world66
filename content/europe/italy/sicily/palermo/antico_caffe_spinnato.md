@@ -11,6 +11,7 @@ tags:
 - cafe
 title: Antico Caffè Spinnato
 type: poi
+score: 7.2
 ---
 
 A Palermo institution since 1860, on the pedestrianised Via Principe di Belmonte. The pastry counter is one of the best in the city — cassata, cannoli, frutta martorana (marzipan fruit), and the full range of Sicilian dolci made in-house. Come for breakfast (granita and brioche) or a mid-afternoon coffee. The outdoor tables on the pedestrian street are the right place to sit.

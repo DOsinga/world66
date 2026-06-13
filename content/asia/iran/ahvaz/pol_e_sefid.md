@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.3250
 longitude: 48.6834
+score: 6.6
 ---
 
 The White Bridge is Ahvaz's most recognisable landmark and, when it was completed, the first suspension bridge in Iran. Its white painted cables and towers are visible from much of the city centre. The bridge carries heavy road traffic but is also walkable, and the views up and down the Karun from its midpoint are the best the city offers.

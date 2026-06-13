@@ -10,6 +10,7 @@ longitude: 91.4658
 story: "Samye was founded in 779 AD by King Trisong Detsen, who brought two great Buddhist masters together for the task: Padmasambhava (Guru Rinpoche) from India, and Shantarakshita from Nepal. According to Tibetan histories, Padmasambhava had to subdue the local demons before construction could begin — a task that took several years. The monastery's mandala layout, representing the Buddhist cosmos, was the first of its kind in Tibet."
 sources:
   - https://en.wikipedia.org/wiki/Samye_Monastery
+score: 9.2
 ---
 
 Samye is Tibet's first monastery and one of the most important Buddhist sites on the plateau. Built in 779 AD under royal patronage, it is designed as a three-dimensional mandala — the central Utse temple represents Mount Meru, the cosmic axis, surrounded by smaller chapels representing the continents and oceans of Buddhist cosmology. The design is unique and remarkable, and the monastery remains an active place of worship and pilgrimage.

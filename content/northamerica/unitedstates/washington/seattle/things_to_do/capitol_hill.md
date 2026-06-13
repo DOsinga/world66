@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle
+score: 8.6
 ---
 
 Capitol Hill is the densest, most energetic neighbourhood in Seattle — the city's LGBTQ+ centre, its best restaurant mile, and the place where the music scene has always been loudest. The neighbourhood runs along Broadway and the surrounding streets east of downtown, elevated above Puget Sound on a ridge that gives it some of the best views in the city.

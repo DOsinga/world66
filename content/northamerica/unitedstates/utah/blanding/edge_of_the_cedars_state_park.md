@@ -8,6 +8,7 @@ latitude: 37.6314
 longitude: -109.4897
 story: >
   The museum's back door opens directly onto an actual Ancestral Puebloan village — eight masonry structures and a great kiva dating to around 1000 CE, partially excavated and left in place. You can walk into the kiva and stand where ceremonies were held a thousand years ago, which few museums anywhere in the world can offer.
+score: 8.4
 ---
 
 The Edge of the Cedars State Park Museum is the best place to start any exploration of the Ancestral Puebloan archaeology around Blanding, and one of the finest small museums in the American Southwest. The collection of ceramics, baskets, jewellery, and artefacts recovered from the canyons and mesas of southeastern Utah is exceptional — not just in its size but in the care of the curation, which places objects in cultural context rather than treating them as curiosities.

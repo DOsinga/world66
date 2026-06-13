@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 39.6375
 longitude: 22.4175
+score: 6.6
 ---
 
 Plateia Laou (the People's Square) is the heart of modern Larissa — a large pedestrianised square ringed by cafes, restaurants, and trees, and the city's main social gathering point. From mid-afternoon onward it fills with the Greek ritual of the volta, the evening stroll, as families, students, and couples circulate between the outdoor tables and the fountain. It is one of the more genuinely animated town squares in northern Greece.

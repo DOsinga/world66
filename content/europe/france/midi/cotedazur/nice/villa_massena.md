@@ -8,6 +8,7 @@ tags:
 address: "35 Promenade des Anglais, Nice"
 latitude: 43.6944
 longitude: 7.2604
+score: 6.8
 ---
 
 The Villa Masséna is a 19th-century Italianate palace on the Promenade des Anglais that houses a museum of Nice's history from the Napoleonic era to the Belle Époque. The building was constructed for Prince Victor d'Essling, grandson of one of Napoleon's marshals, and donated to the city in 1919 on the condition that it be opened as a museum rather than converted or demolished.

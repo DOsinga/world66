@@ -7,6 +7,7 @@ tags:
 latitude: 14.7672
 longitude: -88.7777
 snippet: 'Popular cafe right by the cathedral serving excellent local coffee, crepes and sandwiches'
+score: 6.1
 ---
 
 Kaldi's sits just off the central plaza next to the cathedral, making it impossible to miss and hard to resist. The coffee is locally sourced highland-grown and consistently good — this is one of the best-regarded cafes in western Honduras, not just Santa Rosa.

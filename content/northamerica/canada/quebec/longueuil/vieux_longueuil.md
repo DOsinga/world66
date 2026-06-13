@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 45.5219
 longitude: -73.4869
+score: 7.1
 ---
 
 The historic district of Vieux-Longueuil centres on Rue Saint-Charles, the old main street that runs parallel to the river a few blocks inland. It has survived the suburban development that overtook much of the city and retains a row of late-19th and early-20th-century commercial buildings, now occupied by cafes, restaurants, and independent shops.

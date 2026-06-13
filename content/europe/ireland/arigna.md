@@ -7,6 +7,7 @@ tags:
 - museums
 title: Arigna Mining Experience
 type: poi
+score: 8.2
 ---
 
 Arigna, in the hills of County Roscommon near Lough Allen, was the site of Ireland's last working coal mine, which closed in 1990. The Arigna Mining Experience lets you go underground with former miners who guide you through the narrow tunnels and explain what daily life was like extracting coal in one of Europe's most challenging seams. The guides are often ex-miners themselves, and their personal stories give the place a weight that no exhibit can replicate.

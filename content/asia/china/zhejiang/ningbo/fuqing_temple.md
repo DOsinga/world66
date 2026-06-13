@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8690
 longitude: 121.5380
+score: 6.8
 ---
 
 Fuqing Temple on the western shore of Moon Lake is a small Taoist and Buddhist complex whose buildings date from the late Qing dynasty with earlier foundations. The temple's main interest is its setting on the lakeside rather than its architecture, and the approach through the old residential lanes of the Moon Lake district is one of the more pleasant short walks in central Ningbo. The temple maintains an active programme of festivals aligned with the Chinese lunar calendar.

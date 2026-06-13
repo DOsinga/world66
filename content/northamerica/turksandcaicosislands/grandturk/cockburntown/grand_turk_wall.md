@@ -8,6 +8,7 @@ tags:
   - sight
   - diving
 story: "The wall is the edge of the Turks Bank, a 7,000-foot drop into the Columbus Passage. Hammerheads and the eastern migration of humpback whales pass within sight of the reef in January and February — Grand Turk is one of the few places in the world where divers can drift along a wall and hear whales singing through their regulators."
+score: 9.2
 ---
 
 The Grand Turk Wall is the reason serious divers come to the Turks and Caicos. A continuous vertical reef, dropping from 30 feet down to extreme depth, runs along the entire western shore of the island, with the lip never more than a quarter-mile from the beach.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -39.9000
 longitude: -73.4500
+score: 8.5
 ---
 
 The Valdivian Coastal Reserve (Reserva Costera Valdiviana) protects a stretch of the coastal Valdivian temperate rainforest — one of the rarest forest ecosystems in the world, found only in a narrow strip of southern Chile and a tiny pocket of Argentina. This rainforest type, dominated by alerce (Fitzroya cupressoides, a Patagonian cypress that can live over 3,000 years), coigüe beech, and dozens of endemic plant species, is the southern counterpart of the temperate rainforests of North America's Pacific coast and shares their characteristic combination of enormous conifers, dense undergrowth, and extraordinary moisture.

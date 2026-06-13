@@ -14,6 +14,7 @@ story: >
   that work for both beginners and experienced surfers, which is why most of the
   surf schools in San Juan del Sur bring their students here rather than to the
   town beach.
+score: 8.3
 ---
 
 Playa Maderas is the most popular surf beach in the San Juan del Sur area, located about 14 km north of town along a rough road that requires a 4x4 or the shared shuttles that run daily from the town centre. The beach break here is consistent and relatively forgiving — peaks shift along the bay and there are usually waves suitable for beginners at one end while better surfers work the more powerful sections.

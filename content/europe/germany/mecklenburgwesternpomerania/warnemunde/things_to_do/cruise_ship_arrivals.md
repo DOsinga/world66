@@ -1,6 +1,7 @@
 ---
 title: "Cruise Ship Arrivals"
 type: poi
+score: 5.9
 ---
 
 Warnemünde is one of the busiest cruise ports on the Baltic, serving as the gateway for passengers visiting Rostock, Berlin, and the wider region. On days when a large ship is in port — and in summer there are many such days — vessels of extraordinary size dock just metres from the fishing boats and restaurants of the Alter Strom. Watching a 300-metre cruise ship manoeuvre into its berth is genuinely impressive.

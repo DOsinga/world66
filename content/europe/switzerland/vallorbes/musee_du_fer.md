@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 46.7124
 longitude: 6.3706
+score: 6.8
 ---
 
 Vallorbes has a long ironworking history — the combination of the Orbe River for waterpower and iron ore in the Jura hills supported a small metalworking industry for centuries, and the town became particularly known for precision filemaking. The Musée du Fer et du Chemin de Fer (Museum of Iron and the Railway) covers both this local craft heritage and the railway history of the town, which sits on the main Paris-Lausanne rail line where it enters Switzerland through the Mont d'Or tunnel.

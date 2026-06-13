@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 Madrid's cathedral is younger and odder than most. The country's capital went without a cathedral for centuries — until 1883, when construction began on a neo-Gothic basilica that took 110 years to finish, opening only in 1993 with a consecration by Pope John Paul II. The exterior is a 19th-century classical-revival pile, the interior an extraordinary Pop Art space of brightly painted geometric ceilings and stained glass by contemporary Spanish artists.

@@ -7,6 +7,7 @@ tags:
 - beach
 title: Ipanema
 type: poi
+score: 8.7
 ---
 
 Made famous by the bossa nova classic "The Girl from Ipanema", this beach is arguably Rio's most beautiful. Less built-up than Copacabana, with cleaner sand and the dramatic twin peaks of Dois Irmaos (Two Brothers) framing its western end. Each *posto* (lifeguard station) draws a different crowd -- families, surfers, the gay community around Posto 8.

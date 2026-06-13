@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.7478
 longitude: 13.3743
+score: 5.9
 ---
 
 Měšťanská Beseda is a large restaurant and café complex in a 19th-century civic building a short walk from Republic Square. The building has hosted public events, concerts, and dining since 1832 — it is one of the oldest civic institutions in Plzeň — and the interior retains much of its original character: high ceilings, ornate plasterwork, dark wood panelling.

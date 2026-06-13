@@ -6,6 +6,7 @@ longitude: -84.9776
 tags:
   - things_to_do
   - nature
+score: 6.8
 ---
 
 The river that gives the town its name runs 160 miles from the Georgia border to the Gulf, draining the Apalachicola-Chattahoochee-Flint basin. It is the largest source of fresh water in the Florida Panhandle, and its flow — diminished by upstream dams and Atlanta's drinking water diversions — is at the heart of decades of legal fights between Florida and Georgia.

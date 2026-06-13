@@ -7,6 +7,7 @@ tags:
 snippet: "Hindu holy men with painted faces and matted hair, based at the temple"
 latitude: 27.7097
 longitude: 85.3486
+score: 6.4
 ---
 
 The stone terraces above the eastern bank of the Bagmati, directly across from the main temple, are where Pashupatinath's sadhus sit. These are Hindu holy men who have renounced worldly life to pursue spiritual practice — Shaivite sadhus dedicated to Shiva, many of them belonging to the Naga (naked ascetic) or Aghori traditions.

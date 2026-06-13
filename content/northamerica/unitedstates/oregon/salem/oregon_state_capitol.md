@@ -20,6 +20,7 @@ story: >
   The present Art Moderne structure was completed in 1938, and the gold-leafed
   bronze Pioneer atop the dome was installed as a deliberate symbol of fresh start
   after the loss.
+score: 7.8
 ---
 
 Oregon's capitol is one of the more distinctive statehouses in the country — not the usual Classical Revival pile but a clean Art Moderne building in Vermont marble, completed in 1938. The gold-leafed bronze figure on top is the Oregon Pioneer, a 23-foot-tall pioneer holding a covered wagon wheel, gazing west.

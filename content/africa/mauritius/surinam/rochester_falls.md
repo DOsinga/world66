@@ -12,6 +12,7 @@ tags:
 - waterfall
 title: Rochester Falls
 type: poi
+score: 8.0
 ---
 
 Rochester Falls is the area's marquee natural sight: a wide, low cascade tumbling over a wall of hexagonal basalt columns, framed by sugarcane fields and the rising green slopes inland. The columns are an unusual geological feature and the most photographed aspect of the falls; the drop is modest (about ten metres), but the rock structure makes the picture.

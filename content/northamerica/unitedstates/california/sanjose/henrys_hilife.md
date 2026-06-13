@@ -8,6 +8,7 @@ tags:
 title: Henry's Hi-Life
 type: poi
 url: www.henryshilife.com
+score: 6.5
 ---
 
 A visit to San Jose would not be complete without visiting historic Henry's Hi-Life. Located just west of downtown, the atmosphere is...well...let's say festive. This is classic American red-meat cuisine. Bring your appetite and your sense of adventure. If you're in the mood for a steak, don't pass on Henry's.

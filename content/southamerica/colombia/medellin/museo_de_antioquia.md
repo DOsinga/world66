@@ -10,6 +10,7 @@ tags:
 - museum
 title: Museo de Antioquia
 type: poi
+score: 8.7
 ---
 
 The most important museum in the city, holding the largest collection of Fernando Botero's paintings and drawings — donated by the artist himself. The building is an art deco gem facing Plaza Botero, where twenty-three of his outsized bronze figures are displayed outdoors. The upper floors include pre-Columbian, colonial, and contemporary Colombian art. Entry is modest; closed Mondays.

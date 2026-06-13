@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 5.9250
 longitude: -10.0708
+score: 6.6
 ---
 
 The Saint John River is one of Liberia's six main rivers, rising in the Guinean highlands and reaching the Atlantic just east of Buchanan. Its broad estuary forms the boundary between the city and the older settler town of Edina, and the area around the mouth is busy with fishing boats and dugout canoes ferrying people between the two banks.

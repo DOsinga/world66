@@ -12,6 +12,7 @@ story: Banteay Srei ("Citadel of Women") gets its name from the extraordinary de
   assumed only women could have done the work. More prosaically, it was founded not
   by a king but by a Brahmin court official, Yajnyavahara, in 967 AD, which makes
   it one of the oldest surviving Angkor-era temples and one of the best-preserved.
+score: 8.7
 ---
 
 **Banteay Srei** is widely considered to have the finest stone carving in the entire Angkor complex. Built in 967 AD from rose-pink sandstone, its towers and lintels are covered in an almost impossibly intricate network of foliage, celestial nymphs, guardian figures, and mythological scenes from the Ramayana and Mahabharata. The scale is intimate — the towers are much smaller than those at Angkor Wat — which means the carving feels close and accessible rather than monumental and overwhelming.

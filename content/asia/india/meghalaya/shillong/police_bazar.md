@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 25.5760
 longitude: 91.8847
+score: 6.1
 ---
 
 The commercial centre of Shillong: a busy roundabout with the city's modern hotels, restaurants, banks, and outdoor gear shops radiating off it. The British called it Police Bazar because the early colonial police station stood here; the name has stuck even though the area is now wall-to-wall commerce.

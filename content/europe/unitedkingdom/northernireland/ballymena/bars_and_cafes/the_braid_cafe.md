@@ -1,6 +1,7 @@
 ---
 title: "The Braid Café"
 type: poi
+score: 4.9
 ---
 
 The café inside The Braid arts centre on Castle Street is the most pleasant daytime option in central Ballymena — a calm, airy space in the ground floor of the town hall building, with decent coffee and a short menu of sandwiches, soups, and baked goods. It's a useful stop before or after visiting the museum, or simply as a place to sit down in the middle of a day in town.

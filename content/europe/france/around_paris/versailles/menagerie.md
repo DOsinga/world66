@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8010
 longitude: 2.1060
+score: 5.7
 ---
 
 The Royal Menagerie (Ménagerie du Roi) no longer exists, but the site at the south end of the Grand Canal's transverse arm is historically significant. Louis XIV established it in 1662 — one of the first modern zoos in Europe — and it housed exotic animals from across the French empire: elephants, ostriches, crocodiles, exotic birds, a rhinoceros, and an elephant. The royal family and court would visit to observe them and occasionally to watch animals fight.

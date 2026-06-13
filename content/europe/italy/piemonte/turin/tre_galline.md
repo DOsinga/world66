@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.0631
 longitude: 7.6555
+score: 7.3
 ---
 
 A working-class trattoria in the western suburb of Cenisia that has barely changed since it opened in the 1930s — paper tablecloths, a chalked menu, a few wooden chairs in a former dairy shop. The food is the canonical Piedmontese repertoire: vitello tonnato, anchovies in green sauce, agnolotti del plin in a pat of butter, bollito misto in winter, and a bonet for dessert.

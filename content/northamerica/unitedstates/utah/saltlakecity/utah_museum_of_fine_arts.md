@@ -6,6 +6,7 @@ tags:
 - museum
 title: Utah Museum of Fine Arts
 type: poi
+score: 7.8
 ---
 
 The Utah Museum of Fine Arts sits on the University of Utah campus in the Marcia and John Price Museum Building, a large purpose-built facility that opened in 2001. The collection spans several thousand years and multiple continents, with particular strengths in ancient Egyptian and Greek antiquities, European paintings from the Renaissance through the nineteenth century, and American Western art.

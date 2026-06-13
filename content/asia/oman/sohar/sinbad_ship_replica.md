@@ -8,6 +8,7 @@ latitude: 24.3561
 longitude: 56.7472
 story: >
   In 1980–81, British explorer Tim Severin built the Sohar — a replica 9th-century dhow using traditional materials and no metal fastenings — and sailed it from Muscat to China to prove that the ancient Arab maritime route was navigable. The 7,000-mile journey took nine months. The ship is named after the city where Sinbad the Sailor was allegedly born.
+score: 7.1
 ---
 
 On display near Sohar's fishing harbour, the Sohar is a full-size replica of a traditional Arab dhow of the kind that once plied trade routes from the Arabian Peninsula to India, Southeast Asia, and China. The vessel was built in 1980 by British explorer Tim Severin using traditional methods — stitched planks, coconut fibre rope, no metal fastenings — and sailed successfully from Muscat to Guangzhou, China, demonstrating the feasibility of the ancient maritime trade routes described in the Sinbad tales.

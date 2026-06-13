@@ -7,6 +7,7 @@ tags:
 latitude: 43.4691
 longitude: 11.882
 story: "The church contains a painted crucifix by Cimabue — one of the few surviving works certainly attributable to the artist who is credited (along with Duccio and Cavallini) with beginning the shift from Byzantine rigidity toward the naturalism that culminated in Giotto and the Renaissance. It dates from around 1265 and remains in the church for which it was made."
+score: 8.0
 ---
 
 A large Gothic church near the top of the old town, San Domenico was begun in 1275 and retains much of its original structure. The interior is austere — bare brick, a single nave, plain clerestory windows — and the lack of decorative clutter makes the art it contains easier to see clearly.

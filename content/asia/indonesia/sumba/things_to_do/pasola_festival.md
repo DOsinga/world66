@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: -9.6500
 longitude: 119.3000
+score: 9.2
 ---
 
 The Pasola is Sumba's great ceremony and one of the most viscerally dramatic events in Southeast Asia. Held in February or March — the exact dates set by Marapu priests reading the lunar calendar and the arrival of sea worms (nyale) on the beaches — it pits two teams of horsemen against each other in a ritual battle on an open field. Hundreds of riders charge at full gallop and hurl blunted wooden spears at their opponents. The violence is real: injuries are common, and deaths have occurred over the years. The Marapu faithful hold that spilled blood — human or horse — fertilises the earth and ensures a good harvest.

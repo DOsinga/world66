@@ -11,6 +11,7 @@ story: The Knights of St John planted Buskett in the seventeenth century as thei
   hunting reserve. The native oak and carob species they kept survive here in the
   only mature woodland on Malta. Everywhere else, centuries of cutting and goat-grazing
   cleared the trees.
+score: 7.4
 ---
 
 Buskett Gardens, the only sizeable woodland on Malta, lies in a sheltered valley two kilometres east of Dingli village. The Knights of St John laid it out as a hunting ground in the seventeenth century. Today it is a quiet public park of olive groves, citrus orchards, tall stone pines and Aleppo pines, mature carobs and a few surviving native holm oaks.

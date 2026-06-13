@@ -11,6 +11,7 @@ tags:
   - architecture
 story: >
   The opera bass Feodor Chaliapin, born in Kazan in 1873, was baptised in the Epiphany Cathedral. A bronze statue of him stands in the small square just outside the entrance, holding a top hat at his side and looking up at the bell tower that defined his earliest memories.
+score: 7.9
 ---
 
 The Epiphany Cathedral stands on Bauman Street about halfway between the Kremlin and Tukay Square. The 19th-century red-brick bell tower, 75 metres high, is the tallest structure in central Kazan and the most easily recognised landmark on the main boulevard. The cathedral itself is older, an 18th-century Baroque church with a Pskovian belfry style.

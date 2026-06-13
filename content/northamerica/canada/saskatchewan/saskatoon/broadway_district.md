@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 52.1230
 longitude: -106.6450
+score: 7.9
 ---
 
 The Broadway District, stretching along Broadway Avenue east of the Broadway Bridge, is where Saskatoon keeps its independent bookshops, vintage clothing stores, coffee roasters, and the higher-quality end of its restaurant scene. The neighbourhood has been Saskatoon's counter-cultural and bohemian district since at least the 1970s and has managed to resist the gentrification-homogenization that has flattened similar districts in other Canadian cities.

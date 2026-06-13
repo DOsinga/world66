@@ -12,6 +12,7 @@ story: >
   During the First Taiwan Strait Crisis in 1958, the People's Liberation
   Army shelled Kinmen from positions near this coast for 44 days straight.
   Today both sides operate ferry services between Xiamen and Kinmen.
+score: 7.2
 ---
 
 Huandao Lu (环岛路) circles the southern and eastern shores of Xiamen Island for about 43 kilometres, and the section between Baicheng Beach and Zengcuo'an is the most scenic stretch in the city. The road runs along the coast with views out to the sea and the offshore islands, with a dedicated cycling and walking path that draws both locals and visitors. Bicycle rental is available at several points along the route.

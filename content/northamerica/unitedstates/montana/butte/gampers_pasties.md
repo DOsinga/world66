@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.9988
 longitude: -112.5413
+score: 6.7
 ---
 
 A small bakery devoted to the Butte pasty — meat, potato, and onion in a thick crust, eaten hot with gravy. Cornish miners brought the recipe with them in the 1880s; it became the lunch of the underground shift because it could be carried, eaten with one hand, and stayed warm at the bottom of a lunch pail.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.6900
 longitude: 177.9800
+score: 6.8
 ---
 
 Gisborne is New Zealand's third largest wine region and the Chardonnay capital of the country — more Chardonnay is planted here than anywhere else in New Zealand. The warm climate, generous sunshine hours, and fertile alluvial soils of Poverty Bay produce ripe, full-bodied whites, and the region has also developed a reputation for aromatic varieties: Gewürztraminer, Viognier, and Pinot Gris all perform well here.

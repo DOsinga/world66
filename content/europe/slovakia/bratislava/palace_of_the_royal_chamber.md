@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, historic, stare_mesto]
 latitude: 48.1449
 longitude: 17.1100
+score: 7.1
 ---
 
 The Palace of the Royal Hungarian Chamber on Michalská Street is one of the finest Baroque palaces in the old town — a mid-18th century building that served as the headquarters of the Hungarian treasury during the period when Bratislava was effectively the capital of Hungary. The palace was built for Count Antal Grassalkovich (the same man who built the Presidential Palace) and later acquired by the state as government offices.

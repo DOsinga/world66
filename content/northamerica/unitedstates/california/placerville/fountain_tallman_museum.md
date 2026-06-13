@@ -8,6 +8,7 @@ latitude: 38.7292
 longitude: -120.7983
 sources:
   - https://en.wikipedia.org/wiki/Fountain-Tallman_Soda_Works
+score: 7.4
 ---
 
 The Fountain-Tallman Museum occupies one of the most complete Gold Rush-era commercial buildings surviving in the California foothills. The stone and brick Soda Works building dates to the 1850s and was listed on the National Register of Historic Places in 1984. The museum inside is run by the El Dorado County Historical Society and focuses on the county's history from the Gold Rush through the 20th century.

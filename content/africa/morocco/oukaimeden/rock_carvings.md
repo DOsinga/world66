@@ -8,6 +8,7 @@ tags:
 latitude: 31.2065
 longitude: -7.861
 story: "The Oukaimeden carvings include depictions of animals — elephants, ibex, oxen — that no longer exist in this part of North Africa, which means the carvings are old enough to predate the desertification of the Atlas region, probably dating from 2000 BC or earlier. The elephant carvings in particular have attracted considerable academic interest as evidence of a vastly different Moroccan climate thousands of years ago."
+score: 9.1
 ---
 
 The hillsides around Oukaimeden are scattered with prehistoric rock carvings — one of the largest and most accessible concentrations of ancient rock art in North Africa. The carvings are pecked into exposed rock surfaces and depict animals, human figures, weapons, and geometric symbols. Among the most remarkable are representations of elephants, long-horned cattle, and ibex, some of the figures more than a metre across.

@@ -15,6 +15,7 @@ story: >
   history.
 sources:
   - https://www.atlasobscura.com/places/neon-sign-museum
+score: 6.3
 ---
 
 The Neon Sign Museum is an outdoor collection of restored vintage neon signs installed along 97 Street in Edmonton's Chinatown district. About twenty signs from former Edmonton businesses — a motor hotel, a Chinese restaurant, a used car lot, a dry cleaner — have been returned to working condition and mounted on poles along the street, illuminating the sidewalk at night in the colours of the commercial Edmonton of several decades past.

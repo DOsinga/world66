@@ -7,6 +7,7 @@ tags:
 title: Villa of Mysteries
 type: poi
 story: "The identity of the figures in the Dionysian fresco cycle has been debated for over a century. Most scholars now believe it depicts the initiation rites of a woman into the cult of Dionysus — a mystery religion practiced by a secretive group. What the ritual actually involved, and whether the villa was a cult meeting place, remains unknown. The woman depicted at the end of the cycle, seated and looking directly at the viewer, has never been definitively identified."
+score: 9.6
 ---
 
 Located outside the main city walls, about 400 metres from the Porta Ercolano entrance, this large suburban villa contains what is arguably the finest fresco cycle of antiquity: a continuous painting covering three walls of a single room, depicting a Dionysian initiation ritual. The figures are life-size, painted in the famous Pompeian red-black-and-gold palette, and the colours remain extraordinarily vivid after nearly two thousand years.

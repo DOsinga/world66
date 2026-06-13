@@ -7,6 +7,7 @@ tags:
 latitude: 37.45
 longitude: 25.3297
 story: The museum's most famous object is a large storage jar from the 7th century BC decorated with one of the earliest known depictions of the Trojan Horse — a scene from Homer's Iliad rendered in terracotta nearly 2,700 years ago, found on the island of Mykonos itself.
+score: 7.2
 ---
 
 Established in 1902 near the Old Port, the Archaeological Museum of Mykonos holds finds from the island and from the sacred island of Delos, its near neighbour. The collection includes grave offerings, ceramics, marble sculpture, and jewellery spanning the prehistoric through Hellenistic periods.

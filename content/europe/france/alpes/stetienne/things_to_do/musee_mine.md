@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 45.4350
 longitude: 4.4050
+score: 8.8
 ---
 
 An underground museum built into a real coal mine, the Musée de la Mine gives a direct sense of what Saint-Étienne's industrial past looked like from the inside. Guided tours descend into the galleries and show the machinery, tunnels, and working conditions that defined life in the city for generations. The mine operated until 1973; the equipment is largely original.

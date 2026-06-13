@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.1358
 longitude: -72.4397
+score: 7.2
 ---
 
 The Great Falls — the falls that give the village its name — drop the Connecticut River sharply between Bellows Falls and North Walpole, New Hampshire. They are not enormous, but they are the most significant drop on the whole 660 km of the Connecticut River, which is why the canal that bypasses them mattered so much when it opened in 1802.

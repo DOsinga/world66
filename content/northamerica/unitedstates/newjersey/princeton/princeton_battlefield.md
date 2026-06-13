@@ -11,6 +11,7 @@ latitude: 40.33083
 longitude: -74.67556
 story: >
   After the dawn-attack victory at Trenton on 26 December 1776, Washington led his army north and on 3 January 1777 surprised three British regiments here on the Quaker road south of Princeton. At a crucial moment when American troops were breaking, Washington rode forward to within thirty paces of the British line, rallied his men in person, and reportedly survived a volley fired at point-blank range — an aide who turned away convinced his general was dead found him still mounted when the smoke cleared. The battle, fought in twenty minutes on a frozen field, ended a ten-day campaign that turned the Revolutionary War around.
+score: 8.4
 ---
 
 A short walk south of central Princeton, the battlefield is now a state park of open fields, low stone walls, and the original Quaker meeting house — the structure used as a field hospital after the fighting — still standing on the edge of the site. Two flanking colonnades on the north lawn (the Ionic Mercer Oak Memorial Colonnade) mark the centre of the battlefield. The visitor centre in the Clarke House interprets the engagement well in about thirty minutes.

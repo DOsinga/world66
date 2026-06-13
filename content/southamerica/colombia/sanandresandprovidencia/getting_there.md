@@ -6,6 +6,7 @@ longitude: -85.693999
 phone: 269-694-6571
 title: Getting There
 type: poi
+score: 1.0
 ---
 
 There are regular flights in low season to San Andres from

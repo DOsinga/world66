@@ -8,6 +8,7 @@ latitude: 43.2658
 longitude: -2.9411
 sources:
   - https://en.wikipedia.org/wiki/Do%C3%B1a_Casilda_Iturrizar_Park
+score: 5.8
 ---
 
 The Doña Casilda Iturrizar Park, adjacent to the Museo de Bellas Artes, is Bilbao's finest public garden — a late 19th-century design with formal paths, a duck pond, fountains, and enormous plane trees that provide shade in summer. It is named for a local philanthropist who donated the land to the city.

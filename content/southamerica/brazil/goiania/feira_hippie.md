@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -16.6794
 longitude: -49.2578
+score: 8.1
 ---
 
 The Feira Hippie is one of the largest outdoor markets in South America, held every Sunday in the central streets around the Praça do Trabalhador. What began in the 1970s as a countercultural craft market has expanded into a sprawling grid of stalls covering several city blocks, selling clothes, leather goods, jewellery, ceramics, regional craft items, electronics, and food. On a busy Sunday, tens of thousands of people pass through.

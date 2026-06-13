@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.9
 ---
 
 A Gothic Revival parish church on Tainter Street in the centre of town, built in 1889 and listed on the National Register of Historic Places. The brick exterior with its pointed-arch windows and the square corner tower are typical of late-19th-century California Catholic parish architecture; the interior holds original stained glass and a painted wooden altar.

@@ -8,6 +8,7 @@ latitude: 24.7801
 longitude: 110.4904
 story: >
   West Street was one of the first places in China where Western backpackers established a foothold in the early 1980s, when Yangshuo was opened to foreign visitors along with the Li River cruise. The street's café culture grew in parallel with Chinese economic opening, and by the 1990s it had become the template for what the foreign traveller's enclave in a Chinese tourist town looked like: banana pancakes, cheap beer, guesthouses with English-language signs. The template has since been exported to dozens of other towns.
+score: 6.8
 ---
 
 West Street, Yangshuo's main tourist strip, runs for about 500 metres from the Li River landing to the bus station area. It is lined with cafés, souvenir shops, guesthouses, and restaurants that have been catering to foreign travellers for forty years, and it shows: the ambience is comfortable, the English is fluent, and the food is a mix of Chinese dishes adapted for Western palates and genuinely good local cooking that happens to be available in the same area.

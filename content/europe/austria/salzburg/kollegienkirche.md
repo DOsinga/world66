@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - altstadt
+score: 8.1
 ---
 
 The Collegiate Church on Universitätsplatz is Fischer von Erlach's masterpiece — a tall, white, oval-domed building completed in 1707 that is among the purest expressions of high baroque north of the Alps. The exterior is austere, the interior airy and almost luminous.

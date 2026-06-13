@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.4667
 longitude: 80.1167
+score: 6.9
 ---
 
 Kothapatnam is a small coastal village about 15 km east of Ongole, with a long, mostly empty stretch of Bay of Bengal coastline. A Shivalayam and a Ramalayam stand near the beach, giving it a mild pilgrimage dimension alongside the swimming and walking.

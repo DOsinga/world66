@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 8.2
 ---
 
 The Heilig-Kreuz-Münster — the parish church of the Holy Cross — stands at the heart of Rottweil and gives a good measure of how wealthy the town was in the late Middle Ages. Built in the thirteenth and fourteenth centuries in Gothic style, it was extensively reworked in the late nineteenth century when the central tower received a more elaborate Neo-Gothic spire.

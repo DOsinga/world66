@@ -8,6 +8,7 @@ latitude: 9.8589
 longitude: 126.0139
 sources:
   - https://en.wikipedia.org/wiki/Sayak_Airport
+score: 3.4
 ---
 
 Sayak Airport — officially the Siargao Airport (IATA: IAO) — is an open-air runway that would look at home in a 1940s adventure film. The arrival hall is a breezy shed. Coconut palms line the approach road. Tricycles wait outside the gate to take you to General Luna. The airport handles direct flights from Manila and Cebu, and some international charters during peak season.

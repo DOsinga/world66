@@ -9,6 +9,7 @@ title: Lala Mustafa Pasha Mosque
 type: poi
 story: >
   When the Ottomans finally broke the Venetian resistance in 1571 after a ten-month siege, their commander Lala Mustafa Pasha had the commander of the Venetian garrison, Marcantonio Bragadin, executed by flaying — skinned alive in the main square in front of the cathedral. Bragadin's stuffed skin was then sent to Constantinople as a war trophy. The cathedral was converted to a mosque the same day the city fell, with the minarets added within years of the conquest.
+score: 9.0
 ---
 
 The Lala Mustafa Pasha Mosque is the most magnificent building in Famagusta and one of the finest pieces of Gothic architecture in the eastern Mediterranean. It was built as the Cathedral of Saint Nicholas between 1298 and the mid-14th century, and its western facade is closely modelled on Reims Cathedral in France — pointed arches, carved stone portals, and two towers (one never completed) that dominate the old city skyline.

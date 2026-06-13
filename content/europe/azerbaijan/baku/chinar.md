@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - restaurant
+score: 4.9
 ---
 
 Chinar, an Asian-fusion restaurant and lounge bar with branches across the Caucasus, sits in a corner of central Baku and has become something of an institution for the well-dressed end of the nightlife scene. The food is competent if expensive — sushi, dim sum, large platters — but the bar is the reason most people come, with a long cocktail list and a DJ on weekend nights.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Taxisgarten
 type: poi
+score: 6.6
 ---
 
 type: Beer Gardens

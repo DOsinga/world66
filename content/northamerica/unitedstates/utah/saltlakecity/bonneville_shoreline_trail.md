@@ -9,6 +9,7 @@ latitude: 40.7700
 longitude: -111.8000
 story: >
   The trail follows the long beach line of prehistoric Lake Bonneville, the vast Ice Age lake that filled the eastern Great Basin between about 30,000 and 12,000 years ago. At its peak the lake stood about 1,000 feet higher than the current Great Salt Lake. The visible shoreline benches — long horizontal terraces cut into the Wasatch foothills — are the wave-cut platforms of that lake.
+score: 7.0
 ---
 
 The Bonneville Shoreline Trail is a long, mostly single-track path that follows the prehistoric shoreline of Lake Bonneville around the eastern edge of the Salt Lake Valley. Completed sections run for about 90 miles in the Salt Lake metro; the goal is eventually a continuous 280-mile trail from Brigham City to Nephi.

@@ -7,6 +7,7 @@ tags:
 latitude: 45.5583
 longitude: 18.6973
 snippet: "Osijek's fine arts museum with Croatian and European art from the 18th century to present"
+score: 6.8
 ---
 
 The Museum of Fine Arts holds Osijek's main collection of paintings and sculptures, with works spanning from the 18th century to contemporary Croatian and Yugoslav art. The collection is particularly strong on Slavonian artists and the Croatian Modernist movement of the early 20th century. There are also Old Master paintings acquired over the centuries by the city and regional institutions.

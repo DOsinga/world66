@@ -10,6 +10,7 @@ tags:
   - landmark
   - innere_stadt
 story: "The Staatsoper performs around 350 nights a year — one of the densest schedules of any opera house in the world. Standing-room tickets go on sale 80 minutes before each performance for under five euros, and queues for the best 'parterre' spots start to form three hours ahead."
+score: 8.9
 ---
 
 The Wiener Staatsoper is one of the most prestigious opera houses in the world, opened in 1869 as part of the Ringstrasse project. The neo-Renaissance facade survived World War II only to be gutted by a fire in 1945; the auditorium was rebuilt in the original style and reopened in 1955.

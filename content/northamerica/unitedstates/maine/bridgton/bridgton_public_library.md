@@ -9,6 +9,7 @@ latitude: 44.0542
 longitude: -70.7103
 sources:
   - https://en.wikipedia.org/wiki/Bridgton_Public_Library
+score: 6.0
 ---
 
 The Bridgton Public Library, formerly the Dalton Holmes Davis Memorial Library, is a handsome building at the center of town and one of the better small public libraries in western Maine. Beyond its function as a library, it serves as a community gathering point and hosts local exhibitions and events throughout the year.

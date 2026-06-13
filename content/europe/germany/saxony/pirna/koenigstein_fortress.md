@@ -20,6 +20,7 @@ story: >
   factory. The fortress was also used to store the Dresden art collection when
   Allied bombing threatened the city in 1945; the paintings were moved out just
   in time.
+score: 9.1
 ---
 
 Königstein Fortress occupies the flat top of a sandstone mesa that rises 240 metres above the Elbe valley, about 30km southeast of Pirna. The site has been fortified since the 13th century; the current complex is a layered accumulation of medieval walls, Renaissance bastions, Baroque storehouses, and 19th-century additions — the largest hilltop fortress in Germany by area, with over 50 buildings within the walls. Walking the full circuit of the ramparts takes about an hour, and the views in every direction over the Elbe valley and the Saxon Switzerland landscape are exceptional.

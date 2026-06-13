@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.2
 ---
 
 A leafy public park just south of the Pyramid, named "Youth Park" in Albanian. It is the city's main green space in the centre and a popular place for an evening stroll. The artificial lake at its southern end, with its surrounding cafés and small footbridges, is where many Tirana families go on weekends.

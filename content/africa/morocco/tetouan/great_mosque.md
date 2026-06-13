@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5708
 longitude: -5.3683
+score: 7.0
 ---
 
 The principal mosque of the medina, dating in its present form from the late eighteenth century during the reign of the Alaouite sultan Sidi Mohammed ben Abdallah. The square minaret, with bands of green tile, is the most visible landmark in the old city and rises just north of the central market.

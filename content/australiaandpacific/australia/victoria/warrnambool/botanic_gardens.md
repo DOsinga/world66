@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park, garden]
 latitude: -38.3779
 longitude: 142.4835
+score: 7.6
 ---
 
 Warrnambool's Botanic Gardens were designed by William Guilfoyle in 1879 — the same landscape architect responsible for Melbourne's Royal Botanic Gardens — and they show his characteristic hand: wide curving paths that obscure how small the space actually is, rare specimen trees chosen for form as much as botany, and a central lily pond with a working fernery beside it. The band rotunda at the centre is used for summer concerts.

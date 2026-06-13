@@ -8,6 +8,7 @@ latitude: 24.6309
 longitude: 46.7118
 story: >
   Deera Square has had several official names — Justice Square, Safa Square — but the nickname that stuck is Chop-Chop Square, a reference to its function as the traditional public execution site. Capital punishments, mostly by beheading, took place here after Friday prayers, observed by large crowds. In 2020, the Saudi government announced plans to end executions in the square and move them to designated facilities, as part of a broader package of social reforms.
+score: 7.2
 ---
 
 The main square of the old city of Riyadh, adjacent to the Grand Mosque and the Al-Hukm Palace, and surrounded by the traditional markets and covered souqs of the Qasr al-Hukm District. The square is the historic centre of public life — markets, proclamations, and gatherings — and remains one of the busiest pedestrian areas in old Riyadh.

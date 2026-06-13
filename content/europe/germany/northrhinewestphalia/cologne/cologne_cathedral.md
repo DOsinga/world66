@@ -14,6 +14,7 @@ story: >
   medieval plans, miraculously preserved — and was completed in 1880. The result is
   one of the few Gothic cathedrals in the world built to its original design, 632 years
   in the making.
+score: 9.8
 ---
 
 The Cologne Cathedral is the dominant fact of the city — it is visible for miles and the first thing most arrivals see when they step out of the main train station directly below it. At 157 metres, it is the tallest twin-spired church in the world and held that record as the world's tallest building from 1880 to 1884. The interior is vast and genuinely impressive: 56 pillars, magnificent medieval stained-glass windows including the 13th-century Dreikönigenfenster, and the golden Shrine of the Three Kings — the largest reliquary in the Western world, said to contain the bones of the biblical Magi.

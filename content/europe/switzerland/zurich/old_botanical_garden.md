@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "Romantic 19th-century university garden on the old city ramparts, with a domed palm house"
+score: 6.1
 ---
 
 The Alter Botanischer Garten — the Old Botanical Garden of the University of Zurich — sits on the old city defensive ramparts a short walk west of Bahnhofstrasse. The university moved its main botanical collections to the larger New Botanical Garden in Zollikerstrasse in 1976, but kept the small original site open as a public park.

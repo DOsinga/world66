@@ -13,6 +13,7 @@ story: >
   recreates this tradition of non-commercial devotion — musicians perform not for
   fees but as an act of worship, and the best in the country consider it an honour
   to be included.
+score: 8.5
 ---
 
 The Thyagaraja Aradhana is an annual five-day classical music festival held each January or February in Thiruvaiyaru, a small town 13 km north of Thanjavur, on the anniversary of the composer Thyagaraja's death. Thyagaraja (1767–1847) is one of the three Carnatic music Trinity — alongside Muthuswami Dikshitar and Syama Sastri — and his compositions remain central to the south Indian classical repertoire. The festival draws hundreds of musicians from across India and thousands of listeners, making it one of the most significant classical music events in the country.

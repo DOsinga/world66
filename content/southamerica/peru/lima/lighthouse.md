@@ -9,6 +9,7 @@ tags:
   - miraflores
 neighbourhood: Miraflores
 snippet: Squat striped lighthouse on the Miraflores Malecón
+score: 5.4
 ---
 
 The **Faro de la Marina** is a 22-metre red-and-white striped lighthouse on the Malecón Cisneros in Miraflores — built in 1900 to guide ships into Callao, originally on the Punta peninsula, and moved here in 1973 when modern navigation made it redundant in its original location. It is a small but iconic feature of the Miraflores skyline.

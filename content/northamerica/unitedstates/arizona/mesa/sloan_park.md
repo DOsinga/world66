@@ -9,6 +9,7 @@ latitude: 33.4072
 longitude: -111.8360
 story: >
   Chicago Cubs fans make a pilgrimage to Sloan Park every February and March with an enthusiasm that has made Mesa's spring training one of the most attended in the Cactus League. The Cubs sell out most home games; buy tickets online months before your trip. The seating bowl is intimate enough that you can watch batting practice from the outfield grass.
+score: 6.8
 ---
 
 Sloan Park is the spring training home of the Chicago Cubs, a 15,000-seat stadium in West Mesa that opens each February for Cactus League play. Spring training baseball is one of Arizona's great pleasures: the games are relaxed, the tickets are affordable compared to the regular season, and you can wander close to the field in ways that are impossible at a big-league park.

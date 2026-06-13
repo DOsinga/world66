@@ -11,6 +11,7 @@ tags:
 neighbourhood: West Village
 title: Pewabic Pottery
 type: poi
+score: 8.0
 ---
 
 Pewabic Pottery has been producing its distinctive iridescent ceramic tile in Detroit since 1903. Mary Chase Perry Stratton founded the studio, developed the metallic glaze that became its signature, and supplied tile to the Guardian Building, the Detroit Public Library, the Shrine of the Immaculate Conception in Washington, and countless private fireplaces. The pottery is still a working studio and a National Historic Landmark.

@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The Doukhobors arrived in Canada in 1899 — seven and a half thousand pacifist Russian peasants fleeing tsarist conscription, with their passage paid by Leo Tolstoy from the royalties of his novel Resurrection. Many ended up in this valley, where they built communal villages and worked the land collectively for the next half-century."
+score: 8.3
 ---
 
 A few kilometres west of town, the Hardy Mountain Doukhobor Heritage Site preserves one of the most complete examples of the communal-villages the Doukhobors built when they settled this valley after 1899. The two-storey brick and timber dwelling, banya (steam bath), bake oven, and outbuildings are arranged around an open yard exactly as they were when the village was founded.

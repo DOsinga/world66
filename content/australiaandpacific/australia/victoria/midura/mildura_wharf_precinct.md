@@ -8,6 +8,7 @@ tags:
 latitude: -34.1838
 longitude: 142.1630
 snippet: Riverside cafes and casual dining along the Murray at the old wharf
+score: 6.8
 ---
 
 The old wharf area along the river has become Mildura's most pleasant spot for a casual meal or coffee. Several cafes and casual restaurants face the Murray here, some with outdoor decks right on the water. The food leans toward local produce — expect stone fruit salads in summer, citrus dishes through winter, and Murray cod on most menus throughout the year.

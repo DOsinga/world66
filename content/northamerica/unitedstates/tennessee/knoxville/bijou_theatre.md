@@ -6,6 +6,7 @@ latitude: 35.9622
 longitude: -83.9167
 sources:
   - https://en.wikipedia.org/wiki/Bijou_Theatre_(Knoxville,_Tennessee)
+score: 7.7
 ---
 
 The Bijou Theatre is one of Knoxville's principal live music venues, housed in a building that dates to 1817 and has served, over the centuries, as a hotel, a Civil War hospital, and an opera house before becoming a dedicated concert venue. The current theatre space seats around 700 and retains much of its nineteenth-century character — heavy curtains, ornate plasterwork, and a stage that has hosted everyone from Sarah Bernhardt to R.E.M.

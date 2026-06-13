@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The quiet remnant of John Dobson's Georgian square, with the cenotaph
+score: 6.5
 ---
 
 The surviving north and east sides of John Dobson's 1820s Eldon Square — most of the original square was demolished in the 1970s for the shopping centre, and what remains is a peaceful patch of trees and benches in the heart of the centre. The Cenotaph designed by Lutyens at the centre of the square commemorates the city's First World War dead.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 22.9924
 longitude: 120.2018
+score: 6.9
 ---
 
 Beehive is one of the most respected whisky bars in Tainan, operating out of a narrow shophouse near the Koxinga Shrine that has been fitted out with rows of bottles and dim lighting in the manner of a serious drink spot rather than a nightlife venue. The selection leans toward Scotch single malts but covers Japanese, Irish, and Taiwanese whisky — Kavalan and Omar, both produced in Taiwan, are well represented and worth trying if you haven't encountered them elsewhere.

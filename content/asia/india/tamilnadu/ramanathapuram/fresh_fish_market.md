@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 9.372
 longitude: 78.835
+score: 6.0
 ---
 
 The fish market at Ramanathapuram handles the catch from the Gulf of Mannar fishing boats and is worth visiting early in the morning when the boats come in. The range of fish, prawns, crab and shellfish is excellent, and this is where the town's seafood restaurants buy their stock. The area around the harbour has small stalls selling fried fish and rice plates at very low prices.

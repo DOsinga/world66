@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 18th-century townhouse of one of Sucre's grandest colonial families
+score: 7.3
 ---
 
 The Casa de los Marqueses de Otavi is one of the few aristocratic colonial townhouses in Sucre to retain something of its original splendour. Built in the early 18th century for one of Upper Peru's silver-rich Spanish title-holders, the building has a wide stone portal carved with the family crest, a vast central patio with stone columns, and the original wooden balconies on the upper floor. It now houses the local branch of a national bank, and the ground floor and patio can be visited during banking hours.

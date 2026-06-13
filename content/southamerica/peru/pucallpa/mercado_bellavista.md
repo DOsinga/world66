@@ -8,6 +8,7 @@ tags:
   - market
   - sight
 snippet: The chaotic riverside market and the loading docks for Iquitos-bound boats.
+score: 7.8
 ---
 
 Mercado Bellavista is the main daily market of Pucallpa — a sprawling, cheerfully filthy maze of stalls selling jungle fruit (camu camu, aguaje, copoazú), river fish (paiche, dorado, paco), live chickens, baskets, machetes, and bushmeat that you may or may not want to look at too closely. The medicinal-plant stalls in the inner aisles, run mostly by *vegetalistas*, sell bark, roots and resins still used in traditional Amazonian medicine.

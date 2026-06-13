@@ -9,6 +9,7 @@ title: Eleven One Kitchen
 type: poi
 neighbourhood: Toul Tom Poung
 snippet: Modern Khmer in a contemporary villa near Russian Market
+score: 7.1
 ---
 
 A long-standing favourite for refined Cambodian cooking, set in a contemporary villa with a small garden in Toul Tom Poung. The menu blends classical Khmer with Asian-fusion accents — pomelo and smoked fish salad, beef saraman curry, banana flower with prawns.

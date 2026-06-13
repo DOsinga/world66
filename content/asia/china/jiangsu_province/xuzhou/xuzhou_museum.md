@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.2700
 longitude: 117.2014
+score: 8.3
 ---
 
 The Xuzhou Museum holds the main civic collection from the region's exceptionally rich Han Dynasty archaeological record. The permanent displays include jade burial objects, bronze vessels, pottery figurines, and the spectacular jade funeral clothes that demonstrate the high status of the Han royal family buried here. The collection is strong enough to justify a visit even for travellers who have already seen the Guishan tombs.

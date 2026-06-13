@@ -10,6 +10,7 @@ tags:
 title: Bath
 type: poi
 url: www.visitbath.co.uk
+score: 8.6
 ---
 
 Bath is 115 miles west of London by road, reachable in about 90 minutes by direct train from Paddington. It is one of the most complete Georgian cities in Europe — virtually the entire centre is built from honey-coloured Bath stone, laid out in the 18th century with the Circus, the Royal Crescent, and the Pump Room as its set pieces.

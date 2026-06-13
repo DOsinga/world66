@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 34.6911
 longitude: 135.7956
+score: 7.9
 ---
 
 The Heijo Palace site is the excavated remains of the imperial palace compound that served as the seat of Japanese government from 710 to 784. The original palace covered an area of roughly one square kilometre and contained the emperor's residence, state halls, government offices, and gardens. Today most of the site is open parkland with reconstructed structures — the Daigoku-den (Great Audience Hall) and the East Palace Garden — showing what the original complex looked like.

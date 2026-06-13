@@ -9,6 +9,7 @@ latitude: 15.7031
 longitude: 120.2825
 snippet: Natural hot springs in a forested protected landscape south of town
 story: "Locals come at dawn to soak — the water feels warmer in the cool of the morning, and you get the place to yourself before day-trippers arrive from Dagupan."
+score: 7.5
 ---
 
 The Manleluag Spring Protected Landscape protects a cluster of naturally heated mineral springs set in second-growth forest in the hills south of Mangatarem proper. The main spring bubbles up warm enough to soak in but not scalding, and feeds a bathing pool used by locals and visitors year-round. The setting is genuinely pleasant: the springs are surrounded by trees rather than concrete, and on weekdays the place is quiet enough to feel like a discovery.

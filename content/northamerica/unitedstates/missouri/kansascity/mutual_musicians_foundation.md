@@ -13,6 +13,7 @@ tags:
 - nightlife
 title: Mutual Musicians Foundation
 type: poi
+score: 8.2
 ---
 
 The Mutual Musicians Foundation is the oldest continually operating jazz club in the United States, housed in the same brick building in the 18th and Vine district since 1917. The building was originally the local union hall for Black musicians, who were excluded from the white musicians' union. The after-hours jam sessions that became its hallmark began informally — after the regular clubs closed at 2am, musicians would come here to play through the night, sharpening their skills in front of each other.

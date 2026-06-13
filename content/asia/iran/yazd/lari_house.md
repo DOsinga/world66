@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Lari House is one of the finest traditional mansions in Yazd, a Qajar-era merchant's house that has been meticulously restored and opened as a museum. The architecture follows the classic Yazdi pattern: a plain exterior wall facing the street, with all the beauty turned inward. Step through the entrance corridor and you find an elaborately decorated reception hall, a courtyard garden, and a deep basement room ventilated by a wind tower.

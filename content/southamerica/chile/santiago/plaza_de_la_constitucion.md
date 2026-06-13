@@ -7,6 +7,7 @@ tags:
   - santiago_centro
 latitude: -33.4430
 longitude: -70.6529
+score: 6.5
 ---
 
 Plaza de la Constitución is the formal civic square fronting the northern facade of the Palacio La Moneda. It is a broad, formal space with a bronze equestrian statue of Bernardo O'Higgins, Chile's liberator, at its centre. The changing of the guard ceremony takes place here every other day at noon, a military parade that draws a regular crowd.

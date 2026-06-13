@@ -8,6 +8,7 @@ tags:
 - sight
 title: Saint-Pierre Cathedral
 type: poi
+score: 7.9
 ---
 
 The strangest-looking cathedral in Provence-Languedoc. Two massive cylindrical stone pillars hold up a heavy canopy over the main doorway — the **porche-baldaquin** — making the entrance look more like a fortified gatehouse than a church. The effect is medieval and slightly forbidding, which is appropriate: the cathedral was repeatedly fought over during the Wars of Religion and rebuilt several times.

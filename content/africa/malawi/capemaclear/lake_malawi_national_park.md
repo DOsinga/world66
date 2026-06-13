@@ -10,6 +10,7 @@ longitude: 34.8833
 snippet: "UNESCO World Heritage Site protecting the southern end of the lake"
 story: >
   Lake Malawi National Park was the first freshwater national park anywhere in the world, established in 1980 to protect the explosive evolutionary diversity of the cichlid fish — roughly a thousand species, more than 99% endemic, evolved from a small handful of ancestors over the past few million years.
+score: 7.4
 ---
 
 Lake Malawi National Park is a UNESCO World Heritage Site covering the southern tip of Lake Malawi, including the Nankumba Peninsula on which Cape Maclear sits. It is the first freshwater protected area to receive World Heritage listing, recognised for the extraordinary diversity of cichlid fish that have evolved here — Lake Malawi alone contains roughly a third of all known cichlid species in the world.

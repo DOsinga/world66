@@ -14,6 +14,7 @@ story: >
   When a monkey dies, it is given a full funeral and buried in a special cemetery
   at the edge of the forest — a practice that has helped protect the colony for
   generations.
+score: 8.7
 ---
 
 The Boabeng-Fiema Monkey Sanctuary protects two primate species that live in remarkable intimacy with the human communities of Boabeng and Fiema. Black-and-white colobus monkeys, draped in their distinctive flowing capes, and mona monkeys, smaller and more curious, move freely between the forest and the village — sleeping in garden trees, foraging along the streets, and investigating visitors with calm familiarity.

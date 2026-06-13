@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Shahdag_Mountain_Resort
 story: >
   Shahdag was Azerbaijan's first major international ski resort, opened in 2012 as part of the government's push to diversify the economy beyond oil. The resort was built rapidly on slopes that had never seen organised skiing — engineers had to create the ski runs, hotels, and infrastructure from scratch in the Greater Caucasus mountains. For Baku weekenders making the two-hour drive, it represents something genuinely unexpected: high-quality Alpine skiing in a Caucasian country.
+score: 6.8
 ---
 
 Shahdag Mountain Resort sits at around 1,800 metres in the Greater Caucasus range, about 29km from Qusar town along the Laza road. It opened in 2012 as Azerbaijan's first purpose-built ski resort and now offers 12 ski runs, several chairlifts, and a cluster of hotels and restaurants. The skiing is best between December and March; snowfall is generally reliable at altitude, and the runs range from gentle nursery slopes to steeper descents suited to intermediate skiers.

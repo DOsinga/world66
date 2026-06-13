@@ -9,6 +9,7 @@ tags:
 latitude: -6.8161
 longitude: 39.2895
 story: "The carved wooden door is the defining architectural feature of the Swahili coast — a hardwood frame and a heavy double-leaf door, the panels carved with chains, lotuses, dates, and Quranic inscriptions. Every Swahili merchant family had one, and the elaborateness of the door advertised the wealth of the household. The oldest surviving examples in Tanzania date to the early 19th century; the style itself goes back at least to the 14th."
+score: 6.3
 ---
 
 Some of the most striking architectural details on the Swahili coast are the wooden doors set into otherwise plain coral-stone houses. The motifs vary by region — chains on Lamu and Zanzibar, lotus blossoms further south, Quranic calligraphy in the merchant houses — but the carving is always elaborate, the timber usually mvule or Indian teak, and the brass studs sometimes thumb-sized.

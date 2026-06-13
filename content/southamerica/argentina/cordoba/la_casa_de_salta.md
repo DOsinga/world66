@@ -8,6 +8,7 @@ tags:
 latitude: 31.4180
 longitude: -64.1900
 neighbourhood: Centro
+score: 6.0
 ---
 
 A simple comedor specialising in Andean food from north-west Argentina — empanadas salteñas (juicier and spicier than the Córdoba kind), tamales, humitas, locro, and slow-cooked goat. Plastic tablecloths, lots of regulars, no airs.

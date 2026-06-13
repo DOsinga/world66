@@ -10,6 +10,7 @@ tags:
 title: Stavropoleos Monastery
 type: poi
 story: "The monastery was rebuilt in the early 1900s using fragments salvaged from churches and houses demolished during Bucharest's frantic modernisation — the courtyard's carved stone columns and tombstones come from at least a dozen vanished buildings."
+score: 8.5
 ---
 
 A jewel-box of a church wedged between the bars and restaurants of the Old Centre, Stavropoleos was founded in 1724 by a Greek monk and is the finest surviving example of the Brâncovenesc style — a Wallachian synthesis of Byzantine, Ottoman, and Italian Renaissance elements. The carved stone door frame, the painted interior, and the slender colonnaded porch are exceptional.

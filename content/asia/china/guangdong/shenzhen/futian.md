@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 22.5215
 longitude: 114.0576
+score: 6.8
 ---
 
 Futian is Shenzhen's administrative and financial heart — the planned central district that contains the Civic Center, the Shenzhen Museum, the Convention and Exhibition Center, the Stock Exchange, and the Ping An Finance Centre. It's where the city's institutional face lives: broad boulevards, government plazas, the high-speed rail station connecting to Hong Kong, and the towers of the Futian CBD.

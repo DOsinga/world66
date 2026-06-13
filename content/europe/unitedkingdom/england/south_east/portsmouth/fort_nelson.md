@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The chain of forts on Portsdown Hill — Nelson among them — were built in the 1860s to defend the dockyard from a land attack from the north. The expected French invasion never came; the forts were dismissed as 'Palmerston's Follies' and have been used for everything from prisons to wireless stations since."
+score: 8.2
 ---
 
 Five miles inland on the crest of Portsdown Hill, one of the chain of Victorian forts built to defend Portsmouth from a feared French invasion. Fort Nelson now houses part of the Royal Armouries' artillery collection: cannons, guns, and missile launchers from the 14th century to the Cold War, displayed in the bare brick galleries and outdoor parade grounds of the fort.

@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 35.9660
 longitude: -83.9158
+score: 6.3
 ---
 
 Balter Beerworks is Knoxville's best-regarded craft brewery, occupying a large brick building in the Old City neighbourhood. The brewing operation is visible from the taproom, which has high ceilings, communal tables, and a relaxed atmosphere that draws a mix of students, professionals, and visiting football fans on game days.

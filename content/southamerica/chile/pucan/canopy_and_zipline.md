@@ -6,6 +6,7 @@ tags:
   - adventure
 latitude: -39.2900
 longitude: -71.9700
+score: 6.3
 ---
 
 Several operators around Pucón run canopy and zipline courses through native forest, with platforms positioned to give views across the valley toward the volcano. The courses typically run 1.5 to 2 hours and require no prior experience — guides clip you in and brief you at each platform. The forest here is genuine Valdivian temperate rainforest, draped in moss and ferns, which makes the canopy experience more atmospheric than the more manicured courses found elsewhere in Chile.

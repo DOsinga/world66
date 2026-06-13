@@ -14,6 +14,7 @@ story: >
   sand reflecting through shallow, exceptionally clear water that has limited exposure
   to river runoff or coastal development. The granite boulders surrounding the cove
   act as natural windbreaks and concentrate the reflected light.
+score: 8.9
 ---
 
 Cala Coticcio is the most celebrated cove in the Maddalena archipelago — a narrow inlet on the southeastern tip of Caprera sheltered by wind-sculpted granite boulders, with water so clear and brilliantly coloured that photographs look like they have been digitally enhanced. It is not easily reached: you need either a 45-minute walk from the nearest road (a rough track through maquis), or a boat. Both are worth it.

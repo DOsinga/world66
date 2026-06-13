@@ -7,6 +7,7 @@ snippet: Bombed in 1944 and partially rebuilt as a concert venue
 tags:
 - things_to_do
 - sight
+score: 6.8
 ---
 
 The Oratorio di San Filippo Neri was built in the late seventeenth century by the Oratorians, a religious congregation devoted to music as a means of meditation. The original interior was lavishly frescoed and stuccoed.

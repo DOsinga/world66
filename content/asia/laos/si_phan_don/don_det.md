@@ -11,6 +11,7 @@ story: >
   Don Det has no vehicles — no cars, no motorcycles, nothing with an engine — which gives it a silence unusual in any inhabited place in Southeast Asia. The only sounds at night are the river, the frogs, and the guesthouses' soundtrack speakers. The absence of engines is practical (the island is too small and the paths too narrow) but the effect is deeply peaceful.
 sources:
   - https://en.wikipedia.org/wiki/Don_Det
+score: 7.4
 ---
 
 Don Det is the main traveller island in Si Phan Don — a flat, forested island in the Mekong where the path of life runs at walking pace. There are guesthouses, restaurants, cafes, and the usual backpacker infrastructure, but the island has retained a certain simplicity: no vehicles, quiet paths between bungalows, and the river always present on at least one side.

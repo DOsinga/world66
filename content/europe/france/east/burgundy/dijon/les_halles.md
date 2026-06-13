@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.8
 ---
 
 Dijon's iron-and-glass covered market was designed in the 1870s by Gustave Eiffel, born a few streets away. The building is a 90-metre rectangle of cast iron arcades enclosing two floors of stalls — Burgundy charcuterie, regional cheeses, produce from the Côte-d'Or, fish from the Saône.

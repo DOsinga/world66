@@ -7,6 +7,7 @@ tags:
 latitude: 53.321
 longitude: -3.8238
 snippet: A contemporary art gallery in a striking 1902 building, Wales's most ambitious visual arts space outside Cardiff
+score: 7.7
 ---
 
 Mostyn is the principal contemporary art gallery in north Wales — a serious institution showing international and Welsh artists in a Grade II listed 1902 building on Vaughan Street. It was founded as the Mostyn Art Gallery by Lady Augusta Mostyn, the only woman in Britain to have founded a public art gallery in the Victorian period.

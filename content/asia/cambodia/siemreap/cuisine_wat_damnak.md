@@ -8,6 +8,7 @@ tags:
 title: Cuisine Wat Damnak
 type: poi
 neighbourhood: Wat Bo
+score: 5.9
 ---
 
 **Cuisine Wat Damnak** near Wat Damnak in the Wat Bo neighbourhood is consistently rated among the best restaurants in Cambodia. Chef Joannès Rivière — a Frenchman who has spent over a decade embedded in Cambodian culinary traditions — serves a changing five-course tasting menu built entirely from local Cambodian ingredients: tubers and wild herbs foraged from the Tonlé Sap floodplain, river fish, game, fermented pastes, and seasonal vegetables that rarely appear on tourist restaurant menus. The cooking technique is precise and French-influenced; the flavours are thoroughly, specifically Cambodian.

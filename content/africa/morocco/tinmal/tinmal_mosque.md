@@ -10,6 +10,7 @@ longitude: -8.2284
 sources:
   - https://en.wikipedia.org/wiki/Tinmal_Mosque
 story: "The Tinmal Mosque was built in 1153 by Abd al-Mumin to honour Ibn Tumart, the Almohad movement's founder and mahdi, who is buried here. It is one of the only mosques in Morocco that non-Muslims may enter — not as an act of tolerance, but because the building has long since ceased to function as a place of worship. The emptiness gives it a peculiar, melancholy beauty."
+score: 9.1
 ---
 
 The Tinmal Mosque is one of the most important historical monuments in Morocco and one of the best-preserved examples of Almohad architecture anywhere. Built in 1153 to commemorate Ibn Tumart — the religious reformer who founded the Almohad movement in this very valley — the mosque served as the spiritual and political heart of an empire that would go on to control North Africa and al-Andalus. The dynasty's first great architect, Abd al-Mumin, designed it on the same principles he would later apply to the Koutoubia in Marrakesh.

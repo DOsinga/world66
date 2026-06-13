@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 26.1260
 longitude: -80.1480
+score: 6.8
 ---
 
 Fort Lauderdale's Latin American and Caribbean population has produced a dining scene that goes well beyond the tourist-facing Cuban restaurants on Las Olas. Sistrunk Boulevard and the neighborhoods north and west of downtown have clusters of Haitian, Jamaican, Colombian, and Dominican restaurants that serve the communities who actually live here. Haitian cuisine is particularly well represented — look for griot (fried pork) with pikliz (spicy pickled cabbage), rice and beans cooked with coconut milk, and fried plantains that arrive as a matter of course alongside everything.

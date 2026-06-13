@@ -17,6 +17,7 @@ story: >
   cliffs entirely from the road, so walkers emerge suddenly onto viewpoints
   above a 100-metre drop to the sea — a dramatic contrast after a gentle
   walk through the pines.
+score: 7.6
 ---
 
 The Parque Natural de la Breña y Marismas del Barbate protects a long stretch of cliff coast between Conil and Barbate, together with the salt marshes and wetlands inland around the Barbate river. The park is one of the best places on the Costa de la Luz for birdwatching, particularly during spring and autumn migration: the saltmarshes hold waders, herons, and flamingos, while the cliff tops are good for raptors.

@@ -7,6 +7,7 @@ tags:
 latitude: 36.3397
 longitude: -94.2069
 story: "Northwest Arkansas has attracted more professional mountain bike racers to relocate here than almost any region in the United States outside Colorado. The combination of Walmart-funded trail development, ideal sandstone terrain, a mild climate, and relatively affordable cost of living has created a small but serious cycling culture that competes at the national level."
+score: 7.2
 ---
 
 The Northwest Arkansas trail systems around Springdale are widely considered among the best mountain biking terrain in the United States. The Slaughter Pen trail system in Bentonville — about 45 minutes north — is the flagship, but the Devil's Den State Park and Lake Leatherwood systems to the southwest are equally good and considerably less crowded.

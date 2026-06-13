@@ -9,6 +9,7 @@ latitude: 27.9098
 longitude: 112.4948
 story: >
   The museum presents Mao's life from birth through his early revolutionary years without qualification, and with genuine historical photographs and artefacts. The gap between the official narrative and the documented record of his later rule — famine, purges, the Cultural Revolution — is something visitors can notice for themselves. The museum doesn't try to fill it.
+score: 7.3
 ---
 
 The Chairman Mao Memorial Museum in Shaoshan covers Mao's early life and the beginnings of the Chinese Communist movement, with free admission and exhibits that include genuine historical photographs, documents, and personal objects. The early sections — covering his schooling in Changsha, his political awakening, and the formation of the CCP — contain material of real historical interest.

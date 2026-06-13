@@ -8,6 +8,7 @@ tags:
 story: When the Banco Sulbrasileiro do Comércio tower was completed in 1932, it was the tallest building in Brazil — a remarkable fact for a city that most Brazilians regarded as a provincial backwater. The bank went bust, the building changed hands several times, and Santander eventually acquired and restored it, turning the upper floors into a cultural centre that includes one of the few observation decks in Porto Alegre.
 title: Farol Santander
 type: poi
+score: 8.1
 ---
 
 The Farol Santander — Santander Lighthouse — is what happens when a major bank buys one of the city's most important historic buildings and actually does something interesting with it. The 1932 Art Deco skyscraper on Rua Sete de Setembro was Porto Alegre's first genuine skyscraper and for a brief period the tallest building in Brazil. Santander acquired it, restored the facades and banking halls to their original splendour, and opened the building as a cultural centre in 2017. The result is one of the best adaptive reuse projects in southern Brazil.

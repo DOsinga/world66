@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 27.9615
 longitude: -82.4386
+score: 9.1
 ---
 
 The 1990 National Historic Landmark designation covers more than 950 contributing buildings — the largest concentration of cigar-factory and immigrant-worker architecture left in the United States. Walk any of the blocks between 14th and 22nd Streets and you will see the standard Ybor types: two-storey brick factories with cast-iron columns, "shotgun" worker cottages, Spanish casitas with tile roofs and wrought-iron balconies, and the grand mutual-aid clubhouses that the immigrant communities built for themselves.

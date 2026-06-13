@@ -12,6 +12,7 @@ snippet: "Venice's largest church — burial place of the doges, with Verrocchio
 neighbourhood: Castello
 story: >
   Bartolomeo Colleoni, the mercenary general whose bronze equestrian statue stands outside this church, left a fortune to Venice on condition that a monument be erected in his honour in Piazza San Marco. The Senate wanted the money but not the statue in their most prestigious square. They resolved the problem by placing it here, outside the Scuola Grande di San Marco instead. Technically they kept their promise.
+score: 8.8
 ---
 
 Santi Giovanni e Paolo — known in Venetian dialect as San Zanipolo — is the largest church in Venice, a vast Dominican brick basilica that served as the burial church of the doges. The exterior, on one of the finest campi in the city, is dominated by Verrocchio's bronze equestrian statue of Bartolomeo Colleoni, widely considered one of the greatest Renaissance sculptures.

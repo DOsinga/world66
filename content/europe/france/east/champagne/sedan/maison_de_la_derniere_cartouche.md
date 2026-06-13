@@ -15,6 +15,7 @@ story: >
   reproduced images of the Franco-Prussian War. The original painting hangs in the museum.
 sources:
   - https://en.wikipedia.org/wiki/Bazeilles
+score: 7.7
 ---
 
 The Maison de la Dernière Cartouche ("House of the Last Cartridge") in the village of Bazeilles, about 4 km from Sedan, commemorates one of the grimly heroic episodes of the Battle of Sedan. On 1 September 1870, a small force of French marines fought a ferocious rearguard action through this building while the rest of the army collapsed around them. The house was preserved almost as it was found, with bullet holes still visible in the plasterwork.

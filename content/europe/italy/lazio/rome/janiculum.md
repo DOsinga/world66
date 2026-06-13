@@ -12,6 +12,7 @@ tags:
 - viewpoint
 title: Janiculum Hill
 type: poi
+score: 8.6
 ---
 
 The highest point within the historic city of Rome, offering a sweeping 180-degree panorama over the rooftops, domes, and towers of the centro storico — St. Peter's dome, the Vittoriano, Palazzo Venezia, and the distant Alban Hills all visible on a clear day. A cannon is fired from here every day at noon, a tradition dating to 1847.

@@ -7,6 +7,7 @@ tags:
 latitude: 9.0336
 longitude: 38.7563
 snippet: "City history museum housed in Menelik II's former residence"
+score: 6.8
 ---
 
 The Addis Ababa Museum occupies the house where Emperor Menelik II lived before moving to the Jubilee Palace, making the building itself as interesting as the contents. The exhibits trace the history of the city from its founding in 1886 through the Italian occupation and into the modern era.

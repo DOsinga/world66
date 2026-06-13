@@ -7,6 +7,7 @@ tags:
 - sight
 title: Chamunda Mataji Temple
 type: poi
+score: 6.9
 ---
 
 At the southern end of Mehrangarh Fort, near the ramparts overlooking the old city, stands the temple of Chamunda Mataji — the patron goddess of Jodhpur. Rao Jodha brought her idol from the hilltop shrine of Mandore when he founded the city and built this fort in 1459. She has been worshipped here ever since, making this one of the oldest continuously active places of worship in Jodhpur.

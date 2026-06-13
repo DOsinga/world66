@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.030500
 longitude: 80.218000
+score: 7.4
 ---
 
 Three big bastions guard the landward (north) approach to the fort, each named for one of the heavenly bodies: Star, Moon and Sun. They were the most heavily defended part of the Dutch fortifications because the seaward sides were already protected by reefs and surf. The Main Gate cuts through between Star and Moon — the British added it in 1873 to ease traffic to the new town.

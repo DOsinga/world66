@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -14.7915
 longitude: -39.0440
+score: 6.6
 ---
 
 The Outeiro de São Sebastião is a low hill at the edge of the historic centre topped by an old chapel and a lookout point. The view from here takes in the historic waterfront, the point where the Cachoeira and Santana rivers meet the Atlantic, and on clear days the beaches extending south of the city. It is the best panoramic viewpoint in Ilhéus and the walk up from the centre takes about ten minutes.

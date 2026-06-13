@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 Home of the San Francisco Symphony, opened in 1980 and renovated in 1992 to fix what everyone agreed was substandard acoustics. The current room is excellent. The exterior, by Skidmore, Owings & Merrill, is a curving glass-and-stone sweep that fronts Van Ness Avenue.

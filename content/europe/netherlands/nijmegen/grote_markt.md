@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8455
 longitude: 5.8637
+score: 6.8
 ---
 
 Nijmegen's Grote Markt is the city's central square, flanked by the Sint-Stevenskerk and the reconstructed Waaggebouw (weighhouse), both rebuilt after the 1944 bombing. The square has been the heart of Nijmegen since the Middle Ages — markets, proclamations, and executions all happened here — and today it functions as a major café and restaurant hub, particularly busy on weekend afternoons and during the Vierdaagse week.

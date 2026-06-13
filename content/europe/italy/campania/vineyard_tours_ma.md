@@ -12,6 +12,7 @@ tags:
 title: Mastroberardino Vineyard
 type: poi
 url: www.mastroberardino.com
+score: 7.3
 ---
 
 Mastroberardino has been making wine in Campania for over 130 years and is the region's most celebrated producer. The vineyard is 28 miles from Naples near Atripalda. Tastings and tours are available; this is the place to try Taurasi, the powerful red made from Aglianico grapes that is Campania's finest wine.

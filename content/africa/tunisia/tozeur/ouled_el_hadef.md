@@ -15,6 +15,7 @@ story: >
   The interlocking brick patterns that look purely decorative actually channel
   air and create shade; every façade is a working piece of climate engineering
   that has outlasted the empires that built it.
+score: 9.1
 ---
 
 The Ouled el-Hadef is the old quarter of Tozeur and one of the finest historic neighbourhoods in Tunisia. Its distinctive architecture sets it apart from medinas elsewhere in the country: walls built from small yellow bricks laid in geometric patterns — lozenges, stars, crosses — that create a rippling texture across every surface. The brickwork is not applied decoration but structural, and the patterns vary from house to house according to family tradition and the builder's skill.

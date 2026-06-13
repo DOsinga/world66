@@ -10,6 +10,7 @@ tags:
 title: quasi moda
 type: poi
 snippet: "Avant-garde women's fashion at Hackescher Markt"
+score: 5.5
 ---
 
 A small boutique in the Fountain Courtyard at Hackescher Markt selling avant-garde Berlin fashions for women. The kind of place where the designs are bold enough that you'll know immediately whether it's your thing or not.

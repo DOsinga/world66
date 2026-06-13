@@ -12,6 +12,7 @@ tags:
 - sight
 title: Nariz del Diablo (Devil's Nose)
 type: poi
+score: 9.1
 ---
 
 Ecuador's most famous railway journey. From Alausi station, the train climbs to the edge of a 500-metre cliff — the Nariz del Diablo, or Devil's Nose — then descends in a dramatic series of switchbacks, reversing three times to negotiate the near-vertical mountainside. The gorge scenery is extraordinary: dry mountain walls, condors overhead, and the vertiginous sense of nineteenth-century engineering pressed to its absolute limit.

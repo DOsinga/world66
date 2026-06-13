@@ -7,6 +7,7 @@ snippet: Mid-sized spring and historic 1930s cabin in a quiet bend of the Curren
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 Pulltite is the kind of place that the rangers send you to when you ask where they actually go on a day off. The spring is mid-sized — around 21 million gallons a day — but the setting is what makes it: a bend of the Current River, a 1930s log cabin on the bank, and a short flat trail down to the spring outlet through a stand of mature trees.

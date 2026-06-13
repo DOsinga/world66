@@ -9,6 +9,7 @@ tags:
 - nature
 title: Dadès Gorge
 type: poi
+score: 8.9
 ---
 
 The Dadès Gorge is the dramatic spine of the valley, a 50-kilometre cleft cutting north into the High Atlas behind Boumalne. The lower section near town is a wide farming valley with date palms, almond groves, and Berber villages of pink mud-brick clinging to the canyon walls. Twenty kilometres in, the road begins its famous switchbacks — a series of tight hairpins climbing a sheer cliff face, much-photographed and signposted on every map of southern Morocco.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.2250
 longitude: 120.1472
+score: 8.5
 ---
 
 The world's largest silk museum sits south of West Lake and tells the 5,000-year history of one of China's most important exports. The collection runs from neolithic silk fragments to imperial court robes, presented in well-lit galleries with English text. The weaving hall is the highlight: ancient looms are demonstrated by weavers, and you can see the entire production process from silkworm to finished brocade.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -1.4292
 longitude: 29.5483
+score: 6.4
 ---
 
 The Virunga Mountains form one of the most dramatic landscapes in Africa — a chain of eight volcanoes straddling the borders of Rwanda, Uganda, and the Democratic Republic of Congo, their peaks rising between 3,000 and 4,507 metres above the surrounding plateau. From Musanze and the approaches to Volcanoes National Park, the volcanoes are almost continuously visible: Karisimbi (4,507m, the highest), Bisoke with its perfect crater, Sabyinyo's jagged summit (the "old man's teeth"), and the gentler profiles of Gahinga and Muhabura.

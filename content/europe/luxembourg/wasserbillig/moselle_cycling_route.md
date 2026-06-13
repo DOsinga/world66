@@ -8,6 +8,7 @@ latitude: 49.7142
 longitude: 6.5011
 story: >
   The EuroVelo 5 and local Moselle cycle route follows the river from its source in the Vosges mountains all the way to where it meets the Rhine at Koblenz. The Luxembourgish stretch between Schengen and Wasserbillig is among the flattest and most scenic sections of the entire route — a rare combination.
+score: 7.0
 ---
 
 Wasserbillig is the eastern terminus of Luxembourg's Moselle cycling route, which runs 42 km south along the river to Schengen. The path is paved, well-marked, and almost entirely flat, tracing the vineyard-flanked riverbank through a string of wine villages. Remich, Stadtbredimus, and Grevenmacher are the main stops along the way, all with riverside cafes and wine cellars.

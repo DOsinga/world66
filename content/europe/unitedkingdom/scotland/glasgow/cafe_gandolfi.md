@@ -8,6 +8,7 @@ tags:
 address: "64 Albion Street, Merchant City, Glasgow"
 latitude: 55.8589
 longitude: -4.2412
+score: 7.0
 ---
 
 Café Gandolfi has been in the Merchant City since 1979, when the surrounding area was derelict warehouses rather than galleries and restaurants. It helped pioneer the gentrification of the quarter and has outlasted most of what followed. The interior — designed by Tim Stead, a Scottish artist, using hand-carved organic forms for the furniture and bar — is unlike anywhere else in Glasgow.

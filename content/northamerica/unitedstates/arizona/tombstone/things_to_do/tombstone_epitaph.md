@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/The_Tombstone_Epitaph
 story: >
   When John Clum founded the Epitaph in 1880, friends warned him that naming a newspaper after a tombstone inscription was bad luck. Clum's reply: "Every Tombstone needs an Epitaph." The paper covered the O.K. Corral gunfight in detail the next morning, and its account became the primary historical record of the event.
+score: 6.3
 ---
 
 The Tombstone Epitaph has been publishing since May 1, 1880, making it one of the oldest continuously operating newspapers in Arizona. The original office on Fifth Street is now a small museum where you can see the printing press used to set the type for the O.K. Corral coverage and browse reproductions of historic front pages. The paper itself is still published monthly, covering Old West history and culture.

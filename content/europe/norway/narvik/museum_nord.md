@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Local history museum with displays on the ore railway, the company town, and the Sami presence in the Ofotfjord
+score: 7.1
 ---
 
 Housed in one of the surviving original buildings of the LKAB mining company, **Museum Nord – Narvik** tells the story of the town from the founding of the iron-ore port in 1887 through the construction of the Ofotbanen, the company-town years, and the postwar reconstruction. It is a smaller, more local cousin to the Narvik War Museum and well worth an hour for visitors interested in the industrial history that explains why a town exists this far north.

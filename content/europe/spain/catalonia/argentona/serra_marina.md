@@ -8,6 +8,7 @@ tags:
 latitude: 41.5400
 longitude: 2.3833
 snippet: Pine-forested hills with a ruined castle above the town
+score: 7.3
 ---
 
 The Serralada Litoral coastal range rises behind Argentona, a green strip of pine and oak woodland threaded with marked walking trails. The most rewarding short hike climbs to the ruins of the Castell de Burriac, a 10th-century watchtower set on a rocky outcrop with views down to the Mediterranean from Barcelona to Blanes. It takes about an hour each way from the village of Cabrera de Mar; you can also approach from Argentona via signposted forest paths.

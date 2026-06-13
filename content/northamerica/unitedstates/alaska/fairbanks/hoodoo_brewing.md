@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 64.8388
 longitude: -147.7099
+score: 7.2
 ---
 
 HooDoo Brewing is Fairbanks' best craft brewery and one of the best in Alaska. The taproom on 1951 Fox Avenue, in a light industrial area east of downtown, has the no-frills feel of a working brewery — concrete floors, picnic tables, garage doors that open in summer.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Riverside park along the Ogun river, popular with families
+score: 5.6
 ---
 
 The Ogun River runs through Abeokuta and gives Ogun State its name. A modest riverside park has been laid out along part of the bank near the city centre, with shaded benches, a children's playground, and food vendors at weekends. The river itself is wide and slow at this point, with fishermen casting nets from small wooden canoes — a quintessential southwestern Nigerian scene.

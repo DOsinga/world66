@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 7.6422
 longitude: 99.7681
+score: 6.8
 ---
 
 About 20km east of the city, Khao Chong is a small botanic reserve attached to a forestry research station in the Banthat foothills. Trails lead through plantation forest and patches of secondary rainforest to a waterfall and pool that is cool enough for swimming. The site is popular with local families on weekends and largely ignored by foreign tourists.

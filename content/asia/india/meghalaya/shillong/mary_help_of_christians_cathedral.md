@@ -8,6 +8,7 @@ tags:
   - church
 latitude: 25.5684
 longitude: 91.8913
+score: 6.7
 ---
 
 A pale blue Catholic cathedral in the Salesian style, set on Don Bosco Square in the south of the city. The original 1936 wooden church burned down in 1936; the present building, finished in the 1940s, has a slim spire and stained-glass windows that catch the morning light. The grotto behind the church, modelled on Lourdes, is a popular spot for quiet prayer.

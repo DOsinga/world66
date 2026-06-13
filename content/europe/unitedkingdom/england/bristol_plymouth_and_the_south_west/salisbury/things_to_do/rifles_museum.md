@@ -8,6 +8,7 @@ latitude: 51.0662
 longitude: -1.7996
 sources:
   - https://en.wikipedia.org/wiki/The_Rifles_Berkshire_and_Wiltshire_Museum
+score: 6.8
 ---
 
 A regimental museum in the Wardrobe, a fourteenth-century merchant's house in the cathedral close. The collection covers the history of the Berkshire and Wiltshire regiments from the seventeenth century to the present day, with uniforms, weapons, campaign medals, and personal accounts from conflicts including the Napoleonic Wars, the Boer War, and both World Wars.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.9233
 longitude: 116.4445
+score: 5.8
 ---
 
 One of the best-regarded Peking duck restaurants in the city and the main competition to Quanjude for the title of Beijing's finest. Da Dong's signature is ultra-crispy, very thin skin with a reduced fat content — the result of a modified roasting technique that renders more of the subcutaneous fat. The duck is served with the traditional accompaniments of pancakes, hoisin, scallions, and cucumber, plus a wider range of creative side dishes than you find at the older establishments.

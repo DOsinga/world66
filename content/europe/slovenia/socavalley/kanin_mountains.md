@@ -9,6 +9,7 @@ latitude: 46.358
 longitude: 13.44
 sources:
   - https://en.wikipedia.org/wiki/Kanin_Mountains
+score: 8.1
 ---
 
 The Kanin Mountains rise above Bovec to the northwest, reaching over 2,000 metres on the Slovenian-Italian border. A cable car from Bovec reaches the ski area on the upper plateau, which in summer becomes walking country: an exposed karst landscape with sinkholes, caves, and dramatic views over the Soča Valley below and into the Italian plains.

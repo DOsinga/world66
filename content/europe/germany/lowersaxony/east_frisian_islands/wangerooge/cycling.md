@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 53.7888
 longitude: 7.9218
+score: 6.9
 ---
 
 Cycling is one of the principal ways to explore Wangerooge — the island is flat, car-free, and has a network of paved paths running the length and width of the island, from the village to the beach in the north and the Wadden Sea mudflats in the south. The full circuit of the island's accessible paths takes about two hours at a comfortable pace, passing through dune landscape, salt marsh, and the village centre.

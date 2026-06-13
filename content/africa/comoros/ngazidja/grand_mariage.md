@@ -6,6 +6,7 @@ tags:
   - sight
 title: Grand Mariage (Anda)
 type: poi
+score: 7.8
 ---
 
 The Grand Mariage — known as the anda in Comorian — is the most important social institution on Ngazidja. To complete one, a man must hold a wedding feast of extraordinary scale: gold jewellery, embroidered robes, feasting, music, and dancing that can continue for two weeks. A man who has not completed his anda is excluded from village councils and significant community decision-making, regardless of his age or wealth. Families save for decades to fund the ceremony.

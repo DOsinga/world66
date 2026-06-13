@@ -9,6 +9,7 @@ tags:
   - bridge
 title: "Pont du Diable"
 type: poi
+score: 7.4
 ---
 
 The Pont du Diable is Ceret's medieval bridge over the Tech, a single bold stone arch that looks almost too elegant for the narrow river gorge beneath it. For centuries it was one of the great crossings into the Vallespir.

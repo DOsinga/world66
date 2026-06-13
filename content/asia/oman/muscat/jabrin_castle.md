@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 22.2217
 longitude: 57.3392
+score: 8.0
 ---
 
 Jabrin is the most richly decorated of Oman's interior forts, a 17th-century palace-castle that served as the seat of Imam Bil'arab bin Sultan, one of the country's greatest scholar-rulers. Unlike the defensive forts that dominate most of Oman's fortified architecture, Jabrin was designed as a place of learning and residence: its rooms are finished with elaborate painted ceilings — geometric patterns, floral motifs, and Quranic inscriptions — that stand out as genuinely fine decorative work by any standard. The fort also housed a school, library, and burial chambers for the imams within its walls.

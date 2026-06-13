@@ -11,6 +11,7 @@ story: >
   The Iron Market's distinctive Moorish towers were actually a mistake — the original structure was ordered
   from a French manufacturer for a railway station in Egypt, then accidentally shipped to Haiti instead. Rather
   than send it back, Port-au-Prince kept it, and it became the city's most iconic building for over a century.
+score: 8.0
 ---
 
 The Marché de Fer — Iron Market — is Port-au-Prince's most recognisable landmark and its commercial heart. The original cast-iron structure, with its twin Moorish towers and vaulted roof, was imported from France in 1891 and rebuilt in 2011 after the 2010 earthquake destroyed it. The reconstruction, funded by Digicel, restored the original appearance almost exactly.

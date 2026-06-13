@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.9
 ---
 
 Cat Ba National Park covers around 260 square kilometres of the eponymous island and includes one of the most biodiverse karst landscapes in southeast Asia. The forest grows on jagged limestone in patches of red soil and is home to macaques, civets, and the extremely rare Cat Ba langur — a golden-headed monkey found nowhere else on earth.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 3.6500
 longitude: 97.7000
+score: 7.7
 ---
 
 The Alas River cuts through Gunung Leuser from the high country south of Kutacane all the way to the Indian Ocean, and is one of the most spectacular rafting rivers in Southeast Asia. Multi-day trips run between Ketambe and Gelombang, with several grade-three and four rapids, long stretches of forest-lined flat water, and overnight camps on river beaches. Wildlife sightings from the boats are common — hornbills, monkeys, occasionally elephants on the lower banks.

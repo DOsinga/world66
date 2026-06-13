@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.0722
 longitude: 20.0525
+score: 6.5
 ---
 
 The Wanda Mound (Kopiec Wandy) on the eastern edge of Krakow is one of the four artificial earthen mounds that are the city's most distinctive monuments. Built in the early medieval period, it commemorates the legendary Princess Wanda, daughter of Krakow's mythical founder Krak, who drowned herself in the Vistula rather than marry a German prince — one of the founding myths of Polish national identity. The mound is about 14 metres high and offers views across the flat eastern approaches to the city and back toward the Old Town.

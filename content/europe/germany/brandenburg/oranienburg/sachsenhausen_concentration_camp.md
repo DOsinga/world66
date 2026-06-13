@@ -18,6 +18,7 @@ story: >
   that it bought their continued survival.
 sources:
   - https://en.wikipedia.org/wiki/Sachsenhausen_concentration_camp
+score: 8.8
 ---
 
 Sachsenhausen was established in 1936 on the outskirts of Oranienburg as a model camp — designed from scratch by the SS to serve as a template and training ground for all subsequent camps in the Nazi system. Over the following nine years, more than 200,000 people were imprisoned here: political opponents, Jews, Soviet prisoners of war, homosexuals, Jehovah's Witnesses, and ordinary people the regime found inconvenient. At least 30,000 died within the perimeter from execution, starvation, disease, and forced labour.

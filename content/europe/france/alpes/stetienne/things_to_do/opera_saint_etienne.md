@@ -9,6 +9,7 @@ latitude: 45.4338
 longitude: 4.3978
 sources:
   - https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Saint-%C3%89tienne
+score: 7.2
 ---
 
 Saint-Étienne's opera house has a strong reputation for French opera and hosts a full season of productions from September to June. The building is a handsome nineteenth-century theatre with good acoustics and an intimate scale — far less intimidating than the Paris Opéra. Ticket prices are reasonable by French standards.

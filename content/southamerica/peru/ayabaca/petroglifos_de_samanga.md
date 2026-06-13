@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -4.7258
 longitude: -79.7623
+score: 6.9
 ---
 
 A collection of pre-Inca petroglyphs carved into large rocks on the hillsides below Ayabaca, depicting geometric patterns, animals, and human figures whose meaning remains uncertain. The site is accessible by mototaxi from town, and the staff at the Museo de Ayabaca can point you to a local guide who knows where the main panels are.

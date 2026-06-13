@@ -9,6 +9,7 @@ tags:
 title: Carousel for Missoula
 type: poi
 url: https://carouselformissoula.com
+score: 6.6
 ---
 
 The Carousel for Missoula sits in Caras Park on the Clark Fork River and is the most distinctive thing in Missoula that you would not expect to find in a city of 75,000 people. It is fully hand-carved — every horse, panel, and ornamental detail was carved from wood by community volunteers over more than 100,000 hours of labour between 1991 and 1995. It was the first completely hand-carved carousel built in the United States since the Great Depression.

@@ -7,6 +7,7 @@ tags:
 title: Koh Pich (Diamond Island)
 type: poi
 snippet: Reclaimed island of malls, replica monuments and night-time funfair
+score: 7.6
 ---
 
 A century ago Koh Pich was a low river island where Phnom Penh families came to swim. It has since been entirely reclaimed and built up by the Overseas Cambodian Investment Corporation as a master-planned district of malls, gated villas and convention halls — including pastiche reproductions of Tiananmen Square and the Arc de Triomphe.

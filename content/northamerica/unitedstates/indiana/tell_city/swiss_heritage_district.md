@@ -10,6 +10,7 @@ longitude: -86.7654
 story: "The town was laid out in 1858 by the Swiss Colonization Society of Cincinnati with streets named after Swiss heroes — Tell, Winkelried, Pestalozzi, Fulton — and a grid copied straight from the cantons. Within ten years half the original Swiss settlers had moved on, but the names and the architecture stayed put."
 sources:
   - https://en.wikipedia.org/wiki/Tell_City,_Indiana
+score: 7.1
 ---
 
 The compact downtown grid, set just back from the Ohio River, is the easiest place to see the town's Swiss colonisation roots. Brick Italianate storefronts along Main Street and 7th Street date from the late 19th century, when Tell City was a busy river port with a furniture industry, a brewery, and a Swiss-German weekly newspaper. The street names — Tell, Winkelried, Schiller — give it away even without the William Tell statue in the central plaza.

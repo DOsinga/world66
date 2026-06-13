@@ -9,6 +9,7 @@ latitude: -3.0044
 longitude: -59.9420
 story: >
   The 42-metre steel observation tower at the heart of MUSA was built in 2014 specifically to give visitors a view above the canopy of the surrounding 100-hectare Adolpho Ducke Forest Reserve — one of the most-studied patches of urban rainforest anywhere.
+score: 8.8
 ---
 
 MUSA is the city's open-air natural history museum. Trails through the Reserva Adolpho Ducke pass enormous kapok and Brazil-nut trees, an orchidarium, a snake house, a butterfly enclosure, and a small ethnobotanical exhibit. The headline attraction is the canopy tower — 242 steps up, with a view over an unbroken green horizon that conveys the scale of the surrounding forest better than anything in the city centre.

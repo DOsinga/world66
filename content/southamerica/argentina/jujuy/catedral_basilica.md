@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Cathedral Basilica of San Salvador
 type: poi
+score: 6.9
 ---
 
 Facing the Plaza Belgrano on the western side, the Cathedral Basilica is the spiritual heart of Jujuy and one of the most important religious buildings in the Argentine northwest. The current structure dates from the mid-nineteenth century, replacing earlier colonial churches on the same site, but it incorporates older treasures — most famously its baroque pulpit, a profusion of carved cherubs and vines covered in gold leaf.

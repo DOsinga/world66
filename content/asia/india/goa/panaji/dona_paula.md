@@ -15,6 +15,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 Dona Paula is a rocky headland seven kilometres west of central Panaji, where the Mandovi and Zuari rivers both empty into the Arabian Sea. The viewpoint at the tip of the headland offers a long panorama in three directions, particularly fine at sunset; a smaller cove on the south side has been the city's preferred swimming spot for over a century.

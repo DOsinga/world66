@@ -12,6 +12,7 @@ story: Palm Grove Cemetery contains the graves of most of Liberia's presidents, 
   foreign investment. Tubman's elaborate mausoleum dominates the cemetery; his son
   and other relatives are buried nearby. The cemetery is also where many leading Americo-Liberian
   families interred their dead in elaborate Victorian tombs.
+score: 7.8
 ---
 
 Palm Grove Cemetery in central Monrovia is the main burial ground of the Americo-Liberian elite and the resting place of most of Liberia's presidents. The Victorian-era tombs and mausoleums — many in various states of decay — tell the story of the settler class that ran Liberia for over a century.

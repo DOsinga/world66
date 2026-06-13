@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5500
 longitude: -117.6000
+score: 7.7
 ---
 
 The Santa Rosa Range rises north of Winnemucca to summits over 2,900 metres, a chain of granite and basalt peaks running for about 60 km. The range is mostly Bureau of Land Management and Forest Service land, with the high passes (Hinkey Summit, Lye Creek) open in summer and the lower foothills accessible year-round.

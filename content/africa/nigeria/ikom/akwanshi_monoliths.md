@@ -15,6 +15,7 @@ story: >
   attention in the 1960s, and remain one of the most distinctive monumental
   traditions in West Africa.
 type: poi
+score: 8.7
 ---
 
 The Akwanshi are a collection of several hundred ancient basalt monoliths found in villages around the Ikom area, principally in the Nta and Nnam communities north of town. The stones are cylindrical, with carved human faces, geometric patterns, and symbolic markings, and are believed to be ancestral memorials dating from the 16th to 19th centuries. They are unique to this corner of Cross River State — nothing quite like them exists elsewhere in Nigeria or West Africa.

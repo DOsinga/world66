@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0667
 longitude: 8.05
+score: 7.4
 ---
 
 The hillsides around Onzo have been cultivated in terraces for centuries, with dry-stone walls holding the thin soil in place on slopes that would otherwise be unusable. The dominant crops are olives — pressed into a light, mild oil that is one of the characteristic products of this stretch of Ligurian hinterland — and Pigato grapes, a local white variety that produces a golden, aromatic wine sold across the region.

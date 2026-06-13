@@ -8,6 +8,7 @@ latitude: 30.3393
 longitude: 112.1917
 story: >
   The two-thousand-year-old male corpse in Jingzhou Museum was recovered from a Han dynasty tomb so well-sealed that the preservation rivals Egyptian mummies. The man is thought to have been a mid-ranking official; his face is clearly legible, and the silk garments he was buried in — woven with threads finer than modern machines routinely produce — were so delicate that conservators took years to unfold them without damage.
+score: 8.8
 ---
 
 The Jingzhou Museum is one of the outstanding regional museums in central China, and the reason alone to stop in the city. The building houses artifacts from over eight hundred ancient tombs excavated across the Jingzhou area — an extraordinary density of finds that reflects the region's role as capital of the Chu state for nearly four centuries during the Warring States period.

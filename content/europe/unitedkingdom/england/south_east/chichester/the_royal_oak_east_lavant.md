@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - pub
+score: 5.6
 ---
 
 The Royal Oak in East Lavant, a couple of miles north of Chichester on the Goodwood road, is the area's most reliable gastropub. The dining room is contemporary, the menu changes with the seasons and leans on Sussex produce, and the pub also has rooms upstairs. Booking is essential, particularly on Goodwood race weekends.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -28.1700
 longitude: -48.6200
 snippet: "Coastal lagoon popular for kite surfing and windsurfing"
+score: 7.7
 ---
 
 Lagoa de Ibiraquera is a large coastal lagoon separated from the open ocean by a narrow strip of dune and low scrub. The winds that funnel through the gap between the lagoon and the sea are strong and reliable, which has made this one of the better spots for kite surfing and windsurfing on the Santa Catarina coast. Schools and rental outfits operate along the lagoon edge. When you want a break from the wind and waves, the lagoon side offers calm, warm water for swimming — a different experience entirely from the surf beach on the other side of the dune.

@@ -9,6 +9,7 @@ longitude: -122.87091
 snippet: Delicate history of hand fans from the 17th century to today
 sources:
   - https://en.wikipedia.org/wiki/Hand_Fan_Museum
+score: 7.2
 ---
 
 A small but absorbing specialist museum tucked into a Victorian house a block from the plaza. The collection spans fans from 17th-century Europe to early 20th-century Japan — ivory, silk, tortoiseshell, feather, and painted paper, each carrying more social coding than you'd expect from a folding accessory. Fans were status symbols, courtship tools, and a woman's way of signalling across a crowded room in an era when that was all she could do.

@@ -9,6 +9,7 @@ tags:
 - cycling
 title: Cragg Vale
 type: poi
+score: 6.6
 ---
 
 The Cragg Vale climb from Mytholmroyd to the Calderdale–Lancashire border ascends 290 metres over 5.5 miles at an unrelenting two to four per cent — making it, by repute, the longest continuous road climb in England. Cyclists from across the country come to ride it and the road is shared with patient drivers; on a Sunday in summer the field is thick with bicycles.

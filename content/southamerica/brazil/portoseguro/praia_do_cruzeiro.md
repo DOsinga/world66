@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.3
 ---
 
 The town beach of Porto Seguro itself, a strip of sand running from the river mouth north along the waterfront just below the historic bluff. It is not the best beach in the area — the water is murkier here because of the river discharge, and the sand is narrower than at the northern beaches — but it is the most convenient, reached on foot from the centre.

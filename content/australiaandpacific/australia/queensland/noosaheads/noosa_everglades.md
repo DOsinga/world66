@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Noosa Everglades are one of only two everglade systems on earth — the other is in Florida. The reflections of paperbark forest in the tea-stained water are so still and sharp that pioneering Australian landscape photographers used to shoot the scenes upside down on purpose to disorient the viewer."
+score: 8.6
 ---
 
 The Noosa Everglades wind north from the river through a chain of shallow lakes — Cooroibah, Cootharaba, and the Upper Noosa River — into a pristine paperbark-fringed waterway that forms part of the Great Sandy Biosphere Reserve. The water is dark, stained by tannins from the surrounding tea-trees, and so still that the reflections are mirror-perfect on a windless day.

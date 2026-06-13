@@ -12,6 +12,7 @@ tags:
 - museum
 title: National Textile Museum
 type: poi
+score: 7.4
 ---
 
 The Royal Textile Academy on Chhogyal Lam houses Bhutan's most comprehensive collection of traditional woven fabrics. The galleries display silk and cotton textiles from different regions of the country, each with distinct patterns and weaving techniques. Demonstrations by weavers working on traditional backstrap looms run most mornings. There is also a well-stocked shop selling genuinely high-quality Bhutanese textiles — more reliable and better priced than many tourist shops. Open Monday to Saturday.

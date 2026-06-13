@@ -14,6 +14,7 @@ story: >
   200 years.
 sources:
   - https://en.wikipedia.org/wiki/Salto_Grande_Dam
+score: 8.0
 ---
 
 The Salto Grande is one of South America's larger hydroelectric dams, straddling the Uruguay River about 20 kilometres north of the city and operated jointly by Uruguay and Argentina. Its reservoir extends 100 kilometres upstream and generates around 1,900 MW, supplying power to both countries. The dam itself is an impressive piece of engineering — the road across its crown gives a sense of the river's scale, and on clear days you can see far into Argentine Entre Ríos province on the far bank.

@@ -8,6 +8,7 @@ tags:
 - sight
 - hill
 - viewpoint
+score: 6.0
 ---
 
 Serra Cangambo is a low hill west of the inland park route, close enough to the central Iona area to work as a useful landmark. In a desert park with few built features, these named hills help travellers understand where they are.

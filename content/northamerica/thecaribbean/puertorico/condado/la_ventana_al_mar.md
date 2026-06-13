@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, park]
 latitude: 18.4583
 longitude: -66.0748
+score: 6.3
 ---
 
 La Ventana al Mar — "The Window to the Sea" — is a small open-air park set on a narrow promontory between the Condado Lagoon and the Atlantic Ocean. The positioning gives it views in two directions, and the spot is popular at sunset when the light hits the water from both sides. It's a genuine gathering point for locals rather than a manufactured tourist attraction: you'll find families with children, older couples on evening walks, and groups of friends sharing drinks from nearby shops.

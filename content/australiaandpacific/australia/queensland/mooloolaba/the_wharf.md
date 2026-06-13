@@ -7,6 +7,7 @@ address: Parkyn Parade
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Wharf is the harbour-side complex on Parkyn Parade where the working trawler fleet ties up alongside a strip of waterfront restaurants, an indoor market, the aquarium and the departure points for whale-watch and dive boats. It is the second focus of the town after the beach, especially in the evening.

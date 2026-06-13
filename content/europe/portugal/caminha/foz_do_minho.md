@@ -7,6 +7,7 @@ tags:
 latitude: 41.8669
 longitude: -8.8700
 snippet: The mouth of the Minho river, a wide tidal estuary marking the Portuguese-Spanish border
+score: 7.5
 ---
 
 The Minho river widens into a tidal estuary just below Caminha, sweeping past sandbanks and a long forested island before emptying into the Atlantic. From the riverside promenade you can walk south along the bank for about two kilometres to the mouth, where the river meets the sea between two low headlands.

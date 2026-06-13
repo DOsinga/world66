@@ -16,6 +16,7 @@ story: >
   foundation on which the British codebreakers built their wartime success.
 sources:
   - https://en.wikipedia.org/wiki/Enigma_Cipher_Centre
+score: 8.2
 ---
 
 The Enigma Cipher Centre opened in 2021 in a building adjoining the Imperial Castle, dedicated to the story of the Poznan mathematicians who first broke the German Enigma cipher in 1932 — years before Bletchley Park. The museum covers the mathematical and technical history of the Enigma machine, the methods used to crack it, and the subsequent careers of the three Polish codebreakers, whose contributions were largely suppressed during the Cold War because Poland was on the wrong side of the Iron Curtain.

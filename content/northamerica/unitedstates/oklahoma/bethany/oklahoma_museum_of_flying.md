@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Wiley Post, the airfield's namesake, was a one-eyed Oklahoman who became the first pilot to fly solo around the world in 1933. He died with humourist Will Rogers in a 1935 crash in Alaska. The museum keeps a Lockheed Vega in his hangar — the same model he flew."
+score: 7.2
 ---
 
 The Oklahoma Museum of Flying occupies a hangar at Wiley Post Airport, a busy general aviation field on the northern edge of Bethany. The collection is small but well-chosen: a Lockheed Vega in the Wiley Post livery, a North American T-6 Texan, several Cold War-era jets, and a strong assembly of homebuilt and experimental aircraft reflecting Oklahoma's surprisingly important role in light-aircraft manufacturing.

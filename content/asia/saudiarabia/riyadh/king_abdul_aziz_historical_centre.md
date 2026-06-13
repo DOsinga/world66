@@ -10,6 +10,7 @@ latitude: 24.6530
 longitude: 46.7100
 story: >
   The King Abdul Aziz Historical Centre was built on the site of the palace where Abdul Aziz ibn Saud — the founder of modern Saudi Arabia — lived and governed from the 1930s until his death in 1953. When the government decided to preserve and celebrate his legacy, rather than simply demolish the old structures, they created a complex that has become the most complete account anywhere of the formation of the Saudi state and the life of its founder.
+score: 8.1
 ---
 
 A large cultural complex north of the old city centre, encompassing the National Museum, Murabba Palace, gardens, and several heritage buildings. The complex covers the history of the Arabian Peninsula from prehistoric times to the modern kingdom, with the National Museum as its centrepiece — eight galleries tracing the story from the Arabian plate's prehistoric geology through the Bronze Age, the rise of Islam, the Ottoman period, and the founding of Saudi Arabia.

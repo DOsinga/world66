@@ -8,6 +8,7 @@ tags:
 snippet: "Riverside park along the Wharfe with walks, play areas, and open meadows"
 latitude: 53.9072
 longitude: -1.6920
+score: 7.5
 ---
 
 Wharfemeadows Park runs along the north bank of the River Wharfe through and beyond Otley, a flat and generous stretch of meadow, garden, and riverside path. It connects the town to the Chevin ridge via a network of footpaths, and it is where most of Otley's leisure life happens — dog walkers in the morning, families in the afternoon, teenagers and runners at all hours.

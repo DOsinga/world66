@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tsiskari Lake Park
 type: poi
+score: 5.8
 ---
 
 Tsiskari Lake is a small reservoir in the hills south of the old town, set in a forested park that makes a pleasant contrast to the bare limestone of the Narikala ridge nearby. The park is quieter than Vake or Turtle Lake and less well-known to tourists — most of the visitors are local families and cyclists using the perimeter path.

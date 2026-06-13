@@ -8,6 +8,7 @@ tags:
 title: Musée des Faïences de Sarreguemines
 type: poi
 story: "The museum's showpiece is the Winter Garden — a spectacular tiled conservatory built in 1880 by the factory owner Paul de Geiger for his private villa. Every surface is covered in hand-painted faience tiles in elaborate botanical and geometric patterns. It was intended as a private dining room and was almost never seen by the public until the villa became a museum."
+score: 8.3
 ---
 
 The Musée des Faïences occupies the former director's villa of the great Sarreguemines faience works, and it is one of the finest industrial art museums in northeastern France. The factory produced decorative earthenware from 1790 until its closure in the 1980s, and at its peak in the late 19th century employed thousands and exported across Europe, America, and the colonies. The museum traces that history through finished pieces, original moulds, production tools, and the story of the families who built the business.

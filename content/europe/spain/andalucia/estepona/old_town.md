@@ -7,6 +7,7 @@ longitude: -5.1490
 snippet: "Whitewashed streets, flower-draped balconies and one of Andalusia's best street mural programmes"
 story: >
   Since 2012 the town has commissioned murals from artists across Spain and beyond, covering the blank walls of the old quarter with large-scale works. Over 50 murals now exist, ranging from hyper-realistic portraits of local fishermen to abstract compositions covering entire building facades. The project began as an attempt to stop the town looking like it was being abandoned by younger residents — it worked better than expected.
+score: 8.1
 ---
 
 Estepona's casco antiguo is compact, mostly car-free, and well-maintained without feeling sanitised. The characteristic whitewashed walls, terracotta rooftiles, and iron balconies draped with red geraniums are the backdrop to a growing collection of street murals that have made the old town unexpectedly famous. Wandering to find all of them takes the better part of a morning, with a map available from the tourist office on Plaza de las Flores.

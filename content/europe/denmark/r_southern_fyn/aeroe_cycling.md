@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.8731
 longitude: 10.3322
+score: 7.8
 ---
 
 Ærø is one of the best cycling islands in Scandinavia. The terrain is gently rolling, the roads are quiet, and the distances are short enough that a full circuit — about 80 km — is achievable in a day at a comfortable pace. Bikes are available for rent in Ærøskøbing and at the ferry terminals.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 13.3
 longitude: -61.25
+score: 6.3
 ---
 
 Richmond Beach is the long dark-sand bay at the end of the leeward coast road, at the foot of La Soufrière. The sand is volcanic black, the surf can be heavy, and the view inland from the beach is straight up the green flanks of the volcano. It is rarely crowded — most days you might share it with a few fishermen pulling in nets.

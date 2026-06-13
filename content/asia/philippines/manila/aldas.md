@@ -4,6 +4,7 @@ tags:
 - eating_out
 title: Alda's
 type: poi
+score: 4.8
 ---
 
 A quaint little restaurant with dim lighting, checkered tablecloth and

@@ -8,6 +8,7 @@ tags:
 - gastronomy
 title: Farinata
 type: poi
+score: 7.4
 ---
 
 Undoubtedly the most traditional and savory specialty in the whole of Liguria is the “farinata di ceci” or chickpea porridge. At Savona it is called turtellassu and considered much “thinner and crisper” than the classic Genoese fainà. In Savona they also make a white porridge from wheat flour and – another pride of the city that is prepared at around five in the afternoon in certain alleys in the old port area – the “fette con le fugassette,” in other words panissa made from chickpea flour, cooled and cut into thin slices, fried in good olive oil and then placed inside small flat loaves of bread straight from the oven.

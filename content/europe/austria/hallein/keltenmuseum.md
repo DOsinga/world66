@@ -7,6 +7,7 @@ tags:
 snippet: "Celtic-era finds from the Dürrnberg salt-mining settlement"
 latitude: 47.68272
 longitude: 13.09739
+score: 8.4
 ---
 
 The Keltenmuseum is a well-laid-out archaeological museum in an old salt-administration building on the Salzach. Its main subject is the Iron Age Celtic civilisation that worked the Dürrnberg salt deposits from around 600 BC — a community wealthy enough to import luxuries from Greece, Etruscan Italy, and the Mediterranean by trading salt north into central Europe.

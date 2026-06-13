@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Inversnecky Cafe
 type: poi
+score: 3.8
 ---
 
 A beloved Aberdeen institution on the seafront esplanade, serving hearty breakfasts, rolls, and hot drinks to beachgoers and dog walkers. Cash-friendly and no-frills.

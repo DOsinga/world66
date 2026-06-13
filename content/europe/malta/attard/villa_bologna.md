@@ -9,6 +9,7 @@ tags:
   - architecture
   - garden
 story: "Villa Bologna was built in 1745 by Fabrizio Grech as a wedding present for his daughter Maria Teresa. It has remained in the same family ever since — the current owners, descendants of the original Strickland family who married into it, run garden tours and a small pottery workshop on the estate."
+score: 7.2
 ---
 
 Villa Bologna is the grandest of Attard's 18th-century villas, set in walled grounds just north of the main square. The house itself remains a private family home, but the gardens are open for guided tours.

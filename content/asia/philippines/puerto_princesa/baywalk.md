@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 title: Puerto Princesa City Baywalk
 type: poi
+score: 6.0
 ---
 
 The baywalk runs along the waterfront of Puerto Princesa Bay, backed by gardens, food stalls, and the occasional monument. It is not a grand promenade — more of a well-maintained public space that genuinely belongs to the locals. In the late afternoon and evening, it fills with families, teenagers, and vendors selling grilled seafood and fresh buko juice.

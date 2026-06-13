@@ -8,6 +8,7 @@ latitude: 40.8500
 longitude: 121.7833
 story: >
   The red colour comes entirely from Suaeda salsa, a type of seepweed that stains the mudflats when it enters its autumn senescence. The plant thrives in the saline, waterlogged soil of the Liaohe River delta — a chemical and biological accident of the right tides, the right salt content, and the right species in the right place. The resulting landscape, covering twenty square kilometres, has no real precedent anywhere in China.
+score: 8.8
 ---
 
 The Red Beach Scenic Area is one of the genuinely singular landscapes in northeast China. Every autumn, from late September through October, the vast reed marshes at the Liaohe River delta turn a saturated crimson — the colour coming from Suaeda salsa seaweed that colours the mudflats as the season changes. The effect covers twenty square kilometres of wetland and is unlike any other landscape in the country.

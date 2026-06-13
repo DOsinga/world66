@@ -15,6 +15,7 @@ story: >
   been examined several times since — most recently with X-rays that confirmed
   the patchwork. The same kind of object was famously exhibited by P.T. Barnum
   as the "Feejee Mermaid".
+score: 6.1
 ---
 
 The Hull Mermaid is one of the city's more unusual museum oddities: a Victorian-era taxidermy fake of the type that drew crowds across Europe and America. The figure is roughly 50 cm long, with the dried torso of a monkey grafted onto the tail of a large fish, the join carefully concealed with stitching and pitch.

@@ -8,6 +8,7 @@ latitude: 43.4734
 longitude: -3.7558
 sources:
   - https://en.wikipedia.org/wiki/Mouro_Island
+score: 5.8
 ---
 
 Isla de Mouro is a small rocky islet at the entrance to the Bay of Santander, topped by a red-and-white lighthouse that has guided ships into the harbour since 1860. From the Magdalena Peninsula or the El Sardinero waterfront you can see it clearly across the water, usually with waves breaking against its base. The island is a nature reserve and cannot be visited, but it is a constant presence in the seascape of Santander — visible from most points along the northern waterfront, and a good subject for photographs from the tip of the Magdalena Peninsula.

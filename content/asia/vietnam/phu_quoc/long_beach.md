@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2137
 longitude: 103.9561
+score: 7.0
 ---
 
 The main beach of Phu Quoc, stretching nearly 20 km along the western coast south of Duong Dong. The northern section, nearest the town, is the most developed — beach bars, restaurants, and resort pools line the road behind the sand. Further south, development thins out and the beach becomes quieter.

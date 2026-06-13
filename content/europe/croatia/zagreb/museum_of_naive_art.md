@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - gornji_grad
+score: 7.9
 ---
 
 In the 1930s a group of self-taught painters from the village of Hlebine in northern Croatia — Ivan Generalić most famous among them — began producing astonishing paintings on glass and canvas, depicting peasant life with technical precision and dreamlike colour. The movement they founded, the Hlebine School, became one of the few internationally recognised contributions of Croatian art in the 20th century.

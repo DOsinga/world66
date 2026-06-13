@@ -6,6 +6,7 @@ tags:
 title: La Nova Pizzeria
 type: poi
 url: www.lanova.com
+score: 5.5
 ---
 
 La Nova has claimed the title of the Best Pizza in Buffalo for as long as most locals can remember and has just reopened the flagship store at Ferry and Hampshire after a fire late last year.

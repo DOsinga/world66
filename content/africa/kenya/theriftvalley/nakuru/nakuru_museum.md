@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Nakuru Museum
 type: poi
+score: 6.8
 ---
 
 The Nakuru Museum, run by the National Museums of Kenya, occupies a leafy compound near the town centre and covers the natural and cultural history of the central Rift Valley. Displays range from the region's prehistoric past — lithic tools, pottery, and finds from sites like Hyrax Hill — to exhibits on the local ecology, the Maasai and Njemps peoples, and the railway history that shaped the city. There is also a small section on the bird life of Lake Nakuru and the other soda lakes of the Rift.

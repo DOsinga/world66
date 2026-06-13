@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Río Chíllar
 type: poi
+score: 7.9
 ---
 
 A celebrated summer walk straight up the bed of the Chíllar river, which carves a narrow gorge through the limestone of the Sierra Almijara behind Nerja. Walkers wade and scramble upstream through shallow water for several kilometres — a refreshing antidote to the August heat.

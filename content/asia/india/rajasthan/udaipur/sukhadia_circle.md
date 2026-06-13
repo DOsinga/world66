@@ -6,6 +6,7 @@ longitude: 73.7011
 tags:
   - things_to_do
   - sight
+score: 5.3
 ---
 
 A large traffic circle in the new town with a 21-metre marble fountain and a small park around it — **Sukhadia Circle** is a popular evening hangout for Udaipur families, especially in the cooler months when the fountains are lit at night. Food stalls along the pavement do *chaat*, fresh juices, kulfi, and *pani puri*.

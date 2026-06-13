@@ -7,6 +7,7 @@ tags:
   - arts
 latitude: 61.5005
 longitude: 23.7620
+score: 7.1
 ---
 
 Founded in 1901, the Tampere Workers' Theatre (Tampereen Työväen Teatteri, TTT) is one of Finland's oldest and largest theatres, and has a particular significance in Finnish cultural life as a theatre built by and for the working class in the era of the Finlayson factory boom. The current building on Hämeenpuisto has an impressive art nouveau interior.

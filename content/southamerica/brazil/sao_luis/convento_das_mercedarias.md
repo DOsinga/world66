@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.5294
 longitude: -44.2998
+score: 7.6
 ---
 
 The Convent of the Mercedárias is one of the few surviving colonial religious complexes in São Luís, a large 18th-century building with an arcaded cloister and a church attached. The Mercedárian Sisters, a Catholic religious order, operated this convent for centuries. Parts of the building have been converted to cultural uses and are accessible to visitors.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The fort was built in 1825 during the Padri War, a religious conflict between Islamic reformists and Minangkabau traditionalists that the Dutch managed to turn to their own advantage. Almost nothing of the original fortification survives — what you see today is a cannon, a few walls, and a modest park on the hill."
+score: 6.4
 ---
 
 The hill above Bukittinggi was named for Hendrik Merkus de Kock, the Dutch general who built the fort. The site is now more park than fortress, with a small zoo at its foot and the elevated Limpapeh Bridge running across Ahmad Yani Street to connect it to the city centre.

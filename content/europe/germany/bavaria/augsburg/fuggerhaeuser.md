@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Fuggerhäuser
 type: poi
+score: 7.8
 ---
 
 The palatial mansion of the Fugger banking family, built between 1512 and 1515 on the Maximilianstrasse. It is one of the earliest examples of Italian Renaissance palace architecture in Germany: symmetrical courtyard design, round-arched arcades, and classical detailing that stood in stark contrast to the Gothic architecture of the period. The interior courtyards are accessible to visitors and retain much of their original character. The building still serves commercial purposes — entry is free and unrestricted during business hours. One of the finest Renaissance interiors in Bavaria.

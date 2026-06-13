@@ -1,6 +1,7 @@
 ---
 title: "Oil Display Centre"
 type: poi
+score: 7.0
 ---
 
 The Oil Display Centre was established by the Kuwait Oil Company to tell the story of Kuwait's petroleum industry to visitors and residents alike. At its best it offered exhibits on the geology of the Burgan field, the history of oil exploration in Kuwait, and the technology of extraction and refining — a good introduction to an industry that quite literally built the country around it.

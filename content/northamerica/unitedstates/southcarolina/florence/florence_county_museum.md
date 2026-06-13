@@ -10,6 +10,7 @@ story: >
   The museum sits within the Florence Downtown Historic District, which contains over 40 structures dating from the late 19th and early 20th centuries — the period when Florence emerged as a railroad junction town. The district was built largely by the Atlantic Coast Line Railroad, which had its general offices here, and the architecture reflects the prosperity of a company town at its peak.
 sources:
   - https://en.wikipedia.org/wiki/Florence_Downtown_Historic_District
+score: 6.8
 ---
 
 The Florence County Museum covers local history from the city's origins as a railroad junction through the Civil War period and into the present. The collection includes archaeological finds from the Pee Dee region, material from the Florence Stockade (the Confederate prisoner-of-war camp), and exhibits on the development of the town as a railroad hub.

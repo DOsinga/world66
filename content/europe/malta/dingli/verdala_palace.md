@@ -6,6 +6,7 @@ longitude: 14.4006
 tags:
 - sight
 - historic
+score: 6.5
 ---
 
 The Verdala Palace, on a wooded ridge above Buskett Gardens, was built in 1586 as a summer hunting lodge for Grand Master Hugues Loubenx de Verdalle of the Knights of St John. It is a fortified square villa with corner bastions, a deep dry moat, and a single elevation of strikingly austere golden limestone — more castle than country house.

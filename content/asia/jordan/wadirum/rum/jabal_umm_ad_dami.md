@@ -10,6 +10,7 @@ story: >
   At 1,854 metres, Umm ad Dami is the highest point in Jordan — higher than anything in the
   mountains around Petra or the hills above Amman. From the summit on a clear day, you can see
   the Red Sea and the Saudi Arabian border. A small Jordanian flag marks the top.
+score: 9.1
 ---
 
 The highest mountain in Jordan sits in the far south of the Wadi Rum Protected Area, near the Saudi border. The hike to the summit is a full-day commitment — about three hours up and two hours down, plus the long jeep ride from the village to the trailhead.

@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Pink Rose Pastry Shop
 type: poi
+score: 5.8
 ---
 
 A quiet, charming pastry shop one block south of the bustling South Street scene. Known for its desserts, coffee, and a calm atmosphere that feels a world away from the crowds nearby. A good spot to sit with a slice of cake and watch the neighborhood go by.

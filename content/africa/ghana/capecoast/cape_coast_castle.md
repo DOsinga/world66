@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Cape Coast Castle
 type: poi
+score: 9.6
 ---
 
 The town's defining sight and a UNESCO World Heritage Site. The castle was built by the Swedes in 1653, taken by the Danes, then captured by the British in 1664, who held it as the headquarters of the Gold Coast colony until 1877. For most of those two centuries it was a slave-trading depot. Up to 1,500 enslaved Africans at a time were held in the male and female dungeons below the courtyard before being shipped out through the Door of No Return.

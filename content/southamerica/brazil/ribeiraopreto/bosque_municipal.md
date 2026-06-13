@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.1728
 longitude: -47.8089
+score: 7.4
 ---
 
 The Bosque Municipal Fábio Barreto is an urban forest of about 45 hectares in the northern part of the city centre — a proper piece of Atlantic Forest remnant, not just a park. Walking paths wind through the trees, and the forest is home to capuchin monkeys, toucans, and various other wildlife that tolerates the proximity of a large city. On weekend mornings, you will find families with children, joggers, and people sitting on benches under the shade.

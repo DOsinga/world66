@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Sawi Mosque
 type: poi
+score: 7.6
 ---
 
 The **Sawi Mosque** is reputed to be the oldest surviving mosque in Multan, though no one is quite sure when it was built — estimates range from the late thirteenth to the fifteenth century. It is a ruin: the roof has gone, the walls are crumbling, and birds nest in the broken brickwork. The few panels of original blue glazed tile that still cling to the inner walls hint at how brilliant it must once have looked.

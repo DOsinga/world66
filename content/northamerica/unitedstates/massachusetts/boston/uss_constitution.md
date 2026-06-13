@@ -12,6 +12,7 @@ tags:
 title: USS Constitution
 type: poi
 url: www.history.navy.mil
+score: 8.8
 ---
 
 Launched in 1797, USS Constitution is the oldest commissioned warship in the world still afloat. She earned her famous nickname, Old Ironsides, after British shot failed to penetrate her thick oak hull during a battle with HMS Guerriere in 1812. The frigate is still officially a US Navy vessel, crewed by active-duty sailors who lead tours through the gun decks.

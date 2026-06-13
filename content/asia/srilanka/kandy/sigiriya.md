@@ -14,6 +14,7 @@ story: >
   Kassapa with the god Kubera. When the elder brother returned with an Indian army in 495 CE,
   Kassapa rode out to meet him in battle, was deserted by his army, and fell on his own sword.
   The fortress was abandoned almost immediately after his death.
+score: 8.9
 ---
 
 Sigiriya, the "Lion Rock," is Sri Lanka's most spectacular ancient site and a UNESCO World Heritage monument — a 200-metre volcanic plug rising from the plain north of Kandy, topped by the ruins of a fifth-century palace. The climb involves ladders, metal staircases, and a final scramble up the rock face past remarkable frescoes (the only survivor of a gallery of paintings that once stretched for 140 metres along the cliff face) to the summit plateau, where the palace foundations survive alongside a complex of water gardens and terraced landscaping.

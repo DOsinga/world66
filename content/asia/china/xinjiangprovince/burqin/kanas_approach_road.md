@@ -7,6 +7,7 @@ tags:
 - nature
 title: Kanas Approach Road
 type: poi
+score: 7.4
 ---
 
 The road from Burqin toward Kanas is not just transit. It climbs from dry river country into birch forest, pasture, and dark conifers, with the landscape growing more alpine by the hour.

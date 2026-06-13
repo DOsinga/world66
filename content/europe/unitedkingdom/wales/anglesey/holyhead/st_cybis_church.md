@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The parish church of St Cybi stands at the centre of the Roman fort that gives Holyhead its Welsh name, Caergybi. The current building is mainly 13th–16th century, replacing a much earlier monastic foundation of which little visible trace remains. The south porch is fine Perpendicular work, and inside, the church has a beautiful set of late-Victorian stained-glass windows by William Morris's firm to the designs of Edward Burne-Jones.

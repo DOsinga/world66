@@ -8,6 +8,7 @@ tags:
 latitude: 49.3078
 longitude: -122.7114
 snippet: A 1,270-metre mountain rising directly above north-east Coquitlam, with one of the best accessible hikes in Metro Vancouver
+score: 8.0
 ---
 
 Burke Mountain is a 1,270-metre forested peak that rises directly above the eastern edge of Coquitlam. It is one of the most accessible serious hikes in Metro Vancouver — much closer to downtown Vancouver than the popular peaks of the North Shore, and considerably less crowded. The mountain forms the southern end of Pinecone Burke Provincial Park, a 38,000-hectare wilderness reserve that runs north for nearly 30 km to the Coquitlam Lake watershed.

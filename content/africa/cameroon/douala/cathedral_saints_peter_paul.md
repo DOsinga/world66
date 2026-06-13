@@ -9,6 +9,7 @@ latitude: 4.0443
 longitude: 9.6927
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_Saints_Peter_and_Paul,_Douala
+score: 6.3
 ---
 
 The Cathedral of Saints Peter and Paul is the principal Catholic church of Douala and the seat of the Archdiocese of Douala. The building is a substantial colonial-era structure in a European ecclesiastical style that feels slightly incongruous under the equatorial sun — but this contrast between European form and African setting is part of what makes it interesting.

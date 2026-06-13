@@ -6,6 +6,7 @@ longitude: 4.8717
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 A largely forgotten cemetery on the southern edge of the city, overgrown with ivy and wildflowers and rarely visited. Huis te Vraag was Amsterdam's main municipal cemetery from 1894 until it was closed for new burials in the 1950s, and nature has been slowly reclaiming it since.

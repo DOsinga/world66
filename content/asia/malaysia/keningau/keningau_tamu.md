@@ -14,6 +14,7 @@ story: >
   them in the early 20th century partly because they provided useful intelligence
   about who was where in the deep interior. The Keningau tamu is one of the largest
   surviving examples of this tradition.
+score: 8.1
 ---
 
 The weekly open-air market at Keningau is one of the best tamus in Sabah and the most compelling reason to come to town. Held on Sunday mornings, it draws Kadazan-Dusun, Murut, Chinese, and Malay traders from across the Interior Division — all four communities trading side by side under a loose collection of market stalls and tarpaulins.

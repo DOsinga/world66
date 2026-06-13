@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Riverside repertory theatre with serious West End ambitions
+score: 6.6
 ---
 
 A 590-seat producing theatre on the River Wey opened in 1965, named after the French-British actress Yvonne Arnaud who lived locally. The theatre has a long history of producing plays that transfer to the West End and of attracting major actors — anything from a Donmar-style three-hander to a touring musical can turn up in a given season.

@@ -14,6 +14,7 @@ story: >
   She and her daughter worked in a nearby brewery malthouse to have enough floor space
   to lay out the 30-by-42-foot flag. It was this flag that Francis Scott Key saw still
   flying after the bombardment.
+score: 7.3
 ---
 
 The Flag House is the restored home of Mary Pickersgill, who sewed the enormous flag that flew over Fort McHenry during the British bombardment in 1814. The house has been preserved as a historic house museum and tells the story of Pickersgill's life and work, and the production of the Star-Spangled Banner.

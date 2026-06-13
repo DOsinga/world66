@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 23.7381
 longitude: 92.7156
+score: 7.1
 ---
 
 Mizoram State Museum is a modest but worthwhile stop near the centre of Aizawl. Its displays cover traditional dress, musical instruments, household objects, weapons, and clan life, giving useful context before you travel deeper into the state.

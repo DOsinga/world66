@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.2813
 longitude: 68.4364
+score: 7.9
 ---
 
 The annual Sindh Horse and Cattle Show, held in January, is the main event in Jacobabad's calendar and has been running since General Jacob's time in the mid-19th century. The show features horse and camel racing, traditional tent-pegging (a cavalry sport in which riders spear a wooden peg driven into the ground at full gallop), shooting competitions, and displays of traditional Sindhi crafts and livestock.

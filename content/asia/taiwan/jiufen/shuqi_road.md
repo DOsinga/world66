@@ -13,6 +13,7 @@ story: >
   The steps were originally built to give miners and residents access to the hillside
   town before roads arrived. They remain the primary pedestrian route connecting the
   bus stop at the top of Jiufen with the old street below.
+score: 8.3
 ---
 
 Shuqi Road (竎崎路) is the stone-stepped lane that has become Jiufen's most iconic image: lanterns on both sides, teahouses with red and wooden façades, and at the bottom a view of the Pacific coast. The steps connect the bus stop at Jiufen Old Road with the heart of the old street. They are always busy but never impassable; the best photographs are taken in the golden hour before dusk, when the light comes from the west and the lanterns are just beginning to illuminate.

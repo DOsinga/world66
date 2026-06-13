@@ -14,6 +14,7 @@ story: >
   port community that grew up around it over the following centuries. On Mazu's birthday
   (the 23rd day of the third lunar month), the street fills with processions and opera
   performances.
+score: 7.4
 ---
 
 Ancient Culture Street is a pedestrianised strip on the west bank of the Hai River, built in the 1980s to evoke a Qing-dynasty commercial street. It's openly touristy — all traditional-style rooflines and souvenir shops — but the quality of the crafts is genuinely good. The street is lined with shops selling Yangliuqing New Year woodblock prints (a Tianjin specialty), painted clay figurines (niǔ rén Zhāng), shadow puppets, calligraphy supplies, and antique-style furniture.

@@ -8,6 +8,7 @@ story: >
   Shoshone Falls was so spectacular that 19th-century promoters called it the "Niagara of the West" — but the comparison
   is the wrong way around. The falls are 212 feet high, 45 feet taller than Niagara. The Snake River here was so wild
   that Lewis and Clark, who had paddled most of the Columbia basin, simply portaged around it without a recorded sighting.
+score: 9.0
 ---
 
 Shoshone Falls drops 212 feet over a curved basalt lip about three miles east of downtown Twin Falls, making it the highest major waterfall in the United States. The volume varies enormously with the season: in spring, when snowmelt fills the Snake River, the falls thunder across the full 900-foot-wide rim and the mist reaches the viewing platforms. By late summer, irrigation draws so much water from the river that the falls can slow to a comparative trickle — plan your visit between April and June for the full effect.

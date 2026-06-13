@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.0570
 longitude: -84.2180
+score: 4.8
 ---
 
 Georgia Southwestern State University sits on a 250-acre campus about two miles south of downtown Americus. Founded in 1906, it has a notable alumni list for a small regional university: both Jimmy Carter and Rosalynn Smith (later Rosalynn Carter) studied here, and Griffin B. Bell, who served as U.S. Attorney General under Carter, graduated in 1936.

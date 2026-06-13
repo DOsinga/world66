@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Amasya
 story: >
   The castle was used by the kings of Pontus as their acropolis and later served as a refuge during Byzantine and Seljuk conflicts. The Ottoman prince Şehzade Selim — future Sultan Selim I, the Grim — spent his formative years here, and local tradition holds that the tunnels cut into the rock were used to send messages and supplies to the citadel without crossing the open gorge.
+score: 8.4
 ---
 
 Amasya Castle sits atop the ridge of Mount Harşena, dominating both the gorge and the valley below. The walls you walk today are largely Byzantine and Ottoman in their final form, but they follow the outline of a Pontic fortification that was already ancient when Alexander the Great passed through the region in the fourth century BC. Getting up here requires a steep climb — there are steps cut into the rock, and the path is well-marked — but the views across the Yeşilırmak gorge and into the valley make it entirely worthwhile.

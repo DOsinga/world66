@@ -9,6 +9,7 @@ tags:
 snippet: The ceremonial heart of the city, anchored by a huge naval building and a monument to the heroes of Iquique
 sources:
   - https://en.wikipedia.org/wiki/Plaza_Sotomayor
+score: 6.4
 ---
 
 Plaza Sotomayor is the main civic square of Valparaíso, facing the port. The dominant building is the Edificio Armada de Chile — the headquarters of the Chilean Navy, a large neoclassical structure painted in a distinctive terracotta colour. In the centre of the square is the Monumento a los Héroes de Iquique, commemorating the naval officers who died in the 1879 Battle of Iquique during the War of the Pacific. Beneath the square, accessed by a ramp, is a small museum displaying the remains of the Esmeralda — the Chilean corvette sunk in that battle.

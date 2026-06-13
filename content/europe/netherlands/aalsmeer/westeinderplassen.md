@@ -8,6 +8,7 @@ latitude: 52.2500
 longitude: 4.7333
 story: >
   The Westeinderplassen lakes were not always there. Until the late 19th century, this was peat bog that had been mined for fuel since the Middle Ages. The mining left a landscape of narrow strips of land interspersed with ever-widening water channels. Eventually the strips were inundated entirely, creating the sprawling lake complex that exists today — a reminder that much of the Netherlands is essentially engineered, for better or worse.
+score: 6.8
 ---
 
 The Westeinderplassen is a large lake complex south of Aalsmeer — about 1,400 hectares of open water, reed beds, and small islands, with the towers of Schiphol airport visible in the distance to the north. It is a popular spot for sailing, windsurfing, and summer swimming, with several waterside restaurants and campsites along its shores.

@@ -8,6 +8,7 @@ tags:
 latitude: 30.44653
 longitude: -91.18499
 story: Huey Long built this mansion in 1930 specifically to look like the White House — same columns, same proportions, same raised portico. Long reportedly remarked he was practising for bigger things. He was assassinated five years later before he could make his presidential run.
+score: 6.5
 ---
 
 The Old Louisiana Governor's Mansion was built in 1930 under Governor Huey Long, who had it designed to resemble the White House. The colonial-revival building served as the official residence of Louisiana governors until 1963, when the current mansion was built. Twelve governors lived here during those 33 years, including the flamboyant Long himself and Earl Long, his brother.

@@ -10,6 +10,7 @@ story: >
   The temple was dedicated to the goddess Allat, the pre-Islamic Arabian deity of fertility and war.
   When it was excavated in 1933, archaeologists found a stone eye idol — a stylised face with
   enormous eyes — that is now one of the treasures of the Jordan Archaeological Museum in Amman.
+score: 6.7
 ---
 
 On a low hill behind the Rest House in Rum village, about 400 metres from the main road, sit the remains of a Nabataean temple dating to around the 1st century BCE. Follow the line of telephone poles and you will find it.

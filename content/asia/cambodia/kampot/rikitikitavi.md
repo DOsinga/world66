@@ -7,6 +7,7 @@ tags:
 latitude: 10.6115
 longitude: 104.1790
 snippet: Long-running riverside restaurant known for its Kampot pepper dishes and reliably good food
+score: 6.2
 ---
 
 Rikitikitavi has been feeding travellers in Kampot for many years, and the consistency is part of the appeal. The riverside location is the best in town — tables on the wooden deck overlooking the Praek Tuek Chhu, with ceiling fans moving the air and enough light to read a menu after dark. The food is a mix of Khmer and Western dishes; the Kampot pepper crab is the signature order.

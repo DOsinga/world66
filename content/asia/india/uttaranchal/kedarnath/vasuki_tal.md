@@ -6,6 +6,7 @@ tags:
   - hiking
 latitude: 30.7700
 longitude: 79.0833
+score: 8.3
 ---
 
 A high-altitude lake about 8 km north of Kedarnath at 4,135 m, named for the serpent king Vasuki who, according to mythology, takes a ritual bath here. The trek is steep and rough, gaining nearly 600 m of altitude with several stream crossings.

@@ -10,6 +10,7 @@ tags:
   - hiking
 sources:
   - https://en.wikipedia.org/wiki/Nyungwe_Forest
+score: 9.5
 ---
 
 Nyungwe is one of Africa's great forests — an ancient montane rainforest covering roughly 1,000 square kilometres that survived the ice ages intact. More than 13 primate species live here, including chimpanzees and L'Hoest's monkeys, and over 275 bird species have been recorded. The road from Cyangugu passes through the park and is spectacular in itself.

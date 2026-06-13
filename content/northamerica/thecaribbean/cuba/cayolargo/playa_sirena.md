@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "Playa Sirena is regularly listed in the global top 10 for white-sand beaches, and on the slow days it deserves the reputation. The sand here is unusually fine, the shallow water is warm year-round at around 27 degrees, and the offshore reef keeps the swell down. The only thing that interrupts it is the day-trippers on the catamaran from the resorts."
+score: 8.6
 ---
 
 Playa Sirena is the headline beach of Cayo Largo — two kilometres of impossibly white sand on the western tip of the island, with shallow turquoise water and almost no development on the beach itself. There is a single restaurant-bar, sunbeds for hire, and lifeguards. Everything else is sand, sea, and the line of mangroves behind.

@@ -7,6 +7,7 @@ snippet: The vast, busy main market of Bukavu in the southern commune of Kadutu
 tags:
   - things_to_do
   - market
+score: 7.5
 ---
 
 Kadutu is the largest of Bukavu's three communes and home to the city's biggest market — a sprawling complex of stalls selling fish from Lake Kivu, vegetables from the surrounding hills, second-hand clothing, electronics, and just about anything else. It is loud, crowded, and the best place to see how the city actually feeds itself.

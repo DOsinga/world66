@@ -8,6 +8,7 @@ tags:
 - sight
 title: Independence Pass
 type: poi
+score: 8.6
 ---
 
 The 32-kilometre drive east from Aspen up Highway 82 to Independence Pass is one of the most dramatic paved roads in Colorado. The summit at 3,687 metres is the second-highest paved pass in the state, crossing the Continental Divide between the Roaring Fork Valley and the Arkansas River Valley. The road is closed by snow from late October to late May; even in summer it can be narrow and exposed, with sections where it drops to one lane.

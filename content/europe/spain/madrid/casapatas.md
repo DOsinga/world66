@@ -6,6 +6,7 @@ longitude: -3.7029
 tags:
   - bars_and_cafes
   - eating_out
+score: 7.8
 ---
 
 A long-running flamenco tablao and tapas restaurant in Lavapiés, in business since 1979 and considered one of the most authentic flamenco venues in Madrid — a working performance space rather than a tourist circus. The crowd is a mix of Spanish enthusiasts and travellers; the dancers and musicians on the small wooden stage are first-rate.

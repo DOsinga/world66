@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.8
 ---
 
 A long, almost empty surf beach about 45 minutes south of Manta, past Montecristi. Brown sand, big Pacific swell, a small fishing community at the southern end, and very little development. The waves are best for intermediate surfers; for swimmers the rips can be punishing.

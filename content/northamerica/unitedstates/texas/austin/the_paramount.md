@@ -8,6 +8,7 @@ tags:
 address: "713 Congress Ave"
 latitude: 30.2682
 longitude: -97.7429
+score: 8.1
 ---
 
 The Paramount Theatre has anchored the Congress Avenue entertainment corridor since 1915 — a grand 1,200-seat vaudeville house that survived the transition through movies, concerts, and the long decline of its block before emerging as one of Austin's most beloved performance venues. The interior retains its original Beaux-Arts ornamentation: the proscenium arch, the plaster reliefs, the painted ceiling, and the tiered balconies are all intact.

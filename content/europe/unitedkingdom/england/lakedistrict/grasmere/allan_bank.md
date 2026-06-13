@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_house
+score: 7.0
 ---
 
 Allan Bank is a handsome Georgian house on the hillside above Grasmere, now owned by the National Trust and open to visitors on a deliberately informal basis: no roped-off rooms, no hushed atmosphere, children encouraged. The house was Wordsworth's home from 1808 to 1811, after Dove Cottage became too small for his growing family.

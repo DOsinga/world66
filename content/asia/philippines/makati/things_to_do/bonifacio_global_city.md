@@ -1,6 +1,7 @@
 ---
 title: "Bonifacio Global City"
 type: poi
+score: 6.9
 ---
 
 Bonifacio Global City — universally called BGC or The Fort — sits just north of Makati on land that was formerly Fort Bonifacio, a US and then Philippine military base. Developed from scratch over the past two decades, it is the most meticulously planned urban district in the Philippines: wide pavements, public art installations, mid-rise residential towers, corporate headquarters, and a large park at its centre. The contrast with older Metro Manila is striking.

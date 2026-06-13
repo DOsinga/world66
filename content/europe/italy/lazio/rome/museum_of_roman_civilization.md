@@ -11,6 +11,7 @@ tags:
 - museum
 title: Museum of Roman Civilization
 type: poi
+score: 6.0
 ---
 
 Located in the modernist EUR district about 4 miles south of the historic center, this museum traces the history of Rome through 59 sections illustrating Roman civilization. The highlight is a magnificent 1:250 scale model of Imperial Rome that gives a vivid sense of the ancient city at its peak.

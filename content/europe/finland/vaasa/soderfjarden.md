@@ -10,6 +10,7 @@ story: >
   Today that crater is filled with flat farmland and a small lake — only from
   the air, or by reading the topographic maps, do you see the circular shape
   that gives away what this gentle landscape really is.
+score: 7.4
 ---
 
 About 10 kilometres south of Vaasa, Söderfjärden is one of the largest confirmed meteorite impact craters in Finland — six kilometres in diameter, formed roughly 520 million years ago. You would not know it to drive through. The crater has been filled over geological time with sediment, turned by erosion into a basin of flat farmland and marshland, and is now one of the most productive agricultural areas in Ostrobothnia.

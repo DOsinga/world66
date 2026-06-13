@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 42.197
 longitude: 18.936
+score: 6.7
 ---
 
 Two small rocky islets just offshore from Petrovac, visible from Buljarica beach. Sveta Nedelja carries a tiny stone church, built (so the story goes) by a Greek sailor who washed up on the rock alive after a shipwreck and vowed a chapel in thanks. Katič is bare except for the foundations of a Roman-era lighthouse.

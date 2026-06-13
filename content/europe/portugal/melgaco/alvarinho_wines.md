@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.1130
 longitude: -8.2593
+score: 8.4
 ---
 
 Melgaço and the neighbouring municipality of Monção are the heartland of Alvarinho, the grape variety that produces some of Portugal's finest white wines. The steep-sided Minho valley, with its granitic soils and Atlantic-influenced climate, gives Alvarinho wines from this sub-region a distinctive mineral intensity and aromatic complexity that distinguishes them from the broader Vinho Verde category.

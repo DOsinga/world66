@@ -9,6 +9,7 @@ tags:
 neighbourhood: Berbés Quarter
 title: Maruja Limón
 type: poi
+score: 6.8
 ---
 
 Vigo's most decorated restaurant holds a Michelin star and sits in the Berbés quarter, a short walk from the harbour. Chef Rafael Centeno works firmly within Galician tradition — the Rías Baixas, the local fishing fleet, the region's vegetable gardens — but applies contemporary technique with restraint. The result is food that tastes recognisably of Galicia rather than generic modern Spanish cooking.

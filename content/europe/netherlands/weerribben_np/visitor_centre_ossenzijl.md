@@ -9,6 +9,7 @@ longitude: 5.9173
 address: Ossenzijl 4, 8376 EJ Ossenzijl, Netherlands
 sources:
   - https://en.wikipedia.org/wiki/Ossenzijl
+score: 6.3
 ---
 
 The visitor centre at Ossenzijl is the main gateway to the Weerribben section of the national park. The centre has exhibits on the ecology and history of the peat landscape — the process of peat cutting that created the park, the return of wildlife as the extraction ended, and the ongoing management challenges of maintaining open water against the natural succession towards carr woodland.

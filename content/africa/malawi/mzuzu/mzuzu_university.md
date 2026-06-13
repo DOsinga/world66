@@ -7,6 +7,7 @@ tags:
 latitude: -11.422
 longitude: 33.993
 snippet: Malawi's second public university, founded in 1997 on the edge of town
+score: 5.6
 ---
 
 Mzuzu University sits about 8 km north of the city centre in a parkland campus carved from miombo woodland. It is the second of Malawi's four public universities (after Chancellor College in Zomba), founded in 1997 to provide higher education in the country's underserved Northern Region. The campus has around 8,000 students across faculties of education, environmental sciences, health sciences, and information science.

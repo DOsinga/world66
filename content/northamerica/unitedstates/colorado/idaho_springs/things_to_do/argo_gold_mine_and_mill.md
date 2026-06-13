@@ -1,6 +1,7 @@
 ---
 title: "Argo Gold Mine and Mill"
 type: poi
+score: 8.0
 ---
 
 The Argo Gold Mine and Mill is Idaho Springs' most substantial historic attraction — a working remnant of the town's mining past that offers genuine underground tours rather than a sanitized theme-park experience. The mine operated from 1893, and the Double Eagle tunnel was one of the most productive in Clear Creek County. The large mill building above ground was completed in 1913 and processed ore from multiple mines in the area. At its peak, the Argo tunnel stretched nearly five miles into the mountains, connecting dozens of individual mine workings.

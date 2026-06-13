@@ -9,6 +9,7 @@ phone: (405) 793-1234
 latitude: 35.3216
 longitude: -97.4861
 snippet: Oklahoma-founded breakfast and lunch chain
+score: 5.3
 ---
 
 Jimmy's Egg started in Oklahoma City in 1980 and remains one of the state's stronger breakfast institutions. The Moore location on 19th Street serves the chain's standard menu of skillets, omelets, pancakes, and biscuits and gravy, all in generous portions at modest prices.

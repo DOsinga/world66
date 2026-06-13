@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -16.5054
 longitude: -151.7490
+score: 7.4
 ---
 
 Every evening, a cluster of roulottes — food trucks mounted on trailers — sets up along the waterfront at the main quay in Vaitape. This is by far the cheapest way to eat on Bora Bora, with plates of poisson cru, Chinese fried noodles, grilled chicken, and fresh fish available for a fraction of the price charged at any sit-down restaurant. The food is good and the atmosphere is genuinely local — fishing boats tied up at the quay, ferries unloading from Tahiti, a mix of residents and budget travellers eating at plastic tables by the water.

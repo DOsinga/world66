@@ -9,6 +9,7 @@ tags:
   - castle
 sources:
   - https://en.wikipedia.org/wiki/Castell_Aberlleiniog
+score: 7.0
 ---
 
 A motte-and-bailey fortress raised between 1080 and 1099 by Hugh d'Avranches, Norman Earl of Chester, on a wooded hilltop above the mouth of the Lleiniog stream. It pre-dates Edward I's Beaumaris by more than two centuries and is one of the earliest castles in north Wales.

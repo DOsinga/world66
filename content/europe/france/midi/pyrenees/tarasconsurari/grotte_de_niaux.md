@@ -12,6 +12,7 @@ story: >
   Some of the bison were drawn with such anatomical precision that researchers
   can identify the species at a glance, even though the animal disappeared from
   the Pyrenees thousands of years ago.
+score: 9.0
 ---
 
 The Cave of Niaux is the headline act of the Ariège valley. Around 14,000 years ago, Magdalenian artists walked deep into the limestone to paint bison, horses, ibex, and a single fish on the walls of a chamber known as the Salon Noir. The drawings are extraordinary — confident black outlines that capture muscle, motion, and species with a few quick strokes.

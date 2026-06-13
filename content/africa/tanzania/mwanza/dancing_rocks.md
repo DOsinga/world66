@@ -7,6 +7,7 @@ tags:
 latitude: -2.5260
 longitude: 32.9090
 snippet: "The cluster of granite boulders overlooking the harbour, named for the way they seem to balance and lean."
+score: 7.7
 ---
 
 Mwanza sits on top of and around enormous outcrops of granite, smoothed by hundreds of millions of years into rounded, balanced stacks that local people call the "dancing rocks." The most photogenic cluster is the group above the harbour just behind the central business district, where boulders the size of houses lean on each other at improbable angles. Climbing a short way up gives one of the city's best views: the harbour, the lake, the boats, and Bismarck Rock in the middle distance.

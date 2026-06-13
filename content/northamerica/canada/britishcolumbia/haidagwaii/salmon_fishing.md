@@ -13,6 +13,7 @@ story: >
   treating the salmon as visiting nobles who had to be welcomed correctly to ensure they
   would return the following year. Modern sport fishing here catches the same chinook
   (king) salmon that the Haida were harvesting from cedar canoes 10,000 years ago.
+score: 7.4
 ---
 
 Haida Gwaii is one of the premier fishing destinations in British Columbia, with excellent runs of chinook, coho, and pink salmon, large halibut in the channels around Moresby Island, and abundant Dungeness crab. Several fishing lodges cater specifically to fly-out fishing expeditions; most are based in Queen Charlotte or operate floatplane services from Sandspit airport.

@@ -14,6 +14,7 @@ story: >
   evening to watch; the view rewards the early alarm call.
 sources:
   - https://www.lonelyplanet.com/vietnam/south-central-coast/mui-ne-beach/attractions/sand-dunes/a/poi-sig/1390409/357942
+score: 6.3
 ---
 
 The red sand dunes sit just behind the coastal road running northeast from central Mui Ne, close enough to town that visitors arrive by foot or motorbike. They are smaller than the famous white dunes further along the coast, but the colour is more dramatic and the access is easier. The dunes shift continuously — the wind builds new ridges overnight and erodes others — so the landscape looks slightly different every time you visit.

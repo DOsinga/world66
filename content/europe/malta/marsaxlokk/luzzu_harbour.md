@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The painted eyes on the prow of a *luzzu* — the *Eye of Osiris*, or *Eye of Horus* — are a tradition that goes back to the Phoenicians, who founded the original harbour here around 800 BCE. The same motif is found on traditional fishing boats from Sicily to the Levant. Maltese fishermen will tell you it protects them at sea; the more romantic claim it lets the boat see its way home."
+score: 8.6
 ---
 
 The natural bay at Marsaxlokk has been a working harbour since Phoenician times, and the *luzzu* — the small, wooden, brightly painted boats with high-pointed prows — are its living tradition. Eyes are painted on either side of the bow; hulls are striped in blue, yellow, red, and green, each crew with its own combinations. There are usually a hundred or more bobbing in the bay, more in winter when the open-water boats come in for shelter.

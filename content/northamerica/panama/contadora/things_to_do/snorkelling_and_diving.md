@@ -10,6 +10,7 @@ latitude: 8.6250
 longitude: -79.0350
 sources:
   - https://en.wikipedia.org/wiki/Contadora_Island
+score: 8.5
 ---
 
 The waters around Contadora offer some of the best snorkelling and diving accessible from Panama City. Rock and coral formations ring most of the island's headlands, and visibility is typically 10–20 metres in the dry season. Common sightings include parrotfish, angelfish, butterfly fish, clownfish, red snapper, stingrays, and nurse sharks. Manta rays and whale sharks pass through the deeper water around the archipelago seasonally.

@@ -14,6 +14,7 @@ story: >
   open-air WWI museum at the Cinque Torri preserves the original Italian front line, with
   restored trenches, bunkers, and explanatory panels — the contrast between the beauty of
   the landscape and the grimness of what happened there is stark.
+score: 8.9
 ---
 
 Five rock towers rising to around 2,360 metres above the Falzarego plateau, the Cinque Torri are shorter and more accessible than the Tre Cime but almost as dramatic at close range. A chairlift from the Falzarego road brings you to the base in minutes, and the circular trail around and between the towers — involving a small amount of scrambling on the marked via ferrata routes — takes two to three hours.

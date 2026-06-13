@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The plaza was designed in 1981 by Basque sculptor Eduardo Chillida and architect Luis Peña Ganchegui — Chillida wanted a 'place to play pelota in the centre of the city', and the south wall is a working fronton court that hosts matches and tournaments."
+score: 7.8
 ---
 
 A sloping public space designed by Chillida and Peña Ganchegui in the early 1980s as a piece of urban sculpture. The pink stone slabs step down in shallow terraces around a small fronton (Basque pelota court); a fountain and a small underground exhibition space complete the composition.

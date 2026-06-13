@@ -8,6 +8,7 @@ latitude: 43.7651
 longitude: 11.2502
 address: Piazza de' Pitti 16, 50125 Florence
 opening_hours: Daily 12:30–23:00
+score: 6.9
 ---
 
 A small enoteca right on Piazza Pitti, opposite the palace, with a focused selection of Tuscan and Italian wines by the glass and bottle. The crostini and cheese plates are good; the wine list rotates and features smaller producers not found in tourist-facing establishments. A natural stop before or after a visit to Palazzo Pitti or the Boboli Gardens.

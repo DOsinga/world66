@@ -12,6 +12,7 @@ story: >
   kilometres it is the longest surviving teak footbridge in the world. The bridge's
   namesake, U Bein, was the mayor of Amarapura who commissioned it; his portrait
   is in the small temple at the far end.
+score: 9.3
 ---
 
 U Bein Bridge stretches 1.2 kilometres across Taungthaman Lake on 1,086 teak pillars, each driven into the lake bed without concrete or modern fixings. The wood has darkened to near-black with age and the structure sways slightly underfoot in a way that feels precarious without actually being dangerous. Monks cross it morning and evening in their saffron robes; locals cycle along it on market days; tourists arrive in their hundreds for the sunset.

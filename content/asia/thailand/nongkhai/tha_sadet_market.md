@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 17.8855
 longitude: 102.7473
+score: 7.7
 ---
 
 The Tha Sadet Market (also called the Indochina Market) is one of the best browsing markets in Isaan — a covered hall and surrounding stalls selling goods from Laos, Vietnam and China alongside Thai products. You will find Vietnamese rice wine, Lao textiles, rattan baskets, cheap electronics and the kind of miscellany that only exists at border markets where the supply chains are creative and the price negotiations vigorous.

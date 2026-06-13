@@ -12,6 +12,7 @@ tags:
 - things_to_do
 title: Grotte de la Reine Hortense
 type: poi
+score: 6.7
 ---
 
 A limestone cave set in lush vegetation, reached by a short trail from the road. Inside: giant stalactites, banyan roots working through the ceiling, and resident bats. It's not a grand cave system, but the setting is atmospheric and the Kanak historical connection gives it weight.

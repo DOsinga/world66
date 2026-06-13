@@ -8,6 +8,7 @@ tags:
   - beach
 title: Playa de Troya
 type: poi
+score: 6.4
 ---
 
 Playa de Troya is the classic Las Américas beach: central, busy, sandy, and surrounded by the machinery of a big resort. It is not the most beautiful beach on Tenerife, but it is one of the easiest. Sunbeds, showers, bars, restaurants, and hotels are all a few steps away.

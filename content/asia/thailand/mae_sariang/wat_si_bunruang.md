@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 18.1622
 longitude: 97.9339
+score: 7.5
 ---
 
 Right next door to Wat Jong Sung and easily visited at the same time, Wat Si Bunruang has a similar Shan-Burmese feel — a tiered roof, carved gables, and a single chedi at the back. The viharn houses a row of Buddha images in different styles, a quiet record of how the town's temples have absorbed influences from both sides of the border.

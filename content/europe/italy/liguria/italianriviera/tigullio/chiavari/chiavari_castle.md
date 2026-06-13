@@ -8,6 +8,7 @@ latitude: 44.3189
 longitude: 9.3264
 story: >
   The castle was the site of one of the more unusual episodes in Napoleonic Italy: in 1798 it was converted into a prison for Ligurian political detainees, and among those held here was the father of the future Pope Pius IX. The castle itself dates from the late eleventh century.
+score: 6.7
 ---
 
 Chiavari Castle stands on a small hill just north of the old town, the oldest surviving structure in the city. The original fortress was built by the Fieschi family — the most powerful noble dynasty in medieval Liguria — in the eleventh century, and the surviving walls and towers date largely from that period and subsequent Genoese modifications. The castle is not open to the public in the traditional museum sense, but the exterior is in good condition and the hilltop position gives fine views over the bay toward Lavagna and Sestri Levante.

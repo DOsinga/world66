@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.8500
 longitude: 28.5200
+score: 6.6
 ---
 
 Hîncești sits in the southern part of the Codru wine region, Moldova's largest and oldest wine-producing area. Several wineries in and around the town offer tastings and cellar tours, including Château Vartely — one of the country's most visitor-friendly estates — located a few kilometres from the town centre.

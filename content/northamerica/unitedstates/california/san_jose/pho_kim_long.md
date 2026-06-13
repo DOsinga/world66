@@ -7,6 +7,7 @@ tags:
 latitude: 37.3015
 longitude: -121.8398
 sources: []
+score: 7.5
 ---
 
 Phở Kim Long on Story Road serves one of the most popular bowls of phở in a city with one of the largest Vietnamese populations in the United States. The dining room is enormous, the menu runs to dozens of varieties of phở and bún, and the lines at weekend lunch confirm what the locals already know.

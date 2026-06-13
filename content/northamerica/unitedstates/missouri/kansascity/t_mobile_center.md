@@ -8,6 +8,7 @@ tags:
 - sports
 title: T-Mobile Center
 type: poi
+score: 5.4
 ---
 
 T-Mobile Center (formerly Sprint Center) is a 19,000-seat arena in downtown Kansas City, opened in 2007. It is consistently one of the busiest concert venues in North America, regularly appearing in the top ten for annual ticket sales. The arena hosts major touring acts, college basketball's Big 12 Tournament, NCAA events, and boxing. Notable for not having a permanent NBA or NHL tenant — an unusual situation for an arena of its size and consistent capacity.

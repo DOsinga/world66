@@ -9,6 +9,7 @@ latitude: 36.2771
 longitude: -6.0800
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 6.5
 ---
 
 La Fontanilla is one of the most established fish restaurants on the Conil seafront, with a terrace above the northern end of Playa de los Bateles. The kitchen focuses on the straightforward grilled and fried fish that the Costa de la Luz does well: dorada a la sal (whole sea bream baked in a salt crust), tortillitas de camarones (shrimp fritters), and in season the atún encebollado that is the local benchmark dish. The ingredients are fresh and the preparation is not elaborate.

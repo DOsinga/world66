@@ -7,6 +7,7 @@ tags:
 snippet: "Marine national park protecting the island, surrounding islets, and coral reefs"
 latitude: 9.7405
 longitude: 98.4036
+score: 7.3
 ---
 
 Established in 2003, Mu Ko Phayam National Park covers Koh Phayam and the chain of smaller islands and coral reefs stretching through this part of the Andaman Sea. The park's marine territory includes coral gardens that support diverse reef life — fish, rays, occasional sea turtles — accessible by snorkel and scuba from longtail boats hired in the main village.

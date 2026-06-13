@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "285-foot observation tower at the Hoover Institution"
+score: 7.6
 ---
 
 Stanford's tallest building and the campus's main viewpoint, finished in 1941 to mark the

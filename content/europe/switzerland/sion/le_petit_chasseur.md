@@ -9,6 +9,7 @@ latitude: 46.2318
 longitude: 7.3514
 sources:
   - https://en.wikipedia.org/wiki/Le_Petit-Chasseur
+score: 8.0
 ---
 
 Le Petit-Chasseur is one of the most significant prehistoric sites in Switzerland, a megalithic necropolis where menhirs — standing stones carved with anthropomorphic faces and symbols — were erected and then deliberately dismantled to build a later megalithic tomb. The site dates from around 2800–1800 BC, with the menhirs among the finest examples of Neolithic carved stone anywhere in the Alps.

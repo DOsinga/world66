@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.3554
 longitude: 16.8295
+score: 7.4
 ---
 
 The beach at Lido di Metaponto is one of the better stretches on the Ionian coast of Basilicata: wide, sandy, and gently shelving into shallow water that is warm and calm by July. A backing of low pine woods provides shade beyond the waterline. The resort is modest by Italian standards — no promenade lined with boutiques, just a strip of beach bars, lidos with sun loungers and umbrellas for hire, and a handful of restaurants and gelaterie. The absence of development is, for many visitors, the point.

@@ -10,6 +10,7 @@ tags:
 title: Bar Termini
 type: poi
 url: www.bar-termini.com
+score: 7.8
 ---
 
 Bar Termini is one of the smallest and most perfect bars in London — a Soho room with eight stools and standing space for a few more, modelled on the Roman railway bar aesthetic. In the morning it serves excellent espresso; by afternoon the negroni variants take over. The Negroni Classico here is one of the finest in the city.

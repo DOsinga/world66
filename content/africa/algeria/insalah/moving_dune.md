@@ -9,6 +9,7 @@ tags:
   - landmark
 story: "The dune has been advancing through In Salah for as long as the town has existed. Houses on the windward side eventually get buried; the residents move on, build again to the east, and let the dune pass. Old aerial photographs show the same dune in a different street ten years later. The settlement keeps shifting downwind, like a fleet sailing very slowly in the same direction as its enemy."
 snippet: A vast sand mountain that has been advancing through the town for centuries
+score: 6.8
 ---
 
 The most photographed thing in In Salah is its own slow-moving dune. A pale, almost luminous mound of sand pushed steadily eastward by the prevailing wind, it passes through the town at a rate of a few metres a year, burying whatever lies in its path. Houses on its windward side disappear under the sand; on the leeward side they re-emerge years later, scoured but intact.

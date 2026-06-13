@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
   - park
+score: 7.7
 ---
 
 At the northern tip of Dianchi Lake, where the city meets the water, Caohai ("Grass Sea") is a 17-square-kilometre wetland park of reed beds, lily pools, and shallow open water — the surviving wild edge of what was once a much larger lake. It is one of the most important wintering grounds in southwest China for migratory waterfowl: black-headed gulls, ducks, herons, and several rare species of grebe gather here in numbers from November to March.

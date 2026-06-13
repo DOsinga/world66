@@ -13,6 +13,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Kickelhahn
   - https://www.ilmenau.de/en/tourism/discover-experience/kickelhahn/
+score: 8.0
 ---
 
 The Kickelhahn is Ilmenau's house mountain, rising to 861 metres on the northern edge of the Thuringian Forest. A lookout tower crowns the summit, giving wide views over Ilmenau, the wooded ridges and, on clear days, far beyond the Ilm valley.

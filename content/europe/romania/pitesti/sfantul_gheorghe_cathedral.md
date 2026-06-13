@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.8560
 longitude: 24.8690
+score: 5.6
 ---
 
 The Cathedral of Saint George is the main Orthodox church of Pitești, built in the early 20th century and dominating the central square. Like many Romanian Orthodox cathedrals of this period, it blends Byzantine and neoclassical elements, with a painted interior that rewards a slow look.

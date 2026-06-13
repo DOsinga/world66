@@ -13,6 +13,7 @@ story: >
   toward Poonch. The winding track that armies once scrambled along is now a
   paved road connecting small towns — a reminder that landscape and history
   in this region are inseparable.
+score: 7.1
 ---
 
 The 45-kilometre road between Hajira and Rawalakot is among the most scenic drives in Poonch District, winding through pine and deodar forest along ridges that offer repeated long views down into wooded valleys. This is not a fast road — the bends are tight and the surface demands attention — but the journey through this landscape is itself a reason to travel slowly.

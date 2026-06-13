@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.6667
 longitude: 76.0333
+score: 6.5
 ---
 
 Banasura Sagar is the largest earthen dam in India and the second largest in Asia, built across the Karamanathodu river in 1979. The reservoir it creates has flooded a valley in the Western Ghats, leaving a series of small islands — forested hillocks rising from the water — that give the lake an attractive appearance. Boat rides between the islands are available from the dam site.

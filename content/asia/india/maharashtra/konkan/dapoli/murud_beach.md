@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 17.7167
 longitude: 73.1833
+score: 7.1
 ---
 
 Murud Beach is the closest beach to Dapoli town, about 10 km away on the coast. It is a long, quiet stretch of sand backed by casuarina trees, with the fishing village of Murud at its northern end. The beach faces west and gives good sunset views across the Arabian Sea.

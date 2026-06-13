@@ -10,6 +10,7 @@ title: St Peter's Cathedral (Petridom)
 type: poi
 snippet: Germany's oldest Simultankirche — a single church shared by Catholic and Protestant congregations since 1524
 story: When the Reformation swept through Saxony in 1524 the Bautzen town council could not agree which confession should keep St Peter's, so they split the building down the middle. A short wooden screen still divides the nave from the choir today, and the two congregations have shared the church for over 500 years — the longest-running such arrangement anywhere in Germany.
+score: 8.7
 ---
 
 The Petridom is the most unusual major church in Saxony — a single Gothic building shared between Catholic and Protestant congregations since 1524, divided by a low screen between nave (Protestant) and choir (Catholic). The interior is a curious assembly of Reformation pulpits and Baroque Catholic altars under the same roof, with both traditions clearly visible.

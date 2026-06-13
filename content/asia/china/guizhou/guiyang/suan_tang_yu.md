@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.5794
 longitude: 106.7079
+score: 7.5
 ---
 
 Suan tang yu — sour fish hotpot — is the signature dish of Guizhou cuisine, and the version made in Guiyang uses a broth fermented from rice and wild vegetables over weeks before cooking, producing an acidity that is more complex than vinegar and completely unlike anything from a bottle. The dish as served in Guiyang bears no resemblance to the watered-down versions that Chinese restaurants elsewhere sometimes call "sour fish soup."

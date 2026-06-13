@@ -7,6 +7,7 @@ tags:
   - jabal_al_luweibdeh
 latitude: 31.9589
 longitude: 35.9155
+score: 8.0
 ---
 
 The Jordan National Gallery of Fine Arts is the main contemporary art museum in Amman and one of the most important in the Arab world, with a collection of over 3,000 works by Jordanian and international artists from the Arab and Islamic world. Housed in two connected buildings in Jabal al-Luweibdeh, the gallery runs changing exhibitions alongside its permanent collection, which spans painting, sculpture, photography and video from the 20th century to the present.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -34.8343
 longitude: 138.5124
 story: "The Port River pod — about 30 bottlenose dolphins — lives year-round in the industrialised harbour, a remarkable adaptation given the heavy boat traffic and pollution. Researchers at Flinders University have been studying the pod for over 20 years and have identified individual animals by their dorsal fins, tracking generations of the same family groups."
+score: 7.9
 ---
 
 The Port River is home to a resident pod of approximately 30 bottlenose dolphins that live year-round in one of the most industrialised harbours in South Australia. Dolphin-watching cruises operate regularly from Hart's Mill and the Fishermen's Wharf area, running 90-minute trips that routinely produce close encounters — the dolphins are accustomed to boats and often approach. Several operators run morning and afternoon departures daily in summer; check locally for current schedules.

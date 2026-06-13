@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 48.9978
 longitude: 8.4017
+score: 6.2
 ---
 
 Karlsruhe's zoo is combined with an ornamental city garden — the Stadtgarten — making it a genuine dual attraction rather than a purely zoological experience. The gardens surrounding the animal enclosures are beautifully maintained, with a lake, rose garden, and mature trees that are worth visiting even if the zoo itself is the draw for children.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 5.4
 ---
 
 Known to almost everyone in Puerto Princesa simply as the **Crocodile Farm**, this is a working captive-breeding programme for the endangered Philippine freshwater crocodile, plus a small zoo with native pythons, bearcats, palm civets and the Palawan peacock-pheasant. The breeding tanks of saltwater and freshwater crocs are the main attraction; visitors are taken through on a short guided tour.

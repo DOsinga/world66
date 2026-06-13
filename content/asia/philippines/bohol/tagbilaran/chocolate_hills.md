@@ -8,6 +8,7 @@ latitude: 9.8999
 longitude: 124.1655
 story: >
   The 1,268 hills are made of marine limestone that was lifted by tectonic forces, then sculpted by rain and erosion into near-perfect cones. The "chocolate" colour comes only during the dry season, when the grass covering them dies and turns brown. In the wet season, they are green — a different but equally surreal sight.
+score: 9.3
 ---
 
 The Chocolate Hills are Bohol's most famous landmark: more than 1,200 near-conical limestone hills rising from a flat plain in the interior of the island, all roughly the same height (30–50 metres). The effect, especially from the viewing platform at the main viewpoint in Carmen, is genuinely otherworldly — the hills recede in perfect brown rows toward the horizon, looking more like a mathematical rendering than a natural landscape.

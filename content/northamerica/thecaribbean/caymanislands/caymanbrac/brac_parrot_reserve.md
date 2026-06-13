@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 19.7383
 longitude: -79.7847
+score: 7.0
 ---
 
 The 180-acre Brac Parrot Reserve sits on top of the Bluff and protects the only nesting habitat of the Cayman Brac parrot, Amazona leucocephala hesterna — an endemic subspecies of the Cuban parrot found nowhere else. The population is small (estimates run between 400 and 600 birds) and recovering slowly from Hurricane Paloma in 2008, which knocked out a large fraction of the breeding stock.

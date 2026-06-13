@@ -10,6 +10,7 @@ longitude: -0.1729
 story: >
   Brunswick Square and the surrounding streets were developed in the 1820s and 1830s by speculative builder Charles Augustus Busby, who went bankrupt before completing the development and ended his days in poverty — a reminder that Regency-era property speculation was as risky then as it would become again.
   The stuccoed terraces were controversial at the time for their uniformity; they are now considered some of the finest examples of Regency seaside architecture in England.
+score: 8.4
 ---
 
 The Brunswick Town conservation area covers the streets around Brunswick Square and Adelaide Crescent — two large Regency squares set back slightly from the seafront, lined with identical stuccoed terraces in the cream-and-white palette that defines Hove's character. The squares were developed in the 1820s and 30s as a speculative development aimed at wealthy visitors seeking a quieter alternative to Brighton's Steine.

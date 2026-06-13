@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: Maritime heritage of the Westfjords, housed in an 18th-century timber warehouse
 story: "The museum's Turnhús building, built in 1784, is one of the four oldest surviving timber houses in Iceland — all four of them clustered here on the Isafjordur spit. The cluster survived because the harbour stayed economically active when many fishing villages were abandoned in the 20th century, and because demolishing them was always cheaper to defer than to do."
+score: 8.3
 ---
 
 The Byggdasafn Vestfjarda occupies the Turnhús, a tar-blackened timber warehouse built in 1784 to store cod and fish oil. Inside, the collection traces the maritime life of the Westfjords through ship models, fishing gear, the equipment of a 19th-century herring station, and an extensive accordion museum upstairs (the curator was a passionate collector).

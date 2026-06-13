@@ -5,6 +5,7 @@ latitude: 43.085
 longitude: -70.75055
 snippet: "A small waterfront park at the foot of the Piscataqua Bridge with direct views into Portsmouth"
 tags: [things_to_do, sight, historic]
+score: 5.8
 ---
 
 John Paul Jones Memorial Park sits right at the water's edge, just below the Memorial Bridge that connects Kittery to downtown Portsmouth. It is a modest spot — a few benches, a flagpole, a plaque — but the location is genuinely good. From here you look directly across the Piscataqua into Portsmouth's historic waterfront, with Strawbery Banke and the old warehouse district framed by the bridge's steel arch above.

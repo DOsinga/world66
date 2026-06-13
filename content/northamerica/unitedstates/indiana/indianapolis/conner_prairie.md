@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.8
 ---
 
 A 1,000-acre open-air history museum in Fishers, about 20 minutes north of downtown. The park recreates several historical periods — a 1763 Lenape encampment, an 1816 Conner homestead, a working 1836 village called Prairietown, and a Civil War-era town (1863 Dudley Township). Costumed interpreters run forges, looms, and stage live demonstrations.

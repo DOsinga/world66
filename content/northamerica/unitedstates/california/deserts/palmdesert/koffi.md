@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 33.7196
 longitude: -116.3801
+score: 5.7
 ---
 
 A small local chain that roasts its own beans in Palm Springs and pulls some of the best espresso in the valley. The Palm Desert branch on El Paseo is a low-key courtyard cafe — outdoor tables, shaded by umbrellas, where regulars settle in with their laptops or papers. Pastries are made in house.

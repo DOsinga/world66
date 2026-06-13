@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.4386
 longitude: 79.1288
+score: 6.6
 ---
 
 The small archaeology museum near the main bus station in Karimnagar holds a worthwhile collection of artefacts recovered from sites across the district — bronze figures, terracotta sculptures, and carved stone panels from the Satavahana (1st–3rd century CE) and Kakatiya (12th–14th century CE) periods. The Kakatiya pieces in particular show why the region was an important cultural centre before the Delhi Sultanate destroyed the dynasty in 1323.

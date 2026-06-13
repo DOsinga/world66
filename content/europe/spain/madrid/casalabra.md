@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 story: "Casa Labra was the meeting place where Pablo Iglesias and a small group of typesetters founded the Spanish Socialist Workers' Party (PSOE) on 2 May 1879 — Spain's oldest surviving political party, still in government today. The plaque commemorating the meeting is on the back wall."
+score: 7.0
 ---
 
 A tiny, scruffy, much-loved tapas bar two minutes from Puerta del Sol, in business since 1860 and serving essentially two things: **bacalao rebozado** (battered chunks of salt cod, fried fresh to order) and **croquetas de bacalao** (cod croquettes). You queue at the takeaway hatch on the street, hand over a euro or two per piece, and eat standing on the corner.

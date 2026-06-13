@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Laguna Beach
 type: poi
+score: 7.0
 ---
 
 About an hour south of Los Angeles on Pacific Coast Highway, Laguna Beach is a small coastal city with a serious art scene and some of Southern California's prettiest coves. The town has been an artists' colony since the early 1900s, and that heritage shows — there are dozens of galleries along the main strip and side streets, plus the long-running Pageant of the Masters each summer, where volunteers recreate famous paintings as living tableaux.

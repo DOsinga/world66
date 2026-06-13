@@ -9,6 +9,7 @@ longitude: 9.2077
 snippet: "Birthplace of the Negroni Sbagliato, open since 1947"
 tags:
 - bars_and_cafes
+score: 7.4
 ---
 
 A Milanese institution open since 1947, credited with inventing the Negroni Sbagliato — a Negroni made with prosecco instead of gin, accidentally discovered when a bartender reached for the wrong bottle. The bar is all dark wood, low lighting, and serious cocktails; the Sbagliato is still served in an oversized glass and is still the thing to order.

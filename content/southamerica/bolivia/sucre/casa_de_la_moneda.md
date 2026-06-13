@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Former colonial mint house in central Sucre
+score: 6.2
 ---
 
 The Antigua Casa de la Moneda in Sucre is sometimes confused with the much grander Casa Nacional de la Moneda in nearby Potosí, but Sucre's mint had its own history: silver coins struck here in the 18th century were used to pay royal officials in La Plata. The original building survives in altered form on Calle Audiencia and is now occupied by government offices; the courtyard can sometimes be entered during weekday business hours.

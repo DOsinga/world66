@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -39.0566
 longitude: 174.0719
+score: 8.3
 ---
 
 The New Plymouth Coastal Walkway runs for 13 kilometres along the waterfront from Bell Block in the east to Lake Rotomanu in the west, past the port, past the Wind Wand sculpture, and along cliffs and beaches with Mount Taranaki visible inland on a clear day. It is the spine of New Plymouth's outdoor life — used by walkers, runners, and cyclists at all hours.

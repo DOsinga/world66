@@ -17,6 +17,7 @@ story: >
   had ridden out — slipped away to warn American forces of British movements.
   Whether her intelligence reached Washington in time to influence the battle is
   disputed, but the story persists in Monmouth County tradition.
+score: 7.6
 ---
 
 Built around 1752, the Covenhoven House is one of the finest surviving Georgian colonial farmhouses in New Jersey. The elegantly proportioned structure at 150 W Main Street has been preserved with much of its original interior — wide-plank floors, period furniture, and the kind of domestic detail that brings the 18th century into focus more vividly than any battlefield marker. It is now operated as a museum by the Monmouth County Historical Association and is open seasonally for guided tours.

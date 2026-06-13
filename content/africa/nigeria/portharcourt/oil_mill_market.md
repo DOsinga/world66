@@ -8,6 +8,7 @@ tags:
   - market
 sources:
   - https://en.wikipedia.org/wiki/Oil_Mill_Market
+score: 5.5
 ---
 
 Oil Mill Market is one of Port Harcourt's major commercial markets, serving the northern residential areas of the city. It functions as a general-purpose market covering fresh produce, household goods, clothing, and electronics, and is considerably less chaotic than the more famous Mile 1 and Mile 3 markets in the city centre.

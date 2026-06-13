@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.8285
 longitude: 1.2670
+score: 6.9
 ---
 
 The Jardin de l'Évêché — the Bishop's Garden — is a formal terraced garden behind the cathedral, stepping down from the episcopal buildings to a viewpoint over the Vienne river and the lower town. It is one of the most pleasant public spaces in Limoges, with a botanical collection of several hundred labelled plant species maintained by the municipality.

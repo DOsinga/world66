@@ -8,6 +8,7 @@ tags:
   - church
 latitude: 25.5772
 longitude: 91.8923
+score: 7.1
 ---
 
 The Anglican cathedral on Kacheri Road, an attractive stone-and-timber building consecrated in 1902. The original 1872 church was destroyed by the great Assam earthquake of 1897 — the same quake that flattened most of colonial Shillong — and the replacement was designed to ride out future tremors, with a deliberately squat plan and heavy buttressing.

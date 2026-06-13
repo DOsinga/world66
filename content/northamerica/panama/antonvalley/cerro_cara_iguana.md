@@ -9,6 +9,7 @@ latitude: 8.6100
 longitude: -80.1200
 story: >
   The name means "Iguana Face Hill" — from below, the forested ridge has a profile that resembles an iguana in repose. The Ngäbe people who live in the valley have been reading animal shapes into this skyline for generations.
+score: 7.6
 ---
 
 Cerro Cara Iguana is the most accessible hike from the Anton Valley village centre, a moderate trail that reaches the crater rim and delivers a panoramic view across the entire caldera. The walk takes around an hour from the town, partly along a gravel road before the trail climbs more steeply through secondary forest. A guide is not necessary but can be hired locally.

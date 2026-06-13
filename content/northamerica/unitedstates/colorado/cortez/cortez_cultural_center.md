@@ -12,6 +12,7 @@ story: >
   as tourist entertainment. The distinction matters here. Cortez sits between the Ute Mountain
   Ute Reservation, the Navajo Nation, and the Southern Ute territory, and the relationships
   between those communities and the town's non-Indigenous residents are complicated.
+score: 6.3
 ---
 
 The Cortez Cultural Center is a free museum and community space in the centre of town, focused on the archaeology and cultures of the Four Corners region. The exhibits cover Ancestral Puebloan pottery, basketry, and stone tools from sites across the Colorado Plateau, with clear explanations of the culture, timeline, and eventual dispersal of the cliff-dwelling communities.

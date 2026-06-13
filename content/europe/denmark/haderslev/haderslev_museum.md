@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 55.2503
 longitude: 9.4900
+score: 7.3
 ---
 
 The local branch of Museum Sønderjylland covers the history and archaeology of southern Jutland (Sønderjylland) — the contested borderland between Denmark and Germany that changed hands three times between 1864 and 1945. The collections include prehistoric artefacts from the region, items from the Danish-German border conflict period, and material culture from the town itself.

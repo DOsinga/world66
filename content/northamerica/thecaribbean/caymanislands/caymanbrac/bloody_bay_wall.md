@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 19.7367
 longitude: -79.7944
+score: 8.5
 ---
 
 The walls along the north coast of Cayman Brac are the diving headline after the Tibbetts wreck — a vertical drop from a shallow shelf at around 12 metres down past 600 metres, with a face dense with hard and soft coral, big sponges, and large pelagic fish passing in the blue. Visibility runs from 25 to 40 metres almost year-round.

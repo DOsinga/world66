@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -36.7268
 longitude: 146.9492
+score: 6.6
 ---
 
 The Alpine Valleys wine region surrounds Bright and spreads through the Ovens and King valleys to the north and west — one of Australia's highest-altitude wine regions, producing lighter, more elegant styles than the warmer plains below. The King Valley in particular has become known for Italian varietals (prosecco, pinot grigio, sangiovese, barbera) introduced by Italian immigrant farmers who arrived in the tobacco-growing era and stayed to plant vines.

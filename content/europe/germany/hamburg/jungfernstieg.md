@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - shopping
+score: 6.5
 ---
 
 The Jungfernstieg, the broad boulevard along the south shore of the Binnenalster, has been Hamburg's most fashionable promenade since the 17th century. The name dates from the days when unmarried daughters (Jungfern) were paraded along it by their mothers in the hope of attracting suitable husbands.

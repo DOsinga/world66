@@ -9,6 +9,7 @@ longitude: -89.4040
 snippet: "The University of Wisconsin's free art museum with over 24,000 objects, the second-largest in Wisconsin"
 sources:
   - https://en.wikipedia.org/wiki/Chazen_Museum_of_Art
+score: 7.8
 ---
 
 The Chazen Museum of Art on the University of Wisconsin campus holds a surprisingly strong collection for a university museum — over 24,000 objects spanning ancient Greek pottery, Old Master paintings, Japanese prints, and contemporary American work. It is the second-largest art museum in Wisconsin, after the Milwaukee Art Museum, and admission is free.

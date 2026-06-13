@@ -13,6 +13,7 @@ story: >
   offer prayers. The temple tank fills with pilgrims on festival days when
   the town falls quiet and the surrounding fields are carpeted with vendors
   selling marigolds and sweets.
+score: 6.0
 ---
 
 Mukteshwar Temple is one of Pathankot's most visited religious sites, dedicated to Lord Shiva and set on the edge of town where the plains begin to rise toward the Shivalik Hills. The compound is shaded by large trees and is busy with local pilgrims throughout the year, especially on Mondays and during the festival of Shivaratri.

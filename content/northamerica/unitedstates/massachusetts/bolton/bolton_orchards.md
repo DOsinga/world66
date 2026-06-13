@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4340
 longitude: -71.6100
+score: 7.2
 ---
 
 Bolton sits at the heart of one of the best apple-growing areas in Massachusetts, with several pick-your-own orchards operating through September and October. The combination of well-drained sandy loam soil, cold winters, and warm summers produces apples of exceptional quality, and the orchards around Bolton grow dozens of varieties including heirloom types rarely found in supermarkets.

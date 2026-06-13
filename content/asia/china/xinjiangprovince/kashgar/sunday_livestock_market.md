@@ -8,6 +8,7 @@ latitude: 39.4780
 longitude: 76.0280
 story: >
   The market has roots going back at least two thousand years, when Kashgar was a key junction on the Silk Road and a natural trading point between the settled oasis farmers of the Tarim Basin and the nomadic herders of the surrounding steppe and mountains. Today it is one of the last surviving livestock bazaars of its kind in Central Asia.
+score: 9.2
 ---
 
 The Sunday livestock market (known locally as the animal bazaar) is one of the most vivid spectacles in Central Asia. Held on the east bank of the Tuman River on the edge of town, it draws farmers, herders, and traders from across the Kashgar oasis and the mountains beyond. Cattle, sheep, donkeys, horses, and camels are led in along dusty tracks and assessed with brisk professional intensity. A successful buyer hauls the purchase home tied to the back of a motorcycle.

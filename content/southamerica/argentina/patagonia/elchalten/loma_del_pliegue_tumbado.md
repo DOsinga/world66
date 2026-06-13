@@ -9,6 +9,7 @@ latitude: -49.3570
 longitude: -72.9597
 sources:
   - https://en.wikipedia.org/wiki/El_Chalt%C3%A9n
+score: 8.5
 ---
 
 The Loma del Pliegue Tumbado is the highest viewpoint accessible from El Chaltén by trail, at around 2,000 metres. The hike is 20 km return with about 1,000 metres of elevation gain — more demanding than most of the park trails and less crowded for it. From the top, on a clear day, you can see both Fitz Roy and Cerro Torre simultaneously, plus a vast sweep of the Patagonian steppe to the east and the ice fields to the west.

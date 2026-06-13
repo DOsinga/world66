@@ -12,6 +12,7 @@ story: >
   dissolving rock along joints and fractures over hundreds of millions of years — began
   roughly 270 million years ago when this part of Yunnan was a shallow tropical sea. The
   stone is older than almost anything else a visitor to China will see.
+score: 8.9
 ---
 
 The Major Stone Forest, or Greater Stone Forest, is the core of the Shilin scenic area and where most visitors spend the bulk of their time. Paved paths wind through a dense maze of grey limestone columns ranging from a few metres to over 30 metres tall, separated by narrow passages carpeted with ferns and moss. The circuit around the lake at the centre and up to the main viewpoint takes about two hours at a comfortable pace.

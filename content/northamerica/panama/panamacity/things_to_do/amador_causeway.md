@@ -3,6 +3,7 @@ title: Amador Causeway
 type: poi
 latitude: 8.9240
 longitude: -79.5330
+score: 6.5
 ---
 
 The Amador Causeway is a 6-kilometre strip of land connecting three small Pacific islands — Naos, Perico, and Flamenco — to the mainland at the Pacific entrance of the Panama Canal. It was built using rock excavated during the construction of the canal, dumping the spoil into the Pacific to create a breakwater and, in time, a road. The causeway is a good place to walk or cycle in the early morning or evening, with views back across the bay to the glass towers of the modern city on one side and the Pacific open water and the canal entrance on the other.

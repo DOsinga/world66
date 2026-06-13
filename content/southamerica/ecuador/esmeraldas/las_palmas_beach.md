@@ -7,6 +7,7 @@ tags:
 latitude: 0.99
 longitude: -79.66
 snippet: The city's own long stretch of grey-sand beach, lined with cevicherías
+score: 6.3
 ---
 
 Las Palmas is the long city beach that fronts Esmeraldas — kilometres of grey sand running north from the river mouth toward the suburb that gives the beach its name. It is unpretentious and overwhelmingly local: families on weekends, joggers in the early morning, soft drinks and ceviche sold from stalls along the seafront avenue.

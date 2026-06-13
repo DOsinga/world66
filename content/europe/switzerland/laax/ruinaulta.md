@@ -8,6 +8,7 @@ latitude: 46.8081
 longitude: 9.3149
 story: >
   The gorge was not carved gradually but born in a single catastrophic moment about 9,500 years ago, when an estimated 8–9 cubic kilometres of rock collapsed from Flimserstein in the largest known Alpine landslide. The Rhine backed up behind the rubble dam, then slowly cut its way through — creating in 10,000 years what the Colorado took 40 million years to achieve.
+score: 8.9
 ---
 
 The Ruinaulta — the Romansh name for the Rhine Gorge — is one of Switzerland's great geological spectacles: a 14-kilometre canyon carved through ancient landslide debris, with white limestone cliffs rising up to 350 metres above the turquoise Vorderrhein. You can see it from the train (the Rhaetian Railway threads through it, offering dramatic views), hike along the valley floor, or tackle it on a raft.

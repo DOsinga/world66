@@ -5,6 +5,7 @@ snippet: Small but excellent live-bat exhibit in Santa Elena, with a darkened fl
 tags: [things_to_do, sight, wildlife]
 latitude: 10.3147
 longitude: -84.8217
+score: 7.1
 ---
 
 The Bat Jungle is a single, dimly-lit hall in central Santa Elena, where eight Costa Rican bat species fly freely behind a glass wall around their visitors. A reversed light cycle means it is "night" for the bats while you are watching them feed, drink, and groom in the daytime.

@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: "Medieval prison tower converted to an 18th-century observatory, now a museum of astronomy"
+score: 7.3
 ---
 
 La Specola is a tall fortified tower at the southwestern edge of the old town that has had a remarkable career: a medieval defensive tower of the Carraresi rulers, then a notorious prison ("the torture tower"), and from 1767 the astronomical observatory of the University of Padua. The conversion was the work of the abbot-astronomer Giuseppe Toaldo.

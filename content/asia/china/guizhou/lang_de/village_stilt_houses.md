@@ -8,6 +8,7 @@ latitude: 26.4760
 longitude: 108.0660
 story: >
   The stilt construction — pen-and-ganlan style, where the ground floor is open and used for storage or livestock while the living quarters sit above — evolved in response to Guizhou's topography. Building on a hillside requires either levelling the ground or building around it. The pen-and-ganlan solution uses the slope: the rear of the house sits directly on the hill, the front is raised on wooden posts, and the floor is level regardless of what the ground below is doing. You can see the logic most clearly from below, looking up at the undersides of the houses where the posts meet the hill.
+score: 8.6
 ---
 
 The village of Lang De climbs a south-facing hillside above the Bala River in tiers of wooden stilt houses — pen-and-ganlan construction in dark timber, with carved balconies and tiled roofs, packed close enough that the upper stories of one row of houses look directly onto the balconies of the next. The overall ensemble, seen from the rice terraces below, presents as a single organism — roofline behind roofline climbing the hill.

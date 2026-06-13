@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.6
 ---
 
 Anna's Hoeve is a public park east of the centre, shaped out of a refuse dump in the early 1930s as a Depression-era make-work project. Three hills (locally and ironically called "the Alps") and a small chain of lakes were sculpted by unemployed workers from Hilversum.

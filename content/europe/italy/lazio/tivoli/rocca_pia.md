@@ -8,6 +8,7 @@ tags:
 snippet: "15th-century papal fortress at the entrance to the old town"
 latitude: 41.9605
 longitude: 12.7967
+score: 7.4
 ---
 
 The Rocca Pia is the squat four-towered fortress that guards the southern entrance to the old town, built in 1461 by Pope Pius II to enforce papal control over what was then a fractious independent commune. The bare rusticated walls and round corner towers are characteristic of mid-Quattrocento military architecture.

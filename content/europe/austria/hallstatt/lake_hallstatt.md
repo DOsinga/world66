@@ -6,6 +6,7 @@ longitude: 13.6606
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Hallstätter See is a glacier-carved Alpine lake eight kilometres long and up to 125 metres deep, ringed by limestone cliffs that rise nearly vertically from the water. It is clean enough to drink in places and cold enough to take your breath away even in August — surface temperatures rarely exceed 20°C.

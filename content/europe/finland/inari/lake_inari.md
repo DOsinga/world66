@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 Inarijärvi — the lake that gives the village and the municipality their name — covers 1,040 square kilometres, making it Finland's third-largest. The shape is irregular, ragged with bays and headlands, and the surface is broken by more than 3,300 islands. The water is exceptionally clear; the lake freezes from November until late May, and breaks up dramatically in May or early June.

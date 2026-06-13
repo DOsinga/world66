@@ -8,6 +8,7 @@ latitude: 48.7340
 longitude: -122.4860
 sources:
   - https://en.wikipedia.org/wiki/Western_Washington_University
+score: 7.4
 ---
 
 Western Washington University occupies a hillside campus overlooking Bellingham Bay, and a walk through it reveals one of the better outdoor sculpture collections in the Pacific Northwest. The Outdoor Sculpture Collection includes over 30 large-scale works installed across the campus grounds, with pieces by artists including Isamu Noguchi and Mark di Suvero. The collection was built deliberately and over decades, and the contrast between the abstract steel forms and the forested hillside is genuinely striking.

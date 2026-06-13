@@ -9,6 +9,7 @@ latitude: 20.9333
 longitude: -11.6167
 sources:
   - https://en.wikipedia.org/wiki/Ksar_el_Khali
+score: 8.8
 ---
 
 The ruins of the Ksar el Klali fort occupy a cliff east of the modern town, commanding wide views over the Adrar plateau and the wadi below. Built during the town's caravan-era heyday — when Ouadane was a major waypoint on the gold and salt routes between Morocco and sub-Saharan Africa — the ksar is a labyrinth of collapsed coral-stone walls, narrow lanes, and roofless houses gradually being reclaimed by the sand.

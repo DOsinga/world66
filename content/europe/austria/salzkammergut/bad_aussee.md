@@ -13,6 +13,7 @@ story: >
   masks), and the Fledermaus (bat costumes) parade through the town in a
   sequence that has evolved over centuries and has no clear origin. The mirrors
   on the Flinserl costumes are supposed to drive away winter by blinding it.
+score: 6.8
 ---
 
 Bad Aussee is the main market town of the Ausseerland in Styria, the eastern and most atmospheric corner of the Salzkammergut. It sits at the junction of the three Ausseer lakes valley and retains the character of a genuine Austrian country town — not polished for tourism, with butchers, ironmongers, and hardware shops alongside the cafes and guesthouses.

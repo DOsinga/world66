@@ -9,6 +9,7 @@ latitude: 27.3770
 longitude: 88.7410
 story: >
   The sanctuary protects the fragile alpine belt around the Tsomgo road, where rhododendrons, primulas, and other high Himalayan plants flower in the short warm season. What looks empty under snow can be riotously alive a few months later.
+score: 6.8
 ---
 
 Kyongnosla Alpine Sanctuary lies along the road between Gangtok and Tsomgo Lake. It protects high-altitude forest and alpine vegetation, including rhododendrons, orchids, and medicinal plants.

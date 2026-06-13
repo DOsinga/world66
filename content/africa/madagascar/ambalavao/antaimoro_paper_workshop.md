@@ -11,6 +11,7 @@ longitude: 46.9333
 snippet: Handmade bark paper decorated with pressed flowers
 story: >
   Antaimoro paper is associated with communities of south-eastern Madagascar who preserved Arabic-script manuscripts on handmade paper. Modern workshops around Ambalavao have turned that tradition into a craft travellers can watch and carry home.
+score: 6.9
 ---
 
 Ambalavao's paper workshops make Antaimoro paper from bark fibre, pressing flowers, leaves, and stems into the sheets while they are still wet. The process is simple to watch and surprisingly delicate: pulp, frame, water, petals, sun.

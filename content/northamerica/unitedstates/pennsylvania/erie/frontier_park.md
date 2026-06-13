@@ -10,6 +10,7 @@ story: >
   The park contains one of the most significant remaining stands of old-growth forest in northwestern Pennsylvania — a small grove of trees that escaped the logging that cleared virtually every other forested area in the region during the 19th century. These trees were already mature when Perry fought his famous battle on the lake nearby.
 sources:
   - https://en.wikipedia.org/wiki/Frontier_Park_(Erie,_Pennsylvania)
+score: 5.7
 ---
 
 Frontier Park is a 32-acre green space along Cascade Creek on Erie's west side, about two miles from downtown. It offers walking trails, picnic areas, and a creek corridor that provides a genuine escape from the urban grid. The park is popular with families and joggers and connects to the larger network of trails that runs through Erie's west side toward Presque Isle.

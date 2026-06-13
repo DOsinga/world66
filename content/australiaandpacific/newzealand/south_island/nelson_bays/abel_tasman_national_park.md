@@ -8,6 +8,7 @@ latitude: -40.9167
 longitude: 172.9833
 story: >
   Abel Tasman was the first European to sight New Zealand, in 1642, but his encounter with Māori ended badly — four of his crew were killed in a skirmish at what is now called Murderers Bay (Golden Bay). He departed without landing and never returned. The national park named after him is one of the most visited in New Zealand, a contrast to the explorer's abbreviated visit.
+score: 9.4
 ---
 
 Abel Tasman National Park, at the northwestern tip of the South Island, is New Zealand's smallest national park and one of its most popular — a 22-kilometre stretch of golden beaches, clear turquoise water, and coastal forest accessible by foot, kayak, or water taxi. The Abel Tasman Coast Track is one of New Zealand's nine Great Walks, following the coastline through the park for 60 km and typically walked over three to five days.

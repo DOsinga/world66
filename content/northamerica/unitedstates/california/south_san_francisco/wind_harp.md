@@ -14,6 +14,7 @@ story: >
   hit them, and the resulting chord is always different depending on wind speed
   and direction. On very still days it is silent; on breezy days its sound
   carries surprisingly far.
+score: 6.8
 ---
 
 South San Francisco's most unexpected attraction is a large outdoor musical instrument on the hillside above the city — a wind harp whose strings are bowed by the constant Bay Area breeze. The sculpture stands about 10 metres tall, with vertical strings of varying lengths that vibrate and resonate in the wind to produce an eerie, shifting chord. It is one of the largest wind harps in the world.

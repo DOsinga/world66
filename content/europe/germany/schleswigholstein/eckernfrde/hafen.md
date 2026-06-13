@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.4715
 longitude: 9.8345
+score: 8.1
 ---
 
 The working harbor at the south end of the waterfront is the emotional center of Eckernförde. Fishing boats still come and go, and the smell on a good day is the combination of salt air and woodsmoke from the sprat smokeries that line the quay. It is not a gentrified marina with expensive yachts and overpriced cocktails, but a functional harbor that happens to have excellent food and a photogenic wooden bridge (the Holzbrücke, which appears in most photos of the town).

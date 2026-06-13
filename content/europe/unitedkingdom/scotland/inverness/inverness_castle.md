@@ -9,6 +9,7 @@ title: Inverness Castle
 type: poi
 story: >
   Shakespeare set Macbeth's castle at Inverness, but the original fortification was demolished long before the present Victorian building was constructed. The red sandstone structure you see today was built in 1836 as a courthouse — a fact that has not stopped generations of tourists arriving to look for the Scottish king's ghost.
+score: 6.1
 ---
 
 Inverness Castle stands on a red sandstone cliff above the River Ness, its two towers visible from most of the city centre. The present building is Victorian — designed by William Burn and completed in 1836 — and served as the county courthouse and jail until a new justice centre opened nearby in 2022.

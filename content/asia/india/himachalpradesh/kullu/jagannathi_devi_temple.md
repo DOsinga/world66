@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.9333
 longitude: 77.1500
+score: 6.5
 ---
 
 Across the Beas from Kullu town, on the slope above Bhekhli village, sits the temple of Jagannathi Devi — a small wooden shrine that gives one of the best overhead views of the valley floor. The walk up takes about an hour through a mix of orchards and pine.

@@ -5,6 +5,7 @@ tags:
 - bars_and_cafes
 title: Avondale Bar Scene
 type: poi
+score: 5.8
 ---
 
 The Avondale neighborhood has accumulated a dense cluster of bars within a few blocks of 41st Street South. Avondale Brewing Company anchors the scene, but surrounding venues include Chez Fonfon's wine bar offshoot, several cocktail bars, and a rotating cast of food trucks. The neighborhood is walkable once you're in it, and the evening crowd is relaxed and mixed-age.

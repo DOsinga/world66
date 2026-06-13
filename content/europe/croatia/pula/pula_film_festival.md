@@ -8,6 +8,7 @@ latitude: 44.873
 longitude: 13.85
 story: >
   The Pula Film Festival is the oldest film festival in Croatia, established in 1954 during the Yugoslav period as a showcase for domestic cinema. Films are still screened inside the Roman amphitheatre, with thousands of spectators sitting on ancient stone bleachers under the summer sky — an experience that has no equivalent anywhere in the film world.
+score: 6.5
 ---
 
 The Pula Film Festival, held annually in late July, is one of the more unusual film events anywhere. Screenings take place inside the Roman amphitheatre, where audiences of several thousand sit on the ancient stone tiers to watch films under the open sky. The setting transforms even mediocre films into events; a good film in this context becomes genuinely memorable.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.6188
 longitude: -122.3754
 snippet: The Bay Area's main international gateway, adjacent to San Bruno
+score: 7.3
 ---
 
 SFO sits at the eastern edge of San Bruno and the city's life is shaped by its 24-hour operation: hotel shuttles, restaurant trade, and the ambient drone of jet engines on the western approach. For travellers it is one of the more pleasant U.S. airports, with rotating museum-quality exhibitions throughout the terminals (curated by the SFO Museum, an accredited institution in its own right) and direct BART service to downtown San Francisco in 30 minutes.

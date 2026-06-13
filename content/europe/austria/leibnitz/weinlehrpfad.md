@@ -7,6 +7,7 @@ tags:
   - walking
 latitude: 46.7750
 longitude: 15.5350
+score: 7.2
 ---
 
 The Weinlehrpfad is a self-guided walking trail through the vineyards surrounding Leibnitz, run by the local winemakers' school. Information panels along the route explain grape varieties, cultivation techniques, and the particular characteristics of the South Styrian wine climate, which benefits from warm Pannonian air from the east and cooling Alpine breezes from the north.

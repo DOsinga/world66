@@ -16,6 +16,7 @@ story: >
   and philosophers — including her neighbours Alexander Pope and Horace Walpole.
   The house is a monument to a woman who navigated an impossible position with
   considerable skill.
+score: 7.9
 ---
 
 Marble Hill House is the last complete survivor of the elegant Thames-side villas that lined the river between Richmond and Hampton Court in the early 18th century. Built between 1724 and 1729 for Henrietta Howard, mistress of George II, it is a perfect small Palladian villa: compact, beautifully proportioned, white, and surrounded by grounds that run down to the river. English Heritage manages the house and has restored the interior to its original appearance.

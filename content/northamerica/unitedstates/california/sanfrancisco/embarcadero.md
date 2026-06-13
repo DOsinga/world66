@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Until 1989 a double-deck freeway ran the length of the Embarcadero, cutting the city off from its waterfront. The Loma Prieta earthquake damaged it so badly that it had to be demolished. San Franciscans took one look at the bay views without the concrete and voted not to rebuild — the resulting boulevard is one of the most successful pieces of late-twentieth-century urban planning anywhere."
+score: 7.8
 ---
 
 The Embarcadero is the broad waterfront boulevard running from the [Ferry Building](/northamerica/unitedstates/california/sanfrancisco/ferry_building) north past [Pier 39](/northamerica/unitedstates/california/sanfrancisco/pier39) and [Fisherman's Wharf](/northamerica/unitedstates/california/sanfrancisco/fishermans_wharf). Walking, jogging, or biking its length is one of the simplest pleasures in the city — wide sidewalks, Bay views the entire way, and a constant background of working ferries.

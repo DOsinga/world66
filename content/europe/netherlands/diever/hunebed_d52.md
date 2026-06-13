@@ -14,6 +14,7 @@ story: >
   stacking them required a level of social organisation that archaeologists
   are still debating. There are 54 surviving hunebedden in Drenthe; D52 near
   Diever is one of the most accessible.
+score: 7.4
 ---
 
 Hunebed D52 is a megalithic tomb just outside Diever, one of 54 such prehistoric grave monuments that are Drenthe's most distinctive ancient landmarks. Built around 3400–3200 BC, it consists of large erratic boulders — some weighing several tonnes — arranged to form a burial chamber and covered mound. The construction required coordinating the movement of stones that had been deposited across the province by glaciers during the last ice age.

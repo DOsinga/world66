@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: The Point
 type: poi
+score: 8.1
 ---
 
 The Point is the residential peninsula east of downtown — the part of the historic district where the largest and grandest of the antebellum mansions stand. The streets are narrow, the live oaks are enormous, and houses like the Berners Barnwell Sams House, the Edgar Fripp House (Tidalholm), and the Marshlands sit on deep lots that run down toward the Beaufort River.

@@ -9,6 +9,7 @@ tags:
 - nature
 title: Gullmarn
 type: poi
+score: 8.5
 ---
 
 The Gullmarn (or Gullmaren) is the only true fjord in Sweden — a deep, narrow inlet around 30 kilometres long, scoured by glaciers and just shallow enough at its mouth that fresh and salt water layer over each other unusually well. Lysekil sits at its outer end. From a boat or from any of the surrounding hilltops the water shifts from grey to deep blue depending on the light.

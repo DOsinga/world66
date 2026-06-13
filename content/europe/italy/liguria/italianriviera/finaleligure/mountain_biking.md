@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1800
 longitude: 8.3500
+score: 9.0
 ---
 
 Finale Ligure is one of Europe's premier mountain biking destinations, and the network above town is the main reason serious riders from across the continent make the trip. Hundreds of kilometres of singletrack thread through the limestone karst, Mediterranean scrub, and maritime pine forest on the slopes above the town, dropping from ridge-top trails back toward the sea. The terrain suits advanced riders — the rock is grippy, the singletrack is technical, and the descents are long and varied — but there are trails for intermediate riders too.

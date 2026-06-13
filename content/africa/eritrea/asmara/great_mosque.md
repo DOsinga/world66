@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The mosque was built in 1937 on direct orders from Benito Mussolini, as part of his attempt to win Muslim support during the Italian invasion of Ethiopia. The travertine for the cladding was quarried at Dekemhare and the marble flown in from Carrara."
+score: 8.7
 ---
 
 The Great Mosque of Asmara, Al Khulafa Al Rashiudin, is one of three buildings that anchor the city's central axis: the Catholic cathedral, the Coptic Enda Mariam, and this mosque, all within a kilometre of each other. Completed in 1937, it combines Italian Rationalist massing with classical Islamic detailing: a tall central minaret, a colonnaded courtyard, and a facade clad in pale travertine and marble.

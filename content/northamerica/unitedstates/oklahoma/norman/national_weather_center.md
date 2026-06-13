@@ -7,6 +7,7 @@ tags:
 latitude: 35.1814
 longitude: -97.4403
 story: "Every severe-thunderstorm and tornado watch issued for the contiguous United States is drafted in this building, on the third floor, by meteorologists at the Storm Prediction Center. The forecasting room is staffed 24 hours a day, and on outbreak days the centre coordinates the simultaneous response of dozens of regional weather offices."
+score: 8.3
 ---
 
 The National Weather Center is a glass-and-stone academic building on OU's south campus that houses the federal Storm Prediction Center, the National Severe Storms Laboratory, the National Weather Service Norman office, and OU's own meteorology school. There is no single more important building in the country for the science of severe weather — modern tornado warnings, supercell research, and Doppler radar all trace back here.

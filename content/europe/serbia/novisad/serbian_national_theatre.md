@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2549
 longitude: 19.8431
+score: 6.9
 ---
 
 The Serbian National Theatre is one of the oldest professional theatres in the Balkans, founded in Novi Sad in 1861. It runs three companies — drama, opera, and ballet — and performs in a sober postwar building on the southern edge of Liberty Square. The programme is in Serbian, but the opera and ballet are easy enough to follow without language, and tickets are remarkably cheap by Western European standards.

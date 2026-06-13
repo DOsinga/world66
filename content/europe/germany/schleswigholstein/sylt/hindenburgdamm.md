@@ -13,6 +13,7 @@ story: >
   opened it in person on 1 June 1927. Cars still cannot drive across — you have to
   load your vehicle onto the rail shuttle at Niebüll. Plans to add a road have been
   argued about for nearly a century without resolution.
+score: 5.4
 ---
 
 The Hindenburgdamm is the 11-kilometre rail causeway that has linked Sylt to the German mainland since 1927. Trains run constantly across the dam carrying passengers and the famous car-shuttle service from Niebüll, since road traffic has never been permitted on the embankment. From the carriages the view in both directions is of the open tidal flats of the Wadden Sea — at low tide a vast wet expanse, at high tide an inland sea.

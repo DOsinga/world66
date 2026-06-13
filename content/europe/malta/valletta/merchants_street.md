@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8991
 longitude: 14.5119
+score: 7.2
 ---
 
 Merchants Street runs parallel to Republic Street through the lower half of the city grid, and for centuries it was Valletta's commercial spine. The old market — Is-Suq tal-Belt, Valletta's covered market — stands midway along the street in a 19th-century cast-iron structure that was sensitively restored in 2018 after long neglect. The market now houses food stalls, a supermarket, a wine bar, and a rooftop restaurant, and is the best place in Valletta to buy Maltese cheeses, olives, sun-dried tomatoes, and local wine.

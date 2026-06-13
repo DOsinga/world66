@@ -16,6 +16,7 @@ story: >
   tower as trophies. They were later moved to the Naval Museum in Madrid.
 sources:
   - https://en.wikipedia.org/wiki/Iglesia_de_la_Concepci%C3%B3n_(San_Crist%C3%B3bal_de_La_Laguna)
+score: 8.0
 ---
 
 The Iglesia de la Concepción is the oldest church in Tenerife, founded in 1497 in the first years of Spanish colonisation. The building that stands today is largely 16th and 17th century, with the characteristic wooden mudéjar ceiling — a Moorish-influenced style of artesanado carpentry — that is one of the most beautiful examples of its kind in the Canaries. The coffered ceiling panels are painted and gilded, a remarkable survival from the early colonial period.

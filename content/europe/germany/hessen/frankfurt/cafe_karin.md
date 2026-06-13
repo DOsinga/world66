@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, cafe, altstadt]
 latitude: 50.1114
 longitude: 8.6786
+score: 6.4
 ---
 
 Café Karin, on Grosser Hirschgraben opposite the Goethe House, has been Frankfurt's archetypal student-and-journalist breakfast café for more than thirty years. The breakfast menu is enormous — every variation on the German Frühstück you can imagine, with combinations named after writers and journalists — and is served all day. The cake counter is reliably good.

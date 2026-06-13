@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Hand-pulled noodles with braised Ningxia lamb — the city's signature dish"
+score: 7.0
 ---
 
 The streets around the Drum Tower pedestrian area are lined with small restaurants serving Yinchuan's signature dish: hand-pulled lamian noodles in a rich, deeply spiced lamb broth, topped with braised mutton and a scattering of coriander and spring onion. There are dozens of these places, most of them run by Hui families and open from morning until late evening.

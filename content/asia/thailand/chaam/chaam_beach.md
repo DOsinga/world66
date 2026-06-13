@@ -14,6 +14,7 @@ story: >
   shoreline to a single palm-lined boulevard and a string of low seafood shacks.
 sources:
   - https://en.wikipedia.org/wiki/Cha-am_district
+score: 7.2
 ---
 
 The beach is Cha-am's entire reason for being. A near-continuous strip of pale sand runs south from the town for the better part of eight kilometres, backed by casuarina trees and the seafood restaurants and beach bars of Ruamchit Road. The water is shallow and calm, and the gentle shelving makes it safe for children. Deck chairs and striped umbrellas are available for hire the length of the beach.

@@ -6,6 +6,7 @@ latitude: 59.413
 longitude: 10.7119
 sources:
   - https://en.wikipedia.org/wiki/Vansj%C3%B8
+score: 6.4
 ---
 
 Vansjø is a large freshwater lake east of Moss, the biggest lake in Østfold county. The lake and the connected waterway system known as Morsavassdraget is popular for fishing, kayaking, and summer swimming — the shores are dotted with cabins and small boat jetties. In warm weather the local population migrates here for the kind of quiet lakeside leisure that Norwegians do particularly well.

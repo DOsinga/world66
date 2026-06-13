@@ -8,6 +8,7 @@ latitude: 42.2536
 longitude: 11.7556
 story: >
   The museum's most famous object is the Winged Horses of Tarquinia — a terracotta relief from the 4th or 3rd century BC that decorated the pediment of the Ara della Regina, the most important temple of ancient Tarquinia. The two horses in profile, facing each other with wings spread, are among the masterpieces of Etruscan art. The original site of the temple can be visited on the plateau above the modern town.
+score: 9.0
 ---
 
 The Tarquinia National Museum occupies the Palazzo Vitelleschi, a magnificent 15th-century Gothic-Renaissance palace in the centre of the medieval town. The collection is one of the finest assemblages of Etruscan material anywhere, gathered from the necropolises and settlement sites of ancient Tarquinia over two centuries of excavation.

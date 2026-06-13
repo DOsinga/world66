@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.9
 ---
 
 Sankey's has been the town's serious seafood restaurant since 1985 — a family-run institution split across the upstairs dining room and a basement champagne bar known simply as "The Cellar." The menu is straightforward and uncompromisingly fresh: oysters, dressed crab, lobster, whole sea bass.

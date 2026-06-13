@@ -10,6 +10,7 @@ tags:
 - sights
 title: The Old Town
 type: poi
+score: 5.8
 ---
 
 Before the Second World War, the elliptical core of Hannover was a dense warren of half-timbered houses dating back to the Middle Ages — narrow lanes, poor housing and, by reputation, plenty of crime. The bombing raids of 1943 reduced almost all of it to rubble: only forty old half-timbered buildings survived, twelve of them in Knochenhauer-, Kramer- and Burgstrasse.

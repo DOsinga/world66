@@ -12,6 +12,7 @@ snippet: "Tintoretto's greatest cycle — 60 paintings covering every wall and c
 neighbourhood: San Polo
 story: >
   In 1564, the confraternity held a competition to decorate the ceiling of the Sala dell'Albergo. Tintoretto was supposed to submit a preparatory drawing like the other competitors. Instead he installed the finished painting overnight and unveiled it on the morning of the competition. He won the commission and spent the next 23 years decorating the entire building.
+score: 9.6
 ---
 
 The Scuola Grande di San Rocco houses the greatest single collection of paintings by Tintoretto anywhere in the world. The artist spent 23 years (1564–1587) covering the walls and ceilings of this confraternity building with a vast cycle of paintings from the Old and New Testaments — over 60 works in total, running across the ground floor sala, the great upper hall, and the smaller Sala dell'Albergo.

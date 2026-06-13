@@ -8,6 +8,7 @@ latitude: 5.4812
 longitude: 10.4195
 sources:
   - https://www.openstreetmap.org
+score: 5.5
 ---
 
 La Grillade is one of several brochette and grilled meat restaurants clustered in the streets north of Rond Point Biao — the type of place where whole chickens rotate on spits above charcoal through the evening and the smell carries a block downwind. The menu is built around brochettes (skewered grilled beef or chicken), poulet braisé, and a rotating selection of whatever the market had that morning. Plantain, fried yam, and pepper sauce round out most plates.

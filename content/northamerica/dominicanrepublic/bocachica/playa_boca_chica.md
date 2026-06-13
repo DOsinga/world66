@@ -8,6 +8,7 @@ latitude: 18.4539
 longitude: -69.6103
 story: >
   The lagoon at Boca Chica is calm because a coral reef runs parallel to the shore about 400 metres out, breaking the Atlantic swell before it reaches the beach. The reef has been degraded by decades of boat traffic and hotel development, but the sheltered water it creates makes this one of the few beaches near Santo Domingo where small children can safely swim. On Sundays the beach fills so completely that finding a patch of sand requires patience — and the competing sound systems ensure you won't need to bring your own music.
+score: 6.8
 ---
 
 Playa Boca Chica is a long, gently curving beach of pale sand inside a sheltered lagoon, protected from the open sea by a coral reef. The water is warm, clear, and shallow for a considerable distance — you can walk out fifty metres and still only be waist-deep in most places, which makes it the most family-friendly beach within easy reach of Santo Domingo.

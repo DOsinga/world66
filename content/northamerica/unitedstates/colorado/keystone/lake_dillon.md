@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Dillon_Reservoir
 story: >
   Lake Dillon is not actually a natural lake — it is Dillon Reservoir, a water supply impoundment completed in 1963 that flooded the original town of Dillon. Before the dam was built, residents were given notice and relocated; the town's buildings were demolished and the reservoir filled around 1963. At low water, the foundations of old structures occasionally surface near the shoreline.
+score: 7.6
 ---
 
 Lake Dillon — officially Dillon Reservoir — is the summer centrepiece of Summit County and sits just a few minutes' drive from Keystone. At 9,017 feet elevation, the reservoir covers nearly 3,300 acres, and the surrounding backdrop of peaks makes it one of the more dramatic settings for water sports in the Rocky Mountains.

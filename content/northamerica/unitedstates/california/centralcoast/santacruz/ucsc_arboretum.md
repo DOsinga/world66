@@ -8,6 +8,7 @@ latitude: 36.9907
 longitude: -122.0627
 story: >
   The arboretum's Australian section, planted in the 1960s and 70s, has grown into one of the finest collections of Australian flora outside Australia. The banksia collection alone — over 50 species, some rarely seen outside their native range — draws botanists from considerable distances. The waratahs and grevilleas in spring are spectacular, and the hummingbirds that have adapted to feed on them are a notable consequence of planting Southern Hemisphere species at the edge of a North American continent.
+score: 7.4
 ---
 
 A botanical garden on the UC Santa Cruz campus, covering 135 acres of former redwood forest with collections from California, Australia, South Africa, and New Zealand. The arboretum is open daily and charges a small admission fee. The highlight is the California native plant section, which includes specimens of nearly every species endemic to California in a single, accessible collection — a remarkable resource for anyone trying to understand the state's extraordinary botanical diversity.

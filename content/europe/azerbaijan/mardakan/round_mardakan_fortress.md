@@ -6,6 +6,7 @@ latitude: 40.495713
 longitude: 50.147079
 story: >
   The fortress was built in 1232 by the Shirvanshah Fariburz III and designed by Abd al-Majid Masood oghlu — the same architect credited with the smaller round tower at Ramana. The elevated entrance, reached by climbing three metres of blank wall, forced any attacker to scramble upward under fire from defenders inside: a simple but effective design still visible today.
+score: 8.3
 ---
 
 The Round Mardakan Fortress is the best-preserved of the Absheron Peninsula's medieval towers and one of the finest examples of Shirvan-Absheron military architecture in Azerbaijan. Built in 1232, it consists of a cylindrical tower about 16 metres high surrounded by a defensive wall with smaller blind towers — the whole thing was recognised by UNESCO as part of a Caspian Sea defensive heritage reserve in 2001.

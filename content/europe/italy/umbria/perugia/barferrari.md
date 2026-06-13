@@ -9,6 +9,7 @@ tags:
 - bar
 title: Bar Ferrari
 type: poi
+score: 5.4
 ---
 
 A Perugia institution on the main corso, known for its chocolate drinks and pastries. Good for breakfast or an afternoon break.

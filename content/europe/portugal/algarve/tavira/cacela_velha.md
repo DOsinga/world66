@@ -14,6 +14,7 @@ story: >
   genuinely medieval layout that was never overwritten by later development. The fort was
   built by the Portuguese in the seventeenth century to protect an inlet that was still
   used for local fishing.
+score: 8.7
 ---
 
 Cacela Velha is a tiny clifftop village about 12 km east of Tavira, perched on a bluff above the Ria Formosa lagoon. The village consists of a whitewashed church, a small seventeenth-century fort, a handful of houses, and a belvedere with views over the lagoon to the barrier island beyond. Its extreme smallness and utter tranquility make it one of the more atmospheric spots in the eastern Algarve.

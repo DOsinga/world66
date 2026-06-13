@@ -7,6 +7,7 @@ snippet: "Short hike just east of the village with panoramic Adirondack views"
 tags:
 - things_to_do
 - sight
+score: 8.6
 ---
 
 Mount Baker is the short steep hike rising from the eastern edge of the village. The summit at 2,452 feet is reached by a 1.8-mile round trip with about 900 feet of climb — a serious workout but well within reach for anyone of moderate fitness. The trailhead sits about a mile from the centre of the village, easy biking distance or a 20-minute walk.

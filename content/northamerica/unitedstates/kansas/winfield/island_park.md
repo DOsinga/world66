@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 37.2426
 longitude: -96.9886
+score: 6.6
 ---
 
 The Walnut River loops around the eastern edge of Winfield and Island Park sits on a low spit of land where the river splits. Big cottonwoods, picnic shelters, a swimming pool, baseball fields, and the original 1920s bandstand stand here. It is the place where Winfield gathers in summer.

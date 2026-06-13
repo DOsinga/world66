@@ -9,6 +9,7 @@ tags:
 - sight
 - museum
 story: "The Semperoper has burned down twice. The first building, completed in 1841 by Gottfried Semper, was destroyed by fire in 1869. The rebuilt version opened in 1878 and was demolished in the 1945 bombing raids. The second reconstruction took forty years; the opera reopened on 13 February 1985, the 40th anniversary of the destruction, with Weber's Der Freischütz — the same opera that had inaugurated the original building."
+score: 9.1
 ---
 
 The Semperoper is one of the world's great opera houses, and Saxony's most important cultural institution. Built by Gottfried Semper in Italian High Renaissance style, the building that stands today is the third version on the same spot — its predecessors destroyed by fire and by war — yet each time rebuilt to the same grand ambitions.

@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 40.1490
 longitude: -8.8620
+score: 7.1
 ---
 
 A small 16th-century coastal fortress positioned at the mouth of the Mondego River, where it meets the Atlantic. Built to guard the river entrance, it offers views along the coast in both directions and over the broad Mondego estuary. The fortifications are modest in scale but atmospheric — a compact reminder of Portugal's long preoccupation with the sea.

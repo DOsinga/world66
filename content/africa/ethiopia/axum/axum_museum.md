@@ -6,6 +6,7 @@ longitude: 38.7200
 tags:
   - things_to_do
   - museum
+score: 8.1
 ---
 
 The Axum Archaeological Museum sits within the Northern Stelae Field and is included in the combined entrance ticket. The collection is well curated for a regional museum: the highlights are stone tablets inscribed in the three languages of the Aksumite court — Ge'ez, Sabaean, and Greek — which document royal decrees and trade agreements from the 4th century AD. There are also Aksumite coins (the kingdom was one of the few African states to mint its own currency), ancient drinking vessels, jewellery, and carved ivories.

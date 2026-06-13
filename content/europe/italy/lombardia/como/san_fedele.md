@@ -11,6 +11,7 @@ story: The Basilica di San Fedele was built by the same *Maestri Comacini* — t
   builders of Como — who spread their craft across medieval Europe. Their influence
   can be traced in churches from Sardinia to Switzerland, but the finest examples
   remain here in the city where they were trained.
+score: 8.4
 ---
 
 Standing in the middle of the old town on the piazza that shares its name, San Fedele is the older and more immediately striking of Como's two great Romanesque churches. Its most remarkable feature is the trefoil apse — three semicircular apses arranged in a clover pattern — visible from the small streets behind the church. Inside, a 14th-century fresco cycle and some surviving Romanesque capitals repay close attention.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.6352
 longitude: 39.7474
+score: 7.8
 ---
 
 Housed within the Kremlin complex in the Palace of Archbishop Oleg, this is the main regional history museum for Ryazan Oblast. The collection covers pre-Mongol Ryazanian culture, artefacts from the original Old Ryazan settlement destroyed in 1237, medieval crafts and weaponry, and the city's development through the imperial and Soviet eras.

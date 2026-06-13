@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/National_Gallery_of_Victoria
 story: >
   The NGV's stained glass ceiling in the Great Hall is one of Melbourne's most photographed interiors. Designed by Leonard French and installed in 1968, it contains 50,000 individual pieces of glass in a pattern of radiating geometric forms. Visitors who arrive early or visit on a quiet day are often surprised to find they can lie on the floor of the hall and look straight up — which is exactly what the artist intended.
+score: 9.4
 ---
 
 Australia's oldest and most visited art museum occupies a building on St Kilda Road designed by Roy Grounds and opened in 1968. The building's distinctive bluestone exterior and the famous waterwall entrance are Melbourne landmarks in their own right. The NGV International holds the international collection, strong in European Old Masters, Asian art, and twentieth-century work. Australian art lives at the Ian Potter Centre in Federation Square, the NGV's second venue.

@@ -13,6 +13,7 @@ story: >
   Pobitora, a jeep safari almost always means sitting within fifty metres of a rhino.
 sources:
   - https://en.wikipedia.org/wiki/Pobitora_Wildlife_Sanctuary
+score: 9.0
 ---
 
 Pobitora Wildlife Sanctuary is one of India's most remarkable wildlife experiences per square kilometre. Established in 1987, its 38 square kilometres of alluvial grassland and wetland on the Brahmaputra floodplain support around 100 Indian one-horned rhinoceroses — the highest density of this species anywhere on earth. Add to that wild buffalo, swamp deer, wild boar, and a leopard population that is rarely seen but present, and you have a sanctuary that punches well above its modest size.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: -2.5278
 longitude: -44.3042
+score: 7.2
 ---
 
 Canto do Alumiá is a family-run restaurant in Praia Grande that has built a loyal following for its honest, home-style Maranhão cooking. The menu is short and changes daily, based on what's available at the market: crab in coconut milk, fried fish with *farofa*, and whatever greens and stews the owner's grandmother used to make. Ask what's fresh and order that.

@@ -9,6 +9,7 @@ latitude: 54.8988
 longitude: 23.9044
 story: >
   Chiune Sugihara wrote thousands of visas by hand in the summer of 1940, continuing to sign them through the window of his departing train after he had been recalled to Japan. He was later dismissed from the diplomatic service for his disobedience. The Japanese government did not formally rehabilitate him until 1991, three years after his death.
+score: 8.3
 ---
 
 In the summer of 1940, Chiune Sugihara was a Japanese consul in Kaunas facing an impossible decision. Thousands of Polish Jews had fled to Lithuania ahead of the Soviet and German advances, and they were desperately seeking transit visas to Japan — the only route to possible safety. Sugihara requested permission from Tokyo to issue the visas three times; three times he was refused. He issued them anyway.

@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - sunset
+score: 6.3
 ---
 
 Not in Kuta itself but a thirty-minute taxi south, perched on the cliffs at Uluwatu directly above one of the world's most photogenic surf breaks. Worth the ride. Wooden decks step down the cliff edge, the cocktails are mediocre, and none of that matters — the sunset view over the reef is the best one within an hour of Kuta.

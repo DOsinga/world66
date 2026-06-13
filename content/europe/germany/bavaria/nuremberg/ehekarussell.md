@@ -14,6 +14,7 @@ story: >
   provided the theme. The sculptor Jürgen Weber created something far darker
   than the city expected: the erotic and grotesque figures provoked enormous
   controversy and the fountain became a Nuremberg talking point for years.
+score: 6.0
 ---
 
 The Ehekarussell (Marriage Carousel) is a large bronze fountain near the White Tower that traces the arc of marriage from courtship through domestic conflict to death. The sculptor Jürgen Weber divided the cycle into six sections, each rendered in explicit and often grotesque detail: young lovers intertwine at the top; later panels show domestic violence, infidelity, and mutual misery; at the base, a couple is consumed by the jaws of a monster. It is disturbing, funny, and unlike anything else in German public sculpture.

@@ -7,6 +7,7 @@ tags:
 - nature
 title: Cuevas de Sal
 type: poi
+score: 7.2
 ---
 
 The salt caves show Valle de la Luna from the inside: narrow passages, rough walls, and glittering mineral crusts that catch the beam of a headlamp. They are a good reminder that the valley is not just sand and rock, but an old salt range pushed, cracked, and carved open.

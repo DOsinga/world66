@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 51.7594
 longitude: -1.2656
+score: 8.2
 ---
 
 Jericho is Oxford's most appealing neighbourhood for an afternoon wander — a compact Victorian district northwest of the city centre, developed in the 19th century to house workers at the nearby Oxford University Press and the canal wharves. Its grid of terraced streets contains an unusually good range of independent shops, restaurants, and cafes, and it has a relaxed, neighbourhood feel quite different from the tourist bustle of the centre.

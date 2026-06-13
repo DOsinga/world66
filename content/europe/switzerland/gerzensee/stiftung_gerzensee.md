@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Stiftung Gerzensee was founded in 1987 to provide advanced economics training for central bankers from developing countries. It is funded by the Swiss National Bank and has educated hundreds of economists from across the globe — a quietly influential institution in an overlooked Swiss village.
+score: 5.5
 ---
 
 The Stiftung Gerzensee occupies the old Schloss Gerzensee, a manor house and its grounds on the edge of the lake. The building was restored and extended to serve as a residential conference and training centre for the Swiss National Bank. It is not generally open to the public, but the exterior and parklike grounds facing the lake are visible from the public path along the shore.

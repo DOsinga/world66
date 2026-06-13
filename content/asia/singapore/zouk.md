@@ -9,6 +9,7 @@ tags:
 - club
 title: Zouk
 type: poi
+score: 6.2
 ---
 
 Singapore's most famous nightclub and consistently ranked among Asia's best. Zouk has been a fixture of the city's nightlife since 1991, though it relocated from its original Jiak Kim Street warehouse to a larger venue at Clarke Quay in 2016. The complex houses multiple rooms — the main Zouk floor for electronic and house music, Phuture for hip-hop, and Capital for a more upscale lounge vibe.

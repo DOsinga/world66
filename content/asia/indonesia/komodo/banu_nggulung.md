@@ -9,6 +9,7 @@ title: Banu Nggulung
 type: poi
 story: >
   Komodo dragons are ambush predators with a bite that delivers both bacteria-laden saliva and venom — a combination that induces blood-thinning and tissue damage in their prey. For decades scientists believed the bacteria alone caused death in bitten animals; a 2009 study revealed the venom glands as well. The dragons at Banu Nggulung have learned that the watering hole attracts prey, and they wait near it patiently — sometimes for days — for deer or pigs to come within range.
+score: 8.4
 ---
 
 Banu Nggulung is a dried-up riverbed on Komodo Island and the best place in the national park to encounter Komodo dragons in the wild. The watering hole at the end of the valley draws deer and water buffalo, which in turn draws the dragons. Rangers guide visitors in small groups along the riverbed, stopping when dragons are spotted — which they usually are.

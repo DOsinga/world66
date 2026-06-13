@@ -9,6 +9,7 @@ latitude: 36.8730
 longitude: 6.9080
 sources:
   - https://en.wikipedia.org/wiki/Skikda
+score: 7.6
 ---
 
 The main square of central Skikda — formerly the heart of French Philippeville — is the natural starting point for exploring the old colonial town. The surrounding streets follow the orderly grid that French military engineers laid out from 1838 onwards, and the arcade-fronted buildings that line them have the same bone structure as a Languedoc market town, weathered and adapted to North African light.

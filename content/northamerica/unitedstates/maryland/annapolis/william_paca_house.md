@@ -15,6 +15,7 @@ story: >
   the property was scheduled for demolition until Historic Annapolis raised
   funds to rescue and dismantle the hotel, then spent a decade excavating and
   rebuilding the lost terraced garden to its 1772 design.
+score: 8.5
 ---
 
 Built between 1763 and 1765 by William Paca — three-term Maryland governor and signer of the Declaration of Independence — this is one of the finest Georgian houses surviving in the United States. The five-part composition (central block flanked by hyphens and wings), the carved interior woodwork, and the two-acre pleasure garden out the back all reflect the wealth of late-colonial Annapolis tobacco aristocracy.

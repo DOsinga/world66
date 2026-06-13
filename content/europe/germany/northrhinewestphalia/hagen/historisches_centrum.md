@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "City history museum in the Werdringen water castle and adjacent buildings"
+score: 6.6
 ---
 
 The Historisches Centrum is Hagen's municipal history museum, housed across two buildings near the Eilper Tunnel — the Stadtmuseum in the former rectory, and the Schloss Werdringen on the Volme. The Werdringen wing displays prehistoric and Roman finds from the surrounding caves and the medieval history of the region; the Stadtmuseum tells the story of Hagen from its industrial growth in the 19th century onward.

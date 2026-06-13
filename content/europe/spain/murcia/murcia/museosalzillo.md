@@ -10,6 +10,7 @@ tags:
 - museums
 title: Museo Salzillo
 type: poi
+score: 8.5
 ---
 
 The name Francisco Salzillo is inseparable from Murcia. Born here in 1707 to a Neapolitan father, he spent his entire career in the region, carving around 1,800 wooden figures in an intensely expressive baroque style before his death in 1783. His polychrome sculptures are startlingly lifelike — faces twisted in grief, hands reaching out, robes caught mid-flutter.

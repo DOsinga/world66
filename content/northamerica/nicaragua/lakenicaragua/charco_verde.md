@@ -6,6 +6,7 @@ longitude: -85.6280
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Charco Verde — the "green pool" — is a small, weirdly emerald lagoon on the western shore of Ometepe between Moyogalpa and Altagracia. It sits in an old volcanic crater half-flooded by the lake, with mangroves and forest around it; the green colour comes from algae and the angled afternoon light against the dark bottom.

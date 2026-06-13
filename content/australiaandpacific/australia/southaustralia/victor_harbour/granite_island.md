@@ -12,6 +12,7 @@ story: >
   that gave Encounter Bay its name. The island's Ramindjeri name is Nulcoowarra.
   A causeway was built to connect it to the mainland in 1875, initially to allow
   horses to haul barges of granite for construction in Adelaide.
+score: 8.5
 ---
 
 Granite Island is connected to the Victor Harbor foreshore by a 630-metre timber causeway, and the crossing can be made on foot or aboard the horse-drawn tram that has been running the route since 1894. The island is a granite outcrop rising about 35 metres above the bay, home to a colony of little (fairy) penguins that return to burrows on the island's southern side each evening.

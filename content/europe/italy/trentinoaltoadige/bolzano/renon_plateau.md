@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 46.6097
 longitude: 11.4419
+score: 8.8
 ---
 
 The Renon (Ritten in German) plateau rises above Bolzano's eastern valley wall, accessed by a modern cable car from the city centre and then a narrow-gauge mountain railway across the plateau. The views from the plateau over the city below and the Dolomites behind are superb; on a clear day the profile of the Rosengarten massif and the Schlern is visible.

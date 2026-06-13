@@ -7,6 +7,7 @@ tags:
 - entertainment
 title: Atlantis Sanya
 type: poi
+score: 5.5
 ---
 
 Atlantis Sanya is the Hainan branch of the Dubai-originated resort chain — a 1,300-room mega-hotel on Haitang Bay that opened in 2018, with the aquarium, water park, and exhibition halls open to non-guests for separate admission. The architecture is hard to miss: a pair of pink-fronted curved towers above a bowl-like central building meant to look like a sunken kingdom.

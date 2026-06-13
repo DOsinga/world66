@@ -14,6 +14,7 @@ story: >
   by the Italian Jesuit brother Antonio Moscheni, who worked almost entirely alone. He completed
   the entire decorative programme — over 50 individual scenes — in just over a year, working from
   scaffolding in a commission that would have occupied a team of artists for decades.
+score: 9.1
 ---
 
 St. Aloysius Chapel is one of the most remarkable church interiors in India. Built by Jesuit missionaries in 1880 on Light House Hill, the chapel is modest from the outside — a simple stone facade — but step through the door and you enter a space that functions more like a painted cave than a place of worship. Every surface, from floor to ceiling arch, is covered in frescoes depicting scenes from the life of Christ, the saints, and the life of St. Aloysius Gonzaga. The effect is startling: vivid colours, precise figural work, and a level of craftsmanship that would be extraordinary anywhere in the world.

@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The iconic 1928 arch that defines the Newcastle skyline
 story: The Tyne Bridge was designed by the same firm that produced the Sydney Harbour Bridge — Mott, Hay and Anderson — and went up first, in 1928. It is two-thirds the size of the Sydney version but was a prototype for its construction methods. The kittiwakes that nest on the southern abutment are the most inland breeding colony of the species in the world.
+score: 9.2
 ---
 
 The arch that says Newcastle. Opened by King George V in 1928, it is the largest single-span bridge in Britain of its kind and the design template for Sydney Harbour. The full sweep is best appreciated from the Quayside cobbles below, or from the High Level Bridge to the west.

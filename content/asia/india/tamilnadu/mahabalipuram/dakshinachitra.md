@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - cultural_site
+score: 7.2
 ---
 
 DakshinaChitra is a living history museum of South Indian architecture and crafts, set on a 4-hectare site on the East Coast Road about 25 kilometres north of Mahabalipuram. The museum has relocated traditional houses from Tamil Nadu, Kerala, Karnataka, and Andhra Pradesh, reassembling them in a compound that reads like a village. Each house is furnished with period objects and attended by artisans demonstrating traditional crafts.

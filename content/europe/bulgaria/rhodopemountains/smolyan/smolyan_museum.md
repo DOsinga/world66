@@ -11,6 +11,7 @@ story: >
   of Rhodope village life taken by Austrian ethnographers — the women in their
   elaborate traditional dress, the men at the forge, the gaida players at festivals.
   The images document a world that existed until about 1950 and is now almost entirely gone.
+score: 6.8
 ---
 
 The Smolyan Historical Museum is the principal cultural institution of the Rhodope Mountains, housed in a purpose-built building near the town centre. The permanent collection covers the region's history from the Thracian period to the Bulgarian National Revival, with particular strength in ethnography: traditional costumes, metalwork, textiles, and tools from the various communities of the Rhodopes are well-documented and clearly displayed.

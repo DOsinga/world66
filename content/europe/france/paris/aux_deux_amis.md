@@ -11,6 +11,7 @@ tags:
 - oberkampf
 title: Aux Deux Amis
 type: poi
+score: 6.5
 ---
 
 A tiny natural wine bar on Rue Oberkampf that has become a landmark of the Paris scene — always busy, always a little loud, with zinc counter, daily changing dishes chalked on the board, and an excellent rotating selection of wines by the glass. The food (tuna tartare, jambon beurre, seasonal vegetables) is better than it needs to be.

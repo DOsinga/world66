@@ -9,6 +9,7 @@ tags:
   - museum
   - xintiandi
 snippet: "Shikumen house where the Chinese Communist Party was founded in July 1921"
+score: 8.0
 ---
 
 A grey-brick shikumen lane house in Xintiandi where, between 23 and 31 July 1921, thirteen Chinese delegates and two Comintern representatives met in secret to found the Chinese Communist Party. A French Concession police raid on the eighth day forced them to finish the meeting on a boat at South Lake near Jiaxing.

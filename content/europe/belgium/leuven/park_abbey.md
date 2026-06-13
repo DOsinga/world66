@@ -15,6 +15,7 @@ story: >
   occupied monasteries in Belgium. During the French Revolution, when most Belgian abbeys were suppressed, 
   dissolved, and looted, the Park community survived partly by shrewd diplomacy and partly by luck. The 
   monks still live there today and run the estate.
+score: 8.8
 ---
 
 Park Abbey in the Heverlee district, about 3 km south of the city centre, is one of the most complete medieval abbey complexes in Belgium. Founded in 1129 by Norbertine monks and continuously inhabited ever since, it comprises a magnificent baroque church, medieval cloister, farm buildings, a library, a prelate's residence, and a series of landscaped fish ponds. The whole ensemble is set in grounds that feel deliberately isolated from the surrounding suburb.

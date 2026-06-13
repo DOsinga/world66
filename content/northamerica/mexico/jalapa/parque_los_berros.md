@@ -8,6 +8,7 @@ tags:
 latitude: 19.5236
 longitude: -96.9169
 snippet: "19th-century city park named for the watercress beds that once supplied the town"
+score: 7.0
 ---
 
 Los Berros — "the watercress" — was Xalapa's first proper city park, laid out in the 1870s on the site of the watercress beds that fed the colonial town. It still has the feel of a Belle Époque jardín público: a central bandstand, gravel paths under tall trees, an artificial pond with ducks, and stone benches lined with old men reading the newspaper.

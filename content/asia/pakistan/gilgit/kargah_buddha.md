@@ -15,6 +15,7 @@ story: >
   across the highlands. By the 10th century Islam had replaced Buddhism entirely, 
   yet the carved figure survived — local legend recast it as a demon or man-eating 
   giant, which may have contributed to its preservation.
+score: 8.6
 ---
 
 The Kargah Nala Buddha is a rock-carved standing figure, roughly seven metres tall, cut into a cliff face about 10 km southwest of Gilgit town. Dating from the 7th century CE, it is one of the most significant surviving examples of Gandharan Buddhist art in northern Pakistan and a striking reminder that these valleys were once on the Silk Road's Buddhist pilgrimage circuit.

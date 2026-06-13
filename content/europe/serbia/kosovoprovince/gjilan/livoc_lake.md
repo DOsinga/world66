@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 42.4639
 longitude: 21.4153
+score: 6.1
 ---
 
 Livoç Lake is an artificial reservoir lying in gentle hilly countryside a few kilometres west of Gjilan. The lake was created by damming a river and now sits surrounded by low wooded hills that give it a pleasant, slightly remote feeling despite being so close to the city. The drive out is easy and short.

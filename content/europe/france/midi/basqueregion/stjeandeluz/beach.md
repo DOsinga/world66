@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3843
 longitude: -1.6631
+score: 7.8
 ---
 
 The beach at Saint-Jean-de-Luz is one of the safest and most sheltered on the entire Bay of Biscay, protected from the full force of Atlantic swells by two long stone jetties built in the 17th century. The result is a wide arc of pale sand with calmer water than almost any other beach on this coast — making it genuinely swimmable in summer, while beaches just around the headland at Biarritz can be rough.

@@ -7,6 +7,7 @@ tags:
 latitude: -14.0369
 longitude: 34.8267
 snippet: "Small museum on the lakeshore explaining cichlid evolution and local culture"
+score: 6.5
 ---
 
 The Lake Malawi Museum sits on the lakeshore in nearby Monkey Bay, the small port town a short minibus or shared-taxi ride south of Cape Maclear. It is a modest two-room museum but punches above its weight on the geology and ecology of the lake — particularly the cichlid evolution story that earned the area its World Heritage listing.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The name has nothing diabolical about it. "Helpoort" comes from "hel" meaning bright or clear — a reference to the Hell Stream, a small drainage channel that ran nearby. The fearsome reputation came later, probably from the gate's use as a base for the city executioner.
+score: 7.6
 ---
 
 The Helpoort is the oldest surviving city gate in the Netherlands, dating from around 1229. It sits at the end of Sint Bernardusstraat, modest in scale but significant as one of the few survivals from Maastricht's first ring of medieval fortifications.

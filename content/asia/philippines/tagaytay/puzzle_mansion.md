@@ -8,6 +8,7 @@ latitude: 14.0978
 longitude: 120.9042
 story: >
   The collection was certified by Guinness World Records as the largest jigsaw puzzle collection in the world from 2012 to 2017, with over 1,000 completed puzzles. Owner Imelda Marcos — not the dictator's wife but a different Imelda — spent decades assembling them, including one puzzle with over 24,000 pieces.
+score: 6.1
 ---
 
 The Puzzle Mansion is one of Tagaytay's stranger attractions: a private home converted into a gallery displaying more than a thousand completed jigsaw puzzles, many of them massive. The puzzles are mounted and framed on every available wall surface, floor to ceiling, in room after room. Subjects range from fine art reproductions to Disney characters to elaborate fantasy landscapes.

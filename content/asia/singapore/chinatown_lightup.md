@@ -8,6 +8,7 @@ tags:
 - sights
 title: Chinatown Light-Up
 type: poi
+score: 6.9
 ---
 
 Every year around Chinese New Year, the streets of Chinatown blaze with elaborate light installations stretching along Eu Tong Sen Street, New Bridge Road, and South Bridge Road. The designs change annually, typically featuring the zodiac animal of the year alongside lanterns, dragons, and traditional motifs.

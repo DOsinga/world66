@@ -15,6 +15,7 @@ tags:
   - park
 title: Valley of Rocks
 type: poi
+score: 8.9
 ---
 
 A dry valley running parallel to the coast about one kilometre west of Lynton, the Valley of Rocks is the most striking landscape in the immediate area. Its ridgeline is occupied by jagged rock formations — Castle Rock, Rugged Jack, the White Lady — that rise directly from moorland and look nothing like the smooth green hills surrounding them. Feral goats have colonised the outcrops and are completely indifferent to visitors.

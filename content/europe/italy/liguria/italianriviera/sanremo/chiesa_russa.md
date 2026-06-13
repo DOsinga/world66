@@ -10,6 +10,7 @@ story: >
   The church was built in 1913 to serve the sizable Russian community that had settled around Sanremo during the previous decades. Among those buried in the adjoining cemetery is a member of the Romanov family — a reminder of how significant the Russian presence on the Ligurian Riviera was before the revolution swept that world away.
 sources:
   - https://en.wikipedia.org/wiki/Sanremo
+score: 7.6
 ---
 
 Sanremo's Russian Orthodox church — the Chiesa Russa — stands on the western side of town near the Passeggiata dell'Imperatrice, a vivid reminder of the city's 19th-century Russian colony. The church was built in 1913 in the Russian Byzantine style, with onion domes and coloured tilework that look dramatically out of place against the Ligurian townscape.

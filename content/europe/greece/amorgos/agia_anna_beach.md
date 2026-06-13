@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 36.7918
 longitude: 25.8958
+score: 8.1
 ---
 
 The best beach on Amorgos is Agia Anna, a narrow strip of sand and pebble at the base of the cliff directly below the Hozoviotissa monastery — which makes it one of the more dramatic swimming spots in the Cyclades. The water is deep blue, clear, and cold, and on calm days the snorkelling is excellent.

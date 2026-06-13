@@ -8,6 +8,7 @@ latitude: 38.1333
 longitude: 20.6667
 story: >
   The fir trees that cover Mount Ainos are a distinct species found nowhere else in the world — Abies cephalonica, the Greek fir, which the ancient Greeks called "the dark forest." Venetian sailors prized the trees for ship masts and logged the forests heavily; the national park was created in 1962 partly to protect what remained. On a clear day the summit commands views of the entire Ionian Sea, from mainland Greece to the distant coast of Italy.
+score: 8.0
 ---
 
 Mount Ainos, at 1,628 metres, is Kefalonia's highest point and the centrepiece of a national park covering the island's southern interior. The mountain is blanketed in Kefalonian fir — a species endemic to the region — giving it a dark, northern-European appearance that contrasts sharply with the sun-bleached coast below.

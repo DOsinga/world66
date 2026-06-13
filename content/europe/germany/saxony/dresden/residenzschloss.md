@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 9.3
 ---
 
 The Residenzschloss — Dresden's Royal Palace — was the seat of the Wettin dynasty for centuries, and after decades of painstaking post-war restoration it is now one of the most rewarding museum complexes in Germany. The green copper tower and the long Renaissance facade make it a dominant presence in the old town.

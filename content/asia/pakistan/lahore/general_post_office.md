@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - mall
+score: 7.6
 ---
 
 The General Post Office (GPO) is one of the great pieces of colonial-era civic architecture on the Mall — a long Indo-Saracenic facade in red sandstone with a central clock tower, completed in 1887 to mark Queen Victoria's golden jubilee. The lobby is still in regular use and worth stepping into; the original mahogany counters and ironwork have largely survived.

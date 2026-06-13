@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7333
 longitude: 58.0167
+score: 8.0
 ---
 
 The desert around Erbent is not featureless. The dune systems south of the village include barchan dunes — crescent-shaped, mobile, and sometimes 20 metres high — that shift visibly over months and years. Older residents track their movement the way a farmer tracks weather. Between the dunes, wind-scoured flats of hardpan support sparse saxaul scrub, a woody desert shrub whose deep root system taps moisture that nothing else can reach.

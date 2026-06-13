@@ -10,6 +10,7 @@ longitude: 177.4150
 story: "Almost every part of the temple — the stone carvings, the painted ceilings, the deities — was made in Tamil Nadu, shipped to Fiji in pieces, and assembled on site by craftsmen flown in from India in the late 1980s. It is the only authentic Dravidian-style temple in the southern hemisphere."
 sources:
   - https://en.wikipedia.org/wiki/Sri_Siva_Subramaniya_Temple
+score: 8.4
 ---
 
 The Sri Siva Subramaniya is the largest Hindu temple in the southern hemisphere and a startling thing to find on the edge of a small Fijian town. It is built in the South Indian Dravidian style, with a gopuram — the towering, intricately sculpted gateway covered in painted figures of gods — rising directly out of the dust at the south end of Nadi's main street.

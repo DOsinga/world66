@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6597
 longitude: -91.5322
+score: 7.5
 ---
 
 Built in 1912 as a vaudeville house, the Englert is the historic anchor of Iowa City's performing-arts scene. After narrowly avoiding demolition in 1999, a community-led fundraising campaign restored the 725-seat theatre to its full Edwardian dignity. It now hosts touring music, dance, lectures, comedy, and the marquee events of the annual Mission Creek Festival.

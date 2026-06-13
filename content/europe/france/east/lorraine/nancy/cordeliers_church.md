@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.6978
 longitude: 6.1794
+score: 7.8
 ---
 
 The Church of Saint-François-des-Cordeliers is attached to the Palais Ducal in the Vieille Ville and served as the burial place of the Dukes of Lorraine. The tombs of the ducal family line the interior, including the elaborate tomb of Philippe de Gueldres, second wife of René II, sculpted in 1519 in a style that mixes Gothic and Renaissance in the manner of the Lorraine court.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 Madrid's town hall and one of the most visually arresting buildings in the city — a vast white wedding cake of carved limestone, finished in 1919 to a design by Antonio Palacios in a half-imagined "Spanish plateresque" style. It originally housed the central post office, until it was converted to municipal use in 2007 and renamed CentroCentro.

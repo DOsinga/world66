@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Trace of Orange's medieval Jewish community
+score: 5.8
 ---
 
 A small plaque on Rue de Tourre marks the site of Orange's medieval **synagogue**. Like Avignon and Carpentras, Orange had a "carrière" — a Jewish quarter — under papal and then Protestant protection, when Jewish communities were expelled from the rest of France. After the principality was annexed by Louis XIV in 1673, that protection ended, and the community gradually moved on or assimilated.

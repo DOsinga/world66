@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 3,301-metre extinct volcano, the highest peak of the Javakheti plateau
+score: 7.7
 ---
 
 Didi Abuli is the high point of the Lesser Caucasus in this part of Georgia — a 3,301-metre extinct stratovolcano that rises in a long, smooth cone from the surrounding plateau. The summit is bare scree and patches of late-melting snow, with views that on a clear day take in Armenia to the south and the volcanic chain of the Samsari Range running north.

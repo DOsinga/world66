@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: -41.288
 longitude: 174.003
+score: 4.8
 ---
 
 EcoWorld Aquarium is a small wildlife centre on the Picton foreshore, focused on the native marine and freshwater species of the Marlborough region. It has tanks of native fish, eel feeding sessions, a tuatara enclosure, and an injured-bird recovery wing that the public can visit.

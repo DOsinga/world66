@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Among the engravings is a Latin inscription from the first century AD, marking the easternmost known limit of the Roman army — a graffito left by a legionary from Domitian's twelfth Legion, who appears to have wandered remarkably far from home."
+score: 9.1
 ---
 
 About sixty-five kilometres south of Baku, the limestone hills at Gobustan are covered with more than six thousand rock engravings, the earliest of them around twelve thousand years old. The figures — boats with rowers, dancing men, deer, oxen, hunting scenes — were made by the people who lived along this stretch of the Caspian when it was still rich in game and probably a much wetter place. The site is a UNESCO World Heritage Site.

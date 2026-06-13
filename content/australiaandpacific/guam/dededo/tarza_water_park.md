@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 13.5234
 longitude: 144.8329
+score: 4.5
 ---
 
 Tarza Water Park is a large family-oriented water park in the Dededo area, one of the main non-beach recreational facilities on Guam. It has wave pools, water slides of varying intensity, and a lazy river. The park is popular with local families and with Japanese tourists — Guam receives a large number of Japanese visitors and the park's marketing reflects this.

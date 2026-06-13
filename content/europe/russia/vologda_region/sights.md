@@ -1,6 +1,7 @@
 ---
 title: Sights in Vologda Region
 type: poi
+score: 7.2
 ---
 
 Vologda region offers many interesting places to visit

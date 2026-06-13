@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 9.0
 ---
 
 The Red Valley (Kızılçukur) and the adjoining Rose Valley (Güllüdere) start immediately south of Çavuşin and offer some of the best walking in Cappadocia. The valley walls are striated with bands of red, pink, and white tuff that catch the light in extraordinary ways at sunset, hence the names.

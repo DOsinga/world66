@@ -6,6 +6,7 @@ tags:
   - bars_and_cafes
   - bar
   - pham_ngu_lao
+score: 4.8
 ---
 
 A small bar on Bui Vien, the spine of Saigon's backpacker district in Pham Ngu Lao. The street is at its loudest after about 9pm, when plastic stools spill across the pavement and the bars compete on volume; River Bar has traded on a simpler, more relaxed feel than its neighbours.

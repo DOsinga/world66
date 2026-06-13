@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -38.6698
 longitude: 178.0209
+score: 5.5
 ---
 
 The Wharf Café occupies a converted warehouse on the waterfront near the inner harbour, with views over the working port and out to Poverty Bay. It is the most reliable spot in Gisborne for fresh local seafood — the crayfish and blue cod are sourced from boats fishing the nearby coast, and the chowder is a good benchmark for how well-supplied the kitchen is on any given day.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.0023
 longitude: 5.7173
+score: 7.1
 ---
 
 The countryside around Bastogne is classic Belgian Ardennes: rolling forested hills, small rivers running through valleys, and scattered villages connected by winding roads. The region is well set up for walkers and cyclists, with waymarked trails of varying lengths radiating out from the town. The landscape takes on a particular character in autumn, when the beech and oak forests turn golden, and in winter, when snow settles on the same terrain where soldiers fought in December 1944.

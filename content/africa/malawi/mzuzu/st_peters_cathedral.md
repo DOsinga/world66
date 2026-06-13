@@ -7,6 +7,7 @@ tags:
 latitude: -11.452
 longitude: 34.0262
 snippet: The Roman Catholic cathedral of the Diocese of Mzuzu, the city's most prominent building
+score: 6.8
 ---
 
 St Peter's Cathedral sits on a rise on the east side of the city centre and is visible from most of Mzuzu. The Diocese of Mzuzu was carved out of the Diocese of Lilongwe in 1961 and St Peter's became its cathedral church in the same decade — a tall, pale-walled modern building with a free-standing bell tower and a long pitched roof clad in red tin.

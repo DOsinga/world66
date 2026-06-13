@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 35.1961
 longitude: -6.1583
+score: 7.4
 ---
 
 The working port at the mouth of the Loukkos estuary is one of the livelier corners of Larache, especially in the early morning when the fishing boats return and the catch is unloaded. The fish market nearby sells whatever came in that day — sardines, sea bass, sole, octopus — and the surrounding stalls and cafés do a brisk trade.

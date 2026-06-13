@@ -11,6 +11,7 @@ story: >
   face — "The Face on the Barroom Floor" — painted in 1936 by Denver artist
   Herndon Davis, inspired by a 19th-century poem of the same name. Visitors
   still come specifically to stand on the floor and have a look.
+score: 6.9
 ---
 
 Built in 1872 by Senator Henry Teller and once one of the finest hotels in the West, the Teller House hosted President Ulysses S. Grant in 1873 — silver bars were laid as a sidewalk for him to walk across, a detail every guide will mention. The interior retains much of its original Victorian decor: heavy wood panelling, stained glass, and the famously walked-on barroom floor portrait.

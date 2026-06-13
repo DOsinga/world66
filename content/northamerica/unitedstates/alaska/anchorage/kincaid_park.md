@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: 1,500-acre park at the western tip of the city with beaches, trails, and Cook Inlet views
+score: 8.0
 ---
 
 A 1,500-acre park at the far west end of the city — boreal forest and meadow rolling down to the bluffs of Cook Inlet. In summer the trails are popular with mountain bikers, dog-walkers, and runners. In winter it becomes the city's main cross-country skiing venue, with lit trails for after-dark skiing through the long winter evenings.

@@ -7,6 +7,7 @@ tags:
 latitude: 47.514
 longitude: 9.430
 snippet: Lakeside walk with views across the Bodensee to Germany and Austria
+score: 6.5
 ---
 
 The lakeside promenade runs east and west from the harbour, following the shore of Lake Constance with views across to the German and Austrian shore. On clear days the Austrian Alps are visible to the south-east. The walk west towards Egnach takes around an hour at an easy pace and forms part of the long-distance Bodensee-Radweg cycling route.

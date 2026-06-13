@@ -7,6 +7,7 @@ tags:
 - beach
 title: Scarborough State Beach
 type: poi
+score: 7.1
 ---
 
 A long curving strip of sand a couple of miles south of the town centre, Scarborough is the favoured beach of college-age Rhode Islanders — busier, louder and more social than Narragansett Town Beach, and reached from a vast state-run parking lot. The two halves (North and South Scarborough) sit on either side of the same pavilion complex and share a long boardwalk above the dunes.

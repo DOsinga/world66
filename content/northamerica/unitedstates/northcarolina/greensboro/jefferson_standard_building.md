@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 1923 skyscraper that was once the tallest building in the Carolinas
+score: 6.7
 ---
 
 The 18-storey Jefferson Standard Building was completed in 1923 as the headquarters of the Jefferson Standard Life Insurance Company. At the time of its opening it was the tallest building between Washington DC and Atlanta. The exterior is Neo-Classical with extensive limestone cladding and elaborate detailing at the top — worth a slow look from across West Market Street.

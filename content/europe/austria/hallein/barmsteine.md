@@ -7,6 +7,7 @@ tags:
 snippet: "Two limestone towers above Hallein, popular with climbers"
 latitude: 47.68667
 longitude: 13.07194
+score: 7.3
 ---
 
 The Barmsteine are two prominent limestone rock towers rising to 841 and 851 metres above sea level, on the ridge between Austria and Bavaria immediately west of Hallein. They are visible from much of the town and are a popular destination for day hikers, with marked paths leading up from Hallein and from Bad Dürrnberg.

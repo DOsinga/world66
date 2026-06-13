@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 47.5720
 longitude: -3.0797
+score: 5.8
 ---
 
 Carnac-Plage is the seaside resort section of the commune, a few kilometres south of the town centre and the megaliths, with a long sandy beach fronting the Bay of Quiberon. The water here is part of the Atlantic — cooler than the Mediterranean but perfectly swimmable in summer, and the tidal range is dramatic, leaving vast expanses of flat sand at low tide.

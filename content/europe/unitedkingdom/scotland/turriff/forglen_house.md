@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Forglen House
 type: poi
+score: 5.2
 ---
 
 Forglen House, two miles north-west of Turriff, is a substantial early-Victorian baronial mansion of about 1839, designed for the Abercromby family by the Edinburgh architect Archibald Simpson. The house has the full kit of Scots-baronial features — crow-stepped gables, corner turrets with conical roofs, carved heraldry — and stands in a wooded estate above the river Deveron.

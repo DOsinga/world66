@@ -8,6 +8,7 @@ latitude: 9.5
 longitude: 76.4167
 sources:
   - https://en.wikipedia.org/wiki/Pamba_River
+score: 8.8
 ---
 
 The Pamba is the third-longest river in Kerala and the artery of the Kuttanad backwater region. It flows into Vembanad Lake just south of Alappuzha, and its lower reaches are woven into the same canal network that houseboats navigate. Canoe trips through the smaller canals — too narrow for the tourist houseboats — are a quieter and more intimate way to experience the backwaters.

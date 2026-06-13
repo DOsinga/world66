@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - bakklandet
+score: 5.9
 ---
 
 A small footplate runs up the cobbled slope of Brubakken behind the Old Town Bridge, towing cyclists up the 130-metre hill while they stay seated on their bikes. It is the only public bicycle lift in the world, installed in 1993 and rebuilt as the CycloCable in 2013. Locals use it every day; visitors mostly come to watch — or, if they have a bike, to try it.

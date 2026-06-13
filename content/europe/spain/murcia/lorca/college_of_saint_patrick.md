@@ -11,6 +11,7 @@ tags:
 - sight
 title: Colegiata de San Patricio
 type: poi
+score: 8.2
 ---
 
 The Colegiata de San Patricio is the most important church in Lorca and an

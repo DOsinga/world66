@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.4197
 longitude: -119.6334
+score: 6.6
 ---
 
 Butterfly Beach is the small, narrow strip below Channel Drive in Montecito, just east of the city. It has no parking lot of its own — visitors park on Channel Drive, which limits the crowds — and no facilities, but it has some of the best sunsets in the area, looking west toward the city skyline with the Santa Ynez Mountains behind.

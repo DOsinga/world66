@@ -15,6 +15,7 @@ story: >
   the surrounding forest for five months. The flooded forest is one of the most
   productive freshwater fisheries on earth, and the reversal is the hydraulic
   foundation of the entire Cambodian agricultural economy.
+score: 6.2
 ---
 
 **Tonlé Sap** is Southeast Asia's largest freshwater lake and the hydrological heart of Cambodia. It sits about 15 kilometres south of Siem Reap at its nearest point, and the floating and stilt villages along its shores are one of the most vivid experiences the Siem Reap region offers. The lake's seasonal flood-drain cycle is extreme: from a modest reservoir in the dry season it swells to an inland sea that covers an area roughly the size of Switzerland in the wet season, inundating forests that remain submerged for months.

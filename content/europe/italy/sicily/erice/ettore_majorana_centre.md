@@ -14,6 +14,7 @@ story: >
   — to a tradition of serious scientific inquiry.
 sources:
   - https://en.wikipedia.org/wiki/Ettore_Majorana_Foundation_and_Centre_for_Scientific_Culture
+score: 6.4
 ---
 
 The Ettore Majorana Foundation and Centre for Scientific Culture is an international scientific institution based in Erice that hosts advanced courses and workshops across all fields of science. Founded in 1963 by physicist Antonino Zichichi, it operates from historic buildings throughout the medieval village — some sessions take place in the deconsecrated church of San Rocco, others in the restored San Domenico complex.

@@ -8,6 +8,7 @@ latitude: 42.4658
 longitude: -2.4488
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_La_Rioja
+score: 7.0
 ---
 
 The Museum of La Rioja occupies a beautiful eighteenth-century Baroque palace in the heart of the old town and covers the region's history from prehistoric times through the Roman occupation, the medieval period, and up to the early twentieth century. The building itself — the Palacio del General Espartero — is one of the finest examples of Baroque civic architecture in northern Spain and worth the visit for that alone.

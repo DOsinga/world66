@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Basilica of Saints Ulrich and Afra
 type: poi
+score: 8.0
 ---
 
 A large late-Gothic basilica at the southern end of Maximilianstrasse, built between 1467 and 1600 over the tomb of the city's patron saints. The interior is generously proportioned with three impressive altars, carved choir stalls, and a crypt containing the relics of Ulrich and Afra. Adjacent to the Catholic basilica stands a smaller Lutheran church (St Ulrich's Evangelical Church), sharing the same site — a physical reminder of the Peace of Augsburg (1555) that allowed both faiths to coexist in the city. Together they represent the endpoint of the Maximilianstrasse promenade and are worth seeing as a pair.

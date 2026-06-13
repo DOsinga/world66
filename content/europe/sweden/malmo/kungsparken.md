@@ -6,6 +6,7 @@ longitude: 12.9915
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Kungsparken is the largest park in Malmö's centre, a 19th-century landscaped park that wraps around the moat of Malmöhus Castle and stretches down to the canal. It is one of the most pleasant green spaces in southern Sweden: mature trees, ornamental bridges over the moat, and views of the castle's rust-red towers reflected in the water. The canal path connects it to the Western Harbour, making for a good walking or cycling route.

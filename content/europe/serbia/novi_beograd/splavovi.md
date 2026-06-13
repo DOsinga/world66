@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 44.8100
 longitude: 20.4280
+score: 8.1
 ---
 
 The splavovi are floating bars and clubs moored along the banks of the Sava and Danube rivers, and they are the defining feature of Belgrade's famous nightlife scene. Most of them cluster along the Novi Beograd side of the Sava, forming a continuous strip of venues that range from laid-back riverside bars to high-energy turbo-folk clubs that keep going until dawn. On summer weekends, the riverbanks become the most crowded and lively part of the city.

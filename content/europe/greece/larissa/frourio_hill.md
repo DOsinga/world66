@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Frourio_Hill
 story: >
   The hill has been continuously inhabited since the Neolithic period and served as the acropolis of the ancient city of Larissa. During the Greek War of Independence, it was briefly captured by rebel forces — a rare moment of insurgency in Ottoman Thessaly.
+score: 8.1
 ---
 
 Frourio Hill is the low but commanding ridge at the heart of Larissa, the site of the ancient acropolis and the city's most historically layered spot. From the Neolithic period through the Classical era, the Byzantine period, and four centuries of Ottoman rule, this hill has been the centre of power in Thessaly. Today it is a freely accessible public space with panoramic views across the flat Thessalian plain toward Mount Olympus.

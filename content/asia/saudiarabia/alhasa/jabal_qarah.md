@@ -14,6 +14,7 @@ story: >
   mountain a refuge for desert dwellers long before electricity. The name "Judas
   Caves" attached to them by some early Western travellers is a colonial-era
   invention with no historical basis.
+score: 8.4
 ---
 
 A sandstone mountain about 12 km northeast of Hofuf, riddled with natural caves that are among the most visited sites in the Al-Ahsa region. The caves stay cool — around 17°C — even when temperatures outside reach 45°C in summer, making them a welcome refuge. The geological formations inside are striking: stalactites, layered rock strata, and narrow passages opening into larger chambers with filtered daylight.

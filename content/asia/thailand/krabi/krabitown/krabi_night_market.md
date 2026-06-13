@@ -7,6 +7,7 @@ tags:
 latitude: 8.0621
 longitude: 98.9176
 snippet: "Nightly street food market near the pier with southern Thai specialities"
+score: 7.3
 ---
 
 The night market sets up along Khong Kha Road near the riverside every evening from around 5pm. It is not a tourist market in the way that Chiang Mai's or Bangkok's night markets are — this is where locals eat, and the prices reflect it. Expect to pay 40–70 baht for a full plate.

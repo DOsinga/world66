@@ -7,6 +7,7 @@ tags:
 - landmark
 title: McGregor Boulevard
 type: poi
+score: 7.2
 ---
 
 The boulevard running southwest from downtown Fort Myers is one of the most distinctive streets in the American South. Thomas Edison planted the first royal palms here in the 1890s, and by the time he was done the avenue was lined for twelve miles — a cathedral of tall grey trunks and feathered crowns that makes even a slow drive feel ceremonial. Fort Myers calls itself the City of Palms and means this street.

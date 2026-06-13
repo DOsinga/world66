@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.8
 ---
 
 Oujda's medina is small, walkable, and entirely unbothered by tourism. It is laid out around the Grand Mosque, with separate quarters historically given over to artisans, traders and the city's old Jewish community (the Mellah). Where the medinas of Fes and Marrakech have been polished for visitors, this one still functions as a working market for the city.

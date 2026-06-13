@@ -7,6 +7,7 @@ tags:
 latitude: 51.9919
 longitude: 5.904
 story: Sonsbeek hosted three international sculpture exhibitions — in 1949, 1971, and 1986 — that are credited with introducing post-war Dutch audiences to contemporary sculpture on a large scale. The 1971 edition, curated by Wim Beeren, was one of the most influential open-air art events in European post-war history. A permanent sculpture collection in the park is a legacy of these exhibitions.
+score: 7.5
 ---
 
 Sonsbeek is an English-landscape park of about 70 hectares on the northern edge of Arnhem's city centre, running from the edge of the shopping district up into the wooded hills toward the Veluwe. The park is characterised by old beeches, open meadows, a small waterfall, ponds, and the white 19th-century Sonsbeek Villa which hosts art exhibitions.

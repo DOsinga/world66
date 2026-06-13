@@ -9,6 +9,7 @@ longitude: 6.7600
 sources:
   - https://en.wikipedia.org/wiki/Port_of_Duisburg
 story: "The Port of Duisburg handles around 60 million tonnes of cargo per year and is the largest inland port in the world — larger than many seaports. It is also the European terminus of the New Silk Road rail connection from China: freight trains from Chongqing, Wuhan, and other Chinese cities arrive in Duisburg after a journey of 10,000-plus kilometres through Central Asia and Russia, usually in about 12–15 days."
+score: 6.7
 ---
 
 The Port of Duisburg — Duisport — sits at the confluence of the Rhine and Ruhr rivers and is the largest inland port in the world. The statistics are staggering: 40 kilometres of quays, 21 port basins, and around 60 million tonnes of cargo per year. The port handles everything from containers and bulk cargo to automobiles and chemicals, and connects by water, rail, and road to virtually every major European logistics hub.

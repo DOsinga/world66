@@ -11,6 +11,7 @@ story: >
   presented to King George V and melted into a set of ceremonial items. A
   replica can be seen in the Ross town museum. The original diggings are still
   clearly visible in the landscape, scarred by hydraulic sluicing.
+score: 7.1
 ---
 
 The former gold-rush town of Ross, 30km south of Hokitika, produced the largest gold nugget ever found in New Zealand in 1909 — the Honourable Roddy, weighing 99 ounces. Today the town is small and quiet, but the diggings left a permanent mark on the land: the hillsides are still humped and cratered from hydraulic sluicing operations, and a heritage walk winds through the old workings past remains of the machinery and waterways that drove the rush. You can stop at the small museum and see the replica nugget before heading out on the trail.

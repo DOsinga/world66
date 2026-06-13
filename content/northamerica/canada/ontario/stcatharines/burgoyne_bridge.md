@@ -7,6 +7,7 @@ snippet: Striking 2017 cable-stayed bridge over the Twelve Mile Creek gorge
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 The current Burgoyne Bridge, opened in 2017, carries St. Paul Street West across the steep wooded gorge of Twelve Mile Creek between downtown St. Catharines and the western neighbourhoods. The 412-metre cable-stayed structure replaced a heritage steel-truss bridge built in 1915 that had reached the end of its life.

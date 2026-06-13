@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Sahib Sindh Sultan
 type: poi
+score: 5.7
 ---
 
 Sahib Sindh Sultan at Forum Mall in Koramangala is one of Bangalore's better-known restaurants for North Indian frontier cuisine — the food of Punjab, the Sindh, and the Northwest Frontier. The menu runs to tandoori meats, robust curries, and good bread. The starters are the strongest part of the menu; the seekh kebabs and the dal makhani are both reliable.

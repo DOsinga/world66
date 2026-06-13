@@ -9,6 +9,7 @@ tags:
 - temple
 - museum
 story: The underground palace is said to contain a Buddha parietal bone relic — a fragment of skull from the historical Buddha — brought to China in the 7th century and lost for centuries. When Niushou Mountain was being developed as a Buddhist cultural park, the relic was "rediscovered" and installed in an enormous underground vault beneath a hill-shaped golden dome. The relic is displayed in a bejewelled container, and a secondary hall nearby contains a monumental reclining Buddha statue.
+score: 6.6
 ---
 
 Foding Palace at Niushou Mountain (牛首山) is a large Buddhist cultural complex built between 2012 and 2015 on the site of a historic temple. The main attraction is an underground palace carved into the mountain, featuring an 80-metre reclining Buddha and a display of Buddhist relics — the centrepiece being a parietal bone relic claimed to be from the historical Buddha Shakyamuni.

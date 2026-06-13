@@ -8,6 +8,7 @@ latitude: 59.6181
 longitude: 17.723
 story: >
   The rune stones of Sigtuna were raised mostly in the 11th century by wealthy merchants and landowners commemorating family members who had died on trading expeditions to Russia, Byzantium, and England. Several of the inscriptions mention the Varangian Guard — the Scandinavian mercenary corps in Byzantine service — and give a direct human connection to the extraordinary reach of Viking-age commercial and military networks.
+score: 8.4
 ---
 
 Sigtuna has an unusual concentration of Viking-age rune stones, scattered around the churchyard, along roadsides, and in fields throughout the surrounding area. Most date from the early 11th century and were raised by local families to commemorate the dead — typically merchants who had died travelling, warriors who had fallen in Russia or England, or farmers who had contributed to the building of a bridge or road.

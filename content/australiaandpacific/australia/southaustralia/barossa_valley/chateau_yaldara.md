@@ -9,6 +9,7 @@ latitude: -34.576059
 longitude: 138.874466
 sources:
   - https://en.wikipedia.org/wiki/Chateau_Yaldara
+score: 7.4
 ---
 
 Château Yaldara is the most theatrical of the Barossa's wineries, a mock-Schloss castle near Lyndoch that looks like it was transported from the Rhine Valley. It was built in the 1940s by Hermann Thumm, a German immigrant who had survived two world wars and the Depression, and its towers, stained glass and antique-filled rooms give it an atmosphere quite unlike any other winery in Australia.

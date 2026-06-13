@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Praça Raul Soares
 type: poi
+score: 6.7
 ---
 
 Praça Raul Soares is a perfectly circular square on the west side of the downtown, named after a former state governor. Tall residential buildings — many of them from the 1930s and 40s with original Art Deco detailing — ring the perimeter, and a fountain and the monument to Raul Soares occupy the centre.

@@ -9,6 +9,7 @@ latitude: 41.405
 longitude: 43.329
 story: >
   Tmogvi was one of the most formidable fortresses in medieval Georgia. When the Mongol commander Argoun Khan besieged it in 1283, the defenders held out so long that the Mongols had to divert the Kura River to cut off the water supply. The ruins visible today are mostly 10th–13th century, from the period when Tmogvi served as one of the key strongholds of the Javakheti princes.
+score: 7.8
 ---
 
 Tmogvi, also known by its Armenian name Tmkaberd, is the ruined fortress and medieval town that looms on a rocky spur directly above Tsunda, on the left bank of the Kura River. The walls and towers cling to near-vertical cliffs at a height that made direct assault nearly impossible — the gorge below provides a natural moat on three sides.

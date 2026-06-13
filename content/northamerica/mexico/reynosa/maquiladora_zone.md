@@ -16,6 +16,7 @@ story: >
   system's biggest centres — at its peak, the city hosted more than 100 plants employing
   over 80,000 workers. The arrangement transformed a cotton-farming town into an
   industrial city in a single generation.
+score: 4.4
 ---
 
 The highway running southwest out of Reynosa toward Monterrey passes through a long belt of industrial parks — low-slung factory buildings set behind security fences, with company logos from a dozen countries. This is one of Mexico's major maquiladora zones, where global manufacturers assemble electronics, auto parts, medical devices, and clothing for the North American market.

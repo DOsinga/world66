@@ -8,6 +8,7 @@ tags:
 - hiking
 title: Colca Canyon Trek
 type: poi
+score: 9.2
 ---
 
 The classic Colca Canyon trek is a two- or three-day loop that starts and ends at Cabanaconde, descending into the canyon on the western side, traversing villages on the canyon floor, and climbing back up via Sangalle. Day one: descend from Cabanaconde to San Juan de Chuccho (about 4 hours) where small family lodges offer beds and meals. Day two: traverse to Cosñirhua and Malata, with optional swims at small natural pools, then drop down to Sangalle for the night. Day three: the long climb back up to Cabanaconde.

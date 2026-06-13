@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.4948
 longitude: 16.2655
+score: 7.1
 ---
 
 Okrug Gornji is the main tourist settlement on Čiovo and the most developed part of the island. It sits on the southwest coast facing the open sea, and its draw is simple: Copacabana beach, a long arc of fine gravel that stretches for nearly two kilometres backed by beach bars, sunbed hire, and a strip of bars and restaurants that keep running well into the evening.

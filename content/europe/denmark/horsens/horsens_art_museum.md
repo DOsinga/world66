@@ -6,6 +6,7 @@ tags:
 - museum
 title: Horsens Art Museum
 type: poi
+score: 6.9
 ---
 
 The Horsens Art Museum (Horsens Kunstmuseum) has an extensive collection of Danish art from the 19th century to the present, with a particular strength in works by regional Jutland artists. The permanent collection includes paintings by the Skagen painters and their contemporaries, as well as contemporary Danish art and international works.

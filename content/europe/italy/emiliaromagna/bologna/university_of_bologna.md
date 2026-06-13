@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - university_zone
+score: 8.7
 ---
 
 The Università di Bologna is the oldest continuously operating university in Europe and arguably the world, founded in 1088. The medieval city's centre of gravity still sits where the university expanded in the sixteenth century — around Via Zamboni and Piazza Verdi.

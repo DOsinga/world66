@@ -9,6 +9,7 @@ tags:
 title: Stone Mountain Park
 type: poi
 url: www.stonemountainpark.com
+score: 6.9
 ---
 
 A massive granite dome 16 miles east of downtown Atlanta, with a Confederate memorial carving on its face — the largest bas-relief sculpture in the world. The park around it has trails, a cable car to the summit, and a nightly laser show in summer. Worth half a day if you have the time.

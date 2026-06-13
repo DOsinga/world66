@@ -14,6 +14,7 @@ story: >
   frames Lake Tekapo and the mountains behind it — the "window to heaven"
   effect has made it one of the most photographed compositions in New Zealand.
   It is a fully functioning Anglican church that still holds regular services.
+score: 6.6
 ---
 
 **The Church of the Good Shepherd** stands on the lakeshore at Lake Tekapo, a small stone building that has become one of the most photographed landmarks in New Zealand. Built in 1935, it sits right at the water's edge with the turquoise lake and the snow-capped mountains beyond; the composition, particularly at dawn or dusk, is among the finest in the South Island. The interior is simple — whitewashed stone walls, wooden pews, a small altar — and the east-facing window behind the altar frames the lake as if the landscape were the altarpiece.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.8792
 longitude: 14.5207
+score: 6.8
 ---
 
 A monumental baroque gateway through the inner Margherita Lines, built in 1736 by Grand Master Manuel de Vilhena. The single arch is flanked by Corinthian pilasters and crowned by a sculpted trophy of arms and the Vilhena coat of arms.

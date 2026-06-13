@@ -11,6 +11,7 @@ story: >
   Albigensian Crusade and left to starve. The story is mostly myth, but the cave
   was certainly used as a hideout, a quarry, and at one point a clandestine
   Protestant chapel.
+score: 7.4
 ---
 
 Lombrives is one of the largest accessible caves in Europe, with kilometres of galleries cut through the limestone south of Tarascon. The tourist visit takes in vast chambers, columns and curtains of calcite, and a "cathedral" big enough to hold concerts. Longer adventure tours go deeper for those willing to scramble.

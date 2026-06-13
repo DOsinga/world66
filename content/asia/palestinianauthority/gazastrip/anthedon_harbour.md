@@ -13,6 +13,7 @@ tags:
   - sight
 title: Anthedon Harbour
 type: poi
+score: 7.6
 ---
 
 Anthedon, on the coast north of Gaza City, was the ancient seaport that served the city through Iron Age, Persian, Hellenistic, Roman, and Byzantine periods. Excavations on the dunes uncovered traces of a wide harbour basin, warehouses, public baths, a city wall, and a temple complex — though most of the site lies under sand or under modern construction. The harbour silted up in the early medieval period and was abandoned.

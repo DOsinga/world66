@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 6.032
 longitude: 80.2347
+score: 7.0
 ---
 
 Closenberg was built in the 1860s as the residence of Captain Francis Bayley, a P&O sea captain working out of Galle harbour. The mansion sits on a small peninsula east of the fort, hemmed in by sea on three sides and reached down a quiet lane lined with palms. After Bayley's death it passed through several hands before becoming the Closenberg Hotel in the early twentieth century.

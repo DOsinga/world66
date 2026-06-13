@@ -11,6 +11,7 @@ tags:
   - historic
 story: >
   Gazi Husrev-beg Mosque was the first mosque in the world to receive electric lighting — in 1898, when electrification was still new enough that it was considered a significant event worth noting in the historical record.
+score: 9.3
 ---
 
 The Gazi Husrev-beg Mosque (Begova džamija, "the Bey's Mosque") is the most important Ottoman building in Bosnia and Herzegovina, and one of the finest examples of Ottoman architecture in the Balkans. Built in 1531 by the Ottoman governor Gazi Husrev-beg — the same man who founded Baščaršija — it has been the spiritual centre of Sarajevo's Muslim community for nearly 500 years.

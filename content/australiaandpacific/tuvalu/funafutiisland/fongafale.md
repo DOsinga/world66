@@ -9,6 +9,7 @@ latitude: -8.5167
 longitude: 179.2
 story: >
   Fongafale is so narrow that in the worst of king tides the ocean and the lagoon meet across the road in places. Sea-level rise has made these inundations more frequent over the past two decades, and parts of the islet that were dry ground in the 1990s are now regularly underwater. Walk the road from end to end and you can feel the scale of the problem in a way no statistic conveys.
+score: 8.2
 ---
 
 Fongafale is the largest and only properly settled islet of Funafuti atoll. It is twelve kilometres long, in places only a couple of hundred metres wide, and the whole of life on the capital atoll happens along its single coral-and-tar road. The international airport runs the length of it; the government buildings, the bank, the hospital, the school, the wharf, and almost every house in the country sit either on the lagoon side or on the ocean side of that one strip.

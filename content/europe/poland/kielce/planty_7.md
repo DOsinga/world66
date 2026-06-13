@@ -9,6 +9,7 @@ tags:
 - memorial
 - history
 snippet: Site of the 1946 pogrom that hastened the end of Jewish Poland
+score: 6.3
 ---
 
 A modest plaque, a small monument, and a row of memorial stones outside an unremarkable building near the river mark the site of one of the darkest events in postwar Polish history. On 4 July 1946, in the building at Planty 7 that then sheltered Jewish survivors of the Holocaust returning to Kielce, a mob — fired up by a blood-libel rumour that a Polish boy had been kidnapped — attacked the residents. Forty-two Jews and two Polish bystanders were killed. It was the worst antisemitic violence in Europe after the war, and it triggered the mass departure of the surviving Jewish community of Poland over the following months.

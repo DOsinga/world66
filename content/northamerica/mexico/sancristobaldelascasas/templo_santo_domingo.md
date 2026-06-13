@@ -14,6 +14,7 @@ story: >
   you look closely you can find serpents and other pre-Christian symbols worked
   into the baroque ornamentation — a quiet act of indigenous syncretism that
   managed to survive the attention of the priests who commissioned the work.
+score: 8.7
 ---
 
 The Templo de Santo Domingo is the finest church in San Cristóbal and one of the most beautiful colonial churches in southern Mexico. Built by the Dominican order beginning in the late 1500s and expanded in the 17th and 18th centuries, it has an elaborate churrigueresque facade in rose-coloured stone that glows warmly in the afternoon light. The interior is even more impressive: richly gilded altars, carved wood pulpit, and a ceiling decorated with elaborate polychrome work.

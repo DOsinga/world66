@@ -8,6 +8,7 @@ tags:
   - sight
 title: Port of Cartagena
 type: poi
+score: 7.4
 ---
 
 The Port of Cartagena is not just scenery. It is the reason the city exists, a deep natural harbour guarded by hills and used for trade, naval power, fishing, and now cruise ships. Even a short waterfront walk makes Cartagena's geography obvious.

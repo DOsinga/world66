@@ -18,6 +18,7 @@ tags:
 - sight
 title: Trevi Fountain
 type: poi
+score: 7.9
 ---
 
 The largest and most theatrical Baroque fountain in Rome, completed in 1762 by Nicola Salvi and depicting Neptune on a shell chariot drawn by sea horses. Immortalised by Fellini in La Dolce Vita. Tradition holds that throwing a coin over your left shoulder with your right hand guarantees a return to Rome.

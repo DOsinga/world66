@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3900
 longitude: 119.5500
+score: 6.6
 ---
 
 Rizhao's self-designation as the Water Sports Capital of China is backed by genuine infrastructure: multiple beach zones along the city's coastline have been developed with equipment rental, instruction, and competition facilities for sailing, windsurfing, kitesurfing, and kayaking. The bay geometry and consistent summer southerly winds create conditions that are genuinely good for small-boat work, and the city has hosted national and international sailing events.

@@ -17,6 +17,7 @@ story: >
   murals, and year-round programming.
 sources:
   - https://en.wikipedia.org/wiki/Angoul%C3%AAme
+score: 9.2
 ---
 
 The Cité internationale de la bande dessinée et de l'image is the institutional heart of Angoulême's identity as the world capital of comics. Spread across several buildings in the lower town near the Charente, the complex includes a museum, a library with one of the largest comics collections in the world, a cinema, and exhibition spaces that show both historical and contemporary work.

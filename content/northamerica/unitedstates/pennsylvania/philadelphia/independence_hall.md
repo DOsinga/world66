@@ -12,6 +12,7 @@ tags:
 - story
 title: Independence Hall
 type: poi
+score: 9.7
 ---
 
 The red-brick Georgian building where the Declaration of Independence was adopted in 1776 and the US Constitution drafted in 1787. Tours are free but timed — pick up tickets at the Independence Visitor Center in the morning or book online. Security screening is thorough; allow extra time.

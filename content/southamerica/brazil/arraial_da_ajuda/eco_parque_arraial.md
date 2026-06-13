@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -16.4985
 longitude: -39.0610
+score: 5.4
 ---
 
 Eco Parque is a water park set in restored Atlantic Forest just inland from the beach road. It has the usual collection of slides and wave pools, but what sets it apart is the setting — the tallest slides drop from platforms built into the trees, and the lazy river winds past stands of native vegetation rather than concrete.

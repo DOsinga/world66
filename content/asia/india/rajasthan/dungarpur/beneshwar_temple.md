@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Each year at the new moon of Magh (late January or February) the Beneshwar Fair brings tens of thousands of Bhil tribal people to the confluence for ritual bathing, animal trade, and night-long folk performances. It is the largest tribal fair in Rajasthan and one of the few times of year the dirt road in becomes a traffic jam."
+score: 6.5
 ---
 
 The Beneshwar Dham sits on a small island at the confluence of the Som and Mahi rivers, about 70 km southeast of Dungarpur. The shrine to Shiva is modest in itself — a low stone temple with a self-formed lingam said to have appeared in the riverbed — but the site is considered the most sacred Bhil pilgrimage in India.

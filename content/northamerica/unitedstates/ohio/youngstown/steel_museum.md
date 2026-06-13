@@ -13,6 +13,7 @@ story: >
   catastrophe: churches emptied, schools closed, crime rose, and a generation of skilled workers
   found their expertise suddenly worthless. The steel museum was built to make sure the story was not
   forgotten.
+score: 8.0
 ---
 
 The Youngstown Historical Center of Industry and Labor — everyone in town calls it the "steel museum" — is one of the more honest industrial history museums in the United States. Designed by Michael Graves and opened in 1992, it tells the story of the steel industry that built Youngstown and the deindustrialisation that destroyed it, without prettifying either chapter.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: Place des Héros
 type: poi
+score: 8.4
 ---
 
 The smaller and more intimate of Arras's two main squares, dominated by the Gothic belfry of the Hôtel de Ville. The belfry — a UNESCO World Heritage Site — can be climbed for views across the city and the flat plain beyond. At street level, the square has a lively Saturday market and a handful of good cafes tucked into the arcades.

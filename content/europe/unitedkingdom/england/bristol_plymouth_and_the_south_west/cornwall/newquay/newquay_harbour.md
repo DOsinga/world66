@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4181
 longitude: -5.0880
+score: 7.3
 ---
 
 Newquay Harbour is the small working fishing harbour at the foot of the cliffs below the town centre, with stone quays built by the Victorian mining tycoon Richard Lomax. A handful of crab boats still land their catch each morning, and the harbour pub serves it for lunch a couple of hours later.

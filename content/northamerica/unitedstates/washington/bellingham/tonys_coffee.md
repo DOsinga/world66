@@ -8,6 +8,7 @@ tags:
 neighbourhood: Downtown Bellingham
 latitude: 48.7490
 longitude: -122.4810
+score: 6.8
 ---
 
 Tony's Coffee has been roasting in Bellingham since 1971, making it one of the oldest specialty coffee roasters in the Pacific Northwest. The company supplies beans to dozens of local cafes and restaurants, but the flagship café on West Holly Street is the place to try the coffee at its source: espresso drinks made with freshly roasted beans, a relaxed atmosphere, and none of the corporate coffee chain trappings.

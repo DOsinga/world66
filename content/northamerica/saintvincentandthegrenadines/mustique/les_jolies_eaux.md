@@ -13,6 +13,7 @@ story: >
   Caribbean retreat. She spent several weeks here every January for decades
   until her health failed — hosting parties that became legend even by
   Mustique standards.
+score: 7.3
 ---
 
 Les Jolies Eaux — "The Beautiful Waters" — sits on a headland at the southern tip of Mustique with views that justify both the name and the journey. The villa was built for Princess Margaret following Colin Tennant's gift of a plot of land as a wedding present in 1960. What went up on that headland was a five-bedroom house in a vaguely Moorish style, surrounded by terraces cut into the hillside above the water.

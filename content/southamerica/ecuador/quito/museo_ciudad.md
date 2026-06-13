@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: -0.2231
 longitude: -78.515
+score: 8.6
 ---
 
 The City Museum (Museo de la Ciudad) occupies the former Hospital Real de San Juan de Dios, the oldest hospital in Quito — a colonial building that treated patients from its founding in 1565 until the 1970s. The building itself is remarkable: a series of interconnected colonial courtyards with elaborate stone carvings and wooden ceilings that have survived five centuries of continuous use.

@@ -8,6 +8,7 @@ tags:
   - shopping
   - downtown
 story: "Ernest Tubb opened the original Broadway shop in 1947 specifically so that the Grand Ole Opry audience could buy records of the songs they'd just heard — at a time when the major labels' chain stores were closed by the time the show let out. The legendary **Midnite Jamboree**, a country-music live show broadcast from the shop after the Opry, ran weekly for over 70 years until 2021."
+score: 7.3
 ---
 
 The Ernest Tubb Record Shop on Lower Broadway has been selling country and vintage records since 1947 — the oldest continuously operating record store in Nashville. The shop's wooden floors, hanging marquee, and back-corner radio stage are unchanged from their early-Opry days; the inventory has shrunk from its peak but the bins still hold a deep selection of vintage and contemporary country LPs, 45s, and CDs.

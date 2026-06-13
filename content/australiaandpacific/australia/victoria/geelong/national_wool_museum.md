@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 8.5
 ---
 
 Australia rode to wealth on the sheep's back, and Geelong was for decades the centre of the country's wool trade. The National Wool Museum, in a magnificent three-storey bluestone warehouse built in 1872, tells the whole story: from sheep stations in the western district through the auction floor and the rail journey to the port.

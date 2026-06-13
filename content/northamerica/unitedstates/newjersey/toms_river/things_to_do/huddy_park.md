@@ -9,6 +9,7 @@ longitude: -74.19774
 sources:
   - https://en.wikipedia.org/wiki/Huddy_Park
 story: "Captain Joshua Huddy was captured by Loyalists in 1782 and hanged without trial — an extrajudicial killing that outraged General Washington and nearly derailed the peace negotiations ending the Revolutionary War. Huddy's death prompted Washington to threaten reprisals against British prisoners."
+score: 5.0
 ---
 
 Huddy Park sits on the edge of the Toms River at the bottom of Water Street, a small waterfront green dedicated to Captain Joshua Huddy, one of the most dramatic figures in Ocean County's Revolutionary War history. Huddy was a local militia captain who successfully defended the town's salt works against British raids before being captured and executed by Loyalist forces — an act that became a national scandal in 1782.

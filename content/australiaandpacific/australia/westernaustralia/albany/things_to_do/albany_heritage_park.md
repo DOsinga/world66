@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://www.amazingalbany.com/albany-heritage-park
+score: 7.9
 ---
 
 The park on Stirling Terrace groups several heritage attractions around the original colonial precinct. The Albany Residency Museum occupies the old Resident Magistrate's building and covers the region's maritime past, natural history, and Aboriginal culture. The Old Gaol next door is a convincing piece of colonial austerity — stone walls, cramped cells, and a history of transported convicts. A combined ticket covers both the gaol and the Patrick Taylor Cottage on Duke Street, believed to be the oldest surviving dwelling in Western Australia, built around 1832.

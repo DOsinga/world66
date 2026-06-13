@@ -13,6 +13,7 @@ tags:
   - landmark
 title: Shwesandaw Pagoda
 type: poi
+score: 7.8
 ---
 
 The Shwesandaw is the most-visited sunset spot in Bagan, and on most evenings you will find a crowd of photographers on its steep cylindrical terraces waiting for the light to change. The five-tiered pagoda, built by King Anawrahta in 1057 to celebrate his conquest of Thaton, stands near the centre of the old city and commands a 360-degree view over the surrounding temples and the Ayeyarwady beyond.

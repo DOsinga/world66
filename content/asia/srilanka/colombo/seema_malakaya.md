@@ -7,6 +7,7 @@ tags:
   - sight
 title: Seema Malakaya Meditation Centre
 type: poi
+score: 8.1
 ---
 
 The Seema Malakaya is a small Buddhist meditation centre on an island in Beira Lake, reached by a causeway from the Gangaramaya Temple complex. Designed by Geoffrey Bawa — Sri Lanka's most celebrated architect — and completed in 1985, it is one of his finest works: a series of low platforms and pavilions that seem to float on the water, built in traditional Sri Lankan architectural forms but with a distinctly modern spatial sensibility.

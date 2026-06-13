@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.4070
 longitude: 116.5870
+score: 7.8
 ---
 
 Jining's Confucius Temple is one of the larger Confucian temples outside Qufu, dating from the Yuan Dynasty with significant additions in the Ming and Qing periods. The complex covers several hectares with the standard arrangement of ceremonial gates, courtyards, and the main Dacheng Hall, where portraits and tablets of Confucius and his disciples are enshrined.

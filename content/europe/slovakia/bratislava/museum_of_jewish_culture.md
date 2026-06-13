@@ -5,6 +5,7 @@ tags: [things_to_do, museum, historic, stare_mesto]
 latitude: 48.1419
 longitude: 17.1010
 story: The museum is housed in the Baroque Zsigray mansion inside Bratislava Castle — an intentional placement, since the Jewish quarter that once stood at the foot of the castle hill was demolished in the 1960s to make way for the SNP bridge approach road. The museum stands where the community no longer can.
+score: 7.7
 ---
 
 The Museum of Jewish Culture is one of the most thoughtful and well-curated museums in Slovakia. Housed in Bratislava Castle, it documents the history of Jewish life in Slovakia from the early medieval period through to the Holocaust and its aftermath. Slovakia's Jewish community was one of the most vibrant in Central Europe before the Second World War; the museum tells that story honestly.

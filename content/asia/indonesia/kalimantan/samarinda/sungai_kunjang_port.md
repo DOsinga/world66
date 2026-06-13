@@ -8,6 +8,7 @@ latitude: -0.5013
 longitude: 117.0970
 sources:
   - https://en.wikipedia.org/wiki/Samarinda
+score: 6.6
 ---
 
 Sungai Kunjang is the main passenger port for the Mahakam River, the departure point for all long-distance river journeys into the interior of East Kalimantan. From here, boats leave for Tenggarong, Kota Bangun, Melak, Tering, Long Iram, and the far upper reaches of the Mahakam near the border with Kalimantan Utara.

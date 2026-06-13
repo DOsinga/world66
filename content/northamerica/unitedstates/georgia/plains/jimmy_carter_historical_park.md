@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   When Carter returned to Plains after his 1981 defeat, the federal government wanted to acquire his home and turn it into a museum. He refused, on the grounds that he was still living in it. The park was eventually designated in 1987 around the buildings he would allow — the school, the depot, the boyhood farm — and the house was added only after his and Rosalynn's deaths.
+score: 9.2
 ---
 
 The National Park Service unit covers several sites in and around Plains. The main visitor centre is in the former Plains High School and runs short orientation films, has the largest exhibit on the Carter presidency, and is the starting point for self-guided walking tours of the town. Admission is free.

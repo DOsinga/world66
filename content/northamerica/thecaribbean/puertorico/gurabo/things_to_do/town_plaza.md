@@ -3,6 +3,7 @@ title: "Town Plaza"
 type: poi
 latitude: 18.254
 longitude: -65.972
+score: 7.0
 ---
 
 The Parroquia San José, Gurabo's Spanish colonial Catholic church, anchors one side of the central plaza — white-painted, with the solid, slightly weathered look of a building that has been the centre of town life for generations. The plaza itself is shaded by mature trees, with benches that fill up on weekend afternoons when local families come out after lunch.

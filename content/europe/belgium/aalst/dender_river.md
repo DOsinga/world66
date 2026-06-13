@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dender River
 type: poi
+score: 5.7
 ---
 
 The Dender flows through Aalst from south to north on its way to join the Scheldt at Dendermonde. The river is canalised through the town centre, with quays on both banks just south and west of the Grote Markt.

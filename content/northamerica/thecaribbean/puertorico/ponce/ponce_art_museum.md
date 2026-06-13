@@ -8,6 +8,7 @@ title: Ponce Art Museum
 type: poi
 story: >
   The museum was the vision of Luis A. Ferré, an industrialist and future governor of Puerto Rico, who wanted to give the island a world-class art collection. He hired Edward Durell Stone — the architect behind the Museum of Modern Art in New York — to design the building, and spent decades personally acquiring works from European auctions. The result is a collection that holds its own against major North American museums, anchored by a Baroque European gallery that includes works by Velázquez and Rubens, and a Pre-Raphaelite collection that is among the finest outside Britain.
+score: 9.4
 ---
 
 The Museo de Arte de Ponce is one of the finest art museums in the Caribbean, housed in a striking hexagonal building designed by Edward Durell Stone and opened in 1965. The permanent collection spans five centuries, from sixteenth-century European Old Masters to twentieth-century Puerto Rican painting, and is particularly strong in Baroque and Pre-Raphaelite work. The Flaming June by Lord Leighton, perhaps the most reproduced painting in the collection, is here — an almost impossibly vibrant image that justifies the journey on its own.

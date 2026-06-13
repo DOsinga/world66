@@ -8,6 +8,7 @@ tags:
 title: Sanahin Monastery
 type: poi
 story: "The monastery's library, built in 1063, is one of the earliest known purpose-built library buildings in the world. The monks of Sanahin were famous copyists of manuscripts, and the academy here trained a generation of Armenian scholars during the medieval period."
+score: 9.4
 ---
 
 The monastery of Sanahin is a walled complex of stone churches, chapels, and auxiliary buildings that grew between the 10th and 13th centuries. The main Church of the Redeemer dates from 966 AD and stands alongside the smaller Church of the Mother of God, built a few decades later. Between them, the gavit (narthex) added in the 12th century is an architectural masterpiece — a large covered hall supported by intersecting arches, designed to let in light while keeping out rain and snow.

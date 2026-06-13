@@ -6,6 +6,7 @@ longitude: 0.2390
 tags:
   - things_to_do
   - winery
+score: 6.8
 ---
 
 Couly-Dutheil is the largest of the long-established Chinon producers, run by the same family since 1921 and based in cellars cut into the tufa hill below the fortress. They farm vineyards across the appellation and are widely sold abroad — likely the Chinon you have already drunk if you have drunk Chinon outside France.

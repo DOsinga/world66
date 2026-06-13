@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
 url: "www.sbaacs.com"
+score: 6.7
 ---
 
 The Santa Barbara Arts and Crafts Show runs every Sunday along Cabrillo Boulevard between Stearns Wharf and Calle Cesar Chavez. Founded in 1965, it is one of the oldest open-air artist markets in the United States and only Santa Barbara County artists may exhibit — so the work is genuinely local: oil paintings, ceramics, jewellery, hand-carved kitchenware, prints.

@@ -9,6 +9,7 @@ latitude: 35.2044
 longitude: -85.9200
 sources:
   - https://en.wikipedia.org/wiki/Cordell%E2%80%93Lorenz_Observatory
+score: 7.1
 ---
 
 A working astronomical observatory owned and operated by the University of the South, sitting at around 2,000 feet on the Cumberland Plateau. The high elevation and low light pollution — the plateau is genuinely dark by American standards — make it a productive site for amateur and student astronomy.

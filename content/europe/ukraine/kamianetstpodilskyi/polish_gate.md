@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Polish Gate (Polska brama) is one of the surviving city gates of Kamianets-Podilskyi's medieval fortification system — the main gate on the north side of the old town connecting the island to the "New Town" across the canyon. The current structure is largely a 16th-century reconstruction of an earlier gate, with a tower that formed part of the defensive wall system protecting the approaches to the old town.

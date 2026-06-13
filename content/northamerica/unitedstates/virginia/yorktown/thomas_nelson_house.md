@@ -7,6 +7,7 @@ tags:
   - historic_house
 title: Thomas Nelson House
 type: poi
+score: 7.3
 ---
 
 The Thomas Nelson House belonged to one of Virginia's signers of the Declaration of Independence and later governor of the state. Its brick walls and formal Georgian lines give Main Street one of its strongest colonial anchors.

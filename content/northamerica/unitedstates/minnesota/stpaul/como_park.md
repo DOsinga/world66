@@ -9,6 +9,7 @@ longitude: -93.1488
 story: >
   The Marjorie McNeely Conservatory at Como Park is home to a Titan Arum — the corpse flower — that blooms unpredictably, for only a day or two at a time, emitting a smell of rotting flesh powerful enough to clear a room.
   When a bloom is announced, hundreds of people queue to experience it, making it one of the stranger public nature events in the American Midwest.
+score: 8.2
 ---
 
 Como Park is St. Paul's main green space, a large public park with a free zoo, a Victorian glass conservatory, paddle boats on a lake, and extensive gardens. The Marjorie McNeely Conservatory, opened in 1915, is a fine example of its era — a tall glass dome sheltering palms and tropical plants, surrounded by seasonal displays. Entry to the conservatory is free (donations requested).

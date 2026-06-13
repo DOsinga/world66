@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.4154
 longitude: 16.1626
+score: 5.6
 ---
 
 The small regional museum is housed in a Renaissance burgher house on Masaryk Square. The permanent exhibitions cover the geology and natural history of the Náchod region, the medieval and early-modern history of the town, and a collection on the writer Josef Škvorecký, who grew up here and turned Náchod (lightly disguised as "Kostelec") into the setting of his best-known novels.

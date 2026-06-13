@@ -8,6 +8,7 @@ latitude: 36.8623
 longitude: -5.1812
 story: >
   The street's name — Street of the Caves of the Sun — is a slight misnomer. The rock overhang on this side faces south, which means the buildings do catch winter sun but the overhanging rock keeps them in deep shade through the hottest part of summer days. The Moors understood passive cooling long before the term existed.
+score: 8.8
 ---
 
 Calle Cuevas del Sol is the more open of Setenil's two famous cave streets, running along the south-facing bank of the Trejo gorge. Here the natural rock ledge juts out above a row of whitewashed houses and bars, creating a continuous stone canopy that shelters the street below. The effect is somewhere between a cave and an ordinary lane, and it takes a moment to register that the ceiling is solid bedrock.

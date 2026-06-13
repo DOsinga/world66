@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, neighbourhood, sight]
 latitude: 51.5579
 longitude: 4.7698
+score: 7.0
 ---
 
 Ginneken is the old village that Breda has absorbed as a southern suburb, but the centre around the Ginnekenmarkt still feels distinct from the city. The triangular market square is lined with independent cafes, restaurants, and specialist food shops that serve a local clientele rather than passing tourists.

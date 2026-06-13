@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wildbase Recovery
 type: poi
+score: 7.0
 ---
 
 Wildbase Recovery, opened in 2018, is the public-facing arm of Massey University's wildlife veterinary hospital — one of the largest of its kind in the southern hemisphere. The centre sits within the Victoria Esplanade and rehabilitates sick and injured native birds, mostly delivered by the Department of Conservation, before releasing them back to their home territories.

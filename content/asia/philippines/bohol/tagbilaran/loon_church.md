@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.7945
 longitude: 123.8130
+score: 7.9
 ---
 
 The Church of Saint Catherine of Alexandria in Loon, built in 1753, is one of the most striking Baroque churches in the Philippines. Its bell tower is unusually large and separated from the main church building, giving the complex a distinct silhouette against the sky. The church faces a broad plaza that is still the social centre of the town.

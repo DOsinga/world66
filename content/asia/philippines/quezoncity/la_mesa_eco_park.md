@@ -8,6 +8,7 @@ tags:
 latitude: 14.7232
 longitude: 121.1108
 snippet: Forest reserve and lake at the northern edge of QC
+score: 7.3
 ---
 
 La Mesa Eco Park sits at the northern edge of Quezon City beside the La Mesa Dam, which provides much of Metro Manila's water supply. The park covers a significant tract of second-growth forest that has been protected for decades, and contains a small lake where visitors can rent paddle boats, swimming pools, picnic areas, and a nature trail through the secondary forest.

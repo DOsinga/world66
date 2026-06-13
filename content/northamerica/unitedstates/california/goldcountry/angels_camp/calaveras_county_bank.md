@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.0697
 longitude: -120.5394
+score: 6.6
 ---
 
 The historic Calaveras County Bank building on Main Street is one of the better-preserved Gold Rush commercial buildings on the street. Built in the 1850s of locally quarried stone, it represents the transition from the rough-and-ready early mining camp to a more permanent commercial settlement. The thick stone walls that characterise these buildings were partly practical — stone was fireproof in a town that had burned down and been rebuilt several times.

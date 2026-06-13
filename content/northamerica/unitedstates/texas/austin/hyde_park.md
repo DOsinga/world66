@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.3049
 longitude: -97.7353
+score: 7.4
 ---
 
 Hyde Park is Austin's first planned suburb, developed in the 1890s on a grid of wide, tree-canopied streets north of the UT campus. It is now the most intact Victorian and early 20th-century residential neighbourhood in Austin — a quiet, walkable district of craftsman bungalows, Colonial Revivals, and the occasional Queen Anne, most of them well-maintained and still residential.

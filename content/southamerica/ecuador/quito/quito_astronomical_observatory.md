@@ -14,6 +14,7 @@ story: >
   Moreno, the president who also drove the construction of the Basílica del
   Voto Nacional — an unusual combination of progressive scientific
   investment and extreme Catholic conservatism in one man.
+score: 7.8
 ---
 
 The Quito Astronomical Observatory sits in La Alameda Park, just north of the Historic Centre, in a Victorian building that has housed telescopes and weather instruments since 1873. The observatory is still operational — it carries out geodesic and meteorological measurements and hosts the main seismic monitoring station for the Quito region — but it is also open to visitors.

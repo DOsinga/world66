@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: Medieval round-castle town and organic-farming pioneer
 story: "In the 1990s, Varese Ligure became the first municipality in Europe to be awarded ISO 14001 environmental certification. Almost the entire valley around it has since converted to organic agriculture — a slow revolution started by a handful of farmers and the local mayor against the long-term decline of the Apennine interior."
+score: 8.4
 ---
 
 The most striking village in the valley sits at its head, where the Vara is still a narrow stream and the road climbs toward the passes into Emilia. The Borgo Rotondo — the "round borough" — is exactly what it sounds like: a ring of pastel houses built up against the curtain wall of the 15th-century Fieschi castle, forming an almost perfectly circular street. You can walk it in five minutes and immediately want to walk it again.

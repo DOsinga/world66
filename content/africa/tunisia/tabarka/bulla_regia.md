@@ -11,6 +11,7 @@ longitude: 8.7558
 snippet: Roman city famous for its underground villas, 70km south of Tabarka
 story: >
   To escape the brutal North African summer, wealthy Romans at Bulla Regia built entire floors of their villas underground, complete with elaborate mosaic floors and colonnaded courtyards. The technique worked so well that some underground rooms are up to 10 degrees cooler than the surface.
+score: 9.0
 ---
 
 One of the most unusual Roman sites in Tunisia, Bulla Regia lies about 70 kilometres south of Tabarka and is well worth the drive. What makes it extraordinary is that the wealthy inhabitants built their houses downwards — the upper floors were conventional, but below ground they created spacious, well-lit rooms to escape the summer heat.

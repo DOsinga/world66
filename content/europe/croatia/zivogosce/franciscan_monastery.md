@@ -13,6 +13,7 @@ story: >
   has been considered sacred since at least the second century AD. The Franciscans
   rebuilt the church above earlier remains; the cult of the springs simply changed
   name and continued.
+score: 7.0
 ---
 
 The Franciscan monastery sits in the village of Živogošće-Blato in the hills above the beach, founded in the 17th century when the Franciscans took refuge from the Ottoman advance on the mainland. The complex includes a simple stone church, a cloister, and a small but well-presented lapidary collection of Roman and medieval inscriptions from the area.

@@ -8,6 +8,7 @@ latitude: 40.7045
 longitude: 19.9554
 sources:
   - https://en.wikipedia.org/wiki/Lead_Mosque,_Berat
+score: 6.8
 ---
 
 The Lead Mosque takes its name from the lead-covered dome that sits above the central prayer hall — a design more common in Ottoman architecture to the east. It was built in the 16th century and is the most architecturally interesting of the several mosques in the Mangalem quarter. The single-room structure with its slim minaret stands in a small courtyard below the slope leading up toward the castle.

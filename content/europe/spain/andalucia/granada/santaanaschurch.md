@@ -10,6 +10,7 @@ tags:
 - albaicin
 title: Iglesia de Santa Ana
 type: poi
+score: 7.5
 ---
 
 This graceful Renaissance church stands at the foot of the Albaicín, overlooking Plaza Nueva. Designed by Diego de Siloé in the 1530s — the same architect behind Granada's cathedral — it blends a classical portico with a brick bell tower decorated with ceramic tiles that nod to the city's Moorish past. The interior is a single nave with a fine Mudéjar-style coffered ceiling.

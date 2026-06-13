@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Palacio de Aguirre
 type: poi
+score: 7.5
 ---
 
 The Palacio de Aguirre is one of Cartagena's finest modernist buildings, a reminder that the city boomed again in the late 19th and early 20th centuries on mining wealth and port trade. Its facade is colourful, confident, and more playful than the older stone around it.

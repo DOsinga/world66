@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
   - sight
+score: 8.2
 ---
 
 Ta'if's old souq is the most rewarding traditional market in the western half of the country. It runs through several covered lanes in the centre of the old town, with stalls selling silver jewellery, honey, rose products, traditional perfumes, dates, and the prized Sidr honey from Ta'if's beekeepers.

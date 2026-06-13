@@ -14,6 +14,7 @@ story: >
   Nagar Haveli kept the tradition alive through centuries of Portuguese rule,
   and it experienced a national revival after 1954 when the territory became
   part of India.
+score: 7.6
 ---
 
 The Tribal Cultural Museum is the best introduction to the indigenous communities who have always defined Dadra and Nagar Haveli. The Warli, Kokna, and Koli tribes make up a large portion of the territory's population, and this museum documents their way of life through life-size dioramas, hand-carved wooden masks, hunting tools, fishing equipment, traditional ornaments, and Warli paintings.

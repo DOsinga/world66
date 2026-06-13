@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Whistle Stop Pub
 type: poi
+score: 5.0
 ---
 
 A neighbourhood pub inside the Whistlers Inn with a fireplace, ten ales on tap, darts, and a pool table. Occasional live entertainment. 105 Miette Avenue.

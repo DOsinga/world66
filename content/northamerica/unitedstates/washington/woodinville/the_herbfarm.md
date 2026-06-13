@@ -8,6 +8,7 @@ latitude: 47.7331
 longitude: -122.1472
 sources:
   - https://en.wikipedia.org/wiki/The_Herbfarm
+score: 8.0
 ---
 
 The Herbfarm is one of the most acclaimed restaurants in the Pacific Northwest — a nine-course dinner experience built entirely around seasonal, locally grown ingredients, with wines paired to each course. Founded in 1986, it helped establish the Pacific Northwest as a serious food destination long before farm-to-table became a cliche.

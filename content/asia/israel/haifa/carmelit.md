@@ -5,6 +5,7 @@ latitude: 32.819
 longitude: 34.993
 tags: [things_to_do, sight, transport]
 story: Israel's only underground railway and one of the world's smallest, built in the 1950s as a funicular to climb the steep grade of Mount Carmel. Six stations, two trains, a single tunnel — the whole line is shorter than two kilometres and rises more than 270 metres.
+score: 7.2
 ---
 
 A miniature subway that climbs the slope of Mount Carmel from Paris Square in the lower city to Gan HaEm at the top, with four stops in between. The trains run on a funicular system — cabins on a steep incline, pulled by a cable — and the carriages tilt sideways to match the gradient.

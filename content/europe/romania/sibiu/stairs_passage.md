@@ -13,6 +13,7 @@ story: >
   levels of the fortification without being visible from outside. The passage
   appears in medieval records as a route used by night watchmen, tax collectors,
   and — more than once — by people sneaking in and out of the city after curfew.
+score: 7.6
 ---
 
 The Stairs Passage (Pasajul Scarilor) is one of Sibiu's most distinctive pieces of medieval urban fabric — a covered stone stairway that cuts down through the retaining wall between the Upper Town and the Lower Town, its roofline of red tiles visible from Piata Mica above. It dates to the 13th century and is remarkably intact.

@@ -14,6 +14,7 @@ story: >
   separate subspecies in 2005. Changqing is one of the key protected areas for
   this subspecies, and wild panda sightings, while never guaranteed, are more
   realistic here than at most protected areas in China.
+score: 7.2
 ---
 
 Changqing National Nature Reserve occupies a large stretch of forested mountain terrain in the Qinling range, about 30 minutes by road from Huayang village. It was established partly to protect the rare Qinling giant panda — a subspecies found only in these mountains — along with golden snub-nosed monkeys, golden takin (a large bovid with a golden coat), and the crested ibis, one of China's most endangered birds.

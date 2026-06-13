@@ -8,6 +8,7 @@ snippet: Three iconic limestone sea stacks rising from the water off Capri's sou
 latitude: 40.5445
 longitude: 14.2411
 story: "The middle Faraglione — called Faraglione di Mezzo — has a natural arch through which boats can pass. The blue lizard (Lacerta caerulea) found only on the outermost Faraglione di Fuori evolved its distinctive colouring in isolation; it cannot be found anywhere else on earth."
+score: 8.5
 ---
 
 The Faraglioni are three limestone sea stacks that rise from the water off the southern coast of Capri. They appear on every postcard, in every shot from the Gardens of Augustus, and from the water they are even more impressive — up to 109 metres tall, their vertical walls weathered into caves and arches by millennia of waves.

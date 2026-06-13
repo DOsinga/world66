@@ -9,6 +9,7 @@ tags:
 - archaeological_site
 title: Tavole Palatine
 type: poi
+score: 8.6
 ---
 
 About 3 km north of Metaponto, on the road towards Bernalda, an unsigned turning leads to one of the most striking Greek monuments in Italy. The Tavole Palatine are the surviving columns of a hexastyle peripteral temple of Hera, built around 530 BC and standing on the same spot ever since.

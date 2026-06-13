@@ -3,6 +3,7 @@ title: Musée Renoir (Les Collettes)
 type: poi
 latitude: 43.6585
 longitude: 7.1538
+score: 8.5
 ---
 
 Les Collettes is the house and studio where Renoir spent his final twelve years, from 1907 until his death in 1919. By the time he moved here he was already severely crippled by rheumatoid arthritis; he would eventually paint with brushes tied to his wrists. He kept working until almost the end.

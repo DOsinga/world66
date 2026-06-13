@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Mud volcano in the hinterland — climb in for a dense, mineral-rich bath"
+score: 6.2
 ---
 
 A short drive south of Rincón, near San Antero, there is a small mud volcano — a conical hill about ten metres high with a crater that bubbles up a thick, grey, mineral-rich slurry. You climb a wooden ladder up the outside, drop into the bath, and float on your back in mud so dense you cannot sink. Locals smear themselves head to toe. There is a freshwater wash-off at the base of the cone, run by the women's cooperative that maintains the site.

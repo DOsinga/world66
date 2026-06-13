@@ -8,6 +8,7 @@ latitude: 37.0875
 longitude: -8.4258
 story: >
   The cave was largely unknown outside the Algarve until a single photograph went viral in 2012. Within a few years it had become one of the most photographed locations in Portugal. The irony is that the interior — a cathedral-like dome with a circular skylight and its own small beach — genuinely deserves the attention.
+score: 9.1
 ---
 
 The Benagil cave is one of the most remarkable geological features on the Algarve coast. A collapsed sea cave has created a vast domed chamber with a circular opening in the ceiling, through which sunlight falls directly onto a small sandy beach inside the cave. The effect is extraordinary — part grotto, part natural cathedral.

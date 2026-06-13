@@ -8,6 +8,7 @@ latitude: 18.4045
 longitude: 78.5521
 story: >
   The temple is associated with a specific vow: couples who have been unable to have children come here to pray for forty consecutive days, sleeping on the temple premises and eating only vegetarian food. The practice, called Deeksha, draws pilgrims from across Telangana and Andhra Pradesh, and on busy festival days the hilltop is crowded with families who have made the journey in fulfillment of a completed vow as much as in hope of one.
+score: 7.0
 ---
 
 Kondagattu Anjaneya Swamy Temple sits on a forested hilltop about 35 kilometres from Karimnagar, near Muthyumpeta village in what is now Jagitial district. The temple is dedicated to Lord Anjaneya (Hanuman) and is one of the most important pilgrimage sites in northern Telangana, drawing tens of thousands of devotees, particularly during festivals and on Saturdays — Hanuman's auspicious day.

@@ -11,6 +11,7 @@ story: >
   The grotto was carved by soldiers of the Tsar's army in 1829 as a cool retreat from the Caucasian summer heat. It was named after the Roman goddess of the hunt and the moon. Lermontov used it as a meeting place, and it appears in "A Hero of Our Time." On the night before his duel, he reportedly sat here for the last time with friends, knowing what was coming.
 sources:
   - https://en.wikipedia.org/wiki/Diana_Grotto
+score: 6.3
 ---
 
 The Diana Grotto is an artificial cave hewn from the Mashuk hillside in 1829, originally as a rest spot for aristocratic visitors taking the waters. It sits in the parkland zone between the city centre and the lower cable car station, on the main walking route through Pyatigorsk's green spaces.

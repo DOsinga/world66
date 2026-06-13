@@ -15,6 +15,7 @@ story: >
   regional tradition. The main dome is 43 metres high and covers a prayer hall
   that can accommodate 5,000 worshippers. On Eid al-Fitr, over 10,000 people
   pray in and around the mosque simultaneously.
+score: 8.0
 ---
 
 The Grand Mosque is the largest mosque in Kuwait, a handsome building in central Kuwait City that offers free guided tours for non-Muslim visitors except during prayer times. The tours, typically led by knowledgeable English-speaking guides, cover Islamic prayer practice, the architectural significance of the mosque's design, and Kuwait's relationship with Islam.

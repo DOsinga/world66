@@ -15,6 +15,7 @@ tags:
   - sight
 title: Sargan Eight Railway
 type: poi
+score: 8.6
 ---
 
 The Sargan Eight is a narrow-gauge heritage railway that climbs through the hills above Mokra Gora in a spectacular series of loops and spirals. The journey covers about 15 km of track but gains 300 metres in altitude through engineering that amounts to a tourist attraction in its own right. The steam locomotive hauls open carriages through forests and over viaducts, with views across the valleys towards Bosnia.

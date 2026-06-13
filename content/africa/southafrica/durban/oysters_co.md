@@ -11,6 +11,7 @@ latitude: -29.7282
 longitude: 31.0883
 address: "2 Lighthouse Road, Umhlanga"
 url: "https://www.oysterboxhotel.com"
+score: 7.1
 ---
 
 The Oyster Box is the grande dame of Umhlanga — a 1947 colonial hotel next to the lighthouse, with sea-facing terraces, polished service and a famously good curry buffet. The dining room serves a 12-curry buffet at lunch and dinner that has been a local institution for decades, drawing equal numbers of hotel guests and Durbanites making the drive up.

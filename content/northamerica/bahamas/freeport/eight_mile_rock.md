@@ -11,6 +11,7 @@ story: >
   Eight Mile Rock is one of the oldest communities on Grand Bahama, predating Freeport by generations. Its residents are descendants of the original Bahamian settlers and later freed slaves who farmed and fished the western end of the island long before Wallace Groves arrived with his free-trade zone concept. The community has maintained a distinct identity despite being gradually absorbed into greater Freeport.
 sources:
   - https://en.wikipedia.org/wiki/Eight_Mile_Rock
+score: 6.8
 ---
 
 Eight Mile Rock, about 13 kilometres west of central Freeport, is where Grand Bahama feels most genuinely Bahamian. The community has wooden houses, a working fishing harbour, and churches that serve as the social backbone of the neighbourhood — a contrast to the planned resort development that defines most of the island.

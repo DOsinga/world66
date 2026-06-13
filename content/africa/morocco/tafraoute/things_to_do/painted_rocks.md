@@ -1,6 +1,7 @@
 ---
 title: "Les Rochers Peints"
 type: poi
+score: 7.8
 ---
 
 A few kilometres south of Tafraoute, Belgian artist Jean Vérame spray-painted a collection of granite boulders in vivid blues, reds, and purples in 1984, with the permission of the Moroccan government. The result — known as Les Rochers Peints (the Painted Rocks) — is bizarre and strangely compelling: enormous boulders daubed in bright colour amid an otherwise ochre and pink landscape.

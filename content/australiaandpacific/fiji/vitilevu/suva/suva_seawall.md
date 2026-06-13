@@ -8,6 +8,7 @@ tags:
   - sight
   - nasese
 neighbourhood: Nasese
+score: 7.6
 ---
 
 The long curving seawall along Queen Elizabeth Drive between the Grand Pacific Hotel and the suburb of Nasese is where the city goes at dusk. Families picnic on the grass strip behind it, joggers run the length, school rugby teams train on the verges, and on cloudless evenings the sky over the harbour turns spectacular shades of pink.

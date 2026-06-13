@@ -1,6 +1,7 @@
 ---
 title: "The Braid"
 type: poi
+score: 6.3
 ---
 
 The Braid is Ballymena's combined arts centre and museum, housed in the refurbished town hall on Castle Street in the town centre. The museum side holds a permanent collection of local history — archaeology, social history, items relating to the linen industry that once drove the economy of mid-Antrim — alongside a programme of temporary exhibitions. It's a modest but well-presented local museum rather than a major attraction, and an hour is enough to take in the permanent collection.

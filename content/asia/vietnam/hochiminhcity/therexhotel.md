@@ -11,6 +11,7 @@ longitude: 106.7015
 snippet: "Iconic colonial-era hotel on Nguyen Hue Boulevard, billet of US military officers during the Vietnam War"
 sources:
   - https://en.wikipedia.org/wiki/Rex_Hotel
+score: 7.0
 ---
 
 The Rex Hotel on Nguyen Hue Boulevard is one of the most historically resonant hotels in Southeast Asia. During the American War, it served as a billet for senior US military officers and as the site of the daily military press briefings that journalists nicknamed "the Five O'Clock Follies" — a term that entered the English language as shorthand for official optimism detached from reality on the ground.

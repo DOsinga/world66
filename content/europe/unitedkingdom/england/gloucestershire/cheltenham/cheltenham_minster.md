@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 51.9016
 longitude: -2.0763
+score: 7.8
 ---
 
 The oldest building in Cheltenham, with parts dating to the twelfth century. St Mary's served as the parish church of the original village long before the Regency developers arrived and built the elegant spa town around it. The contrast between the medieval church and the surrounding Georgian terraces is one of the more interesting things to notice in the town centre.

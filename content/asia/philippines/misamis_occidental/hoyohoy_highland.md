@@ -7,6 +7,7 @@ tags:
 latitude: 8.0931
 longitude: 123.7378
 snippet: "Mountain park above Tangub with panoramic views over Panguil Bay"
+score: 6.6
 ---
 
 Hoyohoy Highland is a small mountain park above Tangub, reached by a winding paved road that climbs from the coastal plain through coconut groves and corn fields to about 700 metres. The summit area has been laid out as a recreational park with cottages, viewpoints, a small zipline, and a large cross on the highest point.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -28.9078
 longitude: 136.3413
+score: 6.8
 ---
 
 William Creek sits within Anna Creek Station, the largest cattle property in the world — over 30,000 square kilometres, roughly the size of Belgium. The station operates cattle across this immense area using a combination of road trains, mustering aircraft, and horses, with William Creek serving as one of its internal waypoints.

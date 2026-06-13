@@ -9,6 +9,7 @@ latitude: -7.5414
 longitude: 110.4461
 snippet: Indonesia's most active volcano, looming over the Sleman lowlands
 story: A small spiritual community lives on Merapi's lower slopes and refuses to evacuate even during major eruptions. Their late spiritual guardian, Mbah Maridjan, died in the 2010 pyroclastic flow rather than leave the mountain.
+score: 8.7
 ---
 
 Mount Merapi — "Mountain of Fire" — rises to 2,930 metres on the northern edge of Sleman and is among the most active volcanoes on earth. It erupts every few years, with a major catastrophic event roughly every decade. The 2010 eruption killed more than 350 people and changed the shape of the summit cone.

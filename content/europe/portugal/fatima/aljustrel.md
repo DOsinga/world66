@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6159
 longitude: -8.6649
+score: 7.4
 ---
 
 Aljustrel is the hamlet on the edge of Fátima where the three visionary children grew up. It's a short walk from the sanctuary — about 15 minutes south through the newer parts of the town — and preserves the modest stone cottages where Lúcia dos Santos and the Marto family lived in 1917. Both houses are open to visitors and give a concrete sense of the rural poverty of central Portugal in the early 20th century: earthen floors, simple furnishings, tiny spaces.

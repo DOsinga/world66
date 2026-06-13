@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 22.8425
 longitude: 113.2447
+score: 7.7
 ---
 
 Double-skin milk (双皮奶) is the signature dessert of Shunde and one of the more improbable achievements of Cantonese food culture: fresh buffalo milk is heated, poured, cooled to form a skin, gently lifted, the milk poured back underneath, and then steamed a second time to form a second skin — the result is a silky, layered custard of extraordinary delicacy. The quality depends entirely on the freshness and fat content of the buffalo milk, which is why it tastes better in Shunde than anywhere else.

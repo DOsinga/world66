@@ -14,6 +14,7 @@ tags:
 title: Harlem Jazz Club
 type: poi
 url: www.harlemjazzclub.es
+score: 7.3
 ---
 
 Located in the Gothic Quarter, Harlem Jazz Club features live jazz music performances just about every night of the week. The club houses two beautiful bars (front and back), a DJ booth, and enough space to mingle with the eclectic crowd or dance. Expect to hear music ranging from African-Caribbean fusions to Brazilian Bossa Nova, experimental, and more.

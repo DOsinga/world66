@@ -8,6 +8,7 @@ tags:
   - dal_lake_area
 latitude: 34.1583
 longitude: 74.8000
+score: 6.8
 ---
 
 Anchar Lake lies to the north of Dal Lake, connected to it by the Hazratbal arm and separated from Nagin by reeds and aquatic vegetation. It is shallower and less developed than both Dal and Nagin, making it more productive birdwatching territory during the migratory season and less visited by tourists the rest of the year. Grebes, herons, cormorants, and ducks are resident year-round; Siberian migrants join them from October onward.

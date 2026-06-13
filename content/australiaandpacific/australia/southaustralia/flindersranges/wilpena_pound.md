@@ -15,6 +15,7 @@ story: >
   still stand in the valley floor.
 sources:
   - https://en.wikipedia.org/wiki/Wilpena_Pound
+score: 9.1
 ---
 
 Wilpena Pound is the heart of the Flinders Ranges — a natural amphitheatre of quartzite ridges enclosing a valley roughly 17 kilometres long and eight wide. The only entrance is a narrow gap in the southern wall through which Wilpena Creek flows. From the outside the rings of hills look like ordinary ranges; from St Mary Peak on the western rim, you look down and suddenly understand you have been standing inside an ancient geological bowl.

@@ -6,6 +6,7 @@ latitude: 60.2064
 longitude: 5.3419
 story: >
   Ole Bull built Lysøen as a personal fantasy island in 1872-73, after making his fortune on concert tours across America and Europe. He had spent time in the American south and was deeply influenced by both Moorish architecture and Norwegian folk design — the result is a building that looks like nothing else in Norway: a fantasy in wood, with onion domes, Moorish arches, and Viking scroll carvings all jostling together.
+score: 7.8
 ---
 
 Lysøen, Ole Bull's fantastical summer island about 35 km south of Bergen, is one of the most eccentric historic houses in Norway. The violinist who was in his time compared to Paganini spent his summers here in a wooden villa that combines Norwegian folk motifs, Moorish ornament, and onion domes in an exuberant pastiche that should be ridiculous and is in fact charming.

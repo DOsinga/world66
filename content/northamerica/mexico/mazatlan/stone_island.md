@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: "The long quiet beach across the harbour, reached by a five-minute panga ride"
+score: 7.7
 ---
 
 Stone Island — Isla de la Piedra — is not really an island anymore. It is a long sandy peninsula that the highway no longer connects to, but pangas still cross from the south end of the old town to a landing on the inland side. The crossing takes five minutes and costs almost nothing.

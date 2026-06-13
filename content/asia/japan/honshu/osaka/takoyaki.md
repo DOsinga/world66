@@ -6,6 +6,7 @@ tags:
 - street_food
 latitude: 34.6687
 longitude: 135.5013
+score: 7.4
 ---
 
 Takoyaki — grilled octopus balls — is Osaka's signature street food, and the city has an almost religious attachment to it. The dish originated here in the 1930s: a batter of dashi stock, flour, egg, and minced octopus poured into a dimpled iron plate and rotated repeatedly with skewers into balls. Each ball is finished with bonito flakes, nori flakes, a drizzle of dark Worcestershire-style sauce, and a squirt of mayonnaise.

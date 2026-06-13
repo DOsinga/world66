@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 48.2580
 longitude: -0.4960
+score: 7.8
 ---
 
 The Roman theatre at Jublains is one of the few surviving Gallo-Roman theatres in northwestern France. The cavea — the curved seating area cut into a natural slope — is still clearly visible, and the scale of the structure indicates that Noviodunum was a significant regional centre. The theatre could hold several thousand spectators, far more than the current population of the town.

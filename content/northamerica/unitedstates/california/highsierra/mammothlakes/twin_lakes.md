@@ -5,6 +5,7 @@ tags: [things_to_do, lake, hike, fishing]
 latitude: 37.61806
 longitude: -119.00778
 story: The two Twin Lakes are connected by a short stretch of the Mammoth Creek and are fed by snowmelt from the peaks above — in most years, the upper lake doesn't fully clear of ice until June, even though the ski resort directly above it may still be operating.
+score: 7.7
 ---
 
 Twin Lakes sit at the base of Mammoth Mountain, connected by a short channel of Mammoth Creek and backed by a dramatic cliff face. They are the starting point for some of the area's most popular hikes and also a fine destination on their own — the lakes are stocked with trout, and fishing from the shore or from a rented rowboat is a summer staple. Tamarack Cross-Country Ski Area on Twin Lakes Road offers groomed track skiing through the forest in winter.

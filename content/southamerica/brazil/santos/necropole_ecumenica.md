@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Pelé is buried in a private chapel on the ninth floor, his coffin set into a wall mosaic of the Santos pitch. The memorial draws steady streams of visitors paying their respects."
+score: 7.7
 ---
 
 The Memorial Necrópole Ecumênica is, on paper, a vertical cemetery — the tallest in the world, at fourteen storeys high. In practice it is one of the strangest buildings in Brazil: a giant brutalist tower full of stacked marble crypts, with a chapel on each floor and roof terraces overlooking the city.

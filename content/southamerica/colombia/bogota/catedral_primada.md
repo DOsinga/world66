@@ -10,6 +10,7 @@ longitude: -74.0756
 snippet: "Colombia's largest cathedral on the east side of Plaza Bolivar"
 story: >
   The current cathedral is actually the fourth church built on this spot. The first was a simple reed-and-mud structure erected in 1538, barely a year after Gonzalo Jiménez de Quesada founded the city. The present neoclassical building was completed in 1823, incorporating the tomb of Jiménez de Quesada himself beneath the main altar.
+score: 6.8
 ---
 
 The Catedral Primada de Colombia dominates the east side of Plaza Bolivar with its broad neoclassical facade and twin towers. It is the largest cathedral in Colombia and the seat of the Archbishop of Bogota. Construction of the current building began in 1807 and was completed in 1823, replacing a series of earlier churches destroyed by earthquakes and neglect.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 37.6384
 longitude: 21.6234
+score: 5.8
 ---
 
 Named after the river that runs along the western edge of the ancient site, Kladeos sits at the quieter end of the village and attracts a more local crowd than the restaurants closer to the site entrance. The menu leans on whatever is in season — grilled fish in summer, braised meats and bean soups in winter — and portions are large. The garden seating under plane trees is pleasant in the evenings.

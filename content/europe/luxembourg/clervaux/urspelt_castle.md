@@ -9,6 +9,7 @@ tags:
 title: Urspelt Castle
 type: poi
 url: www.chateau-urspelt.lu
+score: 7.0
 ---
 
 Three kilometres north of Clervaux, the Château d'Urspelt sits in the small village of the same name. The 14th-century stone-and-slate structure was carefully restored between 2003 and 2009 by a private owner and reopened as a luxury hotel and restaurant. It is one of the better-preserved minor castles of the Luxembourg Oesling, and an example of what a sensitive private restoration can accomplish.

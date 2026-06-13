@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.1166
 longitude: 10.2921
+score: 5.4
 ---
 
 Skjellvika is one of the most popular beaches in Sandefjord municipality, a sheltered lagoon on the eastern side of the fjord where the water warms up noticeably in summer. The beach is sandy in parts and has a calm, shallow entry that makes it suitable for families with children.

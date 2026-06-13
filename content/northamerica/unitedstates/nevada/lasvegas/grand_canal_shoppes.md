@@ -8,6 +8,7 @@ snippet: "Venice-themed mall with indoor canals and gondoliers"
 tags:
 - shopping
 - center_strip
+score: 5.3
 ---
 
 The Grand Canal Shoppes is the indoor mall inside the Venetian and Palazzo. The defining feature is the working canal system — gondoliers in striped shirts sing arias as they punt tourists through narrow waterways under a painted-sky ceiling. Even if you do not ride, walking the canal-side passages is one of the most surreal experiences on the Strip.

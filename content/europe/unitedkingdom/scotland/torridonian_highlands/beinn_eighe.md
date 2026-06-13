@@ -6,6 +6,7 @@ tags:
   - things_to_do
 latitude: 57.580324
 longitude: -5.407766
+score: 8.6
 ---
 
 As you drive from Torridon village towards Kinlochewe, Liathach looms to your left. Where it ends and the Beinn Eighe range begins, a car park marks the start of a track between the two mountains. Follow it past the col and take the right fork into Coire Mhic Fhearchair — a dramatic triple-buttressed corrie with a dark lochan at its base, rivalled only by An Teallach's Coire Toll an Lochan for the title of Scotland's finest.

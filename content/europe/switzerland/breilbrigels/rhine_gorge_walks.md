@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.754
 longitude: 9.062
+score: 8.4
 ---
 
 The Rhine gorge — the Ruinaulta in Romansh — lies in the valley below Breil/Brigels, and trails from the village descend into it. The gorge was carved over thousands of years by the young Rhine cutting through a massive rockfall, creating sheer limestone walls, turquoise water, and a dramatically narrow canyon. It has been called the "Swiss Grand Canyon," which overstates it, but the scenery is genuinely striking.

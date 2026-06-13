@@ -8,6 +8,7 @@ latitude: 37.0878
 longitude: -8.4659
 story: >
   The name "Algar Seco" means "dry cave" in Portuguese — a reference to the sea caves and grottos here that dry out at low tide, revealing rock pools teeming with anemones, sea urchins, and small fish. At high tide the same caves echo with the crash of Atlantic swell.
+score: 8.8
 ---
 
 Algar Seco is the defining natural attraction of the Carvoeiro coast: a dramatic headland of golden limestone sculpted by the Atlantic into arches, sea stacks, and deep fissures. A wooden boardwalk leads from near the car park along the cliff edge, above sea caves and natural rock pools, with views back over the town's sandy cove.

@@ -11,6 +11,7 @@ story: >
   Jandial is unique in the entire subcontinent: a Greek-style temple built on Ionic columns in the heart of ancient Gandhara. Scholars have debated its religious identity for over a century — the layout is Greek but the temple has a windowless inner sanctuary (opisthodomos) that doesn't fit standard Greek temple design and has led some to propose it was a Zoroastrian fire temple adapted to Greek architectural forms.
 sources:
   - https://en.wikipedia.org/wiki/Jandial
+score: 8.2
 ---
 
 The Jandial Temple stands just north of Sirkap and is unlike anything else in the Taxila complex. Built in the first century BC or AD during the Indo-Greek or Parthian period, it was constructed using Ionic columns — the same architectural order found in mainland Greece — making it one of the easternmost examples of classical Greek architecture ever built.

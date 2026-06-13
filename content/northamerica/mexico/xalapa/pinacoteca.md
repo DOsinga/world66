@@ -9,6 +9,7 @@ latitude: 19.5268
 longitude: -96.9225
 sources:
   - https://en.wikipedia.org/wiki/Xalapa
+score: 6.9
 ---
 
 The Pinacoteca Diego Rivera is a small but well-curated art museum in the city centre, housed in a former colonial mansion near Parque Juarez. It holds a collection of Mexican modern and contemporary art including works by Diego Rivera (who was born in nearby Guanajuato but has strong Veracruz connections), along with paintings, prints, and sculpture by other 20th-century Mexican artists.

@@ -13,6 +13,7 @@ story: >
   corridor preservation. The trail now covers more than 80 kilometres along both banks 
   of the South Saskatchewan, threading through city parkland, natural coulees, and 
   historic districts.
+score: 8.5
 ---
 
 The Meewasin Valley Trail follows both sides of the South Saskatchewan River for over 80 kilometres through and beyond Saskatoon, making it the city's best outdoor resource. The most popular stretch runs along the riverbank between the bridges in the city core — wide, paved, and busy with cyclists, runners, and walkers in summer. The views across the water to the old tree-lined neighbourhoods on the opposite bank give Saskatoon much of its character.

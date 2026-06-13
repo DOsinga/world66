@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "175 acres of industrial archaeology and woodland on the site of a major munitions works"
+score: 8.2
 ---
 
 The Royal Gunpowder Mills at Waltham Abbey, a short walk north-east of Waltham Cross, was a major British munitions factory from 1665 until 1991. The complex now opens as a partly-restored heritage site occupying 175 acres of woodland — much of it now a wildlife reserve, with herds of fallow deer wandering among the surviving 18th- and 19th-century brick and timber industrial buildings.

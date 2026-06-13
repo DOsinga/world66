@@ -8,6 +8,7 @@ latitude: 11.5000
 longitude: -85.5667
 story: >
   Ometepe means "two hills" in Nahuatl. The island's two volcanoes — Concepción and Maderas — rise from Lake Nicaragua with a symmetry that made the island sacred to pre-Columbian peoples for thousands of years. Hundreds of petroglyphs carved into lava boulders across the island record this ancient reverence; many show the same spiral forms that appear in Central American cosmology from Mexico to Panama.
+score: 7.1
 ---
 
 [Isla de Ometepe](/northamerica/nicaragua/isla_ometepe) is a large island in [Lake Nicaragua](/northamerica/nicaragua/lakenicaragua) formed by two conjoined volcanoes — Concepción (active, 1,610m) and Maderas (dormant, 1,394m) — linked by a fertile isthmus. It is one of the most beautiful places in Nicaragua and deserves more than a day trip, but even a brief visit from Managua via Granada is worthwhile.

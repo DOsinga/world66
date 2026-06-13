@@ -10,6 +10,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: The oldest continuously inhabited house in the Americas
+score: 8.2
 ---
 
 Half a block north of the Plaza Mayor, the **Casa de Aliaga** has been lived in by the same family for almost 500 years — since 1535, when Jerónimo de Aliaga was granted the plot directly by Pizarro on the founding of the city. The house has been rebuilt and added to many times: today's structure is mostly 18th and 19th century, but the rear courtyard preserves part of the original colonial layout, and a few rooms still contain 17th-century furniture and paintings.

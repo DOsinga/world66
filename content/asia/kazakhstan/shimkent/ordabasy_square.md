@@ -9,6 +9,7 @@ tags:
   - square
 snippet: The city's central square, marking the spot where the three Kazakh hordes were said to have united in 1726
 story: "The square is named for the 1726 council at Ordabasy, when the leaders of the three Kazakh zhuzes (hordes) — the Senior, Middle and Junior — met to choose a common khan and a strategy against the Dzungar invasion. The decision led to the Battle of Anyrakai two years later, the largest victory ever won by the Kazakhs over the Dzungars, and the moment most often cited as the founding act of the modern Kazakh nation. The Independence Monument at the centre of the square commemorates this rather than independence from the Soviet Union."
+score: 6.7
 ---
 
 The civic heart of modern Shymkent, redeveloped in the 2010s into a wide ceremonial plaza with the Independence Monument at its centre, a tall white obelisk topped with a golden snow leopard. The square is bounded by the regional government building, a large mosque, and the Central Park.

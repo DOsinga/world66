@@ -9,6 +9,7 @@ latitude: 36.87891
 longitude: 30.68519
 story: >
   The Antalya Museum holds the finest collection of Roman statuary from the nearby city of Perge, including a gallery of twelve Olympian gods that were discovered buried together in the theatre — scholars believe they were deliberately hidden to protect them from Christian iconoclasts in late antiquity. The statues were found remarkably intact, still wearing traces of their original paint.
+score: 9.3
 ---
 
 The Antalya Museum, a fifteen-minute walk west of the old town, is consistently ranked among the best archaeological museums in Turkey. Its collection spans from the Palaeolithic to the Byzantine period, but the star exhibits are the Roman statues recovered from the excavations at Perge — a dazzling parade of marble deities, emperors, and mythological figures that rivals anything in Istanbul or Ankara.

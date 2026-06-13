@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.3006
 longitude: 76.6617
+score: 6.9
 ---
 
 The Sri Chamarajendra Zoological Gardens, established in 1892, is one of India's oldest zoos and one of its better-managed ones. The grounds cover around 157 hectares and include lions, tigers, leopards, Indian elephants, rhinoceroses, gorillas, and a large bird collection. The Mysore Zoo has historically been active in breeding programmes for endangered species — the white tigers born here in the 1970s attracted international attention.

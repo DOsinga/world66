@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Detinets Restaurant
 type: poi
+score: 4.8
 ---
 
 Located inside the Kremlin's Intercession Tower (16th-17th century), Detinets serves traditional Russian cuisine in a setting designed to evoke old Russia, with wooden tableware and period-style interiors. The menu features meat and fish dishes prepared from historical recipes, along with traditional drinks like medovukha (mead), sbiten (spiced honey tea), and honey kvass. The location alone makes it worth a visit.

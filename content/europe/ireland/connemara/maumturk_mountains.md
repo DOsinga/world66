@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.5200
 longitude: -9.6200
+score: 7.7
 ---
 
 The Maumturk Mountains run in a long ridge east of the Inagh Valley, parallel to the Twelve Bens across the water. They are longer, slightly lower, and far less visited — which makes them the better choice for anyone who wants a full day on the mountain without meeting other walkers. The western slopes drop directly to the Inagh Valley road; the eastern side runs down to Maam Cross and Lough Corrib.

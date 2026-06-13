@@ -15,6 +15,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Soldiers' and Sailors' Monument is the southeast corner of Public Square — a 125-foot granite column topped by a bronze figure representing Liberty, dedicated in 1894 to the men of Cuyahoga County who fought in the Civil War. The column is encircled by four bronze sculptural groups depicting each branch of the Union forces.

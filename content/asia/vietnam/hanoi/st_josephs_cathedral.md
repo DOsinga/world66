@@ -8,6 +8,7 @@ tags:
 latitude: 21.02861
 longitude: 105.84889
 snippet: "1886 neo-Gothic cathedral modeled on Notre-Dame"
+score: 7.8
 ---
 
 St. Joseph's Cathedral went up in 1886 on land cleared from the Bao Thien Pagoda, a sacred Buddhist site that the French colonial authorities demolished to make room for it. The building is modeled closely on Notre-Dame de Paris — twin towers, pointed arches, stained glass — scaled to fit a Vietnamese city street rather than a European cathedral square. It was the first major building the French constructed in Hanoi after establishing colonial control, and it remains the seat of the Roman Catholic Archdiocese of Hanoi.

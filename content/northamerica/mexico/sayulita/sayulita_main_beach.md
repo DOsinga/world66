@@ -14,6 +14,7 @@ story: >
   who spread word of its consistent, gentle waves through informal networks before
   the town had any real infrastructure. For a decade it remained essentially a
   campsite with surf. The cobblestone streets and boutiques came later.
+score: 8.4
 ---
 
 The main beach is where Sayulita's day-to-day life plays out. A crescent of golden sand curves around the bay for about 700 metres, with the town clustered right up to its edge — you can walk from restaurant to beach towel in under two minutes. The water is warm year-round, typically between 25 and 29 degrees Celsius in the dry season.

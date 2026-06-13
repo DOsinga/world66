@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 36.56000
 longitude: 30.50000
+score: 8.4
 ---
 
 The Lycian Way is a long-distance walking trail that runs 500 km around the Lycian coast from Fethiye to Antalya, passing through some of the most beautiful and least developed scenery on the Turkish Mediterranean. Sections near Antalya — particularly around Olympos, Çıralı, Phaselis, and the coast south of Kemer — are accessible as day hikes or two-to-three day loops without having to commit to the full route.

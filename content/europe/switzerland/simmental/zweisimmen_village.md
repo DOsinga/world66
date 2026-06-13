@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Zweisimmen
 story: >
   Zweisimmen sits at the junction of two valleys and two railway lines — the BLS from Thun and the MOB narrow-gauge to Montreux. This made it a trading hub for centuries, and the old town still has the slightly serious, commercial character of a market town rather than a resort.
+score: 6.7
 ---
 
 Zweisimmen is the main town at the head of the valley, sitting at 943 metres where the Simme and Kleine Simme rivers meet. It is an honest working town — there are hardware stores and a weekly market alongside the tourist infrastructure — and is considerably more liveable than the resort villages higher up.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 7.7
 ---
 
 The Palácio do Planalto is the official workplace of the President of Brazil — the equivalent of the White House's West Wing. Niemeyer designed it in 1958: a long horizontal slab raised on his signature slender white columns, which curve in delicate parabolas and barely seem to touch the ground at the top.

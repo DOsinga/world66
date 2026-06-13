@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, sight]
 latitude: 51.5686
 longitude: 3.5239
+score: 7.4
 ---
 
 Terra Maris is the museum for the nature and landscape of Zeeland, housed in the former orangery of Kasteel Westhove — a 13th-century castle between Domburg and Oostkapelle, now a youth hostel. The name means "land of the sea" in Latin, and the museum makes a compelling case for Zeeland's distinctive landscape: the delta, the dunes, the tidal flats, the relentless negotiation between water and land.

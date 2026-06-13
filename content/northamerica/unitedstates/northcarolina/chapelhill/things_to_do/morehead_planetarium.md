@@ -9,6 +9,7 @@ latitude: 35.9140
 longitude: -79.0513
 sources:
   - https://en.wikipedia.org/wiki/Morehead_Planetarium
+score: 8.8
 ---
 
 Morehead Planetarium opened in 1949 and quickly became something far more significant than a campus attraction: NASA used it as the first facility to train astronauts in celestial navigation before the age of GPS. All seven of the original Mercury astronauts — including John Glenn and Alan Shepard — came here to learn to navigate by the stars. A plaque near the entrance marks this history.

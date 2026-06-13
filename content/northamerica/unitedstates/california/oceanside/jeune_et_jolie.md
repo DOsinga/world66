@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.1630
 longitude: -117.3517
+score: 7.0
 ---
 
 Jeune et Jolie is a French-inspired restaurant in south Oceanside (near the Carlsbad border) that opened to immediate critical praise. The name means "young and pretty" in French, but the cooking is more than decorative — this is serious modern French bistro fare: terrines, crudo, braised meats and whole fish, with strong European technique applied to local California produce.

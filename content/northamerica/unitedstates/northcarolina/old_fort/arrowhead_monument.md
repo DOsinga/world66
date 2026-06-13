@@ -14,6 +14,7 @@ story: >
   during the same period to shelter settlers fleeing Cherokee attacks.
 sources:
   - https://en.wikipedia.org/wiki/Arrowhead_Monument
+score: 5.4
 ---
 
 The Arrowhead Monument sits in the town square at the center of Old Fort, a simple stone obelisk with an arrowhead shape that gives it its name. It was erected to commemorate the town's history as a frontier outpost — Old Fort was literally the last settlement before the Blue Ridge in the early years of European settlement in western North Carolina.

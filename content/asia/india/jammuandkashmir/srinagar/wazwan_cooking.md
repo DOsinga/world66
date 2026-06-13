@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.0837
 longitude: 74.7973
+score: 7.6
 ---
 
 Wazwan — the great ceremonial feast of Kashmir — is one of the most elaborate culinary traditions in South Asia, involving up to 36 meat dishes cooked by a team of specialist waza cooks over two days. The full version is served at weddings and major celebrations; individual dishes from the wazwan repertoire appear in restaurant menus throughout Srinagar. Learning to cook a few of them is a reasonable half-day investment.

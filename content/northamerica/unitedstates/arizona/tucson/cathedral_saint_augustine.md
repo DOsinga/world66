@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
   - downtown
+score: 7.3
 ---
 
 The Cathedral of Saint Augustine, completed in 1896 and remodelled into its current Mexican-baroque form in 1928, is the mother church of the Diocese of Tucson and the city's main downtown Catholic church. The carved façade is loosely modelled on the Cathedral of Querétaro in Mexico — saguaros and horned toads on either side of the door are a clue to where the carver was from.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 story: "The Tavern has been open continuously since 1930 — through the Depression, World War II, every recession since, and Prohibition's hangover. The owners are the fourth generation of the Bullington family. Custom is that you do not change the menu, you do not raise the prices faster than absolutely necessary, and you do not close, ever."
+score: 7.1
 ---
 
 The Texas Tavern is a Roanoke institution: a 24-hour diner on Church Avenue, ten seats wide, that has been serving the same menu since 1930. It calls itself "Roanoke's Millionaires Club" — anyone who can afford the bill is welcome — and the menu is essentially chili, hot dogs, "Cheesy Western" cheeseburgers with relish, and eggs.

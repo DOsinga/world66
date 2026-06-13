@@ -13,6 +13,7 @@ tags:
 - sight
 title: Table Mountain
 type: poi
+score: 9.8
 ---
 
 The first thing that springs to mind when thinking of Cape Town is Table Mountain. This remarkable flat-topped massif right in the middle of the city is hard to miss — and hard to tire of.

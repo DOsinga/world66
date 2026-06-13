@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Bodega Sepúlveda
 type: poi
+score: 7.6
 ---
 
 Bodega Sepúlveda is a classic old-fashioned Barcelona bodega — wine in carafes from the barrel, pintxos on the counter, marble tables worn smooth by decades of elbows. The kind of place that has been serving the Eixample neighbourhood since Franco was in power and shows no signs of changing.

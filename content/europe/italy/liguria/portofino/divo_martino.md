@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.3038
 longitude: 9.2094
+score: 6.4
 ---
 
 The Romanesque parish church of Portofino, dating to the 12th century — older than San Giorgio on the promontory — and the village's actual main church, away from the tourist queues at the harbour. The Baroque interior was added later but the bell tower and façade preserve the original medieval lines.

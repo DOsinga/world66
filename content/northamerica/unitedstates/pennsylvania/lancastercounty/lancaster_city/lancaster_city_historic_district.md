@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 40.0414
 longitude: -76.3069
+score: 8.7
 ---
 
 Downtown Lancaster is a National Register Historic District, covering roughly the dozen blocks around Penn Square. Take half an hour to walk the side streets — North Duke, North Prince, East Orange — and you'll pass a near-continuous run of 18th- and 19th-century row houses, Federal townhouses, and Victorian commercial buildings.

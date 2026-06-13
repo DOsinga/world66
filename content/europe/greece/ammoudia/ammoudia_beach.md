@@ -6,6 +6,7 @@ longitude: 20.4842
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Ammoudia Beach is a 600-metre arc of pale sand along the south side of the river mouth, with shallow, calm water and a gentle slope — ideal for small children. The Acheron itself empties into the sea at the north end of the beach; the brackish water there is cooler and tinged with the green of the upstream reedbeds.

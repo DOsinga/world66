@@ -9,6 +9,7 @@ latitude: 28.4120
 longitude: 121.0630
 story: >
   At 197 metres, Dalongqiu is one of the tallest waterfalls in China and falls in a single unbroken drop into a basalt gorge. The Song dynasty poet Wang Shenpeng described the sound as the voice of a dragon speaking from inside the mountain — an image that gave the waterfall its name: Dalongqiu means "Great Dragon's Autumn."
+score: 8.4
 ---
 
 Dalongqiu Waterfall drops 197 metres down a sheer cliff of dark basalt into a plunge pool at the bottom of a narrow gorge. After heavy rain, the volume of water is impressive enough to fill the gorge with mist, reducing visibility and soaking anyone who stands close. A viewing platform at the foot of the falls offers the full view up the cliff face, and a set of stairs carved into the rock allows you to climb partway up beside the falls for a different perspective.

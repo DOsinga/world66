@@ -9,6 +9,7 @@ latitude: 52.4759
 longitude: 0.6754
 sources:
   - https://en.wikipedia.org/wiki/Grime%27s_Graves
+score: 9.0
 ---
 
 One of the most remarkable prehistoric sites in England, Grime's Graves is a Neolithic flint mining complex covering around 90 acres of the Breckland forest. From the surface it looks like a lunar landscape — hundreds of shallow craters in the earth, each one the collapsed mouth of a mine shaft sunk four thousand years ago. English Heritage manages the site, and visitors can descend a ladder into one of the excavated shafts to see the antler picks left behind by the miners and the galleries they carved into the chalk.

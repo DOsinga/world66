@@ -8,6 +8,7 @@ tags:
 latitude: 25.698000
 longitude: 32.639000
 snippet: "The East Bank riverside promenade, pleasant in the evening when the tourist commerce calms down"
+score: 6.9
 ---
 
 The Luxor Corniche runs along the East Bank of the Nile for several kilometres, from the Winter Palace in the south past Luxor Temple and the Mummification Museum to the Karnak boat landing. It is the city's social spine, used by locals for evening promenades and by tourists navigating between temples.

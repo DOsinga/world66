@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.0894
 longitude: -69.1062
+score: 8.3
 ---
 
 Primo is Rockland's most celebrated restaurant and one of the best in Maine — a farm-to-table operation that raises pigs, chickens, and vegetables on site and incorporates them into a changing menu of New American cooking. Chef-owner Melissa Kelly won the James Beard Award for Best Chef: Northeast, and the restaurant draws diners from well beyond Rockland.

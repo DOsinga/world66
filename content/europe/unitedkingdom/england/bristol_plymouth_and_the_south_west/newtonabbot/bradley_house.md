@@ -9,6 +9,7 @@ tags:
 latitude: 50.5261
 longitude: -3.6258
 story: "Bradley is a remarkably intact 15th-century manor house — the great hall, the chapel, and the screens passage all survive much as they were built around 1420. It was given to the National Trust in 1938 on the condition that the donor and his descendants could continue to live in it, which they still do."
+score: 7.5
 ---
 
 Bradley is a small medieval manor house just outside Newton Abbot, set in twenty hectares of wood and meadow along the River Lemon. It is open to the public on summer afternoons and is one of the few buildings of its kind in Devon that survives without major Victorian rebuilding — the great hall, the chapel, the screens passage are all genuinely 15th century.

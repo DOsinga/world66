@@ -8,6 +8,7 @@ story: >
   The name "Garatapar" is a local Pahadi term referring to the thundering sound the
   waterfall makes in the monsoon season, when the flow increases dramatically and the
   sound can be heard from a considerable distance across the valley.
+score: 7.1
 ---
 
 Garatapar Waterfall is one of the most visited natural attractions in Sudhnoti District, located about 32 km from Pallandri on the Pallandri-Hajira road near the village of Tarar Khel. The falls cascade over a broad rock face and are most dramatic after the monsoon rains, when the volume and noise increase substantially. The setting — forested hillsides, mountain air, the sound of rushing water — is exactly what people come to the hills of Azad Kashmir to find.

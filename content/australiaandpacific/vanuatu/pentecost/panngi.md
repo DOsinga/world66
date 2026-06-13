@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -15.9481
 longitude: 168.1931
+score: 7.0
 ---
 
 Panngi (also spelled Pangi) is the main village of southern Pentecost and the practical base for most visitors coming for the land dive. It sits on the southwest coast, a short drive from Lonorore Airport, with a wharf for the inter-island ships, a small market on Saturdays, and a handful of basic village-stay bungalows that double as the land-dive headquarters during the season.

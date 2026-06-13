@@ -6,6 +6,7 @@ tags:
 - beach
 title: Praia do Rio Verde
 type: poi
+score: 7.8
 ---
 
 Praia do Rio Verde is the beach to choose when you want Trancoso without the immediate bustle of the village beaches. The sand is wide, the palms are thick, and the mood is slower.

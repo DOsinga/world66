@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Funded by the Libyan leader Muammar Gaddafi shortly before his fall in 2011, the mosque was inaugurated in 2010 as one of the largest in East Africa. After Gaddafi's death the Tanzanian government quietly kept the name."
+score: 6.7
 ---
 
 The Gaddafi Mosque is the largest mosque in Dodoma and one of the largest in Tanzania. Its four white minarets and pale blue dome dominate the skyline north of the city centre, visible from much of central Dodoma. The building was financed by the Libyan World Islamic Call Society and completed in 2010, a period when Gaddafi was cultivating influence across sub-Saharan Africa through mosque construction and aid projects.

@@ -8,6 +8,7 @@ tags:
 latitude: 6.4855
 longitude: 99.3050
 snippet: "Ko Lipe's busiest beach — the centre of the island's social life and where most boats arrive."
+score: 6.0
 ---
 
 Pattaya Beach (no relation to the mainland city of the same name) is the curving south-coast beach where most boats from Pak Bara and Langkawi tie up at the offshore floating pier. The sand is fine and white, the water is the standard Tarutao turquoise, and a row of bars, restaurants, and dive shops line the back of the beach where the road from Walking Street arrives.

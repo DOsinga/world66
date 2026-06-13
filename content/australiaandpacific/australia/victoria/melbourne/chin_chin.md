@@ -9,6 +9,7 @@ tags:
 address: 125 Flinders Lane
 latitude: -37.8173
 longitude: 144.9666
+score: 7.5
 ---
 
 Chin Chin opened in 2011 and almost immediately became one of the most popular restaurants in Melbourne, with queues stretching down Flinders Lane most evenings. The formula is Southeast Asian-influenced food — Thai, Malay, and Indonesian flavours — in a loud, high-ceilinged industrial room. The menu is designed for sharing: order four or five dishes between two people and work through them with good beers or cocktails.

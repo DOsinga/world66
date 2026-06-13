@@ -6,6 +6,7 @@ longitude: -69.3308
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Domo Bolivariano is Barquisimeto's main indoor arena, opened in 1983 and seating around 6,000. It hosts basketball — Guaros de Lara have been one of the strongest teams in Venezuelan basketball — along with volleyball, boxing, and the occasional large concert.

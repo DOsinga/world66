@@ -7,6 +7,7 @@ tags:
   - beaches
   - sight
 story: "Freedom Beach was the unofficial nudist hangout of Phuket for decades, hidden enough by its difficult access that Thai authorities largely ignored it. When the access trail was bulldozed in 2015 to clear illegal encroachments, longtail boats remained the only way in — keeping the beach almost as quiet as before."
+score: 8.6
 ---
 
 A narrow strip of white sand and turquoise water hidden in a cove south of Patong, walled off from the road by steep cliffs and jungle. Until a few years ago you could hike in down a sketchy path; that trail is now closed and the only access is by longtail boat from Patong's southern end, about a fifteen-minute crossing.

@@ -10,6 +10,7 @@ latitude: 41.7363
 longitude: -74.0971
 sources:
   - https://en.wikipedia.org/wiki/Wallkill_Valley_Rail_Trail
+score: 6.8
 ---
 
 The Wallkill Valley Rail Trail follows the former corridor of the Wallkill Valley Railroad for 23.7 miles through Ulster County, running from Rosendale south through New Paltz toward Gardiner and beyond. The trail surface is mostly packed gravel, flat and easy, with the kind of gentle grade you'd expect from an old railroad bed. It passes through farmland, wetlands, and small hamlets, and the views of the Shawangunk Ridge to the west are consistently good.

@@ -11,6 +11,7 @@ story: >
   hevva" through a long bullhorn and direct the boats below with cloth flags —
   a precursor to harbour radio that worked until pilchard stocks collapsed in
   the early 20th century.
+score: 6.8
 ---
 
 The little whitewashed building on the cliff above Newquay harbour is the old Huer's Hut, a 14th-century watchman's post used to spot incoming shoals of pilchards. The huer (from the Cornish for "to call out") would signal to the fishing boats below, marshalling them around the catch.

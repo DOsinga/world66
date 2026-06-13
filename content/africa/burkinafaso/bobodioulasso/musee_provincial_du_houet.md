@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 11.1776
 longitude: -4.2979
+score: 7.5
 ---
 
 The Musée Provincial du Houët occupies a handsome Sudanese-style mud-brick building on the Place de la Nation — itself one of the city's small architectural pleasures. Inside, displays cover the ethnic groups of southwestern Burkina: Bobo, Dyula, Senoufo, and others. Masks, fetishes, blacksmith tools, traditional dress, musical instruments, and ceremonial objects are arranged across a handful of small rooms.

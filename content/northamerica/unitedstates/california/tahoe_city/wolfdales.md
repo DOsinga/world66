@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.1690
 longitude: -120.1410
+score: 7.0
 ---
 
 The oldest fine-dining restaurant in Tahoe City, in business since 1978 — a small intimate place on the main street serving a Californian-Asian menu that changes regularly. The miso black cod and the duck breast are house standards.

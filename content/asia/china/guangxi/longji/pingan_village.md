@@ -15,6 +15,7 @@ story: >
   formations visible from a higher vantage point. The names sound extravagant
   until you stand at the right time of day and realise they are fairly accurate
   descriptions.
+score: 8.2
 ---
 
 Ping'An is the more accessible of the two main terrace areas — reached by minibus from the car park and then a 20-minute walk up stone steps to the village — and it is the more visited as a result. The Zhuang minority village at its centre has adapted entirely to tourism: guesthouses occupy most of the traditional wooden buildings, restaurants cater to visiting groups, and hawkers sell handmade silver jewellery and embroidery along the main path. This sounds damning but the village retains genuine character, particularly early in the morning before the day-trippers arrive.

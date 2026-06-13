@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The 1902 redbrick Classical Revival courthouse, on Courthouse Square in the centre of downtown. Domed cupola, white-stone trim, and the original civic dignity of a Georgia county seat. Worth a circuit of the square and a look inside the lobby, which retains its early 20th-century marble and brass.

@@ -8,6 +8,7 @@ tags:
   - restaurant
   - nasese
 neighbourhood: Nasese
+score: 5.6
 ---
 
 The colonial-style dining room inside the [Grand Pacific Hotel](/australiaandpacific/fiji/vitilevu/suva/grand_pacific_hotel), with white tablecloths, slow ceiling fans, and a menu that ranges from a proper kokoda starter to grilled walu and lamb shanks. It is the most formal dining room in Suva and one of the few places with a serious wine list.

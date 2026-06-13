@@ -7,6 +7,7 @@ latitude: 50.4605
 longitude: 4.864
 story: >
   Vauban once called Namur the "termite mound of Europe" — every European power that ever fought in the Low Countries took a turn besieging it. Louis XIV captured it in 1692; William III took it back three years later, in a siege whose details made it into Sterne's Tristram Shandy as Uncle Toby's obsession. The fortress was finally dismantled as a working stronghold only in 1891.
+score: 9.2
 ---
 
 The Citadel of Namur towers over the confluence of the Sambre and Meuse on a great rocky spur. There has been a fort here since the Middle Ages, and the present complex — much of it the work of seventeenth-century Dutch, Spanish and French engineers — is one of the largest fortified sites in Europe.

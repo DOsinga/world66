@@ -7,6 +7,7 @@ tags:
 - nightlife
 title: Hardlanders
 type: poi
+score: 2.5
 ---
 
 type: Pubs

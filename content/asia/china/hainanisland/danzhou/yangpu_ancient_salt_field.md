@@ -12,6 +12,7 @@ story: >
   technique — filling stone troughs with seawater at high tide, then collecting the
   crystals after evaporation — has been practised by roughly 30 families on this
   shoreline for 1,200 years. In 2024 it was designated to China's National Industrial Heritage List.
+score: 8.5
 ---
 
 The Yangpu Ancient Salt Field is one of the most unusual historical sites on Hainan: a coastal shelf of volcanic rock carved into over a thousand individual salt-collection troughs, each one rimmed with a thin raised edge to contain the seawater that fills them at high tide. As the tide recedes and the sun works on the shallow pools, the water evaporates and leaves salt crystals in the stone — a technique that has been in continuous use here since approximately 800 AD, when salt workers from Fujian province relocated to the Yangpu Peninsula and adapted the volcanic rock shelf for their purposes.

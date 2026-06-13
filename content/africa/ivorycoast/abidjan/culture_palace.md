@@ -7,6 +7,7 @@ tags:
 - sight
 title: Culture Palace (Palais de la Culture)
 type: poi
+score: 6.8
 ---
 
 The Palais de la Culture d'Abidjan is the city's main venue for theater, dance, music, and cultural events. Built in the 1970s on the edge of the Ébrié Lagoon, it hosts performances by both Ivorian artists and visiting international companies. The main hall seats over a thousand.

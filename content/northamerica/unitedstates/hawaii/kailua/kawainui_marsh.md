@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 21.3919
 longitude: -157.7580
+score: 7.3
 ---
 
 Kawainui Marsh is the largest freshwater wetland in Hawaii — about 830 acres of cattail, reed, and shallow water between Kailua town and the foot of the Koolau range. It was once a tidal estuary connected to Kailua Bay; later it became a managed fishpond under Hawaiian rulers, and is now a protected wildlife refuge.

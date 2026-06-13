@@ -14,6 +14,7 @@ story: >
   A small memorial to the POWs stands in the museum complex, and the Crown Prince Chalet
   — built for a visit by the Japanese Emperor's nephew that never happened — still stands
   on the hillside above.
+score: 8.9
 ---
 
 The Gold Museum occupies the former Jinguashi gold refinery complex, about 1.5 kilometres from Jiufen town centre. The site operated from the late 19th century through 1971 and is now a well-preserved open-air industrial museum. The main buildings — the administration offices, the crown prince chalet, the smelting hall — are intact and open to visitors. A tunnel section can be walked through; a separate fee allows extended underground access into the main mining tunnels.

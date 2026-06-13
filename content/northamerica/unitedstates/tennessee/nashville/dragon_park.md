@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.8
 ---
 
 Fannie Mae Dees Park, known to everyone as Dragon Park, is a small neighbourhood park between Hillsboro Village and 21st Avenue South. Its main attraction is the enormous mosaic sea-serpent sculpture coiling through the playground — designed by Pedro Silva and completed by community volunteers in 1981, with thousands of children pressing tiles and shaped fragments into the wet concrete back of the creature.

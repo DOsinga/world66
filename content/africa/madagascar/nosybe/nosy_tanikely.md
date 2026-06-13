@@ -11,6 +11,7 @@ tags:
   - snorkelling
   - swimming
 story: "The 19th-century lighthouse on the island was built in 1909 to guide steamers between Mozambique and Réunion. The keepers used to grow vegetables in patches of soil between the basalt boulders. The lighthouse still works, though it is now automated and unstaffed."
+score: 8.8
 ---
 
 Nosy Tanikely is a small uninhabited island a few kilometres south of Nosy Be that has been a strict marine reserve since 1968. The coral on its sheltered north shore is among the best you can see this side of Madagascar — turtles, parrotfish, butterflyfish and the occasional reef shark. The water is shallow and clear and the snorkelling is suitable for beginners.

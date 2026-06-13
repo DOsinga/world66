@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.7748
 longitude: -9.0568
+score: 6.4
 ---
 
 A reliable mesón on the waterfront serving straightforward Galician seafood — the kind of place where the menu consists of whatever came off the boats that morning, listed on a blackboard. Pulpo á feira, almejas (clams) in white wine, grilled rodaballo (turbot), and a jug of cold Albariño. No pretension, no nonsense.

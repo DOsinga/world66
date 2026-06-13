@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -14.2272
 longitude: -38.9672
+score: 7.5
 ---
 
 A small, picture-perfect beach tucked into a cove just south of Engenhoca and reached by the same forest access path off the BA-001. The shape — a narrow strip of sand framed by rounded boulders — and the turquoise water inspired the name (the "little Hawaii").

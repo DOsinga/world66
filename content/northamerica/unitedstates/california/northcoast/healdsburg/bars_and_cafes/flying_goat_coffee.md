@@ -8,6 +8,7 @@ latitude: 38.61082
 longitude: -122.86932
 address: "324 Center Street, Healdsburg, CA 95448"
 snippet: Healdsburg's best coffee, with tables on Center Street and consistently good espresso
+score: 6.3
 ---
 
 The serious coffee option in Healdsburg, and comfortably the best in town. Flying Goat roasts its own beans and has been supplying Sonoma County with well-sourced, carefully roasted coffee since the late 1990s — before third-wave coffee became a defined thing in California.

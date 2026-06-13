@@ -8,6 +8,7 @@ tags:
 latitude: 36.2558
 longitude: 117.1075
 story: "Tradition holds that 72 emperors climbed Mount Tai to perform the Feng and Shan sacrifices — rites that legitimised their rule and connected heaven, earth, and the imperial throne. Confucius, Sima Qian, Li Bai, Du Fu, and Mao all climbed it. The mountain has been continuously sacred for over three thousand years, longer than any other peak in China."
+score: 9.8
 ---
 
 Mount Tai (Taishan) is not the tallest of China's Five Sacred Mountains, but it is by some distance the most revered. Rising 1,545 metres from the plains of central Shandong, it has been a place of imperial pilgrimage, Daoist devotion, and poetic inspiration for so long that the climb itself has the quality of a ritual: you join a slow column of pilgrims, students, and tourists making the same journey countless others have made before.

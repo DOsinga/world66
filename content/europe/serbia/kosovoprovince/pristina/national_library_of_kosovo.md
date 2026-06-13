@@ -15,6 +15,7 @@ story: >
   Locally it is sometimes called "the ugliest building in Yugoslavia," yet it has won international architecture
   prizes. Mutnjaković said the domes referenced both Byzantine and Ottoman tradition; critics said it looked
   like a prison wearing a beekeeper's hat.
+score: 8.1
 ---
 
 The National Library of Kosovo is one of the most extraordinary pieces of brutalist architecture in the Balkans. Completed in 1982 and designed by Croatian architect Andrija Mutnjaković, the building consists of a massive concrete cube draped in 99 aluminium-clad domes and wrapped in metal lattice. The result is something that manages to be simultaneously oppressive and exhilarating — a building you cannot look away from.

@@ -1,6 +1,7 @@
 ---
 title: "Samaleswari Temple"
 type: poi
+score: 8.1
 ---
 
 The Samaleswari Temple is the most revered religious site in western Odisha and one of the most important shrines in the entire state. It stands at the edge of the Mahanadi River in Sambalpur town and is dedicated to the goddess Samalei, who is regarded as the presiding deity and protector of the Sambalpuri people. The temple gives Sambalpur its name — the city was historically known as Sambalpur after Samalei. Pilgrims come from across western Odisha throughout the year, and during major festivals the ghats along the river are packed with worshippers.

@@ -15,6 +15,7 @@ story: >
   summer grazing land for centuries; the permanent structures inside the park boundary
   are relatively recent, and in the western reaches of the valley the old patterns
   of land use are still visible in the terraced pastures and stone corrals.
+score: 8.7
 ---
 
 Mugecuo National Park, 21 kilometres northeast of Kangding, is the best reason to spend more than a transit night in the city. At 3,200 metres, the park is an alpine plateau ringed by glaciated peaks above 5,000 metres, with a main lake and several smaller ones, stands of spruce and fir, and open grassland. The scenery is in the same league as more famous parks but with a fraction of the visitor numbers — the comparison to Jiuzhaigou is inevitable if you have been to both, and the difference in crowd size is significant.

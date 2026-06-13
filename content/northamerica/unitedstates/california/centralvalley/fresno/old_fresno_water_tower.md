@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Old_Fresno_Water_Tower
 story: >
   The water tower was built in 1894 to solve a fire suppression problem: Fresno's wooden downtown kept burning down. The steel tank atop the Romanesque brick tower held half a million gallons of water under pressure. The city outgrew it by the 1920s, but the tower was too striking to demolish — it became a landmark almost by accident, and is now a California Historic Landmark.
+score: 5.9
 ---
 
 The Old Fresno Water Tower, built in 1894, is one of the most handsome structures in the Central Valley — a Romanesque Revival brick tower that would look at home in a European city centre. The architect, who designed it in a style then popular for civic infrastructure, created something considerably more elegant than the city probably expected. The circular brick base, arched windows, and steel tank above give it a silhouette that reads as civic pride rather than utility.

@@ -7,6 +7,7 @@ tags:
 latitude: 59.0312
 longitude: -3.3592
 snippet: "Dramatic sea cliffs and a slim natural sea stack on the west coast"
+score: 8.9
 ---
 
 A short, magnificent stretch of west coast cliffs between Stromness and Marwick, Yesnaby is the best place in Orkney to see the geological history of the islands — layered red and yellow sandstones folded by wave action into great chasms, blowholes, and stacks. The slim Yesnaby Castle stack stands a few hundred metres south of the small car park and is best photographed from the cliff path.

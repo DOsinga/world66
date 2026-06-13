@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Makravank Monastery
 type: poi
+score: 7.2
 ---
 
 An Armenian church complex in the Makravan district of Hrazdan, partly hidden in a small ravine carved by a tributary of the Hrazdan River. The main church and gavit (vestibule) date from the 12th and 13th centuries, with characteristic Armenian stone carving and a distinctive barrel-vaulted interior.

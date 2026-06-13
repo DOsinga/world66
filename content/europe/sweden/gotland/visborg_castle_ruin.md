@@ -13,6 +13,7 @@ story: >
   Lübeck. The castle changed hands repeatedly until Swedish forces razed most of
   it in 1679 to prevent it falling to Denmark — leaving the stubs of towers and
   stretches of curtain wall that stand today at the southern edge of Visby.
+score: 7.4
 ---
 
 Visborg was a medieval fortress at the southern tip of Visby, built in the 15th century and destroyed in 1679. What remains is substantial: long stretches of the outer walls, the bases of several towers, and earthworks that give a clear sense of the original layout. The ruins sit at the harbour's edge outside the main city wall, and the walk from Söderport gate through the ruins and along the seawall is one of the better routes in Visby.

@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: "Medieval boundary markers of the Minster's right of sanctuary"
 story: "Beverley Minster held one of the most generous rights of sanctuary in medieval England. A fugitive who reached one of the sanctuary stones, set roughly a mile from the church on each of the main roads, was under the Minster's protection. Some stones survive in situ; others are recorded only in old maps and town records."
+score: 5.8
 ---
 
 In the Middle Ages, anyone who reached Beverley Minster and clung to the frith stool near the high altar was under the church's protection — a sanctuary right granted in the tenth century and unusually generous in extent. Stones set roughly a mile from the Minster on each of the main approach roads marked the outer boundary of the sanctuary zone.

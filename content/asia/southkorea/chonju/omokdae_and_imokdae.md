@@ -8,6 +8,7 @@ latitude: 35.8095
 longitude: 127.1550
 story: >
   Omokdae is where Yi Seonggye — the general who founded the Joseon dynasty in 1392 — celebrated his first major military victory in 1380, defeating a Japanese pirate force that had ravaged the region. He held a victory banquet here, looking out over the city he would eventually rule. Twelve years later, he was king.
+score: 7.3
 ---
 
 Omokdae and Imokdae are two traditional wooden pavilions set on a forested hillside at the southeastern edge of the Hanok Village, looking out over the city. They are among the most historically resonant sites in Jeonju: Omokdae is where Yi Seonggye, founder of the Joseon dynasty and ancestor of the royal Yi clan from Jeonju, celebrated his military triumph in 1380.

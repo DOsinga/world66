@@ -8,6 +8,7 @@ latitude: 39.50805555555556
 longitude: 2.5366666666666666
 story: >
   The beach was heavily developed starting in the 1960s when the Franco-era government encouraged mass tourism along the Spanish coast. By the 1970s Magaluf had become notorious enough that local tourism authorities eventually launched a rebranding campaign, replacing rowdy bars with beach clubs and family hotels — though the reputation proved stickier than the planners hoped.
+score: 6.9
 ---
 
 Magaluf Beach is a wide, 1.5-kilometre arc of fine sand at the centre of the resort. The water is calm and sheltered — this is a south-facing bay with a gentle slope into the sea, which makes it genuinely good for swimming even with children. The seabed is sandy rather than rocky, and the water stays relatively warm well into October.

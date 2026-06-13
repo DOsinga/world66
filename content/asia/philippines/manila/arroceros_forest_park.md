@@ -8,6 +8,7 @@ tags:
 latitude: 14.5942
 longitude: 120.9819
 snippet: Manila's last urban forest — two hectares of trees beside the Pasig River, saved from demolition
+score: 7.2
 ---
 
 Arroceros Forest Park is a genuine surprise in the middle of Manila: two hectares of mature trees on the bank of the Pasig River, dense enough to feel like a forest despite being surrounded by the city. The park has over 60 tree species and serves as habitat for a variety of birds unusual in an urban setting — it is one of the better birdwatching spots in Metro Manila.

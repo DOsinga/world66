@@ -10,6 +10,7 @@ tags:
 - museum
 title: Musée de la Moto
 type: poi
+score: 5.0
 ---
 
 Housed in a former flour mill in the Le Merlan district (13th arrondissement), the Musée de la Moto traces motorcycle engineering from 1898 to the present. The 19th-century industrial building is a good match for the machines inside — both functional and built to last.

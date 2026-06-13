@@ -9,6 +9,7 @@ longitude: 15.9500
 snippet: "Anderson Gate is 100km north of Outjo — Outjo is the last fuel and supplies stop before entering the park"
 sources:
   - https://en.wikipedia.org/wiki/Etosha_National_Park
+score: 6.5
 ---
 
 Etosha National Park begins about 100km north of Outjo at the Anderson Gate, one of three gates into the park. The drive north on the C38 takes about 90 minutes on good gravel road. Outjo is the last proper town before the gate and the right place to fill your tank, buy food and water, and check that you have everything needed for time in the park.

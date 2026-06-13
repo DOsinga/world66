@@ -15,6 +15,7 @@ story: >
   repression and its celebration of liberal democracy sit uncomfortably with the current
   political climate in Russia, and various officials have called for its closure or revision.
   It remains open and uncompromised as of writing.
+score: 9.2
 ---
 
 The Yeltsin Presidential Center is one of the most remarkable museums in Russia — an honest, thoughtful, and sometimes uncomfortable account of the Soviet collapse and the turbulent decade of Boris Yeltsin's presidency. The main exhibition covers seven "days" in Russian history, from the 1917 revolution through the Soviet era to Yeltsin's death in 2007, using film, documents, photographs, and immersive installations to tell a story that official Russian history now prefers to gloss over.

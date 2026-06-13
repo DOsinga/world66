@@ -9,6 +9,7 @@ latitude: -54.8397
 longitude: -68.5358
 story: >
   Route 3, the road from Buenos Aires that crosses all of Patagonia, ends inside this park at a small sign that reads simply "Fin del Camino" — End of the Road. It is the southernmost point you can reach by car in Argentina, and one of the most southern by road in the entire world.
+score: 9.1
 ---
 
 Tierra del Fuego National Park begins just 12 kilometres west of Ushuaia and extends to the Chilean border, covering 63,000 hectares of subantarctic forest, peat bogs, lakes, and coastline along the Beagle Channel. It is the only national park in Argentina accessible by road from the south, and it feels genuinely wild.

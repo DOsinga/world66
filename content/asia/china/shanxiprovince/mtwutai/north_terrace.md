@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: At 3,058 metres, the highest of the five terraces and the highest point in northern China
+score: 8.5
 ---
 
 The northern of the five terraces — Yedou Peak — is the high point of Mt. Wutai and the highest point in all of northern China at 3,058 metres. The summit is a wide, almost flat alpine meadow rather than a sharp peak; in summer it is covered in wildflowers and grazing yak, in winter under snow that often holds into June. The temple at the top, Lingying Si, is a small stone-walled hall built for the wind.

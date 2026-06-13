@@ -7,6 +7,7 @@ snippet: Pastry shop run by one of the country's most-awarded chefs
 tags:
 - eating_out
 - restaurant
+score: 6.8
 ---
 
 Lilian Bonnefoi was the pastry chef at the Eden Roc for two decades and was several times voted the best pastry chef in France. His own shop, on the road around Cap d'Antibes, is a working bakery rather than a dining room — counter, fridge, espresso machine and a queue.

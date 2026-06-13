@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "Las Leñas hosted the FIS Freestyle Ski World Cup in the 1990s and 2000s, and the off-piste here — particularly the long Marte chair runs into south-facing bowls — has a near-mythical reputation among South American skiers. The runs are steep, sustained, and prone to closing for avalanche control after every storm."
+score: 8.6
 ---
 
 Las Leñas is the most serious ski resort in South America, sitting at the head of a high Andean valley 200 kilometres southwest of San Rafael. The season runs from late June to early October, with a top lift at 3,430 metres and a vertical drop of around 1,200 metres. The off-piste from the Marte chair is the legendary terrain: long, steep bowls and chutes that hold powder for days after a storm.

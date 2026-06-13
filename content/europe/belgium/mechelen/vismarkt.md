@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - sight
 snippet: The old fish market square, now the city's main outdoor café zone
+score: 6.7
 ---
 
 The Vismarkt sits just south of the Grote Markt on the Dijle and was, for centuries, exactly what it sounds like — the place fish was landed and sold. Today the fish trade is long gone and the cobbled square is the centre of Mechelen's evening life, ringed by bars and cafés with terraces along the river.

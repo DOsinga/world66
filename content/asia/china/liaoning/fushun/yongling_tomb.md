@@ -8,6 +8,7 @@ latitude: 41.7167
 longitude: 124.2167
 story: >
   Yongling is the burial site of Nurhachi's ancestors — specifically, the four generations that preceded the man who founded the Qing Dynasty. The Qing emperors maintained Yongling as the ancestral tomb most senior in the imperial hierarchy, above even the Beijing tombs, because it represented the dynasty's Jurchen roots before the conquest of China. UNESCO recognised it as a World Heritage Site in 2004 as part of the Imperial Tombs of the Ming and Qing Dynasties.
+score: 8.6
 ---
 
 Yongling Tomb, located in Xinbin County about ninety kilometres southeast of Fushun city, is one of the three Manchu royal tombs that collectively hold UNESCO World Heritage status. It is the burial site of Nurhachi's great-great-grandfather, great-grandfather, grandfather, and father — the four generations whose tombs became the dynastic foundation when the Qing consolidated power in China.

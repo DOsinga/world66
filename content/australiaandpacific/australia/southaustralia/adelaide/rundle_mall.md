@@ -9,6 +9,7 @@ tags:
 snippet: "Adelaide's main pedestrian shopping strip and civic meeting place"
 story: >
   Rundle Mall's most famous residents are four bronze pigs — installed in 1999 as part of a public art commission. The pigs (Truffles, Oliver, Augusta, and Horatio) are now among the most photographed objects in South Australia, despite (or because of) having no particular artistic intention beyond being cheerful. They were joined in 2011 by bronze piglets.
+score: 6.2
 ---
 
 Rundle Mall is the heart of Adelaide's retail centre — a pedestrianised strip that replaced a traffic thoroughfare in 1976. The big department stores (Myer, David Jones) and chains are here, along with the covered Rundle Mall Plaza and the Gays Arcade, one of the surviving 19th-century shopping arcades.

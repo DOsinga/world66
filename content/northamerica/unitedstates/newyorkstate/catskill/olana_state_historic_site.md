@@ -10,6 +10,7 @@ longitude: -73.8294
 sources:
   - https://en.wikipedia.org/wiki/Olana_State_Historic_Site
   - https://olana.org/
+score: 8.6
 ---
 
 Olana is the hilltop estate of Frederic Edwin Church, the most celebrated painter of the Hudson River School, and it sits on a dramatic promontory above the Hudson in the city of Hudson — clearly visible from the Catskill side of the river. Church designed the Persian-influenced house himself, and the landscape around it is as deliberately composed as any of his paintings.

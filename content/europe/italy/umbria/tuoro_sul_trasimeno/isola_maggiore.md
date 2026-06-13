@@ -9,6 +9,7 @@ longitude: 12.1000
 story: "According to local tradition, St. Francis of Assisi spent Lent of 1211 alone on Isola Maggiore, fasting for forty days in a small hut on the island's northern tip. A chapel was later built on the site. The island's lace-making tradition — still practiced by a handful of local women — is said to have begun when a local girl watched St. Francis mend his cloak with needle and thread during that visit."
 sources:
   - https://en.wikipedia.org/wiki/Isola_Maggiore
+score: 7.7
 ---
 
 Isola Maggiore is a small inhabited island in Lake Trasimeno, about 20 minutes from Tuoro by ferry. It is one of only three inhabited islands on the lake and the only one with a village — a tight cluster of stone houses along a single main street, a 14th-century church, and a castle on the southern promontory that was converted into a Guglielmi family villa in the 19th century.

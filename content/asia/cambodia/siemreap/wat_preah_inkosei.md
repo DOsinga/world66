@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wat Preah Inkosei
 type: poi
+score: 7.9
 ---
 
 **Wat Preah Inkosei** is a small active Buddhist temple in central Siem Reap, notable for its unusual architectural feature: a 10th-century brick tower incorporated into the modern temple compound. The ancient tower is one of the oldest structures in the city itself (as opposed to the Angkor complex outside town), dating from the pre-Angkorian period and built from the same warm red brick as the early Angkor temples. It stands in the modern wat compound, surrounded by newer buildings, the two layers of history in frank juxtaposition.

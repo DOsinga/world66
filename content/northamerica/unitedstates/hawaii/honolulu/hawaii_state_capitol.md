@@ -8,6 +8,7 @@ tags:
 - chinatown
 title: Hawaii State Capitol
 type: poi
+score: 7.4
 ---
 
 The Hawaii State Capitol is one of the most architecturally inventive state houses in the United States. Completed in 1969, it was deliberately designed to evoke Hawaii's landscape: the two legislative chambers are shaped like volcanic cones, the surrounding reflecting pool represents the Pacific, and the columns that ring the building look like royal palms. It is open-air in the centre, with a 230-square-metre mosaic visible from above in the central atrium.

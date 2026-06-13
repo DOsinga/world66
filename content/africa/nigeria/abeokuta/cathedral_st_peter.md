@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: The original CMS mission cathedral in the heart of old Abeokuta
+score: 7.5
 ---
 
 St Peter's Cathedral in the Ake quarter is the mother church of the Anglican Diocese of Egba and traces its origins to the Reverend Henry Townsend's CMS mission to Abeokuta in 1842 — the same Townsend who built the First Storey Building a few streets away. The original mud-brick chapel was replaced in stages by larger buildings; the present cathedral, a red-brick Gothic Revival church with a tall central tower, dates from a 1898 rebuilding with later 20th-century additions.

@@ -8,6 +8,7 @@ latitude: 41.9243
 longitude: 19.2045
 sources:
   - https://en.wikipedia.org/wiki/Sailors%27_Mosque
+score: 6.8
 ---
 
 The Sailors' Mosque is an unusual landmark in Ulcinj: it once served as a lighthouse as well as a place of worship, its minaret doubling as a navigational marker for ships approaching the coast. The building dates from the Ottoman era and reflects the close connection between the town and the sea — Ulcinj was a significant port as well as, at various points in its history, a pirate base.

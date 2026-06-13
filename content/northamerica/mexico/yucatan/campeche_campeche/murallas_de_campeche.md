@@ -9,6 +9,7 @@ latitude: 19.8451
 longitude: -90.5344
 story: >
   The walls were built between 1686 and 1704 after decades of devastating pirate attacks — Campeche was sacked by pirates multiple times in the 17th century, including a particularly brutal raid in 1663 that killed or enslaved hundreds of residents. The construction of the hexagonal wall system finally ended the raids.
+score: 8.8
 ---
 
 The defensive walls encircling the historic centre of Campeche are among the best-preserved colonial fortifications in the Americas. Constructed in the late 17th century in direct response to repeated pirate raids — privateers working the Gulf of Mexico regularly attacked this wealthy port — the hexagonal wall system with its eight bastions transformed Campeche into one of the most strongly defended cities in New Spain.

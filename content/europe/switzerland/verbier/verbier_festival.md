@@ -15,6 +15,7 @@ story: >
   live in shared chalets, rehearse in the village, and perform with the
   soloists they grew up listening to — one reason the festival has launched
   more careers than almost any other on the European summer circuit.
+score: 8.7
 ---
 
 For two weeks each summer, Verbier hosts one of Europe's most respected classical music festivals. Performances are split between the purpose-built 1,700-seat Salle des Combins, the village church, and a series of small free concerts in mountain restaurants and chairlift stations across the resort.

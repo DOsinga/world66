@@ -6,6 +6,7 @@ longitude: -82.6125
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The North Carolina Arboretum sits on 434 acres on the southwestern edge of the city, tucked into the Pisgah National Forest at the end of the Bent Creek valley. It is younger than it looks — founded in 1986 — but the land was originally part of Frederick Law Olmsted's plan for the Vanderbilt estate, and the layout has the gentle, designed feel of an Olmsted landscape.

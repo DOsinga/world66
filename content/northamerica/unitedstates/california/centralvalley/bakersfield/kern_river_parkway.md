@@ -14,6 +14,7 @@ story: >
   the Kern River Canyon — the last navigable stretch before the water spreads
   out into the valley floor and is diverted into the vast canal network that
   still irrigates the surrounding farmland.
+score: 6.4
 ---
 
 The Kern River Parkway Trail follows the Kern River for roughly 30 miles through and around Bakersfield, offering the city's best opportunity for cycling, running, and walking in a natural setting. The river corridor is lined with cottonwood and willow, and supports a surprisingly diverse range of bird life given the surrounding urban and agricultural landscape. The section closest to downtown, where Alfred Harrell Highway heads northeast toward the Kern River Canyon, is where most recreational users congregate.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.5140
 longitude: -88.0215
 snippet: Historic site at the confluence of the Fox River and Green Bay, founded 1634 by Jean Nicolet
+score: 5.9
 ---
 
 Green Bay is one of the oldest European settlements in the upper Midwest. The French explorer Jean Nicolet is believed to have arrived at the mouth of the Fox River in 1634, making contact with the Menominee and Ho-Chunk peoples — one of the earliest European arrivals in the western Great Lakes region. The site became a center of the fur trade, and Fort Howard was established here by the United States Army in 1816.

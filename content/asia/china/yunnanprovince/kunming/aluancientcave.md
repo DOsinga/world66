@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cave
+score: 7.1
 ---
 
 A long limestone cave system about 200 kilometres southeast of Kunming, near the town of Luxi, Alu Ancient Cave is one of the more impressive karst caves in southern China — over three kilometres of passages on multiple levels, with three "dry" galleries and one through which an underground river flows. Skylights in the cave roof let in shafts of natural light in places, which is unusual.

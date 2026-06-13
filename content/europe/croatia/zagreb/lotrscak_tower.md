@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - gornji_grad
+score: 7.1
 ---
 
 Lotrščak was one of the four medieval towers in the wall around Gradec, the old fortified Upper Town. Its name comes from *campana latrunculorum* — the thieves' bell, which rang every evening to warn citizens to come home before the gates closed. The tower has been rebuilt repeatedly; the current form is mostly 17th-century with a 19th-century crown.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, wildlife]
 latitude: -0.8167
 longitude: 36.2833
 story: "Crater Lake sits in the caldera of an extinct volcano and its water has an unusually high soda content — enough to turn alkaline but not as extreme as the famous flamingo lakes farther north. The crater walls are steep and forested, and the silence inside is striking after the bustle of the main Naivasha shoreline."
+score: 7.8
 ---
 
 Crater Lake sits inside a small game sanctuary on the western side of Lake Naivasha. The crater itself — a near-perfect circular lake — is the collapsed caldera of an old volcano, its walls forested and steep. The sanctuary around it protects a small population of black-and-white colobus monkeys, as well as giraffe, impala, and waterbuck.

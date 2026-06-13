@@ -8,6 +8,7 @@ latitude: 9.312
 longitude: 42.124
 story: >
   The tradition of feeding wild hyenas at the gates of Harar is said to date back over 400 years, when Sufi shrines began leaving scraps to appease the animals. If the hyenas ate well, the local interpretation ran, the harvest would be good and the city protected from evil. Today the relationship continues as a nightly performance — but the hyenas are genuinely wild, not trained.
+score: 8.6
 ---
 
 Every evening at nightfall, a small group of hereditary hyena feeders (the practice passes through families) gather at two spots just outside Harar's walls to feed wild spotted hyenas that come in from the surrounding hills. Visitors stand close — close enough to touch, if they dare — and the feeders pass strips of meat from a basket, sometimes holding them in their teeth for hyenas to take directly.

@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 30.1764
 longitude: -85.8060
+score: 5.4
 ---
 
 Pier Park is the commercial hub of Panama City Beach — a large open-air shopping and entertainment complex that sits where the old Miracle Strip Amusement Park once thrilled generations of Florida kids. The original Miracle Strip operated from 1963 to 2004, and its wooden roller coaster, the Starliner, was hauled off to Indiana when the park closed. Pier Park replaced it, but if you look at the site now you'd never know what came before.

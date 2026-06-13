@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Northern_Lights_Casino_(Prince_Albert)
+score: 4.9
 ---
 
 Owned and operated by the 12 First Nations of the Prince Albert Grand Council, the Northern Lights Casino is one of Saskatchewan's larger entertainment venues — a 1,600-seat facility with gaming floors, a concert hall that books national acts, restaurants, and a hotel. It has become a significant economic hub for the First Nations communities of the region as well as a draw for visitors from across northern Saskatchewan.

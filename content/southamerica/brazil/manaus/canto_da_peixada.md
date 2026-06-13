@@ -8,6 +8,7 @@ tags:
 latitude: -3.1136
 longitude: -60.0089
 address: Rua Emílio Moreira, Praça 14, Manaus
+score: 6.3
 ---
 
 A Manaus institution since the 1970s, Canto da Peixada specialises in the regional river fish — tambaqui, pirarucu, jaraqui — usually grilled whole over wood, with sides of pirão (manioc gravy) and farofa. The atmosphere is the usual Brazilian peixaria: tile floors, plastic chairs, families at large tables, beer in cold towers.

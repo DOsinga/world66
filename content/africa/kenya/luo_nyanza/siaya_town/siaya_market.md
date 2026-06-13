@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 0.0617
 longitude: 34.2875
+score: 6.3
 ---
 
 The central market is the heart of Siaya town — a sprawling open-air affair where Luo traders sell produce, second-hand clothing, hardware, and just about everything else. Stalls spread out from the permanent covered section into the surrounding streets on the main market days, filling the air with the smell of frying mandazi and smoked fish from Lake Victoria. This is where you see the actual commercial pulse of the region, not the tourist version.

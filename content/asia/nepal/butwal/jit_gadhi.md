@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Jit_Gadhi
   - https://en.wikipedia.org/wiki/Battle_of_Jit_Gadhi
+score: 6.8
 ---
 
 Jit Gadhi (also called Butwal Gadhi) is a small fort on the western edge of Butwal, perched on a ridge above the town. It dates from the period of Gorkha expansion in the late 18th and early 19th centuries, and was the scene of fighting during the Anglo-Nepal War of 1814–1816, when British East India Company forces attacked it as part of a broader campaign to contain Nepal's territorial growth.

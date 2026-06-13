@@ -11,6 +11,7 @@ tags:
 - sight
 title: Cathédrale Notre-Dame de la Miséricorde
 type: poi
+score: 7.2
 ---
 
 Ajaccio's cathedral, built in the late 16th century in an Italianate style, sits in the heart of the old town a short walk from the Maison Bonaparte. The interior is modest but dignified; the main draw is the historical connection. There is a painting by Delacroix — the Virgin of the Sacred Heart — on the side aisle, and the tomb of Napoleon's mother Letizia Ramolino is in the sacristy.

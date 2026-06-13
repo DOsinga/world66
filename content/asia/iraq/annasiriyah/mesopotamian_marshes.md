@@ -13,6 +13,7 @@ story: >
   decade. After 2003, local communities broke the dykes and re-flooded the marshes; within a few
   years, birds, fish, and people had returned in large numbers. The recovery is considered one of
   the most remarkable environmental rehabilitation stories of the 21st century.
+score: 9.3
 ---
 
 The Mesopotamian Marshes are a vast wetland system covering thousands of square kilometres across southeastern Iraq. They are the likely inspiration for the biblical Garden of Eden — a landscape of open water, dense reed beds, and floating islands where the Marsh Arabs (Madan) have lived for millennia in reed houses built on platforms anchored in the shallows. UNESCO inscribed the marshes as a World Heritage Site in 2016 along with the surrounding ancient cities.

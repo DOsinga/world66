@@ -15,6 +15,7 @@ story: >
   further down the lake, installing peculiar Gothic details, and planting the
   gardens according to his own unusual principles. He considered the view across
   Coniston Water to be the finest in England.
+score: 8.7
 ---
 
 Brantwood stands on the east shore of Coniston Water, directly across the lake from the village. John Ruskin bought it in 1871 and lived here for the last thirty years of his life, filling the house with paintings, books, and the evidence of his restless interests in art, natural history, geology, and social reform. The rooms remain largely as he arranged them — a slightly chaotic, intensely personal interior that feels nothing like a conventional museum.

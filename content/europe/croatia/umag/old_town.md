@@ -8,6 +8,7 @@ latitude: 45.4322
 longitude: 13.5196
 sources:
   - https://en.wikipedia.org/wiki/Umag
+score: 7.5
 ---
 
 Umag's old town occupies a narrow finger of land jutting into the sea — a classic Venetian peninsula layout, compact enough to walk end to end in ten minutes. The layout has barely changed since the medieval period: tight lanes, stone houses with shuttered windows, the odd Venetian-era arcade, and walls that once enclosed the whole settlement.

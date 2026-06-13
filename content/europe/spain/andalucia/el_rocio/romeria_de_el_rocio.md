@@ -7,6 +7,7 @@ tags:
   - festival
 latitude: 37.13139
 longitude: -6.48306
+score: 8.8
 ---
 
 The Romería de El Rocío is one of the largest religious pilgrimages in the world, drawing around a million people to this otherwise tiny village on the Pentecost weekend. Around a hundred hermandades — brotherhoods from across Andalusia and beyond — travel to El Rocío by foot, horseback, and ox-drawn covered wagons over the course of several days, camping in the countryside along the way. The journey itself is as much the event as the arrival: the wagon trains advance in a festive caravan with flamenco, sevillanas, and considerable quantities of manzanilla sherry.

@@ -8,6 +8,7 @@ latitude: 38.9058
 longitude: 24.5250
 story: >
   The Goat Dance has been linked by scholars to ancient Dionysiac rites — the same tradition that eventually gave rise to Greek theatre. Whether or not that lineage is accurate, watching men in goatskins stamping through the narrow lanes of a hilltop island town before dawn is not something easily forgotten.
+score: 9.0
 ---
 
 The Skyrian Carnival, held in the weeks before Lent, culminates in the Goat Dance (Tragos) — one of the most striking surviving folk rituals in Greece. Men dress in heavy goatskins, hang dozens of goat bells from their bodies so they jangle with every movement, and perform a stomping, circling dance through the streets of Skyros Town in the company of masked figures representing a young bride and a foreigner. The performance is loud, strange, and very old.

@@ -9,6 +9,7 @@ tags:
 - sight
 title: Industrias Cafenor
 type: poi
+score: 5.9
 ---
 
 A small coffee roastery and producer of coffee-based liquors, one block from the Plaza de Armas. The owner, Gonzalo Pesantes Peña, roasts locally grown arabica beans and produces a range of flavoured spirits made from aguardiente infused with vanilla, cacao, coffee, and other aromatics. You can visit the rooftop factory, taste the products, and buy directly. Prices are very reasonable. The main door is always open.

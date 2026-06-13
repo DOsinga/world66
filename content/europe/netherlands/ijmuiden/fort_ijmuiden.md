@@ -16,6 +16,7 @@ story: >
   leaving behind the intact earthworks and galleries that visitors see today.
 sources:
   - https://en.wikipedia.org/wiki/Fort_IJmuiden
+score: 8.0
 ---
 
 Fort IJmuiden was built between 1879 and 1886 to protect the entrance to the North Sea Canal, the strategic waterway connecting Amsterdam to the North Sea. It is now an island, separated from the mainland by a branch of the canal dug in 1929, and it forms part of the UNESCO World Heritage Stelling van Amsterdam defensive ring. The fort's earthworks and distinctive armoured gallery survive largely intact.

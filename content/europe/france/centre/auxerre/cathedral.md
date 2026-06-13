@@ -9,6 +9,7 @@ tags:
 latitude: 47.7979
 longitude: 3.5729
 story: "The crypt beneath the cathedral contains a Gallo-Roman wall and a 5th-century fresco of Christ on a white horse — the oldest known representation of Christ as a mounted warrior and one of the earliest Christian images surviving in France."
+score: 9.1
 ---
 
 The Cathedral of Saint-Étienne is the centrepiece of Auxerre's skyline, visible from across the valley. Construction began in 1215 and continued for over three centuries, leaving the facade incomplete — the south tower was never finished, giving it an asymmetrical outline that local historians have argued about ever since. The interior is famous for its 13th-century stained glass, among the finest in Burgundy, particularly in the choir ambulatory.

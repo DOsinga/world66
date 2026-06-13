@@ -7,6 +7,7 @@ snippet: Five-kilometre tidal lagoon, sheltered swimming pool of the Atlantic co
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 The lagoon is the reason the town exists. A long sandbar runs parallel to the coast, leaving a calm sheltered body of water about five kilometres long and a few hundred metres wide that fills and drains through two narrow channels at either end. The water is warmer than the open Atlantic, the swell is gone, and on a summer afternoon you can wade across to the sandbar.

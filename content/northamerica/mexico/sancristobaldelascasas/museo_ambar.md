@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 16.7358
 longitude: -92.6422
+score: 7.3
 ---
 
 Chiapas produces some of the finest amber in the world, and this small museum in the south of the historic centre is the best introduction to it. The amber deposits of the Simojovel area in northern Chiapas are 25–30 million years old, formed when resin from trees of the Hymenaea family dripped into ancient tropical forests and hardened over geological time. What makes Chiapas amber especially interesting is the exceptional quantity and variety of inclusions: insects, plant material, air bubbles, even small lizards, caught in the resin and preserved across tens of millions of years.

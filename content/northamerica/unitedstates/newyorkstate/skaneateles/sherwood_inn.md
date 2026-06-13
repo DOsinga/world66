@@ -10,6 +10,7 @@ tags:
 - bar
 title: Sherwood Inn
 type: poi
+score: 6.6
 ---
 
 The Sherwood Inn dominates the corner of West Genesee Street with its long verandah, slate roof and weathered shingle sign. Inside there are 25 rooms, a formal dining room overlooking the lake, and a friendly tavern in the basement with a long wooden bar and Wednesday-night jazz.

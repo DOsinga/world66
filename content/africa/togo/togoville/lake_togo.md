@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The shallow coastal lagoon between Togoville and the Atlantic coast
+score: 7.1
 ---
 
 Lake Togo is a long, shallow lagoon separated from the Atlantic by the narrow strip of sand that carries the coast road. It is not a lake in the strict sense — its water is brackish and rises and falls with the rains — but to look at from a pirogue, drifting under a fierce sun, it might as well be inland.

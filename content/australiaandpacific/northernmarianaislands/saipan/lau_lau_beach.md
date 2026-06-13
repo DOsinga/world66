@@ -5,6 +5,7 @@ latitude: 15.162
 longitude: 145.789
 snippet: "A snorkeling and diving beach on the east coast with clear water and a reef that starts just offshore."
 tags: [beaches, beach]
+score: 7.6
 ---
 
 Lau Lau Beach is on Saipan's east coast, facing the open Pacific rather than the protected lagoon. The water here is clearer than the west side, the reef closer to the surface, and the snorkeling consequently better. The entry is straightforward from the beach, and the reef starts within easy swimming distance. The area is popular with local divers and with dive operators running organized trips — visibility can reach 30 metres on good days. The trade winds that come off the Pacific keep the beach cooler than the west coast, which is useful in the warmer months.

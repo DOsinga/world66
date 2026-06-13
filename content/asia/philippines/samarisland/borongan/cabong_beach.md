@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.618
 longitude: 125.441
+score: 5.9
 ---
 
 Cabong Beach is the main swimming beach near Borongan, with calm grey-sand shoreline that is safe for families and casual swimmers for much of the year. The beach is easily accessible from the city centre and is popular with locals in the late afternoons and on weekends. The sand is fine and dark grey — characteristic of volcanic Philippine coastlines — and the water is generally clear in the dry season.

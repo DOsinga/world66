@@ -14,6 +14,7 @@ story: >
   road in 1932, before which the communities along the northern coast were
   connected primarily by boat. The first section of the current road was built
   by hand with horse-drawn wagons.
+score: 9.5
 ---
 
 The Cabot Trail is a 300km loop road around the northern tip of Cape Breton Island, passing through some of the most spectacular coastal scenery in eastern Canada. The road climbs to the Cape Breton Highlands — a broad, wind-scoured plateau that drops sharply into the sea — then descends to fishing villages and tidal flats before climbing again. On the western side, the Gulf of St Lawrence turns vivid blue in good weather. On the eastern side, the Aspy Bay and its tidal flats are prime moose territory.

@@ -16,6 +16,7 @@ story: >
   backdrop rather than a working fortification. Today, one floor of the tower
   houses a small branch of the Qakh History Museum dedicated to the Elisu
   Sultanate.
+score: 7.8
 ---
 
 The Sumug fortress sits on a low hill at the edge of Ilisu village, commanding a view down the Kurmukchay valley. It is a four-storey defensive tower, built sometime in the 17th or 18th century — the exact date is uncertain, and no one is sure by whom. The stonework is solid enough that it survived more or less intact; the interior now holds a modest branch of the Qakh History Museum with exhibits on the Elisu Sultanate.

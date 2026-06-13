@@ -7,6 +7,7 @@ snippet: World Cup stadium with a sweeping concrete colonnade
 tags:
 - things_to_do
 - landmark
+score: 4.9
 ---
 
 The Estádio Nacional Mané Garrincha was rebuilt for the 2014 FIFA World Cup at vast public expense (around $900 million) on the site of the city's older 1970s stadium. Its dramatic external ring of 288 white concrete pillars and a tensile membrane roof was designed by German architects gmp and São Paulo's Castro Mello.

@@ -7,6 +7,7 @@ tags:
 latitude: 60.4680
 longitude: 22.0200
 snippet: A guest harbour full of sailboats, waterfront restaurants, and summer life.
+score: 7.1
 ---
 
 The harbour is the social centre of Naantali in summer, and it earns that role without trying too hard. Sailboats from across the Baltic fill the guest berths from June onwards, and the quayside restaurants do a brisk trade in grilled fish and local beer. An ice cream shop at the end of the pier does particularly good business on warm evenings.

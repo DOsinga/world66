@@ -9,6 +9,7 @@ longitude: -71.7911
 story: >
   The caves were used by Lucayan Taino people for centuries before European contact — archaeological excavations have found pottery, bones, and ceremonial objects in the chambers.
   The Lucayans were the first indigenous people encountered by Columbus in 1492, and the Turks and Caicos were among the islands he visited; their descendants were enslaved and had disappeared from the islands within decades.
+score: 8.7
 ---
 
 The Conch Bar Caves are the largest above-ground cave system in the Caribbean, extending for several kilometres through the limestone spine of Middle Caicos. The caves are not commercial tourist infrastructure — there is no lighting, no paved paths, no gift shop. You explore them with a local guide using headlamps, crawling through some passages and walking upright in others, past formations of stalactites and stalagmites built over millions of years.

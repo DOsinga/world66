@@ -15,6 +15,7 @@ story: >
   Around 300 people are injured in an average decade of running.
 sources:
   - https://en.wikipedia.org/wiki/Running_of_the_Bulls
+score: 8.7
 ---
 
 The San Fermín festival runs from July 6 to 14, and the centrepiece is the daily encierro — the running of the bulls. At eight in the morning, six fighting bulls and six steers are released from the Santo Domingo corrals. They career through the narrow streets of the old town to the Plaza de Toros, with several hundred runners scrambling ahead of them. The whole thing is over in under four minutes.

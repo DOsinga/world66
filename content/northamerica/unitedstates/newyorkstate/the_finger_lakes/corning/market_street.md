@@ -8,6 +8,7 @@ tags:
 latitude: 42.143055555555556
 longitude: -77.05388888888889
 story: "Market Street was devastated by the flood of June 1972, when the remnants of Hurricane Agnes pushed the Chemung River over its banks and submerged downtown Corning under more than two metres of water. The cleanup and restoration took years; the flooding destroyed the ground floors of most historic buildings. The eventual reconstruction created the intact Victorian streetscape that exists today — a case where a natural disaster paradoxically preserved a historic district by forcing a careful restoration rather than piecemeal modernisation."
+score: 7.4
 ---
 
 Market Street is the main commercial street of downtown Corning, running through a well-preserved Victorian-era district that has been carefully maintained and restored since the catastrophic flood of 1972. The street features brick-fronted commercial buildings from the late 19th and early 20th centuries, now occupied by galleries, restaurants, wine bars, antique shops, and specialty stores.

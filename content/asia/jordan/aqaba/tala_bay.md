@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 6.3
 ---
 
 Tala Bay is a planned resort development on the southern Aqaba coast — fifteen kilometres south of the city centre — built around a marina and a long arc of cleaned and groomed beach. The beach is significantly better than anything closer to the city: wide, sandy, lined with palms, and with a clear stretch of water for swimming. Most of it is associated with the various hotels and beach clubs around the bay.

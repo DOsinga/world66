@@ -16,6 +16,7 @@ story: >
   the temple's deity and drew their legitimacy partly from their
   association with this sacred site. When the city was destroyed in 1565,
   the temple alone was spared — it has never ceased to function.
+score: 9.4
 ---
 
 The spiritual heart of Hampi, a living temple dedicated to Shiva that has been in continuous use since at least the 7th century. The towering 49-metre gopuram at the entrance is visible from most of the site and is the first thing you see arriving from Hospet. The resident elephant Lakshmi blesses visitors in the morning by touching her trunk to their heads in exchange for a small offering.

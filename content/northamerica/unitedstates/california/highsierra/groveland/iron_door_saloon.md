@@ -13,6 +13,7 @@ story: >
   advantage. The original building survived the fires that destroyed most of the Sierra foothill towns. The
   saloon still operates as a bar and grill and has held a liquor license, under various names, since
   California statehood.
+score: 6.6
 ---
 
 The Iron Door Grill & Saloon claims the title of California's oldest continuously operating saloon, with roots going back to the Gold Rush of 1849. The building, attached to the Groveland Hotel at 18767 Main Street, retains its original 19th-century character: rough-hewn ceiling, memorabilia covering every surface, and the cast-iron doors that give it its name.

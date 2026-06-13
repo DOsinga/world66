@@ -15,6 +15,7 @@ story: >
   secular rulers. The monastery was badly damaged in the Cultural Revolution
   but has been substantially rebuilt since the 1980s — the new buildings
   incorporate older murals and sacred objects that survived hidden away.
+score: 7.4
 ---
 
 Ganzi Monastery belongs to the Gelug school of Tibetan Buddhism and is the dominant religious building in town, visible from a considerable distance by its gilded roofline. The main assembly hall is spacious and active — monks conduct ceremonies here through most of the day, and the smell of yak butter lamps and incense pervades the interior. The murals in the hall are well-executed and relatively new, painted by skilled craftspeople from other Tibetan monasteries in the reconstruction period.

@@ -7,6 +7,7 @@ tags:
 latitude: -19.7400
 longitude: 63.5000
 story: "The octopus fishing tradition on Rodrigues is almost entirely the domain of women — it's one of the few places on earth where a traditional maritime activity is female-led. The techniques involve reading the reef for telltale holes and ink spots, and a practiced fisher can catch a dozen octopus in a single low-tide session."
+score: 8.1
 ---
 
 At low tide on the southern and eastern reef flats, you'll see women wading through shallow water with wicker baskets, hunting octopus. This is one of Rodrigues's most distinctive sights and a genuine cultural tradition rather than a performance for visitors. The octopus (ourite in Creole) is either sold fresh or dried on racks for export to Mauritius and elsewhere.

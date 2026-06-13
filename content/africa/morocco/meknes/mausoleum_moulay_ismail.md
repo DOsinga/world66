@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Mausoleum of Moulay Ismail
 type: poi
+score: 8.5
 ---
 
 The tomb of Sultan Moulay Ismail, who built Meknes into an imperial capital rivalling Versailles. The mausoleum is one of the very few religious buildings in Morocco open to non-Muslim visitors, and is among the finest examples of Moroccan decorative art: zellige tilework, carved stucco, painted cedarwood ceilings, and a series of courtyards lead to the tomb chamber. Modest dress is required; visitors may be asked to step back during prayer times.

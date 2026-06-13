@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.0297
 longitude: -77.5239
+score: 4.3
 ---
 
 A private gated community at the western tip of New Providence, the most exclusive address in the Bahamas. The compound includes a marina, golf course, and a few hundred mansions belonging to a roll-call of celebrities, financiers, and exiles. Founded in 1959 by Canadian industrialist E.P. Taylor.

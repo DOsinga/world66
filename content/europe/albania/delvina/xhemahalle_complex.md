@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Xhemahallë Complex
 type: poi
+score: 7.3
 ---
 
 The Xhemahallë Complex is the architectural anchor of old Delvina — a 17th-century Ottoman ensemble centred on a mosque, with an attached madrasa, a hammam, and the Llutro fountain that supplied water to all three. Built in 1682, the mosque is considered the first "King type" mosque in Albania, the form built for the regional pasha class who modelled themselves on the imperial style of Istanbul.

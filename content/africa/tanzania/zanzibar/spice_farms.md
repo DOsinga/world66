@@ -8,6 +8,7 @@ tags:
   - culture
   - sight
 snippet: Walk through Zanzibar's legendary clove and spice plantations with a guide
+score: 6.1
 ---
 
 Zanzibar was for centuries the world's leading producer of cloves, and the island's fertile interior still grows cloves, vanilla, nutmeg, cinnamon, cardamom, black pepper, lemongrass, and jackfruit in profusion. The spice tour is a World66 cliché — almost every visitor to the island does one — but the good ones are genuinely worthwhile if you choose a smaller, locally-run operation over the tourist-bus versions.

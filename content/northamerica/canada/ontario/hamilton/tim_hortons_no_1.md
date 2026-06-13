@@ -9,6 +9,7 @@ tags:
 snippet: "The original Tim Hortons donut shop, opened in 1964"
 story: >
   Tim Horton, the NHL defenceman who lent his name to Canada's biggest fast-food chain, was killed in a car crash in 1974 while driving a Pantera sports car back to Buffalo after a game. His business partner Ron Joyce bought out the family's shares and grew the chain to over 4,000 outlets before selling to Wendy's in 1995.
+score: 5.7
 ---
 
 Store number one of what is now Canada's biggest fast-food chain still operates at 65 Ottawa Street North in east Hamilton — a few blocks from the old Stelco mill. It opened on 17 May 1964 and has been continuously serving coffee and doughnuts to Hamiltonians ever since. The store has been rebuilt twice but retains an upstairs museum-style exhibit with old uniforms, menus, ad campaigns, and photographs of Tim Horton himself.

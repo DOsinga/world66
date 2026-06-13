@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.7
 ---
 
 Dunorlan Park covers seventy-eight acres on the east side of town and is the most ambitious of Tunbridge Wells' green spaces. It was laid out in the 1860s by the Victorian landscape designer Robert Marnock for Henry Reed, a wealthy merchant. The original mansion is gone, but the lake, the formal gardens, the rose terrace and Marnock's mature trees survive.

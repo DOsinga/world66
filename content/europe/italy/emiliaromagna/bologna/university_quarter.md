@@ -7,6 +7,7 @@ snippet: Bologna's student heart, around Via Zamboni and Piazza Verdi
 tags:
 - things_to_do
 - neighbourhood
+score: 8.0
 ---
 
 The Zona Universitaria stretches northeast from the Two Towers along Via Zamboni and into the streets around Piazza Verdi. This is where most of the university's older faculties cluster — the Palazzo Poggi, the Teatro Anatomico, the Pinacoteca — and where students set the rhythm of the day.

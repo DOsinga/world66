@@ -8,6 +8,7 @@ tags:
 latitude: 21.1242
 longitude: -101.6819
 story: "The cathedral was built on the site of the original parish church that served León's founders in the 17th century. Its baroque façade — rich with carved stone ornament — was added in the late 18th century and is considered one of the finest examples of Mexican baroque in the Bajío region."
+score: 8.0
 ---
 
 León's cathedral dominates the main plaza and is the most architecturally impressive building in the city. The Catedral Basílica de Nuestra Señora de la Luz was built and expanded over several centuries, with the result that its interior shows a mix of baroque and neoclassical elements. The carved stone façade facing the plaza is particularly fine, with a level of detail that rewards close inspection.

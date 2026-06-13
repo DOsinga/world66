@@ -9,6 +9,7 @@ latitude: 36.2830
 longitude: -6.0760
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 6.3
 ---
 
 The rocky cove coastline north of Conil is well-suited to kayaking and paddleboarding — the calm inlets between the headlands are sheltered from the Atlantic swell, and several of the smaller coves are only accessible from the sea. Tour operators based on the northern beach (Playa de los Bateles north end) offer guided kayak trips that take you through the coves and into caves in the cliff base.

@@ -5,6 +5,7 @@ snippet: Twin Victorian stone piers, capped with lighthouses, reaching out into 
 tags: [things_to_do, sight]
 latitude: 54.4938
 longitude: -0.6130
+score: 7.8
 ---
 
 The harbour at Whitby is protected by two long stone piers that curve out into the North Sea. The current western pier was built in 1831–32 by Francis Pickernell, with a graceful tapered stone lighthouse at its head; the eastern pier and its lighthouse followed in the 1850s. Both piers were extended with steel-framed sections in the early 20th century.

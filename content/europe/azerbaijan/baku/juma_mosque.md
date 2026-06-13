@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - icherisheher
+score: 7.0
 ---
 
 The Juma (Friday) Mosque in the Old City stands on what is believed to be the site of an ancient fire temple, converted to a mosque after the Arab conquest in the seventh century. The present building is mostly from the fifteenth century with a separate minaret from 1437, and a Tsarist-era restoration giving it some of its current details.

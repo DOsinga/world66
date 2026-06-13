@@ -9,6 +9,7 @@ latitude: 33.7717
 longitude: 73.8961
 sources:
   - https://en.wikipedia.org/wiki/Hajira,_Poonch
+score: 5.0
 ---
 
 Hajira's central bazaar is the commercial and social heart of the tehsil. It is a small but functional market — hardware, fabric, basic groceries, a few pharmacies — that serves the surrounding villages as much as the town itself. On market days, traders and farmers come in from the hills, and the streets become a good deal more animated.

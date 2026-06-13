@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Out-of-town restaurant and venue with a working garden
+score: 7.7
 ---
 
 A self-styled "sustainable hotel and restaurant" on the road to Frankton, set in a former 1980s motel that has been gutted and rebuilt with reclaimed materials and solar panels. The restaurant grows much of its produce in the adjoining gardens, the menu changes constantly, and live music takes over the lounge most weekends.

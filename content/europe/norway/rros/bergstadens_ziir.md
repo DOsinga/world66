@@ -9,6 +9,7 @@ latitude: 62.5723
 longitude: 11.3844
 story: >
   When the Røros smelting works closed in 1953, workers simply walked out and left everything in place. The machinery, the tools, the half-finished ledgers — all remained untouched for decades. When the building was finally opened as a museum, it was essentially intact: a rare case of industrial heritage preserved by neglect rather than by deliberate conservation effort.
+score: 8.2
 ---
 
 The Smelting Works (Smeltehytta) in the town centre is the most dramatic building in Røros. The great stone smelting hall dates from 1646, rebuilt after a fire in 1975 and restored to working condition for museum purposes. The copper ore extracted from the surrounding mines was processed here; the heat and noise of the operation dominated the town for over three centuries.

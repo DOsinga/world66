@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Beer-focused bar in the port, with a cellar stocking bottles from around the world
+score: 5.4
 ---
 
 A friendly bar in the port area with indoor and terrace seating, and a respectable tapas menu. The real draw is the beer cellar: hundreds of bottles from across Europe and beyond — Belgian Trappists, German weiss, the inevitable Jamaican Red Stripe and Cuban Bucaneros — plus a decent rotating selection of French craft beers from Languedoc and Roussillon.

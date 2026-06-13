@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 60.86
 longitude: 7.11
+score: 6.8
 ---
 
 Norway in a Nutshell is the name given to a classic one-day or two-day touring route combining train, ferry, and bus through the most dramatic section of the Sognefjorden. The standard route runs from Bergen: train to Myrdal, then the Flåmsbana railway down to Flåm, ferry along the Aurlandsfjord and through the Nærøyfjord to Gudvangen, bus to Voss, and train back to Bergen. It takes a full day and covers all the main attractions.

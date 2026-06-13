@@ -10,6 +10,7 @@ tags:
 neighbourhood: Downtown
 title: John K. King Used & Rare Books
 type: poi
+score: 8.4
 ---
 
 John King's used bookstore fills a four-storey former Advance Glove factory just west of downtown, with more than a million books on the shelves. The aisles are tight, the heating is patchy, and the categorisation is famously eccentric — but the depth of the inventory is extraordinary. The rare books are in a separate showroom by appointment.

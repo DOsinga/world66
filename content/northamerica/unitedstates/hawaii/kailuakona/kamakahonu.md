@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "King Kamehameha I — the chief who unified the Hawaiian Islands — spent the last seven years of his life here, dying at Kamakahonu in 1819. His son, Kamehameha II, abolished the kapu system the same year by sitting down to eat with his mother and queens, an act of public defiance against centuries of religious law. Christian missionaries arrived less than six months later."
+score: 7.8
 ---
 
 Kamakahonu was the royal residence and political capital of the unified Hawaiian Kingdom from 1812 to 1819 — the seat of King Kamehameha I in the final years of his reign and the site of his death. The compound sat on a small protected cove at the north end of Kailua Bay, where a reconstructed thatch temple, Ahuena Heiau, now stands.

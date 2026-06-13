@@ -13,6 +13,7 @@ story: >
   for its bone-coloured sand and clear water. It is generally quieter than Loblolly Bay 
   and attracts a slightly more determined beachgoer, since getting here requires a bit 
   more effort on the island's rough tracks.
+score: 7.0
 ---
 
 Cow Wreck Beach is at the western end of Anegada's north shore — quieter than Loblolly Bay and requiring a longer drive on rough tracks from The Settlement. The reward is a wide beach with clear water and, on most days, very few other people.

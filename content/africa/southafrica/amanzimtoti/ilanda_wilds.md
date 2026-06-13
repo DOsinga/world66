@@ -7,6 +7,7 @@ tags:
 latitude: -30.05138
 longitude: 30.86722
 snippet: "Small forested nature reserve along the Amanzimtoti River"
+score: 7.2
 ---
 
 A modest 32-hectare reserve hugging the banks of the Amanzimtoti River as it works its way down to the coast. The reserve protects one of the last surviving patches of coastal scarp forest in the area — tall yellowwoods and milkwoods over a dense understorey, with a network of walking trails crossing wooden boardwalks and small bridges over the river.

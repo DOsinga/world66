@@ -13,6 +13,7 @@ story: >
   classic hard climbs of the Alps. The central Cima Grande's north face — 550 metres of near-
   vertical dolomia — was finally climbed in 1933 by Emilio Comici and the Dimai brothers, using
   techniques that had never been attempted at altitude before.
+score: 9.8
 ---
 
 The three pinnacles of the Tre Cime are the most recognisable rock formation in the Dolomites — three prongs of pale limestone rising above 2,900 metres above the Sesto plain, their silhouette instantly identifiable from every direction. They stand in the Sexten Dolomites at the far eastern end of the range, near the Austrian border, and the circular trail around their base is one of the most popular hikes in Italy.

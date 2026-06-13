@@ -6,6 +6,7 @@ longitude: -1.5190
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 A bar-restaurant on Avenue Kwame Nkrumah specialising in grilled meat — chicken, fish, brochettes, the occasional lamb — served with rice or french fries and a small salad. It is an excellent place to discover Burkinabé grill culture without venturing into the streetside maquis (informal grill bars).

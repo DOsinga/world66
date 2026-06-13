@@ -12,6 +12,7 @@ story: >
   They chose Bo'ao because it was literally in the middle of nowhere: a tiny peninsula
   where three rivers meet the sea, far enough from any major city to ensure that
   delegations would stay put and actually talk to each other.
+score: 6.3
 ---
 
 The Boao Forum for Asia is the reason most non-Chinese travellers have heard of Bo'ao at all. Founded in 2001 and modelled on the World Economic Forum at Davos, it brings together heads of state, business leaders, and academics from across Asia every spring for several days of panels, bilateral meetings, and the particular atmosphere of a diplomatic gathering stranded on a peninsula with limited exit options. The permanent conference centre occupies Dongyu Island, the largest island at the river mouth, connected to the town by a bridge.

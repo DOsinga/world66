@@ -6,6 +6,7 @@ longitude: 18.8184
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 The Mausoleum of Petar II Petrović-Njegoš sits on the summit of Mount Lovćen at 1,657 metres, accessible by a 461-step climb through a tunnel cut into the mountain. The current mausoleum, completed in 1974 to a design by the Yugoslav sculptor Ivan Meštrović, replaced an earlier chapel; the new building has been controversial in Montenegro ever since, attacked by some as an act of Yugoslav-era cultural imposition.

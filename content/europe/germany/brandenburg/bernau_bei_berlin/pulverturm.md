@@ -4,6 +4,7 @@ tags: [things_to_do, museum, sight]
 latitude: 52.6792
 longitude: 13.5840
 type: poi
+score: 6.7
 ---
 
 The Pulverturm — the Powder Tower — is a squat round tower that was once part of Bernau's defensive circuit and served as a gunpowder store. It now houses the Wolf Kahlen Intermedia Arts Museum, a small but genuinely unusual exhibition space dedicated to media art, video installation, and digital work. Wolf Kahlen is a Berlin-based artist who has used the tower as both studio and gallery since the 1970s.

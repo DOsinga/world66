@@ -9,6 +9,7 @@ title: Gili Islands
 type: poi
 story: >
   The Gili Islands have no motorised vehicles — no cars, no motorbikes. Transport is by cidomo (a small horse cart) or bicycle. This was not an environmental policy but a practical consequence of the islands' small size and the difficulty of importing fuel. It has become one of the Gilis' defining characteristics: the silence is unusual enough that arriving visitors almost always comment on it.
+score: 8.9
 ---
 
 The Gili Islands — Gili Trawangan, Gili Meno, and Gili Air — are three small coral-ringed islands off the northwest coast of Lombok, about 30 minutes by fast boat from Bangsal or Teluk Nare. They are among the most popular tourist destinations in Indonesia, and it is easy to understand why: clear water, reliable snorkelling with turtles, white sand beaches, and no motor vehicles.

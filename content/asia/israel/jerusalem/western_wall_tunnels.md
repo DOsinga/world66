@@ -14,6 +14,7 @@ story: >
   in the ancient world. It is 13.6 metres long and 3.3 metres high, and was quarried,
   transported, and placed without cranes, rails, or wheeled vehicles. Herod's engineers
   have baffled archaeologists for two millennia.
+score: 9.1
 ---
 
 The Western Wall visible in the plaza is just a fraction of the full retaining wall of Herod's Temple Mount — most of the wall is buried underground, running northward beneath the Muslim Quarter. The tunnel tour reveals the complete length of the wall and the scale of Herod the Great's construction project becomes clear only here, where you can see the enormous foundation stones at their original depth.

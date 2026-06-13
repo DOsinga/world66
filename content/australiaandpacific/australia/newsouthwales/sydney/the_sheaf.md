@@ -8,6 +8,7 @@ tags:
 - bar
 title: The Sheaf
 type: poi
+score: 5.9
 ---
 
 A popular pub in trendy Double Bay with a great atmosphere for a relaxed drink with friends. Good food, pool tables, and a reliable crowd every night of the week.

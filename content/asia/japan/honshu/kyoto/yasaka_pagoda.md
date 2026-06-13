@@ -8,6 +8,7 @@ tags:
 - sight
 title: Yasaka Pagoda
 type: poi
+score: 7.6
 ---
 
 The Yasaka Pagoda — formally the five-storey pagoda of the temple Hōkan-ji — rises forty-six metres above the lanes of the southern Higashiyama district and is the indispensable landmark of every old-Kyoto photograph. The pagoda dates from 1440, a rebuilding of an earlier structure traditionally attributed to Prince Shōtoku in the sixth century. The temple around it is otherwise small, but the pagoda itself can occasionally be entered.

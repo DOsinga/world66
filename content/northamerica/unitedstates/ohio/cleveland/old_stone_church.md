@@ -8,6 +8,7 @@ snippet: The oldest building on Public Square, with Tiffany stained-glass window
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The Old Stone Church is a Romanesque Revival Presbyterian church on the north side of Public Square, completed in 1855 and the oldest surviving building on the square. The exterior is austere — heavy stone, twin towers added later — but the interior is a surprise: a deep arched nave lit by stained-glass windows from Louis Comfort Tiffany and Charles Connick, and a coffered wooden ceiling restored after fires in 1857 and 1884.

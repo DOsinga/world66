@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 story: "Local belief holds that the goddess beheaded the tantric Bhairav Nath here when he refused to stop pursuing her. As he died he asked her forgiveness, and she granted that no yatra would be considered complete until pilgrims had also visited his shrine — making the man who chased her a permanent part of her cult."
+score: 7.8
 ---
 
 Two and a half kilometres beyond the main shrine, on a higher peak at 1,950 metres, Bhairav Nath is the small temple that traditionally completes the pilgrimage. The climb adds about three more hours each way, with steep sections and thin mountain air.

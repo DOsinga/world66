@@ -9,6 +9,7 @@ title: Take a step forward to unleash the charm of your relationship with outsta
   gifts
 type: poi
 url: www.singaporeflowershop.com
+score: 1.0
 ---
 
 Normal

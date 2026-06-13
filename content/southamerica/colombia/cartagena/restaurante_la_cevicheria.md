@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: La Cevichería
 type: poi
+score: 7.1
 ---
 
 La Cevichería is one of the most consistently recommended restaurants in Cartagena's walled city, specialising in ceviche and cold seafood preparations with a Caribbean influence. The style is different from Peruvian ceviche — lighter on the acid, heavier on coconut milk and tropical fruit — and the quality of the fish is high, supplied by the same coast that makes this one of Colombia's great seafood cities.

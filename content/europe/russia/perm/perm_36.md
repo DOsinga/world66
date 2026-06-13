@@ -14,6 +14,7 @@ story: >
   "anti-Soviet agitation." The camp's survival as a museum became
   politically contested after 2014, when Russian nationalist groups
   pressured the administration to soften its anti-Soviet framing.
+score: 8.9
 ---
 
 Perm-36 (officially the Memorial Museum of the History of Political Repression) is one of the most significant human rights museums in Russia. The site is the remains of an actual Soviet labour camp (corrective labour colony No. 36) that operated from 1946 to 1988, the last Gulag camp in Russia. The preserved barracks, guard towers, isolation cells, and workshop buildings give a physical reality to the abstract knowledge of what the Soviet camp system entailed.

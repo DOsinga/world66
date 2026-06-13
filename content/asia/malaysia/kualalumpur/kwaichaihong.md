@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - chinatown
   - sight
+score: 6.7
 ---
 
 A formerly derelict back alley in Chinatown — Lorong Panggung — restored in 2019 with a series of immersive murals depicting Cantonese street life in 1960s KL: gangsters, mahjong players, schoolchildren, a fruit seller, a fortune teller. The name means "Little Demon Alley", supposedly a reference to the small boys who used to scamper through the lane making mischief.

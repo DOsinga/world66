@@ -7,6 +7,7 @@ tags:
 - bar
 title: Cloud 9
 type: poi
+score: 6.1
 ---
 
 A rooftop bar and restaurant in central Thimphu with open-air seating looking out over the city. The menu covers pizza, pasta, and Bhutanese dishes; the draw is the terrace and the elevated perspective on the capital. Beer, spirits, and ara (the local grain spirit) are on offer. Popular with young Bhutanese professionals and NGO workers on weekend evenings. Reservations are worth making on Friday and Saturday nights.

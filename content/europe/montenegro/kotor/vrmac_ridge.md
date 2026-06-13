@@ -6,6 +6,7 @@ longitude: 18.7280
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Vrmac is the long limestone ridge that separates the inner Bay of Kotor from the wider Bay of Tivat, running for about 12 kilometres at an altitude of 500–700 metres. The trail along its spine is one of the best half-day walks in the region — exposed ridge, scrub forest, ruined Austro-Hungarian forts at intervals, and broken-out views to both bays.

@@ -8,6 +8,7 @@ latitude: -45.4404
 longitude: 167.6863
 story: >
   The Kepler Challenge, a mountain race covering the full 60 km of the track in a single day, has been run every December since 1988. The record stands at around four hours — a pace that requires running sections most walkers take four days to complete.
+score: 9.0
 ---
 
 The Kepler Track is a 60 km circuit starting and finishing at the Control Gates on the Waiau River, walkable from the Te Anau town centre. Unlike most of New Zealand's Great Walks, it requires no boat transfers and can be started directly from town. The track climbs through beech forest to an exposed alpine ridge with sweeping views over Lakes Te Anau and Manapouri, then descends through the Iris Burn valley and returns along the lakeshore.

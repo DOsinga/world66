@@ -1,6 +1,7 @@
 ---
 title: "Hirakud Dam"
 type: poi
+score: 8.3
 ---
 
 Completed in 1957, the Hirakud Dam is one of the longest earthen dams in the world, stretching approximately 25 kilometres across the Mahanadi River about 15 kilometres from Sambalpur. It was one of India's first major post-independence infrastructure projects and remains an engineering landmark. The dam's two observation towers — Gandhi Minar and Nehru Minar — are open to visitors and give sweeping views across the reservoir and the surrounding plains. The approach road is lined with gardens and the atmosphere on weekends is festive.

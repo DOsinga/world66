@@ -11,6 +11,7 @@ title: St Peter's Church
 type: poi
 story: >
   St Peter's spire has burned down and been rebuilt three times. After the most recent reconstruction in 1973, a bottle of cognac was placed inside the weathercock at the top; Riga legend has it that the cognac determines the church's fate — if the bottle is intact when the spire eventually comes down, the church will be rebuilt.
+score: 7.7
 ---
 
 St Peter's Church (Sv. Pētera baznīca) is the tallest structure in the Old Town and the defining landmark of the Riga skyline. The Gothic church dates to the 15th century, though it has been rebuilt repeatedly — the current spire is a post-war reconstruction from 1973, fitted with a viewing gallery at 72 metres.

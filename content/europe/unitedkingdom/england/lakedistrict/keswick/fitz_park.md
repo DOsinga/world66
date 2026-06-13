@@ -6,6 +6,7 @@ tags:
   - park
 latitude: 54.6035
 longitude: -3.1349
+score: 5.2
 ---
 
 The town's open green space, on the north bank of the River Greta between the centre and the museum. There are tennis courts, a bowling green, a children's playground, a bandstand, and grass to lie on. The river runs fast and shallow along its southern edge.

@@ -12,6 +12,7 @@ story: >
   river grasses and small crustaceans in the waterways around Qionghai, which gives
   the meat a richness that farm-raised ducks can't match. The slow-braising technique
   with local herbs has been refined here for generations.
+score: 7.0
 ---
 
 The Wanquan River waterfront in Qionghai is lined with low wooden tables and tiled restaurants serving Jiaji duck, one of the four classic dishes of Hainanese cuisine. The duck is slow-braised in a stock of local herbs and aromatics, with the cooking time long enough to render the meat from the bone but short enough to preserve the texture. It is served at room temperature — a deliberate choice, not an oversight — with the cooking liquor as a dipping sauce and a side of rice.

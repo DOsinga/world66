@@ -16,6 +16,7 @@ story: >
   Atlantic with minimal populated landmass below the flight path. These two facts
   explain why Europe chose this particular patch of South American jungle as its
   front door to space.
+score: 8.8
 ---
 
 The Guiana Space Centre (Centre Spatial Guyanais, or CSG) is Europe's primary spaceport, used by the European Space Agency and Arianespace to launch commercial and scientific satellites. It sits about 12 km northwest of Kourou in dense coastal jungle, and has been operational since 1968. Over a thousand launches have taken place from here, and the facility remains one of the most active launch sites in the world.

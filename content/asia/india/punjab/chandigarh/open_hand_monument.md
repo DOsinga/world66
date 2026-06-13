@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Le Corbusier said the open hand should symbolise 'peace and reconciliation. It is open to give and open to receive.' The 26-metre metal sculpture, mounted on a giant pivot, was conceived to rotate freely in the wind — a public weather-vane registering the spirit of the city."
+score: 7.8
 ---
 
 The Open Hand is Chandigarh's emblem, a 26-metre sheet-metal sculpture by Le Corbusier set on a slow-turning pivot at the edge of the Capitol Complex. The hand is the city's official symbol and one of the few Corbusian monuments anywhere designed to move.

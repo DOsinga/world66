@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "The hill-station capital of Coorg, draped over a series of ridges."
 story: "The Madikeri Fort was originally built of mud by the Haleri Raja in the 17th century and rebuilt in stone by Tipu Sultan, who briefly took control of the region in 1781. The British in turn captured it in 1834, ending Kodava self-rule."
+score: 7.2
 ---
 
 Madikeri is the administrative heart of Coorg, a small, walkable hill town built across a tangle of ridges at 1,170 metres. The streets twist sharply up and down; most travellers use Madikeri less as a destination in itself than as a base for the estates and waterfalls in the surrounding hills.

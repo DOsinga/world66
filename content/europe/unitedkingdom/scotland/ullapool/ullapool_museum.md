@@ -7,6 +7,7 @@ tags:
 latitude: 57.8965
 longitude: -5.1594
 story: "The building was constructed in 1829 as a Telford Parliamentary church — one of 43 built across the Highlands to a standard Thomas Telford design, part of a government effort to extend Church of Scotland provision into remote areas after the disruption caused by the Highland Clearances."
+score: 7.2
 ---
 
 Housed in a converted Thomas Telford-designed Parliamentary church on West Argyle Street, Ullapool Museum tells the story of the town and the surrounding northwest Highlands from pre-history to the present. The exhibits cover the geology of the ancient Torridonian sandstone landscape, the Norse settlers who named many of the local places, the fishing economy that has sustained Ullapool since the herring boom of the eighteenth century, and the Highland Clearances that emptied much of the interior.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 9.1450
 longitude: 124.7200
+score: 7.2
 ---
 
 Jigdup Shoal is one of Camiguin's best dive sites — a submerged reef on the island's south coast where the volcanic topography creates dramatic underwater walls and canyons. The shoal drops sharply from about 5 metres to over 30, and the wall is covered in soft corals and sea fans. The concentration of fish is high, with regular sightings of jacks, barracuda, and reef sharks.

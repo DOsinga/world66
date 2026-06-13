@@ -9,6 +9,7 @@ longitude: 27.5614
 snippet: The grand ceremonial heart of Stalinist Minsk, flanked by the Palace of the Republic
 story: >
   October Square was laid out as the centrepiece of postwar Minsk, deliberately designed to dwarf the human figure and instil awe at the power of the Soviet state. When 15 people were killed here in a bomb attack on the metro station below in April 2011, it became a different kind of memorial — Belarus executed the two perpetrators within a year, in proceedings that drew widespread criticism from human rights organisations.
+score: 5.6
 ---
 
 October Square — Kastrychnitskaya Ploshcha in Belarusian — is the political and symbolic heart of the city, a vast paved expanse that makes even Red Square in Moscow feel intimate. The scale is deliberate: Soviet architects designed postwar Minsk to be a model city of the new world, and its central square needed to accommodate mass rallies and military parades.

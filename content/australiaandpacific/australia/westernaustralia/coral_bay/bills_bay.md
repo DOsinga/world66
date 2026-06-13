@@ -6,6 +6,7 @@ longitude: 113.7720
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Bill's Bay is the main beach at Coral Bay — a wide curve of white sand fronting a shallow turquoise lagoon, with the reef break visible offshore. The water is calm, sheltered, and clear enough that you can see fish from the shore without a mask. Walking south along the beach for ten minutes brings you to a series of bommies (coral heads) sitting just off the sand, where snorkelling is reliably excellent.

@@ -7,6 +7,7 @@ tags:
 latitude: 46.6069
 longitude: 7.1087
 story: "The Cailler chocolate company was founded in 1819, making it the oldest Swiss chocolate brand still in existence. The Broc factory was built in 1898 beside the Jaun river, partly because the waterfall nearby could power the machinery, and the site has been making chocolate continuously ever since."
+score: 7.5
 ---
 
 The Cailler chocolate factory at Broc, a short drive or bus ride from Gruyères, offers one of Switzerland's most popular industrial visits. The tour takes you through the history of chocolate from its Central American origins to the development of Swiss milk chocolate, then through a series of theatrical rooms designed to engage the senses — culminating in a generously stocked tasting room where you can sample the range at leisure.

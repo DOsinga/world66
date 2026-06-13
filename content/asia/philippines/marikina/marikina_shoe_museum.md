@@ -15,6 +15,7 @@ story: >
   and local shoemakers.
 sources:
   - https://en.wikipedia.org/wiki/Marikina_Shoe_Museum
+score: 8.0
 ---
 
 The Marikina Shoe Museum is the reason most visitors make the trip out here. Housed in a purpose-built structure near the city hall complex on JP Rizal Avenue, it holds the world's largest collection of shoes from a single individual: Imelda Marcos's personal wardrobe of more than 3,000 pairs. The range is extraordinary — platforms, stilettos, embroidered slippers, jewelled sandals, evening shoes in every colour — and the effect is somewhere between a history lesson and a fever dream.

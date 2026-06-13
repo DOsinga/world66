@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.9
 ---
 
 The historic district covers most of downtown Apalachicola — roughly 900 buildings dating from the 1830s through the early 1900s, listed on the National Register since 1980. The streets run on the original 1836 grid, with avenues lettered A through M running parallel to the river and numbered streets crossing them.

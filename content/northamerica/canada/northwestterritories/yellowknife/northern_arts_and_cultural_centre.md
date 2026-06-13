@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 62.4525
 longitude: -114.3617
+score: 6.5
 ---
 
 The Northern Arts and Cultural Centre (NACC) is Yellowknife's main venue for live performance, film, and visual arts. It occupies a dedicated wing within Sir John Franklin High School — an arrangement that reflects the pragmatic use of space in a small northern city — and hosts touring theatre companies, local dance groups, film festivals, and music concerts throughout the year.

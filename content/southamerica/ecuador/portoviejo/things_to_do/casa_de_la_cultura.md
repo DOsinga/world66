@@ -8,6 +8,7 @@ latitude: -1.0543
 longitude: -80.4518
 sources:
   - https://allyouneedisecuador.com/portoviejo-ecuador/
+score: 6.4
 ---
 
 The Casa de la Cultura is Ecuador's national cultural institution, and the Manabí chapter in Portoviejo runs a programme of rotating exhibitions, live music, theatre and craft workshops. The building has gallery space showing work by local and national artists, and a small permanent collection covering Manabí folk traditions including coastal weaving, ceramics and the crafts associated with Panama hat production.

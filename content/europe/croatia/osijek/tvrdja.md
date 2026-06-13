@@ -10,6 +10,7 @@ longitude: 18.6953
 snippet: "18th-century Habsburg fortress with cobbled squares, yellow barracks, and outdoor cafes"
 story: >
   Tvrđa was built by the Habsburgs after their victory over the Ottomans at the end of the 17th century. The fortress was designed to hold 10,000 soldiers and was one of the most important defensive positions on the Danubian military frontier. Almost uniquely among Croatian towns, its baroque core survived the wars of the 1990s essentially intact, though artillery damage is still visible on some buildings.
+score: 9.1
 ---
 
 The Tvrđa — Osijek's inner fortress town, built by the Habsburg military between 1712 and 1756 — is the most impressive surviving baroque ensemble in Croatia outside Dubrovnik. A regular grid of yellow ochre barracks, mansions, and churches, all built in the Austrian military baroque style, surrounds two squares: the wide Trg Svetog Trojstva (Holy Trinity Square) and the adjacent Military Square.

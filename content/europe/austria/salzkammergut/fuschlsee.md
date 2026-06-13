@@ -14,6 +14,7 @@ story: >
   lodge. It is now a luxury hotel. The irony that one of the architects of
   the war's worst crimes retreated to one of Austria's most beautiful spots
   is not much advertised.
+score: 7.2
 ---
 
 The Fuschlsee is a small, perfectly formed lake west of [Mondsee](/europe/austria/salzkammergut/mondsee) and close to Salzburg — only 20 kilometres from the city. It is one of the warmest lakes in the Salzkammergut for swimming, sheltered by surrounding hills and with a water temperature that regularly reaches 24°C in summer. The lake is protected as part of a nature reserve; motorboats are banned, which keeps it quieter than the larger lakes.

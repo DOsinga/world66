@@ -9,6 +9,7 @@ tags:
 - sight
 title: Port de Le Havre
 type: poi
+score: 7.8
 ---
 
 The Port de Le Havre is one of the great working ports of Europe, handling container ships, roll-on/roll-off ferries, cruise liners, and tankers across a vast complex of docks and quays stretching south from the city centre along the Seine estuary. The port has operated here since François I founded the city in 1517 and today handles almost all of France's containerised trade with Asia.

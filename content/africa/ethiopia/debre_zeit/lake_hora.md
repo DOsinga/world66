@@ -13,6 +13,7 @@ story: >
   the Oromo people, the largest gathering of its kind in Ethiopia. Hundreds
   of thousands of pilgrims dressed in white travel here on the first Sunday
   of October to give thanks at the lakeshore.
+score: 6.8
 ---
 
 A crater lake immediately east of Lake Bishoftu, with a more rounded, gentler profile. The Hora Recreation Centre on the western shore is the long-running lakeside park — pedalos, paddleboards, a small zoo of African game animals, and a cafe sit above the water.

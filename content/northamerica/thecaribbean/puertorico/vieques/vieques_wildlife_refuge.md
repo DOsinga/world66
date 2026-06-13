@@ -10,6 +10,7 @@ latitude: 18.1167
 longitude: -65.4167
 story: >
   The refuge was created in 2001 from land seized for the US Navy's bombing range in 1941. Decades of ordnance practice left parts of the eastern peninsula heavily contaminated, and large interior sections remain off-limits to visitors today while clean-up continues. The accessible beaches and trails were declared safe and reopened to the public after careful surveys.
+score: 8.6
 ---
 
 The Vieques National Wildlife Refuge covers roughly half of the island — about 18,000 acres, the largest refuge in the Caribbean. Most of the famous beaches inside it (Red, Blue, Garcia) sit on former Navy bombing-range land that has been cleaned, surveyed, and reopened, while much of the eastern interior is still closed for ongoing remediation.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Tour Es-Sarragine
 type: poi
+score: 6.9
 ---
 
 **Tour Es-Sarragine** ("Saracen Tower") stands at the western extremity of the Taza medina walls and is architecturally unusual: it is square at the base and circular at the top, a combination that reflects different construction phases or possibly two separate towers built adjacent to each other over centuries. It provides a vantage point over the western approach to the city and across towards the Middle Atlas.

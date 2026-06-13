@@ -11,6 +11,7 @@ story: >
   could live exactly as she wanted after her husband's death. The result was so radical
   that the city initially refused a building permit. Schröder lived in the house for
   60 years, until her death in 1985, and Rietveld kept a studio next door for decades.
+score: 8.9
 ---
 
 A UNESCO World Heritage Site and the purest expression of De Stijl architecture ever built. Designed by Gerrit Rietveld in 1924, the house looks like a three-dimensional Mondrian painting: intersecting planes of white, grey, red, yellow, and blue, with no visible boundaries between inside and outside. The upper floor has almost no fixed walls — sliding panels allow the entire space to be reconfigured from open plan to separate rooms.

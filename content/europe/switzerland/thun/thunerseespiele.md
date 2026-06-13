@@ -14,6 +14,7 @@ story: >
   weather, the shows go on — the audience watches under a roof canopy while the
   stage floats in the rain. The productions are large-scale musicals and operas,
   performed in German, typically running from July to September.
+score: 6.9
 ---
 
 Every summer, a floating stage is assembled on Lake Thun for the Thunerseespiele — open-air musical theatre performed on the water with the mountains as a backdrop. The stage floats just offshore from the lakeside venue south of the old town, and on clear evenings the combination of music, water, and the Bernese Alps makes for a memorable experience.

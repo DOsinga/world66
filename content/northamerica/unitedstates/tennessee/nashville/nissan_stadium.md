@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - music_venue
+score: 5.8
 ---
 
 The 69,000-seat stadium on the east bank of the Cumberland, home of the **Tennessee Titans** of the NFL since 1999, and host to large stadium concerts and to the annual **CMA Fest** in June. The stadium is in the middle of a major rebuild — a fully roofed, new $2 billion building is scheduled to open in 2027 next to the existing one.

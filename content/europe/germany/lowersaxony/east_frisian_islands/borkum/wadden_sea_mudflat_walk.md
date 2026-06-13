@@ -12,6 +12,7 @@ story: >
   Esbjerg. It was added to UNESCO's World Heritage List in 2009 for its biological significance: 
   an estimated 10 to 12 million migratory birds pass through each year, more than anywhere else 
   on the planet.
+score: 8.5
 ---
 
 The Wadden Sea on Borkum's sheltered south side is accessible only at low tide, when the water retreats to reveal kilometres of mud flats, tidal channels, and sandbars. Walking out into the Watt — as Germans call it — reveals an ecosystem invisible from the shore: lugworms, cockles, shrimps, and the tracks of birds that have been feeding here for hours. The silence, the smell of the sea, and the vast flat horizon make it one of the more extraordinary walks available anywhere in northern Europe.

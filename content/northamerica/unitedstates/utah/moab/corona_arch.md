@@ -8,6 +8,7 @@ latitude: 38.5800
 longitude: -109.6025
 story: >
   Corona Arch was a rope-swing destination before Moab authorities banned the practice after an accident in 2012. The arch — 140 feet wide and 105 feet tall — was used for extreme rope swings with a pendulum arc of 1,000 feet, filmed for YouTube. The videos brought celebrity to the arch but also the ban, and the site is now a hiking destination only.
+score: 8.2
 ---
 
 Corona Arch is one of the most impressive arches in the Moab area and sees a fraction of Arches National Park's crowds, largely because it sits on BLM land outside the park boundary. The arch is enormous — 140 feet wide and 105 feet tall — and the hike to reach it is varied and interesting, crossing slickrock, climbing a short ladder, and ascending a fixed cable section before arriving at the base of the arch.

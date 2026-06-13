@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 55.7000
 longitude: 9.5731
+score: 5.8
 ---
 
 The E45 motorway crosses Vejle Fjord on a cable-stayed bridge that has become one of the most recognisable landmarks in Jutland. The main span is around 600 metres and the pylons rise to 100 metres; from the water or the opposite shore the bridge reads cleanly against the wooded hillsides behind it. Construction finished in 1980 and a parallel bridge was added in 1996 to carry the growing traffic.

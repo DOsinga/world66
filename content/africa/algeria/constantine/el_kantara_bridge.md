@@ -13,6 +13,7 @@ story: >
   in the rock above the modern bridge. The current structure was built in 1912 on Roman
   foundations, giving it one of the longest pedigrees of any crossing in North Africa.
 snippet: Roman-foundation bridge over the Rhumel Gorge with the best views of Constantine's cliff-face cityscape
+score: 7.8
 ---
 
 El Kantara is the most central of Constantine's bridges — the one you will cross most often if staying in the old city — and arguably offers the best view of the gorge, looking north toward the Sidi M'Cid suspension bridge with the cliff-face buildings of the old medina stacked above you on the left. The arch is low and broad, spanning the narrowest accessible point of the Rhumel canyon.

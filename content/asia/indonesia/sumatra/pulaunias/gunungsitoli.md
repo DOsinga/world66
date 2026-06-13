@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 1.2840
 longitude: 97.6188
+score: 5.8
 ---
 
 Gunungsitoli is the largest town on Nias, with the island's airport, main port, and most of the practical infrastructure — banks, hospital, supermarkets. It is not a beautiful place; most of the older buildings were destroyed in the 2005 earthquake and subsequent tsunami, and the rebuilt town is largely modern concrete.

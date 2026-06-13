@@ -9,6 +9,7 @@ tags:
 - berlinmitte
 title: Agent 666
 type: poi
+score: 5.8
 ---
 
 A small clubwear shop on Alte Schönhauser Strasse in Mitte, stocking bold, dark fashion with a goth-industrial edge. Prices are reasonable and the selection rotates frequently. Worth a browse if you're looking for something you won't find back home.

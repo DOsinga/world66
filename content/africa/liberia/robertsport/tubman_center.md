@@ -9,6 +9,7 @@ tags:
 latitude: 6.7510
 longitude: -11.3700
 story: The centre opened in 1964 and once held one of West Africa's best collections of African masks, textiles and ceremonial objects. The collection was looted during the civil war and the building has stood abandoned ever since, a poignant emblem of what the wars cost the country.
+score: 8.1
 ---
 
 The Tubman Center of African Culture is a concrete modernist building set on a low ridge overlooking the ocean at the edge of Robertsport. Built in the early 1960s under the presidency of William Tubman as a museum, library and cultural centre for the country's western region, it was a striking and ambitious project at the time — one of several signature buildings of Tubman's modernising era.

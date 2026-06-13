@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.3752
 longitude: 106.6577
+score: 6.2
 ---
 
 Douhua — soft tofu served in a bowl of chilli oil, fermented black beans, and pickled vegetables — is the second staple of Qingyan's street food culture, sold from small stalls throughout the town for around ¥5 a bowl. The Guizhou version is considerably spicier than versions found elsewhere in China, and the fermented components give it a depth that the milder Sichuan versions lack.

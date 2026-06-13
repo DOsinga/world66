@@ -1,6 +1,7 @@
 ---
 title: "Majori and Dubulti Beach"
 type: poi
+score: 8.8
 ---
 
 The beach at Majori is the widest and most accessible stretch of Jurmala's long coastline, reached in a few minutes' walk north from the train station. The sand is fine and pale, backed by low dunes and a strip of pines. The water is shallow far out, making it safe for children, and the lack of tides keeps conditions calm. By Baltic standards, the beach is wide — easily 50 metres of sand at low water even in peak season.

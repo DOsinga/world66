@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 7.2520
 longitude: 5.1950
+score: 6.5
 ---
 
 Akure's main market area is the best place to feel the pulse of the city. Produce stalls sell the agricultural output of the surrounding Ondo State countryside: cocoa beans, rubber, palm oil, tropical fruits, dried fish, and bush meat. The market operates every day but is busiest in the mornings and on market days, which follow the traditional Yoruba four-day cycle.

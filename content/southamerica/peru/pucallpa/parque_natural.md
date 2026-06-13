@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: A small municipal zoo and forest park north of the centre.
+score: 6.2
 ---
 
 The Parque Natural is part zoo, part urban forest reserve, occupying about 30 hectares on the road between central Pucallpa and Yarinacocha. The animal enclosures are functional rather than impressive — jaguars, ocelots, monkeys, river turtles, an old anaconda — but the surrounding forest is genuine, with a small lake and a wooden lookout tower.

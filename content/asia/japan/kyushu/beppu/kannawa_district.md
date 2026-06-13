@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.3100
 longitude: 131.4940
+score: 8.7
 ---
 
 Kannawa is the most atmospheric of Beppu's onsen spa towns, a district in the northern part of the city where steam rises from pipes and vents in the ground, the air smells faintly of sulphur, and nearly every building is either a bathhouse or a ryokan. The jigoku (hells) are concentrated here, and the narrow streets between them are lined with vendors selling hell-steamed eggs and hot-spring puddings cooked in geothermal steam boxes.

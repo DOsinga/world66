@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Kahayan Bridge
 type: poi
+score: 6.5
 ---
 
 The Kahayan Bridge is the cable-stayed orange-painted steel span that crosses the river just north of the city centre — by some distance the most photographed landmark in Palangka Raya. Built in the early 2000s, it ended decades of dependence on small ferries and connects the city to the road network heading east towards Banjarmasin.

@@ -8,6 +8,7 @@ tags:
 title: Dimitrie Sturdza Steamer
 type: poi
 story: "Built in Linz in 1914 as the imperial yacht of the Austro-Hungarian Danube fleet, the Dimitrie Sturdza was later used by King Carol II of Romania for state cruises along the lower Danube. It is one of the last surviving paddle steamers of its kind on the river."
+score: 7.7
 ---
 
 The black-and-white paddle steamer permanently moored at the lower Faleza is hard to miss. Now operating as a restaurant and small museum, the Dimitrie Sturdza was built in 1914 in Linz and spent most of its working life on the Danube under several flags — Austro-Hungarian, Romanian royal, and later Romanian state.

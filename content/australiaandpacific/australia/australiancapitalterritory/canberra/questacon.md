@@ -4,6 +4,7 @@ type: poi
 latitude: -35.2960
 longitude: 149.1257
 tags: [things_to_do, sight, museum, science, parliamentary_triangle]
+score: 7.5
 ---
 
 Questacon, the National Science and Technology Centre, on the southern shore of Lake Burley Griffin near the National Library, is one of the country's most popular family attractions. It is a working hands-on science museum modelled on the Exploratorium in San Francisco — eight galleries of interactive exhibits ranging from optical illusions and sports physics to weather, sound and biology.

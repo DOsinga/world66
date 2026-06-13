@@ -11,6 +11,7 @@ story: >
   a private estate in the colonial period before being converted to a public park after
   independence. The botanical gardens still carry some of that estate character — mature trees
   and formal plantings that feel quite different from the scrubby bush surrounding most of Lusaka.
+score: 7.3
 ---
 
 About 15 kilometres south of the city centre, Munda Wanga combines a small zoo, botanical gardens, and the Monkey Pools — a series of natural rock pools along the Kafue tributary that are popular with local families on weekends. The zoo is modest by international standards but is well-run and focused on rehabilitation of injured Zambian wildlife. Vervet monkeys, crocodiles, zebras, and various antelope species are among the residents.

@@ -5,6 +5,7 @@ snippet: Seat of the regional parliament in a restored former hospital
 tags: [things_to_do, sight, architecture]
 latitude: 50.464
 longitude: 4.8735
+score: 6.6
 ---
 
 Namur is the capital of Wallonia, and the Walloon Parliament sits in the Hospice Saint-Gilles on the right bank of the Meuse — a former hospital and almshouse complex converted in the 1990s into a working legislative chamber. The building combines old stonework with a striking glazed atrium, and the contrast is at the heart of its appeal.

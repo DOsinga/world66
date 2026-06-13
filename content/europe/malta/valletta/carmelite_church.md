@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 35.8993
 longitude: 14.5113
+score: 6.6
 ---
 
 The Carmelite Church on Old Mint Street is the largest church in Valletta by volume, distinguished by its large elliptical dome visible from across the city. The current building dates from the 20th century — the original church was bombed in 1942 and the dome that survived was incorporated into the new building, which was completed in 1981. The interior is spacious and Baroque in character, with a richly decorated high altar.

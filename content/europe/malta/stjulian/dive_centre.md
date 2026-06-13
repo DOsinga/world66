@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.9165
 longitude: 14.4920
+score: 7.1
 ---
 
 The rocky coast around St Julian's has several good dive and snorkel sites accessible directly from shore. The water clarity is excellent by Mediterranean standards, and the rocky reefs at depths of 5–25 metres hold octopus, moray eels, bream, and the occasional seahorse. Several dive centres operate out of St Julian's and Paceville, offering PADI courses and guided dives for beginners as well as experienced divers.

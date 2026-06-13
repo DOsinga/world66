@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 13.6822
 longitude: 79.3506
+score: 7.2
 ---
 
 A small but well-curated museum on the Tirumala hilltop, near the temple complex. The exhibits cover the history, mythology, and ritual life of the Sri Venkateswara temple — bronze sculptures, manuscripts, traditional musical instruments, oil paintings and lithographs depicting episodes from the temple's history, and architectural fragments from earlier phases of the temple.

@@ -9,6 +9,7 @@ address: "9 Drayton St, Savannah, GA 31401"
 phone: "(912) 232-8501"
 latitude: 32.079019
 longitude: -81.090582
+score: 5.8
 ---
 
 A proper British-style pub right on Drayton Street in the historic district, Churchill's is one of Savannah's longest-running bars. The tap list leans heavily on imports alongside local Georgia brews, and the dark-wood interior feels convincingly pub-like rather than themed. It draws a mixed crowd of regulars and visitors who drift in after walking the nearby squares.

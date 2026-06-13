@@ -8,6 +8,7 @@ latitude: 42.8214
 longitude: -1.6437
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Navarre
+score: 8.0
 ---
 
 Housed in a former 16th-century hospital on Cuesta de Santo Domingo, the Museum of Navarra is the region's flagship collection. The building is beautiful in itself — a Renaissance portico connects the hospital to a church from 1540. Inside, the collection spans prehistory to the 20th century.

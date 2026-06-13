@@ -11,6 +11,7 @@ story: The stadium is named after Antoinette Tubman, wife of President William T
   is Liberia's national passion, and the stadium was the home ground for the era when
   George Weah — later FIFA World Player of the Year and eventually President of Liberia
   — began his career with the youth teams of Monrovia's clubs.
+score: 7.1
 ---
 
 Antoinette Tubman Stadium is the main football venue in Monrovia and the home ground of the Liberian national team and several of the country's top clubs. Matches here attract large, passionate crowds — Liberian football culture is intense, and domestic league games are genuinely atmospheric.

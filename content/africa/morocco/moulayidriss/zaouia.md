@@ -8,6 +8,7 @@ latitude: 34.0539
 longitude: -5.5273
 story: >
   Moulay Idriss I, great-grandson of the Prophet, fled the Abbasid massacre of his family at Fakhkh in 786 and made his way across North Africa to the Roman ruins of Volubilis. He was poisoned five years later — reputedly on the orders of Harun al-Rashid — and buried where the town now stands. His son, Moulay Idriss II, went on to found Fez.
+score: 7.6
 ---
 
 The green-roofed shrine at the heart of the town is the tomb of Moulay Idriss I, founder of the first Moroccan dynasty in the late eighth century and one of the holiest figures in the country. The current building dates to a substantial rebuild under Sultan Moulay Ismail in the late seventeenth century, with later additions. A horizontal wooden bar across the entrance lane traditionally marks the point beyond which non-Muslims cannot pass — you can stand at the bar, look down the tiled corridor, and watch pilgrims come and go, but no further.

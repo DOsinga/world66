@@ -9,6 +9,7 @@ latitude: 43.4455
 longitude: -79.6677
 sources:
   - https://en.wikipedia.org/wiki/Hexagon_(restaurant)
+score: 6.0
 ---
 
 Hexagon is Oakville's flagship fine-dining restaurant and the only Michelin-starred establishment between Toronto and Niagara Falls. Chef Quinn Staple opened it in a converted heritage building in Old Oakville, and the cooking is contemporary French-Canadian — technically precise, ingredient-focused, and changed regularly to follow the seasons. Tasting menus run six to eight courses and pair well with the wine list, which has depth in French and Ontario bottles.

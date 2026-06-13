@@ -10,6 +10,7 @@ longitude: 21.0312
 snippet: "A converted 19th-century power station turned cultural and retail destination on the Vistula embankment"
 sources:
   - https://en.wikipedia.org/wiki/Elektrownia_Powiśle
+score: 6.6
 ---
 
 Elektrownia Powiśle is a carefully converted 19th-century power station on the Vistula embankment, transformed into a mixed complex of shops, restaurants, bars, and cultural spaces. The original turbine halls, chimneys, and industrial infrastructure have been preserved and integrated into the design. During the German occupation it was a centre of resistance activity, sheltering weapons and printing anti-German newspapers.

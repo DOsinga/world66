@@ -8,6 +8,7 @@ latitude: 36.8957
 longitude: -106.5816
 story: >
   The Cumbres and Toltec was part of the Denver and Rio Grande's "San Juan Extension" — a narrow-gauge empire built in the 1880s to reach the silver mines of southwestern Colorado. At its peak, the system ran from Alamosa all the way to Chama, Durango and Silverton. Most of the empire was shut down as the mines played out. The Chama-to-Antonito segment survived because the states of New Mexico and Colorado bought it in 1970, preserving the longest and most spectacular section as a living museum of American railroad history.
+score: 9.4
 ---
 
 The Cumbres and Toltec Scenic Railroad is the longest, highest narrow-gauge steam railroad in North America, running 64 miles from Chama, New Mexico over the 10,015-foot Cumbres Pass to Antonito, Colorado. The railroad is a National Historic Landmark and has been operating as a heritage line since 1971, still hauling passengers behind the same coal-burning steam locomotives that worked this route in the 1880s.

@@ -11,6 +11,7 @@ tags:
 neighbourhood: Downtown
 title: GM Renaissance Center
 type: poi
+score: 5.5
 ---
 
 Seven mirrored towers cluster on the Detroit River, the tallest a 73-storey hotel that is the third-tallest all-hotel building in North America. The complex was built by a Henry Ford II–led consortium in 1977 to anchor downtown renewal and bought by General Motors in 1996 as their world headquarters. The interior atrium is famously hard to navigate — the round footprint and curved corridors confuse even regulars.

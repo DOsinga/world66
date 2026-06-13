@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9608
 longitude: 79.7018
+score: 8.5
 ---
 
 The most actively worshipped temple in Kanchipuram, and one of the three most important Shakti shrines in south India — the others being Meenakshi Amman in Madurai and Visalakshi in Varanasi. Kamakshi is a form of Parvati, and the goddess here is considered especially powerful; pilgrims come from across Tamil Nadu and beyond to seek her blessing.

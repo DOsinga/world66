@@ -7,6 +7,7 @@ snippet: "Small coastal reserve protecting bird migration habitat"
 tags:
 - things_to_do
 - park
+score: 7.4
 ---
 
 Kabli Nature Reserve covers about three square kilometres of coastal meadow, reed beds, and pine forest just north of the village. It was established to protect critical resting and feeding habitat for the migrating birds that pass through Pärnu Bay every spring and autumn — geese, cranes, waders, ducks, and small passerines. A wooden boardwalk trail loops through the reserve and connects to the bird station and observation tower.

@@ -11,6 +11,7 @@ story: >
   The saltwater crocodile (Crocodylus porosus) is the world's largest living reptile and genuinely dangerous — they have been recorded taking adult humans in the Northern Territory. The Cage of Death lets visitors enter a plexiglass cylinder lowered directly into the crocodile enclosure, giving them a face-to-face experience with animals that would otherwise view them as prey.
 sources:
   - https://en.wikipedia.org/wiki/Crocosaurus_Cove
+score: 6.8
 ---
 
 Right in the middle of Mitchell Street, Darwin's main tourist strip, is one of the stranger attractions in Australia: a working crocodile park housing some of the largest saltwater crocodiles in captivity. Crocosaurus Cove opened in 2008 and holds dozens of crocs in tanks visible through floor-to-ceiling glass — you can watch them from above and from the side, which gives you a sense of how much animal is below the waterline.

@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - sight
 story: "Old Tucson was built in 1939 as a movie set for the western film 'Arizona' and went on to host more than 400 features and series — Rio Bravo, El Dorado, McLintock!, Tombstone, Little House on the Prairie, the original Bonanza. A 1995 fire destroyed about 40% of the original sets; some of what stands today is reconstructed."
+score: 6.4
 ---
 
 Old Tucson, ten miles west of downtown next to Saguaro National Park, is a working Western film set and theme park rolled into one. Saloons, dust streets, gallows and church facades that have featured in more Western films and TV shows than any other studio in America. Cowboy gunfight reenactments run a few times a day, and you can ride a stagecoach or a vintage train around the grounds.

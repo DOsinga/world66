@@ -13,6 +13,7 @@ story: >
   Kawal Tiger Reserve landscape, and camera traps have confirmed their continued presence.
 sources:
   - https://en.wikipedia.org/wiki/Kinnerasani_Wildlife_Sanctuary
+score: 8.4
 ---
 
 The Kinnerasani reservoir, formed by the dam across the Kinnerasani River about 12 km north of Paloncha, is the main excursion from the town and the entry point to the Kinnerasani Wildlife Sanctuary. The sanctuary covers around 635 square kilometres of mixed deciduous forest in the Eastern Ghats foothills, protecting tiger, leopard, sloth bear, gaur (Indian bison), sambar deer, and a variety of birdlife including the Malabar pied hornbill.

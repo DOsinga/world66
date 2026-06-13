@@ -14,6 +14,7 @@ tags:
 title: Paradiso
 type: poi
 url: paradiso.nl
+score: 8.1
 ---
 
 Amsterdam's most legendary live music venue, in a converted 19th-century church near Leidseplein. The Rolling Stones filmed Not Fade Away here in 1964. Today it books everyone from indie acts to major international names, and the standing-room main hall has brilliant acoustics and sight lines. After concerts, it often turns into a club.

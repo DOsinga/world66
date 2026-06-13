@@ -14,6 +14,7 @@ story: >
   his death. He stored thousands of pots in his children's attic, where they were discovered in 1968.
   He was right: his eccentric, thin-walled, twisted forms are now recognised as precursors of Abstract
   Expressionism and worth serious money.
+score: 8.5
 ---
 
 The Ohr-O'Keefe Museum is housed in a Frank Gehry complex of five distinctive buildings — curved, titanium-clad pods that tumble across a wooded site near downtown. The museum was largely conceived before Hurricane Katrina, completed afterward, and now stands as one of the more improbable architectural events on the Gulf Coast. The Gehry buildings house both the Ohr collection and changing contemporary art exhibitions.

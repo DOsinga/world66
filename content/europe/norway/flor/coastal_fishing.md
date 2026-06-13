@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 61.600
 longitude: 5.035
+score: 7.3
 ---
 
 The waters around Florø are exceptionally productive. Cod, coalfish, and mackerel are common catches from small boats, and the outer skerries and island channels hold some of the best sea fishing on the Norwegian coast. You don't need to be a serious angler — half-day trips departing from the harbour cater to beginners and experienced fishers alike, and equipment is usually provided. If you catch something, the guides will often help you cook it.

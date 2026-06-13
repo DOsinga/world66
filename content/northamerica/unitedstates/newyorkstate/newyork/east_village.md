@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.7265
 longitude: -73.9815
+score: 8.4
 ---
 
 The East Village is Manhattan's bohemian neighbourhood — punk rock, countercultural, and cheap-by-New-York-standards, with a concentration of bars, restaurants, and dive bars that has survived successive waves of gentrification more or less intact. St. Marks Place (8th Street) is the cultural artery; the streets around it are dense with Japanese restaurants, Ukrainian diners, record shops, and the kind of bars that don't have websites.

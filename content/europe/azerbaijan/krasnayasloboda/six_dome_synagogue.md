@@ -10,6 +10,7 @@ latitude: 41.3664
 longitude: 48.5074
 sources:
   - https://en.wikipedia.org/wiki/Six_Dome_Synagogue
+score: 8.4
 ---
 
 The Six Dome Synagogue is Krasnaya Sloboda's most distinctive building — a large, well-maintained synagogue whose six domed roofs give it an Ottoman-influenced silhouette quite different from what you might expect in the eastern Caucasus. It was built in the late 19th century to serve the Mountain Jewish community and remains an active place of worship.

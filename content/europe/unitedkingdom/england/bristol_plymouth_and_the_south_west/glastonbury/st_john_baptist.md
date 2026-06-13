@@ -7,6 +7,7 @@ tags:
 - sight
 title: Church of St John the Baptist
 type: poi
+score: 7.5
 ---
 
 The parish church of St John the Baptist stands at the centre of the High Street and is one of the great Somerset towers — over 40 metres tall, finished around 1480. The interior is light and lofty, with a fine medieval rood screen, painted ceiling bosses, and a 15th-century stained-glass window showing the Tree of Jesse.

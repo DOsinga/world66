@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 38.7346
 longitude: 125.3672
+score: 5.1
 ---
 
 A modest 35,000-seat football stadium, home to Sobaeksu and other domestic teams and occasionally used for staged events and propaganda gatherings. The stadium is rarely on standard tourist itineraries but sometimes appears when a tour coincides with a regional sports day or holiday celebration.

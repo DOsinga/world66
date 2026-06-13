@@ -13,6 +13,7 @@ story: >
   Babe Ruth, Amelia Earhart, Franklin D. Roosevelt, and Cecil B. DeMille all planted trees
   here — each one marked with a plaque. Ruth's tree is among the largest; he allegedly
   planted it before a 1933 barnstorming game held nearby.
+score: 6.7
 ---
 
 Banyan Drive is a short, quiet road that loops around the Waiakea Peninsula at the edge of Hilo Bay, shaded by some of the most impressive banyan trees you will see outside of India. Each tree was planted by a visiting dignitary or celebrity between the 1930s and 1970s — the plaques at the base name them and give the date. The trees have grown into enormous canopies with aerial roots that now touch the ground and have taken root themselves.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.0127
 longitude: -4.522
+score: 6.1
 ---
 
 The Parque Ribera del Carrión is a linear park running along the east bank of the Río Carrión through the city — a green corridor of trees, paths, and gardens that gives Palencia an unusually pleasant outdoor space for a Castilian provincial capital. The river itself is lined with poplars and willows, and in spring the banks are bright with flowering vegetation. Palencians use the park for morning walks, cycling, and evening promenades.

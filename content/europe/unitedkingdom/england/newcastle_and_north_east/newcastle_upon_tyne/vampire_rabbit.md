@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: A century-old fanged grotesque above a doorway behind the Cathedral
 story: The Vampire Rabbit perches above the back door of Cathedral Buildings on Dean Street — fangs out, ears pointed, painted glossy black with bright red claws. Nobody knows why it was placed there in the 1890s. Theories range from a tribute to the architect Sir George Wostenholm to a warning to grave robbers; none is convincing.
+score: 6.2
 ---
 
 Newcastle's strangest piece of public sculpture: a grotesque, fanged, vaguely rabbit-like creature carved above the back door of Cathedral Buildings on Dean Street, directly behind St Nicholas Cathedral. It dates from the 1890s and has been periodically repainted black with red claws and white teeth, which only sharpens the mystery.

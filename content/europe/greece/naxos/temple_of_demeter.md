@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, museum]
 latitude: 37.0555
 longitude: 25.4322
+score: 8.4
 ---
 
 The Temple of Demeter stands on a low ridge in the agricultural heart of Naxos, about 10 kilometres south of Hora near the village of Ano Sangri. Built around 530 BC from local Naxian marble, it is one of the best-preserved Archaic temples in the Cyclades and was extensively restored in the late 20th century using original stone fragments recovered from the ruins of a Byzantine church that had been built over and partially from the temple itself.

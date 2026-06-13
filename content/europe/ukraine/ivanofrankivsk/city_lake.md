@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.9120
 longitude: 24.6820
+score: 5.8
 ---
 
 About two kilometres south-west of the centre, the City Lake is a long artificial pond ringed by a popular park. Joggers, families with prams, students with takeaway coffee — this is where Ivano-Frankivsk goes for fresh air at weekends. Pedalo and paddle-board rental in summer; a few cafés on the south bank.

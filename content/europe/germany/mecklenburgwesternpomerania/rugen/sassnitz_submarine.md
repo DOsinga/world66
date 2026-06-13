@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 6.8
 ---
 
 A British Oberon-class submarine launched in 1962 and decommissioned in 1991, the HMS Otus now sits at the pier in Sassnitz as a museum ship. Visitors descend through the hatches and walk the length of the boat — torpedo room, control room, engine room, mess deck — through cramped corridors and over the original equipment.

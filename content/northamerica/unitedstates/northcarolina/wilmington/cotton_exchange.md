@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Cotton Exchange
 type: poi
+score: 6.1
 ---
 
 The Cotton Exchange is a complex of converted 19th-century warehouses along the Cape Fear River waterfront, now housing specialty shops, restaurants, and bars across eight interconnected buildings. It's a pleasant place for a browse and a meal, and the brick-and-timber interior preserves the character of the original cotton-trade buildings that once handled a significant portion of the South's export crop.

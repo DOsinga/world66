@@ -6,6 +6,7 @@ longitude: 5.0379
 tags:
   - things_to_do
   - museum
+score: 7.7
 ---
 
 The Museum of Burgundian Life occupies the 17th-century Bernardine monastery near the Cathedral. The collection covers everyday rural and urban life in Burgundy from the 18th to the early 20th century: traditional dress, kitchens, agricultural tools, religious objects. The most enjoyable section is a reconstructed 19th-century shopping street, complete with a pharmacy, hatter, photographer, and grocer.

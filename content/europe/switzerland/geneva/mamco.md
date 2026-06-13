@@ -15,6 +15,7 @@ story: >
   has almost no permanent display: the collection is constantly rearranged and
   supplemented with temporary shows, so a room you visited six months ago will
   look completely different on your return.
+score: 8.1
 ---
 
 MAMCO — Musée d'Art Moderne et Contemporain — opened in 1994 in a sprawling former factory near the Plainpalais flea market, in the Jonction neighbourhood. It is Geneva's principal venue for contemporary art, committed to showing work that is recent, challenging, and often deliberately uncomfortable. The collection focuses on Swiss and international art from 1960 to the present, with particular strength in Arte Povera, Fluxus, and conceptual practices.

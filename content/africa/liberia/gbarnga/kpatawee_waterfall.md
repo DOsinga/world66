@@ -8,6 +8,7 @@ tags:
 latitude: 6.9667
 longitude: -9.9000
 story: The falls have long been a sacred site for the local Kpelle people, who hold periodic ceremonies in the surrounding forest. During the civil war the area was largely cut off, and the falls re-emerged into popular knowledge only after 2003.
+score: 8.5
 ---
 
 Kpatawee Falls is a three-tier cascade tucked into the forest about 50 km west of Gbarnga, near the village of the same name in Suakoko District. The water tumbles in three distinct steps through a rocky gorge, with the lower pool deep and clear enough for swimming — and it is the swim, much more than the view, that makes the trip worth taking.

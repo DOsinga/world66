@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 12.1130
 longitude: -86.2630
+score: 6.4
 ---
 
 Café de las Sonrisas (Cafe of Smiles) is a Managua institution with a social mission: it is staffed entirely by deaf and hearing-impaired young people, trained in barista and waitstaff skills as part of a vocational programme. The menu includes good coffee, fresh juices, sandwiches, and pastries; communication with staff is by pointing at the menu, hand gestures, and written notes, which sounds more cumbersome than it is.

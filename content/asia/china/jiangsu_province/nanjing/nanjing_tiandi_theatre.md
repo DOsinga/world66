@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 - heritage
 - eating_out
+score: 7.1
 ---
 
 Lao Men Dong (老门东) is a reconstructed historic block in the southern old city, adjacent to the Confucius Temple area, that has been developed as a pedestrian heritage shopping and dining district. The architecture recreates Ming and Qing merchant buildings with varying degrees of authenticity. The commercial mix includes traditional craft shops, a range of Nanjing snack vendors, tea houses, and craft beer bars.

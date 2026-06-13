@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
 snippet: Riverside park beneath the castle walls, popular for picnics and rowing
+score: 6.5
 ---
 
 St Nicholas Park stretches along the north bank of the Avon below the castle. The setting is the appeal: the castle towers rise behind the trees, swans drift on the river, and on a fine summer Sunday it is filled with picnicking families, dog-walkers, and people learning to scull at the Warwick Boat Club.

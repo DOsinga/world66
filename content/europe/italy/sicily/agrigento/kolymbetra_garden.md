@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.2918
 longitude: 13.5878
+score: 8.0
 ---
 
 The Kolymbetra Garden occupies a natural depression between two ancient ridges at the heart of the Valle dei Templi archaeological park. This was the site of the ancient Kolymbetra — a huge artificial reservoir built by Carthaginian prisoners of war after 480 BC, which supplied water to the city and supported fish farming on an industrial scale. When the reservoir eventually silted up, it became a garden, and medieval Arab farmers planted it with citrus and almond trees that still produce fruit today.

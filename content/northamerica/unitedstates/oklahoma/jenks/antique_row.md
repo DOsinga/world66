@@ -8,6 +8,7 @@ tags:
 latitude: 36.0229
 longitude: -95.9683
 snippet: "Dozens of antique dealers concentrated along Main Street — Jenks calls itself the Antique Capital of Oklahoma"
+score: 7.4
 ---
 
 The claim is not empty boasting. Jenks has accumulated several dozen antique dealers along its Main Street commercial strip, and the concentration is genuine enough that collectors make the drive from Tulsa, Oklahoma City, and occasionally from much further away. The shops range from serious dealers who specialize in American furniture, vintage jewelry, or oil-boom-era Oklahoma collectibles, to generalist junk emporiums where everything costs five dollars and finding something worthwhile requires patience.

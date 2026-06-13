@@ -12,6 +12,7 @@ story: >
   travellers on the Inlandsbanan now make a point of stopping. The local joke
   is that the bear is the only resident of Sveg that most passing visitors can
   name.
+score: 6.4
 ---
 
 Sveg's most famous attraction is a 13-metre wooden bear weighing 80 tonnes, standing at the intersection of Vallarvägen and Ljusnegatan a short walk from the railway station. The bear was built between 2003 and 2005 from locally sourced timber and has become the unlikely symbol of a town determined to attract visitors to this remote corner of Jämtland county.

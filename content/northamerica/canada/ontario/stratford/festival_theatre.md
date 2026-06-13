@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - theatre
+score: 9.1
 ---
 
 The Festival Theatre is the largest of the Stratford venues and the spiritual home of the company. The 1,800-seat house, built in 1957, replaced the original canvas tent and retains the same Elizabethan thrust stage — actors enter from the audience, with no proscenium between them and the front row.

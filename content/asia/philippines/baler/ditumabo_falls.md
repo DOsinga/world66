@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.795
 longitude: 121.51
+score: 8.3
 ---
 
 Ditumabo Falls, nicknamed "Mother Falls," is a powerful waterfall deep in the Sierra Madre forest about 15 kilometres inland from Baler. The approach involves a roughly 45-minute trek along a river, crossing the water multiple times on stepping stones and through knee-deep sections — wear footwear you do not mind getting wet. The falls themselves are impressive: a single drop of about 30 metres into a pool that invites swimming in the cool, clear water.

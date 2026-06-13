@@ -7,6 +7,7 @@ tags:
 latitude: 39.9586
 longitude: -83.0088
 snippet: "Downtown riverfront park with trails, a paddling lake, and the Columbus skyline as backdrop"
+score: 5.9
 ---
 
 The Scioto Mile is a linear riverfront park running along the Scioto River through downtown Columbus, connecting Bicentennial Park to Battelle Riverfront Park. It is the result of a significant urban renewal effort that removed a parking lot and six-lane road from the river's edge and replaced them with trails, lawns, a paddling lake, and public art.

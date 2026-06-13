@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.8926
 longitude: 11.4648
+score: 8.3
 ---
 
 The Schabbellhaus is Wismar's main town history museum, housed in one of the most architecturally distinctive buildings in the old town. Built in the 1570s for the brewer Hinrich Schabbell, it is one of the finest Renaissance secular buildings in Mecklenburg, combining the Dutch Renaissance ornamental vocabulary — elaborate gables, terracotta friezes, sandstone details — with the red brick tradition of the North German coast. The building itself is a significant reason to visit, quite apart from whatever is inside.

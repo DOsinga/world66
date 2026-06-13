@@ -13,6 +13,7 @@ story: >
   Despite numerous searches over the centuries, no gold head has ever been found.
   The park was laid out in 1857 by the brothers Denis and Eugène Bühler in the
   English landscape style that was fashionable in Second Empire France.
+score: 7.9
 ---
 
 Parc de la Tête d'Or is Lyon's great lung — 117 hectares of English-style parkland on the east bank of the Rhône, about 15 minutes' walk or a tram ride north from Place Bellecour. The park contains a large lake (with rowing boats), a free zoo (with giraffes, rhinos, and big cats), an outstanding rose garden that blooms in June, and a botanical garden with heated greenhouses. On summer weekends the park fills with families; on weekday mornings it is quietly beautiful.

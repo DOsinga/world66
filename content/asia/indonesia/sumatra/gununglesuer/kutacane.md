@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.5000
 longitude: 97.8000
+score: 5.1
 ---
 
 Kutacane is the small district capital of Southeast Aceh, the nearest town of any size to the western trailheads of the park and the standard transit point between Medan and Ketambe. Most travellers see only its bus station, but it is a perfectly pleasant place to spend a night before heading into the forest, with a handful of guesthouses, a busy market, and warungs serving good Acehnese food.

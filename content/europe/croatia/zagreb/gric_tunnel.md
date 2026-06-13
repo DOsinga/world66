@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - gornji_grad
+score: 6.8
 ---
 
 Built during the Second World War as an air-raid shelter for the citizens of the Upper Town, the Grič Tunnel runs about 350 metres beneath the Gradec hill, with six entrances opening onto different streets. After the war it was forgotten — locked, mostly used as a damp shortcut by people who knew the right doors — and only reopened to the public in 2016.

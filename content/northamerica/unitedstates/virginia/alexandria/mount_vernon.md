@@ -5,6 +5,7 @@ tags: [things_to_do, sight, history, day_trip]
 latitude: 38.7073
 longitude: -77.0858
 story: Washington designed the piazza — the two-story veranda on the river-facing side of the mansion — himself, based on no precedent he had seen; it became one of the most imitated architectural features in American domestic architecture.
+score: 9.5
 ---
 
 George Washington's Mount Vernon estate sits 15 miles south of Alexandria on a bend in the Potomac River, and it is one of the best-preserved historic estates in the United States. The mansion, slave quarters, kitchen, stables, greenhouse, and working farm have been extensively restored and are staffed by interpreters in period dress. The views from the riverside piazza down to the Potomac are as Washington designed them.

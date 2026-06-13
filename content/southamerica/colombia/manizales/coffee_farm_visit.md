@@ -6,6 +6,7 @@ longitude: -75.5500
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 Manizales is the capital of Colombia's coffee axis (eje cafetero), and a working-farm visit is the most enjoyable way to understand what that means. Hacienda Venecia, on the road to the lowlands about 40 minutes from the city, is the best-known farm for visitors — a fourth-generation family operation that runs daily tours covering the entire process from seedling to cup.

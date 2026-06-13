@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - mall
+score: 8.4
 ---
 
 Government College, founded in 1864, is the most distinguished educational institution in Punjab and the alma mater of an astonishing roll-call of Pakistani and Indian writers, politicians, and Nobel laureates — Allama Iqbal, Faiz Ahmed Faiz, Saadat Hasan Manto, Abdus Salam, Manmohan Singh, and Khushwant Singh all walked through its red-brick Gothic arches.

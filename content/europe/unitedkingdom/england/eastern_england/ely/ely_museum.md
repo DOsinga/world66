@@ -8,6 +8,7 @@ latitude: 52.3988
 longitude: 0.2591
 story: >
   The museum is housed in the old bishop's gaol — a medieval prison that also served as debtor's prison well into the 19th century. The cells are still visible, and the building's grim history sits in strange contrast to the cheerful local history displays it now contains. One of the museum's more unusual exhibits covers the Ely Prize-Fight of 1833, an illegal bare-knuckle bout that drew large crowds from across the region before the police intervened.
+score: 7.0
 ---
 
 Ely Museum occupies the Bishop's Gaol, a medieval prison building in the cathedral close. The collection covers the history of Ely and the surrounding fens from the Ice Age to the present — geology, natural history, Roman and Anglo-Saxon artefacts, medieval life, and the extraordinary engineering achievements of fenland drainage.

@@ -8,6 +8,7 @@ snippet: Teramo's central square, ringed by the cathedral and the town hall
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 Piazza Martiri della Libertà — usually just called Piazza Duomo by locals — is the social and historical centre of Teramo. The cathedral closes the southern end, the town hall faces it from the north, and the cafés along the eastern flank are the city's main outdoor sitting room.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: The state's only zoo, focused on northern species in spacious enclosures
+score: 6.3
 ---
 
 A small but well-run zoo focused on northern species — polar bears, brown bears, lynx, wolves, snowy owls, musk ox, and a single Asian elephant who has lived here since 1967. Most of the animals are orphans or rescues. The enclosures are large by zoo standards, set in forest, and the wood-chip paths make for an easy hour or two.

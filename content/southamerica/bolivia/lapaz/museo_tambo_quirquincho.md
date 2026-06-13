@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo Tambo Quirquincho
 type: poi
+score: 7.5
 ---
 
 The Tambo Quirquincho occupies a restored 18th-century tambo — a colonial inn and market building — a few blocks from Plaza Murillo. The museum's collection focuses on the art of Bolivian carnival: elaborate masks used in the Oruro carnival and the Gran Poder procession, historic photographs of festivals, and an interesting section on carnival costume evolution over the past century. The building itself, with its courtyard and original stonework, is worth seeing.

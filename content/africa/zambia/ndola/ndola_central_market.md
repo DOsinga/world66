@@ -7,6 +7,7 @@ tags:
 - market
 title: Ndola Central Market
 type: poi
+score: 7.1
 ---
 
 Ndola's central market is a large, busy, and genuinely useful place — not a tourist market but a real market where the city feeds and clothes itself. The stalls sell produce, dried fish, chitenge (wrap cloth in the vivid geometric patterns of central Africa), second-hand clothes, hardware, and copper goods in various forms: wire, ornaments, jewellery, and carved copper animals that make reasonable souvenirs.

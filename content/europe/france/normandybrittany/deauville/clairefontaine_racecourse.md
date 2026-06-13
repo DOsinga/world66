@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Smaller secondary racecourse used for jumps and trotting, with a parkland feel"
+score: 6.3
 ---
 
 Clairefontaine is the other Deauville track, about two kilometres southwest of the town centre at Tourgéville. Smaller and more wooded than La Touques, it specialises in steeplechase and trotting races — the older French disciplines — alongside its own flat fixtures. Race days happen all through the summer, complementing the bigger meetings up the road.

@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Basilica of Nuestra Señora de la Caridad
 type: poi
+score: 6.8
 ---
 
 The Basilica of Nuestra Señora de la Caridad is one of Cartagena's key devotional churches, dedicated to the city's patron. Its dome and richly decorated interior show a different side of Cartagena from the archaeological sites: Catholic, local, and still woven into everyday life.

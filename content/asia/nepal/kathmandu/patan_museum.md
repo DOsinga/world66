@@ -7,6 +7,7 @@ tags:
 latitude: 27.6716
 longitude: 85.3246
 address: Patan Durbar Square, Lalitpur
+score: 8.8
 ---
 
 The Patan Museum, housed in the restored west wing of Patan's old royal palace, is widely considered the finest museum of Nepalese art in existence — a world-class collection of Hindu and Buddhist bronze sculpture, decorative arts, and religious objects, presented in beautifully restored Malla-period rooms with excellent contextual information. It is the single best introduction to the art and religious culture of the Kathmandu Valley.

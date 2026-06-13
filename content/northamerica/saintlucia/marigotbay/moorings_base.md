@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.9622
 longitude: -61.0318
+score: 5.7
 ---
 
 The Moorings has operated a bareboat and crewed charter base in Marigot Bay for decades, making this one of the principal sailing departure points in the eastern Caribbean. The base has fuel docks, provisioning, and mechanical services that make it a natural hub for cruising sailors moving between the Windward Islands.

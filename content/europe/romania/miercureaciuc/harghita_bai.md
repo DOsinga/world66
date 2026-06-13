@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips, sight]
 latitude: 46.4000
 longitude: 25.6500
+score: 6.6
 ---
 
 Harghita Băi (Hargitafürdő in Hungarian) is a small spa and ski resort about 30 kilometres west of Miercurea Ciuc, set in the volcanic Harghita Mountains at 1,300 metres altitude. The setting is pine forest and meadow with mineral springs that have been bottled and used in bath treatments since the 19th century.

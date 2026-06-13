@@ -6,6 +6,7 @@ longitude: 114.2861
 tags:
   - eating_out
   - restaurant
+score: 7.0
 ---
 
 Lao Tongcheng is the Hankou institution that invented dousi (bean-curd-skin three threads), a Wuhan signature breakfast made of shredded tofu skin, mushrooms, and pickled bamboo wrapped in a thin sheet of beancurd skin and pan-fried. The restaurant has been on Daji Road since 1929 and is still run by descendants of the founder.

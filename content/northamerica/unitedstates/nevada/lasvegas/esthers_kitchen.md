@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - arts_district
+score: 8.2
 ---
 
 Chef James Trees's Italian restaurant has been the marquee tenant of the Arts District since it opened in 2018. The room is bright and uncluttered — white subway tile, polished concrete, a fully open kitchen — and the menu is short, seasonal, and built around fresh pasta made daily on the premises. The cacio e pepe is the dish that put the place on the national radar; the bucatini all'amatriciana and the seasonal hand-cut tagliatelle are reasons to go back.

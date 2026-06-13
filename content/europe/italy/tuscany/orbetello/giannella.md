@@ -5,6 +5,7 @@ tags: [things_to_do, sight, beach, swimming, nature]
 latitude: 42.4414
 longitude: 11.1711
 snippet: "Long sand spit with open beaches between lagoon and sea"
+score: 5.8
 ---
 
 The Giannella is the northern of the two sand tomboli that link Orbetello to Monte Argentario — a six-kilometre ribbon of fine sand with the open Tyrrhenian on one side and the WWF lagoon on the other. The beach is long and gently sloping, good for families, with several stretches of free public access between the rows of lidos. The southern end is wilder and quieter.

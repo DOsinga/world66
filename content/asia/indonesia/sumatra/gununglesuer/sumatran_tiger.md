@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 3.5000
 longitude: 97.5000
+score: 4.9
 ---
 
 The Sumatran tiger (Panthera tigris sumatrae) is the smallest and most endangered of the surviving tiger subspecies, with fewer than 400 left in the wild across the whole island. Gunung Leuser is one of the few places where a viable breeding population still exists, and where camera traps regularly record adults, juveniles, and cubs in the interior of the park.

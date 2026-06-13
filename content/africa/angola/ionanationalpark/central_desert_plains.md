@@ -12,6 +12,7 @@ story: >
   Iona's emptiness is partly ecological and partly historical. Wildlife numbers
   collapsed during Angola's long civil war, and the current conservation work is
   trying to rebuild a desert system that once held far more large animals.
+score: 8.3
 ---
 
 The central desert plains are the heart of Iona: wide, exposed country between the Atlantic side of the park and the eastern escarpment. This is where the scale of the place hits hardest. The horizon is huge, vegetation is sparse, and the light can make the land look almost metallic.

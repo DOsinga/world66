@@ -10,6 +10,7 @@ story: >
   The Bangalore ISKCON temple, completed in 1997, is one of the largest ISKCON temples in
   the world. It draws nearly 15,000 visitors daily on weekends, and the prasadam (free temple
   meal) serves thousands every day.
+score: 6.7
 ---
 
 The ISKCON temple on Chord Road in Rajajinagar is a major complex, completed in 1997 and one of the largest Hare Krishna temples in the world. The architecture blends neo-Dravidian temple forms with the scale of a modern cultural centre — it is more ambitious and more dramatically built than the average suburban ISKCON temple. The main shrine is dedicated to Radha-Krishnachandra, and the interior spaces are ornate, air-conditioned, and well maintained.

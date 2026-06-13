@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Historic winery where Grange is made, 7 km east of the city centre"
+score: 7.8
 ---
 
 Penfolds' Magill Estate sits on the slopes above the eastern suburbs, only 7 km from the city centre — the original vineyard from which all Penfolds wine descends. Christopher Rawson Penfold planted the first vines here in 1844, and the cottage he built on the estate still stands. Grange — Australia's most celebrated wine — is still made from fruit grown partly at Magill, though most comes from other South Australian regions.

@@ -7,6 +7,7 @@ longitude: 15.3877
 snippet: Romantic neo-Gothic castle on a forested hill east of Melk
 sources:
   - https://en.wikipedia.org/wiki/Albrechtsberg_Castle_(Loosdorf)
+score: 5.8
 ---
 
 Albrechtsberg Castle stands on a forested hill about 5 kilometres east of Melk, commanding views over the Wachau landscape. The current structure is a romantic neo-Gothic rebuild from the nineteenth century, commissioned by Archduke Albrecht of Austria on the site of an older medieval fortification. It is a handsome building set in parkland, with towers and turrets that look exactly as a romantic castle should.

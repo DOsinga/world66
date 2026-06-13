@@ -5,6 +5,7 @@ phone: +43 (22 42) 704 24
 title: Eating Out
 type: poi
 url: www.zumlustigenbauern.at
+score: 4.6
 ---
 
 ** Zeiselmauer offers one typical austrian "Wirtshaus". **

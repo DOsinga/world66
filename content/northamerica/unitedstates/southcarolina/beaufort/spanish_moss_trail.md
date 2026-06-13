@@ -7,6 +7,7 @@ tags:
 - nature
 title: Spanish Moss Trail
 type: poi
+score: 6.9
 ---
 
 The Spanish Moss Trail follows a disused rail bed for about ten miles, running north from Port Royal through Beaufort and into the rural country beyond. The path is paved, mostly flat, and wide enough for joggers, cyclists, and walkers. It cuts through tidal marsh, pine woods, and old plantation land, with several trailheads and parking lots that make it easy to do just a section.

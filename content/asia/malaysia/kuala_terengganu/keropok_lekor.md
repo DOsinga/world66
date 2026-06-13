@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 5.3296
 longitude: 103.1383
+score: 6.1
 ---
 
 Keropok lekor is the signature snack of Terengganu — a fish sausage made from pounded white fish (typically ikan parang or ikan kembung) mixed with sago flour, then either boiled and sliced (the soft version) or deep-fried to a crisp. The soft version has a chewy, fish-cake texture; the fried version is crispy outside and dense inside. Both are eaten with a chili-based dipping sauce and cost almost nothing.

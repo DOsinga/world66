@@ -8,6 +8,7 @@ tags:
   - museum
 title: Municipal Archaeological Museum
 type: poi
+score: 7.4
 ---
 
 The Municipal Archaeological Museum is a little outside the tight old centre, but it rewards travellers who want more than the headline Roman Theatre. Its collections place Cartagena's finds in a longer local sequence, from prehistory through the Roman and late antique periods.

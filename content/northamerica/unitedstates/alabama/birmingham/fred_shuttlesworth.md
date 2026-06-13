@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Fred Shuttlesworth statue and memorial
 type: poi
+score: 6.8
 ---
 
 The bronze statue of Reverend Fred Shuttlesworth stands outside the Birmingham Civil Rights Institute, a fitting location for the man who was arguably the most important figure in Birmingham's civil rights struggle. Unlike the more nationally famous figures who came and went, Shuttlesworth lived here, built the movement here, and faced repeated bombings of his home and church without leaving.

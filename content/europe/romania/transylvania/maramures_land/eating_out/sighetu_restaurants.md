@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.9278
 longitude: 23.8872
+score: 5.4
 ---
 
 Sighetu Marmației is the largest town in the region and the place most likely to be useful if you are passing through rather than staying in a village, or if you arrive late and the guesthouses have already served dinner. The town has a handful of restaurants around Piața Libertății (the main square) and on the streets leading off it.

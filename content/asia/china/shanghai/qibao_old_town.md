@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Genuine Ming-dynasty water town inside the city limits, half an hour by Metro"
+score: 7.9
 ---
 
 A canal-and-bridge water town founded in the Song dynasty and developed in the Ming, technically inside Minhang District at the western edge of Shanghai. Reached in half an hour by Metro Line 9, it gives a taste of what towns like Zhouzhuang or Wuzhen look like without leaving the city. Old stone bridges across a black-water canal, lanes of low timber houses, small snack stalls selling stinky tofu, sticky rice cakes and the local Qibao-style pork shoulder.

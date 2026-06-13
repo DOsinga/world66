@@ -9,6 +9,7 @@ tags:
   - architecture
   - mosque
 story: "Built in 1494 by Iljaz Bey Mirahori, the founder of the city, the Mirahori is one of the oldest mosques in Albania. It survived Enver Hoxha's 1967 anti-religion campaign only because it had already been recategorised as a 'cultural monument' — Hoxha's bureaucrats found that label harder to overturn than the mosque itself."
+score: 7.8
 ---
 
 The Mirahori Mosque, also called the Iljaz Bey Mirahori Mosque, anchors the south end of the old bazaar. It is one of the oldest mosques in Albania, dating to 1484–1494, and one of the few in the country to survive the communist destruction of religious buildings.

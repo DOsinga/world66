@@ -8,6 +8,7 @@ snippet: "Circular limestone table with 12 seats at the western end of the Brân
 latitude: 45.0424
 longitude: 23.2668
 story: "The 12 seats around the Table of Silence are hourglass-shaped — the ancient Romanian symbol for the human soul. Brâncuși arranged them in pairs, facing each other across the circular table, so that each seat is in dialogue with another. Whether they commemorate the dead or invite the living to reflect, Brâncuși never explained. He believed the works should speak without interpretation."
+score: 8.7
 ---
 
 The Table of Silence sits beside the Jiu River at the western end of the Calea Eroilor axis. It is a circular limestone table, 2.15 metres in diameter, surrounded by 12 hourglass-shaped seats. The form is simple to the point of severity — a table and stools, elementary shapes, limestone worn smooth by time and touch.

@@ -8,6 +8,7 @@ tags:
 latitude: 43.7847
 longitude: 7.5328
 snippet: Renowned clifftop restaurant beside the prehistoric caves at the French border
+score: 6.3
 ---
 
 Perched on the cliff right beside the prehistoric caves, this long-established restaurant is considered one of the finest on the western Ligurian coast. The setting is extraordinary — a terrace overlooking the sea, just metres from the French border and the reddish cliffs that give both the restaurant and the caves their name. The cooking is serious Ligurian seafood: raw fish carpaccios, pasta with bottarga or sea urchin, grilled branzino, and the kind of precise simplicity that makes the ingredients speak for themselves.

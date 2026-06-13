@@ -6,6 +6,7 @@ latitude: 52.2861
 longitude: -1.5322
 sources:
   - https://en.wikipedia.org/wiki/All_Saints_Church,_Leamington_Spa
+score: 7.1
 ---
 
 All Saints' is the parish church of Leamington Spa and a fine example of the Gothic Revival style popular when the town was growing fastest. The building dates mainly from the 1840s, when the architect John Gibson expanded an earlier church to accommodate the booming population of Victorian Leamington. The tower is a landmark visible from much of the town centre.

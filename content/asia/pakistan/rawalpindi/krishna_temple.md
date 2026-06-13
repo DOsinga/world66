@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Partition in 1947 emptied Rawalpindi of almost its entire Hindu population almost overnight. The Krishna Temple survived, and its continued existence in an overwhelmingly Muslim city makes it one of the more quietly significant religious sites in northern Pakistan — a marker of the city's pre-Partition life that most of the people passing it daily are too young to have shared."
+score: 7.1
 ---
 
 The Shri Krishna Mandir in central Rawalpindi is one of the few functioning Hindu temples in Pakistan, maintained by the small Hindu community that remained after the 1947 Partition or has since settled in the city. The temple dates to the pre-Partition period when Rawalpindi had a substantial Hindu population, and its survival and continuing use is notable given the near-total displacement of Hindus from Pakistani Punjab in 1947.

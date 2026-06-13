@@ -10,6 +10,7 @@ tags:
 - museum
 title: Railway Museum
 type: poi
+score: 7.7
 ---
 
 Housed in the handsome 1880 Delicias station — Madrid's first major railway terminal — this museum holds an impressive collection of steam and diesel locomotives, passenger carriages, and railway equipment spanning a century and a half of Spanish rail history. You can climb into some of the old carriages and peer into signal boxes. The station building itself, with its elegant iron-and-glass roof, is worth the visit. A model railway runs on weekends. Easily reached from Atocha.

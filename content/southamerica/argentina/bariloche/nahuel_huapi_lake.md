@@ -9,6 +9,7 @@ latitude: -41.0903
 longitude: -71.3356
 snippet: "Vast glacial lake that defines Bariloche"
 story: "The lake is said to be home to a creature called Nahuelito — a Patagonian cousin of the Loch Ness monster, reported since 1922. The local tourism board takes Nahuelito seriously enough that the city sponsored a search expedition in the 1980s. Nothing was found."
+score: 9.4
 ---
 
 The lake that gives Bariloche its setting is a glacial trench 100 kilometres long, with a maximum depth of 460 metres, and a coastline so indented that it adds up to over 350 kilometres. It is the centrepiece of Nahuel Huapi National Park, Argentina's first, established in 1934 after Francisco Moreno donated land for its creation.

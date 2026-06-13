@@ -14,6 +14,7 @@ story: >
   has become a genuine cultural institution that no longer needs its founder to justify its existence.
 sources:
   - https://en.wikipedia.org/wiki/Calabar_Carnival
+score: 8.5
 ---
 
 The Calabar Carnival, held every December, bills itself as Africa's biggest street party — and makes a reasonable case. Launched in 2004 and inspired by Brazilian carnival traditions, it has grown into a week-long event drawing hundreds of thousands of visitors from across Nigeria and beyond. Five competing bands — Seagull (red), Passion 4 (green), Masta Blasta (orange), Bayside (blue), and Freedom (yellow) — parade through the city in increasingly elaborate costumes, each trying to outdo the others in spectacle and showmanship.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -19.5110
 longitude: 169.4650
+score: 7.2
 ---
 
 Tanna's coastline has some of the most striking black sand beaches in the Pacific, formed from volcanic material eroded from the island's basaltic rock and ash deposits. The dark sand against the clear blue water is unusually dramatic, particularly on sunny days when the contrast between the two is sharp.

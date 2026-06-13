@@ -8,6 +8,7 @@ tags:
 - centro
 latitude: -3.1305
 longitude: -60.0234
+score: 6.8
 ---
 
 The Igreja de São Sebastião, inaugurated in 1888, is the small but graceful neoclassical church on the eastern edge of the Largo de São Sebastião. Its single bell tower, pale yellow facade, and rose-window above the entrance form a quietly handsome counterpoint to the much grander Teatro across the square.

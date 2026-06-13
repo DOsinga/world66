@@ -12,6 +12,7 @@ tags:
 title: National Museum of Mexican Art
 type: poi
 url: www.nationalmuseumofmexicanart.org
+score: 8.2
 ---
 
 Located in the heart of Pilsen, Chicago's vibrant Mexican neighborhood, this museum exhibits both traditional and contemporary Mexican art across various mediums. Admission is always free. Time your visit around Dia de los Muertos in late October and early November, when the museum hosts outstanding exhibitions and you can watch sugar skulls being decorated on site. The surrounding neighborhood is well worth exploring for murals, taquerias, and bakeries.

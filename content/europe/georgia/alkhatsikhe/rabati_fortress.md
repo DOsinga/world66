@@ -14,6 +14,7 @@ story: >
   experts who felt the reconstruction went too far toward a theme-park aesthetic.
 sources:
   - https://en.wikipedia.org/wiki/Akhaltsikhe
+score: 8.1
 ---
 
 The Rabati is a 9th-century fortress that towers over Akhaltsikhe from a ridge above the town. It was extensively restored between 2011 and 2012 — perhaps too extensively; the reconstruction is clean-cut and polished in a way that feels more theatrical than historic, but the site's structure is genuine and the views from the ramparts are excellent.

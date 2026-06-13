@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 52.2054
 longitude: 0.1191
+score: 6.9
 ---
 
 The Market Square in the centre of Cambridge has hosted a market since the Middle Ages, and it still does — an open-air market runs here Monday to Saturday year-round, with stalls selling fruit and vegetables, flowers, clothing, crafts, and street food. The Sunday market skews toward crafts and specialty food producers. The square is surrounded by some of Cambridge's most important historic buildings: Great St Mary's on one side, the guildhall on another, and the edge of the college district on the third.

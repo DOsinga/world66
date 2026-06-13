@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9183
 longitude: 100.7833
+score: 7.8
 ---
 
 Koh Larn — Coral Island — is the obvious day trip from Jomtien: a small offshore island, 7 km across, with several beaches considerably whiter and clearer than anything on the mainland. **Tien Beach** and **Samae Beach** are the most popular; **Nual Beach** on the south side is quieter.

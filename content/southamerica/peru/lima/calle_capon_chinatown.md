@@ -10,6 +10,7 @@ tags:
 neighbourhood: Centro Histórico
 snippet: Lima's Chinatown — the oldest in South America
 story: "Peru has the largest Chinese diaspora in South America — descendants of indentured labourers who replaced enslaved Africans on the coastal plantations in the 1850s. The fusion of Cantonese and Peruvian cooking — chifa — is now one of the country's national cuisines, eaten by every social class."
+score: 7.4
 ---
 
 The **Barrio Chino** runs along **Calle Capón** in the historic centre, marked at its main entrance by a tall Chinese **arch** decorated with green and red tiles, donated by the Republic of China in 1971. It is the oldest Chinatown in South America, established in the 1850s when Chinese indentured labourers (the *coolies*) arrived to work in coastal sugar and cotton.

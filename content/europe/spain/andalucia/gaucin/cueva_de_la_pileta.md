@@ -12,6 +12,7 @@ tags:
   - sight
 title: Cueva de la Pileta
 type: poi
+score: 9.0
 ---
 
 One of Spain's most extraordinary prehistoric sites, the Cueva de la Pileta contains cave paintings of animals, fish, and geometric forms dating from around 25,000 BC — making them roughly contemporary with the better-known caves at Lascaux and Altamira. The cave is about 15 kilometres from Gaucin on the road toward Ronda.

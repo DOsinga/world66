@@ -6,6 +6,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 7.362
 longitude: 134.5042
 story: "The original 1977 K-B Bridge was the longest concrete-girder bridge of its kind in the world — and a disaster. It began sagging almost immediately, was repaired in 1996, and then collapsed catastrophically in September 1996 cutting Koror off from its airport. The current bridge, built by Japan and opened in 2002, is a graceful cable-stayed replacement with a span of 247 metres."
+score: 6.4
 ---
 
 The Koror–Babeldaob Bridge — usually just the K-B Bridge — is the only road link between Palau's commercial centre and the country's largest island. For anyone driving north on the Compact Road to explore [Babeldaob](/australiaandpacific/palau/babeldoab), this is the route.

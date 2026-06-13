@@ -9,6 +9,7 @@ address: "Viktoriastrasse / Kortumstrasse, 44787 Bochum"
 latitude: 51.4808
 longitude: 7.2171
 snippet: "The city's main eating and drinking district with kebabs, pizza, and cheap eats"
+score: 5.0
 ---
 
 The Bermuda3Eck — roughly the triangle bounded by Viktoriastrasse, Kortumstrasse, and the surrounding streets — concentrates more restaurants and takeaways per square metre than anywhere else in Bochum. The quality varies widely: German pubs with proper Schnitzel, Turkish restaurants and döner stalls that stay open until late, Italian places aimed at the student crowd, and a few newer options serving burgers and pan-Asian food.

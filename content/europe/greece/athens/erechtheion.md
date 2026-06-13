@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Erechtheion is built on the most sacred ground in Athens — the spot where Athena and Poseidon competed for patronage of the city. Poseidon struck the rock with his trident and produced a salt spring; Athena produced the olive tree. The Athenians chose Athena. Both the spring and an olive tree (a modern descendant) can still be seen inside the building."
+score: 8.4
 ---
 
 The Erechtheion is the strange, asymmetrical temple on the north side of the Acropolis, built between 421 and 406 BCE — after the Parthenon was finished — and designed to incorporate the most sacred shrines of pre-classical Athenian religion. Its irregular plan reflects the multiple holy sites it had to house on different levels of the bedrock.

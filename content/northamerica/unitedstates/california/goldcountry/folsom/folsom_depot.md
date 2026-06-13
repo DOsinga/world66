@@ -12,6 +12,7 @@ story: >
   The Sacramento Valley Railroad, which terminated here, was the first railway completed in California, opening in 1856. The line connected Sacramento to Folsom in just 22 miles, and Folsom was chosen as its eastern terminus because the American River's canyon made further extension impractical. For a few years this small depot was effectively the end of the rail world in the American West.
 sources:
   - https://en.wikipedia.org/wiki/Folsom_Depot
+score: 7.1
 ---
 
 The Folsom Depot, built in 1856, served as the terminus of the Sacramento Valley Railroad — California's first operating railway. The stone building sits at the western edge of the historic downtown and has been carefully restored. It operated as an Amtrak station into the 1970s before the line was discontinued, and the building now serves as the terminus of the light rail line from Sacramento.

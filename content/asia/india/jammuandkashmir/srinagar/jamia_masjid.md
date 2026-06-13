@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.0984
 longitude: 74.8092
+score: 8.9
 ---
 
 The great Friday mosque of Srinagar stands in the heart of the old city and is one of the finest examples of Indo-Saracenic wooden architecture in India. The mosque was founded in 1394 by Sultan Sikandar but has burned down and been rebuilt four times; the current structure dates largely from 1674 under Aurangzeb. The distinctive feature is the 378 columns of deodar wood — each a single tree trunk — holding up the roof. The central courtyard, lined with 48 identical entrance arches, can hold 33,000 worshippers.

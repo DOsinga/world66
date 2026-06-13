@@ -9,6 +9,7 @@ tags:
 - berlinmitte
 title: Eigen + Art
 type: poi
+score: 6.5
 ---
 
 Gallery space in Mitte showing international works mainly by young artists. Part of the dense gallery scene along Auguststrasse, which forms the core of Berlin's contemporary art district. Worth pairing with other galleries on the same street.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -1.2700
 longitude: 116.8250
+score: 5.5
 ---
 
 The most popular of Balikpapan's accessible urban beaches, located south of the city centre along the bay. The beach is used primarily by locals for evening walks and weekend recreation, and the surrounding area has a cluster of seafood warungs that do good grilled fish. The Balikpapan Bay views from here — particularly at sunset — are attractive, with the hills on the opposite shore visible across the water.

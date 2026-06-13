@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: A wooded ravine cutting down to the beach, with a quiet sheltered stretch of sand
+score: 6.2
 ---
 
 Durley Chine is one of seven steep, narrow ravines -- the local word is chine -- that cut from the cliffs down to the Bournemouth beach. It is wooded, quiet, and accessible by a path that drops gently from the West Cliff to the promenade. The beach at the foot is calm and family-friendly, with lifeguards in summer.

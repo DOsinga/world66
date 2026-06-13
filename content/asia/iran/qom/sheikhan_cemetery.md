@@ -8,6 +8,7 @@ tags:
 latitude: 34.6426
 longitude: 50.8816
 snippet: "Ancient cemetery of Qom's scholars, adjacent to the shrine complex"
+score: 7.7
 ---
 
 The Sheikhan Cemetery is one of the oldest in Qom and one of the most historically significant in the Shia world — it contains the graves of hundreds of scholars, theologians, and clerics who lived and taught in the city over more than a thousand years. The cemetery lies close to the Fatimah al-Masumah Shrine complex and is active; fresh graves coexist with those from the medieval period.

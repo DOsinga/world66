@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.1500
 longitude: 13.0000
+score: 7.2
 ---
 
 The Nafusa Mountains (Jebel Nafusa) form a dramatic escarpment rising from the Libyan plain about 80 kilometres south of Tripoli. Gharyan sits near the eastern end of this range at around 900 metres, and the drive south from the coast gains enough altitude to make a genuine difference in temperature and vegetation.

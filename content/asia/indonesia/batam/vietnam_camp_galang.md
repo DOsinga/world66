@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Vietnamese Refugee Camp, Galang
 type: poi
+score: 8.2
 ---
 
 Between 1975 and 1996, Galang Island housed a UNHCR camp for Vietnamese boat people fleeing the aftermath of the war — at its peak nearly 250,000 refugees passed through. What remains is a quiet, slightly haunting open-air museum: empty barracks, a small hospital, a Catholic chapel, the Quan Am Tu Buddhist temple from 1984, a graveyard, and a memorial to those who didn't survive the journey. Reach it by driving the Barelang Highway south across the bridges.

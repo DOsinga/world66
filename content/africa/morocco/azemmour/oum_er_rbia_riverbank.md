@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.2878
 longitude: -8.3408
+score: 7.8
 ---
 
 The Oum er-Rbia — Morocco's largest river — meets the Atlantic at Azemmour, and the view from the riverbank opposite the medina is one of the best in the country. The whitewashed walls of the old city, the Portuguese ramparts, and the minarets of the mosques reflect in the wide river, particularly beautiful in the late afternoon when the light is golden.

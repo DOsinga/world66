@@ -8,6 +8,7 @@ latitude: 35.5849
 longitude: 135.1956
 sources:
   - https://en.wikipedia.org/wiki/Amanohashidate_Cable_Car
+score: 8.0
 ---
 
 The Amanohashidate Cable Car — technically a funicular — climbs the hill at the northern end of the bay to Kasamatsu Park, the classic viewpoint for matanozoki. The ride takes about four minutes and runs year-round. A chairlift runs parallel to the cable car and operates seasonally.

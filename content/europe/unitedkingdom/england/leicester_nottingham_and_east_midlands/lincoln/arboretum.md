@@ -7,6 +7,7 @@ snippet: "Restored Victorian public park east of the city centre"
 tags:
 - things_to_do
 - sight
+score: 6.4
 ---
 
 The Arboretum, on the slope east of the cathedral quarter, is a fine Victorian public park designed by Edward Milner in 1872 and beautifully restored a decade ago after a long period of decline. The 22 acres include a bandstand, a serpentine lake with a Chinese-style bridge, an aviary, formal flower beds, and a long curving path lined with mature ornamental trees.

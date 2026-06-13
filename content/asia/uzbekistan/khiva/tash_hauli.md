@@ -14,6 +14,7 @@ story: >
   craftsman, knowing the design was impossible to complete in that time, asked
   for more. The khan had him executed and brought in another master, who also
   failed. The palace eventually took eight years and three masters to complete.
+score: 8.9
 ---
 
 The Tash Hauli is the largest single building inside Itchan Kala, a palace of more than 150 rooms arranged around three courtyards: a reception court for foreign envoys, a justice court for trials, and a harem for the khan's wives and concubines. The harem is the most lavishly tiled space in Khiva — every wall, every column base, every ceiling panel covered in blue-and-white floral patterns of staggering intricacy.

@@ -12,6 +12,7 @@ story: >
   in the hour after dawn before any wind picks up — this means arriving in the
   dark and waiting for light, which on a clear morning is entirely worth the
   effort.
+score: 8.4
 ---
 
 Lake Matheson is a small glacially formed lake 5km from Fox Glacier village, famous worldwide for its mirror reflections of Aoraki/Mount Cook and Mount Tasman at dawn. When the light and the weather cooperate, the lake surface doubles the mountains so perfectly that the horizon disappears and you are not sure which way is up. A 1.5-hour walking circuit of the lakeshore leads to the "View of Views" platform at the far end, positioned for the best angle on both peaks.

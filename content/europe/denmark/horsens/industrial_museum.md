@@ -6,6 +6,7 @@ tags:
 - museum
 title: Horsens Industrial Museum
 type: poi
+score: 8.1
 ---
 
 The Horsens Industrial Museum (Horsens Industrimuseum) occupies the buildings of a former thread factory and covers the industrial history of the town from the 19th century through the mid-20th. Horsens was a significant industrial centre — cigarette factory, rubber works, iron foundries — and the museum does well at presenting what factory life actually looked like through original machinery, working production lines, and reconstructed workshops.

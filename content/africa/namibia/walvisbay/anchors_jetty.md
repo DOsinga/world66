@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Fresh seafood at the working jetty
+score: 5.9
 ---
 
 Anchors at the Jetty is a no-frills seafood restaurant next to the main fishing jetty in central Walvis Bay. The fish comes straight off the boats — hake, kingklip, sole, calamari, fresh oysters — and is served simply grilled or fried with chips and salad. The dining room is plainly furnished but has a good view across the harbour to the cranes and trawlers, and the front patio fills with a mix of fishermen, port workers, and tourists at lunch.

@@ -7,6 +7,7 @@ tags:
 latitude: 70.3877
 longitude: 31.1553
 snippet: "One of Norway's largest seabird colonies — puffins, guillemots, kittiwakes — a short boat ride from Vardø"
+score: 9.0
 ---
 
 Hornøya is a small island (0.4 square kilometres) about two kilometres east of Vardø that hosts one of the largest and most accessible seabird colonies in Norway. From April through August, the island's cliffs and grassy slopes are crowded with puffins, common guillemots, Brünnich's guillemots, razorbills, black-legged kittiwakes, shags, and several gull species — tens of thousands of birds in total. A lighthouse has stood on the island since 1899.

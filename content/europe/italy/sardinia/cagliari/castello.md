@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.2186
 longitude: 9.1162
+score: 8.8
 ---
 
 Castello is the medieval hilltop citadel at the heart of old Cagliari, ringed by honey-coloured Pisan limestone fortifications that still largely stand. Built from the 13th century onward by the Pisans and subsequently controlled by the Aragonese and Spanish, the quarter sits on a flat-topped hill with commanding views in all directions — north over the modern city, south over the port and the Gulf of Angels, east toward the salt lagoons.

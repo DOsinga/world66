@@ -15,6 +15,7 @@ story: >
   the Rhine valley toward Chur is difficult to argue with.
 sources:
   - https://en.wikipedia.org/wiki/Haldenstein_Castle
+score: 6.7
 ---
 
 Haldenstein Castle stands on a wooded spur of the Calanda massif about five kilometres north of Chur, overlooking the Rhine valley at a bend in the river. The castle dates from the 12th century and was the seat of the lords of Haldenstein, a minor dynasty that controlled the Rhine crossings in this section of the valley for several hundred years. The main tower and parts of the outer wall survive in good condition; the interior is ruined but accessible.

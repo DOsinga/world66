@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 29.2917
 longitude: 117.2020
+score: 7.8
 ---
 
 Jingdezhen has more places offering ceramic instruction than any other city in China — the full range runs from afternoon drop-in hand-building sessions for tourists to serious multi-week courses in wheel-throwing, glaze chemistry, and traditional blue-and-white painting. Studios throughout Taoxichuan, Sanbao Village, and the old city offer classes in English and Chinese.

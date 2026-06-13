@@ -8,6 +8,7 @@ tags:
 latitude: 34.0017
 longitude: -118.4897
 snippet: "Frank Gehry's 1988 deconstructivist complex on Main Street — an early example of his signature style"
+score: 6.5
 ---
 
 The Edgemar complex at 2437 Main Street was designed by Frank Gehry in 1988 and built on the site of a former dairy. The composition of fragmented volumes, chain-link fencing, corrugated metal, and Dutch-tilted towers was considered radical at the time — and expensive enough that it nearly derailed the project — but it represents an important early example of the deconstructivist architecture that would define Gehry's later career.

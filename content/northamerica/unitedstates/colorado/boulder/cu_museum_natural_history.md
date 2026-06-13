@@ -6,6 +6,7 @@ tags:
 - museum
 title: University of Colorado Museum of Natural History
 type: poi
+score: 7.4
 ---
 
 The University of Colorado Museum of Natural History, on the CU Boulder campus, has one of the stronger natural history collections in the Rocky Mountain region. The museum's paleontology holdings are particularly good — Colorado has significant fossil beds, and the museum holds specimens from local excavations including large dinosaur bones. The anthropology and archaeology collections cover the deep human history of the Colorado Plateau and the Southern Rockies.

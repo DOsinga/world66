@@ -6,6 +6,7 @@ longitude: -98.3750
 tags:
   - things_to_do
   - museum
+score: 8.1
 ---
 
 Run by the Comanche Nation, this museum at 701 NW Ferris Avenue tells the story of the southern plains from a Numunuu (Comanche) perspective — the rise of the horse culture, the long resistance against Texan and US encroachment, the reservation period, and the cultural revival of the past half century.

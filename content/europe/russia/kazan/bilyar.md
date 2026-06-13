@@ -9,6 +9,7 @@ tags:
   - tatar
   - centre
 address: Pushkin Street 4
+score: 6.1
 ---
 
 Bilyar is a chain of bright, modern Tatar canteens with branches across Kazan; the most central is on Pushkin Street a block off Bauman. Self-service with a long counter of soups, salads, pies, and mains, and a small bakery section for the *echpochmak* and *chak-chak*.

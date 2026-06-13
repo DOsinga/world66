@@ -8,6 +8,7 @@ latitude: 15.7500
 longitude: -86.8500
 story: >
   The Cangrejal is one of the few rivers in Central America with commercially run white-water rafting of international standard. Its Class III–IV rapids run through the heart of Pico Bonito National Park, past walls of jungle where you are genuinely in the wild — jaguars have been photographed on the riverbanks.
+score: 8.6
 ---
 
 The Río Cangrejal runs through the eastern edge of Pico Bonito National Park and is the best place in Honduras for white-water rafting. The river has sections ranging from calm floats suitable for families to technical Class IV rapids demanding real experience. Several operators in La Ceiba run half-day and full-day trips; pick up at your accommodation is usually included.

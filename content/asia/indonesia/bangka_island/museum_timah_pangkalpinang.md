@@ -12,6 +12,7 @@ story: >
   East India Company fought wars to control it, and the miners brought over from southern China
   to work the deposits created one of Indonesia's oldest and most distinctive Chinese-Malay
   communities — the roots of much of Pangkalpinang's culture today.
+score: 8.2
 ---
 
 The Tin Museum is genuinely interesting, which is more than you can say for most provincial museums in Indonesia. It tells the full story of tin on Bangka — from the traditional mining methods of the early Chinese settlers, through the Dutch colonial extraction economy, to the mechanised open-pit mining that transformed (and scarred) large parts of the island in the 20th century. The exhibits are well arranged and some of the old mining equipment is impressive in scale.

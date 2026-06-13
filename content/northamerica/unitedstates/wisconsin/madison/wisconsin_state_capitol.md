@@ -12,6 +12,7 @@ story: >
   The gilded bronze figure at the top of the dome is called *Wisconsin* — a helmeted female figure holding a globe and a badger. She was installed in 1914, stands more than 15 feet tall, and weighs three tons. Free tours run throughout the day and take you into the ornate legislative chambers and onto the observation gallery with views across both lakes.
 sources:
   - https://en.wikipedia.org/wiki/Wisconsin_State_Capitol
+score: 9.1
 ---
 
 Madison's most visible landmark, sitting on the highest point of the isthmus, is modelled on the U.S. Capitol in Washington but made entirely from different stone. The Wisconsin State Capitol is the only state capitol in the country built of granite, quarried from eight different states and six foreign countries. Its dome — the fifth-largest in the world — is visible from most of the city.

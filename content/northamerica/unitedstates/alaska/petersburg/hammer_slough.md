@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.8115
 longitude: -132.9630
+score: 7.4
 ---
 
 Hammer Slough is the tidal channel that winds through Petersburg's oldest neighbourhood, lined with the weathered wooden cannery buildings and fish houses on pilings that have become the most photographed image of the town. At high tide, the reflections of the old buildings in the still water make for excellent photographs; at low tide, the mudflats expose the working underbelly of a genuine fishing community.

@@ -12,6 +12,7 @@ story: >
   in the 2010s reported finding modern coins layered with older ones
   underneath, suggesting the practice has been continuous for at least a
   century.
+score: 8.2
 ---
 
 The Howff (the Scots word for a meeting place) is one of Scotland's oldest urban cemeteries, founded in 1564 on the grounds of a former Franciscan friary granted to the city by Mary Queen of Scots. For two and a half centuries it doubled as a meeting place for the city's trades guilds — joiners, hammermen, dyers — who used it for sworn assemblies because they had nowhere else with both privacy and a clear view of the centre.

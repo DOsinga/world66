@@ -7,6 +7,7 @@ tags:
 latitude: 50.8839
 longitude: 3.7794
 story: "Velzeke was a Roman vicus on the diverticulum road between Bavay and Aardenburg. The Paddestraat — the cobbled lane outside the museum — is a surviving stretch of that Roman road, still in use after almost 2,000 years, and a famous obstacle in the Tour of Flanders bike race."
+score: 7.5
 ---
 
 A regional archaeological museum at Velzeke-Ruddershove, on a Roman road just west of Zottegem, displaying finds from the surrounding fields and excavations. The Romans had a substantial settlement here, and the museum has good collections of pottery, glass, coins, and a reconstructed Gallo-Roman temple.

@@ -10,6 +10,7 @@ longitude: -92.1721
 snippet: Bronze centaur fountain on the north grounds of the Missouri State Capitol
 sources:
   - https://en.wikipedia.org/wiki/Fountain_of_the_Centaurs
+score: 6.8
 ---
 
 The Fountain of the Centaurs stands on the north grounds of the Missouri State Capitol, a bronze sculpture group installed in 1926 depicting rearing centaurs — half-man, half-horse figures from Greek mythology — surrounding a central basin. The sculptor was Frederick C. Hibbard, who received the commission as part of the Capitol's original landscaping plan. It's an imposing piece, larger than most visitors expect, and the centaurs' expressions hover between fury and dignity.

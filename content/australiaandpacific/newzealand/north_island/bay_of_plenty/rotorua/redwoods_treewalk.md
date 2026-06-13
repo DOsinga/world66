@@ -9,6 +9,7 @@ tags:
 - sight
 title: Redwoods Treewalk
 type: poi
+score: 7.8
 ---
 
 A series of suspension bridges strung between century-old Californian redwood trees in the Whakarewarewa Forest. The daytime walk is pleasant; the nighttime version, lit with lanterns designed by David Trubridge, is genuinely magical. The surrounding forest has some of New Zealand's best mountain biking trails.

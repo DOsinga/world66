@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - innere_stadt
+score: 8.1
 ---
 
 The Habsburgs' parish church, attached to the Hofburg. It was here that Maria Theresa married Franz Stephan of Lorraine in 1736 and where most subsequent Habsburg dynastic weddings took place — including Franz Joseph and Sisi in 1854. The Heart Crypt (Herzgruft) at the back holds 54 silver urns containing the embalmed hearts of Habsburg emperors and archdukes.

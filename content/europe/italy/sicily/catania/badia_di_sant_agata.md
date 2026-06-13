@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5029
 longitude: 15.0881
+score: 8.0
 ---
 
 The Badia di Sant'Agata is a small baroque church and former convent that sits next to the cathedral on Via Vittorio Emanuele. The exterior, with its concave facade and twin bell towers, is one of the best examples in Catania of the architect Vaccarini's mature style.

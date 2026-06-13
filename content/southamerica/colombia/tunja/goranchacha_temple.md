@@ -14,6 +14,7 @@ tags:
 - historic
 title: Templo de Goranchacha
 type: poi
+score: 6.1
 ---
 
 The Goranchacha Temple is an archaeological site on the northern edge of Tunja, on the campus of the Pedagogical and Technological University of Colombia. The Muisca confederation considered the spot sacred and built a ceremonial complex here; the foundations of several structures have been excavated, and a small open-air display interprets the remains and the legend of Goranchacha, the mythological Muisca chief said to have been born from a virgin and the sun.

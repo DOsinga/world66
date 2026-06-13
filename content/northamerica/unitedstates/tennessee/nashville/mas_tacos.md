@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - east_nashville
+score: 6.7
 ---
 
 A small, no-fuss taqueria in East Nashville that has been one of the most-recommended cheap eats in the city for over a decade. Chef Teresa Mason started out from a food truck; the brick-and-mortar shop on McFerrin Avenue is no bigger and not much fancier — order at the counter, sit at a communal table, pay cash if you can.

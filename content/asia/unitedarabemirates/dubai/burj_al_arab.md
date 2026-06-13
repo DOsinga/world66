@@ -8,6 +8,7 @@ tags:
 - jumeirah
 title: Burj Al Arab
 type: poi
+score: 8.3
 ---
 
 The Burj Al Arab is Dubai's most recognisable building — the sail-shaped tower that became a global symbol of the city's ambitions when it opened in 1999. Built on an artificial island 280 metres offshore and connected to the mainland by a private causeway, it is marketed as the world's only seven-star hotel (a designation its marketing team invented). At 321 metres, it was briefly the world's tallest hotel.

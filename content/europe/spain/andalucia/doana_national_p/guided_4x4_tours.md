@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - wildlife
 story: During the guided tours, the 4x4 coaches drive directly onto the beach and run for kilometers along the Atlantic shoreline inside the park — a stretch of coast you cannot reach any other way. On a clear morning, with no buildings in any direction, just dunes and sea and a scatter of birds working the tideline, it is easy to understand why people have been fighting to protect this place for fifty years.
+score: 8.8
 ---
 
 The inner sanctum of Doñana — the dune systems, the true marismas, the Atlantic beach within the park boundary — is accessible only by booking a place on an official guided tour. These run in purpose-built 4x4 coaches that take groups of around twenty people on four-hour circuits departing from El Acebuche visitor centre, near Matalascañas. The restriction is deliberate and it works: the absence of casual visitors from the core means the wildlife is genuinely undisturbed, and encounters are real rather than performative.

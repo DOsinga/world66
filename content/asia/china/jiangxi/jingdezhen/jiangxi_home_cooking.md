@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 29.2930
 longitude: 117.1990
+score: 6.2
 ---
 
 Jingdezhen's everyday food follows the Jiangxi style: spicy, oily, and built around rice and pork. Smoked pork (腊肉) is cured locally and appears in stir-fries with chili and garlic throughout the year; dried tofu cooked with pork fat is a staple side dish. The local noodles — flat and slightly chewy, served in a ginger-based broth — make an excellent breakfast.

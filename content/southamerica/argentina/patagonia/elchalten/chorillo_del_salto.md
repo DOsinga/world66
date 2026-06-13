@@ -8,6 +8,7 @@ latitude: -49.2956
 longitude: -72.9076
 sources:
   - https://en.wikipedia.org/wiki/El_Chalt%C3%A9n
+score: 6.0
 ---
 
 Chorrillo del Salto is a small waterfall a few kilometres north of El Chaltén, accessible in about 45 minutes on foot from the village. It is not one of Patagonia's dramatic sights, but it makes for an easy warm-up hike on arrival day while you are sorting out gear and waiting for the weather to clear. The falls drop into a pool of brilliantly clear glacial water surrounded by lenga beech forest.

@@ -13,6 +13,7 @@ story: >
   and Vaishnava traditions simultaneously — which is theologically unusual and
   historically significant. The adjacent Seetharamachandra Swamy temple ensures
   that devotees of both traditions make the journey to Vilasagar village.
+score: 7.9
 ---
 
 Sri Trilinga Sanghameshwara Temple, in Vilasagar village about 7 km south of Ramadugu, is one of the more architecturally unusual Shiva temples in the region. What makes it distinctive is its layout: three inner sanctuaries, each facing a different direction (east, north, and south), each housing an identically-sized Shiva linga measuring 5 feet 5 inches in height. The three-sanctuary arrangement, with stepped pyramidal shikhara towers over each, gives the complex a character more reminiscent of Karnataka's Kadamba-style temples than the typical Deccan forms.

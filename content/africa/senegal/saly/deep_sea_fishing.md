@@ -5,6 +5,7 @@ tags: [things_to_do, sport, outdoor]
 latitude: 14.4383
 longitude: -17.0125
 story: "The waters off the Petite Côte are among the most productive fishing grounds in West Africa, fed by the cold Canary Current upwelling. Charter boats out of Saly regularly land blue marlin, sailfish, wahoo, and dorado — catches that would be exceptional in the Mediterranean are routine here."
+score: 8.0
 ---
 
 Deep-sea fishing is one of the best activities available from Saly, and the offshore waters genuinely deliver. The Canary Current creates exceptional conditions for pelagic species, and organised charters run from the beach or from nearby Mbour. A typical day trip goes 30 to 50 kilometres offshore and targets blue marlin, Atlantic sailfish, barracuda, wahoo, and dorado.

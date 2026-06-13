@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tbilisi Sea (Tbilisi Reservoir)
 type: poi
+score: 5.3
 ---
 
 The Tbilisi Sea — officially the Tbilisi Reservoir — is a large artificial lake on the Iori River about 10 km north of the city centre. Despite its informal name, it is modest in size by any standard, but its sandy beach and surrounding parkland make it a popular summer destination for Tbilisi residents who want a quick escape from the heat.

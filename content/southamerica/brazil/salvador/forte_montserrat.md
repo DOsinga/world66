@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: 16th-century Portuguese fort on the bay's northern tip
+score: 7.9
 ---
 
 A small star-shaped fort on the Itapagipe Peninsula north of the centre, built by the Portuguese in 1583 and considered one of the best surviving examples of 16th-century military architecture in Brazil. The location is part of the appeal — a stubby promontory at the entrance to a quiet inlet of the bay, with views back to the lighthouses on the other side of the harbour.

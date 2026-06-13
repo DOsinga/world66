@@ -7,6 +7,7 @@ tags:
 title: Grape Valley
 type: poi
 snippet: 8 km Uyghur farming valley famous for its raisins
+score: 7.0
 ---
 
 A narrow, irrigated valley running through the Flaming Mountains 15 km northeast of Turpan, given over almost entirely to grape and raisin production. The traditional Uyghur drying houses — square brick towers with diamond-patterned ventilation holes through every wall — cluster across the hillsides, and the vines themselves are trained over wooden frames above the lanes to create cool, dappled tunnels.

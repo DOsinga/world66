@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.1481
 longitude: -100.9769
+score: 8.1
 ---
 
 The Teatro de la Paz is San Luis Potosí's main cultural venue and one of the finest 19th-century theatres in Mexico. Built between 1889 and 1894 in a neoclassical style, it stands on the Plaza del Carmen beside the Templo del Carmen, and the contrast between the baroque extravagance of the church and the austere grandeur of the theatre makes the plaza one of the most architecturally interesting in the country.

@@ -8,6 +8,7 @@ tags:
 title: Allakuli Khan Madrasah
 type: poi
 snippet: "Mid-19th-century madrasah opposite the Tash Hauli, with the city's finest tiled portal"
+score: 7.8
 ---
 
 The Allakuli Khan Madrasah was completed in 1835 as part of the same building campaign that produced the Tash Hauli Palace across the street. Its main portal is one of the great pieces of decorative tilework in Itchan Kala: a vast pointed arch sheathed in deep-blue majolica with white floral panels and Kufic inscriptions running across the top.

@@ -10,6 +10,7 @@ longitude: 21.978421
 story: "The theatre was built against the city wall, with part of its seating cut from the rock and part built up. That mix of engineering and landscape is typical of Apollonia, where the sea, slope and city fabric all press into one another."
 sources:
   - https://slsgazetteer.org/926/
+score: 8.3
 ---
 
 The Theatre of Apollonia stands just outside the old city wall on the eastern side of the site. It is smaller and rougher than the famous theatre at Sabratha, but its setting is superb: stone seating, coastal light and the wind off the Mediterranean.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -29.4
 longitude: 31.2
+score: 6.1
 ---
 
 The Dolphin Coast is the stretch of KwaZulu-Natal shoreline immediately north of Durban, running roughly from Ballito to the Tugela River mouth. The name refers to the Indo-Pacific bottlenose dolphins that frequently surf the waves here, visible from the beach on most days. The coast is warmer and calmer than the Western Cape, and the water is genuinely swimmable year-round.

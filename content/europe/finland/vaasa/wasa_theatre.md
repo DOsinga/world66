@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, theatre, culture]
 latitude: 63.096877
 longitude: 21.607095
+score: 6.7
 ---
 
 Wasa Theatre (Wasa Teater) is one of Finland's two professional Swedish-language theatres — a fact that tells you something important about Vaasa. In most Finnish cities, Swedish is a minority language confined to signage and official documents. In Vaasa, it is a living spoken language with its own professional cultural institutions, and the theatre is the most visible expression of that.

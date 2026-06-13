@@ -12,6 +12,7 @@ story: After the Monmouth Rebellion of 1685, Judge Jeffreys held his notorious "
   Assizes" in the great hall of Taunton Castle. Five hundred rebels were tried in
   three days; over a hundred were hanged in the town. The court room is now part of
   the museum.
+score: 7.1
 ---
 
 Taunton Castle began as a Norman motte and bailey in 1138, became a fortified bishop's palace in the twelfth century, and was twice besieged during the Civil War. What survives today is the inner ward — a substantial twelfth-century great hall, parts of the medieval gatehouse, and a moat traced by the modern street pattern.

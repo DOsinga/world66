@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Murallas Romanas
 type: poi
+score: 7.4
 ---
 
 León's Roman walls are among the best-preserved in Spain. Built by the Legio VII Gemina in the 1st century AD, substantial sections still stand to their original height along the northern edge of the old quarter. The walls were later reinforced by the medieval kings of León and again in later centuries, so what you see is a layered structure — Roman masonry at the base, medieval additions above.

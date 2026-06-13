@@ -6,6 +6,7 @@ longitude: 98.2972
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Surf House is the standout monsoon-season activity in Kata — an artificial stationary wave on the beachfront where you can learn to flowboard or bodyboard regardless of the actual surf conditions. The wave is rideable year-round, and lessons go from beginner to advanced.

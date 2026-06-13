@@ -4,6 +4,7 @@ type: poi
 latitude: 39.5400
 longitude: 3.3372
 tags: [eating_out, restaurant]
+score: 6.1
 ---
 
 Sa Llonja occupies a prime position at Passeig Moll 1, right on the edge of the harbour with an unobstructed view across the inlet. The menu focuses squarely on fish and seafood — the kitchen doesn't try to be all things — and the quality reflects that focus. Fresh catches arrive daily, and the preparations are straightforward enough to let the ingredients speak: grilled fish, rice dishes cooked in fish stock, shellfish served with good local olive oil.

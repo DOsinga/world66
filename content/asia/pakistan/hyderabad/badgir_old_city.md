@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 25.393
 longitude: 68.371
+score: 7.8
 ---
 
 Hyderabad's most distinctive architectural feature is its badgirs — tall wind-catching towers that protrude from the flat rooftops of old houses in the historic city. Dozens of these structures survive in the lanes around the fort, looking like square chimneys. They are not chimneys: they are passive air-conditioning systems designed to catch the southwest wind that blows steadily for about 40 days from late April each year.

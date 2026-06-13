@@ -8,6 +8,7 @@ tags:
   - park
   - sight
 snippet: Two-mile riverside trail along the Susquehanna through downtown Harrisburg
+score: 6.4
 ---
 
 Riverfront Park runs for two miles along the east bank of the Susquehanna, from the Walnut Street Bridge south to the Interstate 83 bridge, connecting the town centre to the river that made Harrisburg a strategic location in the first place. The trail is paved, well-maintained, and genuinely pleasant — the river is wide and slow here, and the views across to City Island and the Cumberland Valley hills make it one of the better urban walks in central Pennsylvania.

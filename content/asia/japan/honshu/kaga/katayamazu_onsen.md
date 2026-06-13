@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.3567
 longitude: 136.3414
+score: 6.3
 ---
 
 The third and youngest of Kaga's hot spring towns, Katayamazu sits on the shore of Shibayama Lagoon, a brackish lake that opens to the Sea of Japan. The springs were discovered in 1653 when fishermen noticed steam rising from the lake bed. Today the resort lines the western shore with a row of large ryokan and a public bath, the Sojiyu, designed in 2012 by Kengo Kuma in his characteristic timber-screen style.

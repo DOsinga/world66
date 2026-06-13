@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The single-lane wooden covered bridge across the Cass River is one of Frankenmuth's most photographed structures. Built in 1980 to a traditional design, it is functional rather than historic — but at 239 feet long it is the longest pedestrian-and-vehicle covered bridge in Michigan and a focal point of the town's main pedestrian area.

@@ -9,6 +9,7 @@ latitude: 32.1720
 longitude: 13.0215
 story: >
   Gharyan's potters use clay deposits from the hillsides around the town that have been worked for at least five hundred years. The characteristic glaze — an earthy green or amber over terracotta — is mixed with a local mineral found only in this area, giving Gharyan ware a look distinct from pottery made anywhere else in Libya.
+score: 7.8
 ---
 
 The ceramics tradition in Gharyan is one of the town's defining features, and the workshops clustered near the main road are easy to find — you'll smell the kilns before you see them. Potters throw on foot-powered wheels and fire in wood-burning kilns, producing glazed bowls, water jugs, tagine-style cooking pots, and decorative plates.

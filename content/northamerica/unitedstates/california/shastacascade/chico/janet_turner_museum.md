@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 39.7290
 longitude: -121.8430
+score: 7.2
 ---
 
 The Janet Turner Print Museum on the Chico State campus houses a collection of more than 5,000 prints — one of the most significant print collections in Northern California. The museum is named after Janet Turner, a Chico State art professor who spent decades building an extraordinary collection of printmaking works from around the world and across the centuries. Her gift to the university created a permanent museum that is free and open to the public.

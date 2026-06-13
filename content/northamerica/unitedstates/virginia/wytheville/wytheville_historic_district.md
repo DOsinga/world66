@@ -5,6 +5,7 @@ tags: [things_to_do, historic, sight]
 latitude: 36.94638
 longitude: -81.08194
 story: "During the Civil War raid of July 18, 1863, Union cavalry under Col. John Toland attacked the town to destroy the lead mines and salt works that supplied the Confederate army. Toland was killed in the attack. The town's Confederate defenders — including armed civilians — held long enough for reinforcements to arrive and drive the raiders off. A marker on Main Street commemorates Toland's death at the spot where he fell."
+score: 7.3
 ---
 
 The Wytheville Historic District covers the central blocks of Main Street and the surrounding streets, containing a largely intact collection of 19th and early 20th-century commercial and residential buildings. The scale is small — this was never a large town — but the coherence of the streetscape makes it genuinely pleasant to walk. Most of the significant buildings have interpretation plaques that give enough context to make the walk informative without requiring a guide.

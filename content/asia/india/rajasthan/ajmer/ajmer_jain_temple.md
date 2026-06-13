@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 story: "The Swarna Nagari hall behind the temple is one of the most extraordinary interiors in Rajasthan: a three-storey gilded diorama of the Jain cosmology, with miniature mountains, palaces, processions and aircraft, said to use a thousand kilograms of gold. It was assembled over several decades in the late 19th and early 20th centuries by the merchant who founded the temple."
+score: 7.8
 ---
 
 Built in 1865 by a wealthy Jain merchant, the Ajmer Jain Temple — known as Soniji Ki Nasiyan, the Red Temple — looks unremarkable from outside. Inside the main hall, a separately-ticketed museum contains a vast gilded diorama depicting the Jain version of the universe: the holy mountain Meru, ranks of celestial pavilions, processions of figurines, and (anachronistically) flying machines.

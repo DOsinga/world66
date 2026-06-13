@@ -13,6 +13,7 @@ story: >
   port. The same building later hosted the 14th agency of Banco do Brasil. Finding
   10,000 years of Pantanal human history in a 19th-century customs warehouse feels
   entirely appropriate.
+score: 7.3
 ---
 
 The Museu de História do Pantanal — known locally as MUHPAN — tells the story of one of the world's great natural environments from the perspective of the humans who have lived in and around it. The building itself is a 19th-century waterfront warehouse, part of the Porto Geral complex that once made Corumbá one of the most important ports in South America.

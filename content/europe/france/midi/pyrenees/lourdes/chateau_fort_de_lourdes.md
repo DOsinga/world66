@@ -15,6 +15,7 @@ story: >
   commander — a local knight — negotiated such favorable surrender terms that the town 
   was essentially handed back almost immediately. The castle later served as a state prison 
   under Louis XIV, holding Protestants during the revocation of the Edict of Nantes.
+score: 7.6
 ---
 
 The Château Fort de Lourdes sits on a rocky outcrop 80 metres above the town, commanding views across the Pyrenean foothills in all directions. The castle has a complex history that predates the pilgrimages by centuries — it was a fortified strongpoint through the medieval period, passed between the counts of Bigorre, the English, and the French kings, and served variously as a royal fortress and state prison before being converted to its current use as the Musée Pyrénéen.

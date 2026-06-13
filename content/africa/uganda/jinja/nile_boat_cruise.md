@@ -6,6 +6,7 @@ tags:
   - adventure
 title: Nile Boat Cruise
 type: poi
+score: 6.6
 ---
 
 Evening boat trips from Jinja run upstream towards the Source of the Nile and back, usually timed for sunset. The Nile here is wide and calm close to the lake, and the light in the late afternoon turns the water copper. Herons, kingfishers, and fish eagles are common along the banks; hippos occasionally surface in the shallower inlets. The trips run about two hours and include a cold drink.

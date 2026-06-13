@@ -15,6 +15,7 @@ story: >
   it would be sacrilege.
 sources:
 - https://en.wikipedia.org/wiki/Gadisar_Lake
+score: 7.8
 ---
 
 Gadisar Lake was dug in the 14th century by Maharawal Gadsi Singh as a rainwater reservoir to supply the city. It is still fed by monsoon runoff and surrounded by small temples, chhatris (domed cenotaphs), and ghats descending to the water's edge. The lake attracts migratory birds in winter, and in the early morning you will find local residents performing puja on the ghats, fishermen setting out, and priests making offerings in the temple courtyards.

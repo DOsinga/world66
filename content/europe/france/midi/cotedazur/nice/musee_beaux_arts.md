@@ -7,6 +7,7 @@ tags:
   - promenade
 latitude: 43.6901
 longitude: 7.2427
+score: 7.2
 ---
 
 The Musée des Beaux-Arts occupies a magnificent 19th-century villa that was built for a Ukrainian princess and later given to the city. The collection is strong on 19th and early 20th-century French painting — Renoir, Monet, Sisley — alongside works by the poster artist Jules Chéret after whom the museum is named, and a floor of early Symbolist and academic painting that shows what Impressionism was reacting against.

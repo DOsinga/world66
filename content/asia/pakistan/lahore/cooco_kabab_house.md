@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - walled_city
+score: 6.7
 ---
 
 A long-running kabab shop at the corner of Roshnai Gate, on the route between Hazuri Bagh and the rooftops of Fort Road. The shop specialises in **chapli kabab** (a flat minced-meat kabab, originally from the North-West Frontier) and **seekh kabab**, both cooked over charcoal at the front of the shop.

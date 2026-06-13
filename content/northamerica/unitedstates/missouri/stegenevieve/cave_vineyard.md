@@ -8,6 +8,7 @@ latitude: 37.9231
 longitude: -90.1102
 sources:
   - https://en.wikipedia.org/wiki/Ste._Genevieve,_Missouri
+score: 5.9
 ---
 
 Cave Vineyard is exactly what it sounds like: a winery built into a natural limestone cave in the bluffs south of Ste. Genevieve. The cave maintains a constant cool temperature year-round, which makes it useful for wine storage and also makes it an unexpectedly pleasant place to taste wine on a hot Missouri summer day. The operation is small and unpretentious — the cave itself is the attraction.

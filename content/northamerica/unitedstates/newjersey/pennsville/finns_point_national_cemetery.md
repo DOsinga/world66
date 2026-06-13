@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 6.8
 ---
 
 Adjacent to Fort Mott, Finn's Point is a small national cemetery with an unusual history: it is the burial ground for more than 2,400 Confederate prisoners who died at the Union prison on Pea Patch Island during the Civil War, as well as 135 Union guards. A tall granite obelisk lists the Confederate names, and a smaller monument honours the Union dead. The grounds are quiet, well kept, and rarely visited — a few minutes of walking is enough to take it in.

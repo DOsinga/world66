@@ -11,6 +11,7 @@ story: >
   In the 1870s, the southern wall of the church slid into the Nioman river, taking with it roughly half of the original 12th-century structure. Rather than rebuild in stone, the Tsarist authorities replaced the missing wall with wood — creating the unusual sight of an ancient Byzantine stone church with a plain wooden wall on one side. The wood-and-stone combination is still what you see today, an accidental monument to a 19th-century disaster.
 sources:
   - https://en.wikipedia.org/wiki/Kalozha_Church
+score: 9.0
 ---
 
 The Kalozha Church is the oldest building in Hrodna and one of the oldest in Belarus, dating from around 1160 when the city was a centre of the Black Ruthenian principality. It is a rare surviving example of polychrome Ruthenic architecture: the exterior is decorated with coloured ceramic tiles and crosses embedded in the brick, giving it a patterned, almost textile-like surface unlike anything else in the country.

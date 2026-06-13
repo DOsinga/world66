@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Iron Age stone ringfort on the limestone slabs of the island"
+score: 6.4
 ---
 
 Creggankeel is a small, partly ruined stone ringfort on the central plateau of the island, a few minutes' walk inland from the pier. The circular wall is broken down to roughly chest height on most sides, but the outline is clear and the interior is large enough to make out where buildings once stood.

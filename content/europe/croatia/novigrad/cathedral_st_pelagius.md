@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.3178
 longitude: 13.5614
+score: 7.6
 ---
 
 The parish church of Novigrad, dedicated to the early martyr saint Pelagius. The current building is a 1740s reconstruction in baroque form, but it sits on much older foundations — the crypt, accessible from inside the church, dates from the 9th century and is the oldest surviving piece of the town.

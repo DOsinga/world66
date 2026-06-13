@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 36.77700
 longitude: 31.44500
+score: 5.9
 ---
 
 The Manavgat waterfall, a wide cascade on the Manavgat River near the town of the same name (80 km east of Antalya), is the most visited waterfall in the region — partly because of the sheer volume of water and partly because the river market and fish restaurants around it make it a comfortable half-day stop. The falls are not dramatic in height (about 3 metres) but very wide, and the setting among pines with restaurant platforms over the water is pleasant.

@@ -14,6 +14,7 @@ story: >
   proposal Berners-Lee submitted was returned by his supervisor with the handwritten
   comment "vague but exciting." CERN still keeps his original NeXT computer, the
   world's first web server, in its main building.
+score: 8.4
 ---
 
 CERN — the European Organisation for Nuclear Research — operates the world's largest particle physics laboratory on the Swiss-French border west of Geneva. The Large Hadron Collider, the most powerful particle accelerator ever built, runs in a circular tunnel 27 kilometres in circumference lying 100 metres underground beneath the fields here. It was in this tunnel, in 2012, that the Higgs boson was finally detected.

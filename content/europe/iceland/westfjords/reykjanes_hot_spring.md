@@ -14,6 +14,7 @@ story: >
   90 degrees and flows into an outdoor swimming pool managed by the local community.
   The fjord water in front of the pool is Arctic cold; the pool is comfortable. Both
   are available at the same time. The combination is not subtle in its pleasures.
+score: 7.3
 ---
 
 The Reykjanes hot spring in the western Westfjords is fed by geothermal water that flows into a long outdoor pool on a slope above the Ísafjarðardjúp fjord. The pool has been used for bathing since at least the 18th century. A small guesthouse operates here in summer, making Reykjanes a viable overnight stop for those driving the western fjord circuit.

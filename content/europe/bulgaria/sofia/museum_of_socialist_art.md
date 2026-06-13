@@ -6,6 +6,7 @@ longitude: 23.3742
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 A sculpture park and gallery of art from Bulgaria's Communist period (1944–1989), opened in 2011 and one of the better museums of its kind in Eastern Europe. The garden is filled with monumental bronzes of Lenin, partisans, and workers — including the seven-tonne Red Star that once stood on top of the Party House on the Largo.

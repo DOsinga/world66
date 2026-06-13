@@ -12,6 +12,7 @@ story: >
   in the Bahamas. Because the island has no major resort development, there are no
   beach bars, no sunbeds, no hawkers. Most days, the only footprints in the sand are
   those of sea turtles, which come ashore here at night to nest from May through October.
+score: 7.9
 ---
 
 The Atlantic side of Cat Island is the island's wild face. A series of long, curved beaches run along the eastern shore, backed by low dunes and scrub vegetation. The sand is pink-white, fine, and almost entirely deserted. The water here is rougher than the protected western Bight side, with gentle surf that makes for good swimming when conditions allow.

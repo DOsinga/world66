@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.6900
 longitude: -124.9982
+score: 7.1
 ---
 
 The Courtenay and District Museum is small but punches above its weight. Its fossil collection is the main draw — the Comox Valley has produced significant marine reptile fossils from the Cretaceous period, and the museum holds a cast of a near-complete Elasmosaur skeleton, a long-necked marine reptile that lived alongside the dinosaurs in the shallow sea that covered this region 80 million years ago. The original bones were excavated from the banks of the Puntledge River.

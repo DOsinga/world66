@@ -8,6 +8,7 @@ story: When it was founded in 1227 — partially modelled on the Santa Maria Nuo
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 The Hospital of the Holy Spirit, opposite the Hansemuseum, is one of the oldest still-existing social institutions in the world. The original 1227 foundation cared for the sick, the elderly, and the destitute, paid for by a tax on the salt traffic that came through Lübeck.

@@ -14,6 +14,7 @@ story: >
   his companion María Kodama shortly before his death. His tombstone bears a
   verse from the Old English poem "The Battle of Maldon" — a choice that puzzled
   and offended some who felt he should have left something in Spanish.
+score: 6.8
 ---
 
 Jorge Luis Borges, the Argentine writer who invented a new mode of fiction and influenced most of the writers who came after him, is buried in the Cimetière des Rois (Cemetery of Kings) in Plainpalais — the Genevan cemetery also known as the Cimetière de Plainpalais. He died in Geneva in 1986, having returned to the city he had loved since studying French and Latin here as a teenager during World War One.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4214
 longitude: -5.0928
+score: 7.8
 ---
 
 The headland between Fistral and Towan is the best short walk in Newquay. A two-kilometre loop around Towan Head takes in the Huer's Hut, the open Atlantic views, and (on a clear day) the line of cliffs running north towards Padstow.

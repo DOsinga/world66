@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 7.8
 ---
 
 Kovači is the main war cemetery for soldiers killed defending Sarajevo during the 1992–1995 siege — a hillside above Baščaršija covered with rows of white marble headstones and green Islamic grave markers extending up the steep slope. The cemetery is still active, with new burials as war-related deaths (of wounded veterans, of those who died later from injuries) continue to be added.

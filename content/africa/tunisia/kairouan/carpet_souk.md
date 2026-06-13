@@ -9,6 +9,7 @@ tags:
   - market
   - shopping
 neighbourhood: Medina
+score: 7.4
 ---
 
 Kairouan is Tunisia's carpet capital, and the carpet souk within the medina is the place to see — and possibly buy — the distinctive rugs produced in this region. Kairouan carpets are of two main types: the knotted Alloucha (using local Merino wool) and the woven kilim-style mergoum, with its geometric patterns in natural dyes. Both are produced in small workshops around the city and have been for centuries.

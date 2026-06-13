@@ -8,6 +8,7 @@ tags:
 - historic_site
 - memorial
 story: The 1945 Raid on Los Baños was executed at 7:00am, precisely coordinated with a parachute drop, amphibious landing from Laguna de Bay, and a ground attack. All 2,147 prisoners were freed in 45 minutes with no Allied deaths. Military historians consider it one of the most perfectly executed rescue operations in history. The Japanese had scheduled the prisoners for execution the following morning.
+score: 6.2
 ---
 
 On 23 February 1945, a combined force of US paratroopers, Filipino guerrillas, and amphibious troops launched a raid on a Japanese internment camp at what is now the UPLB campus, freeing 2,147 Allied civilian and military prisoners — mostly American, British, and European civilians who had been interned since the Japanese occupation in 1942.

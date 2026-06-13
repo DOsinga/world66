@@ -9,6 +9,7 @@ longitude: -103.1800
 snippet: Mexico's largest natural freshwater lake, the scenic backdrop to Ajijic
 story: >
   Lake Chapala has been shrinking. In the late 1990s the water level dropped so dramatically — partly due to water extraction for Guadalajara — that the shoreline receded hundreds of meters and the famous lakefront malecon in Chapala found itself looking out over mud flats rather than water. Sustained rainfall and reduced extraction have since partially recovered the levels, but the episode marked a turning point in regional environmental awareness.
+score: 8.5
 ---
 
 Lake Chapala is Mexico's largest natural lake, roughly 80 kilometers long and 18 kilometers wide, and the source of the spectacular views that have made the northern lakeshore such a magnet for retiring expats and artists. The combination of mountain backdrop, flat water surface, and extraordinary light — especially in the early morning and at sunset — is what photographers and painters have been coming here for since the early 20th century, when D.H. Lawrence spent time in the area and wrote about it in his novel The Plumed Serpent.

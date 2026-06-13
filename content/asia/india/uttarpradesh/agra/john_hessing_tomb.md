@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "John Hessing was a Dutch mercenary who fought for the Marathas and was killed defending Agra Fort against the British in 1803. His widow built this miniature Taj — in red sandstone, not white marble — over his grave a few years later. It is the closest thing in India to a domestic copy of the Taj Mahal."
+score: 6.5
 ---
 
 In the Roman Catholic cemetery in central Agra, almost unmarked from the street, stands a small red sandstone mausoleum modelled directly on the Taj Mahal. It is the tomb of John Hessing (1739–1803), a Dutch officer in the Maratha army.

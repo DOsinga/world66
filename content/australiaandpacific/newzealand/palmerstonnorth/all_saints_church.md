@@ -8,6 +8,7 @@ tags:
 - architecture
 title: All Saints' Anglican Church
 type: poi
+score: 6.6
 ---
 
 All Saints' is the oldest substantial building on The Square, completed in 1914 in Gothic Revival style after the original wooden 1875 church burned down. The building is faced in local limestone and roofed in shingle slate, with a tall spire that is one of the city's few real landmarks.

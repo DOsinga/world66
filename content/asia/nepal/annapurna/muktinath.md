@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Muktinath
 story: >
   The temple complex at Muktinath is one of the most sacred sites in both Hinduism and Tibetan Buddhism — rare among Himalayan holy places in being revered by both religions simultaneously. Hindus worship here as the 105th Vishnu temple; Tibetan Buddhists consider it the place where Avalokitesvara meditated. The eternal flame burning from a natural gas seep amid a flowing spring is the sacred heart of the site — fire and water in the same spot, which the pilgrims of both faiths regard as miraculous.
+score: 8.4
 ---
 
 Muktinath (3,760m) is both the spiritual and practical culmination of the Annapurna Circuit crossing. After the long descent from Thorong La, the sight of the whitewashed temple complex amid trees and flowing water feels miraculous. The Muktinath Temple — properly the Jwala Devi temple — is a simple pagoda in a sacred grove fed by 108 sacred water spouts in the shape of cow's heads. Pilgrims bathe under all 108 spouts in sequence, even in the freezing temperatures of early morning. A smaller building nearby contains the natural gas flame that burns beside running water — the geological curiosity that made this a sacred site in the first place.

@@ -6,6 +6,7 @@ longitude: 84.8536
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 Sundargarh district is one of the most tribal areas in Odisha, with sizeable populations of Oraon, Kisan, Munda, and Kharia people, and the Tribal Museum is the best place in Rourkela to understand that heritage. The collection covers everyday objects, agricultural tools, jewellery, musical instruments, masks, and ceremonial dress from the region's indigenous communities.

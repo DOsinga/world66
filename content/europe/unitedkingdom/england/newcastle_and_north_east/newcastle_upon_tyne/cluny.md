@@ -8,6 +8,7 @@ tags:
 - pub
 - ouseburn
 snippet: Whisky-bottling-plant-turned-music-venue in the Ouseburn
+score: 7.5
 ---
 
 The most reliable music venue in Newcastle for new bands and the slightly bigger names that have not quite outgrown a 300-capacity room. Touring acts in folk, indie, post-rock, and Americana cycle through more or less every night of the week. The bar is open through the day for coffee, beer, and decent pub food.

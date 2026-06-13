@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Wildlife Scuba Diving
 type: poi
+score: 9.7
 ---
 
 The Galápagos is one of the world's great dive destinations, not for coral but for the sheer density of large marine life. Hammerhead sharks school by the hundreds at Wolf and Darwin islands in the far north — these are liveaboard-only sites and among the top-rated dives on the planet. Closer to the main islands, you can share the water with sea lions, marine iguanas, sea turtles, and manta rays.

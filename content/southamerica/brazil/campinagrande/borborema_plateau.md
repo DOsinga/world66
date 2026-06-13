@@ -8,6 +8,7 @@ latitude: -7.3500
 longitude: -35.9500
 story: >
   The Borborema Plateau is one of Brazil's great geological structures — a worn-down crystalline plateau that separates the humid coastal zone from the semi-arid sertão. The region is famous for its dramatic rock formations: enormous rounded boulders and tors that emerge from scrubby caatinga vegetation in combinations that seem almost architectural. Local legend assigns each formation a name and a story.
+score: 6.7
 ---
 
 Campina Grande sits on the edge of the Borborema Plateau, and the landscape around it — red earth, granite boulders, caatinga scrub — is one of the most distinctive in Brazil. Day trips into the plateau take you to rock formations like Pedra da Boca and Pedra Lavrada, to canyon landscapes cut by seasonal rivers, and to viewpoints over the vast interior.

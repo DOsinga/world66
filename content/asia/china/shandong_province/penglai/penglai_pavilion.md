@@ -9,6 +9,7 @@ latitude: 37.8300
 longitude: 120.7507
 story: >
   The Penglai Pavilion sits on Danya Mountain above the Bohai Strait, and the mirages that occasionally appear over the water here — optical illusions created by cold sea currents under warm air, producing convincing images of distant landscapes — are what led ancient travelers to believe that the mythical fairy islands of Penglai lay just offshore. The Eight Immortals of Chinese mythology are said to have crossed to the fairy islands from this headland, and the pavilion was built in part to mark the departure point.
+score: 8.9
 ---
 
 Penglai Pavilion is one of the Four Great Towers of classical Chinese architecture — a Song Dynasty complex perched on the cliff edge above the Bohai Strait, with views across the water to the Changdao Islands and, on clear days, the Liaodong Peninsula. The main pavilion, with its double-eaved roof and painted beams, is the structure most reproduced in images of Penglai; it stands within a larger complex of Taoist and Buddhist temples, walls, and a lighthouse that covers the headland.

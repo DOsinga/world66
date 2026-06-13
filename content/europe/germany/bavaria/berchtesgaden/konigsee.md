@@ -7,6 +7,7 @@ tags:
 latitude: 47.5726
 longitude: 12.9965
 story: "Since 1909 all motorised boats have been banned from Königssee, making it Germany's most strictly protected lake. The electric boats used today are so quiet that boat captains traditionally stop midway to play a flugelhorn — and the echo, bouncing off the sheer cliff face on the far side, returns as a perfect mirror of the melody."
+score: 9.8
 ---
 
 Königssee is Germany's deepest lake and, many would argue, its most beautiful. It occupies a glacial valley 5km south of Berchtesgaden, walled in on both sides by cliffs rising over 1,000 metres — the Watzmann's east face drops almost vertically into the water on the western shore. The lake is a vivid jade-green, strikingly clean, and officially protected since 1909, when all combustion engines were banned. The only way onto the water is by electric boat.

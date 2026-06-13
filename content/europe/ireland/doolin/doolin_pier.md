@@ -8,6 +8,7 @@ latitude: 53.0203
 longitude: -9.4015
 story: >
   The pier at Doolin is the traditional jumping-off point for the Aran Islands, a connection that has existed for centuries. Inisheer, the nearest island, is visible from the cliff edge on clear days, and the passage across Galway Bay takes about 30 minutes by modern ferry — the same journey that fishermen once made in open currachs regardless of the weather.
+score: 6.4
 ---
 
 Doolin Pier sits at the end of a narrow road that runs through flat limestone fields down to the shore. In calm weather it is a pleasant spot even if you are not taking a boat — the view back toward the Burren and the Cliffs of Moher is excellent, and the pier itself is often busy with fishermen.

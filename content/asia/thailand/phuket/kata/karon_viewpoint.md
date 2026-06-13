@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Locally called 'Khao Saam Haad', or Three Beaches Hill, the viewpoint takes in Kata Noi, Kata Yai, and Karon in a single glance — a postcard of Phuket's south-west coast unrivalled anywhere on the island."
+score: 7.7
 ---
 
 Karon Viewpoint sits on the hill road between Kata and Nai Harn and looks back over three beaches in succession — Kata Noi closest, then Kata Yai, then Karon stretching north towards the horizon. It is the most photographed spot in southern Phuket and rightly so.

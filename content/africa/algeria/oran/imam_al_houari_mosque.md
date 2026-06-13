@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Imam al-Houari Mosque is the spiritual centre of the Sidi El Houari quarter, built around the tomb of the 14th-century Sufi master after whom the neighbourhood is named. The current building is a late Ottoman rebuild of a much older shrine; the simple whitewashed exterior conceals a richly decorated interior with green-tiled walls and a carved wooden ceiling.

@@ -13,6 +13,7 @@ story: >
   influenced public buildings in the city, put up at a time when returned overseas
   Chinese were reshaping Haikou's skyline with the architectural vocabulary they
   had encountered abroad.
+score: 5.8
 ---
 
 The Haikou Clock Tower is a compact Republican-era landmark at the northern edge of the Bo'ai Road qilou district, where the old town meets the waterfront. It is not a grand structure — it was never meant to be — but it serves as a useful orientation point and a symbol of the city's early twentieth-century ambitions to modernise along lines influenced by the overseas Chinese community.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 6.7
 ---
 
 St Petri (St Peter's) was built between the twelfth and the fifteenth centuries and badly damaged in 1942. The interior was rebuilt as a deliberately empty hall — there is no fixed altar or pews — and now functions as an exhibition and event space, not a working parish church. The whitewashed walls and clean Gothic ribs are striking precisely because nothing else competes.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 13 plaster casts in the Garden of the Fugitives were discovered in 1961 by archaeologist Amedeo Maiuri. They were found clustered together in what had been a market garden — a group of people, possibly a family with slaves, who had tried to escape the eruption by hiding or by waiting out the initial pumice fall. Analysis of the bones inside some of the casts suggests they died from the thermal shock of the pyroclastic surge, not from suffocation — the heat was so intense it killed them instantly."
+score: 8.0
 ---
 
 The Garden of the Fugitives displays the largest single group of plaster casts of eruption victims found anywhere at Pompeii: 13 people clustered together in what was once a market garden on the southern edge of the excavated area. The casts are displayed in the open air, arranged approximately as they were found, and the effect is profoundly affecting — the preserved postures of people dying, frozen in the positions of their last moments.

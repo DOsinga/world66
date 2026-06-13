@@ -8,6 +8,7 @@ latitude: 34.2000
 longitude: 71.0000
 sources:
   - https://en.wikipedia.org/wiki/Khyber_Pass
+score: 6.8
 ---
 
 East of Jalalabad, the road continues through Torkham at the Pakistan border and into the Khyber Pass — one of the most historically significant mountain passes in the world, connecting Central Asia and the Indian subcontinent through the Spin Ghar mountains. Every major army that invaded the subcontinent — Alexander, Timur, Babur, the British — came through this gap.

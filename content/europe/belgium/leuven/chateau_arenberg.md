@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau_of_Arenberg
+score: 6.4
 ---
 
 The Château d'Arenberg is a Flemish Renaissance castle in the Heverlee suburb, now part of KU Leuven's Arenberg science campus. Built in the 16th century for the noble Arenberg family, it was acquired by the university in the 20th century and now serves as an administrative building. The castle and its grounds are open to the public — the university campus that surrounds it has spread considerably, but the castle itself retains its moat and towers and looks much as it did in historical engravings.

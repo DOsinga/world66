@@ -14,6 +14,7 @@ story: >
   wall, with the days and months laid out around a rotating wheel. It still works: find the current
   date on the wheel and the corresponding liturgical information appears beside it. Nothing quite like
   it exists elsewhere in Italian medieval painting.
+score: 9.5
 ---
 
 The Oratorio di San Pellegrino is a small 13th-century chapel attached to a Benedictine monastery, and it contains what many art historians consider the finest complete cycle of medieval frescoes in Abruzzo. The exterior gives nothing away: a plain stone building behind the church of Santa Maria Assunta, locked and unremarkable from outside. Inside, every surface is covered in paintings.

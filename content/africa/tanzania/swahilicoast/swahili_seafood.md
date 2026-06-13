@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -6.8167
 longitude: 39.2833
+score: 5.8
 ---
 
 The fundamental Swahili meal is fresh fish — kingfish, snapper, octopus, or prawns — grilled over charcoal and served with coconut rice (wali wa nazi) and a sambusa-like fried snack. The Forodhani Gardens night market in Stone Town, Zanzibar, and the harbour-side grills in Bagamoyo and Mtwara are the easiest places to try it.

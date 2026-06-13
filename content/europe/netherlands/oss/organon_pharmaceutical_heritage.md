@@ -10,6 +10,7 @@ story: >
   Organon was founded in Oss in 1923 by Saal van Zwanenberg, who pivoted from slaughterhouse byproducts — the pancreases left over from meat processing — to pharmaceutical extraction. Within a decade, the company was producing insulin for the Netherlands and exporting it across Europe. The transition from sausage factory to pharmaceutical giant was not planned; it was a product of proximity, opportunism, and one very practical chemist.
 sources:
   - https://en.wikipedia.org/wiki/Organon_(company)
+score: 7.2
 ---
 
 Oss is home to one of the more surprising chapters in Dutch industrial history. The pharmaceutical company Organon grew directly out of the meatpacking trade: when the Zwanenberg slaughterhouse began processing cattle and pigs on a large scale, someone noticed that the leftover glands could yield hormones and other medically useful compounds. By the 1920s, a serious pharmaceutical operation had taken root in the town.

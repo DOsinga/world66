@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.0710
 longitude: 12.6150
+score: 6.2
 ---
 
 A serious wine bar a short walk off Piazza del Comune, with one of the best lists in town — Umbrian, Tuscan, and natural wines from across central Italy. The food side is small but thoughtful: cured meats, local cheeses, a few simple plates designed to drink with.

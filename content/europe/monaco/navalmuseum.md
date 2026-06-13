@@ -8,6 +8,7 @@ tags:
 - sights
 title: Naval Museum
 type: poi
+score: 6.8
 ---
 
 The Naval Museum in the Fontvieille district houses over 180 model ships drawn largely from the personal collection of the Prince of Monaco. The models span centuries of maritime history, from sailing clippers and warships to modern submarines, and are displayed alongside navigational instruments, paintings, and other maritime artefacts. It is a niche museum, best suited to anyone with an interest in ships or naval history rather than a must-see for every visitor. The Fontvieille area is also home to several other small museums, making it easy to combine a few in one visit.

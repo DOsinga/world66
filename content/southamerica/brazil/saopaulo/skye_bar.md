@@ -9,6 +9,7 @@ tags:
   - avenida_paulista
 neighbourhood: Avenida Paulista
 snippet: "Rooftop bar at the Unique hotel, with a red pool and a view of Paulista"
+score: 6.9
 ---
 
 The Skye Bar sits on the roof of the Unique, the Ruy Ohtake-designed hotel shaped like a slice of melon at the south end of Avenida Paulista. The bar is a long terrace with a shallow red infinity pool, looking out across Paulista and the Jardins. The drinks are expensive cocktails, the music is house, and the crowd is São Paulo at its most polished.

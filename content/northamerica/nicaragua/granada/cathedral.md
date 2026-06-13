@@ -9,6 +9,7 @@ latitude: 11.9299
 longitude: -85.9533
 story: >
   The cathedral has been destroyed and rebuilt multiple times since the Spanish founded Granada in 1524 — most dramatically when the American filibuster William Walker had much of the city burned in 1856 during his retreat from Nicaragua. The yellow neoclassical building standing today dates largely from a 20th-century reconstruction, but its twin bell towers have dominated the skyline for generations.
+score: 8.4
 ---
 
 The Cathedral of Our Lady of the Assumption stands on the eastern side of Parque Central and is the most recognisable landmark in Granada. Its yellow neoclassical facade, twin bell towers, and ochre interior make it one of the handsomest colonial churches in Central America.

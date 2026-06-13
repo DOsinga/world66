@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/LeTort_Spring_Run
   - https://en.wikipedia.org/wiki/LeTort_Spring_Run_Nature_Trail
+score: 6.1
 ---
 
 The LeTort Spring Run is a limestone spring creek that flows through Carlisle before joining Conodoguinet Creek. A nature trail follows part of its length, passing through lush riparian vegetation in a pleasant contrast to the town around it. The water is exceptionally clear — you can see the bottom in most conditions — and the watercress and aquatic vegetation of a healthy limestone stream are on display.

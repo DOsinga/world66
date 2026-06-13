@@ -10,6 +10,7 @@ story: >
   The distinctive volcanic rock formation known as Tetakawi ("goat's teat" in the Seri language) towers over San Carlos Bay 
   and has served as a navigational landmark for sailors on the Sea of Cortez for centuries. 
   The Seri people, one of the last indigenous groups to resist Spanish colonization, used these waters as hunting grounds and are still present in the region today.
+score: 8.2
 ---
 
 San Carlos, 20 kilometres northwest of Guaymas along a road that passes between volcanic hills and the Sea of Cortez, is the resort counterpart to Guaymas's workaday port: crescent beaches, two large marinas packed with sailboats and sport fishing vessels, and a strip of restaurant-bars catering to the North American retirees and snowbirds who make up much of its permanent population.

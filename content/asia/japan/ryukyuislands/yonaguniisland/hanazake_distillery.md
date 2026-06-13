@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.4680
 longitude: 122.9990
+score: 6.4
 ---
 
 Hanazake is Yonaguni's traditional spirit — a rice-based distilled liquor that reaches 60 percent alcohol by volume, making it one of the strongest traditionally produced spirits in Japan. It is legally produced only on Yonaguni, which has an exemption from Japan's otherwise strict alcohol licensing laws that normally limit home distillation. The spirit has a powerful, raw character; it is not a sipping drink for the uninitiated, but trying it on the island is as much a part of the Yonaguni experience as the diving.

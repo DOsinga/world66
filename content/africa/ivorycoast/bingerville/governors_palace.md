@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "After the capital moved to Abidjan in 1934, the palace was converted into an orphanage for the children of French colonial soldiers and Ivorian mothers. It still operates as a children's home today, more than ninety years later."
+score: 6.9
 ---
 
 The Palais du Gouverneur is the most visible reminder that Bingerville was once the seat of power in French Côte d'Ivoire. The handsome two-storey building, with its broad shaded balconies and red roof, sits on the high point of town and looks out across the Ébrié Lagoon toward Abidjan.

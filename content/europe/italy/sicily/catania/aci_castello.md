@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 37.5536
 longitude: 15.1463
+score: 7.1
 ---
 
 Aci Castello is a coastal village ten minutes' drive from Catania, dominated by a Norman castle built directly onto a basalt sea stack. The castle is small but unusually photogenic, with a tiny archaeological museum inside and a viewing terrace over the water.

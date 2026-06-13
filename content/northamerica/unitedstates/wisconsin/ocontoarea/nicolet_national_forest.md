@@ -6,6 +6,7 @@ longitude: -88.3000
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The western edge of Oconto County borders the Nicolet National Forest, a 1.5-million-acre national forest that covers much of northeastern Wisconsin. The forest is the source of the county's river systems and the heart of its outdoor recreation economy. Hundreds of lakes with public access, more than 300 miles of trout streams, hiking trails, and remote campsites are all accessible within a short drive from the county seat.

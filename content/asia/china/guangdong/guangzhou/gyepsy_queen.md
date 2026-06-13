@@ -8,6 +8,7 @@ tags:
 - nightlife
 title: Gypsy Queen
 type: poi
+score: 4.2
 ---
 
 A dance bar on Huanshi Dong Lu in the Pearl River Building, known for its nightly DJ sets. One of the longer-running nightlife spots in the area.

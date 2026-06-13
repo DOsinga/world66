@@ -7,6 +7,7 @@ tags:
   - family
 latitude: 61.5017
 longitude: 23.7592
+score: 6.6
 ---
 
 The Natural History Museum within Vapriikki covers Finnish and Scandinavian fauna and geology with a strong collection of taxidermied specimens and geological exhibits. The collection includes Finnish megafauna — wolves, bears, lynx, elk, wolverines — displayed in diorama settings that give a sense of the boreal forest ecosystem.

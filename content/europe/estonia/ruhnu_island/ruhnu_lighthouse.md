@@ -13,6 +13,7 @@ story: >
   the Paris tower and designed the internal structure of the Statue of Liberty. The attribution is disputed
   by historians but not definitively disproved. What is certain is that the cast-iron lighthouse, assembled
   in 1877, is an elegant piece of engineering for its era, and the story has stuck to it like barnacles.
+score: 7.4
 ---
 
 The Ruhnu Lighthouse is a cast-iron tower built in 1877, standing at the southeastern end of the island. It is about 34 metres tall and still serves as a working lighthouse, its light visible for up to 20km on a clear night. The tower has the elegant, tapered proportions typical of 19th-century lighthouse design.

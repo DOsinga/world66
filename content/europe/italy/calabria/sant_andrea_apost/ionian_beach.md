@@ -8,6 +8,7 @@ tags:
 - swimming
 title: "Beach at Sant'Andrea Marina"
 type: poi
+score: 8.1
 ---
 
 The beach at Sant'Andrea Marina stretches for around five kilometres along the Ionian coast directly below the town, a long arc of dark volcanic sand meeting water that is a startling shade of clear blue-green. This is one of the least developed stretches of coast on the eastern Calabrian shore: no beach clubs dominating every metre, no jet-ski rental concessions, no souvenir kiosks. In July and August a handful of seasonal lido bars set up rows of loungers and umbrellas and sell cold drinks, but most of the beach remains free and open, and outside those two peak months you can have long stretches entirely to yourself.

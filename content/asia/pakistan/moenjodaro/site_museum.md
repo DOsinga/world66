@@ -7,6 +7,7 @@ tags:
   - museum
 title: Site Museum
 type: poi
+score: 7.8
 ---
 
 The small museum at the site displays finds from over a century of excavation at Moenjodaro. The highlights are the seals — hundreds of small square steatite stamps engraved with animals and a script that has never been deciphered — and replicas of the most famous objects found here, including the bronze Dancing Girl (now in New Delhi's National Museum) and the stone Priest-King bust (also in Karachi's National Museum of Pakistan).

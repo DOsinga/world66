@@ -12,6 +12,7 @@ story: >
   now holding around 300,000 plant specimens — the largest collection in the country and the
   third-largest in Southeast Asia. Among its holdings are collections from legendary botanical
   explorers like Leonard John Brass and Wayne Takeuchi.
+score: 8.6
 ---
 
 The Lae Botanic Gardens are the best reason to stop in the city. Spread across 38 hectares of natural lowland rainforest, the gardens feel less like a manicured park and more like a walk through primary jungle — enormous buttressed trees draped in epiphytes and climbers, creeks running through the understorey, and the sound of birds everywhere. The greenhouses hold specialist orchid and aroid collections.

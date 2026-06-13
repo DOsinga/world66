@@ -11,6 +11,7 @@ tags:
 title: Paard van Marken Lighthouse
 type: poi
 story: "The name comes from the 18th-century wooden post that stood here before the current lighthouse was built. Sailors used a horse-shaped silhouette as a marker when navigating the treacherous shallows of the IJmeer, and the name stuck even when the 1839 brick tower replaced it."
+score: 7.4
 ---
 
 The lighthouse at the northern tip of Marken, known locally as Het Paard (the horse) for its silhouette, dates from 1839. It marks the end of the dyke walk and offers views across the IJmeer. No longer an operational navigational aid, it is maintained as a landmark. The walk from the village to the lighthouse and back is one of the most popular routes on the island.

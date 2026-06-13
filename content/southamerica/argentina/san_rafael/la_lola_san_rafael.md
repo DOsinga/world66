@@ -6,6 +6,7 @@ longitude: -68.3320
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A long-running parrilla near the plaza that does the classic Argentine grill the way it should be — bife de chorizo, bife de lomo, achuras (offal), and grilled chorizo, all over wood fire and brought out in waves. The salads are fresher than usual; the wine list leans heavily on San Rafael producers.

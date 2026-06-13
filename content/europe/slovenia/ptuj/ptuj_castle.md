@@ -8,6 +8,7 @@ tags:
 latitude: 46.4210
 longitude: 15.8679
 story: "The castle was fought over for centuries, passing between the Salzburg archbishops, the Hungarian crown, the Habsburgs, and various noble families. Today its Renaissance courtyard is one of the finest in Slovenia."
+score: 8.7
 ---
 
 Ptuj Castle crowns the hill above the old town and has been in some form of use since Roman times — the hill was a fortified point even before Poetovio spread around its base. The current structure is largely Renaissance and Baroque, with a handsome arcaded courtyard at its heart.

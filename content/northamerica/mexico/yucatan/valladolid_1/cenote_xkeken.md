@@ -10,6 +10,7 @@ tags:
   - swimming
 snippet: Cathedral-like underground pool seven kilometres west of town
 story: "The cenote was used by local farmers for generations to water animals before a guide spotted its tourist potential in the 1980s. Across the road, a second cenote — Samulá — is even prettier: a single root descends from the ceiling all the way to the water, like a stalactite that grew on the wrong terms."
+score: 8.0
 ---
 
 X'kekén, also known as Cenote Dzitnup, sits seven kilometres west of Valladolid on the road to Mérida. You descend through a narrow stone passage into a vast cavern lit by a single shaft of daylight that pierces the limestone roof; the water below is deep, very cold, and an almost luminous blue.

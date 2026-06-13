@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Palais_Theatre,_Melbourne
 story: >
   The Palais Theatre opened in 1927 as a cinema, with capacity for over 3,000 people — making it the largest cinema in Australia at the time. It was built to replace an earlier theatre on the same site and was part of a broader redevelopment of the St Kilda beachfront as an entertainment destination. After decades of decline that saw it threatened with demolition multiple times, it was heritage-listed and restored, reopening as a live music venue in 2016 after a multi-million-dollar refurbishment.
+score: 7.6
 ---
 
 The Palais Theatre on the St Kilda beachfront is one of Australia's grandest surviving theatres, an ornate Spanish Mission building facing the bay with a capacity of around 3,000. Built in 1927 as a picture palace, it has operated in various forms over the decades and today functions as one of Melbourne's premier live music venues, hosting major local and international acts who fit between smaller club shows and stadium concerts.

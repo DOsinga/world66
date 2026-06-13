@@ -15,6 +15,7 @@ story: >
   installations in US history. The entire camp was designed from the outset to be
   temporary: engineers trained here partly by dismantling their own barracks as
   the programme wound down.
+score: 5.8
 ---
 
 Sunriver sits on the ground of Camp Abbot, a World War II training camp for combat engineers that operated between 1943 and 1944. The camp was built rapidly in the ponderosa pine forest, trained tens of thousands of soldiers in bridge-building, demolition, and combat engineering, and was then largely torn down. The resort that replaced it in 1968 kept almost nothing from the military era.

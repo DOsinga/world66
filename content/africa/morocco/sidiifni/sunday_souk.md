@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 29.3920
 longitude: -10.1520
+score: 7.9
 ---
 
 On Sunday mornings, a souk takes over a stretch of the old Spanish airstrip on the eastern edge of town, and it is unlike any other market in the region. The setting alone — a crumbling runway with Saharan light and a stiff Atlantic breeze — would make it worth visiting even if the goods were unremarkable. They are not unremarkable: traders come from the surrounding villages with produce, animals, cloth, metalwork, and household goods; there are storytellers and musicians working the crowd; and the atmosphere is of a genuine weekly gathering rather than a tourist market.

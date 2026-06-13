@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 31.7000
 longitude: 99.9000
+score: 7.8
 ---
 
 The high-altitude grasslands surrounding Ganzi are among the defining landscapes of the eastern Tibetan plateau. Between spring and autumn, Tibetan nomadic families move across this terrain with their yak herds in patterns largely unchanged for centuries. From the road approaching Ganzi, and especially from the hills above town, you can see this world in context — a vast open plateau ringed by snow peaks, with black yak-hair tents visible across the grassland.

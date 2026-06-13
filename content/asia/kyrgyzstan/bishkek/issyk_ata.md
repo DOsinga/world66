@@ -7,6 +7,7 @@ tags:
 latitude: 42.6358
 longitude: 75.0561
 address: "Issyk-Ata Gorge, 80 km east of Bishkek"
+score: 7.6
 ---
 
 A Soviet-era sanitorium and hot-spring complex 80 km east of Bishkek in the Issyk-Ata gorge. Several pools fed by natural mineral springs sit in a long valley below the snowline, with low concrete bath-houses for guests. The complex is busiest in winter when steam rises off the hot water against snowbanks.

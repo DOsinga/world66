@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.3064
 longitude: 18.9750
+score: 6.0
 ---
 
 "Old Chorzów" is the historic core of the city, north of the main railway line and centred on St Mary Magdalene's parish church. The church, built in 1882 in red-brick neo-Gothic, sits beside a small market square. The streets around it preserve a quieter, more village-like feel than the rest of the modern industrial city — gabled tenements, courtyards, and a couple of decent neighbourhood bars.

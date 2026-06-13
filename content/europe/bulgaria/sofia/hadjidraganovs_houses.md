@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - bulgarian
+score: 5.9
 ---
 
 A theatrical Bulgarian-folk restaurant in a converted nineteenth-century house near Lavov Most. Three floors of carved wood, low ceilings, live folk music in the evenings, and a long menu of pre-Ottoman village recipes — stuffed peppers, lamb shanks slow-cooked in clay pots, banitsa with white cheese.

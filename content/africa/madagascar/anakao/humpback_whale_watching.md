@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -23.6581
 longitude: 43.6469
+score: 8.9
 ---
 
 Between July and September, humpback whales pass close to the shore at Anakao on their annual migration from the cold southern waters to warmer breeding grounds. The concentration of whales in this part of the Mozambique Channel is substantial, and sightings from a pirogue or even from the beach are common during these months.

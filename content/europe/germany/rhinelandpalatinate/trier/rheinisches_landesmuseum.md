@@ -7,6 +7,7 @@ tags:
   - museum
 title: Rheinisches Landesmuseum
 type: poi
+score: 9.1
 ---
 
 One of the most important Roman archaeology museums in Europe, the Rheinisches Landesmuseum holds over a million objects from the Roman Rhine province, though of course only a fraction are on display at any time. The highlights are the mosaics — the museum claims the world's largest collection of ancient Roman mosaic floors, including the spectacular Dionysos mosaic (3rd century) and the Medusa floor from a Trier townhouse.

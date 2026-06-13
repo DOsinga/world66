@@ -8,6 +8,7 @@ tags:
 latitude: 43.7214
 longitude: 10.4036
 address: "Piazza Santa Caterina, 56127 Pisa"
+score: 7.4
 ---
 
 A handsome 13th-century Gothic Dominican church on a quiet square halfway between the Campo dei Miracoli and the river. The marble facade, with its three tiers of small arcades and rose window, is one of the most photographed in the city after the cathedral — fewer visitors stop here than should.

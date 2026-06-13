@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 43.51752
 longitude: 16.25180
+score: 6.0
 ---
 
 Caffe Riva is one of the Riva promenade's better-positioned cafes, with a terrace that looks north across the strait toward the mainland. The coffee is competent and the view is excellent: palms, moored boats, and the low hills beyond. It is the kind of place that works best for the first coffee of the morning or a late-afternoon aperitivo before dinner.

@@ -7,6 +7,7 @@ snippet: "Vast English-style landscape park with a zoo and five lakes"
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 Maksimir, three kilometres east of the centre, is Zagreb's great green lung — 316 hectares of mature woodland, meadows, lakes, and ornamental gardens laid out in the early 19th century by the bishop Maksimilijan Vrhovac, who designed it after the English landscape parks he had visited on his travels. It was the first public park in southeastern Europe.

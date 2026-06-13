@@ -7,6 +7,7 @@ tags:
 - nature
 title: Ojos del Salar
 type: poi
+score: 6.6
 ---
 
 The Ojos del Salar are two round freshwater sinkholes set in the desert near the salt lagoons. After hours of white crust and brine, the dark circular pools feel almost theatrical.

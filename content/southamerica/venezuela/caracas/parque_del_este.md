@@ -8,6 +8,7 @@ tags:
   - park
   - sight
 story: "The park was designed by the Brazilian landscape architect Roberto Burle Marx — one of his largest public commissions outside Brazil. His sinuous flower beds, undulating lawns, and tropical planting palette are still legible despite half a century of patchy maintenance."
+score: 8.1
 ---
 
 Parque Generalísimo Francisco de Miranda — known to everyone as Parque del Este — is the city's largest urban park, 82 hectares stretching east from the Miranda metro station to the Los Cortijos station. The park opened in 1961 and was designed by Roberto Burle Marx in his characteristic style: sweeping organic flower beds, mass tropical planting, sculptural earthworks, and water features that flow between the planted zones.

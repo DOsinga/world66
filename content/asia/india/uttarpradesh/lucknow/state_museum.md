@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 26.8551
 longitude: 80.9494
+score: 7.8
 ---
 
 The State Museum of Lucknow sits inside the leafy zoological gardens in Banarsibagh and is one of the oldest museums in north India — founded in 1863 by the British administration and now run by the Uttar Pradesh state government. The collection is encyclopedic: pre-Mauryan and Gupta-era stone sculpture from across the Gangetic plain, Mughal and Awadhi paintings, palaeontology, decorative arts, and a notably good gallery of textiles including local chikankari.

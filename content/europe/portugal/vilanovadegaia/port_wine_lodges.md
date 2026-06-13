@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Vila_Nova_de_Gaia
 story: >
   The port wine lodges moved to Gaia from the Douro Valley in the eighteenth century, when British merchants based in Porto discovered that the climate on the coastal side of the hills was better for ageing wine than the harsh interior. The name "lodge" — from the Portuguese "loja" — distinguishes these warehouses from the quintas where the grapes are grown. The Treaty of Windsor, then the Methuen Treaty of 1703, gave British merchants preferential access to Portuguese wine markets, and British family names have dominated the Gaia skyline ever since: Taylor Fladgate, Graham, Sandeman, Cockburn, Dow, Fonseca.
+score: 8.8
 ---
 
 The port wine lodges line the Cais de Gaia waterfront for nearly a kilometre — a continuous row of terracotta-tiled warehouses stacked up the hillside behind the quay, each one holding hundreds of oak casks in various stages of ageing. The names painted on the rooftops in large white letters are one of the great sights of the Porto riverfront, best appreciated from the far bank.

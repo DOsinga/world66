@@ -15,6 +15,7 @@ tags:
 - city_bowl
 title: Truth Coffee
 type: poi
+score: 7.8
 ---
 
 Truth Coffee is hard to miss — the interior of the Buitenkant Street building is fitted out in an exuberant steampunk style of copper pipes, gears, leather and exposed brick that has been photographed by every coffee publication and lifestyle magazine that has passed through Cape Town in the last decade. The coffee, however, is the actual reason to come. Truth roasts its own beans, trains its own baristas, and takes espresso extraction seriously enough to justify the reputation.

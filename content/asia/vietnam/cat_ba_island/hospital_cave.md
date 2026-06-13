@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, cave]
 latitude: 20.7689
 longitude: 107.0083
 story: The cave was excavated from solid limestone between 1963 and 1965 by Vietnamese army engineers and operated through the worst of the American bombing campaigns. At its peak it held three operating theatres, an X-ray room, a cinema for convalescing soldiers, and accommodation for around 200 patients — all entirely invisible from the air.
+score: 8.0
 ---
 
 Hospital Cave is a three-level secret hospital and bomb shelter carved into a karst hill on the main road across Cat Ba Island, used by the Viet Cong from 1965 to 1975. It is one of the more impressive war-era sites in northern Vietnam, with around 17 rooms hollowed out behind a thick concrete and steel door that could be sealed against bombing.

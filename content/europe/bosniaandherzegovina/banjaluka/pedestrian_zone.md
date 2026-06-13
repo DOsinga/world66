@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 44.772
 longitude: 17.192
+score: 7.5
 ---
 
 Gospodska Street and the surrounding pedestrian zone form the social core of Banja Luka. The main street is lined with cafes, shops, and restaurants, and in the evenings and weekends it fills with the entire population seemingly at once — the Balkan tradition of the korzo (the evening promenade) is alive and well here.

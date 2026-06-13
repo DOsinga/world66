@@ -11,6 +11,7 @@ tags:
 - shopping
 title: City Electric Shoe Shop
 type: poi
+score: 6.3
 ---
 
 Perhaps the best place in New Mexico for unique footwear you won't find anywhere else. A fantastic selection of western boots — needle toes, wild stitching, wild colours, high and low heels — along with the traditional Navajo red moccasins with white soles. Be prepared to pay accordingly.

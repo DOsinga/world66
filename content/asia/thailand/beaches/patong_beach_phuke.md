@@ -6,6 +6,7 @@ latitude: 7.8952
 longitude: 98.2961
 tags:
 - things_to_do
+score: 5.5
 ---
 
 Patong is Phuket's loudest, most energetic beach strip — three kilometres of sand backed by a wall of restaurants, bars, and shops. The water is warm and swimmable most of the year, though red flags go up during monsoon season (May to October). Jet skis, parasailing, and banana boats line the south end; the north end is marginally calmer.

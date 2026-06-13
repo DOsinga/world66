@@ -13,6 +13,7 @@ story: >
   cover of darkness. The old citadel where they breached the defences is now a garden.
   A statue of Afonso Henriques stands at the garden entrance in armour, commemorating
   the siege that helped establish the Portuguese kingdom.
+score: 8.2
 ---
 
 The Portas do Sol garden occupies the site of the old Moorish citadel at the highest point of Santarém's old town. The views from here are among the best in central Portugal: the Tagus plain stretches south toward Lisbon, the river shines below, and on a clear day the horizon extends 50km across the Ribatejo flatlands.

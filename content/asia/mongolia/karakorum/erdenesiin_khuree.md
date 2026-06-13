@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Traditional Mongolian script — the vertical script that flows downward in elegant columns — was suppressed for decades during the Soviet era, replaced by Cyrillic. Erdenesiin Khuree is part of a deliberate effort to recover and teach that heritage. The calligraphy on display here is not merely decorative; it represents a written language that only older Mongolians now read fluently, and the center's work carries a mild urgency as a result."
+score: 6.9
 ---
 
 The Erdenesiin Khuree Mongolian Calligraphy and Art Center in Kharkhorin is a small but carefully tended gallery dedicated to traditional Mongolian calligraphy and visual art. The collection showcases works in the classical vertical Mongolian script alongside thangka-style paintings and contemporary pieces that draw on the nomadic visual tradition.

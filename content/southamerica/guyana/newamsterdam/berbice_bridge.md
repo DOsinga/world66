@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Berbice Bridge
 type: poi
+score: 5.9
 ---
 
 The Berbice Bridge is a pontoon bridge spanning the Berbice River about 5km north of New Amsterdam, opened in 2008. Before it was built, the only way across the Berbice River by road was a ferry — the bridge reduced journey times between coastal Guyana's east and west dramatically. It is one of the longest floating bridges in the Western Hemisphere.

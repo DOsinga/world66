@@ -9,6 +9,7 @@ latitude: 1.2568
 longitude: 103.8199
 sources:
   - https://en.wikipedia.org/wiki/Sentosa
+score: 7.8
 ---
 
 The Singapore Cable Car connects HarbourFront Tower 2 on the mainland to the northern ridge of Sentosa Island, with an intermediate stop at Mount Faber Park. The crossing takes about 15 minutes from the HarbourFront station to Sentosa, passing at 73 metres above Keppel Harbour. On a clear day the views extend to the southern islands and the busy container port below.

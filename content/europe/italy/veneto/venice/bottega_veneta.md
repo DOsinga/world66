@@ -10,6 +10,7 @@ title: Bottega Veneta
 type: poi
 url: www.bottegaveneta.com
 snippet: "Flagship Bottega Veneta store in San Marco, a short walk from the Piazzetta"
+score: 4.2
 ---
 
 The Venetian luxury house's flagship store on Calle Vallaresso, one of the smarter shopping streets running south from Piazza San Marco toward the vaporetto landing stages. The brand was founded in Vicenza in 1966 and is known for its woven leather intrecciato work.

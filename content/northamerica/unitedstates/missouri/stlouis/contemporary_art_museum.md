@@ -8,6 +8,7 @@ tags:
 - grand_center
 latitude: 38.6388
 longitude: -90.2335
+score: 6.8
 ---
 
 CAM, in the Grand Center arts district near St Louis University, is a non-collecting museum dedicated to contemporary art. Without a permanent collection, the program turns over fast — typically four or five exhibitions a year of recent or commissioned work by artists working internationally and locally.

@@ -7,6 +7,7 @@ tags:
 latitude: 28.1549
 longitude: -82.7580
 snippet: Small museum dedicated to Tarpon Springs' sponge-diving history
+score: 6.4
 ---
 
 Spongeorama is a small museum and sponge shop at the Sponge Docks that tells the history of the natural sponge industry in Tarpon Springs. The exhibits cover how Greek immigrants arrived in the early 1900s, how the diving technology evolved from hard-hat suits to lighter equipment, and how sponge harvesting works from ocean floor to market.

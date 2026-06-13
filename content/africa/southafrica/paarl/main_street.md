@@ -8,6 +8,7 @@ latitude: -33.7343
 longitude: 18.9627
 sources:
   - https://en.wikipedia.org/wiki/Paarl
+score: 8.3
 ---
 
 Paarl's Main Street is one of the longest in South Africa — over ten kilometres — and driving or walking its length is in itself an architectural experience. The street is lined with Cape Dutch homesteads, Georgian and Victorian buildings, old oak trees, and the occasional Victorian church. The architecture spans three centuries and gives Paarl a more layered streetscape than most Winelands towns.

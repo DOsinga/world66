@@ -13,6 +13,7 @@ story: >
   Inner Harbor redevelopment and, by extension, the urban renewal model that dozens of
   other American cities tried to imitate in the following decade. The aquarium paid for
   itself in terms of civic investment within its first five years.
+score: 8.3
 ---
 
 The National Aquarium is the anchor attraction of Baltimore's Inner Harbor and one of the best aquariums in the United States. The building itself is dramatic — a glass and steel pyramid rising from Pier 3 — and the collection inside lives up to the architecture. The Atlantic coral reef exhibit, the Amazon rainforest, the dolphin shows, and the 225,000-gallon open ocean shark tank are the highlights.

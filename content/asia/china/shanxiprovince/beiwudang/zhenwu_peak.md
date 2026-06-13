@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7830
 longitude: 111.3410
+score: 8.1
 ---
 
 The summit peak of Beiwudang is dedicated to Zhenwu, the True Martial God — one of the most important deities in the Taoist pantheon, patron of the north and protector of the empire. A small summit shrine marks the highest point, and the walk up from An'guo Temple takes about ninety minutes on the main staircase path, longer if you take the longer ridge route that loops past several secondary shrines and stone hermitages.

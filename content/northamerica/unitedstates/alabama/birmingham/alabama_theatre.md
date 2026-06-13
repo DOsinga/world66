@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Alabama Theatre
 type: poi
+score: 8.7
 ---
 
 One of the finest surviving movie palaces in the South, the Alabama Theatre opened in 1927 as a Paramount Pictures showplace. The interior is a tour de force of Spanish Gothic ornament — vaulted ceilings, elaborate plasterwork, carved stone, and one of the largest pipe organs installed in any movie theater. The theater seats 2,500 and is still in regular use for concerts, classic film screenings, and special events.

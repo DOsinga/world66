@@ -6,6 +6,7 @@ latitude: -21.1800
 longitude: -175.1170
 story: >
   Captain Cook visited Tonga three times between 1773 and 1777, and his reception at Mu'a was warm enough for him to name the archipelago the "Friendly Islands." Later scholars have suggested the Tongan chiefs may have been planning to kill Cook during his 1777 visit but could not agree on a plan — a detail that adds a certain edge to the "Friendly Islands" story.
+score: 5.9
 ---
 
 A plaque at the Mu'a waterfront marks the spot where Captain James Cook came ashore from HMS Endeavour and met the Tongan chiefs in the sheltered waters of the inner lagoon. Cook visited Tongatapu on multiple occasions during his Pacific voyages, and his accounts of the Tu'i Tonga rulers and their court at Mu'a provide the earliest detailed European descriptions of the ancient capital.

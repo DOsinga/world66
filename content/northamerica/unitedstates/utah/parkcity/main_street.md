@@ -9,6 +9,7 @@ latitude: 40.6460
 longitude: -111.4980
 story: >
   Park City's silver boom lasted from the 1870s until the early 20th century. At its peak the town had 10,000 residents, 30 saloons, and enough money sloshing around to build elaborate Victorian commercial buildings along Main Street. When silver prices collapsed, the population fled and the buildings sat empty — which is the reason they survived intact long enough to be restored when the ski industry arrived in the 1960s.
+score: 8.6
 ---
 
 Park City's Main Street is one of the best-preserved Victorian mining town streetscapes in the American West. The buildings, mostly dating from the 1880s and 1890s, run uphill along a steep slope, their facades a mix of red brick, ornate cornices, and painted wood that has been carefully maintained rather than rebuilt. Today they house restaurants, galleries, boutiques, and the Egyptian Theatre — a 1926 movie house that serves as a main Sundance venue.

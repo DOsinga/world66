@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 10.9744
 longitude: 106.4949
+score: 4.6
 ---
 
 The canteen at Ben Dinh is a practical stop rather than a culinary destination. Simple Vietnamese rice and noodle dishes are served cafeteria-style; the food is fine and the prices reasonable. It keeps you going if you have been underground all morning.

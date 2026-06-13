@@ -7,6 +7,7 @@ tags:
   - dance
 latitude: 61.4981
 longitude: 23.7608
+score: 6.9
 ---
 
 The Tampere Dance Festival (Tampereen Sävel) is one of Finland's major performing arts festivals, held in mid-summer and covering contemporary dance, classical ballet, and international guest companies. Venues across the city are used, including outdoor stages in parks during good weather.

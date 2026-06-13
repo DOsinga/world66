@@ -8,6 +8,7 @@ latitude: 46.2338
 longitude: 7.3606
 sources:
   - https://en.wikipedia.org/wiki/Sion_astronomical_clock
+score: 5.8
 ---
 
 The Sion astronomical clock stands in the old town and is one of the more unusual timepieces in Switzerland. Astronomical clocks were the high technology of the medieval world, tracking not just hours but the positions of the sun and moon, the calendar, and sometimes the planets. This one, installed on the town hall tower, continues to mark time in the old town in a way that connects the prosaic (telling time) to something more expansive.

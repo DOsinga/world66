@@ -1,6 +1,7 @@
 ---
 title: "Fish Restaurants and Stalls along the Alter Strom"
 type: poi
+score: 7.0
 ---
 
 The quayside restaurants along the Alter Strom are the eating heart of Warnemünde. Fresh Baltic fish — herring, flounder, zander, and eel — dominates the menus, alongside the ubiquitous Fischbrötchen (fish rolls) sold at outdoor stalls. The fish roll is the definitive Warnemünde street food: a crusty bread roll stuffed with smoked or marinated fish, usually topped with onion and remoulade, eaten standing on the quay with a view of the boats.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 title: German Concession District
 type: poi
+score: 9.2
 ---
 
 The old German concession occupies the hills south of the train station and is the most distinctive quarter of Qingdao. Streets of red-roofed Bavarian villas, a Protestant church with a clock tower, and a Catholic church on Zhejiang Lu create an incongruous European streetscape. The Governor's Residence (now a museum) at the top of Xinhao Hill, built in chunky Bavarian style in 1905, was later used as a retreat by Mao Zedong. The Protestant church at 15 Jiangsu Lu (1910) is still an active congregation; knocking at the door usually gets you a tour.

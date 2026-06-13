@@ -15,6 +15,7 @@ story: >
   area was planted with lavender. Industrial competition from cheaper sources reduced this
   drastically, but the crop has revived as artisanal production and the scent has become
   part of the island's identity.
+score: 7.5
 ---
 
 Hvar's interior is covered with lavender between late May and early July, when the island's characteristic crop blooms across the karst slopes and terraced fields east of Hvar Town. The lavender fields are best explored by scooter or bicycle from Hvar Town — head inland through the village of Brusje and east toward Velo Grablje and the interior plateau, where the scent is strongest and the fields most extensive.

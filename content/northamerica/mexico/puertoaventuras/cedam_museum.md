@@ -8,6 +8,7 @@ tags:
 - museum
 title: CEDAM Shipwreck Museum
 type: poi
+score: 7.0
 ---
 
 The CEDAM Shipwreck Museum — CEDAM stands for Club de Exploración y Deportes Acuáticos de México — occupies a small building near the marina and holds artefacts salvaged from Spanish colonial-era wrecks in the waters off the Yucatán Peninsula. The collection includes cannons, anchors, navigational instruments, ceramics, and personal items recovered from ships that came to grief along what was one of the most treacherous stretches of the old trade routes between the Americas and Spain.

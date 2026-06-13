@@ -8,6 +8,7 @@ latitude: 43.8461
 longitude: 126.5616
 story: >
   The rime ice forms because the Fengman hydroelectric dam keeps the water temperature above freezing even when the air reaches minus twenty or colder. The warm water evaporates, the moisture rises and meets the frigid air, and the resulting crystals deposit on every branch and twig in the riverside forest. The formations build over days and can persist for weeks — not a single night's frost, but an accumulation that turns riverside trees into massive sculptures of ice.
+score: 9.2
 ---
 
 Jilin's rime ice is counted among China's four great natural wonders, alongside Guilin's karst scenery, Zhangjiajie's pillar mountains, and the Three Gorges. The claim is justified: from December through February, when conditions are right, the trees along the Songhua River embankment are coated in crystalline rime ice formations so dense and white they appear artificial. The effect at dawn, when the ice catches the first light before the warmth of the day begins to loosen it, is genuinely extraordinary.

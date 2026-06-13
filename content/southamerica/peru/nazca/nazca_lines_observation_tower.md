@@ -8,6 +8,7 @@ latitude: -14.6918
 longitude: -75.1255
 sources:
   - https://en.wikipedia.org/wiki/Nazca_Lines_Observation_Tower
+score: 5.9
 ---
 
 A metal viewing tower erected alongside the Panamericana highway, about 30 km north of Nazca town, that allows visitors to see three of the Nazca geoglyphs — the Hands, the Tree, and the Lizard — from the ground. The view is a reasonable introduction to the scale of the lines for those who cannot take a flight, though it shows only a small portion of what the plain contains.

@@ -10,6 +10,7 @@ story: >
   The square was the site of one of the defining moments of British colonial history: on 1 August 1838, the day full emancipation came into effect in Jamaica (the Apprenticeship period having ended), crowds gathered here to mark the end of slavery. The court house, still standing on the square's south side, had processed thousands of freedom papers in the preceding days.
 sources:
   - https://en.wikipedia.org/wiki/Spanish_Town
+score: 8.5
 ---
 
 The square at the heart of Spanish Town — variously called Emancipation Square or simply the Parade — is one of the finest examples of Georgian urban design in the Americas. Laid out in the 18th century when Spanish Town was Jamaica's thriving colonial capital, it is framed on all four sides by significant buildings: the Court House (1819), the ruined King's House, the former House of Assembly (now part of the Jamaica Archives complex), and the Rodney Memorial.

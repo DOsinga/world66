@@ -14,6 +14,7 @@ story: >
   magnificence. The London end of the same line had a matching portico at Euston, which
   was demolished in 1962; Curzon Street survives as the only remaining monument to
   that inaugural railway age.
+score: 5.6
 ---
 
 The oldest surviving railway terminus building in the world, designed by Philip Hardwick and opened in 1837 as the Birmingham terminus of the London and Birmingham Railway. The building is a Grade I listed structure — a grand neoclassical portico with six Ionic columns — that has been empty and increasingly derelict since the railway moved to New Street in 1854. It stands on the edge of Digbeth, east of the city centre.

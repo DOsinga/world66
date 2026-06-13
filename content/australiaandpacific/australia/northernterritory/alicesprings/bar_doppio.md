@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -23.699
 longitude: 133.883
+score: 5.6
 ---
 
 Bar Doppio on Fan Arcade off Todd Mall is the most respected coffee shop in Alice Springs — a compact espresso bar that has cultivated a loyal following among the town's residents and regulars. The coffee is properly made and the cafe has a warm, unpretentious character that feels refreshingly un-tourist.

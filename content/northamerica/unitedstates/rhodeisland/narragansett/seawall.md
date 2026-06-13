@@ -7,6 +7,7 @@ tags:
 - landmark
 title: The Seawall
 type: poi
+score: 7.4
 ---
 
 The half-mile stone seawall along Ocean Road is one of those public works that quietly defines a town. Built in the 1920s as a hurricane defence after a series of devastating storms, it now doubles as the town's evening promenade — couples, joggers, fishermen with surf rods leaning over the wall casting into the breakers.

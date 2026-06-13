@@ -8,6 +8,7 @@ tags:
 latitude: 30.44431
 longitude: -91.19151
 story: The USS Kidd earned the nickname "Pirate of the Pacific" for its aggressive patrol record in World War II. When the navy decommissioned it in 1964, Louisiana acquired the Gleaves-class destroyer as a memorial — it is now one of the best-preserved examples of its kind, sitting permanently on the Mississippi in its original World War II paint scheme.
+score: 8.2
 ---
 
 The USS Kidd (DD-661) is a Fletcher-class destroyer that saw action in the Pacific during World War II and in Korea, now permanently moored on the Baton Rouge waterfront as a museum ship. Visitors can walk the decks, explore the engine room, climb into the gun turrets, and see the cramped quarters where the crew of 330 men lived at sea.

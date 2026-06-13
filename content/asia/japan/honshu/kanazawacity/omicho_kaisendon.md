@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 36.5688
 longitude: 136.6567
+score: 6.8
 ---
 
 The several small restaurants inside and around Omi-cho Market serve kaisendon — raw seafood rice bowls — that represent some of the best-value eating in the city. The bowls are typically piled with whatever is freshest that day: crab, shrimp, sea urchin, salmon roe, and sliced raw fish over seasoned rice.

@@ -6,6 +6,7 @@ longitude: -67.1358
 tags:
   - things_to_do
   - sport
+score: 4.8
 ---
 
 The Palacio — locally just *el Palacio* — is the indoor arena of Mayagüez, opened in 1981 and renovated for the 2010 Central American and Caribbean Games. It seats around 11,000 and hosts the Indios de Mayagüez basketball team, concerts, boxing nights, and the occasional political rally.

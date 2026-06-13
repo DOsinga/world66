@@ -6,6 +6,7 @@ longitude: -2.7002
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Outside the Harris, on Market Square, sits a bronze bench with Wallace and Gromit perched on it — the slightly amused tribute to Preston's most famous local boys. Nick Park, the creator of Wallace and Gromit, grew up in Preston and trained at the local art school before going on to Aardman Animations and the Oscars. The statue, unveiled in 2024, is by sculptor Antony Townsend.

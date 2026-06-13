@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.6960
 longitude: -1.6183
+score: 7.2
 ---
 
 Near the Manhyia Palace, this small museum houses Ashanti royal regalia, war trophies, and cultural artefacts collected during the reign of Asantehene Prempeh II. It is modest in size but the objects — including ornate stools, swords, and ceremonial umbrellas — are genuinely impressive. Worth a quick visit alongside the palace.

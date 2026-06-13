@@ -12,6 +12,7 @@ title: Golden Lane
 type: poi
 story: >
   Franz Kafka rented No. 22 from his sister Ottla during the winter of 1916–17 and wrote some of the stories that appeared in "A Country Doctor" here. He loved the tiny house for its silence and solitude, though he complained constantly about the cold.
+score: 7.2
 ---
 
 Golden Lane runs along the inside of Prague Castle's northern walls, a row of sixteen tiny houses built into the fortifications in the 16th century. Originally occupied by castle guards and goldsmiths (hence the name), the cottages are now preserved as a living exhibition, each decorated to show how the space was used at different periods.

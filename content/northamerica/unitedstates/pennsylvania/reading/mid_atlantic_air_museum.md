@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.3789
 longitude: -75.9649
+score: 7.1
 ---
 
 The Mid-Atlantic Air Museum operates at Reading Regional Airport (Carl A. Spaatz Field), named after the Reading-born general who commanded American strategic bombers in World War II. The museum focuses on military aviation of the mid-20th century, with a collection of restored and restoration-in-progress aircraft including WWII-era fighters and bombers, Korean War jets, and Cold War-era military planes.

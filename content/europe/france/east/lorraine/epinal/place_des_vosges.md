@@ -8,6 +8,7 @@ tags:
   - square
 title: "Place des Vosges"
 type: poi
+score: 6.2
 ---
 
 Place des Vosges is the small historic square at the heart of Epinal. Arcaded houses, cafe terraces, and the nearby basilica make it the easiest place to pause and get your bearings.

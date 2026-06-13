@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 40.8163
 longitude: -96.7098
+score: 5.4
 ---
 
 Lazlo's Brewery and Grill is one of the anchor restaurants of the Haymarket, occupying a large brick building with a rooftop deck that is among the more pleasant places to eat in Lincoln on a warm evening. The beer is brewed on-site — the range covers straightforward American styles done well, nothing experimental — and the menu is the kind of solid American gastropub food that works well with a cold beer: burgers, sandwiches, steaks, a decent selection of salads.

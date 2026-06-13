@@ -7,6 +7,7 @@ tags:
   - old_town
 latitude: 62.4543
 longitude: -114.3713
+score: 7.1
 ---
 
 The Wildcat Cafe is Yellowknife's most iconic restaurant, operating since 1937 in a small log cabin on the rocky shore of Old Town. It is the oldest restaurant in the city, and one of the oldest buildings still standing — a survivor from the original gold rush settlement. The interior is warm and crammed with northern memorabilia: old photographs, mining relics, moose antlers. In summer, the outdoor patio overlooking the bay fills up fast.

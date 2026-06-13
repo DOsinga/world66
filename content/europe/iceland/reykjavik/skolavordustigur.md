@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Steep shopping street painted with a rainbow flag, running up to Hallgrímskirkja
+score: 6.8
 ---
 
 The street that climbs from the centre up to Hallgrímskirkja, Skólavörðustígur, was painted with a permanent rainbow flag in 2019 in support of Reykjavik Pride — and the colours have become one of the most photographed sights in the city, with the church rising at the top as a perfect backdrop.

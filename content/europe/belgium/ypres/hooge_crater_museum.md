@@ -15,6 +15,7 @@ story: >
   The attack caused widespread panic and significant casualties before a
   counterattack restored the British position. The Germans had captured
   the château at Hooge several weeks earlier by exploding a mine under it.
+score: 8.1
 ---
 
 About 4 km east of Ypres on the Menin Road, Hooge Crater Museum is a private collection of First World War artefacts housed in a former chapel on the Passchendaele battlefield. The collection is extensive: uniforms, weapons, personal effects, unexploded ordnance, and thousands of smaller objects recovered from the surrounding fields since 1918. The nearby Hooge Crater Cemetery — created around the shell crater from a mine explosion in July 1915 — sits in the grounds.

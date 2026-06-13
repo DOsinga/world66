@@ -12,6 +12,7 @@ story: >
   life up to his 70th birthday in 1982, when the tower was completed. The eternal
   flame at the top burns in tribute. An observation platform near the summit offers
   the best elevated view of Pyongyang available to foreign visitors.
+score: 8.8
 ---
 
 The Tower of the Juche Idea stands on the east bank of the Taedong River, directly across from Kim Il-sung Square. At 170 metres it is one of the tallest stone towers in the world. The elevator to the observation platform near the top offers the clearest panorama of Pyongyang's extraordinary urban planning — the wide boulevards, the pastel-coloured apartment blocks, the monuments, and the surrounding hills visible in every direction.

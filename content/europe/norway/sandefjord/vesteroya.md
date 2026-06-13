@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.08002
 longitude: 10.26886
+score: 5.8
 ---
 
 Vesterøya is the western peninsula of Sandefjord municipality, a largely residential area that gives way at its southern tip to rocky coastline, small beaches, and inlets popular for swimming and kayaking in summer. Langeby, a sandy beach on the outer coast of the peninsula, is one of the most visited spots in the municipality when the weather is good.

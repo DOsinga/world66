@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "On 7 August 1819, the day after the Peterloo Massacre in Manchester, a public meeting was held in Bolton to protest the killings. Magistrates attempted to suppress it and troops were called. The meeting was dispersed, but Bolton's response to Peterloo fed directly into the national political pressure that eventually produced the Reform Acts of the 1830s. The town hall, built decades later, was in part a monument to that civic confidence — a statement by a prosperous borough that its citizens had earned a building of some grandeur."
+score: 7.4
 ---
 
 Bolton Town Hall stands at the top of Victoria Square, a neoclassical building of considerable confidence built between 1866 and 1873 to designs by William Hill of Leeds and George Woodhouse of Bolton. The façade is dominated by a Corinthian portico of six columns supporting a pediment, and the overall composition draws on Greco-Roman temple architecture in the tradition of grand Victorian civic buildings. Inside, the principal rooms — the mayor's parlour, the main hall, the council chamber — are decorated in a style appropriate to a prosperous industrial county borough.

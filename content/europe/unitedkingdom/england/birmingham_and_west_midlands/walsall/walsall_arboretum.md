@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - nature
+score: 6.4
 ---
 
 Walsall Arboretum is a well-maintained Victorian park on the eastern edge of the town centre, covering around 80 acres of ornamental gardens, lawns, and a boating lake. It was laid out in the 1870s on former mining land and has been a public park ever since. Mature trees, flower beds, and the lake make it a genuinely pleasant place to walk.

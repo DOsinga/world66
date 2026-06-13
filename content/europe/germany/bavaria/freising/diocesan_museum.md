@@ -8,6 +8,7 @@ latitude: 48.3989
 longitude: 11.7464
 sources:
   - https://en.wikipedia.org/wiki/Freising_Cathedral
+score: 7.8
 ---
 
 Connected directly to the cathedral via a cloister, the Diözesanmuseum Freising claims to be the largest diocesan museum in the world — a boast that is hard to verify but easy to believe after an hour inside. It houses an enormous collection of Bavarian religious art, from medieval panel paintings and carved altarpieces to Baroque goldsmith work, vestments, and carved ivory. The collection spans roughly a thousand years of Catholic devotion.

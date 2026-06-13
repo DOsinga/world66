@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Wheeler Opera House
 type: poi
+score: 7.9
 ---
 
 Built in 1889 at the peak of the Aspen silver boom by the local mine owner Jerome B. Wheeler, the opera house at the corner of Hyman and Mill is the most prominent surviving Victorian building in the town. The red sandstone facade with its corner tower has been the centrepiece of downtown Aspen for over 130 years. The interior — a 500-seat horseshoe gallery in painted plaster and dark wood — was painstakingly restored in the 1980s after decades of decline.

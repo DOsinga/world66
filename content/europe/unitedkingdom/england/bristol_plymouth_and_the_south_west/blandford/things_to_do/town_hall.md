@@ -9,6 +9,7 @@ latitude: 50.8562
 longitude: -2.1648
 sources:
   - https://en.wikipedia.org/wiki/Blandford_Forum_Town_Hall
+score: 7.0
 ---
 
 The handsome town hall on Market Place, built in 1734 by John and William Bastard as part of the post-fire rebuilding of the town. It is a dignified two-storey brick building with a stone portico and open ground floor arcade — the classic form of an English market hall. The Bastard brothers designed it for civic use while also establishing their own architectural practice on the same street; the building is one of the best-preserved examples of their work and a focal point of the Georgian market place.

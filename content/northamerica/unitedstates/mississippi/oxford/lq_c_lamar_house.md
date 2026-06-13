@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 6.7
 ---
 
 The L.Q.C. Lamar House Museum is a small, well-kept historic-house museum a few blocks north of the Square. Lucius Quintus Cincinnatus Lamar, who lived in the house from 1869, was an Oxford lawyer, a Confederate diplomat in Europe, a US senator from Mississippi, Secretary of the Interior, and finally an associate justice of the US Supreme Court — one of the few Americans to hold all those offices.

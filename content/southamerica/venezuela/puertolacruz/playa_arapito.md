@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.4
 ---
 
 Playa Arapito is one of the favourite mainland beaches east of Puerto la Cruz, on the coastal road toward Mochima village. It is a long crescent of golden sand backed by coconut palms, with calm and shallow water that suits children. Simple beach restaurants serve fried fish, empanadas, and arepas; chairs and umbrellas can be hired by the day.

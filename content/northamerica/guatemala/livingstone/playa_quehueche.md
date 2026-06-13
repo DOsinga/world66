@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Playa Quehueche
 type: poi
+score: 6.8
 ---
 
 A beach a short walk or boat ride north of Livingston's main dock, Playa Quehueche is calmer and less trafficked than the town beach. The beach fronts an area with a Q'eqchi' Maya community, and a few small guesthouses and restaurants have opened here for travelers who want more quiet than the town provides.

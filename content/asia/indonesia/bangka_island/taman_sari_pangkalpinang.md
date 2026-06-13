@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "City gardens in central Pangkalpinang, good for an evening walk and people-watching"
+score: 4.9
 ---
 
 Taman Sari is the main public park in Pangkalpinang — a green, shaded space in the centre of the city that fills up in the evenings with families, joggers, and food cart vendors. It's nothing remarkable by itself, but it gives you a good read on the city's daily life. Bakso and mie bangka sellers set up around the edges in the late afternoon; kids play; older residents walk circuits of the path.

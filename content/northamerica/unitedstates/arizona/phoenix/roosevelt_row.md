@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Roosevelt Row
 type: poi
+score: 8.2
 ---
 
 Roosevelt Row, known to locals as RoRo, is the closest thing Phoenix has to a dense, walkable creative quarter. The district runs along Roosevelt Street north of the railway tracks and is anchored by warehouses and bungalows that have been turned into galleries, coffee shops, breweries, and tattoo studios. Murals cover almost every blank wall, and the city has installed a self-guided map so you can find them all.

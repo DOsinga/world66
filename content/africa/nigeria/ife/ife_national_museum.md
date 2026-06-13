@@ -14,6 +14,7 @@ story: >
   the lost-wax process, are definitively Yoruba, dating from the 12th to
   14th centuries, and they rank among the finest portrait sculptures made
   anywhere in the medieval world.
+score: 9.1
 ---
 
 The Ife National Museum holds the most important collection of early Yoruba art in existence: a group of bronze and terracotta heads, figures, and ceremonial objects that represent a completely distinct and accomplished sculptural tradition. The bronzes — cast using the lost-wax method at a time when European bronze-casting was far less sophisticated — show faces of extraordinary naturalism, with fine parallel scarification lines and an attention to individual character that is unique in African art of the period.

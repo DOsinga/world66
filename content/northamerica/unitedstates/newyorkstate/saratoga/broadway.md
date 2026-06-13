@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.0833
 longitude: -73.7850
+score: 8.0
 ---
 
 Broadway is the spine of downtown Saratoga Springs — a mile or so of Victorian commercial architecture, now occupied by restaurants, independent shops, wine bars, and cafes. The streetscape is well-preserved and genuinely pleasant to walk, especially in the early morning before the summer crowds arrive. The historic buildings have been maintained rather than sanitized; it feels like a real town.

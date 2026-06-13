@@ -11,6 +11,7 @@ story: >
   is said to have landed here with his uncle St Columba around 580 AD, founding one of Scotland's
   earliest Christian communities. St Drostan's Well near the beach once drew pilgrims seeking cures;
   today it is no longer considered safe to drink.
+score: 6.9
 ---
 
 Aberdour Beach is a secluded, sheltered bay on the Moray Firth coast, tucked between sandstone cliffs on either side. On a clear summer day it can feel improbably Mediterranean. The rock caves at each end of the bay are worth exploring, and the water is calm enough for paddling with children.

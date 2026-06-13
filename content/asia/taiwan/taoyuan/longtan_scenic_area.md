@@ -9,6 +9,7 @@ longitude: 121.2117
 snippet: Lakeside park with a traditional Taiwanese pavilion reflected in the water
 sources:
   - https://en.wikipedia.org/wiki/Longtan_District
+score: 5.8
 ---
 
 Longtan (龍潭) is a district south of Taoyuan city centred on a small lake that has become one of the area's most photographed spots. A traditional multi-storey pavilion rises from the lake, and the surrounding park is pleasant for a walk, especially early in the morning when the water is still.

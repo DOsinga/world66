@@ -8,6 +8,7 @@ tags:
 - historic_site
 - memorial
 story: Minnie Vautrin, an American missionary who ran the Ginling Women's College Safety Zone, sheltered up to 10,000 women and children in the college compound during the massacre. Her diary, published posthumously as "Terror in Minnie's Garden," is one of the most important eyewitness accounts of the 1937-1938 period. She left Nanjing in 1940 following a mental breakdown from what she had witnessed, and died by suicide in the United States the following year.
+score: 7.7
 ---
 
 The Ginling Women's College (now part of Nanjing Normal University) was one of the central locations of the International Safety Zone during the 1937 Nanjing Massacre. American missionary Minnie Vautrin turned the college into a refuge, protecting thousands of women and children from Japanese soldiers.

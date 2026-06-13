@@ -9,6 +9,7 @@ title: Manta Point
 type: poi
 story: >
   Manta rays visit cleaning stations — specific sites where small fish remove parasites from their skin and gills — with remarkable regularity. The mantas at Manta Point have been using this cleaning station for so long that they are identifiable as individuals by the distinctive spot patterns on their white undersides. Researchers have been tracking specific rays here for years, documenting their movements through the park and providing information used to argue for the park's expanded marine protection.
+score: 8.7
 ---
 
 Manta Point is a cleaning station on the south coast of Komodo Island where reef manta rays (Mobula alfredi) gather year-round to have parasites removed by small reef fish. It is the most reliable place in Komodo National Park to encounter mantas, with sightings almost guaranteed from November to April when mantas aggregate in largest numbers.

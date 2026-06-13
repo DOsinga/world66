@@ -14,6 +14,7 @@ story: >
   it is a comparison that flatters the original while doing justice to Waimea's own drama.
 sources:
   - https://en.wikipedia.org/wiki/Waimea_Canyon_State_Park
+score: 9.0
 ---
 
 Waimea Canyon is a 16-kilometre-long, 1-kilometre-deep gorge on the western side of Kauaʻi, carved by the Waimea River through layers of ancient lava. The colour contrast is striking — the canyon walls run through shades of red, ochre, green, and purple depending on the angle of light and the mineral content of the rock. Several lookout points line Highway 550 on the way up, and on clear days the views across the canyon are exceptional.

@@ -8,6 +8,7 @@ tags:
 - giza_plateau
 title: Sphinx Enclosure
 type: poi
+score: 8.3
 ---
 
 The Sphinx does not stand on the surface of the plateau — it was carved into a pit, and the enclosure around it exposes 18 metres of bedrock below the plateau level. Walking down into this enclosure gives you the closest possible view of the monument and shows something invisible from above: the quality of the limestone strata from which it was carved changes markedly between the lower body and the head, with the softer lower layers eroding much faster than the upper ones. This differential weathering is the basis for Robert Schoch's controversial argument (disputed by Egyptologists) that the Sphinx is much older than the conventional date.

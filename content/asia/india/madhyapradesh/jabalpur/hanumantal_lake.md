@@ -12,6 +12,7 @@ story: The Hanumantal Bada Jain Mandir is one of the most ornate Jain temples in
   watery, reflective approach. The main idol, a large black stone Jain tirthankara
   figure, is said to be ancient. The temple complex is one of the few major Jain pilgrimage
   sites in central India not associated with Rajasthan or Gujarat.
+score: 6.3
 ---
 
 Hanumantal lake is a large urban lake in northern Jabalpur, surrounded by temples and used by locals for morning walks and evening socialising. At one end of the lake, the Bada Jain Mandir (Large Jain Temple) is an elaborately decorated complex with white marble facades, ornate carvings, and a serene courtyard atmosphere.

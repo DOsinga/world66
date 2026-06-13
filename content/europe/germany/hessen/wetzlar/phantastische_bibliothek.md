@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Europe's largest library devoted to fantasy, science fiction, and horror
+score: 7.6
 ---
 
 Probably the most unusual institution in Wetzlar, the Phantastische Bibliothek was founded in 1989 and now holds more than 280,000 volumes of fantasy, science fiction, horror, fairy tales, and utopian literature — by some way the largest specialist collection of its kind in Europe and one of the largest in the world.

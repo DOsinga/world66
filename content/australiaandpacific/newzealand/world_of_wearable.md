@@ -12,6 +12,7 @@ tags:
 title: World of Wearable Arts (WOW)
 type: poi
 url: https://www.worldofwearableart.com
+score: 8.1
 ---
 
 Every year in late September, Wellington hosts the World of Wearable Arts — a theatrical show in which designers compete by creating wearable sculptures rather than clothes. Entries come from New Zealand, Australia, and increasingly from further afield, spanning everything from recycled materials to elaborate featherwork and LEDs.

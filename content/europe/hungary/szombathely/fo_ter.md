@@ -6,6 +6,7 @@ longitude: 16.6219
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Fő tér, the elongated main square, is Szombathely's social centre — a broad pedestrian space lined with pastel Baroque and Eclectic façades, cafés with terraces, and a Trinity column at one end.

@@ -8,6 +8,7 @@ tags:
 - sports
 title: College Basketball Experience
 type: poi
+score: 5.3
 ---
 
 The College Basketball Experience is a 41,500-square-foot fan-interactive facility adjacent to T-Mobile Center, housing the National Collegiate Basketball Hall of Fame. Kansas City has long been a hub for college basketball — the Big 12 Conference Tournament is held here annually, and the city has hosted multiple NCAA Tournament rounds. The museum reflects that history while also offering practical basketball activities: shooting simulators, ball-handling drills, and replay analysis stations that let you compare your form to the professionals.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 56.4649
 longitude: -2.9641
+score: 6.2
 ---
 
 The Cowgate Port, almost always called the Wishart Arch, is the only surviving city gate of medieval Dundee. It is a sober Gothic arch in dressed stone, much restored over the centuries, and stands at the foot of Hilltown where the Cowgate originally left the town.

@@ -8,6 +8,7 @@ tags:
   - bar
   - ensanche
 neighbourhood: Ensanche
+score: 7.2
 ---
 
 Perretxiko (the Basque name for the spring mushroom, Calocybe gambosa) does about thirty pintxos at the bar of which the eponymous mushroom on toast in season is the most celebrated. Several others — slow-cooked beef cheek, salt cod confit — sit on the counter in changing rotation. Service is fast and friendly.

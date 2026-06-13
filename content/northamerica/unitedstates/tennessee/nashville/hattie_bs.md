@@ -6,6 +6,7 @@ longitude: -86.7935
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Hattie B's, with several locations across the city, is the modern reinvention of hot chicken — the same Nashville-spiced fried chicken as the originator, served in a faster, lighter, more visitor-friendly setting. The Midtown branch (19th and Charlotte) is the original; later openings in West End, the Gulch, and at the airport have spread the model around.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: L'Osteria di Santa Marina
 type: poi
+score: 7.1
 ---
 
 A Michelin Bib Gourmand restaurant in Castello serving modern Venetian seafood — presentation described as close to Michelin-star standard at more accessible prices. Dishes are rooted in Venetian classics (baccalà, spider crab, lagoon fish) given a contemporary plating and flavour treatment. One of the better-value fine dining options in the city.

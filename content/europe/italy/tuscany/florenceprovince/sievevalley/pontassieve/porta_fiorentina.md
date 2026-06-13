@@ -6,6 +6,7 @@ longitude: 11.4358
 tags:
   - things_to_do
   - sight
+score: 5.0
 ---
 
 The western gate of the medieval walls, facing Florence as the name suggests. The road through it is the historic exit from town toward the Arno bridge and onward to the city, fourteen kilometres downstream.

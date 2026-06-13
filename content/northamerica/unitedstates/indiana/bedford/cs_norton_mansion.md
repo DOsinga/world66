@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - historic_house
+score: 5.9
 ---
 
 The C.S. Norton Mansion is one of the grand limestone-magnate houses that ring downtown Bedford. Built for one of the local quarry owners in the late nineteenth century, it is an exuberant display of what the local stone can do — carved sills and lintels, columns, balustrades, and a heavy cornice, all in the pale grey oolitic limestone that made the town's fortune.

@@ -11,6 +11,7 @@ tags:
 snippet: Waterfall that drains the Sørvágsvatn lake directly over a sea cliff
 sources:
   - https://en.wikipedia.org/wiki/B%C3%B8sdalafossur
+score: 8.8
 ---
 
 Bøsdalafossur is the waterfall at the outlet of Sørvágsvatn, where the lake empties over the edge of the cliff and falls some 30 metres into the sea below. It is the natural endpoint of the hike along the southern shore of the lake from Sørvágur, and it completes the drama of the landscape — lake, cliff, fall, and ocean in a single view.

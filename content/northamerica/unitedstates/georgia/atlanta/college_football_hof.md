@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.7607
 longitude: -84.3940
+score: 5.6
 ---
 
 A glossy interactive sports museum in the Centennial Park district, opened in 2014 and dedicated to the college game. Visitors register at the entrance, choose a favourite team, and the building's exhibits then personalise themselves as you move through.

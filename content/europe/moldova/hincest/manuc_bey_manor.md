@@ -17,6 +17,7 @@ story: >
   of his Moldovan properties.
 sources:
   - https://en.wikipedia.org/wiki/Manuc_Bei
+score: 8.3
 ---
 
 A 19th-century manor house on the edge of Hîncești, built by the Armenian-Ottoman merchant and diplomat Manuc Bei as one of several country estates across the region. The building combines neoclassical European architecture with Ottoman decorative elements — an unusual combination that reflects its owner's position as a cultural go-between in a turbulent era.

@@ -14,6 +14,7 @@ story: >
   you are technically inside the DPRK — the only place civilians can cross the
   border without permission. Visitors must sign a declaration acknowledging
   the risk.
+score: 8.8
 ---
 
 The Demilitarized Zone (DMZ) is the 4km-wide buffer strip running across the Korean peninsula along the armistice line, and a day trip from Seoul to see it is one of the stranger travel experiences available anywhere. Tours depart from central Seoul in the morning and can include Panmunjom (the Joint Security Area where armistice talks happened), the Third Infiltration Tunnel (one of four tunnels dug beneath the border by North Korea), Dora Observatory (from which you can look into North Korea), and Dorasan Station (the last station in South Korea before the border).

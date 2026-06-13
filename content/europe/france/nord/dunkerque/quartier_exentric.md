@@ -8,6 +8,7 @@ tags:
   - neighbourhood
   - architecture
 snippet: A neighbourhood of Art Deco eccentricity that survived when much of Dunkerque was rebuilt
+score: 7.2
 ---
 
 The Quartier Exentric — the name is its own — is a residential district south of the town centre that contains a remarkable collection of Art Deco villas and apartment buildings from the 1920s and 1930s. Where much of Dunkerque was rebuilt in a pragmatic postwar style after the destruction of 1940–1945, this neighbourhood survived with its interwar architecture largely intact, giving it a character entirely different from the rest of the town.

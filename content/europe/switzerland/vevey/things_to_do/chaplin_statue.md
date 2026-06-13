@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4582
 longitude: 6.8449
+score: 5.7
 ---
 
 A life-size bronze of Charlie Chaplin in his Tramp costume, cane in hand, stands on the lakefront promenade between the Alimentarium and the Hotel des Trois Couronnes. It was unveiled in 1982 and is one of the most photographed things in town.

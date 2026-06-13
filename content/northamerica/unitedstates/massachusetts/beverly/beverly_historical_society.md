@@ -8,6 +8,7 @@ tags:
 latitude: 42.54586
 longitude: -70.87989
 story: The John Cabot House was built in 1781 by John Cabot, one of Beverly's most prosperous merchants and a key financier of the privateering operations that harassed British shipping during the Revolution. The family accumulated such prominence that Cabot Street — the city's main commercial artery — was named after them.
+score: 6.8
 ---
 
 The Beverly Historical Society operates out of the 1781 John Cabot House at 117 Cabot Street, a Federal-style mansion built by one of the town's most prominent merchant families. The two-floor museum covers Beverly's colonial history, its role in the Revolution, and the town's long maritime and industrial heritage.

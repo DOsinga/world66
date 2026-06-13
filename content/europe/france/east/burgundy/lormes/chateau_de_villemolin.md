@@ -15,6 +15,7 @@ story: >
   one of the longest continuously family-held estates in Burgundy. The neo-Gothic
   chapel contains a 15th-century wooden Pietà, a gift from Carthusian monks that
   survived the Revolution intact.
+score: 6.8
 ---
 
 This horseshoe-shaped manor house stands in the commune of Anthien, about 7 kilometres west of Lormes. Its roots go back to a Gallo-Roman villa — the Villa Molini — and the present structure was built in the 14th century, then remodelled in the 17th and 19th centuries into its current form: three flanking towers, stone outbuildings from various eras, and a park that softens the whole ensemble.

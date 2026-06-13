@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Palais du Lamido
 type: poi
+score: 8.6
 ---
 
 The Palais du Lamido is a low compound of mud-walled buildings, conical thatched halls and ceremonial gates, hidden behind a high wall in the centre of Ngaoundéré. The most striking element is the great audience hall, a circular room with a soaring thatched roof supported on carved wooden pillars and walls hung with painted leather and weaponry.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 16.2369
 longitude: -61.5351
+score: 6.3
 ---
 
 Pavillon L'Herminier is a small but distinctive nineteenth-century building at the corner of Rue Sadi-Carnot and Rue Jean-Jaurès. Its iron-and-brick construction belongs to the same practical urban vocabulary as several of Pointe-à-Pitre's best surviving old buildings.

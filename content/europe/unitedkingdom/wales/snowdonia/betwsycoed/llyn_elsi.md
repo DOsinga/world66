@@ -9,6 +9,7 @@ tags:
   - sight
   - lake
   - walking
+score: 7.6
 ---
 
 Llyn Elsi is a small reservoir set in the Gwydyr Forest a couple of hundred metres above the village. The waymarked path climbs through woods of larch, spruce and oak from St Mary's Church and reaches the lake in about 45 minutes. The reward is a quiet stretch of water reflecting Moel Siabod, with benches placed at the best viewpoints.

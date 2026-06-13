@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2900
 longitude: 119.8500
+score: 8.5
 ---
 
 Dingshu Town, about 20 kilometres south of central Yixing, is the production centre for zisha teapots and the best place to watch master potters at work. The technique is entirely hand-built — no wheel is used — and watching a skilled potter construct a teapot from flat slabs of purple clay, shaping it into a perfect sphere or angular form without mechanical assistance, is a genuinely impressive demonstration of skill.

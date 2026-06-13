@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Bronze Age hillfort from c. 2000–1200 BC, one of the best-preserved prehistoric sites in Istria"
+score: 8.0
 ---
 
 Monkodonja is a Bronze Age hillfort on a low hill about 6 kilometres east of Rovinj, occupied continuously from around 2000 to 1200 BC. It is one of the best-preserved fortified Bronze Age settlements in the Mediterranean, with substantial dry-stone walls still standing to a significant height in places. The site was excavated by Croatian and Swiss archaeologists over two decades beginning in the 1990s.

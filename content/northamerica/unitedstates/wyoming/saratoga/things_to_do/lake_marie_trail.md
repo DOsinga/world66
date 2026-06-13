@@ -3,6 +3,7 @@ title: Lake Marie Trail
 type: poi
 latitude: 41.3586
 longitude: -106.3225
+score: 7.3
 ---
 
 The trail above Lake Marie follows cliff edges in the Snowy Range with sweeping views of the Medicine Bow peaks and the lake below. The full out-and-back covers around 9 miles at altitude, through terrain that is open and exposed. Summer wildflowers are excellent in July and August.

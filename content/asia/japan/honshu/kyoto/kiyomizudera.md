@@ -10,6 +10,7 @@ tags:
 - sight
 title: Kiyomizu-dera
 type: poi
+score: 9.5
 ---
 
 Kiyomizu-dera ("Pure Water Temple") clings to a steep slope of Higashiyama. Founded in 778 around a spring sacred to the deity Kannon, the present main hall dates from 1633 and is one of the most extraordinary feats of Japanese carpentry: a vast tile-roofed *butai* — performance platform — projecting out over the hillside on 168 *keyaki* (zelkova) pillars assembled entirely without nails. The view from the platform, especially in the cherry-blossom and autumn-leaf seasons, is among the great compositions in Japanese travel.

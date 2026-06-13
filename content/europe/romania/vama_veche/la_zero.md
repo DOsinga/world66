@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.7525
 longitude: 28.5715
+score: 5.6
 ---
 
 La Zero is one of Vama Veche's most popular restaurants, known for simple, well-prepared fish dishes at fair prices. The menu leans heavily on whatever came off the boats that morning — fried or grilled carp, Black Sea mackerel, and occasional catches of bream and mullet. The terrace seating fills quickly on summer evenings.

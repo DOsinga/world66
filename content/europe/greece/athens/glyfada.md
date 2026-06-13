@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.5
 ---
 
 Glyfada is the upmarket coastal suburb 15 km south of central Athens, the closest real beach district to the city and a Saturday-night destination for younger Athenians. The waterfront has a string of organised beaches — **Asteras**, **Akti Vouliagmenis**, and **Astir** — with sunbeds, water-sports rentals, and beach bars open into the evening.

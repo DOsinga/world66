@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Rutgers was founded in 1766 as Queen's College and is one of only nine colonial colleges chartered before the American Revolution. The school dropped its royal name in 1825 in favour of Henry Rutgers, a Revolutionary War colonel and major donor, in a textbook case of post-revolutionary rebranding."
+score: 7.2
 ---
 
 Rutgers, the State University of New Jersey, dominates New Brunswick's identity. The original College Avenue campus sits a short walk north of the downtown and is the prettiest of the five Rutgers campuses that ring the city. Old Queens, the 1809 sandstone building at the top of College Avenue, is the founding building and still houses the university president's office.

@@ -6,6 +6,7 @@ latitude: 56.1589
 longitude: 10.1999
 story: >
   Den Gamle By was founded in 1909 by Peter Holm, a museum director who became convinced that the best way to preserve Danish urban history was to move entire buildings rather than just their contents. The first building relocated was the Old Mayor's House from Aarhus, dismantled and rebuilt on the site. Holm's approach proved so influential that it spawned the open-air museum movement across Scandinavia and eventually the world.
+score: 9.2
 ---
 
 Den Gamle By — The Old Town — is an open-air museum of more than 75 historic buildings gathered from across Denmark and reconstructed on a large site at the western edge of Aarhus city centre. The collection spans from a seventeenth-century merchant's house through nineteenth-century craftsmen's cottages, a chemist's shop, a post office, and a grocer's — all furnished and staffed by costumed interpreters who do actual work in the buildings. In summer the site feels genuinely alive.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.6660
 longitude: 12.2420
+score: 7.8
 ---
 
 Treviso's canals do not form a network the way Venice's do, but the central stretches of the Cagnan and Buranelli are lined with mills, fishmongers, and old laundries. The walk along the Buranelli canal, from the Pescheria north past Vicolo Molinetto, is the prettiest in the city — water wheels still turning, terraces of restaurants overhanging the water, willows trailing into the current.

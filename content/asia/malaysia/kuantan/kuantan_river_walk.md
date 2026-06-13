@@ -7,6 +7,7 @@ longitude: 103.3260
 tags:
 - things_to_do
 - walk
+score: 6.5
 ---
 
 The Kuantan River runs through the heart of the city and its esplanade is the most pleasant stretch of public space in town. The waterfront has been developed over the past decade with a paved promenade, benches, and food stalls, and at dusk it becomes genuinely lively — couples walking, families with children, and the occasional fisherman casting a line off the bank.

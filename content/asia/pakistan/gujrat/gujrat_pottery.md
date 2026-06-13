@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.5628
 longitude: 74.0645
+score: 7.6
 ---
 
 Gujrat has been a centre of blue-glazed pottery production for generations, and the workshops that produce it are scattered through the city and in the surrounding villages. The distinctive cobalt blue and turquoise glazes on white earthenware — applied by hand in floral and geometric patterns — have a strong Persian influence, and the tradition is closely related to the blue pottery produced in Multan and, further back, in the Persian ceramic workshops of Kashan.

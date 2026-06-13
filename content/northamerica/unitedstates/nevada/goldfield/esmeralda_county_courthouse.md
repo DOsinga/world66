@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Esmeralda County Courthouse was built in 1907 and is still in use — Goldfield is the county seat, despite a population that hovers around 250. The two-storey neoclassical building, with its tall arched windows and stone trim, was designed for a town that everyone expected to keep growing. The courtroom inside has its original Tiffany lamps and brass cuspidors, and there is no permanent custodian, no metal detector, and no fuss; if you walk in during business hours someone will usually let you have a look.

@@ -8,6 +8,7 @@ latitude: 12.5700
 longitude: 101.4500
 story: >
   The national park designation, established in 1981, was controversial from the start: much of the island was already settled and developed when the park was gazetted. Subsequent legal disputes over land rights continue today. The park authority collects entrance fees from arriving visitors, but a portion of the island's development predates the park and operates in a legal grey zone.
+score: 5.6
 ---
 
 Ko Samet sits entirely within Khao Laem Ya–Mu Ko Samet National Park, which covers the island and several smaller uninhabited islands to the south. The national park status is the reason the interior forest has been largely preserved — the hills in the centre of the island are covered in deciduous tropical forest, and the designated park areas on the uninhabited southern tip are left wild.

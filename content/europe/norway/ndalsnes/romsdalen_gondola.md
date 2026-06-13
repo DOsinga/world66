@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Cable car from the centre of Åndalsnes to a 700-metre summit"
 latitude: 62.5660
 longitude: 7.6925
+score: 8.1
 ---
 
 The Romsdalen Gondola lifts you in five minutes from the centre of Åndalsnes to a station near the top of Nesaksla at 708 metres. The ride passes over forest and granite slabs with the fjord opening up below. There is a restaurant at the top — Eggen — with a wall of glass overlooking the valley.

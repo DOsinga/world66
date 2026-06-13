@@ -9,6 +9,7 @@ longitude: 32.607200
 snippet: "Ancient myrrh trees in the Deir el-Bahri garden, remnants of Hatshepsut's legendary expedition to Punt"
 story: >
   Around 1470 BC, Hatshepsut sent an expedition to the land of Punt — probably modern Eritrea or Somalia — to bring back myrrh trees for transplanting in the garden of her temple. The journey is recorded in magnificent reliefs on the temple walls, showing the boats, the goods traded, and the rather portly Queen of Punt. Bringing living trees on a sea voyage from East Africa was an extraordinary logistical achievement. Whether any of the surviving trees in the area are descended from those originals is impossible to say, but the tradition is maintained.
+score: 4.7
 ---
 
 At the foot of the terraced Temple of Hatshepsut at Deir el-Bahri, a small garden contains myrrh trees said to be descended from those Hatshepsut brought back from her expedition to the Land of Punt around 1470 BC. The trees are unremarkable to look at — small, scrubby, drought-resistant — but their historical context makes them remarkable objects.

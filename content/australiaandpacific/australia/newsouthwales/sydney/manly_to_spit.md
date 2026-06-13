@@ -7,6 +7,7 @@ tags:
   - manly
 latitude: -33.7990
 longitude: 151.2590
+score: 8.5
 ---
 
 The Manly to Spit Bridge walk follows the northern harbour foreshore for 10 kilometres through bushland, past sandy coves and along clifftop paths that look across the harbour to the city. It is one of the best half-day walks in Sydney and almost entirely free — no entry fee, no tour company needed, just comfortable shoes and water.

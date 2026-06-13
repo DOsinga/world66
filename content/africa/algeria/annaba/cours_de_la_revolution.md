@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 36.8980
 longitude: 7.7620
+score: 6.8
 ---
 
 The Cours de la Révolution is Annaba's main promenade — a wide, tree-lined boulevard running through the centre of the French colonial town. In the late afternoon it fills with locals: families walking, men playing cards outside cafes, vendors selling roasted nuts and snacks. The plane trees provide shade, and the colonial-era buildings lining both sides have an architectural coherence that many Algerian cities have lost.

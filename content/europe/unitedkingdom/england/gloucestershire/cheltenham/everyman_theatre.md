@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 51.8997
 longitude: -2.0751
+score: 8.3
 ---
 
 Cheltenham's principal theatre, opened in 1891 as the New Theatre and Opera House. The Victorian interior survives largely intact — gilded boxes, a deep horseshoe balcony, and ornate plasterwork — making it one of the prettiest working theatres in England. A major restoration in 2016 preserved all of this while upgrading the backstage facilities.

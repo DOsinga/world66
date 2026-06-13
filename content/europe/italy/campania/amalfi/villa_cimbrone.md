@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "In 1926, Greta Garbo and conductor Leopold Stokowski hid at Villa Cimbrone to escape a scandal — their affair was front-page news across America. Garbo described the Terrace of Infinity as 'the most beautiful place I have ever seen.' The villa's guest book from the early 20th century reads like a who's who of literary and artistic Europe: Virginia Woolf, D.H. Lawrence, Winston Churchill, E.M. Forster, and Truman Capote all stayed or visited."
+score: 8.8
 ---
 
 Villa Cimbrone sits at the southern edge of Ravello, a 20-minute walk through the village from the main piazza. The villa itself is now a hotel, but the gardens are open to paying visitors during the day. The path leads through a series of garden rooms — rose terraces, a cloister decorated with busts, a pergola walk — to the Terrazza dell'Infinito at the far end.

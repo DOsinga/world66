@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3350
 longitude: 139.5515
+score: 7.8
 ---
 
 Known throughout Japan as the 'Hydrangea Temple' (Ajisai-dera), Meigetsu-in becomes one of the most visited places in Kamakura during the June rainy season when around 2,500 blue hydrangea plants bloom across its hillside gardens. The rest of the year it is a peaceful Rinzai Zen temple, mercifully uncrowded, with a distinctive round moon window in the main hall that frames the garden behind like a painting.

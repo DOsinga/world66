@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -3.3771
 longitude: 29.3458
+score: 6.3
 ---
 
 The Port of Bujumbura is the only significant commercial port on Lake Tanganyika's western shore and an important transit hub for landlocked Burundi and its neighbours. Cargo boats and the occasional passenger ferry operate routes south to Kigoma in Tanzania and Kalemie in the Democratic Republic of Congo. The port area is atmospheric, with fishing boats drawn up on the beach alongside larger vessels.

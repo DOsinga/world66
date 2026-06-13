@@ -5,6 +5,7 @@ snippet: Friendly riverside pub with craft beer and a terrace right above the Ne
 tags: [bars_and_cafes, bar]
 latitude: 43.3380
 longitude: 17.8147
+score: 5.9
 ---
 
 Tucked into the lane below the Stari Most on the west bank, Black Dog Pub serves a rotating list of Bosnian and regional craft beers — not always easy to find in a country where lager is the default. The interior is small and dark, in the way good pubs should be; the terrace overlooks the Neretva and gives a side-on view of the bridge.

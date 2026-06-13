@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 8.3
 ---
 
 The **Muzeul Diraja Perak** (Perak Royal Museum) occupies the **Istana Kenangan**, a small but extraordinary wooden palace built in 1926 as the temporary royal residence while the Istana Iskandariah was under construction. The palace was constructed entirely without nails or modern fixings — the timber is joined with wooden pegs and traditional Malay woodwork — and is panelled inside and out in delicate carved screens and lattices.

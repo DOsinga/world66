@@ -14,6 +14,7 @@ story: >
   tourism that had changed the Mamanucas. The opening of the Flyer route changed
   everything — and the debate about whether that was a good thing continues
   among islanders.
+score: 6.7
 ---
 
 The Yasawa Flyer is the catamaran that connects the island chain — departing Port Denarau Marina near Nadi each morning and working its way north through the archipelago over the course of a full day. It is both a practical transport link for island-hoppers and an experience in itself: the boat passes through turquoise water, around volcanic headlands, and anchors offshore at each resort while dinghies shuttle passengers back and forth.

@@ -13,6 +13,7 @@ story: >
   status. It replaced an earlier wooden bridge that had crossed the Shinano at
   the same point for centuries, and its 1929 art-deco steel arches became the
   image most associated with Niigata long before the Shinkansen arrived.
+score: 7.5
 ---
 
 Bandai Bridge spans the Shinano River — Japan's longest — at the point where it enters the final stretch before the Sea of Japan. Built in 1929, the six-span steel bridge is one of the most handsome pieces of early 20th-century engineering in northern Japan, and is now a designated Important Cultural Property. Its arching framework looks particularly good photographed from the riverbank at dusk, when the lights reflect off the water.

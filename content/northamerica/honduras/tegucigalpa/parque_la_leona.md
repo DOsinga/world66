@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Parque La Leona
 type: poi
+score: 6.4
 ---
 
 Parque La Leona is a small hilltop park in the Barrio La Leona neighbourhood, above and southwest of Parque Central. The main draw is the view: from here you can see across the bowl of hills that Tegucigalpa occupies, with the urban sprawl spreading in all directions and the mountains beyond.

@@ -15,6 +15,7 @@ story: >
   Valley were all financed directly by coffee income. The first coffee crop planted
   in the Americas was grown not far from here, and the Central Valley remains one
   of the country's most productive growing regions.
+score: 7.0
 ---
 
 The hills immediately north and east of Heredia are coffee country — small farms growing arabica at altitude, with the volcanic soil and consistent rainfall that produces some of Costa Rica's best beans. Several farms in the area around Santo Domingo, San Isidro, and the slopes leading toward Barva offer half-day tours that cover the growing, harvesting, processing, and roasting cycle.

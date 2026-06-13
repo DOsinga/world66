@@ -7,6 +7,7 @@ tags:
 - sight
 title: Abanotubani Square (Meidani)
 type: poi
+score: 6.8
 ---
 
 The small square at the heart of Abanotubani — locally called the Meidani — is where the old town's social life concentrates in the evenings. The square is surrounded by the domed roofs of the bathhouses, a small waterfall flowing into a stone basin, the Orbeliani Baths' famous tiled facade, and several restaurants and cafes on the terraces above.

@@ -7,6 +7,7 @@ tags:
 latitude: 58.5267
 longitude: 22.7003
 snippet: "Five traditional windmills on a ridge near Leisi — the only surviving windmill hill in Estonia"
+score: 8.1
 ---
 
 About 40 kilometres north of Kuressaare, near the village of Leisi, Angla windmill hill preserves the only windmill grouping in Estonia that still looks as it once did. Five mills stand together on a low ridge: four are traditional trestle windmills, the type once common across Saaremaa, and one is a Dutch-style tower mill built in 1927. At their peak there were nine mills on this hill; the five that remain are in various states of preservation and open for viewing.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.1100
 longitude: 9.7290
 story: "The dry-stone walls that hold up the Cinque Terre vineyards add up to roughly 7,000 km — more, by length, than the Great Wall of China. They were built by hand over a thousand years, mostly by Ligurian peasants moving stones one terrace at a time. UNESCO listed the cultural landscape in 1997, partly to slow the gradual abandonment of the terraces."
+score: 8.4
 ---
 
 Walk twenty minutes up from the church and you're in the terraced vineyards that have been the village's economic backbone since the Middle Ages. Vines climb the hillside on dry-stone walls (*muretti a secco*) that step down to the sea — grown thick with sangiovese, vermentino, and the small, prized bosco grapes used for Sciacchetrà.

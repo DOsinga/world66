@@ -8,6 +8,7 @@ latitude: 44.2581
 longitude: 8.4526
 sources:
   - https://en.wikipedia.org/wiki/Capo_di_Vado_Lighthouse
+score: 6.1
 ---
 
 The Capo di Vado lighthouse stands on a prominent headland 1.5 km south of Vado Ligure, an active lighthouse that has marked this point of the Ligurian coast since the 19th century. The cape itself offers good views along the coast in both directions — north toward Savona and the industrial port, south toward the protected coastline around Bergeggi.

@@ -14,6 +14,7 @@ story: >
   October 1976, acting in coordination with Hua Guofeng to end the Cultural Revolution's most
   destructive phase. He was subsequently rehabilitated and remains a revered figure in Meizhou,
   where his birthplace is preserved as a museum.
+score: 6.2
 ---
 
 The Jianying Memorial Bridge spans the Mei River in central Meizhou, a graceful arc that frames a view of the old city's riverside buildings and the forested hills beyond. Built to honour Marshal Ye Jianying, the bridge is now a pleasant promenade and photography spot rather than a primary transport artery. The combination of the river, the bridge, and the skyline is the most photogenic composition in the city.

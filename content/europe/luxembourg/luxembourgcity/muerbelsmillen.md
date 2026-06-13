@@ -8,6 +8,7 @@ tags:
   - clausen
   - museum
 story: "The Muerbel family ran the mill from 1957 until the 1990s, grinding the seed and bottling the mustard on site. The descendants donated the lot — building, presses, recipes — to the city in 2010 on condition that mustard production continue at the demonstration scale you see today."
+score: 6.8
 ---
 
 A quirky, free museum in a small working watermill on the Alzette in Clausen. The presses and grinding wheels still turn (on demonstration days), grinding Luxembourg mustard from local seed. Production continues at boutique scale and you can taste and buy the result in the museum shop.

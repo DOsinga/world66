@@ -11,6 +11,7 @@ story: >
   The William A. Irvin was not just any ore carrier — it was US Steel's flagship vessel, used to entertain company executives and clients on voyages across the Great Lakes. The staterooms are furnished in a style befitting a private yacht, a strange luxury aboard a working freighter. The contrast between the executive suites and the crew's quarters below decks says something about how industrial America organised itself in the mid-20th century.
 sources:
   - https://en.wikipedia.org/wiki/SS_William_A._Irvin
+score: 7.8
 ---
 
 The SS William A. Irvin, moored in Canal Park, is a 678-foot Great Lakes ore freighter that carried iron ore and coal from 1938 to 1978. It is now a floating museum where you can tour the full length of the ship: the vast cargo holds, the engine room, the pilot house, the galley, and the surprisingly elegant executive quarters. The scale of the vessel becomes fully apparent once you are walking its length — these ships are enormous.

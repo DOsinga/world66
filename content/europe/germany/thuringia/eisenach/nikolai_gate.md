@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 50.9742
 longitude: 10.3162
+score: 6.2
 ---
 
 The only surviving gate from Eisenach's medieval town walls, the Nikolai Gate dates to the 12th century and marks the entrance to the historic core of the town. The Romanesque stonework is intact and the passageway through the gate gives a sense of the scale and solidity of medieval fortifications.

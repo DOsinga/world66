@@ -9,6 +9,7 @@ latitude: 36.7511
 longitude: -5.8036
 sources:
   - https://www.andalucia.org/en/arcos-de-la-frontera
+score: 6.8
 ---
 
 Mirador de Abades is one of the quieter viewpoints on the old-town ridge, with a broad look across the valley and the lower town. It is a good reward for continuing beyond Plaza del Cabildo.

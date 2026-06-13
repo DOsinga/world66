@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 30.2692
 longitude: 130.5958
+score: 7.4
 ---
 
 Inakahama is a long, gently curving beach on Yakushima's south coast, and one of the most important sea turtle nesting sites in Japan. Loggerhead turtles (akaumigame) come ashore here from May to July to lay eggs, and hatchlings emerge and scramble to the sea between July and October. Organised night-watching excursions run during the nesting season — you wait in the dunes with a guide until a female drags herself up the beach.

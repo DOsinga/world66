@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.9064
 longitude: 70.3708
+score: 7.2
 ---
 
 Veraval, 7 km from Somnath, has one of the largest fishing ports on the Gujarat coast. The harbour is always active: hundreds of wooden fishing dhows painted in bright colours, the smell of drying fish and diesel, men mending nets, the catch being sorted and auctioned in the early morning. It is the economic engine behind the pilgrimage town down the road and makes for a striking contrast.

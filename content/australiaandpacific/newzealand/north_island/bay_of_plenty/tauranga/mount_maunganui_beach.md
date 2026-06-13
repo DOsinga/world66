@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -37.6430
 longitude: 176.1880
+score: 8.4
 ---
 
 The long ocean beach on the eastern side of the Mount Maunganui peninsula is one of the finest in the North Island — a wide, hard-packed stretch of sand with consistent surf, safe swimming between the flags in summer, and the distinctive volcanic cone rising at the southern end. It draws surfers, families, and fitness walkers year-round.

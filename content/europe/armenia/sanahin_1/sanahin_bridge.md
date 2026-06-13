@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Sanahin Bridge
 type: poi
+score: 7.4
 ---
 
 This medieval stone bridge spans a tributary of the Debed River below the village. Built in 1192, it is one of the finest surviving examples of medieval Armenian bridge architecture. The single arch is decorated with carved animal figures — cats and bulls — on its parapets, and the proportions are elegant for a functional structure. The bridge was part of the trade route through the Debed gorge and is still in remarkably good condition after more than eight centuries.

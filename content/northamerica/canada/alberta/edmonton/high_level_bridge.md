@@ -15,6 +15,7 @@ story: >
   route used before the system was dismantled in 1951.
 sources:
   - https://en.wikipedia.org/wiki/High_Level_Bridge_(Edmonton)
+score: 7.3
 ---
 
 The High Level Bridge is Edmonton's most architecturally significant infrastructure — a two-deck steel truss structure crossing the North Saskatchewan River at its deepest point, rising 48 metres above the water. Built in 1913, it is one of the highest bridges in Canada and has defined the city's southern approach for over a century.

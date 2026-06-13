@@ -13,6 +13,7 @@ story: >
   worked in North America and wanted their tower to be visibly the grandest in the district.
   The competitive logic — who can build the tallest, the most ornate, the most foreign-looking —
   drove the whole architectural phenomenon.
+score: 8.3
 ---
 
 Liyuan is the most polished of the four main diaolou villages, its towers and surrounding garden well-maintained and presented with some care for the visitor experience. The village's Ruishi Tower stands nine storeys and combines a neoclassical base with a Byzantine dome in a combination that should be ridiculous and isn't — the sheer confidence of the design carries it. The surrounding garden and ponds, restored to something close to their original condition, give the complex a setting that the other villages lack.

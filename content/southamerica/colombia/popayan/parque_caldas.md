@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The central plaza — cathedral, palms, and a statue of the local astronomer"
+score: 7.9
 ---
 
 The main square of Popayán, named for the 18th-century scientist and patriot Francisco José de Caldas, born here. Royal palms, manicured beds, benches under shade — the social centre of town. The cathedral stands on the north side; the Centro Cultural Universitario, the old colonial cabildo, and the famous Clock Tower complete the surrounding buildings.

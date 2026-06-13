@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.8317
 longitude: -65.2042
+score: 7.9
 ---
 
 The geographical and civic centre of Tucumán, surrounded on its four sides by the most important institutional buildings of the city — the Cathedral, the Casa de Gobierno, the Iglesia San Francisco, and the Jockey Club. The plaza is shaded by huge orange trees and dominated by a marble statue of Liberty at its centre, sculpted by Lola Mora in 1904.

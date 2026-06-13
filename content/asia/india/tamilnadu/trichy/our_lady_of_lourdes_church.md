@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.8269
 longitude: 78.6925
+score: 6.4
 ---
 
 Our Lady of Lourdes Church stands near the old college quarter and adds a Gothic Catholic note to a city better known for Hindu temples. Its spire, stained glass, and pointed arches make it one of Trichy's most recognisable colonial-era buildings.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.4740
 longitude: -81.9752
+score: 6.2
 ---
 
 Frog Hollow Tavern is Augusta's most acclaimed restaurant, serving refined Southern cuisine in a handsome space on Washington Road. The kitchen takes seasonal, locally sourced ingredients seriously — the menu changes to reflect what's available — and applies French technique to distinctly Southern flavours. Shrimp and grits, pan-roasted pork from local farms, and pecan-crusted fish are the kind of dishes that appear regularly.

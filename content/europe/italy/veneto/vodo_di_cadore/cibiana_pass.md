@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 46.3742
 longitude: 12.2589
+score: 7.0
 ---
 
 The Cibiana Pass at 1,530 metres climbs south from Vodo across the ridge into the Zoldo valley. The road is narrow and looping — a favourite of motorcyclists — and the pass itself is a quiet meadow with a small refuge and good views in both directions.

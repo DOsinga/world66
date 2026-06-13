@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, beach, sight]
 latitude: 20.7146
 longitude: 107.0590
+score: 7.0
 ---
 
 Three small sandy coves just south of Cat Ba Town — Cat Co 1, 2, and 3 — provide the island's most accessible swimming. They are connected by a cliff path cut into the karst, which is itself worth walking for the views back across the bay. The water is reasonably clear in calm weather and the swimming is sheltered.

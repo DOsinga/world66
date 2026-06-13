@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.5
 ---
 
 The village's parish church is a seventeenth-century baroque building dedicated to Saints Peter and Paul. It stands at the heart of Testico, its bell tower visible from the surrounding ridges. The interior repays a visit: a fine altarpiece dating from the same period as the church, and eighteenth-century frescoes covering the vault and the baptistery.

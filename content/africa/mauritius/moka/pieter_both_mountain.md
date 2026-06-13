@@ -13,6 +13,7 @@ story: >
   The distinctive boulder balanced on the mountain's summit is visible from much of
   the northern coast and has been a navigation landmark for ships entering Port Louis
   harbour for centuries.
+score: 7.4
 ---
 
 Pieter Both, at 820 metres, is the second highest peak in Mauritius. It is distinctive for the large spherical boulder perched improbably on its summit — a landmark visible from the sea and from [Port Louis](/africa/mauritius/portlouis). Climbing the peak requires a rope and some scrambling skill on the final approach to the summit boulder; it is a serious hike rather than a walk.

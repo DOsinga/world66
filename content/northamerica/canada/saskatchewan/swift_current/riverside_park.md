@@ -8,6 +8,7 @@ latitude: 50.2860
 longitude: -107.8010
 sources:
   - https://www.swiftcurrent.ca/
+score: 6.7
 ---
 
 Riverside Park follows Swift Current Creek through the heart of the city, offering a green corridor that stands in pleasant contrast to the surrounding prairie flatness. The park connects to a walking and cycling trail that runs several kilometres along the creek, passing through cottonwood groves and wetland margins where waterfowl concentrate during migration. It's one of the better places in the region to see shorebirds in spring and autumn.

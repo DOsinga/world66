@@ -20,6 +20,7 @@ tags:
 title: Salvador Dalí Museum
 type: poi
 url: www.thedali.org
+score: 9.0
 ---
 
 The largest collection of Dalí's work outside of Europe — around 2,400 works ranging from early academic paintings to the monumental late canvases. The building itself is worth the visit: a striking 2011 structure by architect Yann Weymouth, with a geodesic glass bubble erupting from one end. Inside, the permanent collection is arranged chronologically, which makes it unusually easy to follow Dalí's evolution from conventional Spanish painter to full Surrealist assault on sense. The late masterworks, some of them over 14 feet wide, dominate the top floor.

@@ -7,6 +7,7 @@ snippet: "Conservation-supporting café serving Jordanian organic produce"
 tags:
 - bars_and_cafes
 - cafe
+score: 6.1
 ---
 
 A small café-restaurant run by the Royal Society for the Conservation of Nature, with proceeds funding Jordan's nature reserve network. The menu uses organic and small-producer ingredients from RSCN-supported communities around the country: olive oil from Ajloun, herbs and freekeh from Dana, honey from the Azraq oasis. Lunch is light: salads, mezze plates, Levantine sandwiches, and a daily soup.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cable_car
+score: 7.5
 ---
 
 The Laberbergbahn is a small two-person gondola that climbs from the eastern edge of the village to the 1,684-metre summit of the Laber. The cabins are short on creature comfort — open, slow, and dangling rather alarmingly above the rocks — which is part of the appeal.

@@ -8,6 +8,7 @@ tags:
 latitude: 32.7330
 longitude: -117.1510
 snippet: Fifteen distinct gardens inside Balboa Park — rose gardens, a Japanese garden, a desert garden — free to enter
+score: 7.9
 ---
 
 Balboa Park contains fifteen distinct botanical gardens within its 1,200 acres, ranging from formal rose beds to the Inez Grant Parker Memorial Rose Garden (2,400 roses, best in April–May) to the Japanese Friendship Garden, which occupies eleven and a half acres in a canyon on the park's west side.

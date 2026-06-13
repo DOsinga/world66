@@ -13,6 +13,7 @@ tags:
 title: La Dracena
 type: poi
 url: www.ladracena.it
+score: 4.9
 ---
 
 Just off the main shopping street, La Dracena is one of Taormina's better restaurants. Named after the dragon tree in the garden, it serves well-prepared Sicilian dishes with a generous wine list. The terrace is lovely in warm weather.

@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0768
 longitude: -77.3401
+score: 7.4
 ---
 
 A small but serious museum on the corner of Shirley Street and Elizabeth Avenue, run by the volunteer-led Bahamas Historical Society. The collection covers Lucayan (pre-Columbian Arawak) artefacts, Loyalist-era documents, slavery, emancipation, and the development of the modern Bahamas.

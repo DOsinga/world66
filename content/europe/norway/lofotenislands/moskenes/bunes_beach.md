@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 67.9750
 longitude: 12.9700
+score: 9.1
 ---
 
 Bunes is one of Norway's most dramatic beaches: a long arc of white sand on the open Atlantic coast, backed by near-vertical rock walls rising several hundred metres, with the granite peak of Helvetestinden (Hell Peak) watching over it. The only way to reach it is by a short passenger ferry from Vindstad, which is itself reached by ferry from Reine — the inaccessibility is what keeps it unspoiled.

@@ -4,6 +4,7 @@ type: poi
 latitude: 54.274
 longitude: -8.475
 tags: [things_to_do, sight, nature]
+score: 5.9
 ---
 
 The short river that gives Sligo its name — Sligeach, "abounding in shells" — running from Lough Gill out to the Atlantic at Sligo Bay. It threads through the centre of town with several bridges and a landscaped riverside walk.

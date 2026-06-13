@@ -9,6 +9,7 @@ tags:
 - museum
 title: Hurtigruten Museum
 type: poi
+score: 8.6
 ---
 
 The Hurtigruten Museum tells the story of Norway's famous coastal steamer service, which was founded in Stokmarknes in 1893. The museum is spread across three floors and includes one of the original vessels, the MS Finnmarken, preserved in a glass-walled structure next to the main building.

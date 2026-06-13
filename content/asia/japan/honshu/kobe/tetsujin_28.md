@@ -13,6 +13,7 @@ story: >
   statue was erected in 2009 in Nagata, the part of Kobe most severely damaged by
   both the 1945 firebombing and the 1995 earthquake — a neighbourhood that has rebuilt
   itself twice in sixty years.
+score: 5.6
 ---
 
 The Tetsujin 28 Robot Statue in Nagata Ward is an 18-metre steel robot standing in a small park, erected as a symbol of the neighbourhood's recovery from the 1995 earthquake. Tetsujin 28-go is the fictional giant robot from Mitsuteru Yokoyama's 1950s manga series — a beloved character in Japan — and the choice of Nagata, where Yokoyama grew up, gives the statue a genuine local meaning beyond spectacle.

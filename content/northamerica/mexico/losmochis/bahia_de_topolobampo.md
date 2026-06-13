@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - day_trips
+score: 7.3
 ---
 
 The Bahía de Topolobampo is one of the largest natural bays on Mexico's Pacific coast, a vast enclosed harbour protected from the open sea by a chain of barrier islands. The bay is deep enough to handle large cargo ships and cruise liners, which is why it became an important port, but it is also rich in marine life — dolphins are frequently seen in the channel, and the surrounding mangroves provide habitat for herons, egrets, and migratory shorebirds.

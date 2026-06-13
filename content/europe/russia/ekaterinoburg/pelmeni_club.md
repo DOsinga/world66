@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - historic_centre
+score: 5.5
 ---
 
 A reliable Ural-themed restaurant on the embankment that does, as the name promises, more than thirty varieties of pelmeni — meat, fish, mushroom, sweet — and a long list of vodkas to accompany them. Prices are moderate, the interior cosy with wooden booths.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Small comune in the central Vara Valley
+score: 5.4
 ---
 
 Carrodano is a quiet hill village in the central section of the valley, off the motorway exit that bears its name. Most travellers see only the exit itself and continue toward La Spezia; the village above is worth a short detour for its parish church and for views across the surrounding chestnut-covered hills.

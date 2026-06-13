@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.0155
 longitude: 4.4260
+score: 6.3
 ---
 
 Haribo has its French headquarters in Uzès, which is why the world's only Haribo museum is here rather than in Germany. The museum tells the story of the company — founded in Bonn in 1920, expanding to France in the 1970s — through period advertising, vintage machinery, and a great deal of brightly coloured product. It is unapologetically aimed at children, but adults who grew up with Goldbären or Dragibus will find the nostalgia hit genuine. The shop at the end is exactly what you expect it to be.

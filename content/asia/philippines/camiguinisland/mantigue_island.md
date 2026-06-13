@@ -12,6 +12,7 @@ story: >
   The coral reefs surrounding the island are protected within a marine sanctuary established in the early
   2000s, and the sea turtle population has recovered enough that sightings during snorkelling are now reliable.
   The entire island is circled by a narrow beach that can be walked in under 30 minutes.
+score: 7.9
 ---
 
 Mantigue Island is a small coral island about 25 minutes by outrigger banca from Camiguin's north coast. The island has a marine sanctuary with healthy coral reefs and a resident population of green sea turtles that can usually be spotted by snorkellers without any effort — they are habituated to swimmers and feed on the sea grass beds in the shallows.

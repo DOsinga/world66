@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Saddam had the palace built on a man-made hill so that he could look down on the ruins of Babylon as Nebuchadnezzar might have done on a clear day. After 2003 it was occupied by US forces, then looted, then abandoned. It is now empty and slowly decaying, but tours sometimes include a stop here."
+score: 6.8
 ---
 
 On a low hill overlooking the ancient site, Saddam Hussein built one of his many palaces — a vast, columned villa in a vaguely Mesopotamian style, with murals showing himself in the company of Nebuchadnezzar. It was part of a larger project to identify the Ba'athist regime with the glories of ancient Babylon, and the king's name appears on inscriptions all over the rebuilt ruins below.

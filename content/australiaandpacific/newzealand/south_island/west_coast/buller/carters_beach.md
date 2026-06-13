@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -41.7500
 longitude: 171.5667
+score: 6.0
 ---
 
 Carter's Beach, four kilometres north of Westport, is a long arc of grey sand backed by dunes and native bush, facing the full force of the Tasman Sea. The beach has the wild, unspoiled character typical of the West Coast: no development, strong surf, and the kind of emptiness that makes it easy to feel alone in the landscape. Swimming requires caution — the rips and surf here are serious, and the water is cold year-round.

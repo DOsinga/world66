@@ -14,6 +14,7 @@ story: >
   Europe, a record it may still hold.
 sources:
   - https://www.visitdalarna.se/en/do/attractions/langbryggan
+score: 7.1
 ---
 
 Långbryggan — the Long Pier — extends 628 metres out into Lake Siljan from the Rättvik shore, built in the late 19th century to reach water deep enough for steamboats. Walking out to the end takes about 10 minutes at a relaxed pace, and the view of the Rättvik shoreline, the church on its promontory, and the surrounding forested hills is among the best in Dalarna. In summer the pier is busy with swimmers and fishing rods; on calm evenings the reflections on the water are exceptional.

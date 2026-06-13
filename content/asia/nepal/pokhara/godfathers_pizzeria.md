@@ -9,6 +9,7 @@ tags:
   - lakeside
 neighbourhood: Lakeside
 snippet: Cheap and cheerful Lakeside pizza joint with consistent food and a garden
+score: 5.4
 ---
 
 A long-running travellers' favourite at the cheaper end of Lakeside's restaurant scene. The pizza is more functional than artisanal but generously topped and reliably good, the steaks and pasta are decent, and the garden makes a nice spot for a leisurely lunch on a hot day.

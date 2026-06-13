@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 7.5
 ---
 
 Sofia's main pedestrian street and shopping promenade, running 1.2 kilometres from the Court House at one end to the Palace of Culture at the other. The view south is straight up Vitosha mountain — on a clear winter morning, the snowy peak frames the street perfectly.

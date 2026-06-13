@@ -6,6 +6,7 @@ longitude: -86.9504
 tags:
   - bars_and_cafes
   - bar
+score: 5.5
 ---
 
 Woody's is a long-standing live-music bar on the malecón, run by an American expat who has been in Cozumel for decades. It is a touch cruise-passenger friendly but the bands — usually rock or blues covers — are reliably good and the upstairs balcony catches the breeze.

@@ -11,6 +11,7 @@ tags:
 snippet: The classic four-day trek from the Urubamba Valley to Machu Picchu along original Inca roads
 story: >
   The Inca Trail is actually a small fragment of the Qhapaq Ñan — the 40,000-km Inca road network that ran the length of the Andes from modern Ecuador to Chile. Built without wheeled vehicles, iron tools, or the wheel, it connected every corner of an empire larger than the Roman Empire at its height. The 43-km trail to Machu Picchu was a single pilgrimage route within this vast system; the Inca would have considered it a local path.
+score: 9.4
 ---
 
 The Inca Trail is the most famous multi-day trek in South America and one of the most celebrated hiking routes in the world. The classic four-day, 43-kilometre route starts at km 82 on the Urubamba railway, climbs through cloud forest and over three mountain passes — the highest at 4,215 metres — past a string of archaeological sites, and arrives at dawn on the final morning at the Sun Gate above Machu Picchu.

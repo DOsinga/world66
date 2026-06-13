@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 A long-vacant brick factory just east of the carrousel museum is the older Herschell–Spillman Motor Company plant, where the family business built steam engines, gas engines, and the mechanical guts of carousels before the Herschell name split off into its own factory next door. The buildings are listed on the National Register and the surviving brickwork, sawtooth roofs, and oversized window bays are a fine example of small-town American industrial architecture from the 1900s.

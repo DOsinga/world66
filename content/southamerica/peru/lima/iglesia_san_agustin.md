@@ -11,6 +11,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: Churrigueresque facade in the historic centre
+score: 7.8
 ---
 
 The **Iglesia San Agustín** has one of Lima's two great churrigueresque facades — an 18th-century carved-stone wonder of cherubs, saints, columns, and floral patterns crammed into every available surface. The interior is smaller and quieter than its baroque rivals but contains a famously macabre 17th-century carved-wood **Death of San Agustín**, also known as **La Muerte**, attributed to the sculptor Baltasar Gavilán.

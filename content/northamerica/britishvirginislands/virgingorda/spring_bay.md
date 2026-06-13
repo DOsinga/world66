@@ -7,6 +7,7 @@ tags:
 latitude: 18.4358
 longitude: -64.443
 snippet: A quieter beach just north of The Baths, with smaller granite boulders and excellent snorkelling
+score: 7.5
 ---
 
 Spring Bay sits just north of [The Baths](/northamerica/britishvirginislands/virgingorda/the_baths) and is what The Baths would be if it were not famous: a small white-sand beach scattered with granite boulders, with shaded picnic tables under the sea grapes, and almost nobody there. The boulders are smaller than those at The Baths — none of them house-sized — but they create the same kinds of grottoes and natural pools on a more intimate scale.

@@ -11,6 +11,7 @@ story: >
   The Poison Garden at Alnwick was the Duchess of Northumberland's own idea, inspired by a visit to the Medici gardens at Boboli in Florence. The garden contains around 100 plants that can kill you, including hemlock, deadly nightshade, and giant hogweed — some kept in locked cages. It also contains cannabis and coca plants, grown under a Home Office licence. The gates carry the warning: "These Plants Can Kill." Guided tours are required; visitors are not permitted to sniff or touch anything.
 sources:
   - https://en.wikipedia.org/wiki/Alnwick_Garden
+score: 7.5
 ---
 
 The Alnwick Garden was created from the late 1990s by Jane Percy, the Duchess of Northumberland, on the site of a walled garden that had been derelict for decades. The ambition was to build something truly contemporary — not a recreation of a historic garden but a series of new experiences — and the result is one of the most visited gardens in Britain, attracting around 400,000 visitors a year.

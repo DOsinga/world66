@@ -13,6 +13,7 @@ tags:
 - woodstock
 title: The Pot Luck Club
 type: poi
+score: 7.8
 ---
 
 The Pot Luck Club occupies the top floor of the silo tower at the Old Biscuit Mill, with panoramic views across Woodstock, the Foreshore and Table Mountain. The format is small plates designed for sharing — the kitchen draws on a range of influences from Asian to European to South African, served in a relaxed, lively room that contrasts with the formality of The Test Kitchen below. It is a good choice for groups who want serious cooking without the commitment of a full tasting menu.

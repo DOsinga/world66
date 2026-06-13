@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "It was inside this mosque, on the 19th of Ramadan in the year 661, that Imam Ali was struck on the head with a poisoned sword while praying. He died two days later. Pilgrims still mark the spot — known as the mihrab of Imam Ali — and visit the niche where the blow fell."
+score: 9.0
 ---
 
 Kufa, ten kilometres east of Najaf along the Euphrates, was the capital of Imam Ali's caliphate, and its Great Mosque is one of the oldest in Islam. Founded in the year 638, it has been rebuilt repeatedly, but the basic plan — a vast walled courtyard with arcaded prayer halls — preserves the form of the earliest Islamic mosques. For Shia Muslims this is the second holiest mosque in the world, after the Imam Ali Shrine itself.

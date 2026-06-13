@@ -7,6 +7,7 @@ snippet: The medieval market district, still selling fish, cheese and wine from 
 tags:
 - things_to_do
 - neighbourhood
+score: 8.4
 ---
 
 The Quadrilatero is the dense grid of narrow streets immediately east of Piazza Maggiore, where the city's medieval food markets and craft guilds were based. The streets still carry the trade names: Via Pescherie Vecchie (Old Fishmongers), Via Drapperie (Drapers), Via Caprarie (Goat sellers).

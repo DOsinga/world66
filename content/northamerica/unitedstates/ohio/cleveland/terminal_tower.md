@@ -11,6 +11,7 @@ tags:
 title: Terminal Tower
 type: poi
 url: www.towercitycenter.com
+score: 8.4
 ---
 
 Cleveland's signature skyscraper, completed in 1929 in a neoclassical style at a time when Art Deco was the dominant idiom — making it visually distinctive among American towers. It anchors Public Square and Tower City Center, a sprawling indoor complex with shops, offices, hotels, restaurants, a transit hub, and direct indoor connections to sports venues. A good place to start any visit to downtown.

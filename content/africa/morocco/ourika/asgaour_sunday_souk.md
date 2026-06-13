@@ -9,6 +9,7 @@ latitude: 31.3492
 longitude: -7.7789
 sources:
   - https://en.wikipedia.org/wiki/Ourika_Valley
+score: 7.8
 ---
 
 The weekly Sunday market at Asgaour (also spelled Asni or referred to as Souk Tnine de l'Ourika in some older guides) is one of the most authentic rural souks near Marrakesh. Berber farmers and traders from throughout the upper valley and surrounding mountains converge here to sell and buy livestock, produce, spices, household goods, and clothing.

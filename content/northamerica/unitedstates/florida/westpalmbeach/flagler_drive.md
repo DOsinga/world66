@@ -7,6 +7,7 @@ tags:
 - sight
 title: Flagler Drive Waterfront
 type: poi
+score: 6.3
 ---
 
 Flagler Drive runs the length of West Palm Beach along the western edge of the Intracoastal Waterway, with a continuous walking and cycling path on the water side. The views are across to the mansions of Palm Beach and (further north) the smaller homes of Riviera Beach. Royal palms line most of the route; on weekend mornings the path is full of runners, cyclists, and stroller-pushing parents.

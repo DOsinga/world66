@@ -8,6 +8,7 @@ tags:
   - historic_site
 latitude: 39.2726
 longitude: -76.8310
+score: 8.4
 ---
 
 This is the oldest surviving railroad station in the United States, built in 1830 as the western terminus of the Baltimore and Ohio Railroad's original Main Line. The granite building is modest — a single stone room where passengers once waited for the first steam locomotives in America — but the history inside it is enormous. On August 25, 1830, the Tom Thumb locomotive raced (and lost to) a horse-drawn carriage near here, a contest that became part of American railroad mythology.

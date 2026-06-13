@@ -12,6 +12,7 @@ tags:
 - park
 title: South Mountain Park
 type: poi
+score: 7.6
 ---
 
 South Mountain Park is one of the largest municipal parks in the world, covering over 16,500 acres of desert terrain. The park has excellent views, petroglyphs, and an interpretive center with information on the region's cultural heritage. Hiking, mountain biking, and horseback riding trails crisscross the preserve, and picnic areas dot the landscape. Drive or hike to the summit for panoramic views of the entire valley.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 19.7032
 longitude: -101.1902
+score: 7.7
 ---
 
 The Mercado Independencia is Morelia's main covered market and one of the best places in the city for a cheap, authentic meal. The food stalls inside serve all the Michoacan classics — carnitas in multiple forms (maciza, buche, cueritos), corundas, uchepos, sopa tarasca, and pozole. The stalls are busiest at breakfast and lunch; arrive by 1pm for the widest selection and freshest food.

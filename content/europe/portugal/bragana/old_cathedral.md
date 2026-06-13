@@ -8,6 +8,7 @@ latitude: 41.8057
 longitude: -6.7625
 sources:
   - https://en.wikipedia.org/wiki/Old_Cathedral_of_the_Holy_Name_of_Jesus,_Bragança
+score: 7.1
 ---
 
 The Old Cathedral of the Holy Name of Jesus — the Sé Velha — is the former seat of the Diocese of Bragança-Miranda, a handsome Renaissance church in the lower city. It dates from the 16th century and contains a gilded baroque interior of some quality, with a noteworthy painted ceiling and carved choir stalls.

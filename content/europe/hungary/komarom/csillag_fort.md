@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.7472
 longitude: 18.1080
+score: 6.8
 ---
 
 The third element of the Komarom fortification system, built in the 1840s and 50s as a star-shaped earthwork — the points of the star give the fort its name. Less visited than Fort Monostor because much of it is still used for storage, but the outer ramparts and the moat are walkable and worth a circuit.

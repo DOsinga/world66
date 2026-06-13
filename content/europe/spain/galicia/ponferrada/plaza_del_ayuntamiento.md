@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5469
 longitude: -6.5876
+score: 6.9
 ---
 
 The Plaza del Ayuntamiento is the centre of Ponferrada's old quarter, a handsome square flanked by the 18th-century town hall on one side and the old clock tower — the Torre del Reloj — on another. Both buildings are in the restrained Baroque style typical of the region, and the square itself has the well-kept dignity of a provincial capital rather than the scruffiness that afflicts many Spanish market towns.

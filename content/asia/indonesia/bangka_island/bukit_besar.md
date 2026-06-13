@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Hilltop park with views over Pangkalpinang and the sea beyond"
+score: 5.7
 ---
 
 Bukit Besar — "big hill" — is a modest elevation by any measure, but it rises above the flat coastal plain of Pangkalpinang enough to give a decent panorama over the city and the strait beyond. A small park sits at the top, popular with locals for morning exercise and with anyone wanting a quick overview of the island's capital and its coastal setting.

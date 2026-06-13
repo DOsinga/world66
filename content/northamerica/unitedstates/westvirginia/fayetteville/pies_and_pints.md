@@ -10,6 +10,7 @@ tags:
 address: "219 W Maple Ave, Fayetteville, WV"
 latitude: 38.0524
 longitude: -81.1058
+score: 6.1
 ---
 
 What is now a small regional chain across the Mid-Atlantic started in this Fayetteville storefront in 2003. The pizzas are wood-fired, thin-crust, with adventurous toppings (the Cuban Pork, the Chipotle Chorizo) alongside the standards. Salads are large and fresh.

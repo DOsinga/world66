@@ -12,6 +12,7 @@ story: >
   Arabuko-Sokoke is the largest remaining tract of coastal forest in East Africa, and it shelters three globally endangered bird species found nowhere else on earth: the Sokoke scops owl, the Amani sunbird, and the Clarke's weaver. Birders from around the world travel specifically to see these three species, and the forest is considered one of Africa's premier birdwatching sites.
 sources:
   - https://en.wikipedia.org/wiki/Arabuko-Sokoke_Forest
+score: 8.4
 ---
 
 Arabuko-Sokoke Forest is the largest fragment of intact coastal forest remaining in East Africa, covering around 420 square kilometres just a few kilometres from Watamu. It is a biodiversity stronghold: globally threatened mammals including the golden-rumped elephant shrew and the Ader's duiker live here, along with dozens of rare and endemic bird species.

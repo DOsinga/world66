@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: -17.8030
 longitude: 177.4156
+score: 7.7
 ---
 
 The covered municipal market off Main Street is the busiest, most local corner of Nadi. Saturday morning is peak: a wall of taro, cassava, sugar bananas, papayas, dalo leaves, sweet pineapples; women on the floor sorting chillies; tables piled with the green peppercorn-like grog (kava root) sold in neat bunches by the kilo.

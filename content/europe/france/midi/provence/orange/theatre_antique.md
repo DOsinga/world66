@@ -10,6 +10,7 @@ tags:
   - unesco
 snippet: The best-preserved Roman theatre in Europe, with its original stage wall intact
 story: "Louis XIV called the towering stage wall 'the finest wall in my kingdom.' At 103 metres wide and 37 metres high, it is the only Roman theatre in the world to have kept its scaenae frons more or less complete — the niche above the central door still holds a 3.5-metre statue of the emperor Augustus."
+score: 9.4
 ---
 
 Built under the reign of Augustus in the first century AD, the **Théâtre Antique d'Orange** survived the centuries because it was repurposed as fortified housing in the Middle Ages — its stones never quarried, its great stage wall left intact. Today it is the only Roman theatre in Europe whose *scaenae frons* still stands at almost its original height, a vast screen of pierced niches, columns, and the central niche with its restored statue of Augustus, raised above the orchestra.

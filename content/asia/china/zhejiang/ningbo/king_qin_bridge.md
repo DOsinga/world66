@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8780
 longitude: 121.5290
+score: 7.6
 ---
 
 The Lingqiao area in northwestern central Ningbo is the city's best-preserved cluster of traditional commercial streets, with several blocks of Qing dynasty shophouses, tea houses, and craft workshops still functioning alongside newer businesses. The street pattern follows the original Tang dynasty grid and several of the buildings retain features — carved stone threshold blocks, folding timber shopfronts, courtyard arrangements — that date from Qing-era construction.

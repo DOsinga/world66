@@ -7,6 +7,7 @@ tags:
 - sight
 title: Gudiashvili Square
 type: poi
+score: 7.3
 ---
 
 Gudiashvili Square is one of the nicest spots in the old town — a small, slightly irregular square lined with 19th-century buildings, mature plane trees, and the Georgian State Art Museum at its edge. The scale is human and the atmosphere unhurried; locals sit at the outdoor tables of the cafes here, and the art museum's neoclassical facade provides a backdrop worth photographing.

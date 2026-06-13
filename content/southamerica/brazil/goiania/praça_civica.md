@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -16.6793
 longitude: -49.2534
+score: 7.9
 ---
 
 The Praça Cívica is the formal centrepiece of Goiânia's 1930s urban plan, a large formal square flanked by the state government palace, the cathedral, and matching Art Deco administrative buildings. The ensemble was designed as a monumental civic statement for the new capital of Goiás, and it succeeds — the proportion of the square and the consistency of the surrounding architecture create a genuinely imposing public space.

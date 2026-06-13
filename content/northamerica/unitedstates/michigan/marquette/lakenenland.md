@@ -12,6 +12,7 @@ tags:
 - sight
 title: Lakenenland
 type: poi
+score: 7.6
 ---
 
 Lakenenland is a free, open-air sculpture park about 15 miles east of Marquette,

@@ -12,6 +12,7 @@ story: >
   and Confucian temples have shared the same cliff face since the Ming dynasty. No single
   tradition dominates — they simply coexist, each occupying its own pavilion in a vertical
   stack of buildings pressed against the rock.
+score: 9.4
 ---
 
 The Qinglongdong Ancient Architectural Complex is the defining sight of Zhenyuan: a cascade of temples, pavilions, and academies built directly into and onto the north cliff of Mount Zhonghe, rising vertically above the south bank of the Wuyang River. The ensemble covers more than 3,000 square metres across 36 individual structures, most of them cantilevered out from the rock face or cut into it, connected by stairways and galleries that climb the cliff in stages. From the river or the south bank, the effect is extraordinary — a city of rooftiles and red columns emerging from bare limestone.

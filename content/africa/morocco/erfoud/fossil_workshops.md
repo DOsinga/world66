@@ -8,6 +8,7 @@ story: "The dark fossil-bearing limestone around Erfoud was deposited 400 millio
 tags:
 - things_to_do
 - sight
+score: 7.9
 ---
 
 The road south from Erfoud is dotted with fossil workshops where the local dark limestone — rich in 400-million-year-old marine fossils — is cut, polished, and sold. Macro Fossiles Kasbah is the largest and runs short guided tours that take you through the sawing yard, the polishing floor, and the showroom. You can watch ammonites and orthoceras emerge from the rock under the saws, and buy anything from a small polished slab to a full dining table.

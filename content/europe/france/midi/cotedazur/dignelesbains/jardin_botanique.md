@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0933
 longitude: 6.2364
+score: 5.9
 ---
 
 The Jardin Botanique des Cordeliers occupies the grounds of a former Franciscan convent in the centre of Digne, its walls enclosing a collection of some 400 plant species organised around the themes of the surrounding region — high-altitude flora from the Alpine zone, plants of the dry limestone garrigue, and species from the thermal springs. The garden is small enough to cover in an hour but well-maintained and genuinely interesting.

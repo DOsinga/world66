@@ -7,6 +7,7 @@ tags:
 latitude: 44.8497
 longitude: -0.5726
 snippet: The wine merchant quarter — 18th-century chais, antique dealers, and the best riverside walk
+score: 8.7
 ---
 
 The Chartrons was the neighbourhood where Bordeaux's wine trade was conducted for centuries — the great négociant families maintained their warehouses (chais) and offices here, and the quarter's architecture reflects that prosperity. Today it has become one of the most sought-after residential areas in the city, with antique dealers, wine bars, and the CAPC contemporary art museum occupying the old warehouse buildings along the river.

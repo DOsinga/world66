@@ -7,6 +7,7 @@ tags:
 title: Bophana Audiovisual Resource Center
 type: poi
 snippet: Archive and screening room recovering Cambodia's lost film heritage
+score: 6.1
 ---
 
 Set up in 2006 by filmmaker Rithy Panh, the Bophana Center collects, restores and screens audiovisual material from across Cambodian history — from royal court newsreels and Khmer Rouge propaganda to the music and films lost when intellectuals were systematically targeted in the 1970s. The centre is named after a young woman tortured and killed at S-21.

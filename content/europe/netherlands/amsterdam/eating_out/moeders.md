@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - jordaan
+score: 6.7
 ---
 
 A Jordaan institution whose walls are covered floor to ceiling in framed photographs of mothers — brought in over the years by customers who responded to an opening-week request. The food is old-fashioned Dutch: stamppot, hutspot, boiled beef, pea soup, and other dishes that take seriously the idea of cooking the way Dutch grandmothers did.

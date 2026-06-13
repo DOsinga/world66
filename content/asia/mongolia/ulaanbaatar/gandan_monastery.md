@@ -13,6 +13,7 @@ story: >
   as a Potemkin monastery for foreign visitors, with a handful of elderly monks as props. Gandan was that
   monastery. After 1990, real religious life returned. The 26-metre gilded statue of Avalokiteśvara
   completed in 1996 replaces the original, which the Soviets melted down in 1937 for ammunition.
+score: 8.8
 ---
 
 Gandantegchinlen Monastery — Gandan for short — is the most important Buddhist monastery in Mongolia and the religious heart of Ulaanbaatar. Founded in 1809 and largely destroyed under Soviet rule, it was the one monastery allowed to operate under communism (though in heavily restricted form). Since 1990 it has been restored and expanded, and now functions as a full religious community with several hundred monks in residence.

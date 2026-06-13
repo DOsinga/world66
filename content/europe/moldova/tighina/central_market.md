@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - shopping
 - market
+score: 6.5
 ---
 
 Bender's central market is a sprawling, slightly chaotic complex covering both an indoor hall and an outdoor area of stalls. As in most former-Soviet cities it is one of the best places to see ordinary life: traders sell vegetables and fruit from the surrounding countryside, fresh and smoked cheese, river fish from the Dniester, jars of preserves, and household goods. Prices are in Transnistrian roubles; small euro or dollar bills can sometimes be changed at the kiosks nearby.

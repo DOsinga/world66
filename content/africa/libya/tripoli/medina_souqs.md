@@ -13,6 +13,7 @@ story: >
   blacksmiths in another, leather-workers in a third — a system that survived largely intact
   until the mid-20th century. Today the divisions are less rigid, but older craftsmen in
   the metalwork lanes still work in the same family shops their grandfathers occupied.
+score: 8.6
 ---
 
 Tripoli's old medina contains a series of covered souqs running through its narrow lanes. The most interesting are the metalwork souqs near the Karamanli Mosque, where craftsmen hammer copper and brass into trays, pots, and decorative pieces. The Turk Market and Al-Mushir Market are the main trading centres, selling spices, fabrics, and everyday goods alongside craft items.

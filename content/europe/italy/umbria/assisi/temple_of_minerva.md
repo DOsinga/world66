@@ -9,6 +9,7 @@ tags:
 latitude: 43.0714
 longitude: 12.6147
 story: "Goethe, passing through in 1786, sought out the temple specifically — he called it the first really significant building of the ancient world he had seen, and went out of his way to find it while ignoring the Basilica di San Francesco entirely. He thought the Gothic basilica was barbaric."
+score: 8.1
 ---
 
 The temple stands directly on the main piazza of Assisi — a perfectly preserved Roman temple front of the first century BC, with six fluted Corinthian columns and a plain pediment, today fronting a small baroque church. It is one of the best-preserved Roman temple facades in Italy, surviving because it was converted into the church of Santa Maria sopra Minerva in 1539.

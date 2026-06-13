@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2360
 longitude: -117.0090
+score: 5.9
 ---
 
 Heap's Peak Arboretum is a small but rewarding nature area maintained by the US Forest Service on the south side of the San Bernardino Mountains, just west of the lake on Highway 18. A short loop trail of about a mile winds through a forest of giant sequoias, white firs, ponderosa pines, and black oaks, with interpretive signs identifying the trees and explaining the ecology of the mountain ecosystem.

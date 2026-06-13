@@ -14,6 +14,7 @@ tags:
 title: Castel Sant'Angelo
 type: poi
 url: www.castelsantangelo.beniculturali.it
+score: 8.3
 ---
 
 A cylindrical fortress on the Tiber built as a mausoleum for Emperor Hadrian in AD 139, converted in the Middle Ages into a papal stronghold and connected to the Vatican by an elevated passageway (the Passetto di Borgo) used by popes fleeing in emergencies. Now a museum with rooms ranging from Roman-era foundations to lavishly frescoed Renaissance papal apartments at the top.

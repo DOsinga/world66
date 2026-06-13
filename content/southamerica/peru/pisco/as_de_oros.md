@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -13.7095
 longitude: -76.2031
+score: 5.8
 ---
 
 As de Oros is one of the better-regarded seafood restaurants in central Pisco, reliable for the city's two signature dishes: ceviche and fried fish. The ceviche here is prepared in the local coastal style — white fish cured in lime, with thick-sliced onion, chilli, and a spoonful of creamy leche de tigre in the bowl. It's simple and good, and cheap by any measure.

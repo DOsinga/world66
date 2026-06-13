@@ -9,6 +9,7 @@ latitude: 55.2114
 longitude: -6.5792
 story: >
   In 1639, the kitchens of Dunluce Castle fell into the sea during a dinner party. The cliff they were built on simply gave way. Some accounts say servants were killed; others claim the kitchens fell empty. Either way, the Countess of Antrim refused to stay another night, and the castle was abandoned shortly afterward.
+score: 9.0
 ---
 
 Dunluce Castle is the most dramatically positioned ruin in Ireland: a medieval fortress on a basalt stack above the Atlantic, connected to the mainland by a narrow bridge, with sections of its walls already tumbled into the sea below. The ruined towers and curtain walls photograph well in almost any light and from almost any angle.

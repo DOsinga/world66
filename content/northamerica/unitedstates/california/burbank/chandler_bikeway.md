@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.1738
 longitude: -118.3147
+score: 6.2
 ---
 
 The Chandler Bikeway is a three-mile separated bike path running along the median of Chandler Boulevard through Burbank and into North Hollywood. It's flat, well-maintained, and largely separated from traffic, making it one of the more pleasant cycling routes in the valley — not a great natural landscape, but a genuinely useful and enjoyable urban trail.

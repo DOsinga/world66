@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 7.8639
 longitude: 123.5139
+score: 7.4
 ---
 
 Pulacan Falls is about twelve kilometres outside Pagadian in the neighbouring municipality of Labangan, on the road heading inland from the bay. The river drops in a wide white sheet over a rock shelf into a broad pool — not very tall, but powerful and photogenic, and big enough that the spray cools the whole valley.

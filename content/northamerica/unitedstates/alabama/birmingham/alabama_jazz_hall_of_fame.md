@@ -8,6 +8,7 @@ tags:
 - museum
 title: Alabama Jazz Hall of Fame
 type: poi
+score: 6.7
 ---
 
 Founded in 1978, the hall honors musicians with ties to Alabama -- Lionel Hampton, Nat King Cole, Duke Ellington, Ella Fitzgerald, Sun Ra, and Dinah Washington among them. Housed in the historic Carver Theatre downtown, it is a good stop for jazz lovers and anyone interested in the state's deep musical roots.

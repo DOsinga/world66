@@ -12,6 +12,7 @@ story: >
   Igilgili's layered past is easy to miss because modern Jijel has grown over
   much of it. The name itself preserves a deeper coastal history, reaching back
   through Roman, Carthaginian, and Phoenician phases before the modern port.
+score: 5.4
 ---
 
 Igilgili was the ancient settlement on the site of modern Jijel, used by Phoenicians and Carthaginians before becoming part of the Roman world. Little of it presents itself as a tidy archaeological park today, but the name gives the city a depth that the busy modern waterfront does not immediately reveal.

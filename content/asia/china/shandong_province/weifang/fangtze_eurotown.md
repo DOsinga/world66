@@ -9,6 +9,7 @@ latitude: 36.6500
 longitude: 119.0800
 story: >
   Weifang was occupied first by Germany (1898–1914) and then by Japan (1914–1922) during the colonial period — an unusual double occupation that left architectural traces from two quite different imperial traditions. The German buildings tend toward the heavier Wilhelmine civic style; the Japanese additions are lighter and more eclectic. Walking through the surviving streets, you can read the succession of colonial powers from the buildings themselves.
+score: 7.6
 ---
 
 Fangtze Eurotown is a district in southern Weifang that preserves around 160 buildings from the German and Japanese colonial periods in various states of restoration. The German presence here was part of the broader Jiaozhou leasehold — Qingdao got the port and the famous brewery, while Weifang got a railway junction and the industrial infrastructure that went with it.

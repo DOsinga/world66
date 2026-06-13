@@ -11,6 +11,7 @@ title: Norbulingka
 type: poi
 story: >
   On 17 March 1959, with Chinese tanks ringing the Norbulingka, the 14th Dalai Lama slipped out of the palace in disguise, crossed the Kyichu River at night, and began the two-week escape over the Himalaya to India. The room where he made the decision is still shown to visitors.
+score: 8.3
 ---
 
 Norbulingka — "Jewelled Park" — is the summer palace of the Dalai Lamas, a walled compound of pavilions, ponds and gardens on the western edge of Lhasa. The seventh Dalai Lama built the original residence in 1755 as a summer retreat from the dry austerity of the Potala; successive Dalai Lamas added their own palaces, each one slightly more grand than the last.

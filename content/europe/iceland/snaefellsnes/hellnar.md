@@ -16,6 +16,7 @@ story: >
   Icelandic novel.
 sources:
   - https://en.wikipedia.org/wiki/Hellnar
+score: 7.8
 ---
 
 Hellnar is a tiny, ancient fishing village at the western end of the Arnarstapi coastal walk, with a harbour sheltered by a natural basalt breakwater and a small cafe that serves the best soup in Iceland on cold afternoons. The village is old by Icelandic standards — fishing was practised here for centuries before the peninsula's population shifted inland — and the arrangement of old turf-walled fishing huts alongside the modern cafe has a genuine lived-in quality.

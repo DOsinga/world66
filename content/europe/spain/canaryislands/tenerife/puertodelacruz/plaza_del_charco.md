@@ -7,6 +7,7 @@ longitude: -16.5489
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 Plaza del Charco — named for a small tidal pool (charco) that once occupied the site — is the social heart of Puerto de la Cruz. The square is shaded by a ring of large Indian laurel trees and surrounded by traditional Canarian buildings, cafes, and restaurants. In the evenings it fills with locals and visitors alike, and on weekends the terrace bars are busy well into the night.

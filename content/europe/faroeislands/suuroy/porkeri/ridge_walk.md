@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 61.4840
 longitude: -6.7400
+score: 7.6
 ---
 
 The hillside rising steeply behind Porkeri rewards the climb with views along the entire east coast of [Suðuroy](/europe/faroeislands/suuroy). On a clear day you can see north to [Hov](/europe/faroeislands/suuroy/hov) and south to [Vágur](/europe/faroeislands/suuroy/vgur), with the Vágur fjord opening up to the west. The ridge connects the village to the tracks that cross the spine of the island.

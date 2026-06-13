@@ -8,6 +8,7 @@ tags:
 - sight
 - cidade_baixa
 snippet: 18th-century church on the lower-city waterfront
+score: 7.6
 ---
 
 The 18th-century church of Nossa Senhora da Conceição da Praia sits at the foot of the bluff just south of the Lacerda Elevator, in the Cidade Baixa. It is one of the more graceful baroque exteriors in the city — twin towers, blue-and-white tile panels — and contains a marble image of the Virgin shipped from Lisbon in 1736.

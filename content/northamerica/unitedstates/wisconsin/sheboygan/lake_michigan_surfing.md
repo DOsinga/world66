@@ -8,6 +8,7 @@ latitude: 43.7508
 longitude: -87.7145
 story: >
   Sheboygan has hosted the Fresh Coast Classic surf competition, a national contest on Lake Michigan that draws competitors from across the Great Lakes region. The waves here form from wind-driven fetch across hundreds of miles of open water — technically a different mechanism than ocean swell, but the result in a good November storm is waves that challenge even experienced surfers.
+score: 7.6
 ---
 
 Sheboygan has earned the nickname "Malibu of the Midwest" for its surfing, and unlike most Midwest superlatives, this one is reasonably justified. Lake Michigan's long fetch from the north creates real waves during autumn and winter storms — September through November is prime season, with the best days arriving unpredictably after major weather systems cross the lake.

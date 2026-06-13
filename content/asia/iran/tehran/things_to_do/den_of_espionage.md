@@ -9,6 +9,7 @@ latitude: 35.7134
 longitude: 51.4247
 story: >
   On 4 November 1979, student followers of Ayatollah Khomeini stormed the US Embassy compound and took 66 American diplomats and staff hostage. The hostage crisis lasted 444 days — the longest hostage crisis in modern diplomatic history — and ended only on 20 January 1981, minutes after Ronald Reagan was inaugurated as President. The walls of the compound were painted with the murals that became the defining visual imagery of the Iranian Revolution. Those murals, still vivid, are the main attraction.
+score: 7.8
 ---
 
 The former US Embassy on Taleghani Avenue — renamed "Den of Espionage" after the 1979 crisis — is the most historically charged building in Tehran. It has been preserved largely as the students found it when they stormed the compound: the communications equipment, the safes, the shredded documents painstakingly reassembled by Islamic Revolutionary Guard intelligence officers, and the ambassador's residence with its pool and gym that became evidence of American excess in revolutionary propaganda.

@@ -13,6 +13,7 @@ story: >
   repeatedly circulated on social media as photos of a real person, causing repeated
   fact-checking debunks. Monteverde went on to produce other acclaimed funerary works,
   but this one is his masterpiece.
+score: 8.2
 ---
 
 The single most famous object in Staglieno Cemetery — and possibly the most extraordinary piece of 19th-century funerary sculpture in existence — the Monteverde Angel marks the tomb of Oneto family. Carved in 1882 from white Carrara marble, the kneeling angel looks up with an expression of such naturalness and longing that the illusion of life is almost perfect.

@@ -9,6 +9,7 @@ tags:
 title: La Mer Restaurant
 type: poi
 zipcode: Khao Takiab Hua Hin
+score: 5.4
 ---
 
 At the top of Khao Takiab, 10 minutes from downtown Hua Hin, excellent seafood and very pleasant atmosphere, simply amazing views across the coast of Hua Hin and onwards to Cha Am and over the Gulf of Thailand.

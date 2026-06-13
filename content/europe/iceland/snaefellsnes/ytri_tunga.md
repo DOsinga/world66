@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 64.8447
 longitude: -22.9997
+score: 7.5
 ---
 
 Ytri-Tunga is a small beach on the south coast of Snæfellsnes that is one of the most reliable places in Iceland to see grey seals at close range. The animals haul out on the rocks at the beach year-round, and at low tide twenty or more seals may be resting on the flat rocks within metres of the shoreline path. They are entirely unbothered by visitors who approach quietly.

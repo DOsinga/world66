@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.1917
 longitude: 119.9972
+score: 4.8
 ---
 
 Lucap Wharf is the embarkation point for all island-hopping trips in the Hundred Islands. The wharf sits at Barangay Lucap, about 3 kilometres west of the Alaminos city centre, and is reached by tricycle in under ten minutes. A cluster of small restaurants and souvenir stalls lines the road leading down to the waterfront.

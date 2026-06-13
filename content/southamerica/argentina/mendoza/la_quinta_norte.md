@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: Northern residential and commercial district with local market life
+score: 4.6
 ---
 
 Las Heras is the northern district of greater Mendoza, a municipality in its own right that blends into the city to the south. The commercial streets around the Las Heras centre give a picture of ordinary Mendoza life away from the tourist circuit — markets, small cafés, neighbourhood restaurants — without the polish of the city centre.

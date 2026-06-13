@@ -8,6 +8,7 @@ tags:
 - nature
 title: Monogaga Beach
 type: poi
+score: 7.2
 ---
 
 Monogaga is a coastal area about 10km east of San-Pédro's centre, where a classified forest meets the Atlantic. The beach here is backed by forest rather than development, giving it a more natural character than the beaches directly adjacent to the city. A lagoon system runs parallel to the shore, separated from the ocean by a narrow strip of sand, and local fishermen work the still waters in dugout canoes.

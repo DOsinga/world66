@@ -14,6 +14,7 @@ story: >
   The eyes painted on the four sides of the stupa's tower gaze out in all directions, watching
   over the valley. They represent the all-seeing eyes of the Buddha; the squiggle below
   them is not a nose but the Nepali numeral "1," representing the unity of all things.
+score: 9.5
 ---
 
 The stupa of Swayambhunath rises from a hill about 3 km west of Thamel, approached by a steep flight of 365 steps lined with carved figures and prayer flags. The hilltop complex is one of the most sacred Buddhist sites in Nepal and one of the oldest religious monuments in the Kathmandu Valley — inscriptions date to the 5th century AD, though the site is certainly older. It is also home to a large and entirely uninhibited population of rhesus macaques, which gives the site its English nickname.

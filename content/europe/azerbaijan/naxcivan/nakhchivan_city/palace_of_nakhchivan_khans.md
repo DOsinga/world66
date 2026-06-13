@@ -11,6 +11,7 @@ tags:
 - museum
 - sight
 story: The palace was the residence of the khans who ruled Nakhchivan as a semi-independent state in the late 18th and early 19th centuries before Russian annexation. It is one of the few intact palatial buildings to survive from that period in the region, and its restoration in the 2000s saved a rare example of pre-Russian Azerbaijani civic architecture.
+score: 7.8
 ---
 
 The Palace of the Nakhchivan Khans is an 18th-century building that served as the residence of the khans who ruled the short-lived Nakhchivan Khanate from 1747 until Russian annexation in 1828. It is a two-storey structure with arcaded galleries and a tiled roof, typical of late-period Persianate court architecture in the South Caucasus.

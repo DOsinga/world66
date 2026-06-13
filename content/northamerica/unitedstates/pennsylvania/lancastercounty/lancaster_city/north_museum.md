@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.0451
 longitude: -76.3134
+score: 6.3
 ---
 
 The North Museum, on the campus of Franklin and Marshall College a short drive north of downtown, is Lancaster's natural history and science museum. The collection covers regional geology, Native American archaeology, taxidermied wildlife of the Susquehanna Valley, and a small but well-restored planetarium.

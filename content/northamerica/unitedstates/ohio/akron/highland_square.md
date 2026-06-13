@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.0795
 longitude: -81.5444
+score: 6.5
 ---
 
 Highland Square is the small commercial strip on West Market Street, about two miles west of downtown, that functions as Akron's bohemian / independent neighbourhood. The mix is what you would expect — used bookstores, vintage clothes, a couple of vegetarian-friendly restaurants, a yoga studio, a tattoo parlour, an art-house cinema (the restored Highland Theatre), and several bars where you can get a decent local beer and a vinyl set after dark.

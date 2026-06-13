@@ -9,6 +9,7 @@ latitude: 31.7386
 longitude: -106.4869
 story: >
   The cathedral stands on the north side of Plaza de Armas, the same plaza where Mexican and American representatives signed the Tratados de Ciudad Juárez in May 1911, ending the first phase of the Mexican Revolution. The peace lasted only weeks — but the building has stood ever since.
+score: 6.9
 ---
 
 The Cathedral of Our Lady of Guadalupe anchors the historic Plaza de Armas at the centre of the old city. The current structure dates primarily from the late nineteenth century, though a church has stood on this site since Spanish colonial times. Its yellow façade and twin bell towers are the most recognizable silhouette in downtown Juárez.

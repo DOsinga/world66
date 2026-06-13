@@ -7,6 +7,7 @@ tags:
 latitude: 0.3181
 longitude: 32.5822
 snippet: Central fresh produce market; the best place to buy Ugandan fruit and vegetables
+score: 6.4
 ---
 
 Nakasero Market occupies a hillside in central Kampala and is where much of the city's food supply passes through. It is large, chaotic, and worth at least a wander. The produce stalls sell pineapples, passion fruit, jackfruit, plantain, avocado, and the full range of Ugandan vegetables. The spice section is good. Small stalls around the edges serve rolex, mandazi (fried dough), and simple cooked food.

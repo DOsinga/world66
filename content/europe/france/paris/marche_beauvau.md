@@ -9,6 +9,7 @@ tags:
 - market
 title: Marché Beauvau and Marché d'Aligre
 type: poi
+score: 8.1
 ---
 
 The Marché d'Aligre is the best open-air market in Paris — loud, crowded, and genuinely used by the neighbourhood rather than curated for tourists. The outdoor section, in Place d'Aligre, sells vegetables, fruit, and cheap second-hand goods. The covered Marché Beauvau alongside it has excellent cheese, charcuterie, and prepared foods.

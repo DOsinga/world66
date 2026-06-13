@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
   - bar
+score: 6.0
 ---
 
 A traditional brewpub on the Stadtplatz, with its own beer on tap and a kitchen turning out Schnitzel, dumplings, and seasonal Upper Austrian dishes. The vaulted cellars below the building are part of Steyr's medieval substructure; the beer garden at the back faces away from the square.

@@ -8,6 +8,7 @@ latitude: 22.5084
 longitude: 72.2399
 sources:
   - https://en.wikipedia.org/wiki/National_Maritime_Heritage_Complex
+score: 5.6
 ---
 
 About 2 km from the main Lothal site, the National Maritime Heritage Complex is an ambitious under-construction visitor attraction intended to tell the story of India's maritime history from the Indus Valley period to the present. When complete, it will include a reconstruction of the Lothal dockyard, a lighthouse, themed pavilions on different eras of seafaring, and a maritime museum.

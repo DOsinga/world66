@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.1495
 longitude: -120.1576
+score: 7.2
 ---
 
 The breakfast institution of the north shore, three miles south of Tahoe City in Sunnyside. Fire Sign has been serving since 1978 and the queue out the door on a Saturday morning is part of the experience. The pancakes, the smoked salmon Benedict, and the chorizo scramble are the orders that have kept people coming back for decades.

@@ -7,6 +7,7 @@ snippet: "Family-friendly open-air cenote with a zipline"
 tags:
 - things_to_do
 - sight
+score: 6.1
 ---
 
 Of the cenotes within easy reach of Tulum, Zacil-Ha is the most relaxed — and the most popular with families. The pool is wide, shallow at the edges and deeper in the centre, ringed by a small wooden deck. A modest zipline crosses the water at one end, and there is a small swimming pool alongside, plus changing rooms, restrooms, and a poolside snack bar.

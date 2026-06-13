@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Lake_Asale
 story: >
   The salt trade at Lake Asale (also called Lake Karum or Gaet'ale in different sources) has been running without interruption for at least 3,500 years, documented in ancient Ethiopian texts. The same manual process — Afar miners using wooden handles and broad blades to cut rectangular blocks of salt, loading them onto camels, and walking the five-day route to Mekele — has continued essentially unchanged since antiquity. The caravans can carry between 50,000 and 100,000 tonnes of salt per year.
+score: 8.8
 ---
 
 Lake Asale is a hypersaline lake at 116 metres below sea level, one of the lowest points in Africa, covered in a thick crust of crystallised salt that extends for kilometres in every direction. The salt here is extraordinarily pure — the result of repeated evaporation cycles over millions of years — and has been harvested for trade since ancient times.

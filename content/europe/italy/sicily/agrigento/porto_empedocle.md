@@ -14,6 +14,7 @@ story: >
   of the TV series, which was actually filmed mainly around Ragusa to the east.
 sources:
   - https://en.wikipedia.org/wiki/Porto_Empedocle
+score: 5.5
 ---
 
 Porto Empedocle is Agrigento's port, about 8 kilometres south on the coast, and it has the honest, working feel of an actual harbour rather than a tourist destination. The ferry to Lampedusa and the other Pelagian Islands departs from here, and the docks have a serious shipping traffic that keeps the town anchored to real economic life. The harbour promenade is pleasant enough for a walk, with the old watch tower at its end.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.7
 ---
 
 Long Bay on the west end of Tortola lives up to its name — a kilometre and a half of pale sand, open to the trade winds and the swell, and quieter than Cane Garden Bay despite being arguably as beautiful. The beach is backed by low scrub and a single hotel; the swimming is good but the surf can be lively in winter.

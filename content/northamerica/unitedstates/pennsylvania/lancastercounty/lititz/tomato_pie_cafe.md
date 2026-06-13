@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 40.1548
 longitude: -76.3037
+score: 5.5
 ---
 
 A small breakfast-and-lunch spot on East Main Street known for its signature Pennsylvania tomato pie — a cold square of focaccia-like bread topped with a cooked tomato sauce and herbs, served as a snack or a side. The wider menu is sandwiches, soups, and salads, all simple and well executed.

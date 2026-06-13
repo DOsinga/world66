@@ -8,6 +8,7 @@ tags:
 - museum
 title: Courtenay and District Museum
 type: poi
+score: 6.9
 ---
 
 The valley's mainstream history museum, housed in the old post office on Cliffe Avenue. The headline exhibit is the skeleton of a 12-metre elasmosaur — a Cretaceous marine reptile dug out of the riverbank in 1988 — but the local history galleries on the K'omoks First Nation, the coal era, and the Filberg lumber empire are all worth time.

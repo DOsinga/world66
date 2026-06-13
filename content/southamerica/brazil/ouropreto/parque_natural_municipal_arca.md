@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Hillside park north of town with a waterfall and the source of the Rio das Velhas"
+score: 7.2
 ---
 
 A protected area on the high ridge above Ouro Preto, reached by a winding road through eucalyptus plantations. The main draw is the Cachoeira das Andorinhas — a 15-metre waterfall named for the swallows that nest in its rock faces — and a series of marked walking trails.

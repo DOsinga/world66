@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 55.70939
 longitude: 9.55635
+score: 6.9
 ---
 
 Vejle's most photographed building sits on the eastern waterfront at Tirsbæk, a few kilometres from the town centre. Bølgen — Danish for "the wave" — is a residential complex of 114 apartments designed by the architecture firm Henning Larsen, completed in 2012. The building undulates along the fjord edge in a continuous wave form, its white facades curving and tilting in a way that catches light differently throughout the day.

@@ -11,6 +11,7 @@ tags:
 title: Impression 5 Science Center
 type: poi
 url: www.impression5.org
+score: 6.8
 ---
 
 A hands-on science center aimed at kids but enjoyable for all ages. Make slime in the Chemistry Lab, capture your shadow, or tinker with mechanical toys. Located on Museum Drive near the Grand River.

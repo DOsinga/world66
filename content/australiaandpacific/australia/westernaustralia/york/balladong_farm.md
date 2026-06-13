@@ -9,6 +9,7 @@ latitude: -31.8855
 longitude: 116.7663
 sources:
   - https://en.wikipedia.org/wiki/York,_Western_Australia
+score: 6.8
 ---
 
 Balladong Farm is a colonial-era property on the edge of town that has been preserved as a working heritage farm. Established in the 1830s — one of the earliest farms in the Avon Valley — it retains original stone buildings, outhouses, and farm infrastructure that give a concrete sense of what early settler agriculture looked like in Western Australia.

@@ -9,6 +9,7 @@ tags:
 - theatre
 title: Stanislavsky and Nemirovich-Danchenko Music Theatre
 type: poi
+score: 8.3
 ---
 
 The Stanislavsky and Nemirovich-Danchenko Music Theatre on Bolshaya Dmitrovka 17 is Moscow's other great opera and ballet house — less famous than the Bolshoi just down the road, but with a strong reputation for adventurous programming and modern choreography. The company performs both classical repertoire (Swan Lake, Don Quixote) and contemporary works, and tickets are considerably easier to get than at the Bolshoi.

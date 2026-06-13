@@ -13,6 +13,7 @@ tags:
 - sight
 title: Hershey's Chocolate World
 type: poi
+score: 6.5
 ---
 
 The free factory ride takes you through the chocolate-making process from cacao bean to finished bar, ending with a free sample. Beyond the ride there are paid experiences — chocolate tastings, create-your-own candy bar, a 4D movie — but the ride itself is worth stopping for even if you skip everything else. Located next to Hersheypark.

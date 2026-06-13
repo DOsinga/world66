@@ -7,6 +7,7 @@ tags:
 - sight
 title: Howard Knob
 type: poi
+score: 7.4
 ---
 
 Howard's Knob is the prominent rocky outcrop visible directly above downtown Boone. At 4,400 feet it rises about a thousand feet above the town, and a small county park at the summit gives you the easiest panoramic view of the area. The drive up the access road is short and steep; from the parking lot a five-minute walk reaches the overlook.

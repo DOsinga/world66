@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.2582
 longitude: 10.9646
+score: 7.9
 ---
 
 Coburg's market square is one of the most harmonious in Franconia — a wide, cobbled rectangle flanked by well-preserved Renaissance and Baroque townhouses, with the imposing town hall at one end and the bronze statue of Prince Albert of Saxe-Coburg watching over the centre. The square has been the heart of public life in Coburg for centuries, and it functions that way still: markets, festivals, and the daily passage of the town's residents.

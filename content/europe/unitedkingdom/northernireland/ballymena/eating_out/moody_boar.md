@@ -1,6 +1,7 @@
 ---
 title: "The Moody Boar"
 type: poi
+score: 5.2
 ---
 
 The Moody Boar on Wellington Street is one of the more popular casual dining options in the town centre — a relaxed, gastropub-style place serving steaks, burgers, and grilled meat alongside a broader menu. It operates both as a bar and a restaurant, which means it stays busy in the evenings and has a livelier atmosphere than most of the town's more formal options.

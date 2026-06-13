@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.9935
 longitude: -7.3260
+score: 8.7
 ---
 
 The twelve murals on the gable walls of the Bogside are known collectively as the People's Gallery, painted by the Bogside Artists — brothers Tom and William Kelly and their friend Kevin Hasson — between 1994 and 2008. They are among the most significant examples of political street art in Europe.

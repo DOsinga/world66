@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Delft research reactor was built in 1963 as part of Eisenhower's "Atoms for Peace" programme, which sought to demonstrate that nuclear technology could serve peaceful purposes after the terror of Hiroshima and Nagasaki. The reactor is still operating — making it one of the longest-running research reactors in the world — and has never been used for anything other than scientific research and medical isotope production.
+score: 6.1
 ---
 
 A working nuclear research reactor operated by the Delft University of Technology, used for materials research, production of medical isotopes, and neutron studies. The Reactor Institute is not a conventional tourist attraction, but it occupies an interesting place in the history of science and in the oddities of Delft — a medieval canal city with a working reactor in its southern suburbs.

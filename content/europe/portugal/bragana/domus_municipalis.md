@@ -10,6 +10,7 @@ longitude: -6.74887778
 story: "The Domus Municipalis is the only surviving example of a Romanesque civic meeting house in Portugal, and one of very few in the Iberian Peninsula. It dates from the 12th or 13th century and served as the council chamber for the citadel community. The pentagonal form, with its arcade of Romanesque arches, was designed to collect rainwater in a cistern beneath — practical as much as ceremonial."
 sources:
   - https://en.wikipedia.org/wiki/Domus_Municipalis
+score: 8.2
 ---
 
 The Domus Municipalis is the most architecturally remarkable building inside Bragança's citadel, and arguably in the city. This 12th-century Romanesque hall served as the meeting place for the citadel's governing council, and is one of the rarest surviving examples of civic Romanesque architecture in the Iberian Peninsula.

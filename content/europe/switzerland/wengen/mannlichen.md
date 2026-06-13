@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Männlichen cable car from Wengen, opened in 1978, was for years the longest single-span aerial cableway in Europe. From the top, on a clear day, the Eiger, Mönch, and Jungfrau line up almost in profile — the classic image of the Bernese Alps."
+score: 8.7
 ---
 
 A ten-minute cable-car ride from the edge of Wengen reaches the Männlichen at 2,343 metres. The top station sits on a broad grass saddle with a 360-degree view: across the valley to the Eiger north face, south to the Jungfraujoch, west towards the Brienzersee. There is a restaurant, a kids' play area, and a small chapel.

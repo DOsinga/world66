@@ -10,6 +10,7 @@ address: "Douaumont, 55100 Verdun"
 latitude: 49.2221
 longitude: 5.4304
 story: "On 25 February 1916, four days into the battle, a single German pioneer sergeant and a small group walked into the fort almost unopposed — the French garrison had been reduced to a skeleton crew. Its loss was a national humiliation; the recapture of the fort the following October became the defining symbol of French perseverance at Verdun."
+score: 9.1
 ---
 
 The largest and highest of the ring of 19 forts built to defend Verdun, Fort de Douaumont was captured by the Germans early in the 1916 battle and became a symbol of the struggle. It changed hands by stealth, not assault: when it was retaken in October 1916 by Moroccan troops, a key chapter of the battle was closed.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 23.8300
 longitude: 91.9200
+score: 6.9
 ---
 
 Dumboor Lake is a large, island-dotted reservoir in eastern Tripura, shaped by the Gomati hydel project and surrounded by forested hills. It is one of the state's best places for a slow boat ride and a sense of space.

@@ -8,6 +8,7 @@ latitude: 31.4328
 longitude: 120.2456
 story: >
   Turtle Head Isle takes its name from a rocky peninsula that early visitors decided resembled a turtle's head pushing into the water. In spring the peninsula is carpeted with thousands of cherry trees that bloom simultaneously — the largest cherry blossom display in China — a tradition started when Japanese businessmen gifted trees in the early twentieth century.
+score: 8.5
 ---
 
 Turtle Head Isle is the most visited part of Lake Tai's Wuxi shoreline — a long peninsula of gardens and pavilions jutting into the water, with good views of the offshore islands. The entrance is set back from the water, and the walk through the forested grounds to reach the lakeside pavilions takes twenty minutes and passes through well-tended gardens.

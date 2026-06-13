@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 41.0169
 longitude: 28.9706
+score: 7.2
 ---
 
 The fish sandwich boats moored at Eminönü are one of Istanbul's most reliable cheap meals. Balık ekmek — fresh mackerel grilled on a rocking boat, served on a half-baguette with lettuce, onion, and a squeeze of lemon — costs almost nothing and takes about two minutes to make. The boats have been here for decades; they swing and sway as the cooks work, which is part of the show.

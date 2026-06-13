@@ -7,6 +7,7 @@ tags:
 latitude: 33.4602
 longitude: -117.6914
 story: "Catalina Island, 22 miles offshore from Dana Point, was bought outright by the chewing-gum magnate William Wrigley Jr. in 1919; his family owned roughly 88% of it until 1975, when it was placed into a permanent conservancy. Today 88% of the island remains undeveloped — a near-impossible feat for a piece of land an hour off the coast of Los Angeles."
+score: 6.3
 ---
 
 The Catalina Express ferry runs from Dana Point Harbor to Avalon on Catalina Island, roughly 90 minutes each way. It is the most practical jumping-off point on the southern Orange County coast, especially for visitors who do not want to deal with Long Beach traffic. Boats run two to three times daily in summer, less frequently in winter.

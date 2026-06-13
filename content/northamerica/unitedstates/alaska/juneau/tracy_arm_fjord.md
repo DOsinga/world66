@@ -9,6 +9,7 @@ latitude: 57.8717
 longitude: -133.5758
 story: >
   Tracy Arm and the adjacent Endicott Arm were carved by glaciers advancing and retreating over thousands of years. The walls are so steep that direct sunlight reaches the water for only a few hours a day, keeping the fjord unusually cold even in summer. The twin Sawyer Glaciers at the head of the fjord — North Sawyer and South Sawyer — are both still active tidewater glaciers, calving icebergs directly into the water.
+score: 9.1
 ---
 
 Tracy Arm Fjord is one of the most dramatic day trips from Juneau — a 30-mile-long glacially carved canyon about 45 miles south of the city, with walls of polished granite rising 2,000 to 3,000 feet from the water's edge. At the head of the fjord, the twin Sawyer Glaciers calve icebergs directly into the sea. The water between them is often thick with brash ice, bergs, and the occasional piece of glacial blue the size of a house.

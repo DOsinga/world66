@@ -7,6 +7,7 @@ tags:
 latitude: 42.4918
 longitude: 78.3955
 snippet: Popular trekker hangout with good coffee, noticeboard, and local Kyrgyz food
+score: 5.7
 ---
 
 Cafe Fatima is one of the liveliest spots in central Karakol, particularly in summer when the tables out front fill with trekkers swapping trail notes and guides touting their services. The coffee is decent — ground in house and served in proper cups — and the menu ranges from Kyrgyz staples like borscht and manti to omelettes and toast for travellers craving something familiar.

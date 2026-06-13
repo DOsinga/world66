@@ -13,6 +13,7 @@ story: >
   The rest of the year, the temple's gilded roofs are visible from throughout Durbar Square
   but the gates remain firmly shut. The goddess Taleju is the royal protective deity
   of the Malla dynasty — powerful enough to require such limits on access.
+score: 7.2
 ---
 
 The Taleju Temple is the tallest structure in Durbar Square, a three-storey pagoda built in 1564 by King Mahendra Malla and rising to 35 metres. It is dedicated to the royal goddess Taleju, who was imported from South India and became the tutelary deity of the Malla kings. The top tier carries the golden roof that catches the light in the afternoons and is visible from across the square.

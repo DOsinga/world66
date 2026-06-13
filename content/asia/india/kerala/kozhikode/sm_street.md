@@ -10,6 +10,7 @@ tags:
 - sight
 - shopping
 story: "SM Street's older name is Mittai Theruvu — 'Sweet Street' — for the dozens of shops once selling Kozhikode halwa, the city's chewy rice-flour-and-jaggery confection. The trade rose in the 17th century when Gujarati traders settled here. Today the surviving halwa shops sit between gold showrooms and mobile-phone stores."
+score: 8.1
 ---
 
 SM Street, officially Sweet Meat Street, is the great commercial spine of Kozhikode's old centre. It is lined for almost a kilometre with halwa shops, banian-shirt-and-mundu shops, bakeries, gold jewellery showrooms and tiny restaurants. The pedestrianisation in the late 2010s cleared out the worst of the traffic and made it one of the few south Indian shopping streets you can actually walk on.

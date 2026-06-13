@@ -8,6 +8,7 @@ latitude: 58.5883
 longitude: 16.1841
 story: >
   The dome cinema at Visualiseringscenter C uses a system of 8 overlapping projectors to cover a full hemispherical screen 13 metres in diameter. Films can simulate conditions inside a tornado, at the edge of a galaxy, or deep inside a living cell — it is one of only a handful of such installations in Scandinavia.
+score: 7.4
 ---
 
 Visualiseringscenter C is a science and technology museum built around a full-dome cinema, located in the old Holmen mill buildings in the Industrilandskapet. The museum is a collaboration between Linköping University, the city of Norrköping, and several research institutes, and explores how scientific data is turned into visual form.

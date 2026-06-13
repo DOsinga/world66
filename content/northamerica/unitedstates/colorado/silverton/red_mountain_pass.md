@@ -8,6 +8,7 @@ tags:
 - nature
 title: Red Mountain Pass
 type: poi
+score: 7.7
 ---
 
 Red Mountain Pass fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

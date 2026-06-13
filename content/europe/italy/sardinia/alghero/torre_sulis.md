@@ -10,6 +10,7 @@ tags:
 title: Torre di Sulis
 type: poi
 story: "The tower takes its name from Vincenzo Sulis, a Sardinian patriot who organised resistance to French invasion in 1793 and was later imprisoned here by the Piedmontese for twenty-two years. He used his cell walls to teach himself Italian."
+score: 7.0
 ---
 
 Torre di Sulis is the tallest and most substantial of Alghero's surviving towers — a 23-metre cylindrical structure built in the 14th century at the south corner of the city walls. It served first as a defensive bastion, later as a prison, and is now a small exhibition space hosting rotating contemporary art shows on three floors connected by a stone spiral staircase.

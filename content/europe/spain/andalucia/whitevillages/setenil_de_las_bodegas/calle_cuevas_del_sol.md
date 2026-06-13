@@ -11,6 +11,7 @@ story: "The street's name is literal: this is the sunny side of Setenil's cave q
 sources:
   - https://turismodesetenil.com/en/que-visitar/
   - https://lospueblosmasbonitosdeespana.org/pueblos/setenil-de-las-bodegas/pois/calles-cuevas-del-sol-y-cuevas-de-la-sombra
+score: 8.8
 ---
 
 Calle Cuevas del Sol is the postcard street of Setenil, where white façades are pressed directly under the limestone overhang. It is busy, yes, but it is also genuinely astonishing: the rock is not decoration, it is the roof.

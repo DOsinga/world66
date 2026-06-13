@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - town
+score: 5.9
 ---
 
 Nanyuki is the larger town up the road from Naro Moru, about 30 kilometres north, and the alternative base for climbers using the Sirimon route up Mount Kenya. It sits right on the equator — the line is marked by a sign on the main road where touts demonstrate the Coriolis effect with bowls of water for tips.

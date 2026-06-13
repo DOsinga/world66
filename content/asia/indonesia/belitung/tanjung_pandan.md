@@ -7,6 +7,7 @@ tags:
 latitude: -2.7380
 longitude: 107.6176
 snippet: The island's main town, with a colonial Chinese shophouse district and the main market
+score: 5.8
 ---
 
 Tanjung Pandan is Belitung's main town and the practical base for visiting the island. It is not a destination in itself, but the town centre has some character: a compact district of Chinese shophouses from the colonial tin-mining era lines the main street, and the waterfront market is lively in the early morning. Most restaurants, guesthouses, and tour operators are based here.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Colonial central square with the Republic-era Casa de la Logia"
 latitude: -6.7004
 longitude: -79.9055
+score: 5.6
 ---
 
 Lambayeque's main square is quiet and unhurried — a pleasant contrast to the busier plaza in Chiclayo. Colonial and Republic-era buildings line the square, and it is an agreeable place to sit and watch the town go about its business after a morning in the museums.

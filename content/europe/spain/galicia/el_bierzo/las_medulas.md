@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Pliny the Elder, who was procurator of the region, described the technique used here in 79 AD: vast tunnels were dug into the mountain, filled with water from aqueducts running down from the Cabrera mountains, and then released in a single torrent that washed entire hillsides away. He called the operation 'ruina montium' — the wrecking of mountains. Some 250 years of mining yielded perhaps a million kilograms of gold and left this landscape behind."
+score: 9.7
 ---
 
 Las Médulas is the most spectacular Roman engineering relic in Spain and one of the strangest landscapes in Europe — a moonscape of red sandstone pinnacles, caves and gullies created by hydraulic gold mining on a colossal scale. From the first century AD, Roman engineers undermined whole mountains by flushing them with water diverted through aqueducts from up to 100 kilometres away. When the operation closed, around the third century, what was left was a chaos of crumbled cliffs, now thickly forested with sweet chestnut.

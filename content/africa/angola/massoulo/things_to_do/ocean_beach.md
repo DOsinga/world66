@@ -1,6 +1,7 @@
 ---
 title: "Ocean Beach"
 type: poi
+score: 6.4
 ---
 
 A short walk across the island's narrow width brings you to the Atlantic-facing shore. The contrast with the lagoon side is immediate: the sand here is wilder and broader, the surf rolls in steadily from the open ocean, and the beach is far less populated. Swimming in the ocean surf requires more confidence and caution, especially during the wet season when swells are higher.

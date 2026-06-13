@@ -7,6 +7,7 @@ tags:
 latitude: 54.5500
 longitude: 13.1000
 snippet: "Car-free island accessible by ferry from Stralsund — beaches, heathland, and a clifftop lighthouse"
+score: 7.9
 ---
 
 Hiddensee is a small, narrow island west of Rügen, accessible only by ferry from Stralsund or Schaprode on Rügen. Cars are not permitted — the island is traversed on foot, by bicycle, or by horse-drawn cart. The result is a pace of life that feels genuinely removed from the mainland, and a landscape of dunes, heathland, sandy beaches, and fishing villages that has changed little in a century.

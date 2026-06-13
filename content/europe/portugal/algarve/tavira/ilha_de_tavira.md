@@ -14,6 +14,7 @@ story: >
   industry mechanized. The ruins of the old village — known as the Barril — are still visible
   at the western end of the island, along with an extraordinary graveyard of iron anchors that
   were left behind when the tuna fishing industry here finally closed.
+score: 7.9
 ---
 
 Tavira Island, a narrow barrier island about 3 km south of the town, has some of the best beaches on the eastern Algarve coast. The sand is wide, clean, and relatively uncrowded compared to the beaches around Lagos and Albufeira further west. The island is part of the Ria Formosa Natural Park and is undeveloped except for a small number of seasonal restaurants and beach cafes.

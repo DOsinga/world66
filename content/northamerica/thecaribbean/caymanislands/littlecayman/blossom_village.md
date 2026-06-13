@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 19.6664
 longitude: -80.0828
+score: 5.6
 ---
 
 Blossom Village is the nominal capital of Little Cayman — a string of half a dozen buildings on the south coast that includes the museum, the National Trust headquarters, the volunteer fire station and the church. The first settlers landed here in the 1830s and the village still feels like a 19th-century outpost: low wooden buildings, sandy lanes, a couple of palms and a flagpole.

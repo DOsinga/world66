@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The provincial government house, a long pink-and-white Italianate building filling one side of Plaza 1° de Mayo. Built in the late 19th century, it remains the working seat of the governor of Entre Ríos. Free guided tours run on weekdays — they take you through the marble staircases, the gilded Salón Blanco, and the upper galleries where the senate once met during Paraná's federal-capital years.

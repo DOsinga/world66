@@ -8,6 +8,7 @@ tags:
   - market
   - eating_out
 neighbourhood: Centro Histórico
+score: 7.3
 ---
 
 The Mercado Municipal of Santos, on Rua Pedro II in the historic centre, is the city's main public market. The building dates from 1952 and houses dozens of stalls selling fish, fruit, sausages, cheeses, dried beans, and Portuguese specialities such as bacalhau salgado and cured chorizo.

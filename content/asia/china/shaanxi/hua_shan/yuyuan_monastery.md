@@ -8,6 +8,7 @@ latitude: 34.5100
 longitude: 110.0789
 story: >
   The Jade Spring Temple, at the foot of the mountain just inside the park entrance, has been the administrative centre of Hua Shan's Taoist establishment since the Song Dynasty. It was here that the Quanzhen Taoist patriarch Chen Tuan is said to have slept for decades at a time, meditating so deeply that he was found apparently dead until his breathing could be detected. The temple complex grew around his legacy and the spring that gives it its name.
+score: 7.8
 ---
 
 The Yuquan Courtyard (Jade Spring Temple, or Yuquanyuan) sits at the base of Hua Shan, just beyond the park's main entrance on Yuquan Road. It is the traditional starting point for the climb up the North Trail and one of the most atmospheric temple complexes on the mountain — its buildings partially shaded by ancient trees, with the sound of the spring audible throughout the grounds. The complex includes multiple courtyards, halls dedicated to various Taoist deities, and stele pavilions with inscriptions going back to the Song Dynasty.

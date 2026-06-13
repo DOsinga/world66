@@ -6,6 +6,7 @@ longitude: 77.312882
 tags:
   - things_to_do
   - sight
+score: 4.4
 ---
 
 The India Government Mint in Sector 1 is one of four mints in the country and produces the bulk of India's circulating coinage. Operated by the Security Printing and Minting Corporation of India, the facility opened in 1989 and has been the main source of stainless-steel and bimetallic Indian coins ever since.

@@ -7,6 +7,7 @@ snippet: "19th-century country estate with a romantic landscape park"
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 Elswout, just south of Overveen, is one of the better-preserved 19th-century *buitenplaatsen* — the country estates that wealthy Amsterdammers built along the dunes when the city became unpleasant in summer. The current pink-stucco house dates from a thorough 1880s rebuild, but the park around it is older: serpentine paths through mature beech and oak, a small lake with an iron-girder bridge, a working ice house, an orangery, and an elaborate stone gatehouse on the road from Haarlem.

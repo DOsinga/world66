@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.9
 ---
 
 A long sweep of clean sand about ten kilometres north of Porto Seguro, much calmer than the noisier *barraca* beaches closer to town. Coconut palms back the beach, a few low-key *barracas* sell grilled fish and cold beer, and at low tide a wide expanse of flat sand opens out for walking. The water is warm year-round and the surf is gentle — good for families and for swimming.

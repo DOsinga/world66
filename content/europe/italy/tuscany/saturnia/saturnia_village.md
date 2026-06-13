@@ -4,6 +4,7 @@ type: poi
 latitude: 42.6664
 longitude: 11.5042
 tags: [things_to_do, sight]
+score: 5.5
 ---
 
 The walled village above the springs is a single road of stone houses, two churches, a square, and a handful of restaurants — the kind of place you walk through in twenty minutes, sit down for lunch, and emerge two hours later. The Romans called it Aurinia and it claims to be one of the oldest continuously inhabited settlements in Italy, with archaeological finds dating back well before the Etruscans.

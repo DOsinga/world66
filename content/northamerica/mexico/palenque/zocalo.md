@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.5089
 longitude: -91.9810
+score: 5.8
 ---
 
 The main square of Palenque town is a modest, pleasant space: shaded by large trees, ringed with benches, and animated in the evenings when families gather and vendors set up food stalls around the periphery. It is not the prettiest zócalo in Mexico — the town is functional rather than colonial — but it gives a sense of everyday life in the region.

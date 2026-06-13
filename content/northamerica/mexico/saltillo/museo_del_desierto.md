@@ -9,6 +9,7 @@ longitude: -100.963744
 story: "The museum sits at the edge of the Chihuahuan Desert, the largest desert in North America. Among its permanent displays are fossils of dinosaurs discovered in Coahuila state, including a near-complete skeleton of a hadrosaur — a reminder that this sun-baked plateau was once a humid coastal lowland."
 sources:
   - https://en.wikipedia.org/wiki/Desert_Museum_(Mexico)
+score: 8.5
 ---
 
 The Museo del Desierto — officially the Desert Museum — is Saltillo's most impressive cultural institution. Housed in a large modern complex southeast of the city centre, it focuses on the ecology, geology, and natural history of Mexico's desert regions, with particular emphasis on the Chihuahuan Desert that surrounds the city.

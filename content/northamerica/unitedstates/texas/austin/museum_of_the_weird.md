@@ -7,6 +7,7 @@ tags:
 address: "412 E 6th St"
 latitude: 30.2671
 longitude: -97.7388
+score: 5.8
 ---
 
 The Museum of the Weird is a small sideshow-style attraction on 6th Street that calls itself a continuation of the traditional dime museum — the Victorian-era entertainment venues that combined freakshow exhibits with natural history oddities and theatrical showmanship. The collection includes a genuine shrunken head from Ecuador, mummies, a Fiji mermaid reproduction, wax figures, and various natural curiosities.

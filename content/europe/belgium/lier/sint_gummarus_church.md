@@ -10,6 +10,7 @@ story: >
   Under the high altar of Sint-Gummaruskerk lies the grave of Olav Engelbrektsson, the last Roman Catholic
   Archbishop of Norway, who fled his country after the Reformation in 1537 and died in exile in Lier in 1538.
   The Reformation drove the last Norwegian bishop into a quiet Flemish church — an unexpected end to a dramatic career.
+score: 7.8
 ---
 
 Sint-Gummaruskerk is the principal church of Lier and one of the finest examples of Brabantine Gothic architecture in the province of Antwerp. Construction began in 1378 and continued through the 15th and 16th centuries. The exterior is an impressive mass of pale stone with elaborate tracery; the interior is spacious and flooded with light from the large stained-glass windows.

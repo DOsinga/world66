@@ -9,6 +9,7 @@ story: >
   The square hosted Modena's famous bucket war in 1325 — a real conflict with Bologna over
   a stolen oak bucket that sits, to this day, in the Ghirlandina tower above. The bucket itself
   was never returned, and remains a point of local pride nearly 700 years later.
+score: 8.8
 ---
 
 Piazza Grande is the ceremonial heart of Modena, framed by the cathedral on one side and the medieval Palazzo Comunale on another. Both the square and the cathedral are part of a single UNESCO World Heritage Site. The space is wide and open, with outdoor cafes along the edges, and feels genuinely civic rather than tourist-trap — locals use it as a shortcut and a meeting point.

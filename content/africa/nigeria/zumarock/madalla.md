@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Roadside town in the shadow of the rock, on the old Abuja–Kaduna highway"
+score: 4.5
 ---
 
 Madalla is the small Niger State town that sits at the base of Zuma Rock, on the original Abuja–Kaduna highway. It is essentially a roadside settlement — petrol stations, lorry stops, a few churches and mosques — but it offers the nearest place to break the drive for food, fuel, or a cold drink with the rock filling the view above. The street market is busy in the mornings.

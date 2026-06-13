@@ -11,6 +11,7 @@ tags:
 - vieux_nice
 title: Musee Dufy
 type: poi
+score: 4.7
 ---
 
 Dedicated to the work of Raoul Dufy, whose bright watercolours captured the spirit of the Riviera like few other artists. The small collection sits right on the Promenade des Anglais seafront.

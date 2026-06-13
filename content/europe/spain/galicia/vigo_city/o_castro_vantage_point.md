@@ -13,6 +13,7 @@ tags:
 - landmark
 title: O Castro Hill and Fortress
 type: poi
+score: 8.0
 ---
 
 The wooded hill that rises above central Vigo offers the city's best panoramic views. Several vantage points give sweeping prospects: from the monument to the galleons of Rande you look out over the harbour and the ría; from the memorial to the troubadour Martín Códax you see the western city, the Cíes Islands and Toralla island. The medieval Castro fortress crowns the hill, and its walls frame more views down to the port below.

@@ -9,6 +9,7 @@ longitude: -7.9931
 snippet: The city's main mosque, a modernist landmark in the heart of the old city
 story: >
   The Grand Mosque was built with Saudi Arabian funding in 1994 on the site of an older mosque dating from the early colonial period. The funding came with the condition that the new building follow a Saudi architectural style — the result is strikingly out of place among the low-rise neighbourhoods around it, and a reminder of the Gulf states' long-running influence over West African Islam.
+score: 7.0
 ---
 
 The Grand Mosque dominates the Bozola neighbourhood at the edge of the old city, its twin minarets visible across a wide stretch of central Bamako. The current building, completed in 1994 with funding from Saudi Arabia, replaced a much older prayer house on the same site and represents one of the larger mosques in West Africa.

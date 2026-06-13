@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 53.5196
 longitude: -113.5073
+score: 8.5
 ---
 
 Old Strathcona is Edmonton's most animated neighbourhood — a district south of the river valley along Whyte Avenue (82 Avenue) and the surrounding streets, with a concentration of independent restaurants, cafés, bars, vintage shops, and theatres that the rest of the city largely lacks. It was originally the town of Strathcona before Edmonton absorbed it in 1912, and the Victorian commercial architecture along Whyte Avenue gives it a street character distinct from the downtown core.

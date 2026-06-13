@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Mid-river island reached by free shuttle boat from the Lower Circuit
+score: 8.7
 ---
 
 Isla San Martín sits in the middle of the river between the major Argentinian and Brazilian cataracts, a small rocky outcrop of about half a hectare that you can only reach by free shuttle boat from the Lower Circuit (when river levels permit). A short, steep climb takes you to viewpoints that are, in some ways, the best the park offers — you are surrounded on three sides by falling water with no other tourists in the frame.

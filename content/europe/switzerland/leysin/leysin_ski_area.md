@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sport
   - skiing
+score: 7.4
 ---
 
 The Leysin ski area covers around 60 km of pistes spread across the slopes of Berneuse, Mayen, and Tête d'Aï. It is small by Swiss standards — nowhere near the scale of Verbier or Zermatt — but well suited to beginners, intermediates, and families. A single lift pass also covers the larger Alpes Vaudoises network, including Villars and Les Diablerets.

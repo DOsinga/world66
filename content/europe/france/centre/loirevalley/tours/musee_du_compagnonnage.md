@@ -10,6 +10,7 @@ tags:
 - museum
 title: Musée du Compagnonnage
 type: poi
+score: 8.5
 ---
 
 The guilds — compagnonnages — that trained the craftsmen who built the Loire chateaux are the subject of this unusual museum. The masterpieces left by journeymen carpenters, stonemasons, and locksmiths to prove their skills are extraordinary objects: elaborate miniatures, impossibly precise models, and tools worked to jewel-like perfection. Closed Tuesdays.

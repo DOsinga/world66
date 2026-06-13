@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The 80-kilometre lake on which Queenstown sits
 story: "Lake Wakatipu rises and falls about 10 cm every 25 minutes — a standing wave called a seiche, caused by the unusual zigzag shape of the basin. Māori legend explains it as the heartbeat of the giant Matau, buried under the lake."
+score: 9.5
 ---
 
 Wakatipu is the third-largest lake in New Zealand and a constant presence on any visit to Queenstown — the town wraps around its northern arm, and most of what you do happens on, above, or beside it. The water is a luminous cold blue, very deep (over 380 m), and bracing to swim in even in midsummer.

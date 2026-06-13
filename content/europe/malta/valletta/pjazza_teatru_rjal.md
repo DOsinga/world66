@@ -15,6 +15,7 @@ story: >
   replacement, the city commissioned Renzo Piano to transform the ruins into an open-air
   theatre, which opened in 2013. The original stone columns and walls remain, now framing a
   modern stage and tiered seating.
+score: 7.3
 ---
 
 The Pjazza Teatru Rjal occupies the bombed-out shell of Valletta's Royal Opera House, which stood at the city's main entrance before it was destroyed in the Second World War. Italian architect Renzo Piano's intervention preserved the ruins while inserting a functional outdoor performance space: steel and glass structures sit within the surviving stone walls, and the original columns form the frame for a modern auditorium open to the Maltese sky.

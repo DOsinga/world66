@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: -41.2718
 longitude: 173.2854
+score: 5.5
 ---
 
 DeVilles is the long-standing brunch favourite, set in an old service-station building on New Street with a sunny courtyard out the back. The food is generous and the coffee is reliable — eggs Benedict, a thick rosti with smoked fish, big pancakes, lots of avocado. The queue at the door on a Saturday morning is part of the experience.

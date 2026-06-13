@@ -16,6 +16,7 @@ story: >
   the waterworks failed for over a century before being fixed in 1842.
 sources:
   - https://en.wikipedia.org/wiki/Ruinenberg
+score: 6.7
 ---
 
 The Ruinenberg is a landscaped hill at the northern edge of Sanssouci Park, topped with an artfully designed fake Roman ruin — columns, arches, and fragments arranged as if the remains of an ancient temple had been discovered there. Frederick the Great built it in 1748 as a picturesque folly visible from the park below, in the English landscape tradition of constructed ruins. The hill also served as the reservoir for the park's fountains, though the pump that was supposed to fill it never worked properly.

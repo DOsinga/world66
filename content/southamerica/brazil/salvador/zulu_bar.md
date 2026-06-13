@@ -9,6 +9,7 @@ tags:
 - bar
 - pelourinho
 snippet: Backpacker bar with live music and cheap caipirinhas
+score: 5.8
 ---
 
 A long-running Pelourinho backpacker bar with a roof terrace and a regular roster of live music — samba on weekends, MPB and bossa nova during the week. Caipirinhas are cheap and strong, the crowd is mostly travellers, and the atmosphere is reliably high.

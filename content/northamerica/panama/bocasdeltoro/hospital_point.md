@@ -8,6 +8,7 @@ latitude: 9.3217
 longitude: -82.2233
 sources:
   - https://en.wikipedia.org/wiki/Bocas_del_Toro_Province
+score: 8.3
 ---
 
 Hospital Point is widely regarded as the best snorkelling and diving site in the Bocas del Toro archipelago, a submerged coral garden just off the southern tip of Isla Colón accessible by water taxi or kayak from Bocas Town. The reef drops from a shallow coral plateau into deeper water, supporting an extraordinary density of fish — parrotfish, angelfish, spotted eagle rays, nurse sharks, and large sea turtles are all regularly seen here.

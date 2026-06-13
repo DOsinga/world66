@@ -13,6 +13,7 @@ tags:
 - sight
 title: Carso Plateau
 type: poi
+score: 8.5
 ---
 
 The Carso (Kras in Slovenian) is the limestone plateau that rises sharply behind Trieste, visible from most of the city and only 20 minutes by bus. It is a strange, dramatic landscape of sinkholes, caves, and scrubby Mediterranean vegetation — geologically distinct from the coastal plain and historically Slovenian rather than Italian in character.

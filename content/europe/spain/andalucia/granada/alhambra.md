@@ -11,6 +11,7 @@ tags:
 - sacromonte
 title: Alhambra
 type: poi
+score: 10.0
 ---
 
 The Alhambra is a 13th- and 14th-century palace and fortress complex built by the Nasrid dynasty on a plateau above Granada. The Nasrid Palaces are the highlight — rooms like the Court of the Lions and the Hall of the Ambassadors showcase Islamic decorative arts at their most refined, with intricate stucco work, carved wooden ceilings, and tile mosaics covering every surface. The Generalife gardens next door, with their terraced walkways and water channels, offer a quieter counterpart.

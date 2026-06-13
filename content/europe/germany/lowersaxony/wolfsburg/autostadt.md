@@ -9,6 +9,7 @@ snippet: Volkswagen's corporate visitor park — car museum, brand pavilions, an
 latitude: 52.4333
 longitude: 10.8000
 story: "The two glass delivery towers each hold up to 400 new cars, stacked vertically on a robotic carousel. When a customer arrives to collect a vehicle, the appropriate car descends from the tower onto a turntable in the showroom — a piece of choreographed industrial theatre that is the closest thing in Europe to a sacred ritual of mass production."
+score: 8.3
 ---
 
 The Autostadt is the public face of Volkswagen, a 28-hectare park beside the main plant that is part car museum, part corporate showcase, part theme park. Each Volkswagen Group brand — VW, Audi, SEAT, Škoda, Porsche, Lamborghini, Bentley — has its own pavilion with concept cars, displays, and varying degrees of design pretension.

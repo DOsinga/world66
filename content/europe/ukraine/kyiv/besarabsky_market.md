@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 50.4429
 longitude: 30.5181
+score: 7.3
 ---
 
 The covered market at the southern end of Khreshchatyk, in a striking 1912 glass-and-steel hall built in the Art Nouveau industrial style. It is the central market of Kyiv and has been continuously trading since opening: meat, fish, cheeses, pickles, salo (cured pork fat), Crimean honey, fruit, flowers.

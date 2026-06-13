@@ -11,6 +11,7 @@ story: The museum holds a collection of Sande society helmet masks — the only 
   in Africa where women (not men) control a masquerade. The Sande masks, carved to
   represent the ideal of female beauty and moral virtue, were used in initiation ceremonies
   and are among the most recognised artistic objects from this region of West Africa.
+score: 8.1
 ---
 
 The National Museum of Liberia, housed in a colonial-era building on Broad Street in central Monrovia, holds the country's main collection of historical artefacts, photographs, and documents. The collection covers Liberia's founding by freed American slaves, the country's indigenous peoples and their material culture, and the Americo-Liberian period of the 19th century.

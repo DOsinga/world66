@@ -4,6 +4,7 @@ phone: (808) 259-2500
 title: Things to do
 type: poi
 url: www.sealifeparkhawaii.com
+score: 2.8
 ---
 
 There's more to do and see on Oahu than bars and beaches. From hiking and horseback riding to entertaining and/or educational theme parks, you'll find something for everyone on the most crowded - er, populated - island in Hawaii.

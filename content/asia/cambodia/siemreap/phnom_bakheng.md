@@ -15,6 +15,7 @@ story: >
   represent the 108 in Hindu and Buddhist cosmology — a number associated with
   completeness and the lunar calendar. It was the first temple-mountain at Angkor
   and established the form that all subsequent royal temples would follow.
+score: 9.1
 ---
 
 **Phnom Bakheng** is a 9th-century temple-mountain built on the only natural hill at Angkor, rising about 65 metres above the surrounding plains. It was the state temple of King Yasovarman I, who founded the first city of Angkor here around 900 AD, and it remains the most popular sunset viewpoint in the entire complex — the long view west across the jungle canopy toward Angkor Wat's silhouette draws large crowds every afternoon, and the park authority now limits the number of visitors on the hill at any one time to prevent overcrowding.

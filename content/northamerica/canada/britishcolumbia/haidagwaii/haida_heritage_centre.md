@@ -15,6 +15,7 @@ story: >
   to stop. The revival of pole carving in the 1960s and 1970s — led by artists like Bill
   Reid and Robert Davidson — is one of the most significant cultural recoveries in
   North American Indigenous history.
+score: 9.2
 ---
 
 The Haida Heritage Centre at Kaay Llnagaay, in Skidegate on Graham Island, is the primary cultural institution of the Haida people — a large complex built in the form of a traditional winter village, with a main longhouse, carving shed, canoe house, and museum galleries. It opened in 2007 and is the result of years of community planning and fundraising by the Haida Nation.

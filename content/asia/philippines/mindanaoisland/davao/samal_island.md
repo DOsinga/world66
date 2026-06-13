@@ -12,6 +12,7 @@ story: >
   an estimated 1.8 million Geoffrey's rousette fruit bats, listed in the Guinness World Records
   as the largest single colony of any bat species anywhere on earth. At dusk, the bats emerge
   in a dark, writhing cloud that can take several minutes to pass overhead.
+score: 8.6
 ---
 
 Samal Island lies directly across Davao Gulf from the city, reachable in under 20 minutes by small motor ferry from the Santa Ana wharf. It is the easiest escape from the city and has good beaches, clear water, and a fraction of the development you would find in more visited Philippine beach destinations.

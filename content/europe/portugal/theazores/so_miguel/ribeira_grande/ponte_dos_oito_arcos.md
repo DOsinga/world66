@@ -8,6 +8,7 @@ tags:
   - sight
   - bridge
 story: "The bridge as it stands is essentially eighteenth-century, but parts of the lower stonework are older — the river crossing here was the reason Ribeira Grande exists, and the town was deliberately laid out on both banks once the first bridge made the connection permanent."
+score: 7.0
 ---
 
 The eight-arched stone bridge over the Ribeira Grande river is the town's signature image — a long, low span in dark basalt that ties together the two halves of the historic centre. Walk down to the river bank below it for the postcard view: arches reflected in the slow brown water, baroque church towers rising behind, the green walls of the valley closing in on either side.

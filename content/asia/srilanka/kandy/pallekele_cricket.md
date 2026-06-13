@@ -12,6 +12,7 @@ story: >
   a military shooting range, which required significant clearance work. Its first Test match
   was played in 2011 against England; Sri Lanka won, establishing an early home-ground
   advantage that the venue has retained in subsequent years.
+score: 7.1
 ---
 
 The Pallekele International Cricket Stadium, about 10 km north of Kandy, is Sri Lanka's most modern cricket venue and one of the most scenically located in the world — the outfield sits in a natural bowl surrounded by the Kandy hills, with the mountains visible over the boundary stands. When a Test or ODI match is scheduled here, tickets are affordable and the atmosphere is outstanding.

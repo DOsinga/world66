@@ -1,6 +1,7 @@
 ---
 title: "Magens Bay Beach"
 type: poi
+score: 8.5
 ---
 
 Magens Bay is the beach that put St. Thomas on the map. Shaped like a heart and sheltered by low hills on three sides, it curves for nearly a mile along the north shore, with calm turquoise water, white sand, and the kind of tropical backdrop that ends up on travel magazine covers. It has been listed among the world's ten best beaches by various publications often enough that the designation has become almost tiresome — but the beach earns it.

@@ -8,6 +8,7 @@ latitude: -33.08
 longitude: 151.50
 story: >
   Lake Macquarie is the largest coastal saltwater lake in the Southern Hemisphere — four times the size of Sydney Harbour. The local Awabakal people lived along its shores for thousands of years before the first European settlers arrived in the 1820s.
+score: 7.0
 ---
 
 Lake Macquarie is the main reason people linger around Cooranbong rather than just passing through. The western shore near town gives good access to the water for kayaking, fishing, and swimming, and the lake is calm enough for beginners. You can rent kayaks and stand-up paddleboards from several places around the lake's edge.

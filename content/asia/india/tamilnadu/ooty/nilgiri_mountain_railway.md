@@ -13,6 +13,7 @@ story: >
   sections the locomotive is climbing at a gradient of 1 in 12, the equivalent of a staircase.
 sources:
   - https://en.wikipedia.org/wiki/Nilgiri_Mountain_Railway
+score: 9.2
 ---
 
 The Nilgiri Mountain Railway is a UNESCO World Heritage Site and one of the great train journeys of India. The narrow-gauge rack-and-pinion line runs 46 km from Mettupalayam (near Coimbatore in the plains) to Ooty, climbing 2,000 metres through tea estates, shola forests, and Toda villages. The steam-hauled section from Mettupalayam to Coonoor is the most spectacular — the locomotive pushes from behind on the uphill journey, groaning and hissing through tight curves and tunnels.

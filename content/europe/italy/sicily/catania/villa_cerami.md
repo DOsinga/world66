@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.5065
 longitude: 15.0849
+score: 6.0
 ---
 
 Villa Cerami is an eighteenth-century noble villa set on the high ground above Via Crociferi, now used as the law faculty of the University of Catania. The gardens, with their terraces of clipped box hedges and views over the rooftops of the old city, are occasionally open to visitors.

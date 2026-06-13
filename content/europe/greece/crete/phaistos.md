@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The Phaistos Disc, discovered here in 1908, is a fired clay disc 16 cm in diameter covered on both sides with stamped symbols arranged in a spiral pattern. It has been dated to around 1700 BC. Despite over a century of attempts, no one has successfully deciphered it — the symbols don't match any known writing system, and there aren't enough of them (241 signs from a set of 45 symbols) to crack by statistical analysis. It is the most famous undeciphered inscription in the world."
+score: 8.9
 ---
 
 Phaistos is the second most important Minoan palace on Crete, set on a hilltop overlooking the Messara plain with views to the Psiloritis mountains and the distant sea. Unlike Knossos, Phaistos has not been reconstructed — you see the original stones, the actual storerooms, the real courtyard floors — which gives a more austere but arguably more authentic experience.

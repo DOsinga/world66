@@ -6,6 +6,7 @@ longitude: 21.1883
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The small Vlach village of **Anilio** sits in the bottom of the gorge across from Metsovo, reached by a steep road or a footbridge over the river. Its name means "sunless" — and the village did indeed see almost no winter sun until a road was finally cut through to it in the 1920s.

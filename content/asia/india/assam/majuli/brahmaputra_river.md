@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.9300
 longitude: 94.1600
+score: 7.2
 ---
 
 The Brahmaputra is never out of sight or mind on Majuli — the island exists at the river's pleasure, and each monsoon reshapes the banks, claiming farmland and occasionally houses. The southern shore gives the most dramatic sense of scale: the main channel here is several kilometres wide, with the forested Assam hills visible on the far bank and ferries tracking slowly across in the current.

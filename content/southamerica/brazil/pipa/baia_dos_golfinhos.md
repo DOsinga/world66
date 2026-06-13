@@ -10,6 +10,7 @@ tags:
   - swimming
   - wildlife
 story: "The bay is home to a resident population of *tucuxi* — a small grey dolphin that lives in both salt and fresh water along Brazil's northeast coast. Unlike bottlenose dolphins, *tucuxi* never leap clean out of the water, but they routinely come within metres of swimmers and small boats. Local guides will tell you that the spit of land that closes the bay at low tide was created by the dolphins; the geology is less mystical."
+score: 9.2
 ---
 
 Baía dos Golfinhos — Dolphin Bay — is the most distinctive of Pipa's beaches: a curve of sand backed by sheer red cliffs, with calm water and a near-guaranteed sighting of the small grey dolphins that live in the bay. The beach is only accessible at low tide on foot from Praia do Centro, or by boat at any time; check tide tables before you walk, as the cliffs leave no way back at high tide.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sport
   - fishing
+score: 8.0
 ---
 
 The Skeena is one of the great wild salmon rivers of the world. Five species — chinook (king), sockeye, coho, pink, and chum — return up it every year, plus a famous run of steelhead trout in autumn. Terrace is the practical base for fishing the lower river and its tributaries: the Copper (Zymoetz), the Kalum, and the Lakelse all join the Skeena within thirty kilometres of town.

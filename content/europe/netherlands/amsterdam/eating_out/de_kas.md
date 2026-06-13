@@ -6,6 +6,7 @@ longitude: 4.9255
 tags:
   - eating_out
   - restaurant
+score: 7.8
 ---
 
 A restaurant inside a restored 1926 municipal greenhouse in Frankendael Park, in the Watergraafsmeer neighbourhood east of the city centre. Much of what arrives on the plate was grown in the attached nursery beds — herbs, edible flowers, and whatever vegetables are at peak season that week. The set menu changes daily depending on the harvest.

@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: -4.9333
 longitude: 39.7167
+score: 8.2
 ---
 
 Ngezi covers 3,000 hectares of dense indigenous rainforest at Pemba's northern tip — a fragment of the climax forest that once covered most of the island before centuries of clove planting and agricultural clearing reduced it to a few patches. It is one of the few places in East Africa where you can still see the Pemba flying fox, a giant fruit bat with a 1.6-metre wingspan, hanging in roosts during the day.

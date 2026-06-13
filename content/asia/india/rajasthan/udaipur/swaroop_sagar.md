@@ -6,6 +6,7 @@ longitude: 73.6817
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A small lake immediately north of Lake Pichola, connected to it by a sluice and originally built by Maharana Swaroop Singh in the 1850s. The two lakes are separated by a narrow stone causeway lined with whitewashed buildings; from the causeway you can look out at the City Palace to the south and at the green hills to the north.

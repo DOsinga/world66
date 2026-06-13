@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Shinonome-jinja
 type: poi
+score: 5.8
 ---
 
 A Shinto shrine on the eastern slope of castle hill, quiet and shaded by trees. During the Takagi festival in April, the shrine hosts torch-lit Noh performances — one of the more atmospheric things you can catch in Matsuyama if your timing is right.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 51.8964
 longitude: -8.5600
+score: 7.1
 ---
 
 Carrigrohane Castle is a well-preserved tower house about 3km east of Ballincollig, standing on a rocky outcrop above the River Lee. The name comes from the Irish "carraig" (rock), and the castle uses that rock dramatically — it sits on a near-vertical limestone bluff above the river, making it one of the more spectacular settings of any castle in the Cork area.

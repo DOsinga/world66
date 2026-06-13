@@ -11,6 +11,7 @@ latitude: 5.8253
 longitude: -55.1608
 story: >
   The Moravian Church arrived in Suriname in 1735 and focused its missionary work on the enslaved population — conducting services in Sranan Tongo, the creole language of the enslaved, rather than Dutch. The Grote Stadskerk became the heart of that community. Today Sranan Tongo is one of Suriname's national languages, and the Moravian Church remains one of the country's largest Christian denominations.
+score: 7.0
 ---
 
 The Grote Stadskerk — Great City Church — is one of the oldest Moravian churches in the Western Hemisphere and is known affectionately in Sranan Tongo as Mamakerki, the "mother church." It stands near the waterfront and has been the spiritual centre of Paramaribo's Creole community since the 18th century.

@@ -7,6 +7,7 @@ tags:
 latitude: 34.0138
 longitude: -118.4921
 snippet: "The western terminus of the Metro E Line — a 2016 arrival that changed how people reach the beach"
+score: 5.0
 ---
 
 The Downtown Santa Monica Metro station opened in 2016 as the western end of the E Line (Expo Line), connecting the city to downtown Los Angeles and Culver City without a car. The station sits at 4th Street and Colorado Avenue, a short walk from the pier, Palisades Park, and Third Street Promenade.

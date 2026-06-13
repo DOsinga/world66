@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Witch_House,_Salem,_Massachusetts
 story: >
   Judge Jonathan Corwin purchased this house in 1675 and lived here during the 1692 trials; it is the only surviving structure in Salem with a direct connection to the accused and their accusers. At least one accused witch was examined in a room of this house before being transported to jail. Corwin signed multiple death warrants and never expressed regret.
+score: 7.4
 ---
 
 The Witch House on Essex Street is the only Salem building with a direct, documented connection to the witch trials of 1692: it was the home of Judge Jonathan Corwin, one of the magistrates who examined the accused and signed the warrants that sent them to the gallows. The structure dates to the 1620s–1640s, making it one of the oldest houses in New England, and the projecting upper stories and small leaded windows give it a suitably ominous profile.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -19.8680
 longitude: 47.0345
+score: 6.6
 ---
 
 The main market in Antsirabe is one of the busiest in highland Madagascar, dealing in food, livestock, textiles, and manufactured goods. On the streets around it, and in a cluster of dedicated craft shops, you will find the better-quality Malagasy handicrafts: woven baskets, silk lambas (the Malagasy shawl), carved zebu-horn objects, embroidered tablecloths, and woodwork. Bargaining is normal and prices are genuinely negotiable.

@@ -8,6 +8,7 @@ latitude: 44.0500
 longitude: 9.8332
 sources:
   - https://en.wikipedia.org/wiki/Portovenere
+score: 8.2
 ---
 
 The castle that crowns the promontory was built by the Genoese in the 16th century on the foundations of an earlier medieval fortification. It is a compact military structure — thick walls, square towers, no ornamental pretensions — built to control the narrow entrance to the Gulf of La Spezia and to protect the village from seaborne attack. The Doria family, Genoa's most powerful maritime dynasty, held it for centuries.

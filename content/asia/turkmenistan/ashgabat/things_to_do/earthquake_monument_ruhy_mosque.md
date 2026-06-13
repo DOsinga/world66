@@ -1,6 +1,7 @@
 ---
 title: "Earthquake Monument and Ruhy Mosque"
 type: poi
+score: 7.4
 ---
 
 On the night of 5–6 October 1948, an earthquake measuring 7.3 on the Richter scale destroyed Ashgabat almost completely. Soviet estimates put the death toll at 14,000; independent historians estimate between 110,000 and 176,000 dead — most of the city's population. Stalin's government suppressed the true scale of the disaster for decades, and the earthquake remained a state secret in the Soviet Union. The young Saparmurat Niyazov survived it as a child, losing his mother and brothers; the earthquake and his orphan origin story became central pillars of his later personality cult mythology.

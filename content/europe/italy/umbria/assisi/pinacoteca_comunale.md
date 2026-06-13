@@ -7,6 +7,7 @@ tags:
   - gallery
 latitude: 43.0710
 longitude: 12.6149
+score: 6.9
 ---
 
 The town's painting gallery occupies the upper floor of the 13th-century Palazzo Vallemani on Via San Francesco. The collection focuses on Umbrian artists from the 13th to the 17th centuries — frescoes and panels rescued from churches around Assisi, including works by Giotto's followers (the so-called Maestro Espressionista di Santa Chiara), Tiberio d'Assisi, and Dono Doni.

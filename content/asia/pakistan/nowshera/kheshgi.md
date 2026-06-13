@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kheshgi Village
 type: poi
+score: 6.8
 ---
 
 A few kilometres east of Nowshera on the south bank of the Kabul river, Kheshgi is one of the oldest continuously inhabited villages in the district, the seat of the Pashtun Kheshgi tribe since the early Mughal period. The narrow lanes contain several small shrines of Sufi saints associated with the Kheshgi clan, and the village mosque preserves carved wooden columns from the 17th century.

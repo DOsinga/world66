@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.9576
 longitude: 45.8142
+score: 6.6
 ---
 
 Kvareli is a town at the eastern end of the Alazani Valley, close to the border with Azerbaijan, in the heart of the area that produces Kindzmarauli — the semi-sweet red wine made from Saperavi grapes grown on a small defined stretch of south-facing slope above the town. The name Kindzmarauli is protected (or was, under Soviet and then Georgian law), and the best versions come from the original terroir here.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Mud-brick citadel dominating the old town
+score: 6.5
 ---
 
 The **Ghazni Citadel** (Bala Hissar) rises on a rocky outcrop above the old city, a sprawling mud-brick fortress walled and re-walled across more than a thousand years. The earliest surviving structures date from the Ghurid period in the 12th century — after the Ghaznavid capital had moved south — but parts of the foundations go back further. The British army used it briefly during the First Anglo-Afghan War; the citadel was the centre of fighting in 1839.

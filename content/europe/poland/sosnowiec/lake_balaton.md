@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.2540
 longitude: 19.1490
+score: 6.8
 ---
 
 Sosnowiec's Lake Balaton — named with the tongue-in-cheek local humor of industrial Silesia, presumably to mock the gap between a Hungarian resort lake and a reservoir in a mining district — is a genuinely pleasant urban green space. The lake and surrounding park offer walking paths, benches, and a view of water and trees that provides real breathing room in an otherwise built-up city.

@@ -8,6 +8,7 @@ latitude: 33.8916
 longitude: -78.4302
 sources:
   - https://en.wikipedia.org/wiki/Ocean_Isle_Beach,_North_Carolina
+score: 7.0
 ---
 
 The Ocean Isle Pier extends several hundred feet into the Atlantic from the centre of the beach strand, and serves as the informal gathering point of the island. Anglers fish off the sides for spots, flounder, king mackerel, and whiting depending on the season; the covered end of the pier is a good spot to watch dolphins working the surf or pelicans diving into the waves.

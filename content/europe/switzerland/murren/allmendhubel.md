@@ -7,6 +7,7 @@ tags:
 latitude: 46.5607
 longitude: 7.8928
 snippet: Historic funicular to flower meadows and Northface Trail viewpoints
+score: 7.5
 ---
 
 The Allmendhubelbahn is a small funicular railway that runs from the village up to Allmendhubel at 1,907 metres, a meadow of Alpine flowers in summer with a terrace restaurant and a children's adventure playground. The funicular itself, built in 1912, is a short but steep ride that already rewards with views down into the Lauterbrunnen Valley.

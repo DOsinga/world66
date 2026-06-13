@@ -13,6 +13,7 @@ story: >
   The presiding deity here is literally the lord of time (Mahakala), and the morning
   aarti — the "bhasma aarti" — is performed with sacred ash traditionally said to
   come from cremation grounds.
+score: 9.4
 ---
 
 Mahakaleshwar is the most important temple in Ujjain and one of the most significant Shiva shrines in India — a Jyotirlinga temple housing one of twelve sacred lingams where Shiva is believed to be present as pure light. The temple complex is vast, crowded, and atmospheric at any hour, but transforms utterly during the evening aarti, when thousands of devotees press toward the inner sanctum as lamps are waved and bells ring.

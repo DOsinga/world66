@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Simme
 story: >
   The Simme rises near the Rawil pass above Lenk and runs 66 kilometres north to join the Kander at Wimmis. For most of its length it is a fast, clear river running through a narrow valley floor, with little flat ground on either side. The riverside path was formalised as a walking route in the early 2000s as part of Swiss national trail improvements.
+score: 7.3
 ---
 
 The riverside path along the Simme runs through the full length of the valley, connecting Lenk to Wimmis near Spiez. The full route is about 50 kilometres and typically walked over two days, though any individual section can be done as a day walk. The path is well-marked and largely flat, following the river bank closely and passing through every significant village.

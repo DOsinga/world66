@@ -9,6 +9,7 @@ latitude: 49.1747
 longitude: -123.1514
 story: >
   The Oval was built on a floodplain beside the Fraser River specifically to host the 2010 Winter Olympics speed skating events. After the Games it was converted into a multi-sport and community facility. The roof is the interesting part: it is made from beetle-killed pine — millions of trees killed by the mountain pine beetle in BC's interior forests — turned into an architectural feature rather than left to rot.
+score: 6.8
 ---
 
 The Richmond Olympic Oval sits on the bank of the Fraser River, a sleek building designed by Cannon Design that hosted speed skating during the 2010 Winter Olympics. Its most unusual feature is the roof: 4,000 cubic metres of wood from beetle-killed lodgepole pines, which gave architects a striking material and the forests a use for trees that would otherwise have been waste.

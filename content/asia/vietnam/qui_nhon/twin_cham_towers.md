@@ -13,6 +13,7 @@ story: >
   the Cham people were pushed south and west, and their kingdom effectively ceased to exist.
   The towers survived because local Vietnamese communities continued to use them as places of
   worship, a tradition that continues to this day.
+score: 7.7
 ---
 
 The Twin Towers (Thap Doi) stand on the western edge of central Qui Nhon — two Cham sanctuary towers of different heights, built in the 12th century and unusually well-preserved given their urban location. Unlike the more remote Cham towers in the surrounding hills, these sit right in the city and can be visited easily on foot from the centre.

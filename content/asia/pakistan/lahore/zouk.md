@@ -14,6 +14,7 @@ tags:
 - gulberg
 title: Café Zouk
 type: poi
+score: 6.0
 ---
 
 Café Zouk sits on MM Alam Road, Lahore's restaurant strip in Gulberg, and has been a fixture of the city's dining scene for years. The music is a deliberate part of the experience — Caribbean-inflected rhythms and global beats play at a volume that keeps the energy up without killing conversation.

@@ -13,6 +13,7 @@ story: >
   After hundreds of kilometres through Angola and along the Namibian border, it
   reaches the Atlantic in a wetland that feels almost improbable beside the
   surrounding sand and gravel.
+score: 8.4
 ---
 
 The Cunene River Mouth forms the southern edge of Iona's world, where permanent water meets the Atlantic and the Angolan-Namibian border landscape. In a park defined by aridity, the wetland and river channel are ecologically precious.

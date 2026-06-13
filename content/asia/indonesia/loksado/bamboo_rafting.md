@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.794682
 longitude: 115.496021
+score: 7.6
 ---
 
 Bamboo rafting on the Amandit River is the most popular day activity in Loksado and provides a completely different experience from the mountain treks. Rafts are constructed from thick bamboo poles lashed together, typically large enough for two or three passengers plus a guide who steers with a long pole. The journey from Loksado down to Muara Hatip takes around two to three hours on calm stretches, with a few minor rapids that add some interest without being dangerous.

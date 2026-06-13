@@ -8,6 +8,7 @@ tags:
 - temple
 title: Wat Hanchey
 type: poi
+score: 7.4
 ---
 
 Wat Hanchey sits on a 100-metre-high bluff above the Mekong, about 20 kilometres north of Kampong Cham. The hilltop is one of the older religious sites in Cambodia: there are two small, perfectly proportioned eighth-century **brick sanctuaries** here, predating Angkor, which are among the oldest standing buildings in the country. A modern Buddhist monastery has grown up around the ancient remains.

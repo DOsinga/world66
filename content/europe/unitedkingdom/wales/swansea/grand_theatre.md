@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.6180
 longitude: -3.9478
+score: 7.2
 ---
 
 The Grand opened in 1897 with Adelina Patti, the international opera diva who lived nearby at Craig-y-Nos, singing on the first night. It is a fine late-Victorian playhouse with a 1,000-seat auditorium and a calendar of touring drama, opera, ballet and Christmas pantomime.

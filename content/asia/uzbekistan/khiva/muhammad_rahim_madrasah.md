@@ -8,6 +8,7 @@ tags:
 title: Muhammad Rahim Khan Madrasah
 type: poi
 snippet: "Large madrasah opposite the Kunya Ark, now housing a museum of Khivan poetry and the khanate"
+score: 6.8
 ---
 
 The Muhammad Rahim Khan Madrasah was built in the 1870s — late in the khanate's history — and faces the Kunya Ark across an open square in the centre of Itchan Kala. It is one of the largest madrassas, two storeys arranged around a courtyard, with a particularly fine carved wooden door at the main entrance.

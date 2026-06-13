@@ -7,6 +7,7 @@ tags:
 - monastery
 title: Muru Nyingba Monastery
 type: poi
+score: 8.0
 ---
 
 Muru Nyingba is a working Nyingma monastery in the network of alleys between the Jokhang and the Barkhor. It is easy to walk past — the entrance is a doorway in a wall — but inside is a quiet courtyard, an active printing house turning out hand-printed prayer texts on long wooden blocks, and a chapel with some of the oldest surviving murals in the old town.

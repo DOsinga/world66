@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 67.2843
 longitude: 14.3835
+score: 5.8
 ---
 
 Lofotenstua is one of Bodø's established fish restaurants, with a menu built around the same Arctic species that have sustained this coast for centuries. Cod, coalfish, and skrei (the migratory winter cod that Norwegians regard as a delicacy) appear according to season; the kitchen also does stockfish, dried and reconstituted in the traditional way. The preparation is rooted in Norwegian tradition rather than the modernist Nordic style.

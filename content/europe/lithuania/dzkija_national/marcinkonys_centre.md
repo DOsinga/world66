@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 54.0983
 longitude: 24.3483
 snippet: "Main park entrance point with trail maps, exhibits, and canoe rental"
+score: 6.6
 ---
 
 Marcinkonys is the main practical entry point for Dzūkija National Park and has a visitor centre with trail maps, an exhibit on the park's ecology and ethnography, and canoe rental for the Ūla route. The village itself is a quiet Dzūkijan settlement with a traditional wooden church and a few guesthouses.

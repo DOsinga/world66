@@ -15,6 +15,7 @@ story: >
   finished will take us for madmen." It took over a century to complete and remains the
   largest Gothic cathedral in the world by volume — bigger than St Peter's in Rome when
   measured that way, though Rome exceeds it in floor area.
+score: 9.4
 ---
 
 The third largest cathedral in the world, Seville's Gothic giant was built between 1402 and 1506 on the site of the city's great Almohad mosque. The mosque's minaret — the [Giralda](/europe/spain/andalucia/seville/giralda) — was incorporated as the cathedral's bell tower and remains its most recognisable feature. The interior is overwhelming: 15,000 square metres of vaulted space, a gilded main altarpiece that is the largest in the world, and the elaborate tomb bearing the remains of Christopher Columbus near the south door.

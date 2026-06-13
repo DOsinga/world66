@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Narrow-gauge train linking the park entrance to the falls trailheads
+score: 5.8
 ---
 
 A small open-sided narrow-gauge train, the Tren Ecológico de la Selva, runs every fifteen to twenty minutes between Estación Central at the park entrance, Estación Cataratas at the trailheads, and Estación Garganta del Diablo at the catwalk. It is the only way to reach the Devil's Throat — the road is closed to private cars beyond Cataratas Station — and the easiest way to move between trailheads.

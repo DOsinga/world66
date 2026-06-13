@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8400
 longitude: 125.2500
+score: 4.7
 ---
 
 Changchun Zoo sits within the city's southern forest park area, offering a manageable collection of animals in a setting that benefits from the surrounding mature trees. The zoo is not a world-class facility, but it is popular with families and provides a decent variety of northeast Asian species — including animals native to the region such as deer, bears, and various birds that give the collection a regional coherence.

@@ -6,6 +6,7 @@ longitude: 134.2510
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The reinforced concrete command bunker that served as Colonel Kunio Nakagawa's headquarters during the battle. The walls are over a metre thick and still pitted from naval gunfire and direct hits by demolition charges; the interior is open and you can walk through the rooms where the Japanese garrison's defence was directed.

@@ -9,6 +9,7 @@ tags:
   - restaurant
   - ibanda
 neighbourhood: Ibanda
+score: 5.9
 ---
 
 Along the lake shore on the Ibanda side, several restaurants line the water with open-air tables and a simple menu built around what comes out of the lake. The signature dish is sambaza — small silvery fish, deep-fried whole and served with chips, fried plantains, and a chilli sauce. Larger tilapia and capitaine are grilled to order and brought to the table on wooden platters.

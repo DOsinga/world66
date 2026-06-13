@@ -13,6 +13,7 @@ story: >
   messages. It cost over 300 million yuan and took a decade to build — an
   investment that reflects how seriously modern China takes Anyang's claim as
   the birthplace of its writing system.
+score: 8.2
 ---
 
 The National Museum of Chinese Writing traces the evolution of Chinese characters from the earliest oracle bone inscriptions through bamboo slips, silk manuscripts, paper scrolls, printed books, and digital type — roughly three thousand years of a script that has remained recognisable across all those transformations. The collection is extensive and well displayed, with particular strength in the Shang and Zhou periods when the character forms were still visibly pictographic and the link between a character's shape and its meaning was often self-evident.

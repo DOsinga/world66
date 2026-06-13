@@ -13,6 +13,7 @@ neighbourhood: Ville Haute
 title: Am Tunnel
 type: poi
 zipcode: L-2954 Luxembourg
+score: 6.7
 ---
 
 A contemporary art gallery in a former railway tunnel, run by the Casino Luxembourg cultural centre. The long underground space lends itself to large-scale installations and experimental shows.

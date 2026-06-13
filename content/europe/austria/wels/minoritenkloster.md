@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.8
 ---
 
 A few steps south of the Stadtplatz, the Minoritenkloster is the kind of building that rewards walking off the main drag. The Franciscan friars have been here in some form since the 13th century. The current church and cloister are mostly baroque, with a calm white interior and a small set of cloister walks that are usually empty.

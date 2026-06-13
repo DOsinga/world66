@@ -15,6 +15,7 @@ tags:
 - history
 title: Fort Kumasi
 type: poi
+score: 7.4
 ---
 
 The fort built by the British after their 1896 conquest of Kumasi now houses a military museum. The exhibits cover the Anglo-Ashanti wars, colonial administration, and Ghana's independence. It is a good counterpoint to the Manhyia Palace — both sides of the same history, told from different vantage points.

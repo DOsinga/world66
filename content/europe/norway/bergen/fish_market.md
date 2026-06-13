@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market, sight]
 latitude: 60.3946
 longitude: 5.3245
+score: 6.7
 ---
 
 The Bergen Fish Market at Torget, at the head of the Vågen harbour next to Bryggen, is one of the most photographed spots in Norway. Vendors sell fresh salmon, crab, prawns, and dried fish, with a few stalls offering smoked whale and seal meat for the curious. Prices are tourist-level and the vendors know it, but the setting — open harbour, colourful boats, Bryggen's wooden facades in the background — is undeniably good.

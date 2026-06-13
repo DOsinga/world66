@@ -9,6 +9,7 @@ latitude: 48.5082
 longitude: 32.2637
 story: >
   The theatre bears the name of Mark Kropyvnytskyi, who in the 1880s founded his Ukrainian-language theatre company in this city — at a time when Ukrainian-language performance was actively suppressed by the Russian Empire. Kropyvnytskyi, Ivan Karpenko-Kary, and Panas Saksahansky together established what became the cornerstone of professional Ukrainian theatre. The irony of the Soviet regime renaming the city after Sergei Kirov rather than this cultural giant was rectified in 2016.
+score: 7.7
 ---
 
 The Kropyvnytskyi Academic Drama Theatre is the city's main performing arts venue and carries significant weight in Ukrainian cultural history. The theatre company that performed here in the 1880s, under the direction of playwright Mark Kropyvnytskyi, was among the first professional Ukrainian-language theatre troupes at a time when Tsarist policy heavily restricted Ukrainian cultural expression.

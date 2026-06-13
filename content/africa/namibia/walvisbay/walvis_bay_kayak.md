@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 snippet: Half-day sea kayak tour through the Cape fur seal colony
+score: 8.4
 ---
 
 Eco Marine Kayak Tours run guided half-day paddles from Pelican Point through the inner lagoon and out among the Cape fur seal colony. The seals are curious and unafraid; once you're in the water it is not unusual for a dozen to investigate your kayak from a metre away, popping their heads above the surface to peer in. Dolphins frequently come past in pods of ten or twenty.

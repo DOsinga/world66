@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.2750
 longitude: 109.3980
+score: 8.4
 ---
 
 Longtan Park sits at the southern edge of Liuzhou where karst peaks rise directly from the city, and it is a more authentic experience than the manicured scenic parks that cluster around Guilin. The park contains caves, a cable car up the main peak, and a series of walking trails through limestone pinnacles that most visitors to the area never see because Liuzhou has such an industrial reputation. Longtan Lake at the base reflects the surrounding peaks on clear mornings.

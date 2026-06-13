@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/M%27zab
   - https://whc.unesco.org/en/list/188
+score: 9.7
 ---
 
 The M'zab Valley, inscribed as a UNESCO World Heritage Site in 1982, is a 20 km stretch of the northern Sahara containing five fortified cities built by the Ibadi Mozabite people between the 11th and 14th centuries. The valley is considered one of the most intact examples of traditional Islamic urban planning in the world.

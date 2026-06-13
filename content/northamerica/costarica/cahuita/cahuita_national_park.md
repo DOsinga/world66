@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, park]
 latitude: 9.729167
 longitude: -82.825
 story: "The coral reef at Punta Cahuita is one of the most accessible in Central America — you can snorkel it independently by walking the forest trail from the Kelly Creek entrance, where entry is free and a donation is requested. The reef's history has an unusual chapter: the 1991 Limón earthquake, a magnitude 7.6 event, actually lifted part of the coastline by up to 1.5 metres, exposing coral that had been underwater and killing sections of the reef. It has been recovering slowly ever since."
+score: 9.1
 ---
 
 Cahuita National Park occupies the headland immediately south of the village and a stretch of coast beyond it. The Kelly Creek entrance at the southern edge of town is the most convenient starting point — walk through it and you are immediately on Playa Blanca, a long beach of white sand shaded by palms, with forest on one side and the Caribbean on the other. A trail runs the full length of the park, about 8 km to the Puerto Vargas campsite and entrance, passing through lowland rainforest thick with howler monkeys, sloths, and coatis. The forest makes easy wildlife viewing: the animals here are used to people and tend to go about their business.

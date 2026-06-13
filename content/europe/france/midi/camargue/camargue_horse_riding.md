@@ -7,6 +7,7 @@ tags:
   - horse_riding
 title: "Horse Riding in the Camargue"
 type: poi
+score: 7.2
 ---
 
 Riding a Camargue horse through marsh tracks and along sandy edges is one of the region's signature experiences. The horses are small, sturdy, and traditionally used by gardians working with black Camargue bulls.

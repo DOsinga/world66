@@ -7,6 +7,7 @@ tags:
 title: Dresden City Museum (Stadtmuseum)
 type: poi
 story: "The museum's most unsettling section covers the period 1933–1945, when Dresden — long marketed as a city of art and culture — was also home to enthusiastic Nazi participation, a thriving arms industry, and 26 forced labour camps within the city limits. The firebombing of February 1945, which destroyed most of this infrastructure along with everything else, has since been used selectively to obscure this history."
+score: 6.8
 ---
 
 The Dresden City Museum occupies the Landhaus, an eighteenth-century administrative building on Landhausstrasse, and covers the full arc of Dresden's history from its medieval origins through the GDR period and reunification. For visitors who have spent time with the Baroque art and the reconstructed palaces, the Stadtmuseum provides essential context: where did all this wealth come from, who lived here, and what happened to the city across the twentieth century?

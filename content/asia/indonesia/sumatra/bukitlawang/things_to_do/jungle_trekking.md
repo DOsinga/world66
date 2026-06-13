@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.8
 ---
 
 Trekking into the national park is the reason most people come to Bukit Lawang. Guides are mandatory inside the park, and the quality of your guide largely determines the quality of your trek — a good one will read the forest, find wildlife that isn't visible to an untrained eye, and get you out safely if the weather turns.

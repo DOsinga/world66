@@ -8,6 +8,7 @@ tags:
 latitude: 38.0329
 longitude: -120.4024
 story: "Columbia produced $87 million in gold during its peak years and was briefly known as the 'Gem of the Southern Mines.' It came within two votes of being named the state capital of California in 1854, losing out to Sacramento."
+score: 9.5
 ---
 
 A four-mile drive north of Sonora, Columbia is the best-preserved Gold Rush town in California — not a reconstruction but the actual buildings, still standing on their original foundations. The state took over management in 1945 and has kept it as a living museum: stagecoaches run on the main street, a saloon pours drinks, the blacksmith works at his forge, and the general store sells goods out of its original cases.

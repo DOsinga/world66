@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Gjin Aleksi Mosque
 type: poi
+score: 7.0
 ---
 
 The Gjin Aleksi Mosque stands in the village of Rusan, two kilometres west of Delvina. Completed in the 17th century and designated a Cultural Monument of Albania, the mosque is small but architecturally important — built of cut stone with a tile roof and an elegant minaret, and notable for the quality of its acoustics, which the original builders achieved by setting empty clay jars into recesses in the walls.

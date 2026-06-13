@@ -6,6 +6,7 @@ longitude: 131.602242
 tags:
   - things_to_do
   - museum
+score: 6.5
 ---
 
 The Oita City Art Museum is the more low-key cousin of [OPAM](/asia/japan/kyushu/oita/oita_prefectural_art_museum), tucked into Ueno-no-Mori park a couple of kilometres south of the centre. The collection concentrates on local artists and Buddhist art, with rotating temporary exhibitions that lean toward Japanese painting and craft.

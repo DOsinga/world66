@@ -8,6 +8,7 @@ latitude: 25.0633
 longitude: 104.9458
 story: >
   The geological process that created Wanfenglin began about 300 million years ago, when marine limestone was deposited in what is now Guizhou. Tectonic uplift brought it to the surface, and then water — acidic rainwater dissolving calcium carbonate — carved the flat plateau into the conical towers that now rise from the valley floor. Each tower is the resistant remnant of the original plateau, separated from its neighbours by dissolution. The farmers who have cultivated the rice paddies and rapeseed fields between the towers for generations have lived, without naming it, inside one of the most dramatic examples of karst topography on earth.
+score: 9.1
 ---
 
 Wanfenglin — the Forest of Ten Thousand Peaks — is a landscape of conical karst towers rising from a plain of rice paddies and rapeseed fields in the area around Xingyi. The name is not hyperbole: the area encompasses over 20,000 individual karst peaks across an area of about 2,000 square kilometres, densely packed enough that the horizon in every direction is a broken line of green cones.

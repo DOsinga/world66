@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.3989
 longitude: 8.7646
+score: 7.8
 ---
 
 On the southern edge of the city, the date palm oases begin where the streets give out. The palms here are tall and old, planted in the traditional three-tier pattern — dates at the top, fruit trees in the middle, vegetables in the shade below — that allowed oasis communities to extract maximum production from each square meter of irrigated ground. Walking into the oases from the city edge is a quick transition from concrete and dust to shadow and the sound of water moving through channels.

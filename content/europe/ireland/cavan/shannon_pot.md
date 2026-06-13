@@ -8,6 +8,7 @@ tags:
 latitude: 54.2025
 longitude: -7.8661
 story: "The Shannon Pot is a small, dark pool on the Cuilcagh plateau that is traditionally identified as the source of the River Shannon — Ireland's longest river at 360 kilometres. The Shannon's association with Sionnan, a goddess who came here seeking forbidden knowledge and was drowned by the well's waters, makes this one of the few Irish rivers with a creation myth attached to its very source."
+score: 7.4
 ---
 
 The Shannon Pot is a small, circular pool set into the boggy plateau below Tiltinbane mountain in northwest County Cavan, and it is as close as anyone has pinpointed to the true source of the River Shannon. The water rises here from a cave system beneath the Cuilcagh Mountains, cold and dark, before flowing south and then east on a 360-kilometre journey to the Atlantic.

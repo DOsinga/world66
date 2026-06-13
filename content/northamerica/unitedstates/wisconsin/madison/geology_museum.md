@@ -9,6 +9,7 @@ longitude: -89.4028
 snippet: "Free natural history museum on campus with a mastodon skeleton, meteorites, and Wisconsin minerals"
 sources:
   - https://en.wikipedia.org/wiki/UW%E2%80%93Madison_Geology_Museum
+score: 6.8
 ---
 
 The University of Wisconsin Geology Museum is one of those small, excellent university museums that gets overlooked in favour of bigger institutions. It is free, located in Weeks Hall on the UW campus, and contains a genuinely impressive collection of fossils, minerals, and geological specimens with particular depth in Wisconsin's own geological history.

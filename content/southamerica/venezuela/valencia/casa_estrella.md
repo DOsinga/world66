@@ -9,6 +9,7 @@ tags:
 - museum
 title: Casa de la Estrella
 type: poi
+score: 8.3
 ---
 
 The Casa de la Estrella, on the eastern side of Plaza Bolívar, is one of the most important political sites in nineteenth-century Venezuelan history. Originally a Jesuit foundation, the building was confiscated when the order was expelled and served at different points as a hospital, a barracks, and the seat of the early-republic Congress. It was here, in May 1830, that the Constituent Congress meeting in Valencia formally separated Venezuela from Gran Colombia and adopted its first constitution as an independent republic.

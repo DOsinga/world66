@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 25.2626
 longitude: 51.4445
+score: 6.2
 ---
 
 The 300-metre Aspire Tower — also known as the Torch — rises above Aspire Zone with a distinctive angled crown designed to evoke a flame. Built for the 2006 Asian Games, it was briefly the tallest building in Qatar and remains one of the more graceful towers in a Doha skyline otherwise given to aggressive commercial architecture. A Torch hotel occupies the upper floors.

@@ -4,6 +4,7 @@ type: poi
 latitude: 34.1017
 longitude: -118.3406
 tags: [things_to_do, sight, hollywood]
+score: 5.8
 ---
 
 The fifteen-block run of brass-and-terrazzo stars set into the sidewalks of Hollywood Boulevard and Vine Street, with more than 2,700 names from across the entertainment industry. New stars are added at a rate of around twenty a year, each unveiling drawing a crowd.

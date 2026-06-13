@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9931
 longitude: 22.8794
+score: 7.2
 ---
 
 A two-kilometre riverfront park along the south bank of the Danube, running from the modern bridge down past Baba Vida and into the old town. It is the social heart of Vidin in summer — locals walk it in the early evening, cafes spill out onto the grass, and the river makes the air several degrees cooler than the streets behind.

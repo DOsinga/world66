@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 story: "The Fernheim cooperative is one of the largest businesses in Paraguay outside Asunción. Its Trébol-branded dairy products, made in nearby Loma Plata, account for a significant share of Paraguayan milk and cheese — a remarkable industrial output from a colony of around 5,000 people."
+score: 6.7
 ---
 
 The Fernheim Cooperative — the agricultural co-op that effectively runs everyday life in Filadelfia — has its central supermarket, hardware store, and offices on Avenida Hindenburg. The supermarket is interesting in its own right as a snapshot of how the colony works: shelves stacked with cooperative-brand dairy, sausages, jam, and bread, German labels alongside Spanish.

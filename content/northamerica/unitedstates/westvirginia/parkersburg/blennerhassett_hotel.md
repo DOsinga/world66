@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The grand 1889 hotel at the corner of 4th and Market, four storeys of red brick and stone in a confident Queen Anne style, with a domed corner turret. It was built at the height of Parkersburg's oil-boom prosperity by William Chancellor, an industrialist who wanted his city to have a hotel to match those of Cincinnati and Pittsburgh. After near-demolition in the 1970s it was reopened in 1986 and remains the city's signature address.

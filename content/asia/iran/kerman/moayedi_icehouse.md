@@ -15,6 +15,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.8
 ---
 
 The Yakhchāl-e Moayedi is a vast Qajar-era ice house on the western edge of Kerman, with a conical mudbrick dome rising 18 metres over a deep underground chamber. The system — a cleverly engineered low-tech refrigerator — once produced and stored ice through the desert summer, supplying the city's bazaars and the homes of the wealthy through to the early 20th century.

@@ -16,6 +16,7 @@ story: >
   summer droughts.
 sources:
   - https://en.wikipedia.org/wiki/Wadi_Wurayah_National_Park
+score: 8.0
 ---
 
 Wadi Wurayah is one of the most spectacular wadis in the UAE, a deep gorge cut through the Hajar Mountains that ends in a series of freshwater pools and a seasonal waterfall. The UAE's first designated mountain national park, it protects a genuinely wild landscape of granite cliffs, acacia woodland, and spring-fed pools that harbour species — freshwater crabs, Blanford's fox, caracals, Arabian leopards — found nowhere else in the country.

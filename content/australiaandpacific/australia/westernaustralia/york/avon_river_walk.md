@@ -9,6 +9,7 @@ latitude: -31.8878
 longitude: 116.7703
 sources:
   - https://en.wikipedia.org/wiki/Avon_Park,_York
+score: 6.3
 ---
 
 The Avon River runs along the western edge of town and the flat parkland along its banks — Avon Park — provides an easy, pleasant walk. In spring the wildflowers along the water's edge are at their best, and the river itself fills after winter rains to provide a green backdrop to the otherwise dry wheatbelt landscape.

@@ -5,6 +5,7 @@ tags: [things_to_do, museum, art]
 latitude: 50.4375
 longitude: -104.6131
 story: The MacKenzie Art Gallery's permanent collection of roughly 5,000 works includes significant holdings of Canadian art from the 19th century to the present, with particular strength in Saskatchewan artists and the broader prairie experience. Norman MacKenzie, the Regina lawyer who founded the collection in the 1930s, had an unusual eye for contemporary work — several of his purchases have turned out to be by artists who became major Canadian figures.
+score: 8.3
 ---
 
 The MacKenzie Art Gallery is Saskatchewan's oldest public art gallery and the largest in the province, situated on the eastern edge of Wascana Park. The permanent collection focuses on Canadian art — the Group of Seven and their contemporaries, the prairie regionalist tradition of the mid-20th century, and contemporary Indigenous art — with enough depth in each area to reward a longer visit than most people allocate.

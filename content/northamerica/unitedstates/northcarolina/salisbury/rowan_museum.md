@@ -7,6 +7,7 @@ tags:
 - museum
 title: Rowan Museum
 type: poi
+score: 7.5
 ---
 
 The Rowan Museum occupies the old Rowan County Courthouse on West Council Street, a handsome Greek Revival brick building from 1854. Its permanent galleries trace the county's history from the colonial frontier through the Civil War and the industrial cotton-mill boom of the early 20th century, with rotating exhibits drawing on the museum's collections of local quilts, ceramics, photographs, and decorative arts.

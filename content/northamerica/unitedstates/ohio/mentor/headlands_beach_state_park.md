@@ -8,6 +8,7 @@ latitude: 41.7545
 longitude: -81.2904
 sources:
   - https://en.wikipedia.org/wiki/Headlands_Beach_State_Park
+score: 8.1
 ---
 
 A short drive northeast of Mentor, Headlands Beach State Park preserves the longest natural sand beach in Ohio — about a mile of undeveloped Lake Erie shoreline. Unlike most of the developed lakefront elsewhere in the region, the beach here is backed by a protected nature area and feels genuinely wild. The water is cold but swimmable in summer, and the swimming area is watched over by lifeguards during peak season.

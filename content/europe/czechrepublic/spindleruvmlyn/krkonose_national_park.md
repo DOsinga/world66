@@ -10,6 +10,7 @@ latitude: 50.7667
 longitude: 15.65
 story: >
   Krkonoše is home to the krkonoš — the "mountain spirit" of Czech and Polish folklore, a capricious giant who brings storms, guides lost travellers, and punishes those who disrespect the mountains. The national park on both sides of the Czech-Polish border bears his name. He appears as a bearded figure in local art and carvings throughout the resort.
+score: 9.4
 ---
 
 The Krkonoše National Park (Giant Mountains) is the oldest national park in the Czech Republic, established in 1963, and it straddles the border with Poland where the park continues as Karkonoski Park Narodowy. Špindlerův Mlýn sits in the heart of it, which means that step off the ski run or hiking path and you are in protected wilderness.

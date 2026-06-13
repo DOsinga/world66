@@ -8,6 +8,7 @@ latitude: 30.2620
 longitude: -97.7449
 story: >
   When the Congress Avenue Bridge was renovated in 1980, the new design accidentally created the perfect roosting habitat — narrow crevices under the bridge deck with good airflow. The bats moved in, and the city's first reaction was panic: there were calls to exterminate them. A campaign by Bat Conservation International changed the narrative, and Austin became the first city in America to actively celebrate its urban bat colony.
+score: 8.8
 ---
 
 Every evening from March to November, approximately 1.5 million Mexican free-tailed bats emerge from under the Congress Avenue Bridge in what is one of the great wildlife spectacles of North American cities. The emergence begins about 20 minutes after sunset and can last 45 minutes — a continuous dark spiral of bats pouring out over Lady Bird Lake and heading north and west to feed on moths and other insects.

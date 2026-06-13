@@ -9,6 +9,7 @@ longitude: -2.2471
 snippet: "12th-century church on Southgate Street where George Whitefield was baptised and gave his first sermon"
 sources:
   - https://en.wikipedia.org/wiki/St_Mary_de_Crypt_Church,_Gloucester
+score: 7.4
 ---
 
 St Mary de Crypt is one of Gloucester's older surviving churches, first recorded in 1140, and it sits on Southgate Street among the medieval layers of the city centre. The building has been altered many times over the centuries but retains Norman fabric in its walls and a crypt that gives it its name.

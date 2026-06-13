@@ -10,6 +10,7 @@ tags:
 - tower
 title: Eiffel Tower Observation Deck
 type: poi
+score: 6.9
 ---
 
 Ride to the top of the half-scale Eiffel Tower replica at Paris Las Vegas for panoramic views of the Strip and the surrounding desert mountains. The observation deck sits at 50 floors up and faces directly across the boulevard towards the Bellagio fountains — one of the better vantage points on the Strip. Tickets run around $25–38 depending on time of day; evening costs more but the view of the lit-up Strip is worth it.

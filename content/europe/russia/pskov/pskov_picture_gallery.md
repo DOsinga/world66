@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 57.8197
 longitude: 28.3341
+score: 5.8
 ---
 
 The Pskov Picture Gallery occupies a historic mansion near the city centre and holds a modest but worthwhile collection of Russian painting, with a focus on works associated with Pskov and the northwest. The permanent collection includes 18th and 19th-century canvases, Soviet-era realist painting, and a small section of contemporary regional art.

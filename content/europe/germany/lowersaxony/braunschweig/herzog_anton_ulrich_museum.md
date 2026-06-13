@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Duke Anton Ulrich of Brunswick-Wolfenbüttel began collecting paintings, prints, and applied arts in the late 17th century with a seriousness that went beyond courtly fashion — he was genuinely interested in how art worked and wrote a novel (the longest in the German language at the time) partly as an exercise in narrative structure. In 1754, his successors opened the collection to the public, making it one of the first art museums in the world to be systematically accessible outside of court circles."
+score: 8.8
 ---
 
 One of Germany's oldest public art museums and one of the underrated collections of northern Europe. The **Old Masters** holdings are exceptional: Vermeer's *Girl with a Wine Glass* (one of only 35 authenticated Vermeers), Rembrandt's *Family Portrait*, Cranach, Holbein, Rubens, and a strong Italian section including Giorgione and Titian.

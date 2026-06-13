@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 26.9650
 longitude: 94.2100
+score: 8.8
 ---
 
 The Mishing are Majuli's principal indigenous community, a Tibeto-Burmese people whose settlements of raised bamboo stilt houses line the river channels across the island. The stilt construction is practical — the houses sit above the annual flood level — and the villages have a particular visual character: red-and-white woven textiles hung to dry on bamboo frames, pigs and chickens in the space below the houses, small boats moored in the mud at the water's edge.

@@ -6,6 +6,7 @@ longitude: 76.7717
 tags:
   - things_to_do
   - park
+score: 5.8
 ---
 
 The Terraced Garden in Sector 33 is a series of stone-walled levels stepping down a low slope, planted heavily with seasonal flowers and arranged around a central musical fountain. It is the most family-friendly of Chandigarh's many gardens — quiet on weekday mornings, busy on Sunday evenings when the fountain show runs.

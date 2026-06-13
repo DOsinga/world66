@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.4615
 longitude: -3.8096
+score: 7.0
 ---
 
 Calle Daoiz y Velarde and the network of streets around it form the core of Santander's pintxos district — a dense cluster of bars where the counter is lined with small bites and the serious business of the evening is deciding which one to enter next. The tradition here is similar to San Sebastián's but less performative: the pintxos are good, the prices are fair, and the atmosphere is local rather than touristy.

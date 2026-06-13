@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 45-metre marble-clad Buddha statue on Nakkerd Hill was begun in 2004 and is still officially unfinished after two decades — the project has always relied on donations from visitors, and the white Burmese marble cladding is added piece by piece as funds allow."
+score: 8.8
 ---
 
 The Great Buddha of Phuket sits on Nakkerd Hill above Chalong, visible from Kata, Karon, and most of southern Phuket. It is one of the most-visited sights on the island — partly for the statue, partly for the panoramic view from the surrounding platform.

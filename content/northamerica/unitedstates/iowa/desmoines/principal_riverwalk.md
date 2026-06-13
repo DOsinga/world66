@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5870
 longitude: -93.6196
+score: 7.4
 ---
 
 The Principal Riverwalk loops 1.2 miles along both banks of the Des Moines River through downtown, crossing the river twice via dedicated pedestrian bridges. It is the easiest way to see the city's relationship to its river and links almost every downtown landmark — Cowles Commons, the World Food Prize, the Pappajohn park, and the East Village — into a single walkable circuit.

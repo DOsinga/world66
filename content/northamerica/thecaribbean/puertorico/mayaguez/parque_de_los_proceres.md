@@ -6,6 +6,7 @@ longitude: -67.1378
 tags:
   - things_to_do
   - park
+score: 6.2
 ---
 
 A long landscaped park along Avenida Hostos, north of the city centre, the Parque de los Próceres is Mayagüez's main green space and the standard place for an evening walk or run. The name — Park of the Patriots — comes from the bronze busts of Puerto Rican political and literary figures lining the central path: Hostos, Betances, José de Diego, Lola Rodríguez de Tió among them.

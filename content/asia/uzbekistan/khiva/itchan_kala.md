@@ -16,6 +16,7 @@ story: >
   some 250 traditional houses in a rectangle 600 by 400 metres. Most of the
   surviving fabric dates from the 18th and 19th centuries, when Khiva was the
   capital of an independent khanate.
+score: 9.6
 ---
 
 Itchan Kala is the walled core of Khiva, a near-rectangular medina of mud-brick streets, minarets, palaces, and madrassas surrounded by a tapering city wall up to ten metres high. The walls have four gates — one in each cardinal direction — and a continuous walkway runs along the top of the western section, with views down into the alleys and across the rooftops to the surrounding desert.

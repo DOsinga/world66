@@ -17,6 +17,7 @@ story: >
   Felix Yusupov, later became famous as one of the conspirators who murdered Rasputin.
 sources:
   - https://en.wikipedia.org/wiki/Manoir_de_Stang-al-lin
+score: 6.6
 ---
 
 The Château de Kériolet stands a few kilometres north of Concarneau, a lavish Gothic Revival building from the 1860s that stands out among the more sober Breton architecture of the region. The building was designed by the architect Joseph Bigot for a Russian princess and is notable for combining Breton granite construction with Gothic decorative elements and a somewhat theatrical ambition. The result is genuinely impressive: towers, carved stone tracery, and an elaborate interior that reflects the wealth and taste of its original owner.

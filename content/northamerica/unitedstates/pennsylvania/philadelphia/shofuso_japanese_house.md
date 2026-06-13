@@ -7,6 +7,7 @@ tags:
 latitude: 39.9804
 longitude: -75.2249
 snippet: "A 16th-century-style Japanese house and garden in West Fairmount Park — one of the finest traditional Japanese landscapes on the East Coast"
+score: 8.5
 ---
 
 In a clearing in West Fairmount Park stands a complete 17th-century-style Japanese house, built in Nagoya in 1953 and presented to the Museum of Modern Art in New York before being relocated to Philadelphia in 1958 as a gift to the city. Shofuso — "Pine Breeze Villa" — is one of the most authentic traditional Japanese structures outside Japan, constructed by master craftsmen using cypress and hinoki wood joinery without nails, and surrounded by a garden designed by Sano Toemon VIII, one of Japan's most celebrated garden designers.

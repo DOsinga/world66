@@ -15,6 +15,7 @@ story: >
   built thirty years later during a second occupation.
 sources:
   - https://en.wikipedia.org/wiki/Sokehs_Rebellion
+score: 7.9
 ---
 
 Sokehs Rock dominates the northern skyline of Kolonia — a 190-metre basalt monolith rising almost vertically from the end of Sokehs Island, visible from almost everywhere on the main part of Pohnpei. The rock is the hardened plug of an ancient volcano, its upper face sheer grey-black cliff. From the summit, on a clear day, you can see across the entire lagoon and out towards the open Pacific.

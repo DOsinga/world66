@@ -10,6 +10,7 @@ longitude: 7.0389
 snippet: A 14th-century tower with a remarkable story — built by a penitent noblewoman to save her soul
 story: >
   Local tradition holds that the tower was commissioned by one of three sisters who, after a life of luxury and pleasure, decided to make amends by building something for God. The tower's name — "Juffer" means "young lady" or "miss" in old Dutch — preserves the memory of this unnamed benefactress, though whether her soul was saved by the investment is not recorded.
+score: 7.1
 ---
 
 The Juffertoren is a medieval tower attached to the old church of Onstwedde, dating from around the 14th century. The tower is the most distinctive landmark in the village and is visible from the surrounding flat countryside. Inside the church, which dates from the 15th century and is dedicated to St. Nicholas, a remarkable baptismal font of Bentheimer sandstone is the main attraction.

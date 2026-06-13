@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mesa Top Loop
 type: poi
+score: 8.2
 ---
 
 Mesa Top Loop is part of the larger Mesa Verde story, where architecture, farming, water, and movement through canyon country all mattered. Look beyond the drama of the alcoves: the masonry, ventilation, storage rooms, and paths tell you how carefully people understood this landscape.

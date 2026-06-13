@@ -7,6 +7,7 @@ tags:
 - beach
 title: Summerleaze Beach
 type: poi
+score: 7.9
 ---
 
 Summerleaze is Bude's main beach, a broad sandy cove at the mouth of the River Neet immediately below the town centre. The breakwater to the north provides some shelter from the prevailing Atlantic swell, and the beach is reliably family-friendly as a result — the waves are manageable for children and the sand extends well at low tide. The adjacent Bude Sea Pool, a large tidal swimming pool cut into the rocks at the north end of the beach, provides calmer swimming when the surf is up.

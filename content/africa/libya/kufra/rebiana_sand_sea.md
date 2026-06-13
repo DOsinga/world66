@@ -7,6 +7,7 @@ tags:
 latitude: 24.0
 longitude: 22.0
 snippet: Vast dune field stretching north of Kufra toward the Libyan interior
+score: 8.8
 ---
 
 The Rebiana Sand Sea (Erg Rebiana) stretches north and west of Kufra — an enormous field of dunes covering tens of thousands of square kilometres. It is one of the largest ergs in the Sahara, and reaching its edge from the Kufra oasis gives a visceral sense of the isolation that defined life here for centuries. Caravans crossing the Sahara navigated around or through these dunes using stars, wind, and accumulated desert knowledge.

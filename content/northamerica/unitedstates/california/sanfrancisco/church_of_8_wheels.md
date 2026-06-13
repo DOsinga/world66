@@ -8,6 +8,7 @@ tags:
 - sight
 title: Church of 8 Wheels
 type: poi
+score: 6.7
 ---
 
 A 19th-century Sacred Heart Church in the Western Addition has been converted into a roller-skating rink, and it is exactly as fun as it sounds. The stained glass windows are still there, the vaulted ceilings soar overhead, and a disco ball spins where the altar used to be. Skate rental is available on-site.

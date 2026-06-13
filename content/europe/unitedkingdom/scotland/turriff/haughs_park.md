@@ -8,6 +8,7 @@ tags:
 - sight
 title: The Haughs and Deveron Walk
 type: poi
+score: 5.8
 ---
 
 The Haughs is the broad riverside parkland on the banks of the River Deveron just south of the town, used in early August for the Turriff Show and the rest of the year as the town's main park. A circular walk of about 4 km follows the river upstream from the bridge, crosses by a footbridge, and returns along the opposite bank through woodland and meadow — flat, well-marked, and one of the best easy walks in the area.

@@ -13,6 +13,7 @@ story: >
   that once controlled much of the surrounding land. The monks helped shape the
   region's wine culture, and the ruined cloisters now make the connection
   between landscape, religion and vineyards unusually visible.
+score: 8.6
 ---
 
 The Cartoixa d'Escaladei is the ruined Carthusian monastery that gave Priorat its name and much of its historical identity. Set below the Montsant cliffs, it has the melancholy grandeur of a place that was once powerful and then abandoned to weather and politics.

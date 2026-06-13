@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 51.3315
 longitude: 1.4224
+score: 6.1
 ---
 
 The Ramsgate Maritime Museum occupies the restored Clock House on the inner harbour and covers the maritime history of East Kent, from medieval trade to the Dunkirk evacuation. The museum holds a collection of charts, ship models, navigational instruments, and local fishing equipment, and includes a dedicated section on the role Ramsgate played in Operation Dynamo — the 1940 evacuation of Allied troops from Dunkirk beaches, for which the town's harbour served as a key embarkation point for the Little Ships.

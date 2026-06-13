@@ -14,6 +14,7 @@ tags:
 title: Checkpoint Charlie Museum
 type: poi
 url: www.mauermuseum.de
+score: 7.3
 ---
 
 Opened in 1963, right next to the crossing point where Allied soldiers once faced off against East German guards. The museum documents the escape attempts — ingeniously hidden in car boots, luggage, even a homemade hot-air balloon — made by East Germans fleeing to the West. It's chaotic and densely packed, but the emotional weight of the stories is undeniable.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.5
 ---
 
 The city's main bathing beach, running west from the harbour entrance for a kilometre and a half along the foot of the boulevard. Wide enough to find a quiet patch even in high summer, with the boulevard's cafes and ice-cream stands two minutes' walk above.

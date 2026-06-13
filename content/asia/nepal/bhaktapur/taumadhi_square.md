@@ -7,6 +7,7 @@ tags:
 latitude: 27.6712
 longitude: 85.4286
 snippet: Bhaktapur's second great square, dominated by the Nyatapola and Bhairavnath temples
+score: 8.7
 ---
 
 Taumadhi Square is the busiest of Bhaktapur's three historic squares — a wide open space dominated by the soaring Nyatapola Temple on one side and the squat, heavily decorated Bhairavnath Temple on the other. In between is a constant activity of traders, visitors, priests, and locals who use it as a daily thoroughfare. Cafes on the upper floors of buildings around the square offer terrace seating with views of the temples at eye level.

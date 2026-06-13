@@ -9,6 +9,7 @@ tags:
 title: Kunsthaus Zürich
 type: poi
 url: www.kunsthaus.ch
+score: 9.2
 ---
 
 The largest and most important art museum in Switzerland, with a collection spanning medieval altarpieces through to the present day but strongest in the 19th and 20th centuries. Highlights include works by Giacometti (a particularly deep collection), Monet, Munch, Picasso, and Chagall. The museum expanded significantly with a new building in 2021, doubling its gallery space. Plan at least two to three hours.

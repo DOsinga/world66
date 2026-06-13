@@ -6,6 +6,7 @@ longitude: 21.2269
 tags:
   - things_to_do
   - museum
+score: 8.3
 ---
 
 The National Museum of Banat occupies most of Huniade Castle. Its collections cover the archaeology, history, ethnography and natural sciences of the Banat region — the wide plain that stretches across western Romania, eastern Serbia and southern Hungary. It is among the largest and oldest regional museums in Romania, founded in 1872.

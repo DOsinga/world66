@@ -9,6 +9,7 @@ latitude: 47.1617
 longitude: 27.5841
 sources:
   - https://en.wikipedia.org/wiki/Roznovanu_Palace
+score: 6.8
 ---
 
 The Roznovanu Palace, also known as the Roset-Roznovanu Palace, is a Neoclassical building in the historic centre of Iași, currently serving as the city hall. Built in the early 19th century for a prominent Moldavian boyar family, it is one of the finest examples of the elegant architecture that characterised Iași during its period of greatest prosperity, when the city was the capital of the Principality of Moldavia and aspired to be a Paris of the East.

@@ -5,6 +5,7 @@ snippet: "Hilltop square around the Catholic parish church, with views over the 
 tags: [things_to_do, sight, viewpoint]
 latitude: 47.6694
 longitude: 19.0755
+score: 8.2
 ---
 
 Templom tér — Church Square — sits on the low hill just above Fő tér. The walk up takes a couple of minutes through narrow cobbled lanes; the climb is worth it for the view alone. From the parapet at the edge of the square the rooftops of Szentendre and the Danube bend spread out below.

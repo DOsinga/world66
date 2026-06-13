@@ -9,6 +9,7 @@ tags:
   - park
 sources:
   - https://en.wikipedia.org/wiki/Prospect_Park_(Troy,_New_York)
+score: 7.2
 ---
 
 An 80-acre city park on the hillside above downtown, Prospect Park offers the best views in the area — west over the Hudson River, across to the Catskill foothills on a clear day, and north toward the Capital District. The park was laid out in the late 19th century in the naturalistic tradition of Frederick Law Olmsted, with curving paths, open meadows, and a small pond. It's popular with RPI students and local families on weekends.

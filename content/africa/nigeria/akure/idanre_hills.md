@@ -11,6 +11,7 @@ story: >
   The old town of Idanre perches on top of the hills, accessible only by foot up a staircase of 660 steps. The townspeople lived here for centuries, safe from slave raiders and warring armies in the lowlands below. They moved down to the new town in the valley only in the 1950s, after the construction of a road made the old isolation unnecessary.
 sources:
   - https://en.wikipedia.org/wiki/Idanre_Hills
+score: 8.9
 ---
 
 The Idanre Hills are the most dramatic landscape feature in Ondo State, a cluster of ancient granite inselbergs rising suddenly from the surrounding plain about 40 kilometres south of Akure. The hills are a UNESCO World Heritage tentative list site and are genuinely impressive: smooth domes of rock, deep ravines, a sea of forest below, and an old hilltop settlement that was inhabited continuously for centuries.

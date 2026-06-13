@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2786
 longitude: -4.2718
+score: 7.4
 ---
 
 Rissani is a small market town 25 kilometres northwest of Merzouga, and it is the practical and historical counterpart to the tourist-oriented village. It sits near the ruins of Sijilmassa, a medieval Islamic city that was for centuries the northern terminus of the trans-Saharan caravan trade — gold, salt, and enslaved people flowed through here between sub-Saharan Africa and the Mediterranean world. The ruins are substantial but largely unexcavated; they stretch for kilometres south of the modern town.

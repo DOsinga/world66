@@ -14,6 +14,7 @@ story: >
   Fredericton was garrisoned continuously from 1784 until the British withdrawal in 1869.
 sources:
   - https://en.wikipedia.org/wiki/Fredericton
+score: 7.8
 ---
 
 The Historic Garrison District occupies several blocks of downtown Fredericton and preserves much of the military infrastructure left over from the city's long history as a British garrison. Officers' Square, the Guard House, and the old Barracks buildings (now home to the Fredericton Region Museum) form the core of the district. The square itself is a large open green used for events and summer performances.

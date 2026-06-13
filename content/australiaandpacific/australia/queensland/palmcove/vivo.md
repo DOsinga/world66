@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -16.7470
 longitude: 145.6659
+score: 5.8
 ---
 
 Vivo is the more casual end of the Palm Cove dining strip — wood-fired pizzas, pastas, salads, and a bar that does good cocktails. It has been a reliable option for years, popular with families and couples who want a good meal without the formality or price of the resort restaurants.

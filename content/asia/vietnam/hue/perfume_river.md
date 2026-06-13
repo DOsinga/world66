@@ -7,6 +7,7 @@ tags:
 - sight
 title: Perfume River
 type: poi
+score: 7.2
 ---
 
 The Huong Giang — Perfume River — flows through the centre of Hue in a slow, wide arc, giving the city much of its distinctive atmosphere. The name comes from wildflowers and herbs that grew along the upstream banks and gave the water a faint scent in the dry season. Today the river carries the usual traffic of a Vietnamese city waterway, but the light on the water at dawn and dusk remains extraordinary, and the broad sweep of the river framing the Citadel walls is one of the enduring images of Vietnam.

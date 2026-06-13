@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 35.3135
 longitude: 46.9965
+score: 7.4
 ---
 
 The old bazaar of Sanandaj is a working market rather than a tourist attraction, and it is more interesting for that. The covered lanes near the Jameh Mosque contain spice sellers, dried fruit stalls, coppersmiths, and shops selling Kurdish textiles — the embroidered cloth, the baggy trousers of traditional Kurdish dress, and the handwoven kilims that are produced in the villages of Kurdistan Province.

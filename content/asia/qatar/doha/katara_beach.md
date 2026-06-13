@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.3555
 longitude: 51.5285
+score: 6.3
 ---
 
 The beach at Katara Cultural Village is one of the few stretches of public sandy beach accessible close to central Doha. It is clean, calm, and backed by the cultural village's pale-stone buildings. Swimming is possible most of the year, though the water temperature in winter drops enough to make it brisk.

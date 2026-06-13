@@ -8,6 +8,7 @@ latitude: 1.2850
 longitude: 97.6190
 sources:
   - https://en.wikipedia.org/wiki/Gunungsitoli
+score: 5.9
 ---
 
 Beringin Market is the commercial heart of Gunungsitoli and the best place to eat a cheap, filling meal. Warung stalls around the market perimeter open at dawn and run until early afternoon, serving nasi campur (rice with side dishes), mie goreng, and fresh fish brought in from the harbour. The market itself trades in everything from vegetables and spices to local durian — the Nias variety is famously aromatic and sought after across North Sumatra.

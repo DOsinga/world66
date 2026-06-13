@@ -8,6 +8,7 @@ latitude: 26.9195
 longitude: 75.8256
 address: Johari Bazar, Pink City, Jaipur
 snippet: Old-school Jaipur institution for sweets, thalis, and Rajasthani snacks since 1954
+score: 6.7
 ---
 
 Laxmi Mishtan Bhandar — universally known as LMB — is one of those places that has been feeding Jaipur since 1954 and shows no signs of changing anything. The ground floor is a sweet shop and snack counter; upstairs is a pure vegetarian restaurant serving Rajasthani thalis and North Indian food in the reliable, slightly formal style of an older-generation Indian restaurant.

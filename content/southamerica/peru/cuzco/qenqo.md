@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -13.5106
 longitude: -71.9717
+score: 7.1
 ---
 
 An Inca ceremonial site 6 km northeast of Cusco on the road toward Sacsayhuamán, Q'enqo (Quechua for "zigzag") is a large limestone outcrop carved with channels, niches, steps, and an underground chamber that archaeologists believe was used for ritual sacrifice and mummification. The name comes from the zigzag channels cut into the rock surface, through which offerings of chicha and blood were poured and the direction of flow used for divination.

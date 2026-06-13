@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 59.3475
 longitude: 26.3560
+score: 6.6
 ---
 
 The parish church at the north end of Pikk Street — a three-aisled Lutheran building with origins in the fifteenth century, though the present exterior is mostly the result of a heavy nineteenth-century rebuild after a fire. The plain limestone façade and small spire are unfussy; the inside contains a baroque altar from the 1730s and a wooden organ loft worth a look.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Port_of_Brindisi
 story: >
   The distinctive shape of Brindisi's harbour — two long inlets extending inland like the antlers of a deer — gave the city its name. In Greek, "brentesion" means "deer's head," and the topographic explanation is still the most satisfying one. The shape also made the port almost uniquely useful: ships could shelter in one inlet while storms battered the other entrance.
+score: 7.9
 ---
 
 Brindisi's inner harbour is one of the finest natural ports in the Mediterranean, and walking the Corso Garibaldi along its length is the best way to understand why this city has been a departure point for the east for over two thousand years. The promenade extends from the foot of the Roman column steps northward around the harbour arc, with the old town buildings on one side and the water — and, depending on the time of year, a row of moored ferries — on the other.

@@ -15,6 +15,7 @@ story: >
   and rebuilt on the same spot.
 sources:
   - https://en.wikipedia.org/wiki/Naminoue_Shrine
+score: 6.6
 ---
 
 Naminoue Shrine sits on a low coral cliff above the sea in the Wakasa district of Naha, a ten-minute walk from the city centre. As the ichinomiya — the ranking shrine — of Okinawa Prefecture, it holds a special significance in the local religious calendar and attracts worshippers throughout the year, particularly around New Year.

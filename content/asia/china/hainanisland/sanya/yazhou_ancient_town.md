@@ -8,6 +8,7 @@ tags:
 - historic
 title: Yazhou Ancient Town
 type: poi
+score: 8.0
 ---
 
 Yazhou — the modern Yazhou District — is the historic core of southern Hainan, the administrative capital of this corner of the empire from the Tang dynasty until the city of Sanya was founded in modern times. The ancient town lies about 40 kilometres west of central Sanya and is far quieter than the resort strips: a small grid of streets centred on the Ming-era Yazhou Confucian Temple and the surviving stretches of the old city wall.

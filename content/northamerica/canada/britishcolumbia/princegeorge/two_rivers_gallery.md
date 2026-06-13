@@ -9,6 +9,7 @@ latitude: 53.9131
 longitude: -122.7453
 story: >
   The gallery's name refers to the confluence of the Fraser and Nechako Rivers on which Prince George was built — a meeting point that the Lheidli T'enneh people have inhabited for thousands of years. The building itself is a deliberate civic statement: the two main galleries are named after the local forestry company Canfor, which donated significantly to the construction.
+score: 7.1
 ---
 
 Two Rivers Gallery is Prince George's main art museum and one of the strongest contemporary art galleries in northern British Columbia. The permanent collection focuses on Canadian artists, particularly those from BC and the north, with rotating exhibitions that bring work from across the country. The gallery also runs a substantial education programme and is the cultural anchor of downtown Prince George.

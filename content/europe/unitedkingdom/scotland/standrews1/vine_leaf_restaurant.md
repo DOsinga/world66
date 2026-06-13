@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 56.3394
 longitude: -2.7958
+score: 6.0
 ---
 
 The Vine Leaf on South Street is a small, independent restaurant that has been feeding St Andrews well for over thirty years. It occupies a Victorian shopfront on the south side of South Street and seats about forty people in a room that manages to feel both comfortable and slightly formal. The menu covers Scottish produce — particularly Fife seafood and locally sourced meat — cooked with some care and ambition.

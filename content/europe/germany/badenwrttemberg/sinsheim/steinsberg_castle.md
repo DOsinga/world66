@@ -13,6 +13,7 @@ story: >
   dukes built it in the twelfth century on a 333-metre volcanic cone;
   the five-sided tower is one of only a handful in Germany and was
   designed to deflect siege projectiles rather than absorb them.
+score: 7.3
 ---
 
 Steinsberg sits on a wooded hilltop above the village of Weiler, about six kilometres south of Sinsheim. The 31-metre pentagonal keep — unusual for German castle architecture — has been standing since the late twelfth century and is open for a steep climb up wooden stairs to a viewing platform.

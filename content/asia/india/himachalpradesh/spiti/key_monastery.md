@@ -10,6 +10,7 @@ longitude: 78.0143
 sources:
   - https://en.wikipedia.org/wiki/Key_monastery
 story: "Key Monastery was sacked multiple times — by Mongols in the 14th century, by Sikh armies in the 18th century, and by Dogra forces in the 19th century — yet it kept being rebuilt on the same impossible hilltop, 4,166 metres above sea level, as if the monks considered its destruction to be a temporary inconvenience."
+score: 9.1
 ---
 
 Key Monastery (Ki Gompa) is the largest monastery in Spiti and arguably its most photogenic: a white-and-ochre pile of prayer halls, sleeping quarters, and storage rooms stacked on a rock spur above the Spiti River, visible for kilometres in every direction. It was founded in the 11th century and belongs to the Gelugpa (Yellow Hat) school of Tibetan Buddhism, the same tradition as the Dalai Lama.

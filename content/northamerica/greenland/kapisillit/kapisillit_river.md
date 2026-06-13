@@ -8,6 +8,7 @@ latitude: 64.4400
 longitude: -50.2800
 story: >
   The Kapisillit river holds the only confirmed spawning population of Atlantic salmon in Greenland. The fish are thought to be a relict from a warmer post-glacial period and have survived in this single river. The population is small and tightly regulated; modest catch-and-release fishing is permitted by permit in summer.
+score: 7.1
 ---
 
 The salmon river drains a small valley into the Kapisillit fjord a few hundred metres from the village. It is the reason the place has a name and a reason in itself for serious anglers to come, though numbers caught each summer are low and the fishery is closely managed.

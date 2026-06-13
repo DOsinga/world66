@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The Bolt Tower is a steel-and-glass extension grafted onto the top of an old blast furnace at Lower Vítkovice, named after Usain Bolt, who symbolically opened it in 2015. The result is an unexpectedly graceful pavilion 78 metres above the city — half cafe, half observatory — accessed by a sequence of caged lifts and external walkways that take you through the still-intact furnace machinery on the way up.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3525
 longitude: 20.7172
+score: 6.7
 ---
 
 Perachori is the hill village just above Vathy, a steep three-kilometre climb (or short drive) that rewards with sweeping views over the harbour and the southern part of the island. It is the highest inhabited village on Ithaca, set among vineyards and olive groves.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Villa_Crespi
+score: 6.8
 ---
 
 The Moorish villa at the entrance to town is the most surprising building on the lake. Built in 1879 for the cotton merchant Cristoforo Benigno Crespi, who had made his fortune in Egypt and wanted a home that reminded him of it, Villa Crespi is a riot of horseshoe arches, marble columns, mosaic floors and stencilled interiors imitating Mauresque palaces — set down incongruously among the chestnut woods of Piedmont.

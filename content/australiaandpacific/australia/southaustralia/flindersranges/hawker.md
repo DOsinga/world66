@@ -8,6 +8,7 @@ latitude: -31.891
 longitude: 138.422
 sources:
   - https://en.wikipedia.org/wiki/Hawker,_South_Australia
+score: 6.7
 ---
 
 Hawker is a small town 365 kilometres north of Adelaide, sitting at the foot of the central Flinders Ranges. It functions as the last proper service point before Wilpena Pound — with a fuel station, motel, caravan park, and a good roadhouse — and most visitors pass through rather than linger. But the surrounding country repays time spent.

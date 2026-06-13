@@ -8,6 +8,7 @@ tags:
 - shaw
 latitude: 38.6071
 longitude: -90.2406
+score: 7.3
 ---
 
 South Grand is a half-mile stretch of Grand Boulevard between Tower Grove Park and Arsenal Street, dense with Vietnamese restaurants, Ethiopian places, Thai, Persian, Caribbean, vegan, and a smattering of bars. It is the most international stretch of dining in the city and has anchored the revival of the surrounding Tower Grove and Shaw neighbourhoods.

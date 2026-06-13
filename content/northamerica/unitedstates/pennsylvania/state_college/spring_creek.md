@@ -12,6 +12,7 @@ story: >
   60 degrees Fahrenheit even in midsummer, which is why the creek supports one of the densest
   wild brown trout populations in the northeastern United States. It has been a destination
   for fly fishers since the 19th century and was once fished by President Eisenhower.
+score: 7.6
 ---
 
 Spring Creek is a spring-fed limestone stream that runs through the Happy Valley just south of State College, and among fly fishers it carries the kind of reputation that golf has for Augusta. The water is cold, clear, and exceptionally fertile — fed by springs that maintain stable temperatures year-round and run over limestone bedrock that generates abundant insect life. Wild brown trout thrive here in numbers that attract anglers from across the country.

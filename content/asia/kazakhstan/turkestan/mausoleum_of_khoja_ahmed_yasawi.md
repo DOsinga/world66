@@ -9,6 +9,7 @@ latitude: 43.2978
 longitude: 68.2708
 story: >
   Timur began the mausoleum in 1389 and worked on it obsessively until his death in 1405, yet never declared it finished. Construction stopped precisely where the scaffolding was when he died, and no subsequent ruler dared to complete what Timur had left undone. The unfinished brickwork on the upper sections has remained exposed for six hundred years.
+score: 9.6
 ---
 
 The Mausoleum of Khoja Ahmed Yasawi is Kazakhstan's only UNESCO World Heritage Site and one of the finest examples of Timurid architecture in the world. Built by Tamerlane beginning in 1389 to honour the 12th-century Sufi poet and mystic, it was intended to be the grandest mausoleum on the Central Asian steppe — a statement of Timurid power and piety in a region that revered Yasawi as its spiritual father. The building was never finished, but what was completed is breathtaking.

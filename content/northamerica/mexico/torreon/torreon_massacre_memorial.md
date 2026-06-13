@@ -8,6 +8,7 @@ latitude: 25.5394
 longitude: -103.4486
 story: >
   In May 1911, as Maderista forces took Torreón during the Mexican Revolution, soldiers and armed civilians turned on the city's Chinese community, killing around 300 people in a few hours. The dead included labourers, merchants, and the entire staff of a Chinese-owned gambling house. The violence was fuelled by economic resentment and a virulent anti-Chinese prejudice that had been building in northern Mexico for years. China demanded reparations; Mexico eventually paid a fraction of what was claimed. The massacre remained largely absent from official Mexican history for decades.
+score: 6.6
 ---
 
 The memorial occupies the site of what was once Torreón's Barrio Chino, the neighbourhood where the city's Chinese community lived and worked before the events of May 1911. During the Mexican Revolution, as revolutionary forces seized the city, an estimated 300 Chinese immigrants were killed in a matter of hours — shot, beaten, and hanged by soldiers and civilians. It was one of the deadliest acts of anti-Chinese violence in the Americas and a largely forgotten chapter of Mexican history until recent decades.

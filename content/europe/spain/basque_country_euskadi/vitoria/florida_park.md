@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.7
 ---
 
 A formal 19th-century park laid out in 1820, with a bandstand, a duck pond, mature plane trees, and tidy gravel paths. It sits at the southern edge of the old city and is the first link in the Anillo Verde, the green belt that surrounds Vitoria.

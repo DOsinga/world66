@@ -15,6 +15,7 @@ story: >
   over 200 buildings — transforming what was then a garrison town into one of
   the most concentrated Modernista streetscapes in the world. The irony is that
   most visitors never make it to Melilla to see it.
+score: 8.8
 ---
 
 The new town of Melilla contains one of the most remarkable collections of Modernista architecture outside Barcelona — roughly 200 buildings designed by Enrique Nieto between 1909 and the 1950s. Nieto had trained under Gaudí and brought the style wholesale to North Africa, adapting it to the local climate and the needs of a prosperous colonial city. The result is streets full of ornate facades, ceramic tile work, floral stonework, and curved balconies in terracotta and cream.

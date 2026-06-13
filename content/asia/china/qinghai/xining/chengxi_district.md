@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6300
 longitude: 101.7540
+score: 5.6
 ---
 
 The Chengxi (West City) district is the most historically prominent part of Xining, containing the Qinghai Provincial Museum, Nanshan Park, and a concentration of the city's cultural institutions. The district is somewhat quieter than the Muslim quarter to the east — more tree-lined boulevards, more civic architecture, and fewer markets. It is the administrative and cultural centre of the city.

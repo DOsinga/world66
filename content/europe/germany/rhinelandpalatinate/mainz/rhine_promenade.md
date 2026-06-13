@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.9994
 longitude: 8.2817
+score: 6.6
 ---
 
 The Mainz riverfront runs for several kilometres along the Rhine, from the old town centre south to the newer residential districts. The promenade is a pleasant place to walk at any time of year — in summer it fills with joggers, cyclists, and people drinking beer on the grass watching the river traffic. The view across the Rhine to the Mainz skyline, with the cathedral towers rising above everything, is the classic picture of the city.

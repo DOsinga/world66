@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9296
 longitude: -77.0497
+score: 7.5
 ---
 
 The Smithsonian National Zoo occupies 163 acres of Rock Creek Park in Cleveland Park, about three miles north of the Mall. Admission is free — an arrangement made possible by the Smithsonian's endowment — and the grounds are extensive enough to justify arriving early and spending a full day.

@@ -6,6 +6,7 @@ longitude: 0.2622
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Trinity is a 300-seat theatre and arts centre housed in the former Holy Trinity Church, a fine Decimus Burton building of 1827. The church was deconsecrated in the 1970s and converted, keeping the soaring nave as the auditorium.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 11.5200
 longitude: 79.3450
+score: 5.4
 ---
 
 Silver Beach is Cuddalore's main seafront, a long sandy stretch on the Bay of Bengal that draws visitors from the town and surrounding area, particularly on weekends and holidays. The beach is open and breezy, with the characteristic grey-brown sand of the Tamil Nadu coast. Fishing boats are often pulled up on the shore, giving the beach a working quality beyond pure resort atmosphere.

@@ -10,6 +10,7 @@ story: >
   The Corniche is the most democratic stretch of Beirut: bankers jog past
   Hezbollah supporters past Syrian migrant labourers past Lycra-clad cyclists,
   with the sea on one side and the city on the other.
+score: 9.0
 ---
 
 The Corniche is Beirut's seafront promenade, running for about 4.5 kilometres from Ain el Mreisseh in the east to the Pigeon Rocks at Raouche. In a city where most public space is fenced off, this open stretch of palm-lined pavement is where every social class actually meets.

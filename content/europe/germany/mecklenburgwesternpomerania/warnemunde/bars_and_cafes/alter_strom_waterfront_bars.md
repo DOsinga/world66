@@ -1,6 +1,7 @@
 ---
 title: "Waterfront Bars along the Alter Strom"
 type: poi
+score: 5.8
 ---
 
 The Alter Strom quayside doubles in the evening as Warnemünde's bar strip. A string of low-key pubs and outdoor bars occupy the ground floors of the old fishermen's houses, most with tables set out on the narrow cobbled waterfront. The mood is relaxed and decidedly local — fishermen drinking beer alongside families and day-trippers who have missed their train back to Rostock and are happy about it.

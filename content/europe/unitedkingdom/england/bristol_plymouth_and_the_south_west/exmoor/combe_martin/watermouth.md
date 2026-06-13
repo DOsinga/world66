@@ -7,6 +7,7 @@ tags:
 - nature
 title: Watermouth
 type: poi
+score: 7.1
 ---
 
 Watermouth is a narrow inlet a couple of miles west of Combe Martin, tucked between two headlands on the coast path to Ilfracombe. The bay shelters a small harbour and a popular sailing anchorage; at low tide a long shingle beach is exposed, with caves and rockfalls along the cliff face. Walkers on the coast path drop down through the woods to the bay and then climb again on the far side.

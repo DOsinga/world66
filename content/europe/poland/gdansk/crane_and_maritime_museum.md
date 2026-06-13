@@ -14,6 +14,7 @@ tags:
   - landmark
 title: The Crane (Zuraw)
 type: poi
+score: 8.8
 ---
 
 The Crane — Zuraw in Polish — is the most distinctive structure on the Gdansk waterfront. Built in 1442 and rebuilt after the Swedish siege of 1659, it is the largest surviving medieval port crane in Europe. Two massive wooden treadwheels inside, powered by men walking them like hamster wheels, drove the lifting mechanism. The building spans the Motlawa on two massive brick towers, and its distinctive double-gate silhouette is one of the city's most recognisable images.

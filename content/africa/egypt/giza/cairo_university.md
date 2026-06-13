@@ -8,6 +8,7 @@ tags:
 - sight
 title: Cairo University
 type: poi
+score: 6.2
 ---
 
 Cairo University, founded in 1908 as the Egyptian University, is one of the oldest and largest universities in Africa and the Arab world. Its main building — a domed, neo-Moorish structure designed by a German architect and completed in 1929 — is one of the finest examples of early 20th-century Egyptian institutional architecture. The campus is spread across northern Giza between the Nile and the agricultural land that used to reach into the city.

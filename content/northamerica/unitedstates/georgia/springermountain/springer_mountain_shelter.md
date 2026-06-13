@@ -6,6 +6,7 @@ longitude: -84.1922
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A typical Appalachian Trail three-sided lean-to, sleeping about a dozen, located 0.2 miles north of the Springer summit. Used by departing thru-hikers on their first night and by section hikers and weekend visitors at other times.

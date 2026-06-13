@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - snorkelling
+score: 8.3
 ---
 
 Brewer's Bay is a curving, well-sheltered beach on the north coast, immediately west of Cane Garden Bay and reached by a steep, twisting road. It is quieter than its more famous neighbour and has some of the best snorkelling on the island — the reef at the western end is easy to reach by swimming out from the beach, with coral heads, sergeant majors, and the occasional turtle.

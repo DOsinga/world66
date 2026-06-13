@@ -8,6 +8,7 @@ tags:
 - sight
 title: Buttermilk
 type: poi
+score: 7.1
 ---
 
 The smallest and gentlest of the four mountains, Buttermilk has the best beginner terrain in the valley — long, low-angle green runs from top to bottom and a dedicated ski school. About a third of the mountain is rated beginner, an unusually high proportion for a Colorado resort.

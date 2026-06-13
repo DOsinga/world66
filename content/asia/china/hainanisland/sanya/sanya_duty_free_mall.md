@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Sanya International Duty Free Mall
 type: poi
+score: 4.8
 ---
 
 The Sanya International Duty Free Mall in Haitang Bay is the largest single duty-free shopping complex in the world — over 120,000 square metres of cosmetics, watches, handbags, electronics, and liquor sold without import duty to anyone who has flown into Hainan from elsewhere in China or abroad. Domestic tourists have an annual duty-free allowance (currently capped at RMB 100,000 per person per year) and the mall is one of the main reasons Chinese tourists fly to Sanya.

@@ -6,6 +6,7 @@ longitude: 14.4430
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 A short walk inland from Mnajdra, on the limestone plateau above the cliffs, lies a small cluster of bell-shaped pits cut deep into the rock: the Misqa Tanks. They are usually interpreted as cisterns associated with the temple-building culture of the fourth millennium BC — large enough to hold significant volumes of rainwater, and roofed by a single capstone with a narrow opening.

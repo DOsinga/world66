@@ -8,6 +8,7 @@ latitude: 9.4976
 longitude: 76.3285
 sources:
   - https://en.wikipedia.org/wiki/Alappuzha
+score: 5.8
 ---
 
 Alappuzha Beach stretches along the Arabian Sea coast to the west of the town centre. A long wooden pier juts into the sea — it dates from the British period when Alappuzha was a functioning port. The beach is popular with local families in the evenings and at weekends.

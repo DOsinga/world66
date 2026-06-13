@@ -8,6 +8,7 @@ tags:
 - sight
 - ouseburn
 snippet: The UK's largest independent art and craft gallery, free to enter
+score: 7.0
 ---
 
 A vast, free, slightly chaotic art and craft gallery in a converted Victorian biscuit factory between the city centre and the Ouseburn. The format is part exhibition, part shop: hundreds of works by a rotating roster of British artists at a wide range of prices. The atmosphere is far more browsable than a conventional commercial gallery.

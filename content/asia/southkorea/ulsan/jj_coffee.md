@@ -7,6 +7,7 @@ tags:
   - bar
 title: J&J Coffee
 type: poi
+score: 4.8
 ---
 
 J&J Coffee sits down a side street near Shigaetop in Seongnamdong, and it is the best cafe in Ulsan. The interior is thoughtfully designed — exposed brick, warm lighting, and the kind of attention to detail that makes you want to stay longer than you intended. The drinks are excellent, the staff are friendly toward non-Korean speakers, and the music is good.

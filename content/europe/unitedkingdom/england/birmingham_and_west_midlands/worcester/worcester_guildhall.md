@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.1912
 longitude: -2.2208
+score: 7.7
 ---
 
 The Worcester Guildhall on High Street is one of the finest Queen Anne buildings in England, completed in 1721 and largely unchanged since. The facade is richly decorated with carved stonework; above the main door, statues of Charles I and Charles II flank a carving of Justice, and a carved head of Oliver Cromwell is pinned by its ears above the door — a piece of post-Restoration score-settling still visible to any sharp-eyed passer-by.

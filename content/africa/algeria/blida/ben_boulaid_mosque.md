@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 5.8
 ---
 
 Built in the 1980s and named after Mostefa Ben Boulaïd, one of the principal architects of the Algerian War of Independence, this is Blida's largest contemporary mosque. The white stone facade and tall square minaret dominate the eastern end of the central avenue; the prayer hall holds several thousand worshippers.

@@ -5,6 +5,7 @@ snippet: "Small Italianate brick bank building of 1915 on the main street, on th
 tags: [things_to_do, sight, architecture]
 latitude: 43.1767
 longitude: -90.0689
+score: 5.3
 ---
 
 The State Bank of Spring Green is a tidy two-storey Italianate brick building at the corner of Jefferson and Albany Streets, built in 1915 to designs by Madison architect Alvan Small. The bank survived the Depression — unusually for a village institution of its size — and continued operating as a community bank for most of the 20th century.

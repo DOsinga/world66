@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -34.0758
 longitude: 23.0556
+score: 8.5
 ---
 
 The Featherbed Nature Reserve occupies the Western Head — the western promontory that forms one half of The Heads — and is accessible only by ferry from the Knysna Quays. It is a private nature reserve and the only way in is via a guided tour that includes the ferry crossing, a 4x4 ride to the cliff top, a guided walk, and lunch.

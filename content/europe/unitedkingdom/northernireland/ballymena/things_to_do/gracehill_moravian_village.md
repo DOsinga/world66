@@ -1,6 +1,7 @@
 ---
 title: "Gracehill Moravian Village"
 type: poi
+score: 8.2
 ---
 
 Gracehill is a small village three kilometres west of Ballymena that represents one of the best-preserved examples of a Moravian planned settlement anywhere in the British Isles. The Moravians — a Protestant denomination originating in Bohemia — established a series of model communities across Europe and North America in the eighteenth century, and Gracehill was their Irish settlement, laid out from 1759. The layout follows the standard Moravian pattern: buildings arranged in an orderly square around a central green, with the church at one end and separate houses for the "choirs" (the community's age and gender groupings) positioned around the square.

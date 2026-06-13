@@ -10,6 +10,7 @@ story: >
   The upper Mahakam was one of the last places in Borneo where wild orang-utans were regularly sighted from river boats as recently as the 1990s. Habitat loss has pushed them further back into the forest, but Kutai National Park, accessible from the Mahakam corridor, still holds one of the largest remaining populations on Borneo.
 sources:
   - https://en.wikipedia.org/wiki/Mahakam_River
+score: 8.6
 ---
 
 The Mahakam is one of the great river journeys of Southeast Asia, and Samarinda is where it begins. The river runs about 920 kilometres from its headwaters in the central Borneo highlands to the sea, and the stretch accessible from Samarinda by boat covers several distinct ecological and cultural zones.

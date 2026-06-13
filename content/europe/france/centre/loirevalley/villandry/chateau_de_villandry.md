@@ -10,6 +10,7 @@ tags:
 - sight
 - garden
 url: https://www.chateauvillandry.fr
+score: 9.2
 ---
 
 The last of the great Renaissance châteaux built on the Loire, completed in 1536 by Jean Le Breton — François I's secretary of state, who had picked up his taste for Italian gardens during a diplomatic posting to Rome. The château itself is restrained by Loire standards, three handsome white wings around a courtyard open to the river, with a single keep retained from the medieval fortress that stood here before.

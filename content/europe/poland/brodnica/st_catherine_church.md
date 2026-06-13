@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Church of St Catherine of Alexandria is Brodnica's main parish church and the finest piece of brick Gothic in town. Construction began in the early fourteenth century, under Teutonic patronage, and the building has the strict rectangular nave-and-aisles plan typical of the order's foundations along the Drwęca and Vistula.

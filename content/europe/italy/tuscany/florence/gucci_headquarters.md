@@ -10,6 +10,7 @@ longitude: 11.2561
 address: Piazza della Signoria 10, 50122 Florence
 url: www.guccigardenFlorence.com
 opening_hours: Daily 10:00–20:00
+score: 6.4
 ---
 
 Guccio Gucci founded his leather goods company in Florence in 1921, and the fashion house has deep roots here. The Gucci Garden in Palazzo della Mercanzia on Piazza della Signoria houses a permanent museum of the house's archives and a rotating exhibition gallery, alongside a boutique and a restaurant. The museum traces the evolution of the brand from a luggage and equestrian goods maker to a luxury fashion house.

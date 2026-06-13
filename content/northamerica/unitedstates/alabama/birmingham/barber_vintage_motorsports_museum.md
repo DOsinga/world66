@@ -8,6 +8,7 @@ tags:
 title: Barber Vintage Motorsports Museum
 type: poi
 story: "The Barber Motorsports Museum holds the world's largest collection of motorcycles — over 1,400 bikes from more than 200 manufacturers, spanning 130 years of production. The collection was assembled by Birmingham businessman George Barber and includes everything from a 1902 De Dion-Bouton to MotoGP machines. The museum's five floors are wrapped around a spiral ramp, letting you walk the entire collection without backtracking."
+score: 9.0
 ---
 
 The Barber Vintage Motorsports Museum, about 20 miles east of downtown Birmingham, is one of the great specialist museums in the United States — worth the detour even if you have only a passing interest in motorcycles. The collection is extraordinary in its breadth, its condition, and the quality of its display.

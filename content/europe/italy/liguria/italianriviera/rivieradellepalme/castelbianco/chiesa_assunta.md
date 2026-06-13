@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1118
 longitude: 8.0709
+score: 6.6
 ---
 
 The baroque parish church of the Assunta at Veravo (the municipal seat of Castelbianco) is the main church of the commune, dating from the 17th century. The interior is modest — a single nave with baroque decoration — but the church is well maintained and worth a brief visit if you're passing through Veravo.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 8.8900
 longitude: 125.5800
+score: 5.7
 ---
 
 Vinafor Beach on Butuan Bay is the main dive site for the city, with several dive operators offering equipment hire, instruction, and guided dives to reefs and marine life in the bay. The marine environment here is less pristine than the diving farther south in the Philippines, but for those based in Butuan for other reasons — the museums, the festivals — it is a convenient option.

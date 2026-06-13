@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -21.7630
 longitude: -43.3500
+score: 6.7
 ---
 
 The Mercado Municipal near the city centre is where to come for Minas cheeses, cured pork products, and local preserves. The ground floor stalls sell direct from small producers in the surrounding Serra da Mantiqueira hills — queijo Minas, linguiça, doce de leite, and goiabada. It is not primarily a place to sit and eat, but a few stalls serve coffee and salgados through the morning.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4220
 longitude: 94.3100
+score: 7.0
 ---
 
 At the southern end of Ngapali beach, the fishing village of Jade Taw has been here longer than any of the resorts. In the late afternoon, the boats come in and the catch is sorted on the beach — a mixture of reef fish, squid, and whatever else the nets have brought up. It is a working village, not a tourist attraction, and the welcome is accordingly low-key but genuine.

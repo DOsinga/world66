@@ -6,6 +6,7 @@ tags:
   - old_town_quarter
 latitude: 40.7990
 longitude: 111.6460
+score: 7.3
 ---
 
 The fresh yogurt (老酸奶, or "old yogurt" as it is marketed) sold from street stalls around the Dazhao Temple area is one of Hohhot's genuine street food pleasures. The yogurt is thick, slightly sour, and sold in small unglazed earthenware pots that you take away and return or simply keep — they cost almost nothing. The dairy tradition in Hohhot is directly connected to the Mongolian pastoral culture of the surrounding grasslands; the city's two major dairy companies, Yili and Mengniu, both originated here and the raw milk supply chain is visible in the number of small dairy product vendors across the city.

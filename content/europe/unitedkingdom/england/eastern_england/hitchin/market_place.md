@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.8
 ---
 
 The handsome triangular market square at the heart of medieval Hitchin still hosts a market twice a week — a general market on **Tuesday and Saturday**, plus a popular farmers' market on the **first Saturday of the month** and a French market several times a year. The square is framed by a continuous run of timber-framed and Georgian shopfronts, an old coaching inn (the Sun Hotel), and the **Corn Exchange** with its tall Italianate clock tower.

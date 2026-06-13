@@ -8,6 +8,7 @@ latitude: 30.9069
 longitude: 103.5717
 story: >
   Zhang Daoling, the Han Dynasty mystic credited with founding the Way of the Celestial Masters — one of the oldest organised Taoist movements — is said to have attained immortality here in 142 AD. The cave above the main hall still shows the marks of that tradition: it is not a tourist exhibit but an active place of meditation, and the monks who maintain the complex are direct heirs of the religious lineage Zhang established.
+score: 8.8
 ---
 
 Tianshi Cave is the religious heart of Qingcheng Mountain — a complex of courtyards, pavilions, and a sacred cave built around the site where Zhang Daoling, the First Celestial Master of Taoism, is said to have cultivated the Way during the Eastern Han Dynasty. First constructed in the Sui Dynasty and substantially rebuilt in the Qing, it remains the headquarters of the Qingcheng branch of the Zhengyi school of Taoism.

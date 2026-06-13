@@ -12,6 +12,7 @@ story: >
   of hundreds of farms and homesteads. The town of Elkinsville was the largest, with a school, a
   church, and about 60 families. Aerial photographs taken just before the flooding show the empty
   town with its streets still in place, waiting to go underwater.
+score: 7.0
 ---
 
 Lake Monroe is Indiana's largest reservoir, created in the 1960s by damming Salt Creek south of Bloomington. The resulting lake stretches about 10 miles long with 150 miles of shoreline, surrounded by second-growth forest and Hoosier National Forest land. It is the primary outdoor recreation destination for Bloomington residents and serves as the city's water supply.

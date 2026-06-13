@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - day_trips
 - outdoor
+score: 5.8
 ---
 
 Old Faithful Geyser of California is a small but reliable geyser in the volcanic country north of Calistoga, erupting at intervals of roughly twenty to thirty minutes. Each eruption sends a column of water and steam up to twenty metres into the air for about three minutes. It's not Yellowstone, but it's a pleasant short visit on a Napa Valley tour.

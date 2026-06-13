@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 29.1100
 longitude: 58.3600
+score: 6.8
 ---
 
 Bam sits in one of Iran's most productive date palm oases, and the groves that surround the city — thousands of tall, feathery palms rising from the desert floor — are a significant part of what the place looks like and feels like. The oasis is fed by ancient qanats (underground irrigation channels) that channel water from the mountain aquifers to the surface across many kilometres, a system of water management that has sustained agriculture in this arid region for over two thousand years.

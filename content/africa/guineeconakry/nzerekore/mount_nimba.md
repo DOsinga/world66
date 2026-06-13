@@ -14,6 +14,7 @@ story: >
   reserve, remains the toad's primary stronghold.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Nimba_Strict_Nature_Reserve
+score: 9.2
 ---
 
 Mount Nimba, rising to 1,752 metres on the border where Guinea, Liberia, and Ivory Coast meet, is one of the ecological crown jewels of West Africa. The UNESCO World Heritage Site encompasses a remarkable range of habitats compressed into a small area — from dense forest to high-altitude grasslands — and supports an extraordinary diversity of endemic species. Chimpanzees here are famous for using stone tools to crack nuts, a behavior documented at Nimba before it was widely understood as a feature of chimpanzee culture.

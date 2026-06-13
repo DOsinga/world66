@@ -9,6 +9,7 @@ latitude: 44.5438
 longitude: -72.8143
 story: >
   The summit ridge of Mount Mansfield, seen from the east, resembles the profile of a reclining human face. Different sections of the ridge carry names accordingly: the Forehead, the Nose, the Chin (the actual summit), and the Adam's Apple. The Chin, at 4,393 feet, is the highest point in Vermont.
+score: 9.3
 ---
 
 Mount Mansfield is Vermont's highest and most dramatic mountain, rising steeply above Stowe to a long exposed summit ridge at 4,393 feet. The ridge sits above treeline and offers sweeping views in every direction — west to Lake Champlain and the Adirondacks, east to the White Mountains of New Hampshire on clear days. Several hiking trails lead to the summit from the Stowe side, ranging from the relatively easy Long Trail to the more demanding Hawthorn Trail.

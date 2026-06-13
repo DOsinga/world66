@@ -13,6 +13,7 @@ story: >
   initially unimpressed, but the publicity is widely credited with the
   surge of Chinese visitors that has reshaped Hallstatt's tourism in the
   decade since.
+score: 7.6
 ---
 
 The angle that adorns Austrian postcards, calendars, and now Chinese theme parks is taken from a small wooden platform on the lakeshore footpath just north of the village, where the row of pastel houses, the spire of the parish church, and the cliffs above are perfectly aligned with the lake reflecting it all in calm weather. The spot is signposted "Klassik-Blick" and is a five-minute walk from the village centre.

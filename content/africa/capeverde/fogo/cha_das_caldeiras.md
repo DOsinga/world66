@@ -9,6 +9,7 @@ latitude: 14.9450
 longitude: -24.3550
 story: >
   The 2014 eruption buried most of the village under lava flows within a few days, destroying the winery, the church, and hundreds of homes. The Cape Verdean government urged residents to relocate permanently. Almost all of them came back. They cleared the lava, rebuilt their houses, and planted new vines in the volcanic ash. The wine they now produce — from vines grown in the debris of the eruption that destroyed the old vineyard — has become one of the most unusual agricultural stories in the Atlantic.
+score: 8.9
 ---
 
 Chã das Caldeiras is the village that lives inside the volcano. Sitting at about 1,700 metres on the floor of Pico do Fogo's ancient caldera, it is the highest village in Cape Verde and one of the most dramatic inhabited places in the Atlantic. The caldera wall — the Bordeira — rises a thousand metres above it on all sides, creating a world entirely enclosed by volcanic rock.

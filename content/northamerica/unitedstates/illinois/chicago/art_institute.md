@@ -13,6 +13,7 @@ type: poi
 url: www.artic.edu
 sources:
 - https://en.wikipedia.org/wiki/Art_Institute_of_Chicago
+score: 9.6
 ---
 
 The Art Institute holds one of the most impressive permanent collections in any American museum. The Impressionist and Post-Impressionist galleries are world-class -- Georges Seurat's "A Sunday on La Grande Jatte" is here, as is Grant Wood's "American Gothic" and Edward Hopper's "Nighthawks." The medieval armor collection is a surprise favorite. The Modern Wing, added in 2009 and designed by Renzo Piano, doubles as an architectural statement.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: South County Museum
 type: poi
+score: 6.7
 ---
 
 The South County Museum occupies a corner of Canonchet Farm just north of the town beach: a cluster of restored barns, a working print shop, a one-room schoolhouse and a blacksmith's forge, all dedicated to the rural history of southern Rhode Island. It is small, family-friendly, and the kind of place where retired volunteers actively demonstrate the trades being interpreted — letterpress printing, weaving, carriage restoration.

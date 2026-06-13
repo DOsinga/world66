@@ -8,6 +8,7 @@ tags:
 - bar
 title: Lee Pattana Bars
 type: poi
+score: 4.7
 ---
 
 A small cluster of rooftop and street-level bars on Lee Pattana Road, popular with younger locals and travellers looking to avoid the more aggressive scene on Niphat Uthit. Live acoustic music, decent cocktails, Singha by the bucket, and good views over the city.

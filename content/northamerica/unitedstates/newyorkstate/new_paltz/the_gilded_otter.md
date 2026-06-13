@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 41.7469
 longitude: -74.0879
+score: 5.8
 ---
 
 The Gilded Otter is a brewpub in the heart of the village that has anchored New Paltz's food and drink scene for years. The beers are brewed on site and the menu leans toward American pub food done with more care than the genre usually implies: burgers, sandwiches, and weekend brunch dishes that keep both climbers and city escapees satisfied. The building is large and the outdoor patio is pleasant in warm weather.

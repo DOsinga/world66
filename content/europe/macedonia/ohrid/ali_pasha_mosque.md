@@ -8,6 +8,7 @@ tags:
   - religion
 latitude: 41.11552
 longitude: 20.80052
+score: 6.8
 ---
 
 The Ali Pasha Mosque on the lakefront edge of the old town is the largest Ottoman building still standing in Ohrid. Built in the 16th century by an Ottoman governor, it served the city's Turkish community until the population exchanges and emigrations of the 20th century reduced the local Muslim population to a handful of families.

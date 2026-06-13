@@ -14,6 +14,7 @@ story: >
   The entire structure was built without a single nail; the columns and beams
   are joined by a system of wooden pegs and interlocking joinery that has held
   the building together for over a century.
+score: 7.6
 ---
 
 Dalam Loka is the former wooden palace of the Sultan of Sumbawa, built in the late 19th century and now serving as the Regional Museum of Sumbawa Regency. The structure is an impressive example of traditional Sumbawan royal architecture — two large wooden buildings raised on 99 massive hardwood columns, with carved motifs decorating the structural elements throughout.

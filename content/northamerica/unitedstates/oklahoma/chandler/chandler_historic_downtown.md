@@ -14,6 +14,7 @@ story: >
   spot, and within weeks a commercial district was rising on what would eventually become
   Route 66. The brick buildings that followed in the 1900s and 1910s are what visitors see
   today — a compressed snapshot of a frontier town becoming a county seat.
+score: 7.5
 ---
 
 Chandler's downtown preserves an unusually complete set of early 20th-century commercial buildings along its main street. The brick storefronts — two-storey Italianate facades with decorative cornices, dating mostly from 1900–1925 — survived the interstate bypass that killed many comparable Oklahoma towns, partly because Chandler retained its function as a county seat and agricultural service centre.

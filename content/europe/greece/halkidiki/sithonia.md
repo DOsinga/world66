@@ -6,6 +6,7 @@ longitude: 23.8000
 tags:
   - things_to_do
   - neighbourhood
+score: 8.7
 ---
 
 Sithonia, the middle of the three peninsulas, is the most beautiful — and the consensus pick of most Greeks for a Halkidiki beach holiday. Where Kassandra is built up and Athos is closed, Sithonia is mostly pine forest running straight down to small, sheltered coves of pale sand and turquoise water.

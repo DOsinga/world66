@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Royal_Hospital_Haslar
 story: >
   Haslar was the largest hospital in the British Empire when it opened in 1762. The original design by Theodore Jacobsen was intended for 1,500 patients — an enormous institution for its time. It treated casualties from every major British naval engagement for over 230 years, from the battles of the Age of Sail through both World Wars to the Falklands. The last patients left in 2009, and the building has since been converted to apartments, though its exterior remains one of the finest examples of Georgian institutional architecture in England.
+score: 7.5
 ---
 
 Royal Hospital Haslar, built in the 1750s and opened in 1762, is a remarkable piece of Georgian architecture: a vast quadrangular building in red brick with a central chapel, designed to house the sick and wounded sailors of the Royal Navy. It was the largest brick building in Britain when completed and remained the main naval hospital for over two centuries.

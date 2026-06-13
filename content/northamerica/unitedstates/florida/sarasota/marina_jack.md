@@ -7,6 +7,7 @@ tags:
   - sight
 title: Marina Jack & Bayfront Park
 type: poi
+score: 6.6
 ---
 
 The Marina Jack complex on Sarasota's bayfront is the best place to get oriented. The public park stretches along the waterfront with open views across Sarasota Bay to the keys. Pelicans work the marina docks, and at sunset the view back toward downtown — water, palms, the city skyline — is exactly what Florida is supposed to look like.

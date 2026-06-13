@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - restaurant
+score: 5.8
 ---
 
 Named with obvious intent after the painter, Kahlo is both a restaurant and a bar, with the bar side doing more interesting things than the name might suggest. The drinks focus on Mexican spirits — tequila, mezcal, and raicilla, the local agave spirit from the mountains of Jalisco and Nayarit that has become increasingly available in the bars of the Pacific coast. A bar that stocks raicilla alongside mezcal is paying attention.

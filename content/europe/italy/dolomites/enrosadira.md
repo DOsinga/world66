@@ -14,6 +14,7 @@ story: >
   in the rock itself. Scientists have a different explanation: the pale dolomia rock contains
   iron minerals that reflect long-wavelength light in ways that ordinary limestone does not.
   Both explanations produce the same effect.
+score: 8.8
 ---
 
 The enrosadira — the Ladin word for the alpenglow phenomenon particular to the Dolomites — is one of the most astonishing spectacles in the Alps. In the twenty minutes around sunrise and sunset, the pale dolomia rock shifts through a sequence of colours: first golden yellow, then deep orange, then a vivid rose-red that seems to come from inside the rock rather than reflected off it. The colours are most intense on the largest vertical rock faces — the Langkofel towers above Alpe di Siusi, the Sella walls above Val Gardena, the Marmolada from Arabba — and they happen fast: you have perhaps five minutes of the full red before the light changes.

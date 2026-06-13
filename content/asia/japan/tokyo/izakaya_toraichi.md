@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: The Tokyo Izakaya Experience
 type: poi
+score: 8.0
 ---
 
 The izakaya is the essential Tokyo evening: a Japanese pub-restaurant where food and drink are ordered continuously through the night, the dishes small and designed for sharing. At its best, an izakaya offers grilled chicken (yakitori), edamame, house-made tofu, grilled fish, pickles, cold noodles, and seasonal specials, all consumed with sake, beer, or shochu while the restaurant fills with after-work noise.

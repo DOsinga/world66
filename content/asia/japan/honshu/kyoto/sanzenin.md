@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sanzen-in
 type: poi
+score: 8.0
 ---
 
 Sanzen-in sits in the village of Ōhara in a mountain valley about an hour north of central Kyoto, and is one of the most beautiful escapes from the city. The temple was founded in the ninth century, moved repeatedly, and settled in its current location in 1118; it is one of the rare *monzeki* temples — historically headed by imperial princes. The complex is small and compact, but the surrounding moss garden and the wooden walkways through the temple buildings combine to a particularly serene visit.

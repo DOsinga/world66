@@ -7,6 +7,7 @@ tags:
 title: Toul Tom Poung
 type: poi
 neighbourhood: Toul Tom Poung
+score: 7.2
 ---
 
 Known to everyone as "the Russian Market area" after the market that anchors it. Toul Tom Poung has steadily become the second great expat neighbourhood after BKK1 — quieter, slightly cheaper, with a strong independent café scene clustered along Streets 155 and 432.

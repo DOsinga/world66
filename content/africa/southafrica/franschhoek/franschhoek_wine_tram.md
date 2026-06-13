@@ -11,6 +11,7 @@ snippet: A hop-on hop-off tram and bus service connecting Franschhoek's wine est
 story: >
   The tram operates on routes that follow the old wagon roads the Huguenots used to transport their wine barrels to the market in Stellenbosch and Cape Town.
   Wine-making in the valley has been continuous since the 1690s; the tram is a reminder that before the motor car, getting wine to market was as much of a logistical challenge as making it.
+score: 7.6
 ---
 
 The Franschhoek Wine Tram is the most practical way to visit multiple wine estates without driving — a hop-on hop-off service running on three routes that together connect twelve estates in and around the valley. The tram itself is an open-sided tram car that operates on roads rather than rails; it departs from the town centre and runs throughout the day.

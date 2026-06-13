@@ -12,6 +12,7 @@ story: >
   Truman spent 175 days of his presidency in Key West, conducting real government business from this building. The atomic bombing decision, the Berlin Airlift, and the integration of the US military were all discussed here. When asked why he kept returning, Truman said the city reminded him of Missouri — "no pomposity, no pretension, just plain people."
 sources:
   - https://en.wikipedia.org/wiki/Harry_S._Truman_Little_White_House
+score: 7.8
 ---
 
 The Little White House was originally a naval officer's quarters, built in 1890. Truman discovered it during a recuperative stay in 1946 and returned eleven times during his presidency. The house is now a museum run by the state of Florida, with guided tours explaining Truman's presidency and the decisions made here.

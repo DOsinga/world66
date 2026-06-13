@@ -9,6 +9,7 @@ tags:
 - sight
 - square
 story: "The Matthias Corvinus equestrian monument at the southern end of the square was unveiled in 1902 and shows the Hungarian king who was born in Cluj receiving war trophies. After 1918, when Transylvania became Romanian, debate raged for decades about whether to keep, move, or destroy the statue. It stayed."
+score: 9.1
 ---
 
 Piața Unirii is one of the most impressive squares in Eastern Europe — a vast rectangle ringed by baroque, Renaissance, and Gothic facades, with St. Michael's Church and the Matthias Corvinus monument as its centrepieces. The mix of styles is the city's history written in stone: Hungarian Renaissance palaces next to Habsburg baroque, all in the same block.

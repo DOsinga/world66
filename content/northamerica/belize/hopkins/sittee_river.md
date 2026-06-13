@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 16.8333
 longitude: -88.3167
+score: 6.8
 ---
 
 The Sittee River winds through mangroves and lowland forest a short ride south of Hopkins. Exploring it by canoe is one of the quieter pleasures of this part of Belize. The river is calm and navigable, the birdlife is good — herons, kingfishers, and the occasional jabiru stork — and the mangroves give the water a greenish, tunnelled quality that's quite different from the open coast.

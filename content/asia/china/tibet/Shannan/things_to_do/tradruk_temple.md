@@ -9,6 +9,7 @@ longitude: 91.7719
 story: "The most prized object in Tradruk Temple is a thangka — a devotional painting — made from some 29,000 pearls, depicting the Goddess Tara. It was created in the 18th century and was taken to the Potala Palace in Lhasa during the Cultural Revolution, but returned to Tradruk after 1980. The level of skill involved in creating it is extraordinary even by Tibetan artistic standards."
 sources:
   - https://en.wikipedia.org/wiki/Tradruk_Temple
+score: 8.2
 ---
 
 Tradruk Temple is one of Tibet's oldest religious buildings, said to have been founded in the 7th century AD by the king Songtsen Gampo — before Samye, making it arguably the first Buddhist temple built in Tibet. It sits in the lower Yarlung valley, a short drive from Tsetang, and remains an active monastery today.

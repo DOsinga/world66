@@ -9,6 +9,7 @@ tags:
   - bars_and_cafes
   - cafe
 snippet: "Old café-bookshop just off the main square — strong coffee, mineiro snacks, occasional live music"
+score: 6.1
 ---
 
 A relaxed café-bookshop on the steep main shopping street just below Praça Tiradentes. The coffee is strong and reasonably priced, the bookshelves hold mostly Brazilian fiction and history, and the front terrace looks down the cobbled street.

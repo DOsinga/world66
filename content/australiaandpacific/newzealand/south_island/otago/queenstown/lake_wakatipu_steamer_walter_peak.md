@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Working sheep station across the lake, reached by steamer
+score: 6.8
 ---
 
 A working merino and sheep station on the south side of Lake Wakatipu, only reachable by boat from Queenstown — the TSS Earnslaw steamer makes the run several times a day. On arrival you watch a sheepdog and shearing demonstration in the original homestead's restored woolshed, then eat a buffet barbecue or take afternoon tea.

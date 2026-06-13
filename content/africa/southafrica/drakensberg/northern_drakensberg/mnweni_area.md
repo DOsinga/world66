@@ -10,6 +10,7 @@ latitude: -28.88
 longitude: 29.02
 story: >
   The Mnweni area is the least-visited part of the Northern Drakensberg. There is no formal lodge, no tourist infrastructure, and the trails are not always marked. What there is: the finest mountain scenery in the range, San rock paintings at several sites, and the very real possibility that you will complete a multi-day traverse without encountering another hiking party.
+score: 8.8
 ---
 
 The Mnweni area covers the wilderness between Royal Natal in the north and Cathedral Peak in the south — a long stretch of escarpment with multiple passes into Lesotho, deep valleys accessible only on foot, and a cluster of dramatic peaks including Mponjwane and the Rockeries.

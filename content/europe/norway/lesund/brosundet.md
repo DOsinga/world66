@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 62.4710
 longitude: 6.1480
+score: 8.9
 ---
 
 Brosundet is the inner channel that cuts through the heart of Ålesund, and the waterfront buildings along it form the most photographed stretch of the city's Art Nouveau architecture. The channel was historically the centre of the fishing industry — warehouses and quays line both banks — and even now it has a working quality that separates it from more prettified waterfronts elsewhere.

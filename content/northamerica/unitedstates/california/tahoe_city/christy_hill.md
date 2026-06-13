@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.1685
 longitude: -120.1399
+score: 6.7
 ---
 
 A lakefront dining room with one of the best sunset views in Tahoe City, Christy Hill has been the special-occasion restaurant on the north shore for over 40 years. The menu is contemporary American with strong seafood: pan-seared scallops, ahi tuna, and the local Lahontan cutthroat trout when available.

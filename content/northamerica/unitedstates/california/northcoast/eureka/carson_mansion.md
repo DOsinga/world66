@@ -14,6 +14,7 @@ story: >
   slow period in the lumber trade. He kept 100 men busy for two years on what is
   essentially a showcase for every timber they could obtain and every technique
   they knew — 18 different species of wood appear in the woodwork.
+score: 8.6
 ---
 
 The Carson Mansion at 143 M Street is the most extravagant Victorian house in Eureka and one of the most photographed in the United States. Built between 1884 and 1886 for lumber baron William Carson, it piles on every decorative device available to the era: turrets, a widow's walk, a wraparound porch, and carved woodwork in 18 different varieties of wood. The effect is somewhere between a haunted house and a wedding cake.

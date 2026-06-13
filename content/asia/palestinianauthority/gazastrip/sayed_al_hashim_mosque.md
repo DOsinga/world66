@@ -12,6 +12,7 @@ tags:
   - sight
 title: Sayed al-Hashim Mosque
 type: poi
+score: 7.4
 ---
 
 The Sayed al-Hashim Mosque, in the ad-Darraj Quarter of the Old City, was one of the largest and most important mosques in Gaza. Tradition holds that the tomb of Hashim ibn Abd Manaf — great-grandfather of the Prophet Muhammad and a major figure in pre-Islamic Mecca — lies within. This gives the mosque a particular religious weight, and the link to Muhammad's family is the source of one of Gaza's traditional Arabic names.

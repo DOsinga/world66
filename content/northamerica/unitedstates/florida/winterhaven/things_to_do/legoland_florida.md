@@ -14,6 +14,7 @@ story: >
   — now preserved within LEGOLAND — is genuinely historic and contains plants that 
   have been growing here for nearly 90 years. LEGOLAND kept the gardens and built 
   around them, which is a more interesting approach than simply paving the site.
+score: 6.6
 ---
 
 LEGOLAND Florida opened in 2011 on the former site of Cypress Gardens, one of Florida's oldest theme parks. It is aimed squarely at children aged 2–12 and is one of the better family theme parks in the state outside Orlando — smaller, less crowded, and easier to navigate than the mega-parks up the road.

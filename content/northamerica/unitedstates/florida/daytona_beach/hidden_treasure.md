@@ -9,6 +9,7 @@ tags:
 - seafood
 title: Hidden Treasure Rum Bar and Grill
 type: poi
+score: 5.4
 ---
 
 Right next to the lighthouse, Hidden Treasure is an unpretentious open-air restaurant where you eat beneath palm thatching with a view of the marina and the inlet beyond. The kitchen does grouper sandwiches, peel-and-eat shrimp, crab cakes, and conch fritters; the bar mixes the only properly cold mojito on this stretch of coast.

@@ -1,6 +1,7 @@
 ---
 title: "Poblacion Bar Scene"
 type: poi
+score: 7.7
 ---
 
 Poblacion has become Metro Manila's most talked-about nightlife neighbourhood, and the density of bars along its narrow streets is genuinely impressive for an area that covers less than a square kilometre. The scene mixes craft cocktail bars, dive bars, live music venues, and karaoke rooms in a way that keeps the neighbourhood from feeling like a theme park — there are still local residents here, and the bars range from genuinely intimate to occasionally anarchic.

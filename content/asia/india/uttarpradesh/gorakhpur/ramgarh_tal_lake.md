@@ -9,6 +9,7 @@ latitude: 26.7333
 longitude: 83.4167
 sources:
   - https://en.wikipedia.org/wiki/Ramgarh_Tal_Lake
+score: 7.0
 ---
 
 Ramgarh Tal is a large freshwater lake on the northern fringe of Gorakhpur, and the most pleasant natural space in or near the city. The lake has been developed into a recreational area with walking paths along the embankment, boating facilities, and a few garden spots that fill up with families on weekends and holidays.

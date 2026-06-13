@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.4813
 longitude: -92.2597
+score: 7.5
 ---
 
 The village park sits right on the shore of Lake Pepin, with a 700-foot pier reaching out over the Mississippi. This is the place to be at sunset, when the bluffs on the Minnesota side glow orange and the river goes quiet. A boat launch gives kayakers and small craft access to the lake, and the dock is a reliable fishing spot for walleye and sauger.

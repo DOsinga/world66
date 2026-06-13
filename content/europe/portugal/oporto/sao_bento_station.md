@@ -8,6 +8,7 @@ story: >
   The station was built on the site of a Benedictine convent founded by King Manuel I in 1518. The 20,000 azulejo tiles inside were painted by Jorge Colaço between 1905 and 1916, depicting scenes from Portuguese history including the Conquest of Ceuta and medieval battle scenes. Colaço is said to have painted them all by hand.
 sources:
   - https://en.wikipedia.org/wiki/S%C3%A3o_Bento_railway_station
+score: 9.0
 ---
 
 São Bento station is one of the most beautiful railway stations in Europe, and it is entirely functional — trains to the Douro Valley and the Portuguese coast leave from here every day. The Beaux-Arts granite building, designed by José Marques da Silva in a French style, opens onto a concourse lined with 20,000 azulejo tiles covering 551 square metres of wall.

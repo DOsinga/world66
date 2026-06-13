@@ -14,6 +14,7 @@ story: >
   a founder of the Royal Academy in London, and a close friend of Goethe. She
   was one of only two women among the founding members of the Royal Academy — a
   fact largely forgotten until recently.
+score: 7.5
 ---
 
 The Angelika Kauffmann Museum in Schwarzenberg celebrates the 18th-century Neoclassical painter whose family connections to the Bregenzerwald brought her here in childhood. Kauffmann (1741–1807) became one of the most successful painters of her era — sought after in Rome, London, and across Europe — and is now recognised as one of the great figures of Neoclassical art. A self-portrait by Kauffmann hangs in the parish church in Schwarzenberg.

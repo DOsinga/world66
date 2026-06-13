@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "An 18-metre sarcophagus on a hill above the Afrasiyab ruins, said to grow"
 story: "Three faiths claim the tomb: Jews, Christians, and Muslims all venerate Daniel here. The 18-metre length is explained locally by a legend that the prophet's body grows half an inch every year. Soviet pilgrims who arrived in the 1980s were politely told the same thing."
+score: 6.8
 ---
 
 The Tomb of Daniel — Khoja Daniyar — sits on a low ridge above the Afrasiyab ruins, on the northeast edge of the old city. A whitewashed building covers a single very long stone sarcophagus, eighteen metres from end to end. Pilgrims of three faiths come, and on most days you will see Uzbek families touching the cloth-draped stone and Russian Orthodox priests blessing the spot from the side door.

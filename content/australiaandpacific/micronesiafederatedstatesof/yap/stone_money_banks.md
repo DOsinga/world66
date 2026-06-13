@@ -9,6 +9,7 @@ longitude: 138.1333
 snippet: "Rows of giant limestone discs — some taller than a person — still used as legal currency in Yapese villages."
 story: >
   The value of a Rai stone has nothing to do with its size. A disc that sank to the ocean floor during transport from Palau is worth just as much as one standing upright in a village bank — the community witnessed the effort, and that shared knowledge is the currency. A stone no one can see or touch still changes hands in marriages and land deals today, its ownership tracked entirely by collective memory and oral agreement. It is perhaps the world's most durable proof-of-work monetary system.
+score: 9.5
 ---
 
 The stone money banks of Yap are among the most singular sights in the Pacific. Rows of limestone discs — called Rai — stand propped against palm trees, stacked beside meetinghouses, and arranged along village paths on the island of Yap and its neighbours. The smallest are modest, the size of a dinner plate. The largest reach three metres across and weigh several tonnes. All of them were quarried from aragonite limestone deposits in Palau, roughly 400 kilometres to the southwest, and transported to Yap by canoe and raft in a feat of open-ocean navigation that stretched over several centuries.

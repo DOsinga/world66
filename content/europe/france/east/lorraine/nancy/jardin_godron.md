@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.6948
 longitude: 6.1890
+score: 5.8
 ---
 
 The Jardin Godron is Nancy's main botanical garden, a small but well-maintained collection of plants laid out in the grounds of the old university quarter. Named for the 19th-century botanist who helped establish it, the garden is more interesting as a quiet urban escape than as a comprehensive botanical collection — but the glasshouses contain some good tropical specimens and the garden as a whole is free to enter.

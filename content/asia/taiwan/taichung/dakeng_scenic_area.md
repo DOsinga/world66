@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.1860
 longitude: 120.7470
+score: 7.8
 ---
 
 Dakeng is a network of forested ridges and valleys at the eastern edge of Taichung, the city's nearest serious walking country. Ten numbered trails climb the hills from various trailheads; the most popular are trails 5 and 5-1, which use the famous wooden-pole bridges over the steeper sections.

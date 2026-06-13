@@ -7,6 +7,7 @@ tags:
   - sight
 title: Sveti Đorđe Island (St George's Island)
 type: poi
+score: 7.6
 ---
 
 The natural island just east of Our Lady of the Rocks is Sveti Đorđe — St George's Island — which has a Benedictine monastery (now mostly closed to visitors) and a small cemetery. The monastery, originally built in the 12th century, was one of the most important in the Bay of Kotor. The island is smaller and quieter than its neighbour, and visiting is sometimes restricted, but the exterior view from the water is striking.

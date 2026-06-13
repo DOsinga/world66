@@ -14,6 +14,7 @@ snippet: "World-class art collection culminating in Michelangelo's ceiling"
 title: Vatican Museums and Sistine Chapel
 type: poi
 url: www.museivaticani.va
+score: 9.7
 ---
 
 The Vatican Museums are one of the world's greatest collections — dozens of galleries of classical sculpture, tapestries, maps, and Renaissance painting leading to the Sistine Chapel. The Laocoön group, the Apollo Belvedere, and Raphael's Stanze are highlights before you even reach the chapel. The Sistine ceiling (Michelangelo, 1508–12) is everything it's supposed to be; the Last Judgement on the altar wall is even more arresting.

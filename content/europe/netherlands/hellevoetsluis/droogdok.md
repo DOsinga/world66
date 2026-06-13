@@ -6,6 +6,7 @@ latitude: 51.8335
 longitude: 4.1330
 story: >
   The dry dock was built between 1808 and 1827 under French occupation, to designs by hydraulic engineer Jan Blanken. Napoleon ordered its construction to give France a major naval repair facility in the North Sea. By the time it was completed, Napoleonic rule had ended and the Netherlands were independent again — the dock that France built ended up serving the Dutch navy for over a century.
+score: 8.6
 ---
 
 The Droogdok Jan Blanken is the oldest surviving dry dock in the Netherlands and one of the best-preserved in Europe. Built in the early 19th century, it is a remarkable piece of hydraulic engineering — a large enclosed basin that could be pumped dry to allow ships to be hauled out for repair without having to be beached or tilted. The scale of it is impressive even today.

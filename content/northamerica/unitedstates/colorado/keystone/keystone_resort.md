@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Keystone_Resort
 story: >
   Keystone was one of the first major US ski resorts to offer significant night skiing, and today it lights up nearly 1,700 acres after dark — more than most Colorado resorts offer in total. The night skiing operation runs from early December through mid-March, typically until 8 pm, making it a favourite for Denver workers who drive up after work and ski until dark.
+score: 8.2
 ---
 
 Keystone Resort spreads across three interconnected mountains — Dercum Mountain, North Peak, and the Outpost — for a combined 3,148 acres of skiable terrain. With 135 trails and a vertical drop of 2,900 feet, it ranks among the largest ski areas in Colorado, and its position in the Vail Resorts portfolio means it is included on the Epic Pass alongside Vail, Beaver Creek, and Breckenridge.

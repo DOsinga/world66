@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 5.8
 ---
 
 The Utkeagvik Presbyterian Church Manse, built in 1900, is one of the oldest surviving buildings in Utqiagvik and a stop on the National Register of Historic Places. The clapboard structure was the home of the first missionaries to the village and stands as a marker of the encounter between Iñupiat culture and outside religion at the turn of the 20th century.

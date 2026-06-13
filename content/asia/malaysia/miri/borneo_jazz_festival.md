@@ -9,6 +9,7 @@ longitude: 113.9933
 story: "The festival started in 2006 as the Miri International Jazz Festival with 3,000 spectators. By 2014 attendance had grown to 8,000, the name had changed to Borneo Jazz, and international acts from New Orleans brass bands to Canadian vocal groups were making the journey to Malaysian Borneo for what had become one of the longest-running jazz festivals in Southeast Asia."
 sources:
   - https://en.wikipedia.org/wiki/Borneo_Jazz_Festival
+score: 6.8
 ---
 
 The Borneo Jazz Festival takes place each year in Miri, usually in May, making it one of the few world-class music events on the island of Borneo. Originally held at the ParkCity Everly Hotel from 2006 to 2017, the festival moved to the open-air Coco Cabana venue at Marina Bay, where the setting — water on one side, tropical night air, cold drinks — suits the music well.

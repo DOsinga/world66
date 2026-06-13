@@ -9,6 +9,7 @@ tags:
 - historic_site
 - monument
 story: The central cleft in the rock once channelled water from a tank above into a pool below, creating the effect of the actual Ganges descending. The hydraulic mechanism was an integral part of the sculpture's meaning — the cliff face is not just depicting the descent of the sacred river, it was enacting it.
+score: 9.3
 ---
 
 Arjuna's Penance — also called the Descent of the Ganges — is a bas-relief carved into a single granite cliff face roughly 30 metres wide and 15 metres high. Hundreds of figures crowd the stone: gods, celestials, humans, animals, nagas, and mythological creatures, all moving toward the central cleft where the Ganges was said to descend to earth. It is the largest open-air rock relief in the world.

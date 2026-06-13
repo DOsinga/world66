@@ -7,6 +7,7 @@ tags:
 - walk
 snippet: The natural canyon and parkway that separates Pasadena from the rest of LA
 type: poi
+score: 7.2
 ---
 
 The Arroyo Seco — "dry stream" in Spanish — is the canyon that runs from the San Gabriel Mountains south to the Los Angeles River, forming the western edge of Pasadena. The canyon park is a linear green space popular with joggers, cyclists, and dog walkers, with a paved trail running along the streambed. In winter after rain, the stream actually runs; in summer it's mostly dry but remains pleasant under the tree canopy.

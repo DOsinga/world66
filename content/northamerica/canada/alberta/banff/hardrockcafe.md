@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Hard Rock Cafe
 type: poi
+score: 4.0
 ---
 
 The Banff outpost of the worldwide chain, right on the main drag. Burgers, ribs, and the usual rock memorabilia line the walls. It draws a crowd, especially in ski season, and stays open late by Banff standards. Not the most imaginative dining choice in town, but reliable if you know what you want.

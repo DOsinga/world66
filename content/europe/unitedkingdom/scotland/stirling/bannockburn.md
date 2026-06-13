@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Battle_of_Bannockburn
 story: >
   The Battle of Bannockburn, fought on 23-24 June 1314, was one of the most decisive battles in Scottish history. Robert the Bruce's much smaller Scottish army defeated a large English force led by Edward II, ending the immediate threat of English conquest of Scotland and securing Scottish independence for a generation. The site where this happened — the boggy ground south of Stirling — is now a suburb, and the exact location of the fighting has been disputed for centuries. Current archaeological evidence suggests the main action took place on slightly different ground than the traditional monument indicates.
+score: 7.0
 ---
 
 The Bannockburn Heritage Centre is about 3 kilometres south of Stirling town centre, on the site where Robert the Bruce defeated Edward II's English army in June 1314. The centre, operated by the National Trust for Scotland and significantly upgraded in 2014 for the battle's 700th anniversary, is one of the more sophisticated heritage operations in Scotland — its handling of a complex and contested history is notably good.

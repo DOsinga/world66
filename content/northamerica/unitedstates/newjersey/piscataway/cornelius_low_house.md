@@ -9,6 +9,7 @@ tags:
 latitude: 40.5230
 longitude: -74.4723
 snippet: Georgian mansion of 1741 now housing the Middlesex County Museum
+score: 7.3
 ---
 
 The Cornelius Low House is one of the finest examples of Georgian colonial architecture in New Jersey, built around 1741 for Cornelius Low, a Dutch merchant who made his fortune in the Raritan River trade. The mansion sits on a bluff above Landing Lane overlooking the river, positioned to watch the boats Low once dispatched to New York and the Caribbean.

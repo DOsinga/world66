@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.1
 ---
 
 The 1922 Carnegie Library is one of the better preserved of the Andrew Carnegie–funded libraries in Oklahoma. Built in classic Beaux-Arts style with limestone columns and a low dome, it served as Lawton's main library until the 1970s and now houses local cultural offices.

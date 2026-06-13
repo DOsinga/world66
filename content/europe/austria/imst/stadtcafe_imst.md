@@ -6,6 +6,7 @@ longitude: 10.7414
 tags:
   - bars_and_cafes
   - cafe
+score: 5.2
 ---
 
 A traditional Austrian *Kaffeehaus* on the Stadtplatz with marble tables, leather banquettes and the smell of freshly ground coffee — Imst's social hub for anyone over 40. The cake counter is excellent: proper Sachertorte, Apfelstrudel with vanilla sauce, Linzer torte by the slice.

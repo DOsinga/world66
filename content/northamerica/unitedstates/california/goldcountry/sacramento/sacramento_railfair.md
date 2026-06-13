@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 38.5783
 longitude: -121.5159
+score: 6.8
 ---
 
 The Sacramento River Cats are the Triple-A Pacific Coast League affiliate of the San Francisco Giants, playing at Sutter Health Park on the Sacramento River west of Old Sacramento. Minor league baseball in Sacramento has a long tradition — the Solons played here from 1903 to 1976 — and the current stadium, with its view of the river and the Tower Bridge, is one of the more pleasant ballparks in American minor league baseball.

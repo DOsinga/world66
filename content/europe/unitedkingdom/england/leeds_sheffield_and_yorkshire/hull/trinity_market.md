@@ -9,6 +9,7 @@ tags:
 title: Trinity Market
 type: poi
 snippet: "Indoor market beside Hull Minster, restored in 2017 with a food hall of independent traders"
+score: 8.0
 ---
 
 Trinity Market sits in a long Victorian hall right next to Hull Minster, the city's covered market since the late 19th century. By the 2010s the stalls were declining; the 2017 City of Culture investment paid for a full restoration, and the market reopened with a new food hall mixing traditional traders — butchers, cheese sellers — with independent street-food kitchens.

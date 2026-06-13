@@ -8,6 +8,7 @@ tags:
 latitude: 36.4026
 longitude: 25.3958
 snippet: Cruise to the active volcanic islands at the centre of the caldera
+score: 7.6
 ---
 
 From the port at Athinios or the old port below Fira, boat trips run to the volcanic islands in the flooded caldera. Nea Kameni is an active lava islet where you can walk to the steaming summit crater — a 20-minute hike on bare black rock with views back to the caldera cliffs. Palea Kameni, nearby, has a hot spring where you can swim in warm, sulphurous orange water. The experience is strange and memorable in equal measure.

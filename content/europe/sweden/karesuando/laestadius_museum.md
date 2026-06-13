@@ -7,6 +7,7 @@ tags:
 latitude: 68.4415
 longitude: 22.4790
 snippet: Museum in the preserved parsonage of the revivalist preacher Lars Levi Laestadius
+score: 7.4
 ---
 
 Lars Levi Laestadius was more than a preacher — he was also a serious botanist who corresponded with Charles Darwin and discovered several species of plants that bear his name. The museum in his preserved parsonage covers both sides of the man: the scientist and the revivalist, the naturalist and the firebrand.

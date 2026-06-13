@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 12.1108
 longitude: -86.2628
+score: 6.6
 ---
 
 Galería Códice is Managua's longest-running commercial art gallery, established in the 1990s and operating from a house in the Altamira neighbourhood. The gallery represents contemporary Nicaraguan painters, sculptors, and printmakers, and has been an important platform for Nicaraguan visual art through several decades of political and economic turbulence.

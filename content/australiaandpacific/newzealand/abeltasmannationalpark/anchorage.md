@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - nature
+score: 7.9
 ---
 
 Anchorage is the southernmost overnight stop on the Coast Track and the busiest beach in the park outside Marahau — a long, north-facing curve of sand with the Anchorage hut and a large campsite at the back. Most three-day Coast Track walkers spend their first night here.

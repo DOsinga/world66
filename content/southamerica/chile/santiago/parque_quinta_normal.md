@@ -8,6 +8,7 @@ latitude: -33.4430
 longitude: -70.6891
 story: >
   The Quinta Normal was established as Chile's first agricultural experimental station in 1841, part of a scientific effort to catalogue Chile's native plant species and improve farming. The great glass-and-iron greenhouse — the one that Atlas Obscura highlights — was designed by Lucien Henault for the 1875 International Exhibition in Santiago. It is the oldest greenhouse in Chile and one of the oldest surviving iron-framed glasshouses in South America, a beautiful ruin that the city has so far resisted restoring into usefulness.
+score: 8.0
 ---
 
 Parque Quinta Normal is a large public park in the Quinta Normal commune west of the centre, ringed by a collection of museums that makes it unusually worthwhile for a park visit. The Museo Nacional de Historia Natural (Chile's natural history museum), the Museo de Ciencia y Tecnología, and the railway museum all have their buildings within or adjacent to the park. The park itself has an artificial lake, large old trees, and the extraordinary 1875 iron greenhouse — now empty, slightly dilapidated, and beautiful for exactly that reason.

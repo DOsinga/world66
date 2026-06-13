@@ -9,6 +9,7 @@ tags:
 latitude: 11.1487
 longitude: -60.8403
 snippet: Lively local beach near the airport, famous for crab and dumpling vendors
+score: 7.0
 ---
 
 Store Bay is the most accessible beach from Crown Point airport — about five minutes by taxi — and the most animated. Unlike the manicured Pigeon Point, Store Bay has a genuinely local feel: a row of food stalls run by competing cooks, picnic tables, and a steady traffic of Tobagonians as well as visitors. The beach itself is compact and very swimmable, with calm water and a good view toward Pigeon Point across the bay.

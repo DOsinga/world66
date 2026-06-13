@@ -11,6 +11,7 @@ tags:
 - market
 title: Mordi e Vai
 type: poi
+score: 7.8
 ---
 
 The most celebrated sandwich counter in Rome, inside the Testaccio Market. Sergio Esposito's stall — "bite and go" — serves panini stuffed with slow-braised Roman fillings: brisket with chicory, veal with artichoke, kidney with onion, pajata for the adventurous. Everything under €7. Arrives at the market when it opens; the best cuts sell out by early afternoon. A queue forms quickly but moves fast. The quintessential Testaccio lunch.

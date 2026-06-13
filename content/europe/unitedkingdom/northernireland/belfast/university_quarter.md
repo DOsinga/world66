@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.584
 longitude: -5.9341
+score: 7.5
 ---
 
 The University Quarter around Queen's University Belfast is the academic and residential heart of the city, a neighbourhood of Victorian terraced houses, student bars, good restaurants, and cultural venues. The university itself — a Lanyon-designed Tudor Revival building of 1849 — is one of the most attractive pieces of architecture in Belfast.

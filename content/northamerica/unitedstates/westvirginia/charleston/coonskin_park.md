@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.4097
 longitude: -81.5817
+score: 6.4
 ---
 
 Coonskin Park is the largest municipal park in the Kanawha Valley — a 1,000-acre tract north-east of downtown around a man-made lake on Coonskin Branch. Paddle boats, fishing docks, an 18-hole golf course, picnic shelters, a campground, and several miles of paved walking paths spread across the rolling forested land.

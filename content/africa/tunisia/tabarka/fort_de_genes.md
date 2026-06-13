@@ -10,6 +10,7 @@ longitude: 8.7548
 snippet: 16th-century Genoese fortress on the rocky islet above town
 story: >
   The fort was built by the Genoese Lomellini family in 1542 as part of a deal to protect their coral-fishing monopoly. For a century it served as both trading post and prison. In 1741 the Knights of Malta held it briefly; the Ottomans took it back the same year.
+score: 8.3
 ---
 
 Tabarka's most visible landmark sits on a rocky promontory above the town — a compact but well-preserved fortress built by the Lomellini family of Genoa in the sixteenth century. The family had secured rights to the lucrative coral beds offshore and needed somewhere to store their haul and defend themselves from pirates.

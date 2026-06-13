@@ -9,6 +9,7 @@ tags:
   - old_montreal
 neighbourhood: Old Montreal
 snippet: The restaurant that defined modern Québécois cuisine, still setting the standard after 30 years
+score: 7.9
 ---
 
 Toqué! is the restaurant that established modern Québécois haute cuisine as a serious category. Normand Laprise and Christine Lamarche opened it in 1993, and for three decades it has maintained its position at the top of Montreal's restaurant hierarchy while training a generation of chefs who have gone on to open their own significant restaurants across the province. The tasting menu showcases Quebec's exceptional local produce — Arctic char, venison, wild mushrooms, farmhouse cheeses — in preparations that are technically precise without being fussy.

@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 7.2639
 longitude: 99.3542
+score: 8.1
 ---
 
 Ko Libong is the largest and least-visited of Trang's main islands, and the most rewarding for wildlife. The island sits in the middle of a vast seagrass meadow that supports one of Thailand's most important populations of dugong — the shy, rotund sea mammals that resemble manatees and graze the shallows at dawn and dusk. Longtail boats can be hired to look for them; sightings are not guaranteed but are relatively common.

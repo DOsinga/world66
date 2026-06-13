@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: Quiet hamlet at the western tip of the lake, base for the Vogel cable car
+score: 7.0
 ---
 
 Ukanc is the small cluster of houses at the western, wilder end of the lake — much quieter than Ribcev Laz, three kilometres away around the south shore. The Vogel cable car base station is here, as is the lake's only campground and a stone Russian Orthodox chapel, built by Russian prisoners of war who died building a road across the mountains in the First World War. Most of Ukanc is meadow with the forest pressing down to the water; it is the best base if your priority is quiet rather than convenience.

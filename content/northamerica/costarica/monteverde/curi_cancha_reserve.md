@@ -5,6 +5,7 @@ snippet: Smaller private reserve adjacent to Monteverde, particularly good for s
 tags: [things_to_do, sight, nature_reserve, wildlife]
 latitude: 10.3064
 longitude: -84.8020
+score: 8.8
 ---
 
 About a kilometre before the entrance to the Monteverde Cloud Forest Reserve, Curi Cancha is a small private reserve of about 80 hectares set up by a local family in 1997. Half the land is pasture being allowed to regenerate; the rest is cloud forest. The mix of open ground and forest edge is what makes it so good for birds.

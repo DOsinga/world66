@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.5377
 longitude: -5.6337
+score: 6.8
 ---
 
 Asturias has its own bagpipe tradition — the gaita asturiana is the region's defining instrument — and the International Bagpipe Museum (Museo Internacional de la Gaita) in the Somió park collects instruments from bagpipe cultures across Europe and beyond. The collection is more substantial than you'd expect from a regional museum: gaitas from Galicia and Asturias in their various forms, Highland Scottish pipes, Uilleann pipes from Ireland, the Breton biniou, Moroccan instruments that share structural similarities, and representations from eastern European and Balkan bagpipe traditions that most visitors will have never encountered.

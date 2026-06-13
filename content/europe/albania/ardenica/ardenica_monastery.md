@@ -14,6 +14,7 @@ story: >
   linking two of the most powerful Albanian houses resisting the Ottomans.
   During the communist era the buildings were preserved as a state museum
   rather than razed like most churches, which is why the frescoes survived.
+score: 7.9
 ---
 
 The Monastery of the Nativity of the Theotokos, to give it its full name, sits on a pine-covered ridge looking south across the Myzeqe plain. Founded in 1282 by the Byzantine emperor Andronikos II Palaiologos to mark a victory over Charles of Anjou, the surviving church dates to the 18th century in its current form, built on much older foundations. The exterior is a low, broad-shouldered structure of dressed stone with a tiled roof and a slender bell tower; from outside it gives little hint of what is inside.

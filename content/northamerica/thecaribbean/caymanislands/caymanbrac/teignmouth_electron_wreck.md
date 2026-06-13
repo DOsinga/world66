@@ -10,6 +10,7 @@ latitude: 19.6863
 longitude: -79.8772
 story: >
   The Teignmouth Electron was the trimaran on which the British sailor Donald Crowhurst attempted to win the 1968 Golden Globe single-handed round-the-world race. Crowhurst, finding the boat unfit for the Southern Ocean, falsified his position reports and circled the South Atlantic for months. His logs end in July 1969 — the boat was found drifting empty, his body never recovered. The hull washed up on Cayman Brac in 1971 and has lain on the beach ever since, slowly disintegrating.
+score: 6.8
 ---
 
 The Teignmouth Electron is the wreck of a small fibreglass trimaran on a beach near the western tip of Cayman Brac — not signposted, easy to miss, but one of the strangest pieces of maritime history in the Caribbean. The hulls are weathered and patched with graffiti; the cabin and rig are long gone; the wreck sits a few metres above the high-water mark in the dunes.

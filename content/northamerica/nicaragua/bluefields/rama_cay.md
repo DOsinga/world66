@@ -8,6 +8,7 @@ tags:
   - boat
 latitude: 12.0
 longitude: -83.69
+score: 7.6
 ---
 
 Rama Cay is a small island in Bluefields Bay, about 30 minutes by panga from town, and home to one of the last communities of the Rama people. The Rama are one of Nicaragua's smallest indigenous groups; their ancestral language, Rama, has only a handful of fluent speakers remaining and has been the subject of documentation and revitalisation efforts. The community on the cay lives from fishing and subsistence agriculture, and has maintained a degree of cultural continuity that the mainland Rama communities largely lost through dispossession and assimilation.

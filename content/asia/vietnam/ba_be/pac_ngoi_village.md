@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 22.4053
 longitude: 105.6378
+score: 7.8
 ---
 
 Pac Ngoi is the main Tay minority village on the lakeshore, and staying here rather than in Cho Ra town is the right call. The village sits on a flat spit of land between two arms of the lake, and the homestays are in traditional stilt houses — wooden, raised on posts, with communal sleeping platforms under a corrugated roof. It is not glamorous but it is genuine: the families still fish the lake and farm the surrounding hills.

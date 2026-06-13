@@ -16,6 +16,7 @@ story: >
   the far longer history of life in this desert.
 url: https://www.accmuseum.org
 address: 401 N. Museum Drive, Palm Springs, CA 92262
+score: 8.1
 ---
 
 The Cahuilla people have lived in the Coachella Valley for at least two thousand years, developing a sophisticated culture adapted to the desert environment. This museum, operated by the Agua Caliente Band, tells that story through art, artifacts, and contemporary installations — covering traditional basket weaving, the significance of the palm oases, the history of the hot springs (séc-he, the Cahuilla name for Palm Springs), and the political and legal battles the tribe fought through the 20th century to reclaim control of their land.

@@ -14,6 +14,7 @@ story: >
   standing where the monastery once stood on Drenthe's oldest sacred ground.
 sources:
   - https://en.wikipedia.org/wiki/Ruinen
+score: 7.6
 ---
 
 The brink at the centre of Ruinen is the archetypal Drenthe village green — a broad open space of grass and trees where sheep and cattle once gathered before being driven to pasture. In Drenthe, the brink was the communal heart of village life for centuries, and Ruinen's is one of the best-preserved in the province. In summer, markets selling regional produce and crafts are held here.

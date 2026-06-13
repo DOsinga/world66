@@ -4,6 +4,7 @@ type: poi
 tags: [beaches]
 latitude: -16.5235
 longitude: -39.0489
+score: 8.8
 ---
 
 Taipe is where the crowds disappear. The beach is long, the cliffs taller and more dramatic than at Pitinga, and the development thins to almost nothing — a few rustic *barracas* and a sand path leading inland to a small freshwater lagoon set among trees. Many people swim in the sea and rinse off in the lagoon afterwards.

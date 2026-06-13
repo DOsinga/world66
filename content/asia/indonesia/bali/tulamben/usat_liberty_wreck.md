@@ -9,6 +9,7 @@ latitude: -8.2756
 longitude: 115.5922
 story: >
   The Liberty was a US Army cargo ship torpedoed by a Japanese submarine on 11 January 1942. Towed to Tulamben's shore, she sat beached for two decades until the 1963 eruption of Mount Agung sent lava flows to the beach, nudging the wreck off the shelf into the sea — where she became one of the world's finest dive sites entirely by accident.
+score: 9.3
 ---
 
 The USAT Liberty is one of the most famous wreck dives in Asia, and what makes it extraordinary is how close it is to the beach. Walk into the water, swim 30 metres, and you are on the wreck. It lies in 3 to 29 metres of water, making it accessible to divers at every level — from beginners on their first open-water dive to advanced divers who penetrate the deeper interior.

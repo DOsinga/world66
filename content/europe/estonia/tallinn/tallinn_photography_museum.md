@@ -9,6 +9,7 @@ longitude: 24.7469
 snippet: Photography museum in the former city jail, with historical and contemporary exhibitions
 sources:
   - https://en.wikipedia.org/wiki/Tallinn_Museum_of_Photography
+score: 7.2
 ---
 
 The Tallinn Museum of Photography occupies the former city jail on Raekoja plats, a building that served as the main municipal prison from the 1880s. The exhibition space retains some of its original cell structure, which adds an odd atmospheric dimension to the photography shows.

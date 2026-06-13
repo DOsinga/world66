@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Stade_Olympique_de_Chamonix
 story: >
   The 1924 Winter Olympics here were not called the Winter Olympics at the time. They were officially the "International Winter Sports Week" — the IOC retroactively elevated them to Olympic status in 1926. Chamonix thus became the first Winter Olympics host city by accident as much as by design.
+score: 6.2
 ---
 
 The Stade Olympique de Chamonix hosted the world's first Winter Olympic Games in January and February 1924. Today it continues as a working sports venue with an ice rink, and the Olympic heritage is marked by plaques and a modest monument. Watching a local hockey game here in winter has a certain historical resonance — the same ice (more or less) where Olympic figure skating was contested a century ago.

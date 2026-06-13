@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - outdoor
 story: Napa Valley is one of the busiest commercial balloon-flying destinations in the world — on a clear morning a dozen or more balloons rise out of Yountville simultaneously, in a moment that has become an iconic Napa image. Flights launch at dawn because the morning air is calm and the temperature inversion holds the fog low in the valley.
+score: 6.8
 ---
 
 Sunrise balloon flights over the Napa Valley are a serious tourism business, with several long-running operators flying out of Yountville. Flights typically last about an hour in the air, plus an hour either side for setup and the traditional champagne breakfast after landing.

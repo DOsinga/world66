@@ -9,6 +9,7 @@ tags:
   - architecture
   - museum
 snippet: Cultural centre by Alvar Aalto on the south side of Tjörnin
+score: 7.8
 ---
 
 A low, calm cultural centre tucked behind the University of Iceland on the south side of Tjörnin, the Nordic House (Norræna húsið) was designed by the Finnish architect Alvar Aalto and opened in 1968. It hosts exhibitions, talks, concerts and a small Nordic library, and has the easy elegance of Aalto's late work — pale wood, soft daylight, a long view across the lake to the cathedral.

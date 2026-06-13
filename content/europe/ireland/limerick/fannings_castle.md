@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 Hidden in a small car park behind Mungret Street, Fanning's Castle (also called Whitamore's Castle) is the surviving wing of a 16th-century tower house — three storeys of squared limestone with mullioned windows, a stair turret, and a small rear gable. It is one of the few standing pieces of pre-Williamite secular Limerick.

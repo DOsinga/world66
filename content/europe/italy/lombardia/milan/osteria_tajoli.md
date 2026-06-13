@@ -10,6 +10,7 @@ snippet: Old-school Milanese trattoria with wood-roasted meats
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 An old-school Milanese osteria in the centro storico, beloved for roasted meats and potatoes cooked in a wood oven. No menu printed in English, no concessions to the tourist trade — just straightforward Lombard cooking at reasonable prices. Especially popular for Sunday lunch (check their hours, as these change seasonally).

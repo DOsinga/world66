@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Helena's Hawaiian Food
 type: poi
+score: 7.7
 ---
 
 Helena's Hawaiian Food in Kalihi is the standard-bearer for traditional Hawaiian plate lunch. The restaurant has been serving the same food since 1946 — kalua pig, lomi lomi salmon, chicken long rice, poi, and pipikaula (dried short ribs) — and won a James Beard America's Classic award in 2000, recognising restaurants that have given their communities culinary identity for decades.

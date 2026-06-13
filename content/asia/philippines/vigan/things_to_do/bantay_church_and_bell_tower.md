@@ -1,6 +1,7 @@
 ---
 title: "Bantay Church and Bell Tower"
 type: poi
+score: 8.2
 ---
 
 The Saint Augustine Church at Bantay is one of the oldest churches in the Philippines, founded by Augustinian missionaries in 1590. It stands on a low hill just north of central Vigan — a massive, fortress-like structure of brick and coral stone, its thick walls and narrow windows a reminder that colonial churches in the Philippines were built to serve as refuges as much as places of worship.

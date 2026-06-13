@@ -13,6 +13,7 @@ story: >
   Great. Placing a family portrait gallery inside the sacred Altis was an act
   of political theatre that the Greeks would have found deeply uncomfortable,
   and probably intended to.
+score: 7.8
 ---
 
 A circular marble building — a tholos — that stands at the northwestern corner of the Altis, the sacred precinct of the sanctuary. It was commissioned by Philip II of Macedon, who wanted to mark his new dominance over the Greek world in the most visible religious space available. The structure had an outer ring of Ionic columns and an inner ring of Corinthian half-columns, an unusual combination that gave the interior a layered grandeur.

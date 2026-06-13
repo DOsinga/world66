@@ -11,6 +11,7 @@ story: >
   embraced rather than apologised for.
 sources:
   - https://en.wikipedia.org/wiki/Aass_Brewery
+score: 7.8
 ---
 
 Norway's oldest brewery has operated from the same riverside site in Drammen since 1834. Aass Bryggeri — the name rhymes, approximately, with "boss" — produces a range of lagers, bocks, and seasonal beers that are widely available in the city's bars and restaurants. The brewery itself is a handsome collection of nineteenth-century industrial buildings along the Drammenselva, and guided tours run during summer months, taking you through the malt rooms, brewing floors, and cellars.

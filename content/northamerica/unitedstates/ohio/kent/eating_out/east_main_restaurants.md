@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 41.1528
 longitude: -81.3574
+score: 5.6
 ---
 
 East Main Street is where most of Kent's restaurants and bars are concentrated. The strip runs through downtown and into the area closest to campus, with a mix of independent spots serving burgers, pizza, sandwiches, and casual American food at prices calibrated to student budgets.

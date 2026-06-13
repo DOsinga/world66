@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.1933
 longitude: 6.8234
+score: 7.8
 ---
 
 The Croix de Culet (2,208 m) is a rounded summit above Planachaux, reachable on foot in about an hour from the cable car station. A large iron cross marks the top, and the 360-degree view takes in the Dents du Midi to the southeast, the Chablais Alps across the border in France, and on clear days the arc of Lake Geneva in the distance to the north.

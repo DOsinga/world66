@@ -7,6 +7,7 @@ tags:
 - nature
 title: Cenote Ik Kil
 type: poi
+score: 6.9
 ---
 
 The most photographed cenote in the Yucatán — a 26-metre-deep circular sinkhole with sheer limestone walls, hanging vines reaching down to the surface, and an open roof letting columns of sunlight pierce the green water. A spiral stone staircase carved into the rock leads down to the swimming platform.

@@ -15,6 +15,7 @@ story: >
   Great Man-Made River project aimed to pipe it 1,000 km north to the coast — an
   engineering ambition on a pharaonic scale, and one that began quietly draining an
   irreplaceable reservoir.
+score: 8.0
 ---
 
 The Kufra oasis complex consists of several interconnected oases — Tazerbo, Rebiana, and Kufra proper — sitting atop the Nubian Sandstone Aquifer. The date palm groves here have sustained life for centuries, fed by water drawn from wells that tap into this enormous underground reserve. The landscape around the oasis is a dramatic contrast: dunes and gravel plains in every direction, then suddenly the green of irrigated agriculture.

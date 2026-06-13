@@ -8,6 +8,7 @@ latitude: 3.0330
 longitude: -75.2800
 story: >
   Bambuco is Colombia's national dance, but its roots are fiercely contested — Neiva and the wider Huila department claim it as their own. The festival held here each June is one of the largest folklore events in Colombia, and during the San Pedro celebrations the city center fills with competing costumed dance troupes, street musicians, and visitors from across the country. The Reinado Nacional del Bambuco crowns a queen, the coronation drawing crowds that dwarf the city's usual population.
+score: 8.0
 ---
 
 The Festival Folclórico Nacional del Bambuco, held each June to coincide with the San Pedro celebrations, is the event that puts Neiva on the national calendar. It draws dance troupes, musicians, and visitors from across Colombia for several days of parades, competitions, and performances centred on the bambuco — Colombia's defining folk dance form.

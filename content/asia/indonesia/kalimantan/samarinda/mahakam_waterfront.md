@@ -9,6 +9,7 @@ latitude: -0.5018
 longitude: 117.1376
 sources:
   - https://en.wikipedia.org/wiki/Mahakam_River
+score: 7.1
 ---
 
 The Mahakam River waterfront is the lifeblood of Samarinda and the best place to absorb the city's character. The Mahakam here is wide enough that the far bank seems almost remote, and the traffic on it — coal barges, public ferries, speedboats loading for the upriver journey, dugout canoes — tells you immediately that this is a river city built on trade and movement.

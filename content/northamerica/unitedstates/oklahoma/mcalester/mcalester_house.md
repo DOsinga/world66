@@ -8,6 +8,7 @@ tags:
 snippet: 1890s home of city founder J.J. McAlester
 latitude: 34.9555
 longitude: -95.7602
+score: 6.5
 ---
 
 The McAlester House at 14 East Smith Avenue was the home of J.J. McAlester, the merchant and coal entrepreneur whose discovery of coal seams in this part of the Choctaw Nation in the 1870s gave the town its name and its first reason to exist. He went on to serve as the second Lieutenant Governor of Oklahoma.

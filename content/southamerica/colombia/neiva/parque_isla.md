@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.0305
 longitude: -75.2760
+score: 5.8
 ---
 
 Parque Isla is a public park set on an island formed by a fork of the Magdalena River on the edge of the city centre. It is Neiva's main green space — shaded paths, a small lake, and access to the riverfront that gives some relief from the intense heat the valley is known for.

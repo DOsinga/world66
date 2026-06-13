@@ -8,6 +8,7 @@ tags:
   - sight
   - castle
 story: "On the night of 20 November 1992, a halogen lamp set fire to a curtain in the Queen's private chapel and the resulting blaze tore through 115 rooms, including St George's Hall. Queen Elizabeth II described the year — which also saw the breakdowns of three royal marriages — as her annus horribilis. The restoration took five years and was paid for partly by opening Buckingham Palace to paying visitors in summer for the first time."
+score: 9.6
 ---
 
 Windsor Castle is the oldest and largest occupied castle in the world. William the Conqueror chose the site shortly after 1066 — a chalk bluff above the Thames at a strategic point west of London — and the castle has been a royal residence ever since. Every monarch from Henry I onwards has used it; the present King still spends weekends here.

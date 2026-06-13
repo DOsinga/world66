@@ -6,6 +6,7 @@ tags:
 - market
 title: Angkor Night Market
 type: poi
+score: 6.4
 ---
 
 **The Angkor Night Market** near Sivatha Street is a dedicated covered market that operates every evening from around 5pm, aimed primarily at tourists looking for handicrafts, clothing, and souvenirs in a less pressured environment than the Old Market area. The market is organised into stalls selling silk products, handmade jewellery, carved wood, paintings, and various Cambodia-branded items. The price dynamics here are standard Southeast Asian bazaar: opening prices are inflated and negotiation is expected.

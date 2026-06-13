@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - tulum_pueblo
+score: 7.3
 ---
 
 Honorio is a small pueblo institution — a street-corner stall on Avenida Andromeda where a queue of locals and tourists forms most mornings. The speciality is cochinita pibil, the Yucatecan dish of pork slow-cooked overnight in achiote and bitter orange and wrapped in banana leaves; Honorio's father started selling it from this corner decades ago.

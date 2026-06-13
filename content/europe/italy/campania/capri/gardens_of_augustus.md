@@ -8,6 +8,7 @@ snippet: Terraced gardens with the classic Faraglioni sea stack view
 latitude: 40.5480
 longitude: 14.2247
 story: "The gardens were originally created by Frederick Alfred Krupp, the German industrialist who came to Capri at the end of the 19th century and built the serpentine road now called Via Krupp that zigzags down to Marina Piccola. Krupp left Capri abruptly in 1902 under a cloud of scandal; the gardens were later donated to the municipality."
+score: 7.2
 ---
 
 The Gardens of Augustus are a series of terraced flowerbeds clinging to the southern cliffs of Capri town, with what is arguably the most photographed view on the island: the Faraglioni — three limestone sea stacks rising from the water below — framed by Mediterranean vegetation. The terrace at the lowest level is directly above the Via Krupp, the zigzag road carved into the cliff by the German industrialist Friedrich Alfred Krupp at the turn of the 20th century.

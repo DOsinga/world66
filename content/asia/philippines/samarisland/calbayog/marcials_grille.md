@@ -8,6 +8,7 @@ tags:
   - eating_out
 latitude: 12.0685
 longitude: 124.5900
+score: 4.7
 ---
 
 Known for the best baby back ribs in Calbayog City. A solid choice for grilled meats when you want something beyond the usual Filipino fare.

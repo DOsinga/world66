@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The monument was made in 2005 by Yekaterinburg artist Anatoly Vyatkin as a tribute to the digital age. Students believe that jumping on a particular key on a particular day delivers exam luck. The Enter key gets most of the hopping."
+score: 6.6
 ---
 
 On the wooded slope of the Iset embankment lies a giant flat outdoor 'keyboard' — 86 concrete blocks the size of small suitcases, each marked with a Cyrillic or Latin letter, arranged in the standard QWERTY layout. It is said to be the largest keyboard in the world.

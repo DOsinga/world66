@@ -8,6 +8,7 @@ tags:
 title: Kingston Square
 type: poi
 snippet: "Quiet Georgian square north of the centre, framed by terraces and the Hull New Theatre"
+score: 7.1
 ---
 
 Kingston Square is one of Hull's prettiest pockets of Georgian architecture, a small leafy square ringed by stuccoed terraces and townhouses. The Hull New Theatre, converted from the Assembly Rooms, sits on the western side. The square escaped most of the wartime bombing that flattened large parts of the city to the south.

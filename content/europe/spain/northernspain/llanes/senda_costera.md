@@ -8,6 +8,7 @@ latitude: 43.4225
 longitude: -4.7535
 sources:
   - https://en.wikipedia.org/wiki/Senda_Costera_(Llanes)
+score: 7.6
 ---
 
 The Senda Costera is a 15-km coastal footpath running along the cliffs and beaches east and west of Llanes, connecting the town to a string of small coves and headlands with some of the finest sea views in Asturias. The path runs close to the cliff edge for much of its length, with the Cantabrian Sea to the north and the Picos de Europa mountains visible to the south on clear days.

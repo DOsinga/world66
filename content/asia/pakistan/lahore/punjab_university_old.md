@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - mall
+score: 7.8
 ---
 
 The original campus of Punjab University (founded 1882) sits on the Mall near Government College — a cluster of Indo-Saracenic red-brick buildings with arcaded courtyards and a long colonnaded library. The most prominent building is the **Senate Hall**, with its central dome and pair of corner turrets.

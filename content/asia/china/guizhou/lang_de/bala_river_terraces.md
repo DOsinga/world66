@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.4720
 longitude: 108.0630
+score: 7.7
 ---
 
 The terraced rice paddies between Lang De village and the Bala River below are maintained by the families who live in the village above — not preserved as a heritage attraction, but planted, tended, and harvested each year. The Bala River itself is visible from the upper terraces as a narrow strip of water at the valley floor, and the terraces descend from the village to the river's edge in stepped bands.

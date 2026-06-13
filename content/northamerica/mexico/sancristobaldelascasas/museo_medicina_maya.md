@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 16.7503
 longitude: -92.6388
+score: 7.8
 ---
 
 The Maya of Chiapas have a sophisticated tradition of herbal and spiritual medicine that has survived centuries of colonisation and is still practised in the indigenous villages surrounding San Cristóbal. This museum, run by the organisation OMIECH (Organisation of Indigenous Highland Doctors of Chiapas), documents and preserves that tradition while also serving as a working centre where traditional healers practise.

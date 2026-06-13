@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.8967
 longitude: 11.4591
+score: 8.0
 ---
 
 Wismar's old harbour retains a working character that many Baltic port towns have lost — fishing boats, small cargo vessels, and the smell of diesel and salt water rather than the polished marina aesthetic of tourist-reoriented ports. The harbour basin, the Stadthafen, is flanked by old brick warehouses and gabled buildings, some converted to cafes and restaurants but still recognisably industrial in origin. A walk along the harbour front gives a sense of what Wismar's Baltic trade looked like in its medieval heyday.

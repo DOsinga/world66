@@ -10,6 +10,7 @@ story: >
   one wall, surrounded by thousands of dollar bills pinned to every surface.
   The bar's famous burger — a double patty with a hot dog on top — is called
   the Star Burger and has been on the menu since anyone can remember.
+score: 8.1
 ---
 
 The Shooting Star Saloon on Huntsville's main street is one of those American originals that has somehow survived into the twenty-first century unchanged. The building dates from 1879 and looks it — low ceiling, wood panelling, mounted animal heads, and an atmosphere that feels genuinely lived-in rather than deliberately rustic. It opens at 11am and closes when the last customer leaves.

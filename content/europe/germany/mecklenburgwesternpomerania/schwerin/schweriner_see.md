@@ -9,6 +9,7 @@ title: Schweriner See
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Lake_Schwerin
+score: 7.8
 ---
 
 The Schweriner See is one of the largest lakes in Germany — 24 kilometres long and up to four kilometres wide — and it wraps around the southern and eastern edges of the city in a way that makes Schwerin feel like it is floating on water. The castle sits on its own island in the lake's northern arm, which is the defining view of the city.

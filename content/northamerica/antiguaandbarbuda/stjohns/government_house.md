@@ -9,6 +9,7 @@ latitude: 17.1229
 longitude: -61.8406
 sources:
   - https://en.wikipedia.org/wiki/Government_House,_St._John%27s
+score: 4.8
 ---
 
 Government House is the official residence and office of the Governor-General of Antigua and Barbuda, occupying a prominent position on Independence Avenue above the town centre. The present structure is a 19th-century colonial mansion set in formal gardens.

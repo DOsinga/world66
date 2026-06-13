@@ -10,6 +10,7 @@ longitude: 39.8260
 story: "The Zamzam well has been in continuous use for thousands of years and produces around 11 to 18.5 litres of water per second. Saudi authorities ran the well with electric pumps from 1953 and have since drilled additional bores to maintain the supply. Studies of Zamzam water have found it unusually high in calcium and magnesium and free from bacteria — though Saudi authorities warn against drinking large quantities due to high fluoride content."
 sources:
   - https://en.wikipedia.org/wiki/Zamzam_Well
+score: 8.2
 ---
 
 The Zamzam Well, inside the Grand Mosque compound, is the source of the sacred water that millions of pilgrims drink during Hajj and Umrah. According to Islamic tradition, the well sprang up miraculously to save Hajar (Hagar) and her infant son Ishmael when they were left in the desert by Ibrahim. The well has been in continuous use for well over a thousand years.

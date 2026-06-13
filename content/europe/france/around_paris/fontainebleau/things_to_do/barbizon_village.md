@@ -10,6 +10,7 @@ longitude: 2.6261
 story: "Jean-François Millet lived and worked in Barbizon for 27 years, painting peasant subjects — The Gleaners, The Angelus — that made him one of the most reproduced artists of the 19th century. He was so poor that he sometimes accepted a chicken in exchange for a painting. The Angelus alone sold for the equivalent of millions at auction in 1889."
 sources:
   - https://en.wikipedia.org/wiki/Barbizon_school
+score: 7.8
 ---
 
 The village of Barbizon, a short drive from Fontainebleau, was home to a colony of landscape painters in the 1830s and 1840s who came to paint directly from nature in the forest. Corot, Millet, Rousseau, and Daubigny all worked here, developing the plein-air tradition that directly influenced the Impressionists.

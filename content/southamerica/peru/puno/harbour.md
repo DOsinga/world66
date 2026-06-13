@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -15.8328
 longitude: -70.0094
 snippet: The working lake harbour, departure point for all the island boats
+score: 5.9
 ---
 
 The harbour where every boat to the Uros, Taquile, and Amantani islands departs. It is about two kilometres east of the Plaza de Armas — a short taxi ride or a 25-minute walk down the long Avenida El Sol. Wooden boats and small motor launches crowd the docks from dawn until mid-morning, when most of the day's tour departures leave.

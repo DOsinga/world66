@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.800
 longitude: -16.930
+score: 6.8
 ---
 
 The Cathedral of Saint-Joseph is the main Roman Catholic church of Thiès and the seat of the Diocese of Thiès. Built during the colonial period, the church is a prominent landmark in the city centre and notable for its stained glass windows, which were designed and produced locally by Senegalese artists. The windows depict religious scenes populated with African figures — a deliberate decision to embed the African church in African imagery.

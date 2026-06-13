@@ -10,6 +10,7 @@ latitude: 31.2139
 longitude: 29.8856
 neighbourhood: Bahary
 story: "The Lighthouse of Alexandria — one of the Seven Wonders of the Ancient World — stood on this exact spot from the 3rd century BC until a series of earthquakes finally toppled it in 1303 AD. Sultan Qaitbay built the citadel here in 1477, using stones from the collapsed Lighthouse for its foundations. Divers in the harbour below still find Lighthouse fragments — granite blocks, fluted columns, fragments of statues — scattered across the seabed. Many are visible on the underwater archaeological dive."
+score: 8.9
 ---
 
 The squat sandstone fort at the western tip of Alexandria's harbour, built on the foundations of the ancient Lighthouse and incorporating its toppled stones into the walls. The citadel is the most recognisable landmark in the city and one of the best Mamluk-era military structures in Egypt.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 7.3
 ---
 
 A short walk from the Stave Church, the Heddal Open Air Museum (Heddal bygdetun) is a small cluster of traditional Telemark farm buildings relocated from the surrounding valleys and reassembled here. The collection includes log barns and storehouses, a smithy, and the **Ramberg farmhouse** with painted interiors in the rose-painting (*rosemaling*) tradition that Telemark is famous for.

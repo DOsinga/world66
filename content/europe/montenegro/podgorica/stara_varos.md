@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 42.4356
 longitude: 19.2601
+score: 7.8
 ---
 
 Stara Varoš is Podgorica's Ottoman-era quarter, the oldest surviving part of the city and its most atmospheric corner. The neighbourhood clusters around the old bazaar area near the confluence of the Ribnica and Morača rivers, where the medieval settlement of Ribnica once stood before the Ottomans expanded it into a proper town. Walk the narrow lanes and you find the clock tower, the old mosque, a hammam ruin, and low stone houses that survived the 20th-century rebuilding that replaced most of Podgorica with Yugoslav concrete.

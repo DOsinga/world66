@@ -6,6 +6,7 @@ latitude: 32.7444
 longitude: -16.7028
 story: >
   Ponta de São Lourenço is the only stretch of Madeira that didn't get the trade winds and the rainfall that made the rest of the island green. The volcanic rock here weathered into reds, ochres, and browns instead — the closest thing on Madeira to a desert landscape, and a clue to what the rest of the island looked like before the trees took hold.
+score: 8.8
 ---
 
 Ponta de São Lourenço is the long, narrow peninsula that forms Madeira's eastern tip. Unlike the rest of the island, it is arid and treeless — a place of bare volcanic ridges and exposed sea cliffs falling into deep blue water. The contrast with the lush interior is dramatic.

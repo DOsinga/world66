@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 A second of Baracoa's three Spanish forts, at the western tip of the town. Built in 1803 to cover the approaches from the west, it is the smallest of the trio and now functions as a state-run restaurant. The setting — squat thick walls with cannons still in place, looking out across the bay to El Yunque — is more memorable than the cooking.

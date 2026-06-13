@@ -9,6 +9,7 @@ latitude: 37.7243
 longitude: -89.2165
 story: >
   Carbondale is the southern terminus of two Amtrak routes — the Saluki and the Illini — that together provide four daily trains to Chicago. The town's location at the end of the rail line rather than a through-stop has historically given it a slight remoteness that has shaped its character: universities at the end of the line tend to develop a distinct, self-contained culture.
+score: 5.8
 ---
 
 The Southern Illinois Multimodal Station (SIMMS) serves as Carbondale's Amtrak station and transportation hub. The current station is a modern facility built in 2003, but the site has been associated with railroading since the Illinois Central Railroad established Carbondale as a major junction in the 1850s — the railroad's arrival is what founded the town.

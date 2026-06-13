@@ -7,6 +7,7 @@ tags:
 snippet: "Tiny listening room with surprisingly serious musicians"
 latitude: 39.13680
 longitude: -76.24070
+score: 7.6
 ---
 
 The Mainstay is a converted feed store on Main Street that operates as a nonprofit listening room. It seats about 80 people, the sound is excellent, and the bookers have a knack for catching musicians on the way up or on quiet tours — folk, bluegrass, acoustic blues, jazz singers, and the occasional acoustic-instrument curiosity. Tickets are usually $20 to $30.

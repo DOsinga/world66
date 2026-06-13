@@ -7,6 +7,7 @@ snippet: Carved spruce-wood lecture hall for public dissections, inside the Arch
 tags:
 - things_to_do
 - sight
+score: 9.0
 ---
 
 The Anatomical Theatre upstairs in the Archiginnasio is a single perfectly preserved room — finished in 1637 and rebuilt after a 1944 Allied bomb destroyed it. Tiered benches in carved spruce wood face the white marble dissecting table in the centre; statues of famous physicians line the walls; on the chair of the lecturer two flayed wooden figures, the *Spellati*, stand as if reading along.

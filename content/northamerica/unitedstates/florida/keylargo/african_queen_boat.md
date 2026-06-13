@@ -14,6 +14,7 @@ story: >
   tracked it down, shipped it to Key Largo, and restored it. In 1992 it was
   added to the US National Register of Historic Places — one of the few boats
   ever to receive that designation.
+score: 6.4
 ---
 
 The original steam-powered boat used in John Huston's 1951 film *The African Queen*, starring Humphrey Bogart and Katharine Hepburn, is moored at a Key Largo marina and available to visit. The 30-foot wooden vessel was built in Britain in 1912 and shipped to Africa to work the rivers and lakes of Uganda and the Congo. After the film it was abandoned and eventually tracked down and restored.

@@ -9,6 +9,7 @@ tags:
 - viewpoint
 title: Friedrichsturm
 type: poi
+score: 7.1
 ---
 
 The Friedrichsturm sits on the Kienberg, the wooded hill that rises immediately south of Freudenstadt. It is a stout 25-metre stone tower with a spiral staircase to a small viewing platform at the top. From there the panorama runs across the rooftops of Freudenstadt to the ridges of the Northern Black Forest and, on clear days, west to the Vosges across the Rhine plain.

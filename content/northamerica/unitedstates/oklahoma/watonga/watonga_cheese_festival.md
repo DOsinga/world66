@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.8487
 longitude: -98.4136
+score: 6.2
 ---
 
 Each October Watonga hosts its annual Cheese Festival, a small-town fair built around the local Watonga Cheese factory — which produces cheddar and colby cheeses that are sold across the state. The festival draws several thousand visitors for cheese tastings, craft booths, food stalls, and a parade through the downtown. It is the kind of modest, unpretentious county fair that is rapidly becoming rarer across rural America.

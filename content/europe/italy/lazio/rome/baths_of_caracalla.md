@@ -11,6 +11,7 @@ tags:
 snippet: "Vast 3rd-century bath ruins with summer open-air opera"
 title: Baths of Caracalla
 type: poi
+score: 8.6
 ---
 
 Built between 212 and 219 AD, the second largest bath complex in ancient Rome covered 27 acres and could accommodate 1,700 bathers at a time. While most of the elaborate mosaics and statues have been removed to museums, the sheer scale of the ruins is impressive. In summer, the Rome Opera performs here under the stars.

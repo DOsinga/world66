@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2693
 longitude: -113.8286
+score: 6.9
 ---
 
 The social centre of Waskasoo Park, Bower Ponds is a series of landscaped ponds in the river valley with a playground, picnic areas, and walking paths along the Red Deer River. In summer you can rent paddle boats and kayaks; in winter the ponds are flooded and groomed for skating, with a warming shelter and hot chocolate on hand. The surrounding park is excellent for cycling and running year-round.

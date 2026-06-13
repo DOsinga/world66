@@ -13,6 +13,7 @@ story: >
   The North Koreans have maintained it as a trophy ever since, and tours of the
   ship are a standard part of the museum visit. The crew of 83 was held for eleven
   months before being released; one crew member died during the capture.
+score: 8.6
 ---
 
 The Victorious Fatherland Liberation War Museum — the North Korean name for what the rest of the world calls the Korean War — is one of Pyongyang's largest and most visited institutions. The museum presents the war of 1950-53 from the North Korean perspective, with captured American military equipment, panoramic battle paintings of enormous scale, dioramas, and a detailed account of the war and its conclusion that differs substantially from Western histories.

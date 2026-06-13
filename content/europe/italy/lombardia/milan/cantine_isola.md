@@ -11,6 +11,7 @@ tags:
   - bar
 title: Cantine Isola
 type: poi
+score: 7.3
 ---
 
 A tiny, beloved wine bar in Milan's Chinatown/Isola area, jammed floor-to-ceiling with bottles and run by the same family for decades. One of the best places in the city to drink Lombard and natural wines by the glass, with a loyal local crowd and no pretension. The selection skews Italian, with particular depth in Piedmont and Lombardy.

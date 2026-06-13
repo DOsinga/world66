@@ -6,6 +6,7 @@ longitude: 9.1454
 tags:
   - eating_out
   - restaurant
+score: 7.8
 ---
 
 Da Ö Vittorio is a Recco institution, one of the eight restaurants entitled to serve focaccia col formaggio IGP. The Bertolone family have been baking it on Via Roma since 1955 and keep the wood-fired oven running through long lunches and dinners. The focaccia comes whole on a round tin, and you eat it with your hands; the cheese is exclusively prescinsêua, a Ligurian fresh cheese that some other restaurants substitute with stracchino.

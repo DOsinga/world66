@@ -10,6 +10,7 @@ latitude: 41.6975
 longitude: -74.1022
 sources:
   - https://en.wikipedia.org/wiki/Locust_Lawn_Estate
+score: 7.0
 ---
 
 Locust Lawn is a Federal-style mansion about five miles south of New Paltz village, built in 1814 by Josiah Hasbrouck and now maintained by Historic Huguenot Street as part of its broader interpretation of the region's history. The house and its outbuildings — including a stone carriage barn and an early 19th-century slave quarters — sit on a working farm that has operated continuously for over two centuries.

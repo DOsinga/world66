@@ -6,6 +6,7 @@ tags:
   - museum
 title: Museum on the Seam
 type: poi
+score: 7.0
 ---
 
 A socio-political contemporary art museum occupying a building that sat directly on the armistice line between Israeli and Jordanian Jerusalem from 1948 to 1967. The building itself is the statement: one side faced Israel, one side faced Jordan, and both sides show the marks of that division. Today the museum uses contemporary art to address questions of coexistence, conflict, and human rights, staging rotating exhibitions from Israeli and international artists.

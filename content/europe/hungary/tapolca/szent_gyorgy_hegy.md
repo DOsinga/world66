@@ -9,6 +9,7 @@ snippet: "Volcanic hill capped with dramatic basalt organ pipes and vineyards"
 latitude: 46.8417
 longitude: 17.4778
 story: "The basalt columns on the hill's flanks are the eroded core of a Pliocene-era volcano. The same volcanism produced all the witness mountains of the Tapolca Basin and gave the local wine its distinctive mineral character."
+score: 8.1
 ---
 
 A short drive south of Tapolca, Szent György-hegy is the most spectacular of the half-dozen volcanic witness mountains that punctuate the basin. Its flat summit is ringed by exposed basalt columns — the so-called orgonák, or organ pipes — left by erosion of the surrounding tuff.

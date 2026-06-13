@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 A small bay village twenty kilometres south of Marmaris, reachable by a switchback mountain road or — better — by water-taxi from the Marmaris seafront. The beach is a horseshoe of fine grey sand and clear water, lined with small hotels and restaurants stepping up the hillside, and it has resisted the worst of the high-rise development further north.

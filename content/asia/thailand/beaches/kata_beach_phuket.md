@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Kata Beach
 type: poi
+score: 7.3
 ---
 
 A wide crescent of soft sand on Phuket's southwest coast, calmer and less frenetic than Patong but with enough restaurants and shops to keep you fed and entertained. The surf picks up from May to October — good enough for beginners to learn on, not serious enough to scare anyone off.

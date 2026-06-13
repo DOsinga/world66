@@ -9,6 +9,7 @@ latitude: 25.0833
 longitude: -77.3667
 story: >
   Arawak Cay was reclaimed from the harbour in 1969 to dump dredge spoil from the deepening of the cruise-ship channel. The food stalls grew up organically in the 1980s as a way for fishermen returning from the Out Islands to sell their catch directly — a piece of Caribbean urban planning that was not planned at all.
+score: 8.6
 ---
 
 A man-made island just west of downtown, lined with two dozen open-air seafood shacks painted in bright Caribbean colours. **Fish Fry**, as everyone calls it, is where Nassau itself eats — the cracked conch, fried snapper, grouper sandwiches, conch salad, and Kalik beer are the same prices that locals pay. **Twin Brothers** and **Goldie's** are the long-running favourites.

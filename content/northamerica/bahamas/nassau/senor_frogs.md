@@ -11,6 +11,7 @@ tags:
 title: Senor Frog's
 type: poi
 url: http://www.senorfrogs.com/
+score: 3.8
 ---
 
 Right on the harbor with views of the water traffic, Senor Frog's is a loud, fun Mexican restaurant and bar. Karaoke, good food, and a party atmosphere. The bar and gift shop stay open late. Hours: 10am–1am.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Mataró Museum
 type: poi
+score: 7.2
 ---
 
 The Mataró Museum is the city's main history and art museum, headquartered in Can Serra, a fortified Renaissance building dating from 1565. The collections span archaeology from the Roman period (closely tied to what you can see at the Can Llauder villa), medieval and early modern Mataró, and the city's industrial history including the famous 1848 railway.

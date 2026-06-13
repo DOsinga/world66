@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 48.8970
 longitude: 9.1908
+score: 7.6
 ---
 
 Marktplatz is the central square of Ludwigsburg's planned baroque town and the social heart of the place outside the palace. The square was laid out as part of Eberhard Ludwig's grid in the early 1700s and is anchored by two churches facing each other across the open space — the Lutheran Stadtkirche to the south and the Catholic Dreieinigkeitskirche to the north — an unusual arrangement reflecting the duke's wish to attract settlers of both confessions to his new town.

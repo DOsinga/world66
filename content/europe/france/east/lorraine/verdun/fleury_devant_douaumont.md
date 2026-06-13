@@ -9,6 +9,7 @@ tags:
 - monument
 story: "Fleury changed hands sixteen times in three months in 1916. Of the 422 inhabitants of 1914, not one returned. The village was never rebuilt; instead it was officially classified by the French government as 'morts pour la France' — dead for France — one of nine such villages around Verdun that retain their commune status without inhabitants."
 snippet: "Destroyed WWI village, never rebuilt, marked out as it stood in 1914"
+score: 8.8
 ---
 
 Fleury-devant-Douaumont is one of nine French villages obliterated in the 1916 battle and never reoccupied. Walking the paths through what is now beech and pine forest, you see small white signs marking the locations of the destroyed buildings — the bakery, the school, the inn, the houses by family name. The ground is still pocked with shell craters.

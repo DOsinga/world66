@@ -7,6 +7,7 @@ tags:
 - industry
 title: Ceramics Industry
 type: poi
+score: 6.6
 ---
 
 Morbi is India's ceramics capital, producing roughly 70 percent of the country's ceramic and vitrified tiles, porcelain sanitary ware, and floor tiles. The industry grew from a traditional pottery-making background and now operates on an industrial scale: there are over 600 ceramic manufacturing units in and around the city, and the exports reach more than 100 countries.

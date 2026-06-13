@@ -6,6 +6,7 @@ longitude: -3.0101
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Convento de la Concepción is a former Franciscan convent founded in the early seventeenth century on what was then the western edge of town. The church is open for services and is the more rewarding part to visit: a long single nave, painted vaults and a Baroque main retablo carved by local craftsmen.

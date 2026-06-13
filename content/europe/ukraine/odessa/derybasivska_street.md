@@ -14,6 +14,7 @@ story: >
   born in Barcelona, he fought the Turks at the siege of Izmail alongside Suvorov, then
   designed the city that would bear his Russified name. His statue on Prymorsky Boulevard
   overlooks the boulevard the city built in his honour.
+score: 7.4
 ---
 
 Derybasivska is the spine of central Odessa — a broad, chestnut-shaded pedestrian street running through the heart of the old city. The facades lining it range from 19th-century baroque mansions to Soviet-era apartment blocks, and the street level is a procession of cafes, ice cream stalls, souvenir vendors, and the occasional musician. It connects the City Garden to the main shopping district and is the natural place to end up in the evening.

@@ -8,6 +8,7 @@ tags:
 latitude: 40.6316
 longitude: 22.9450
 snippet: Dense cluster of bars in repurposed warehouses around Valaoritou Street
+score: 6.6
 ---
 
 Valaoritou and the streets around it are where Thessaloniki's young nightlife is concentrated. The former textile warehouses have become craft cocktail bars, ouzo bars, small clubs and live music venues, operating at close quarters and staying open until dawn. The style varies from serious cocktail menus in converted industrial spaces to informal bars where the music is too loud and the drinks are cheap and strong.

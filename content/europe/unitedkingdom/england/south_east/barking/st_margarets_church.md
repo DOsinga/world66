@@ -7,6 +7,7 @@ tags:
 latitude: 51.5355
 longitude: 0.0760
 story: "Captain James Cook married Elizabeth Batts here on 21 December 1762, weeks before sailing to chart the transit of Venus from Tahiti. The marriage register entry is still in the church archives. They had six children; Elizabeth outlived him by 56 years, dying in 1835 without ever learning the precise spot of his death on Hawaii's Big Island."
+score: 7.7
 ---
 
 The parish church of Barking sits inside the abbey precinct, sharing the ancient graveyard with the abbey ruins. The building is largely 13th-century with later medieval additions — a low, broad nave of Kentish ragstone with a squat west tower. Inside it still functions as a working Church of England parish.

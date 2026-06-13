@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Lweru General Store
 type: poi
+score: 2.4
 ---
 
 The main hardware and electrical goods store in Bukoba. Stocks carpentry tools, building materials, and electrical supplies — useful if you need something practical and can't find it elsewhere in town. The P.O. Box address is the mailing address; the store is in central Bukoba.

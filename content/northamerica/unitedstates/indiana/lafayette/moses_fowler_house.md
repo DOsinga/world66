@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The Moses Fowler House is one of the finest surviving Victorian mansions in Indiana, built in 1852 for a successful dry goods merchant and expanded and remodelled in the 1870s in the Second Empire style. It sits on 10th Street in the historic South Street neighbourhood and is now home to the Greater Lafayette Museum of Art.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.2250
 longitude: -122.6000
+score: 6.8
 ---
 
 Shollenberger Park is a 165-acre wetland park at the edge of the Petaluma River, where the tidal slough opens out into the marshes of San Pablo Bay. A paved walking and cycling loop circles the main wetland area, with benches and viewing platforms overlooking the reed beds and open water. It is one of the better bird-watching spots in Sonoma County, with great blue herons, egrets, ducks, and shorebirds present year-round, and migrating species passing through in spring and autumn.

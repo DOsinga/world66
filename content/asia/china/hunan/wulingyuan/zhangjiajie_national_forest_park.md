@@ -8,6 +8,7 @@ latitude: 29.3499
 longitude: 110.4352
 story: >
   China's first national forest park, designated in 1982, Zhangjiajie was created not from a single dramatic decision but through the persistent lobbying of a local artist named Wu Guanzhong, who published a celebrated essay describing the landscape in 1979. His writing brought photographers and painters; the photographers' images reached government planners; the park designation followed three years later. Wu's essay is still quoted on signboards throughout the park.
+score: 9.3
 ---
 
 Zhangjiajie National Forest Park covers about 130 square kilometres of the southern section of the Wulingyuan UNESCO World Heritage area. It contains the highest concentration of the quartzite sandstone columns that define the landscape — more than 3,000 of them, rising between 100 and 400 metres, their bases embedded in dense subtropical forest and their crowns visible from the plateau trails above.

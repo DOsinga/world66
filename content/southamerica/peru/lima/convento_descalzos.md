@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Franciscan monastery with a Cuzco-school painting collection
+score: 8.0
 ---
 
 The **Convento de los Descalzos** (Convent of the Barefoot) is a 16th-century Franciscan monastery north of the Rímac river, reached on foot along the **Alameda de los Descalzos** promenade. Its tranquil cloisters, infirmary, kitchen, and refectory have been preserved more or less as they were before secularisation in the 1800s — wooden benches, painted walls, and a refectory with the original long table laid for 30 monks.

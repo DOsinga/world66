@@ -10,6 +10,7 @@ longitude: -111.7058
 snippet: Otherworldly salt flats within Wood Buffalo, just south of Fort Smith
 sources:
   - https://en.wikipedia.org/wiki/Salt_Plains_(Wood_Buffalo_National_Park)
+score: 8.0
 ---
 
 About 20 kilometres south of Fort Smith along Highway 5, the Salt Plains are one of the strangest landscapes in Canada: a vast, nearly flat expanse of exposed saline soil where salt crystals form on the surface and almost nothing grows. The effect is startling — it looks more like a tidal flat in the Arctic than anything you would expect in the boreal forest. Underground brine seeps to the surface and evaporates, leaving salt deposits that have been used by wood bison for centuries as a salt lick.

@@ -6,6 +6,7 @@ longitude: -3.6989
 tags:
   - things_to_do
   - neighbourhood
+score: 7.5
 ---
 
 Madrid's LGBT quarter and one of the most fashionable neighbourhoods in central Spain. Centred on **Plaza de Chueca** and the surrounding streets, Chueca is dense with rainbow-painted bars, gay-friendly restaurants, design boutiques, and the rebuilt **Mercado de San Antón** food market. Every July, **Madrid Pride** (Orgullo) effectively shuts the neighbourhood down for a week of street parties that draw two million visitors.

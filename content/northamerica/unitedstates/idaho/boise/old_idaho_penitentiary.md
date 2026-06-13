@@ -9,6 +9,7 @@ latitude: 43.6033
 longitude: -116.1647
 story: >
   The prison operated from 1872 to 1973 — over 100 years and housing some 13,000 prisoners. Inmate labor quarried the sandstone from Table Rock just above the site and built much of the facility themselves. The last riot, in 1973, caused enough damage that the state closed the prison and moved inmates to a new facility. It is now one of the best-preserved Victorian-era prisons in the country.
+score: 8.3
 ---
 
 The Old Idaho Penitentiary operated from 1872 until 1973, a century during which it housed outlaws, murderers, and the occasional political prisoner in its sandstone cell blocks. The inmates quarried much of the stone themselves from the nearby Table Rock mesa — a bleak but efficient arrangement that suited frontier-era prison economics.

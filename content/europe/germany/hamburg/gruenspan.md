@@ -12,6 +12,7 @@ tags:
 - music
 title: Grünspan
 type: poi
+score: 6.8
 ---
 
 Hamburg's oldest rock club, opened in 1968 in a former cinema on the Grosse Freiheit. Mid-size touring rock and indie bands during the week, sweaty club nights at the weekend. A Reeperbahn institution.

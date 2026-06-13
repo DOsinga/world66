@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.4100
 longitude: -1.8500
+score: 7.2
 ---
 
 Cruden Bay's beach is a wide, gently curving sweep of sand with a distinctly pink-red tinge — an effect of the local granite eroding into the dune system over thousands of years. The beach stretches over a kilometre from the village to the headland to the south, and it is usually quiet even in summer. The dunes behind the beach support a varied ecosystem with marram grass, wildflowers, and several species of coastal birds.

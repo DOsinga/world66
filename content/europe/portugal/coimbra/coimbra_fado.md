@@ -9,6 +9,7 @@ longitude: -8.4268
 snippet: "Coimbra's own fado tradition — sung by male students in black capes, darker and more literary than Lisbon's"
 story: >
   By tradition, Coimbra fado is only sung by men, and only by students or alumni of the university. Singing in the street outside someone's window is a recognised courtship practice, and certain songs are reserved exclusively for serenading — performing them in any other context is considered bad form.
+score: 7.8
 ---
 
 Coimbra has its own fado tradition, quite distinct from the better-known Lisbon version. Here the singers are male, the guitar has a different tuning (the Coimbra guitar has a rounder, darker sound than the Lisbon variety), and the themes tend toward poetry, academic life, and melancholy rather than the sailor-and-longing subjects of Lisbon fado.

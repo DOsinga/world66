@@ -7,6 +7,7 @@ address: Anjuna Beach Road
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A small open-fronted joint on the main road into Anjuna that has built a cult reputation for the best burgers in north Goa. The menu is short — a handful of beef, chicken and vegetarian builds — and the bread is baked in-house. Add a milkshake.

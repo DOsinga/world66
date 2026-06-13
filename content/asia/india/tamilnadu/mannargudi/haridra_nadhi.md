@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.6665
 longitude: 79.4430
+score: 7.3
 ---
 
 The Haridra Nadhi is the sacred tank at the heart of the Rajagopalaswamy Temple complex, and it is enormous — one of the largest temple tanks in Tamil Nadu. The tank is surrounded by stone steps on all four sides and enclosed by the temple's outer walls, giving it a cloistered, almost private atmosphere despite its size.

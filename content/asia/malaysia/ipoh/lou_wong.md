@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - chinese
+score: 7.2
 ---
 
 The most famous of Ipoh's *nga choi kai* (bean sprout chicken) restaurants, on Jalan Yau Tet Shin in the New Town. The fixed three-part order is the way to eat it: a plate of poached chicken cut into chunks, a plate of fat juicy bean sprouts dressed in soy and sesame oil, and a bowl of silky *kai si hor fun* (chicken-and-prawn noodles) — eaten in rotation.

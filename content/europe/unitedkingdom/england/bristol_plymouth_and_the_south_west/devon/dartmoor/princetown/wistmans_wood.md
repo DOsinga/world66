@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5742
 longitude: -3.9777
+score: 8.8
 ---
 
 Wistman's Wood is one of the strangest and most atmospheric places on Dartmoor — a fragment of ancient high-altitude oak woodland, growing at 380 metres among great tumbled boulders of granite. The trees are dwarf English oaks, gnarled and moss-covered, their limbs twisted by centuries of wind and cold into shapes that look more like a fairy tale than a national park. The boulders themselves are draped in a thick carpet of mosses and ferns, making the whole place feel as if time has slowed down.

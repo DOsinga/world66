@@ -15,6 +15,7 @@ story: >
   seven debate sites still standing. Lincoln lost the Senate race but the debates
   made him nationally famous and helped him win the presidency two years later.
   A plaque on the building marks the spot where the two men stood.
+score: 8.1
 ---
 
 Old Main is the oldest building on the Knox College campus and one of the most historically significant structures in Illinois. A simple but dignified building in the Collegiate Gothic style, completed in 1857, it achieved its place in American history the following year when Lincoln and Douglas debated on its steps. The building is a National Historic Landmark and can be visited as part of a walk through the Knox campus.

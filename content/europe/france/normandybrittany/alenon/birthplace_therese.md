@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.4320
 longitude: 0.0900
+score: 7.0
 ---
 
 Sainte Thérèse of Lisieux — officially Marie-Françoise-Thérèse Martin — was born in Alençon on 2 January 1873. The house where she was born, on the Rue Saint-Blaise, is now a pilgrimage site and museum visited by thousands of Catholics every year. Thérèse entered the Carmelite order at fifteen and died of tuberculosis at twenty-four, having written the spiritual memoir that became *The Story of a Soul* — one of the most widely read religious texts of the 20th century.

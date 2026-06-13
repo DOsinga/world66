@@ -8,6 +8,7 @@ tags:
 - sight
 title: The Red Church
 type: poi
+score: 7.0
 ---
 
 A striking neo-Gothic red-brick church on the western edge of the old town, the Červený kostel — Red Church — was built in 1901–02 for the local Protestant community. The colour comes from unrendered brick, almost unique among the city's mostly white and stucco façades.

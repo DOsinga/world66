@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 8.2
 ---
 
 The San Anton Gardens are the most pleasant public gardens on Malta — a formal Baroque layout of paths, parterres, fountains, and shaded benches that opens directly off the back of the palace. Mature ficus, cypress, jacaranda, and date palm provide reliable shade even at the height of summer.

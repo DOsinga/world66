@@ -10,6 +10,7 @@ story: >
   Eusebius and Polion were Christian martyrs executed in Cibalae around 304 AD during the Diocletianic persecution. The Roman emperor Diocletian was himself connected to the Balkans — born not far from Split — and the persecution in this province was particularly fierce. The two local martyrs have given Vinkovci its patron saints and shaped its Catholic identity ever since.
 sources:
   - https://en.wikipedia.org/wiki/Church_of_Saints_Eusebius_and_Polion,_Vinkovci
+score: 7.2
 ---
 
 The Roman Catholic parish church of Vinkovci stands near the main square and is dedicated to two local martyrs from the early Christian era. The current building is a nineteenth-century Baroque-influenced structure with a distinctive twin-tower facade that defines the town's skyline.

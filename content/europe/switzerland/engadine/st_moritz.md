@@ -14,6 +14,7 @@ story: >
   would enjoy it so much he would refund their travel costs if they did not.
   They came. They stayed through spring. They never asked for their money back.
   Winter tourism was born.
+score: 7.7
 ---
 
 St. Moritz sits at 1,822 metres above sea level at the eastern end of Lake St. Moritz, the most famous ski resort in Switzerland and the oldest in the world. It has hosted the Winter Olympics in 1928 and 1948 and a string of Alpine World Ski Championships, most recently in 2017. The name has become a byword for Alpine luxury — private jets at the airport, Ferraris parked outside hotels in a metre of snow, couture shops alongside ski rental outlets.

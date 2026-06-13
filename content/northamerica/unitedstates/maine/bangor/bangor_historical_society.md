@@ -9,6 +9,7 @@ story: >
   Bangor merchant. It is one of the finest surviving Federal-style houses in Maine,
   with an elliptical staircase and original plasterwork that survived both the
   lumber era and later redevelopment.
+score: 6.7
 ---
 
 The Bangor Historical Society operates out of the Thomas A. Hill House on Union Street, a beautifully preserved Federal-style mansion from the 1830s. Inside, the society maintains exhibits on Bangor's history — the lumber boom, the city's maritime past, and the Victorian era when Bangor was one of the wealthiest cities per capita in the United States.

@@ -7,6 +7,7 @@ tags:
   - family
 latitude: 52.4023
 longitude: 13.0957
+score: 5.8
 ---
 
 The Volkspark Potsdam, on the hill southeast of the city centre, is the main public leisure park for Potsdam residents — the local alternative to the tourist-oriented Sanssouci. The park includes gardens, walking and cycling paths, a children's play area, a rose garden, and the Biosphäre tropical greenhouse. It was significantly developed for the 2001 Federal Garden Show (Bundesgartenschau), which added new landscaping, viewing points, and the treetop walk that offers elevated views across the Havel landscape.

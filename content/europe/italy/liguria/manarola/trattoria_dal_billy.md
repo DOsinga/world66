@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.1067
 longitude: 9.7292
+score: 6.1
 ---
 
 The serious dinner address in Manarola — a small family-run trattoria above the village on Via Aldo Rollandi, with a terrace looking down at the harbour and out to sea. Billy himself runs the kitchen; the menu is short, the seafood is bought that morning, and the antipasto plate alone is worth booking for.

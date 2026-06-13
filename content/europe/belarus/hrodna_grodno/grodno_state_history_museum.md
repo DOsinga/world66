@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.677
 longitude: 23.828
+score: 7.4
 ---
 
 The city's main history museum is split across the two castles and a separate exhibition building in the old town. The Old Castle houses the main archaeological and historical collections, covering the region from prehistoric times through the medieval Black Ruthenian principality and the long Polish-Lithuanian period. The exhibits include weapons, coins, decorative arts, and religious objects from the city's varied past.

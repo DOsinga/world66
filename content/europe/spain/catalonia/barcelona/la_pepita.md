@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: La Pepita
 type: poi
+score: 7.5
 ---
 
 La Pepita is a small and enormously popular sandwich and pintxos bar in Gràcia that makes its own bread, sources its ingredients carefully, and produces combinations — cured meats, roasted vegetables, excellent cheeses, house-made sauces — that are significantly better than the word "sandwich" suggests.

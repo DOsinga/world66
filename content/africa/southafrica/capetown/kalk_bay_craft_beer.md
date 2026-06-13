@@ -12,6 +12,7 @@ tags:
 - bar
 title: Kalk Bay Craft Beer
 type: poi
+score: 6.6
 ---
 
 Kalk Bay Craft Beer is a small pub on the main road through Kalk Bay, the fishing village on the False Bay coast that has become one of Cape Town's most distinctive day-trip destinations. The tap list rotates through South African independent breweries — Cape Brewing Company, Devil's Peak, Triggerfish — and the selection is better than anything else along the Kalk Bay strip. The room is relaxed and frequented by a mix of locals and visitors.

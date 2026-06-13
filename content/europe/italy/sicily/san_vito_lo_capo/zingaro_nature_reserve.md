@@ -8,6 +8,7 @@ latitude: 38.0979
 longitude: 12.7832
 story: >
   The Zingaro was Sicily's first nature reserve, established in 1981 after local residents physically blocked a road construction project that would have destroyed the coastline. The protesters were unarmed, but they stood in front of the bulldozers and refused to move. The road was never built.
+score: 9.4
 ---
 
 The Zingaro is one of the finest coastal walking destinations in Sicily — a seven-kilometre stretch of undeveloped coast between San Vito Lo Capo and Scopello, protected since 1981. The main trail runs along the cliffs above a series of small coves with clear water, accessible by scrambling down side paths. The water in the coves is among the most beautiful in the Mediterranean: translucent green over white rock, royal blue in the depths.

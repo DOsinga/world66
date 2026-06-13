@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.0918
 longitude: 136.8523
+score: 7.4
 ---
 
 Japan's largest aquarium by tank volume occupies a sweeping wedge-shaped building on the central pier of Nagoya Port. The signature exhibit is the bottlenose dolphin and false killer whale pool — the largest dolphin tank in the world when it opened in 2001, with a five-deck stadium viewing arena and underwater windows that let you swim eye-to-eye (almost) with the largest cetaceans in captivity in Japan.

@@ -14,6 +14,7 @@ story: >
   the monumental taula and talayots but domestic buildings, water cisterns,
   and evidence of craft production — a picture of a real community, not just
   an elite ceremonial site.
+score: 8.1
 ---
 
 Torre d'en Galmés is the largest prehistoric site on Menorca, set on a hilltop between Alaior and Son Bou with panoramic views of the sea. The settlement includes three talayots (stone watchtowers), a taula precinct (a T-shaped megalith surrounded by carved stone benches — thought to be a sacred enclosure), hypogea (underground burial chambers), and the remains of many domestic buildings. The entire ensemble is spread over several acres of scrubby hillside.

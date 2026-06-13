@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: -39.5008
 longitude: 176.9189
+score: 7.1
 ---
 
 The National Aquarium of New Zealand sits on Marine Parade and is one of the better aquariums in the country, with a walk-through oceanarium tunnel that puts sharks, rays, and large fish swimming directly overhead. It is small enough to see thoroughly in two hours, and the displays are well designed for both adults and children.

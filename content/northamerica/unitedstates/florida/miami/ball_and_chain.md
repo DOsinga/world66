@@ -10,6 +10,7 @@ tags:
 - music
 title: Ball & Chain
 type: poi
+score: 7.7
 ---
 
 This 1935 Calle Ocho music venue has been through several lives — jazz club, biker bar, shuttered ruin — before reopening in 2014 as Little Havana's most atmospheric spot for live salsa and cocktails. The interior is dark and spacious, with a giant pineapple-shaped stage. Live bands play most nights, and the mojitos are strong. The back patio is the best seat in the house.

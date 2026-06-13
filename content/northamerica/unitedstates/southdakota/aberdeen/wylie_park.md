@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.9
 ---
 
 Aberdeen's flagship public park sprawls across 210 acres on the north edge of town, combining a small zoo, a fishing lake, picnic shelters, a campground, and Storybook Land. The lake has a swimming beach in summer and paddleboat rentals; the zoo's residents include bison, elk, and prairie animals you would otherwise have to drive long distances to see.

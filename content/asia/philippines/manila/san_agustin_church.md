@@ -13,6 +13,7 @@ story: >
   urban battle of the Pacific War, San Agustin's thick stone walls sheltered thousands of Filipino
   civilians. When the fighting ended, the church was standing and most of what surrounded it was ash
   and rubble. The rest of Intramuros had to be rebuilt; the church had been there since 1607.
+score: 9.4
 ---
 
 San Agustin Church in Intramuros is the oldest stone building in the Philippines, completed in its present form in 1607 and surviving intact through four centuries of earthquakes, fires, invasions, and finally the catastrophic Battle of Manila in 1945. Its thick baroque walls house the oldest Augustinian church in Asia.

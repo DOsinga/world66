@@ -9,6 +9,7 @@ tags:
 latitude: 31.4036
 longitude: -64.2064
 neighbourhood: Alberdi
+score: 7.0
 ---
 
 The home stadium of Club Atlético Belgrano, built tight against the houses of barrio Alberdi and famous for its atmosphere. Capacity is about 30,000 and the steep stands put the crowd very close to the pitch.

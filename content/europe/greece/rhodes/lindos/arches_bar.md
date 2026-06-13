@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 36.0912
 longitude: 28.0867
+score: 5.8
 ---
 
 One of the oldest bars in Lindos, Arches is set into a captain's house on the lane leading up to the Acropolis, its terrace framed by the stone arches that give it its name. The atmosphere is more relaxed than the louder bars on the main square, and it draws a slightly older crowd of repeat visitors who know it's there. The cocktails are properly made, the Greek beers cold, and the local raki is reasonably priced.

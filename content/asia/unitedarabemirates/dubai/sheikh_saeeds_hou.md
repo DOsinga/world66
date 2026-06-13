@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Sheikh Saeed's House
 type: poi
+score: 7.5
 ---
 
 The official residence of Sheikh Saeed Al Maktoum, who ruled Dubai from 1912 to 1958 and was the grandfather of the current ruler. The house dates from 1896 and sits at the mouth of Dubai Creek in the Al Shindagha heritage district. It's been restored and converted into a museum with a fine collection of historic photographs, coins, stamps, and documents tracing Dubai's transformation from fishing village to global hub.

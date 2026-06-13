@@ -10,6 +10,7 @@ story: >
   On 20 February 1943, a farmer named Dionisio Pulido watched a crack open in his cornfield near the village of San Juan Parangaricutiro. Within 24 hours there was a cone 50 metres high. Within a week it was 150 metres. The lava eventually buried two entire villages and reached the town of Uruapan 12 km away. Pulido tried to file a formal complaint with the local government about the destruction of his cornfield.
 sources:
   - https://en.wikipedia.org/wiki/Paricutin
+score: 9.0
 ---
 
 Paricutín is one of the youngest volcanoes on Earth and one of the rare geological events witnessed from birth by living people. It emerged from a corn farmer's field on 20 February 1943 and erupted continuously until 1952, burying two villages in lava and ash. What remains is a stark 424-metre cinder cone rising from a hardened lava field, with the tower and roof of the San Juan Parangaricutiro church still visible above the lava flow — a famously surreal image.

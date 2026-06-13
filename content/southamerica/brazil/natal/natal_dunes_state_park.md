@@ -11,6 +11,7 @@ story: >
   The park protects the largest urban forest of Atlantic coast dunes in the world — 1,172 hectares of dunes and native scrub vegetation (restinga) within city limits. The vegetation here is a specialized ecosystem adapted to shifting sand and salt spray, and it includes species found nowhere else.
 sources:
   - https://en.wikipedia.org/wiki/Natal_Dunes_State_Park
+score: 8.1
 ---
 
 The Parque das Dunas, to give it its simpler local name, is an extraordinary thing: a vast dune field with native forest right in the middle of a Brazilian state capital. The park covers over 1,100 hectares on the eastern edge of Natal, between the Via Costeira coastal avenue and the city's upmarket neighborhoods.

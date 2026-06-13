@@ -7,6 +7,7 @@ tags:
 snippet: "Small local museum covering Otley's history as a printing and market town"
 latitude: 53.9061
 longitude: -1.6895
+score: 7.2
 ---
 
 Otley Museum is housed in the Civic Centre and covers the history of the town and the surrounding Wharfedale area. The collection reflects Otley's two main historical identities: as a market town serving the farming communities of the valley, and as a printing and publishing centre of some significance during the eighteenth and nineteenth centuries.

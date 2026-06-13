@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 snippet: The site of the fort Washington built 1756-1758 during the French and Indian War — his first major construction project.
+score: 6.4
 ---
 
 Fort Loudoun was the largest fort in colonial Virginia when Washington built it between 1756 and 1758, intended to anchor the defense of the Shenandoah Valley against French-allied raids from the Ohio Country. Washington was 24 years old when he began the project, and he threw himself into the work with characteristic energy and frustration: the Virginia colonial government consistently underfunded the effort, and he found himself unable to conscript sufficient labor or obtain adequate materials. The fort was never attacked in any significant action, and its military utility remained untested.

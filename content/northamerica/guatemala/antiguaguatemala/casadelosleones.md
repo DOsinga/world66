@@ -8,6 +8,7 @@ tags:
 - sights
 title: Casa de los Leones
 type: poi
+score: 6.5
 ---
 
 Named for the sculptured stone lions flanking its main entrance, Casa de los Leones is one of the few colonial houses in Antigua that survived the devastating 1717 earthquakes. The rooms are arranged around interior patios in the traditional style of the city's grander homes, with heavy wooden shutters, thick walls, and characteristic corner windows.

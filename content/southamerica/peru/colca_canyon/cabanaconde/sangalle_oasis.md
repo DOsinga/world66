@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sangalle Oasis
 type: poi
+score: 7.6
 ---
 
 Sangalle, more commonly called The Oasis, is the small palm-shaded river valley at the bottom of the Colca canyon — a startling green clearing 1,200 metres below the rim, where a stream flows year-round and three rustic lodges have set up to receive hikers. The descent from Cabanaconde takes about two and a half hours on a steep zig-zag trail with no shade and no water on the way. The climb back is famously hard: three to four hours straight up.

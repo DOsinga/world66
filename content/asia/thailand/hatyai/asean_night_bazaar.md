@@ -8,6 +8,7 @@ tags:
 - market
 title: ASEAN Night Bazaar
 type: poi
+score: 5.3
 ---
 
 A large covered night market on the south side of Hat Yai, with hundreds of stalls selling clothes, knock-off football kit, electronics, knock-off luggage, cosmetics, and the rest. The crowd is heavily Malaysian — a constant reminder that Hat Yai's economy runs on cross-border weekend shopping trips.

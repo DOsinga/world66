@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.1955
 longitude: -3.7350
+score: 8.4
 ---
 
 The best way to see the historic quarter of Grand-Bassam is simply to walk its streets without a fixed plan. Boulevard Treich-Laplène is the main artery, but the side streets are where you find the most atmospheric buildings: the old post office with its iron balconies, the former tribunal still displaying its official facade, and a succession of merchant houses in varying states of occupied decay.

@@ -13,6 +13,7 @@ tags:
   - sight
 title: Suzdal Kremlin
 type: poi
+score: 9.0
 ---
 
 The Suzdal Kremlin is the oldest part of the town — its earthen ramparts were first raised in the 10th century — and it remains the natural starting point for any visit. Unlike the Kremlins of Moscow and Novgorod, Suzdal's was never rebuilt in stone: the defensive walls are still earthen banks, giving the compound an unusually open and pastoral feel.

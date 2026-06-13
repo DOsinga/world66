@@ -15,6 +15,7 @@ story: >
   alongside each object. The carved peacock window inside the courtyard is
   original 17th-century work and is considered one of the finest examples of
   Newari woodcarving anywhere in the Valley.
+score: 9.3
 ---
 
 Consistently rated the best museum in Nepal, the Patan Museum occupies a beautifully restored wing of the old royal palace on Durbar Square. The collection focuses on Hindu and Buddhist metalwork, sculpture, and ritual objects, but what sets it apart is the quality of the labelling — every piece is explained in its cultural context. Bronze deities, ceremonial vessels, architectural fragments, and painted manuscripts are displayed in rooms that retain the original carved windows and courtyard views. Even if museums aren't usually your priority, this one is worth the entry fee.

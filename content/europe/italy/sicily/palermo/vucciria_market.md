@@ -7,6 +7,7 @@ tags:
   - food
 latitude: 38.119
 longitude: 13.366
+score: 7.4
 ---
 
 La Vucciria is the oldest of Palermo's three great street markets, on the slope leading down from Via Roma to the harbour. Once the largest, it shrank dramatically in the late 20th century — the fish stalls moved away, the produce stalls thinned, and the surviving stalls now serve mostly bar food and grilled meat to evening crowds.

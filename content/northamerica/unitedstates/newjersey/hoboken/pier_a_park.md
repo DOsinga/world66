@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 40.7378
 longitude: -74.0269
+score: 8.2
 ---
 
 Pier A juts straight out into the Hudson at the southern end of the Hoboken waterfront — a green lawn the size of a city block jutting into open water, with the Manhattan skyline as a wraparound backdrop. Built on the foundations of a 19th-century shipping pier, it is the busiest spot on Hoboken's promenade on a sunny weekend.

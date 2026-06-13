@@ -14,6 +14,7 @@ story: >
   strandings a recurring hazard for centuries of Atlantic shipping.
 sources:
   - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
+score: 7.5
 ---
 
 The rusting hulk of the Cabo Santa Maria sits directly on the beach a few kilometres north of Sal Rei, driven ashore in 1968 and never removed. The ship has slowly corroded into the sand over decades, and it is now a striking landmark: a large, red-orange wreck lying at an angle with the surf breaking around its hull.

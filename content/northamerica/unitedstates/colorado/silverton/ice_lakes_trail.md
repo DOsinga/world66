@@ -8,6 +8,7 @@ tags:
 - nature
 title: Ice Lakes Trail
 type: poi
+score: 9.2
 ---
 
 Ice Lakes Trail fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

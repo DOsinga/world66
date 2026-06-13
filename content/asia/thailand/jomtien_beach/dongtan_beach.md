@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9018
 longitude: 100.8741
+score: 7.1
 ---
 
 Dongtan Beach is the curving northern tip of Jomtien, separated from the long main beach by a small forested headland. It is sheltered, shaded by tall casuarina trees, and somewhat smarter than the main beach: cleaner, with better restaurants on the front road and a more residential feel.

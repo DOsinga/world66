@@ -7,6 +7,7 @@ tags:
 snippet: Decades-old hole in the wall serving the best mie kocok in town
 latitude: -6.9264
 longitude: 107.6028
+score: 7.2
 ---
 
 Mie Kocok is a Bandung invention: thick yellow noodles in a clear beef broth, topped with sliced *kikil* (tendon), bean sprouts, lime, fried shallots, and emping crackers. Mang Dadeng on Jalan Banteng has been turning it out since the 1970s and remains the benchmark.

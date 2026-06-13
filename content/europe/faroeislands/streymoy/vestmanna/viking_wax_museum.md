@@ -8,6 +8,7 @@ latitude: 62.1560
 longitude: -7.1660
 sources:
   - https://en.wikipedia.org/wiki/Vestmanna
+score: 5.4
 ---
 
 Vestmanna's small Viking Wax Museum is a low-key, family-friendly attraction tucked into the town. The figures depict Norse life in the Faroe Islands — settlers, fishermen, and the characters of early island history — with the kind of earnest detail that local museums do well.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.4982
 longitude: 23.7608
+score: 6.9
 ---
 
 Tampere Central Square (Keskustori) is the city's main public space, a large open plaza at the western end of Hämeenkatu beside the city hall. The square hosts the outdoor market on most weekday mornings, political demonstrations, outdoor events, and an ice skating rink in winter.

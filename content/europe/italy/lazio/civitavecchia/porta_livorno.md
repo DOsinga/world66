@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.0948
 longitude: 11.7925
+score: 5.4
 ---
 
 The remains of the 17th-century Porta Livorno (the "Leghorn Gate"), once the main landward entrance to the walled city. The arch survived the bombing and now stands in an awkward modern setting between the old city walls and the port. The gate is named after Livorno, the Tuscan port up the coast, and was the start of the road north along the Tyrrhenian.

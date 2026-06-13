@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -15.825
 longitude: 168.168
+score: 6.7
 ---
 
 Baravet is a cluster of villages on the southwest coast of Pentecost, between Panngi and the Catholic mission of Melsisi. The name comes from the Ske language — bwara vet, "big stone" — and refers to a large basalt outcrop near the main settlement. It is one of the more accessible kastom-leaning communities on the island, with several villages running their own land-dive towers during the season as alternatives to the better-known Bunlap and Panngi events.

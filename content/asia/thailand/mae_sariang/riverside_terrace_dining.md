@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 18.1595
 longitude: 97.9332
+score: 5.9
 ---
 
 Several guesthouses along the west bank of the Yuam operate open-air terrace restaurants facing the water. The menus are similar — Thai standards, a few Western breakfasts, fruit shakes — and the food is competent rather than exceptional. What you are paying for is the setting: a shaded table over the river, with paddies on the far bank and kingfishers working the shallows.

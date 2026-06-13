@@ -11,6 +11,7 @@ snippet: Pre-Hispanic art collection assembled by Oaxaca's greatest painter
 story: "Rufino Tamayo, one of Mexico's most celebrated twentieth-century painters, spent decades collecting pre-Hispanic art not for its market value but for its aesthetic quality — a then-radical position that defied the prevailing view of ancient Mexican artefacts as ethnographic specimens rather than works of art. He donated the entire collection to the state of Oaxaca in 1974."
 sources:
   - https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,_Oaxaca
+score: 8.1
 ---
 
 The Museo Rufino Tamayo houses the collection of pre-Hispanic art assembled over several decades by the Oaxacan painter Rufino Tamayo and donated by him to his home city. Unlike the national anthropology museums in Mexico City, this collection was selected entirely on aesthetic criteria — Tamayo bought what he thought was beautiful and surprising — which makes it unusual and rewarding to spend time with.

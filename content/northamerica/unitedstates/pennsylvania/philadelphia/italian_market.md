@@ -7,6 +7,7 @@ tags:
 latitude: 39.9338
 longitude: -75.1583
 snippet: "America's oldest outdoor urban market — cheese, meat, produce, and the stretch of South 9th that Rocky ran through"
+score: 8.9
 ---
 
 The 9th Street Italian Market is the oldest continuously operating outdoor urban market in the United States, running along South 9th Street from Washington Avenue to Wharton for over a century. The vendors are predominantly family-run Italian-American businesses — cheese shops, butchers, pasta makers, produce stands — alongside Vietnamese, Mexican, and other immigrant-owned shops that reflect the changing composition of the surrounding South Philadelphia neighborhood. Di Bruno Bros. has been selling cheese here since 1939; D'Angelo Brothers butchers have been cutting meat for nearly as long.

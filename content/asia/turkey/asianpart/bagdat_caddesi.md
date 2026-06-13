@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.9746
 longitude: 29.0567
+score: 6.1
 ---
 
 Bağdat Caddesi (Baghdad Avenue) is the Asian side's premier shopping boulevard, a long tree-lined street stretching from Kadıköy south through the prosperous residential suburbs to the Bosphorus waterfront. The street is one of Istanbul's great see-and-be-seen strips — the kind of place where the Istanbul middle class comes to shop, drink coffee, and observe each other.

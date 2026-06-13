@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.8760
 longitude: 125.3180
+score: 6.8
 ---
 
 Heping (Peace) District is the central residential and commercial heart of Changchun, containing the highest concentration of Manchukuo-era buildings, the main shopping streets, and much of the city's hotel and restaurant infrastructure. Walking Heping District is effectively the same as walking central Changchun — the two overlap almost entirely.

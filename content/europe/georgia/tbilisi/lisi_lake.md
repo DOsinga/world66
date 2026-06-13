@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lisi Lake
 type: poi
+score: 5.4
 ---
 
 Lisi Lake is a reservoir northwest of the city centre in the Saburtalo district, transformed in recent years from an underused water body into a well-maintained recreational park. The lakeside has good walking and cycling paths, a sandy beach area, and facilities for kayaking and stand-up paddleboarding. It has become one of the most popular outdoor leisure destinations for Tbilisi residents.

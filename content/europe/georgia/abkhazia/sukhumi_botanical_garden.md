@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 43.0059
 longitude: 41.0216
+score: 6.9
 ---
 
 The Sukhumi Botanical Garden is one of the oldest botanical gardens in the Caucasus, founded in 1838 around the private collection of an army doctor stationed at the fortress. It runs for several blocks in the centre of the city and includes giant Lebanon cedars, Caucasian pines, magnolias, and a famous 250-year-old Caucasian linden tree that survived even the worst of the 1992–93 fighting.

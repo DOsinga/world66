@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -17.962
 longitude: 122.236
+score: 7.4
 ---
 
 The **Broome Historical Society Museum** on Saville Street is a compact local history museum that covers the town's remarkable past — the pearling industry, the attack on Broome by Japanese aircraft in 1942, the multicultural communities that settled here, and the Aboriginal history of the region.

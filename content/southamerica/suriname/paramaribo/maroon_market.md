@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 5.8220
 longitude: -55.1600
+score: 7.4
 ---
 
 The Maroon Market, sometimes called the herb market or winti market, is one of the most unusual shopping experiences in Paramaribo — a collection of stalls near the waterfront specialising in the traditional plants, roots, bark, and remedies of the Maroon communities from Suriname's interior. The sellers are mostly Maroon women, and their knowledge of the medicinal and spiritual properties of the plants they sell is extensive.

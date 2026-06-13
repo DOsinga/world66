@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 2.9521
 longitude: -78.1912
+score: 8.3
 ---
 
 The island's signature walk crosses from the main settlement on the east coast to Bahia Cocal, a sweep of grey-sand beach on the west. The trail takes a full day, climbing through dense rainforest that has been isolated from the mainland for thousands of years. Ferns, mosses, and strangler figs crowd the path; the birdlife is constant; poison dart frogs flash across the roots. At the end, the forest opens onto the beach and a clear view of Gorgonilla, the small island sitting just offshore.

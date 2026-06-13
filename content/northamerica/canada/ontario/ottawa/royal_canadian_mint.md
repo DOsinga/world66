@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.4314
 longitude: -75.6993
+score: 7.2
 ---
 
 The Ottawa branch of the Royal Canadian Mint produced all of Canada's circulation coins from 1908 until 1975, and now makes collector and ceremonial coins — including the official coins issued for the Olympics and royal occasions. The building itself is an impressive Château-style limestone structure on Sussex Drive, a few minutes' walk from the National Gallery.

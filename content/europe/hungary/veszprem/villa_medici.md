@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Villa Medici
 type: poi
+score: 5.7
 ---
 
 Villa Medici occupies a 19th-century villa in a garden just below the Castle District, with a substantial restaurant in the main building and a more relaxed terrace café in the grounds. The menu is broadly Hungarian-Mediterranean and the wine list — given that Balaton's vineyards are 20 minutes away — is much stronger than the cooking would suggest.

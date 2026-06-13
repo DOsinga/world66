@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - altstadt
+score: 6.0
 ---
 
 A small square just east of Residenzplatz, dominated by an 1842 bronze statue of Mozart by Ludwig Schwanthaler — the first major public memorial to the composer anywhere. Constanze, Mozart's widow, attended the unveiling.

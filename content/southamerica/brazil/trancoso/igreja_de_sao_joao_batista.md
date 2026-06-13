@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Igreja de Sao Joao Batista
 type: poi
+score: 8.1
 ---
 
 The Igreja de Sao Joao Batista is the small white church at the ocean end of the Quadrado. Its facade is simple, almost plain, but the position is perfect: grass behind you, palms ahead, and the Atlantic below the cliff.

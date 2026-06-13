@@ -6,6 +6,7 @@ longitude: 73.6852
 tags:
   - shopping
   - market
+score: 7.8
 ---
 
 The main bazaar of the old city, **Bada Bazaar** runs north from near the Jagdish Temple — a narrow lane lined with spice shops, sweet stalls, fabric merchants and silversmiths. Less curated than the tourist shops on Lal Ghat, this is where Udaipur itself buys saffron, cardamom, brass utensils and wedding finery.

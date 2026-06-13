@@ -14,6 +14,7 @@ story: >
   defensive structure.
 sources:
   - https://en.wikipedia.org/wiki/Eryx_(city)
+score: 7.6
 ---
 
 The ancient walls that protect Erice's western and northern flanks are among the oldest surviving fortifications in Sicily. Originally built by the Elymians — the indigenous pre-Greek people of western Sicily — they were reinforced by the Phoenicians and Carthaginians who held the city for centuries, and then rebuilt again by the Normans. Sections of all three phases survive.

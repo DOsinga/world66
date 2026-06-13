@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 29.8912
 longitude: -81.3161
+score: 7.2
 ---
 
 The best bar in St. Augustine, housed in a restored 1927 ice factory just south of the old city. The building keeps its industrial bones — high ceilings, exposed brick and old machinery — and the cocktail programme is serious: hand-cut ice (a nod to the building's history), quality spirits, and well-constructed drinks without the gimmickry. The food menu is good enough to make this a proper dinner spot too: shrimp and grits, pimento cheese, and fried oysters are all worth ordering.

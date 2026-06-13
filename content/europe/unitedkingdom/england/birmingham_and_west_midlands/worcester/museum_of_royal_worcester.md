@@ -8,6 +8,7 @@ latitude: 52.1873
 longitude: -2.2190
 story: >
   The recipe for making Worcester porcelain was a closely guarded secret in the 18th century. When the business was founded in 1751, the founder Dr John Wall licensed a formula from a Bristol chemist. The key ingredient turned out to be soapstone — which gave Worcester porcelain its distinctive feel and made it, unlike most contemporary ceramics, able to withstand boiling water without cracking.
+score: 7.8
 ---
 
 Royal Worcester has been producing fine porcelain since 1751, making it the oldest continuously operating porcelain manufacturer in Britain. The Museum of Royal Worcester, housed in the original factory buildings on Severn Street, holds the world's largest collection of the company's work — over 20,000 pieces spanning three and a half centuries of production.

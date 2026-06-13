@@ -5,7 +5,7 @@ done:
 latitude: 39.525002
 longitude: -119.815996
 phone: 775-329-4484
-score: 0.14
+score: 4.2
 tags:
 - bars_and_cafes
 - cafe

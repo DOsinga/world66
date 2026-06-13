@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - architecture
 - sight
+score: 6.2
 ---
 
 The T & G Building was built in 1933 as the Geelong branch of the Temperance and General Mutual Life Assurance Society — one of dozens of T & G buildings constructed across Australia and New Zealand between the wars in a distinctive Art Deco style. The Geelong example is a particularly clean specimen: stepped-back upper floors, cream tile facing, vertical fins emphasising the tower at the corner.

@@ -11,6 +11,7 @@ story: >
   On busy shopping days, so many Brazilian shoppers cross the Friendship Bridge carrying purchases back to Foz do Iguaçu that the bridge becomes almost impassable on foot. The Paraguayan government has periodically proposed tolls, duty-free quotas, and other measures to regulate the flow — none has stopped the daily procession of laden shoppers.
 sources:
   - https://en.wikipedia.org/wiki/Friendship_Bridge_(Brazil%E2%80%93Paraguay)
+score: 7.8
 ---
 
 The Puente de la Amistad — Friendship Bridge — is the sole crossing between Ciudad del Este and Foz do Iguaçu, Brazil, and it is one of the most heavily trafficked border crossings in South America. The arch bridge spans 552 metres over the Paraná River and carries the Brazilian BR-277 highway on one side and Paraguay's Ruta 7 on the other.

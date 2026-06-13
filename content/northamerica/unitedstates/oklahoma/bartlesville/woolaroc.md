@@ -16,6 +16,7 @@ tags:
 - nature
 title: Woolaroc
 type: poi
+score: 8.9
 ---
 
 Woolaroc is Frank Phillips's former ranch estate 14 miles southwest of Bartlesville, now one of Oklahoma's best attractions: part wildlife preserve, part world-class western art museum. The 3,700-acre property has bison, Texas longhorn cattle, elk, deer, and other animals roaming freely, and a trail system through the Osage Hills.

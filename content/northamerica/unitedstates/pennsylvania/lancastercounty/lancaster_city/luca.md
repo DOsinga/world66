@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.0405
 longitude: -76.3061
+score: 6.4
 ---
 
 LUCA is one of the best Italian restaurants in Lancaster, on North Queen Street a short walk from Penn Square. The kitchen leans wood-fired — pizzas from a stone oven, charred steaks, and a rotating roster of grilled fish and vegetables — with handmade pasta on a separate, daily-changing menu.

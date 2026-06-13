@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 64.8430
 longitude: -147.7200
+score: 7.0
 ---
 
 The Chena River runs right through the center of Fairbanks, and the paved path along its banks is the most pleasant walk in town. The river walk stretches from Golden Heart Plaza downstream through parkland and residential neighborhoods, with benches, interpretive signs, and views of the slow-moving water.

@@ -9,6 +9,7 @@ latitude: 24.5592
 longitude: -81.8067
 story: >
   The Sunset Celebration began in the 1960s when Key West's counterculture population — artists, musicians, and free spirits who had washed up at the end of the road — started gathering at the waterfront to mark the day's end. What started as an informal gathering has become one of the most reliably attended nightly rituals in American tourism, drawing 2,000 or more people on peak evenings, yet somehow retaining its original spirit.
+score: 7.6
 ---
 
 Every evening, about an hour before sunset, the crowd begins to gather at Mallory Square. By the time the sun touches the Gulf of Mexico, the dock is packed: acrobats, escape artists, a trained-cat act that has been performing for decades, cookie vendors, artists selling watercolors of the very scene in front of you. And then the sun goes down, and everyone applauds.

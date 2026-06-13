@@ -7,6 +7,7 @@ tags:
 latitude: 38.2972
 longitude: -111.2615
 story: "The park takes its name from a combination of two geographical features: 'reef' was a term used by pioneer settlers for any rock barrier that impeded travel, and 'capitol' came from the white domed sandstone formations that early visitors thought resembled the US Capitol building. The Waterpocket Fold — the park's defining geological feature — is a 100-mile-long wrinkle in the Earth's crust created when rock layers shifted 65 million years ago."
+score: 9.3
 ---
 
 Capitol Reef is one of Utah's least-visited national parks and, for those who make the trip, one of the most rewarding. The defining feature is the Waterpocket Fold — a monocline (essentially a step in the earth's crust) stretching 160km from north to south, with the eroded faces of the fold exposed as striped canyon walls, domes, and narrows. The rock formations are extraordinary: white Navajo sandstone domes, red-orange Wingate cliffs, and multi-coloured Chinle badlands.

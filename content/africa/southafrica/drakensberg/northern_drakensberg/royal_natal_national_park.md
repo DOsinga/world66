@@ -11,6 +11,7 @@ latitude: -28.675
 longitude: 28.958
 story: >
   Royal Natal is named for a visit by the British royal family in 1947 — a tour of South Africa that was one of the last great colonial spectacles, and which included a stay in the mountains. The Zulu name for the range, Ukhahlamba, means "Barrier of Spears," and refers to the sheer escarpment face that the park's trails lead toward. South African Parks has worked to use both names, though the signs still mostly say Royal Natal.
+score: 9.2
 ---
 
 Royal Natal National Park is the main entry point for hiking in the Northern Drakensberg and covers the area around the base of the Amphitheatre and the Tugela Gorge. It is an exceptionally beautiful park, with the cliff wall dominating the view from most trails and the Tugela River running through the valley below.

@@ -14,6 +14,7 @@ title: Loreto Shrine
 type: poi
 story: >
   The Loreto Treasury contains the Diamond Monstrance (1698–99), set with 6,222 diamonds. It was commissioned by Ludmila Eva Františka of Kolowrat and took craftsmen in Amsterdam over five years to complete. At the time it was the most valuable religious object in Bohemia.
+score: 8.2
 ---
 
 The Loreto Shrine is a baroque pilgrimage complex on Loretan Square in Hradčany, a short walk from Prague Castle. The centrepiece is the Santa Casa — a replica of the Virgin Mary's house in Nazareth, supposedly transported by angels to Loreto in Italy, and then copied all over Catholic Europe as a pilgrimage site. Prague's version, encased in a later baroque cloister and church, dates from 1626.

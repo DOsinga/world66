@@ -7,6 +7,7 @@ tags:
 latitude: 22.7242
 longitude: 75.9045
 snippet: "One of Indore's most revered temples, particularly auspicious for business and new ventures"
+score: 7.2
 ---
 
 The Khajrana Ganesh Temple is one of the most important religious sites in Indore, a large and busy Hindu temple dedicated to Ganesha in the Khajrana neighbourhood of eastern Indore. The main idol is believed to be a wish-fulfilling deity, and the temple is particularly popular with business owners and people embarking on new ventures — you will see Mercedes-Benz SUVs in the car park alongside autos and cycles.

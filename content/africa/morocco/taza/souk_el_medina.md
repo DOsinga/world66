@@ -7,6 +7,7 @@ tags:
 - sight
 title: Souk of the Medina
 type: poi
+score: 7.0
 ---
 
 The **souk** of Taza's medina is the functional commercial heart of the old city, clustered around the lanes leading to the Grande Mosquée. Unlike the tourist-oriented souks of Fez or Marrakech, Taza's market serves primarily local buyers and trades in the everyday goods of Moroccan life: spices, olives, pottery, leather goods, fabrics, and household items. A few stalls sell the traditional crafts — babouches, djellabas, brass, and woven goods — but the pressure to buy is low and the atmosphere is more like a real market than a heritage performance.

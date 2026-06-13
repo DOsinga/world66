@@ -8,6 +8,7 @@ tags:
 - square
 title: PALOVINCE PLACE
 type: poi
+score: 5.0
 ---
 
 MUST TRY THE MOUTHWATERING HOUSE SPECIALTY...

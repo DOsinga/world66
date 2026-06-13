@@ -8,6 +8,7 @@ tags:
   - museum
 latitude: 5.8900
 longitude: -55.0900
+score: 7.9
 ---
 
 Fort Nieuw Amsterdam stands at the confluence of the Suriname and Commewijne rivers, about 20 km east of Paramaribo by boat. Built in the 18th century to defend the colony against sea-borne attack and slave rebellions, it is one of the best-preserved Dutch colonial forts in the Caribbean region. The star-shaped fortifications are largely intact, and the site has been turned into an open-air museum with historical displays, a few restored buildings, and explanatory panels.

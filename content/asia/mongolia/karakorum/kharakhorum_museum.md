@@ -6,6 +6,7 @@ tags:
 - museum
 title: Kharakhorum Museum
 type: poi
+score: 8.5
 ---
 The Kharakhorum Museum is a modern building that does a good job of giving substance to what is otherwise an invisible city. Karakorum's ruins lie mostly underground, and without the museum's artefacts and interpretive displays it can be hard to grasp the scale and sophistication of the 13th-century capital. Exhibits include pottery, coins, trade goods, tools, and fragments of architectural decoration recovered from ongoing excavations — evidence of a cosmopolitan city that once hosted traders, diplomats, and craftsmen from across Eurasia.
 

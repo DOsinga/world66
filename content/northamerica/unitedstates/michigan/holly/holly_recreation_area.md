@@ -7,6 +7,7 @@ tags:
 - sight
 title: Holly Recreation Area
 type: poi
+score: 6.5
 ---
 
 The Holly Recreation Area, a few miles east of town and astride I-75, is the larger and quieter cousin of Seven Lakes. It covers 8,000 acres of rolling moraine country with a dozen small lakes scattered through the woods, two designated swimming beaches, and over 30 miles of hiking and mountain bike trails. Wildlife is good: deer, foxes, plenty of birds.

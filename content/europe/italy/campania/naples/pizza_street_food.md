@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 40.8511
 longitude: 14.2545
+score: 7.2
 ---
 
 Neapolitan pizza is a protected category — the Associazione Verace Pizza Napoletana certifies pizzerias that meet the strict rules on dough, ingredients, and wood-burning ovens. The result, when done right, is something unlike what passes for pizza most elsewhere: a thin, soft, slightly charred disc with a puffy cornicione edge, eaten immediately, in the restaurant, with your hands if you like.

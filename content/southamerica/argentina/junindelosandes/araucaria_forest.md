@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -39.8500
 longitude: -71.2000
+score: 8.0
 ---
 
 The araucaria forests of the Junín area are one of the most distinctive and otherworldly landscapes in South America. The trees — known in English as monkey puzzle trees — grow at elevations between 1,000 and 1,800 metres, their stiff, spiny branches radiating in perfect geometrical tiers from a straight trunk. Ancient specimens reach 40–50 metres in height with trunks over a metre in diameter. Walking among them feels like stepping into another era.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 11.2531
 longitude: -85.8710
+score: 5.9
 ---
 
 Big Wave Dave's is one of the more established restaurants on the waterfront, known for reliable seafood at reasonable prices and a pleasant open terrace facing the bay. The grilled lobster and garlic shrimp are the standout dishes; the portions are generous and the preparation is straightforward — fresh fish cooked without overcomplication.

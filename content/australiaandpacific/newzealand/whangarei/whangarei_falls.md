@@ -9,6 +9,7 @@ tags:
 latitude: -35.7077
 longitude: 174.3367
 story: The falls drop over a sheer face of columnar basalt — the same kind of hexagonal jointing you see at Giant's Causeway in Ireland — formed when ancient lava flows cooled and contracted. A short loop track lets you walk behind the falls in places when the river is low.
+score: 7.3
 ---
 
 Whangarei Falls is a 26-metre drop on the Hatea River, set in a small reserve about ten minutes' drive north of the town centre. A short loop walk leads to viewing platforms at the top and a pool at the base, with native bush all around. It is often described as the most photogenic waterfall in New Zealand — partly because of the basalt columns that frame the drop.

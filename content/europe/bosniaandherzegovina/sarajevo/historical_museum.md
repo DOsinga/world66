@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   The museum almost didn't survive the siege — the building was damaged and many objects had to be moved to safer storage. After the war, the institution was underfunded and barely functional. Its current exhibition was developed partly as a response to this: a museum about the siege, housed in a building that survived it.
+score: 8.0
 ---
 
 The Historical Museum of Bosnia and Herzegovina contains two things worth seeing: the permanent exhibition on the Siege of Sarajevo, and the building itself — a piece of 1960s Yugoslav modernist architecture that has been only partially repaired since wartime damage and retains a defiantly unrestored rawness.

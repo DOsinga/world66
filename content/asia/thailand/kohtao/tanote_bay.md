@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.0978
 longitude: 99.8637
+score: 7.4
 ---
 
 Tanote Bay is on the east side of Koh Tao, facing the open Gulf. It is one of the quieter spots on the island — a pleasant bay with reasonable snorkelling directly from the beach, a handful of bungalow operations, and a noticeably more relaxed atmosphere than the west-coast tourist strip. The rocky headlands at either end of the bay are good for rock jumping into the water below.

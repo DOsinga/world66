@@ -10,6 +10,7 @@ tags:
 - plantage
 title: Scheepvaartmuseum (Maritime Museum)
 type: poi
+score: 8.3
 ---
 
 Housed in the former VOC warehouse east of Central Station, the Maritime Museum makes the case that Amsterdam's wealth came entirely from the sea. Full-size replica ships sit in the dock outside, including a faithful reconstruction of the VOC flagship Amsterdam. The collection of maps, paintings and navigational instruments is excellent.

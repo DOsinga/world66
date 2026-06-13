@@ -10,6 +10,7 @@ latitude: 26.3990
 longitude: -76.9920
 sources:
   - https://en.wikipedia.org/wiki/Pelican_Cays_Land_and_Sea_Park
+score: 8.5
 ---
 
 Pelican Cays Land and Sea Park is a protected marine area covering a cluster of small cays and the surrounding reef south of Man-O-War Cay. The underwater terrain here — coral heads, sea fans, and sandy channels — is among the most intact in the northern Bahamas, partly because fishing and anchoring are restricted within the park boundaries.

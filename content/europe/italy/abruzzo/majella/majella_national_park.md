@@ -11,6 +11,7 @@ tags:
 - nature
 title: Majella National Park
 type: poi
+score: 9.4
 ---
 
 Majella National Park protects the main mountain mass and its surrounding valleys, forests, and villages. It is one of the best places in central Italy for walkers who want a more rugged landscape than the better-known Tuscan and Umbrian hills.

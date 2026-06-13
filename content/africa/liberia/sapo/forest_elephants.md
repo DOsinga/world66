@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 5.4500
 longitude: -8.7500
+score: 7.1
 ---
 
 Sapo contains one of the most important remaining populations of African forest elephant (Loxodonta cyclotis) in Liberia and one of the few significant populations in West Africa as a whole. The species is smaller and rounder-eared than the savanna elephant, with straighter tusks, and it is critically endangered across its range.

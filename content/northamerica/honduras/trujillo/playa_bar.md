@@ -7,6 +7,7 @@ snippet: "The row of palm-shaded restaurants along the main beach"
 tags:
 - eating_out
 - restaurant
+score: 5.2
 ---
 
 The strip of *champas* — palm-thatched open-fronted shacks — directly below the central plaza is where most of Trujillo eats lunch. There are around a dozen of them in a row, all serving similar menus: grilled snapper or kingfish, fried fish with *tajadas*, ceviche, conch soup, shrimp in garlic, *baleadas* for breakfast. None of them are bookable; turn up and pick whichever has space.

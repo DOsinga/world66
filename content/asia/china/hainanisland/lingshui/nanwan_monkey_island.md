@@ -12,6 +12,7 @@ story: >
   The cable car crossing to the peninsula — at 2,138 metres, the longest over-water
   cable car in China — was built because the strait between the peninsula and
   the mainland is just narrow enough to swim, and the macaques kept escaping.
+score: 7.3
 ---
 
 Nanwan Monkey Island is a peninsula nature reserve in southern Lingshui County, home to approximately 2,000 macaques and reached by China's longest over-water cable car — a 2,138-metre crossing above the strait that separates the peninsula from the mainland. The reserve was established in 1965 and is the only nature reserve in the world specifically dedicated to protecting endangered macaques on an island. The monkeys live in semi-wild conditions with supplementary feeding; the reserve does active work on population management and macaque rehabilitation.

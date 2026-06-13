@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 48.9585
 longitude: -57.8948
+score: 6.6
 ---
 
 The Humber River, which empties into the Bay of Islands at Corner Brook, is one of the finest Atlantic salmon rivers in Newfoundland. The run begins in June and continues through September, and the stretch of river near the city is accessible without needing a backcountry expedition. Licensed guides operate out of Corner Brook and along the river toward Marble Mountain; hiring one is the practical approach for visiting anglers who do not know the pools.

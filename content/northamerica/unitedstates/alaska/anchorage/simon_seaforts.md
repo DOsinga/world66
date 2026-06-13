@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Long-running seafood and steakhouse with the best view of Cook Inlet in the city
+score: 6.6
 ---
 
 Where Anchorage locals take out-of-town guests for a serious dinner. The dining room sits on the bluff above Cook Inlet with floor-to-ceiling windows; on a clear evening you watch the sun set over the inlet with Denali in the distance. The menu is steak, chops, and seafood, with prime rib as the house signature. The bar makes a proper Sazerac.

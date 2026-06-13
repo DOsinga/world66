@@ -13,6 +13,7 @@ story: >
   in Santa Clara, Fidel Castro and thousands of Cubans lined the streets. The
   mausoleum was opened the same year, completing a journey from guerrilla
   execution to state monument in thirty years.
+score: 7.8
 ---
 
 The Complejo Escultórico Ernesto Che Guevara is an outdoor monument, a museum, and a mausoleum all in one. The approach is dominated by a massive bronze statue of Guevara, nine metres tall, positioned with his arm in a sling — as he appeared during the battle of Santa Clara. Beneath the statue, the mausoleum holds the remains of Guevara and 29 other fighters who died with him in Bolivia.

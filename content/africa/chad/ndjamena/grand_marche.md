@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 12.1160
 longitude: 15.0450
+score: 7.9
 ---
 
 The Grand Marché is N'Djamena's main market and one of the most vivid in Central Africa. It occupies several city blocks in the centre of town, organised loosely by trade — textiles here, leather goods there, spices and grains in one section, motorcycle parts and hardware in another. Live animals are sold in the outer areas. The whole enterprise is loud, crowded, and difficult to navigate by design; vendors have little interest in making it easy for you to move on.

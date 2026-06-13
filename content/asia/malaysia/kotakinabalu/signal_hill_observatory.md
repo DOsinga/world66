@@ -6,6 +6,7 @@ longitude: 116.0805
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A short but steep walk up the ridge behind the city center brings you to Signal Hill Observatory Platform, a wooden viewing deck that offers the best free panorama of Kota Kinabalu. On a clear morning you can see the islands of Tunku Abdul Rahman Marine Park floating in the South China Sea, and on very clear days the outline of Brunei's coast on the horizon.

@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Brinchang Saturday Night Market
 type: poi
+score: 7.2
 ---
 
 Every Saturday evening, the main street of Brinchang fills with hawker stalls selling local food. It is one of the more accessible night markets in the Cameron Highlands and worth timing your visit around.

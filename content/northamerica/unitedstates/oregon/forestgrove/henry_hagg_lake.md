@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.5
 ---
 
 A 1,150-acre reservoir in the hills southwest of Forest Grove, created in 1975 by damming Scoggins Creek for irrigation and flood control. It is now the largest recreation lake in this part of Oregon, with a 10.5-mile loop road, swimming beaches, a marina, and well-stocked fishing -- bass, trout, perch, and steelhead.

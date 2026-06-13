@@ -8,6 +8,7 @@ latitude: 8.0777
 longitude: 77.5524
 story: >
   Non-Hindu visitors are not permitted inside the temple, but the exterior and the setting on the cape itself are accessible. According to legend, the goddess Kumari Devi performed austerities on this very spot, waiting for her marriage to Shiva that never happened — she remains a virgin goddess, and her temple sits at the edge of the land where the three seas meet. The diamond nose ring worn by the deity is said to be visible from the sea.
+score: 7.8
 ---
 
 The Kumari Amman Temple, dedicated to the goddess Kumari Devi (the virgin goddess), occupies the very tip of the Indian peninsula where the Bay of Bengal, the Arabian Sea, and the Indian Ocean converge. It is one of the 108 shakti peethas — sacred sites dedicated to manifestations of the goddess — and draws pilgrims from across India alongside the tourists who come for the geography.

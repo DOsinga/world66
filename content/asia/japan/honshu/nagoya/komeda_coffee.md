@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 35.1583
 longitude: 136.9180
+score: 6.7
 ---
 
 Komeda Coffee is the Nagoya kissaten that grew into a national chain with 900-plus branches across Japan — a Showa-era coffee-shop format with wooden booths, leatherette banquettes, glass-shaded lamps, newspapers in racks, and the city's beloved "morning service" (a slice of thick toast, a boiled egg and a complimentary side of red bean paste with any drink before 11am). Open from 7am.

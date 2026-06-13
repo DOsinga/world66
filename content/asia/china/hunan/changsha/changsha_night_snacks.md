@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.2000
 longitude: 112.9800
+score: 7.8
 ---
 
 Changsha has a late-night eating culture of unusual intensity. From ten in the evening until two or three in the morning, the streets around Pozi Street, Jiefang West Road, and the university areas fill with stalls and small restaurants selling crayfish (in season, June to September), grilled skewers, spicy cold noodles, and various fried and fermented preparations. The city's entertainment culture and its young population have produced a snacking scene that operates at full pitch long after other provincial capitals have gone to sleep.

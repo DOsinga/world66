@@ -7,6 +7,7 @@ tags:
   - waterfront
 latitude: -31.9606
 longitude: 115.8569
+score: 6.4
 ---
 
 Elizabeth Quay is Perth's revamped waterfront precinct, opened in 2016 on a stretch of the Swan River foreshore just south of the CBD. The redevelopment created a inlet, a pedestrian bridge, public art installations, and a mix of restaurants, bars, and public open space that has genuinely given Perth residents a reason to spend time at the water's edge. Before the redevelopment, this section of foreshore was cut off from the city by a freeway and underused. Now it is one of the more pleasant places in Perth to have a drink and watch the sun set over the river.

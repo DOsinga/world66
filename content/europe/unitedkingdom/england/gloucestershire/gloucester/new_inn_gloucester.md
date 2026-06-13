@@ -10,6 +10,7 @@ longitude: -2.2450
 snippet: "15th-century galleried coaching inn in the city centre, one of the best-preserved medieval inns in England"
 sources:
   - https://en.wikipedia.org/wiki/The_New_Inn,_Gloucester
+score: 8.6
 ---
 
 The New Inn on Northgate Street is misleadingly named — it dates from around 1455, making it one of the oldest and best-preserved galleried coaching inns in England. The building is arranged around a central courtyard with wooden galleries running along the upper floors, a design that allowed travellers arriving by coach to reach their rooms directly from the courtyard. The layout is still intact and essentially unchanged.

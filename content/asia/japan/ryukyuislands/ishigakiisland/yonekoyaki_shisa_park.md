@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 24.4303
 longitude: 124.1653
+score: 5.9
 ---
 
 Shisa are the lion-dog guardian figures you see perched on rooftops and gates across Okinawa — half lion, half dog, traditionally placed in pairs (one open-mouthed to let in good fortune, one closed-mouthed to keep it in). The Yonekoyaki craft center has turned its roadside grounds into an open-air gallery of these figures, with several hundred examples ranging from thumb-sized to human-height, in styles from traditional to wildly experimental.

@@ -9,6 +9,7 @@ tags:
   - tacos
 sources:
   - https://www.yelp.com/biz/el-itacate-sayulita
+score: 6.4
 ---
 
 Ask any long-term resident where to eat in Sayulita and El Itacate comes up within the first few answers. It's a straightforward Mexican restaurant on Calle José Mariscal that has built its reputation on steak tacos — carne asada done properly, served on small handmade tortillas with the appropriate sides and salsas. There's nothing complicated about it, which is the point.

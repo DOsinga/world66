@@ -12,6 +12,7 @@ title: Lazy Bear
 neighbourhood: Mission District
 type: poi
 story: "Chef David Barzelay started Lazy Bear in 2009 as an illegal supper club in his apartment after losing his law job. His wife pointed out that 'Lazy Bear' is an anagram of his surname."
+score: 8.0
 ---
 
 Lazy Bear is a two-Michelin-star restaurant in the Mission that started as an underground supper club in chef David Barzelay's apartment. The concept -- a tasting menu served communal-style, with courses presented by the chefs themselves -- survives in spirit, though the experience has grown more polished since the brick-and-mortar opening in 2014.

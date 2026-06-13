@@ -16,6 +16,7 @@ story: >
   the king who introduced the crop to Prussia.
 sources:
   - https://en.wikipedia.org/wiki/Sanssouci
+score: 9.6
 ---
 
 Sanssouci is one of the most beautiful royal palaces in Europe — not because it is grand, but because it is the opposite of grand. Frederick the Great designed it in 1745 as a personal retreat from the pressures of court, and it shows. The single-storey Rococo villa crowns a series of terraced vineyards on a sandstone ridge, its honey-coloured facade stretching barely a hundred metres. Inside, the rooms are intimate: a round library of cedarwood and gold, a concert hall where Frederick played the flute, a Voltaire Chamber decorated with carved animals that the French philosopher never actually slept in despite the name.

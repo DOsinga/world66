@@ -8,6 +8,7 @@ latitude: -21.7747
 longitude: -43.3683
 sources:
   - https://en.wikipedia.org/wiki/Federal_University_of_Juiz_de_Fora
+score: 6.8
 ---
 
 The Federal University of Juiz de Fora — UFJF in Portuguese — is one of the main public research universities in the state of Minas Gerais. Its main campus, built in the mid-20th century on the southern outskirts of the city centre, has a campus museum, a library open to visitors, and regular public cultural events including art exhibitions and free concerts.

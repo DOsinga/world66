@@ -8,6 +8,7 @@ tags:
 latitude: 47.58689
 longitude: 1.34495
 snippet: "Small Loire harbour with traditional flat-bottomed boats"
+score: 6.4
 ---
 
 La Creusille is the small working harbour on the south side of the Loire, a short walk east of the bridge. It moors a fleet of traditional Loire boats — flat-bottomed, square-sailed gabares and toues, the kind that carried wine and stone up and down this river for centuries.

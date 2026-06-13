@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6815
 longitude: 101.7432
+score: 5.8
 ---
 
 Kunlun jade — nephrite from the mountains south of Xinjiang and north of Tibet — has been prized in China for thousands of years, pre-dating the jade from other sources that later became more fashionable. The Kunlun Jade Museum in Xining's northern district documents the geological origins of the stone, the history of its extraction and trade along the Silk Road, and the techniques of traditional Chinese jade carving.

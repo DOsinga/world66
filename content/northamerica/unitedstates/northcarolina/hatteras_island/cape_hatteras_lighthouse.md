@@ -12,6 +12,7 @@ story: >
   had eroded to within 120 feet of the base. In 1999 the National Park Service
   moved the entire 4,400-ton structure on a steel track, rolling it 2,900 feet
   inland over 23 days. It was the largest lighthouse relocation in American history.
+score: 9.1
 ---
 
 At 198 feet, the Cape Hatteras Lighthouse is the tallest brick lighthouse in the United States. Its distinctive black-and-white spiral stripe makes it one of the most recognisable structures on the American coast, and the beam is visible up to 20 miles out to sea — warning ships away from Diamond Shoals, the treacherous shallow where the Gulf Stream meets the cold Labrador Current.

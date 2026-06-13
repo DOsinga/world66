@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 48.7455
 longitude: 9.3130
 story: "Esslingen is one of the few German cities where vineyards grow right up to the edge of the historic centre, terracing the steep slopes directly below the castle walls. The local Weingärtner cooperative manages most of the urban vineyards and makes both still wines and Sekt from Riesling, Trollinger, and Schwarzriesling grapes. The Trollinger grape, nearly unknown outside Württemberg, produces a light red wine that locals drink in enormous quantities — Esslingen's wine festivals in September see the town's population effectively double for several weekends."
+score: 7.4
 ---
 
 The vineyards of Esslingen are an integral part of the town's landscape and economy. They terraced the south-facing slopes of the Neckar valley long before the town's half-timbered houses were built, and they remain in production today, climbing up the hillside from the river's edge to the walls of the ruined castle above.

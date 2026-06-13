@@ -6,6 +6,7 @@ longitude: 54.1642
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Ain Razat is a natural spring in the foothills of the Qara mountains north of Salalah, set in a landscape that is striking in its lushness — particularly during and after the monsoon season when the surrounding hills are green and the spring runs strongly. The springs emerge from the limestone bedrock and feed a small pool shaded by fig trees and palms.

@@ -7,6 +7,7 @@ tags:
 - beach
 title: Rio Alto Beach
 type: poi
+score: 6.4
 ---
 
 Rio Alto Beach, also known as Estela Beach, is the most popular naturist beach in northern Portugal. It sits on a wild, wind-swept stretch of Atlantic coast just north of Póvoa de Varzim, near the Estela Golf Course and south of the Aguçadoura surfing beach.

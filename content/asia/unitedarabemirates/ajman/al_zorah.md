@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "Several thousand greater flamingos winter in the Al Zorah lagoons, sometimes filling an entire mudflat pink at low tide. They share the space with herons, ospreys and the occasional crab plover — a rare wader that the UAE coast happens to be a regular stop for."
+score: 7.9
 ---
 
 Al Zorah is a stretch of mangrove forest, tidal lagoons and beaches at the northern edge of Ajman, protected as a nature reserve and bird sanctuary. The wetlands draw migratory birds — flamingos, herons, ospreys — and you can paddle through the mangroves by kayak or stand-up paddleboard with a guided trip from the visitor centre.

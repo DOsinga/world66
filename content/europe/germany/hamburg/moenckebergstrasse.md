@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - shopping
 - sight
+score: 5.3
 ---
 
 The Mönckebergstrasse is Hamburg's main commercial high street, a broad avenue cut through the medieval city in 1908–11 to link the Rathaus to the central railway station. The big chain shops — Galeria Kaufhof, Saturn, H&M, Apple, Zara — line both sides of its 800-metre length, interrupted only by the brick-Gothic St. Petri church about halfway along.

@@ -6,6 +6,7 @@ tags:
 - books
 title: Mystic River
 type: poi
+score: 6.0
 ---
 
 Lehane's 2001 novel is set in a fictionalized version of East Buckingham, modeled on the Irish working-class neighborhoods of Dorchester and Southie where Lehane grew up. Three boys are playing in the street when one of them is pulled into a car by men pretending to be police; the rest of the book is the long shadow of that single afternoon. Twenty-five years later one of the men is a hard-luck ex-con, one is a tightly-wound store owner whose daughter has just been found dead, and one is the homicide detective working the case.

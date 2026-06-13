@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 44.3975
 longitude: 0.5905
+score: 6.8
 ---
 
 The Lot loops around the south side of Sainte-Livrade and provides the town with its best walks. A footpath runs along the right bank, past willows and small fishing platforms, with views back across the water to the church tower and the red-tiled roofs of the old town. In summer the grassy banks fill with families picnicking and swimming where the current is gentle.

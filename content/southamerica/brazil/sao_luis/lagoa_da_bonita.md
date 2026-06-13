@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.51
 longitude: -44.273
+score: 6.5
 ---
 
 Lago do Juçara is a small lake in the middle of the island, surrounded by preserved Atlantic Forest remnants. It's used as a water reservoir for the city and the surrounding area is protected. The forest trails here are good for birdwatching — herons, kingfishers, and various forest birds are common — and the shade is welcome on hot days.

@@ -11,6 +11,7 @@ story: >
   Koninginnegracht. He was largely unknown outside the Netherlands until 1951,
   when a feature in Time magazine introduced his impossible worlds to an American
   audience and turned him into an international phenomenon almost overnight.
+score: 8.3
 ---
 
 A museum devoted to the graphic work of M.C. Escher, housed in the former Winter Palace of Queen Emma — a townhouse on the Lange Voorhout, one of The Hague's most elegant boulevards. The combination of royal interior and Escher's paradoxical prints works remarkably well: the ornate 18th-century rooms provide an incongruous backdrop for drawings of impossible staircases, interlocking lizards, and hands drawing themselves.

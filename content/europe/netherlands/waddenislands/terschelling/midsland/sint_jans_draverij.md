@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.3828
 longitude: 5.2858
+score: 8.0
 ---
 
 Every summer, usually around the feast of St John in late June, Midsland hosts one of the oldest traditional events on the Wadden Islands — a harness-race on the grass track behind the village. The Sint Jan's Draverij brings together horses and sulkies from across Friesland, and the surrounding fairground atmosphere pulls in most of the island.

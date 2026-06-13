@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -15.8411
 longitude: -70.0292
 snippet: Puno's main square, anchored by the mestizo-baroque cathedral
+score: 6.5
 ---
 
 The historic centre of Puno, four blocks uphill from the lake. The square is rectangular rather than perfectly square, paved in light grey stone, lined with palms and benches, and dominated by the great pale-stone facade of the [Catedral de San Carlos Borromeo](/southamerica/peru/puno/catedral_san_carlos) on its eastern side.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.06167
 longitude: 10.35778
+score: 6.2
 ---
 
 A stone observation tower on the Harly ridge south of Salzgitter-Bad, built in 1914 as one of hundreds of similar monuments erected across Germany in honour of Chancellor Otto von Bismarck. This one stands in a quiet stretch of mixed woodland and has survived in reasonable condition.

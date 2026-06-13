@@ -9,6 +9,7 @@ longitude: 5.8669
 snippet: "The oldest casino in the world, opened in 1763 in the heart of the original spa town"
 story: >
   The Casino de Spa claims to be the oldest casino in the world, licensed in 1763. It predates the famous casinos of Baden-Baden and Monaco by several decades. In its 18th-century heyday it was the social hub for the European aristocracy who came to take the waters — Victor Hugo, Charles II of England, and Peter the Great all visited Spa, if not the casino itself.
+score: 6.8
 ---
 
 The Casino de Spa sits in the heart of the town and claims to be the oldest casino in the world, with its origins in 1763. The current building is a handsome neoclassical structure, and while the gambling rooms are modest compared to Monte Carlo, the history is remarkable.

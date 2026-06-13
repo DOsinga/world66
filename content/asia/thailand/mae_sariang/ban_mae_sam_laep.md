@@ -7,6 +7,7 @@ tags:
   - village
 latitude: 18.1320
 longitude: 97.6500
+score: 7.3
 ---
 
 A Karen and Shan border village on the Thai bank of the Salawin River, Ban Mae Sam Laep is the launch point for boat trips into Salawin National Park and across to the Burmese side. The drive from Mae Sariang takes about 90 minutes on a winding mountain road — pretty in itself.

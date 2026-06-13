@@ -11,6 +11,7 @@ tags:
 title: Montréal Biodome
 type: poi
 url: www.espacepourlavie.ca/biodome
+score: 7.8
 ---
 
 Housed in the former Olympic velodrome, the Biodome recreates four distinct ecosystems of the Americas under one roof: a tropical rainforest, a Laurentian maple forest, the Gulf of St. Lawrence marine ecosystem, and a sub-Antarctic zone complete with penguins. You can walk through all four in about two hours. The tropical section is particularly good — warm, lush and full of free-flying birds. Located next to the Olympic Stadium in the east end of the city; easily reached by Metro (Viau station). Part of the Space for Life complex that also includes the Botanical Garden and Insectarium.

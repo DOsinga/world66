@@ -6,6 +6,7 @@ longitude: 5.7106
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Lemmer's old harbour is the heart of the town. The locks at the IJsselmeer end (the Lemstersluis) lift and lower a steady traffic of yachts, classic flat-bottomed *boeiers* and *skûtsjes*, and the occasional commercial barge. In summer the quays are lined three boats deep, the masts almost touching, and the cafes along the Vissersburen and Schulpen run tables out onto the cobbles.

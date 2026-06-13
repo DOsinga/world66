@@ -10,6 +10,7 @@ tags:
 - museum
 title: Museo Africano
 type: poi
+score: 6.6
 ---
 
 Missionary museum on the east bank of the Adige, near the youth hostel. Founded by the Comboni Missionaries and housing ethnographic collections, religious art, and artefacts from sub-Saharan Africa accumulated by Italian missionaries from the 19th century onward. A genuine collection in a quiet location, worth the short walk from the centre.

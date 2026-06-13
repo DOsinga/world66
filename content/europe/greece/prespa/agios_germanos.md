@@ -12,6 +12,7 @@ story: >
   between Eastern and Western Christianity. The village was built around this
   church, and the surrounding houses maintain a traditional stone architecture
   that has changed little since the Ottoman era.
+score: 7.2
 ---
 
 Agios Germanos is the most accessible of the Prespa villages and the practical base for most visitors. It has a small hotel, a few tavernas, and the Society for the Protection of Prespa's visitor centre, which provides maps and information about the region.

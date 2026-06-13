@@ -10,6 +10,7 @@ tags:
 snippet: "English-language American-style university with a handsome campus open to visitors"
 sources:
   - https://en.wikipedia.org/wiki/Al_Akhawayn_University
+score: 5.7
 ---
 
 Al Akhawayn University was established in 1993 with funding from King Hassan II of Morocco and King Fahd of Saudi Arabia — the name means "the two brothers" in Arabic. It's a private, English-language university modelled on American liberal arts institutions, which makes it unusual in Morocco and gives Ifrane a distinctly international character compared to other Moroccan cities of its size.

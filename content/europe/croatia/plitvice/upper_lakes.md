@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.903
 longitude: 15.601
+score: 8.8
 ---
 
 The Upper Lakes form a different kind of landscape from the more famous Lower Lakes. Where the lower section is tight and dramatic, the upper section is broader, more forested, and quieter. Twelve lakes extend northward in a chain, flanked by dense beech and fir forest. The lakes here tend to be shallower and more varied in colour — some almost opaque with mineral deposits, others clear enough to see the travertine formations on the bottom.

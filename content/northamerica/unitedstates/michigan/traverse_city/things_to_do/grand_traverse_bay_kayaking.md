@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: 44.7760
 longitude: -85.5900
+score: 8.5
 ---
 
 Grand Traverse Bay is the defining feature of Traverse City, and getting out on the water is one of the best things to do here. The bay divides into East and West arms, and the water — particularly in the East Arm — is famously clear and shallow, turning brilliant shades of blue-green in summer sun that visitors often find surprising for a freshwater lake.

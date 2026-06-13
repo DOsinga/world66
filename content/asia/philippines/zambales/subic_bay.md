@@ -8,6 +8,7 @@ latitude: 14.8159
 longitude: 120.2742
 story: >
   At its peak in the early 1990s, Subic Bay was the largest overseas US naval installation in the world, home to some 55,000 US military personnel and dependents. The 1991 eruption of Mount Pinatubo, which dumped volcanic ash across the base, accelerated the US departure. The Philippine Senate voted to end the lease the same year, and American forces left in 1992. The transformation from military base to freeport took under a decade.
+score: 6.5
 ---
 
 The Subic Bay Freeport Zone occupies the former US Naval Station Subic Bay — the largest American overseas naval base in the world until its closure in 1992. What was left behind was a large, well-maintained complex of roads, runways, warehouses, and facilities that the Philippine government converted into a duty-free economic zone. The result is an unusual destination: duty-free shops, adventure parks, and upmarket restaurants set inside a former military installation, with wide straight roads that feel unlike anywhere else in the Philippines.

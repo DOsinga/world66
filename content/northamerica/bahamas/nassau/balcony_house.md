@@ -10,6 +10,7 @@ latitude: 25.0770
 longitude: -77.3434
 story: >
   The house was once owned by sea captain John Brown in the late 1700s; the interior staircase is thought to have come from one of his sailing ships, repurposed when the ship was broken up. It still creaks like a deck under foot.
+score: 6.9
 ---
 
 The oldest surviving wooden residential building in Nassau, a two-storey timber-frame house on Trinity Place built in the late 18th century. It is preserved as a small museum showing how prosperous Nassau households lived two hundred years ago — period furniture, a kitchen with the original brick hearth, and a slave-quarters wing at the back.

@@ -14,6 +14,7 @@ story: >
   flavour quite different from the smell. The Chairman himself ate it as a
   student in Changsha. Whether this endorsement helps or hinders is largely
   a matter of personality.
+score: 7.0
 ---
 
 Huo Gong Dian (Fire Palace) is a Changsha institution that has been feeding the city in some form since the Qing dynasty. The current complex near Wuyi Square occupies a large courtyard of restored traditional buildings and serves as an anchor of Changsha street food culture: dozens of stalls selling the city's most celebrated snacks, each prepared to order by vendors whose families have often run the same stall for generations.

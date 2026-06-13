@@ -8,6 +8,7 @@ tags:
 - sight
 title: Fiera di San Luca
 type: poi
+score: 8.3
 ---
 
 The Fiera di San Luca, held over two weeks in mid-October around the feast of Saint Luke (18 October), is one of the oldest fairs in Tuscany — first documented in 1473 but already an established tradition by then. It began as a livestock market that brought farmers and herders down from the surrounding hills and grew into a full agricultural festival. The fair takes over Piazza Buondelmonti and the surrounding streets with stalls, food, music, and a small funfair.

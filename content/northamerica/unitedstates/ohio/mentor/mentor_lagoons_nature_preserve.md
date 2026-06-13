@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.7235
 longitude: -81.3217
+score: 7.4
 ---
 
 Mentor Lagoons is a 450-acre nature preserve strung along the Lake Erie shoreline, encompassing marshes, meadows, a beach, and two lagoons connected to the lake. It is managed by the City of Mentor and offers 8 km of walking and cycling trails through varied habitats. The lagoons attract a steady flow of waterfowl, herons, and shorebirds, and the area is well worth visiting in spring and autumn when migrating birds are moving through.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 9.1
 ---
 
 Churdhar — also called Churi Chandni Dhar — is the highest peak in the outer Himalayas at 3,647 metres, dominating the skyline north of Nahan. The summit is topped by a small temple to Shirgul, a local Sirmauri deity considered an incarnation of Shiva. The mountain is a Hindu pilgrimage site and a serious trek.

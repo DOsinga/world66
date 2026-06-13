@@ -12,6 +12,7 @@ story: >
   offcuts, and the tools of a chryselephantine sculptor's trade. The cup is
   in the Archaeological Museum, and the inscription ends a debate that had
   run for centuries about where exactly the statue was made.
+score: 8.4
 ---
 
 A large rectangular building to the west of the Temple of Zeus, identified as the workshop where Pheidias and his assistants created the great chryselephantine statue of Zeus around 435 BC. The building has the same dimensions and orientation as the Parthenon in Athens — deliberately, since the statue's proportions were designed to fit it. In the Byzantine period the workshop was converted into a church, which is partly why its walls survived to a useful height.

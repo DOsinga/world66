@@ -13,6 +13,7 @@ tags:
 - museum
 title: Risiera di San Sabba
 type: poi
+score: 8.4
 ---
 
 The only Nazi concentration camp on Italian soil, built in 1898 as a rice-husking mill and converted by the SS in 1943 into a transit and extermination camp. Today it is a national monument and museum — sobering, important, and unmissable for anyone with an interest in the Second World War in Italy.

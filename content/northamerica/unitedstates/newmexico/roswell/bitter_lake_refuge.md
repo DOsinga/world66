@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 33.4583
 longitude: -104.4006
+score: 8.3
 ---
 
 Established in 1937 to protect migratory waterfowl, Bitter Lake covers 24,000 acres of marsh, salt flats and saline lakes along the Pecos River. The refuge sits on the Central Flyway, and tens of thousands of sandhill cranes, snow geese and ducks pass through between October and February.

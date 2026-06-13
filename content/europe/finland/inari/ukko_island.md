@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 Ukko — known in the Inari Sámi language as Äijih, "the old man" — is a small steep-sided rocky island near the centre of Lake Inari, about twenty kilometres north of the village. It was for centuries the most important sacred site of the Inari Sámi: pre-Christian offerings of metal, antler, and bone were left in the cleft at the summit to seek the favour of the thunder god of the same name.

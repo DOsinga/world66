@@ -13,6 +13,7 @@ story: >
   irrelevant to the fighting, and the mountains kept it cold enough that the only viable activity
   was skiing. International investment arrived in the 2000s and turned what had been a Soviet ski
   camp into one of the Caucasus's most visited winter destinations.
+score: 8.7
 ---
 
 Gudauri's ski area covers around 57 km of marked runs across a south-facing bowl that catches good snow from December through April, sometimes into May at higher elevations. The base sits at 2,200 metres; the top lift station reaches 3,279 metres, with long vertical descents that rival many Alpine resorts. A gondola and a network of chairlifts connect the different sectors.

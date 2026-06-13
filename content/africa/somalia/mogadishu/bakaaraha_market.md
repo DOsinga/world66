@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 2.04800
 longitude: 45.34900
+score: 7.9
 ---
 
 Bakaaraha Market is one of the largest open-air markets in East Africa, and for much of the civil war period it was also the largest unregulated arms market in the world — a grim distinction. Weapons, ammunition, and military equipment moved through its stalls alongside food, cloth, electronics, and livestock. The arms trade has been suppressed as federal government authority has extended, but the market's scale has not diminished.

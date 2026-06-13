@@ -9,6 +9,7 @@ latitude: 34.4355
 longitude: 35.8435
 story: >
   The covered souks of Tripoli are still organised by trade in the same way they have been for centuries — the jewellers' souk, the goldsmiths' souk, the copper workers' souk, the soap souk. This trade-specific organisation was a feature of all medieval Islamic cities and has largely disappeared elsewhere, but in Tripoli's old city the same trades are still concentrated in the same alleys where they have been for 700 years.
+score: 9.4
 ---
 
 The old city souks of Tripoli are the most authentically functioning medieval market in Lebanon and arguably one of the best-preserved in the Arab world. Unlike the restored souks of Beirut, which are largely a commercial recreation, Tripoli's covered markets still operate as working neighbourhood commerce: tailors, spice merchants, soap makers, goldsmiths, coppersmiths, and vegetable sellers in their traditional locations.

@@ -7,6 +7,7 @@ tags:
 latitude: -37.7882
 longitude: 144.9659
 snippet: "Victorian-era cemetery containing several prime ministers and Walter Lindrum"
+score: 8.3
 ---
 
 The Melbourne General Cemetery, on the northern edge of Carlton, opened in 1853 and quickly became the city's main burial ground. Its 43 hectares contain around 300,000 graves, including those of three Australian prime ministers (Robert Menzies, Sir John Gorton, and James Scullin), several Victorian premiers, the explorers Burke and Wills, and Walter Lindrum the world billiards champion.

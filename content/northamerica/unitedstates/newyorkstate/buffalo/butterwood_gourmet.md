@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Butterwood Gourmet Desserts
 type: poi
+score: 5.4
 ---
 
 Butterwood Gourmet Desserts is located in the charming village of Williamsville, out Main Street from the City of Buffalo.

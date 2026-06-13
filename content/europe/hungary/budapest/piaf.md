@@ -10,6 +10,7 @@ tags:
 - andrassy_avenue
 title: Piaf
 type: poi
+score: 6.1
 ---
 
 Named after the French chanteuse, Piaf is a late-night bar with red velvet furnishings, a jazzy soundtrack often provided by a resident pianist, and a vaguely bohemian clientele. It stays open until the early hours and is a good option when everywhere else has closed. On Budapest's Nagymezo utca, sometimes called the city's Broadway.

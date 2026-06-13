@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.50
 longitude: 72.65
+score: 5.8
 ---
 
 The Chichawatni Forest covers around 9,000 acres on the outskirts of the town, making it the second-largest planted forest in Pakistan after Changa Manga. The forest was established under British colonial rule as part of a programme to create green corridors along the canal-irrigated lands of Punjab. Rows of shisham, eucalyptus, and poplar run through the flat terrain.

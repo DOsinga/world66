@@ -7,6 +7,7 @@ tags:
 latitude: 34.0078
 longitude: -118.4988
 snippet: "The solar-powered amusement park on the pier, with a Ferris wheel visible from miles away"
+score: 6.7
 ---
 
 Pacific Park is a small amusement park at the end of Santa Monica Pier, anchored by a large Ferris wheel powered entirely by solar panels. The park has about 12 rides — roller coasters, a swing ride, midway games — and the Ferris wheel provides genuine views over the bay when it reaches height. The scale is family-focused rather than thrill-seeking, and the prices are accordingly modest.

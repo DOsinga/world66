@@ -12,6 +12,7 @@ tags:
 title: Dancing Sasquatch
 type: poi
 url: www.banffsasquatch.com
+score: 4.7
 ---
 
 Banff's main nightclub with a dance floor and DJ nights. Open until 2:30am, making it one of the later options in town.

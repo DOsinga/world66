@@ -9,6 +9,7 @@ tags:
 title: Worcester Common
 type: poi
 snippet: The original 17th-century common at the heart of downtown
+score: 5.7
 ---
 
 The Worcester Common is the old training ground at the centre of the city, set aside as common land in the 17th century and still surrounded today by the city hall, the cathedral, and a clutch of office towers. In summer there are concerts and an outdoor ice rink in winter. The Common is a useful orientation point — most of downtown sits within a few blocks of it.

@@ -9,6 +9,7 @@ tags:
 latitude: 23.0236
 longitude: 72.5811
 snippet: "The original 15th-century citadel of Ahmad Shah"
+score: 8.1
 ---
 
 Bhadra Fort is the original citadel of the city, built by Ahmad Shah I in 1411 when he founded Ahmedabad. The fort wall enclosed a royal precinct of palaces, mosques, gardens, and barracks; the principal palace **Aazam Palace** and the **Bhadrakali Temple** still stand within the walls. The main gate carries some of the finest medieval Islamic stone carving in the city.

@@ -9,6 +9,7 @@ title: Rustaveli Avenue
 type: poi
 story: >
   Rustaveli Avenue was called Golovin Street under the tsars, named for the Russian viceroy Evgeny Golovin. The current name honours Shota Rustaveli, the 12th-century Georgian poet whose epic *The Knight in the Panther's Skin* is the national poem — a work Georgians quote the way others quote Shakespeare, and can often recite from memory.
+score: 7.8
 ---
 
 Rustaveli Avenue is Tbilisi's central artery and its showcase boulevard, running about 1.5 kilometres from Freedom Square to Rose Revolution Square. It was laid out in the 19th century as part of the Russian imperial city plan and lined with neo-classical and eclectic buildings that house some of the city's most important institutions.

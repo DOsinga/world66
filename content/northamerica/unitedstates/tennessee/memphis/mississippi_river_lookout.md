@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - downtown
   - sight
+score: 8.4
 ---
 
 The Mississippi at Memphis is a genuinely impressive thing to see. The river here is around a kilometre wide, running fast and brown through a sweeping bend, with the flat Arkansas bluffs stretching away to the west. Tom Lee Park, the long riverfront green space that runs along Riverside Drive, gives you the best prolonged exposure to it — walking the length of the park with the river on one side and the Memphis skyline on the other takes about thirty minutes and costs nothing.

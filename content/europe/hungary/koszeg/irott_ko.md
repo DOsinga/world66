@@ -10,6 +10,7 @@ latitude: 47.3528
 longitude: 16.4339
 sources:
   - https://en.wikipedia.org/wiki/Geschriebenstein
+score: 8.1
 ---
 
 The Írott-kő — called Geschriebenstein on the Austrian side of the border — is a 884-metre summit in the Kőszeg Mountains, the highest point in Transdanubia (the part of Hungary west of the Danube). The name means "written stone" in both languages, after inscriptions carved into the rocks near the summit. The mountain sits directly on the Hungarian-Austrian border, and a stone marker at the top straddles both countries.

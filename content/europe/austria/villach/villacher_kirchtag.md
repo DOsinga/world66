@@ -16,6 +16,7 @@ story: >
   arriving from Venice, Ljubljana, and Vienna kept the market commercially
   significant long after its religious dimension diminished. Today it is
   Austria's largest traditional folk festival by attendance.
+score: 8.3
 ---
 
 The Villacher Kirchtag is Austria's largest traditional folk festival, held each year in late July and early August. For one week the entire old town transforms into an open-air celebration of Carinthian folk culture: traditional costumes (Trachten), brass bands, folk dancing, and market stalls selling regional food and crafts fill the streets from the Hauptplatz outward.

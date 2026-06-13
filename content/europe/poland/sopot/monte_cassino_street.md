@@ -11,6 +11,7 @@ story: >
   The street is named after the Battle of Monte Cassino in 1944, in which Polish forces played a decisive role in breaking the German defensive line in Italy. The renaming after the war was a point of civic pride; Sopot's main promenade carries the memory of one of Poland's most celebrated military contributions.
 sources:
   - https://en.wikipedia.org/wiki/Bohaterów_Monte_Cassino_Street
+score: 7.6
 ---
 
 Bohaterów Monte Cassino Street is the spine of Sopot's social life — a pedestrian promenade running from the train station down toward the sea, lined with restaurants, bars, ice cream parlours, and shops. On summer evenings it becomes one long open-air party: the terraces fill, live music drifts out of doorways, and the whole strip has the particular energy of a seaside town that knows it has a limited season and intends to make the most of it.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Gevangentoren, the "Prison Tower," is a 15th-century brick tower built into the sea dike next to the muZEEum. Originally part of Vlissingen's seaward fortifications, it later served as a holding cell for sailors and condemned pirates — hence the name.

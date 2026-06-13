@@ -17,6 +17,7 @@ story: >
   it commemorates.
 sources:
   - https://en.wikipedia.org/wiki/1956_Pozna%C5%84_protests
+score: 6.5
 ---
 
 The June 1956 Monument stands on Adam Mickiewicz Square, a pair of tall steel crosses that have become one of the most recognisable symbols of Polish resistance to communist rule. The monument was erected in 1981 as part of the agreement between the Solidarity trade union and the Polish government, and its placement in a central public square was itself a significant political concession. The inscriptions record the names of those who died and the demands the workers had made — wages, freedom, bread.

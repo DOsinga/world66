@@ -7,6 +7,7 @@ tags:
 - sight
 title: Foru Plaza
 type: poi
+score: 5.9
 ---
 
 The town's main square — broad, arcaded on three sides, and unusually wide for the Basque country because it was originally laid out in 1366 as a livestock market. The Casa Consistorial (town hall) closes the north side; the rest is a mix of 18th and 19th-century facades.

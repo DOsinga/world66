@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 47.3224
 longitude: 5.0334
 snippet: A Sherman tank that participated in the liberation of Dijon in September 1944
+score: 4.8
 ---
 
 At the intersection near the Place Wilson stands a Sherman tank named Duguay-Trouin, a veteran of the French liberation campaign. The tank belonged to the 1st French Army and entered Dijon on 11 September 1944 as German forces withdrew. It is preserved as a monument to the liberation and to the soldiers of the Second Armoured Division who helped drive the Nazis from Burgundy.

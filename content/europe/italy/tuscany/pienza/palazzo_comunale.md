@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.0766
 longitude: 11.6791
+score: 6.9
 ---
 
 The town hall on the north side of the cathedral piazza, completed in 1463 — the smallest and least flamboyant of the four buildings on the square. Rossellino kept it deliberately modest so as not to compete with the cathedral or the papal palace.

@@ -11,6 +11,7 @@ story: >
   The Church of St. Lawrence in Vantaa is the oldest building in the Helsinki metropolitan area. Built in the late 15th century from local fieldstone, it served as the parish church for the entire region that eventually became Helsinki — which means this modest church by the Vantaa river preceded the capital city itself by more than 200 years.
 sources:
   - https://en.wikipedia.org/wiki/Church_of_St._Lawrence,_Vantaa
+score: 8.8
 ---
 
 The Church of St. Lawrence stands in a quiet churchyard by the Vantaa river in the Helsingin pitäjän kirkonkylä district, and it is the most historically significant building in the entire metropolitan area. Built of rough grey granite around 1494, the church has the low, sturdy proportions of medieval Finnish religious architecture — small windows, thick walls, and a feeling of endurance that centuries of Finnish winters have only reinforced.

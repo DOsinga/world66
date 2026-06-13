@@ -7,6 +7,7 @@ snippet: "Eighteenth-century church with a polygonal plan and interior frescoes"
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 San Giorgio is the centrepiece of the village, built in the 18th century on an unusual polygonal plan that distinguishes it from the typical Ligurian parish church. The projecting facade catches the morning sun, and the interior preserves period decorations and frescoes painted by regional artists.

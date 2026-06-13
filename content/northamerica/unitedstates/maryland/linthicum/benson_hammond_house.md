@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
   - historic_house
+score: 6.8
 ---
 
 The Benson–Hammond House is a brick-and-frame farmhouse on Poplar Avenue, parts of which date to the late 18th century. The house was the centre of a tobacco and dairy farm before BWI Airport was carved out of the surrounding fields in the 1940s, and it now sits as an unlikely survivor under the approach pattern.

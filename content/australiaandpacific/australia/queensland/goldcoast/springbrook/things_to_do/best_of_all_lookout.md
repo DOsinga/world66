@@ -1,6 +1,7 @@
 ---
 title: "Best of All Lookout"
 type: poi
+score: 7.9
 ---
 
 The name is not false modesty. Best of All Lookout, at the southern end of the Springbrook plateau, delivers a panoramic sweep across the Gold Coast hinterland that can extend on clear days all the way to the coast, the high-rises of Surfers Paradise just visible on the horizon, and south into New South Wales to the distinctive pyramid of Mount Warning (Wollumbin). The contrast between the cool, forested plateau behind you and the sprawl of the Gold Coast shimmering in the heat far below is quietly dramatic.

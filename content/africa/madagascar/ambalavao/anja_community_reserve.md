@@ -11,6 +11,7 @@ longitude: 46.8428
 snippet: Community-run reserve famous for close views of ring-tailed lemurs
 story: >
   Anja was created by local residents in 2001 to protect a small but important patch of forest and earn income from guiding. It is now often cited as one of Madagascar's strongest examples of community-managed conservation.
+score: 8.9
 ---
 
 Anja Community Reserve sits about 13 km south of Ambalavao, where forest, boulders, and granite cliffs create a pocket of habitat beside the RN7. It is famous for ring-tailed lemurs, which are often seen at close range without the long search required in larger parks.

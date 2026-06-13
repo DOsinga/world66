@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Winterset City Park
 type: poi
+score: 6.2
 ---
 
 A generously sized city park on the south edge of Winterset, with picnic shelters, a playground, a small swimming pool, and two of the county's most-photographed sights: the Cutler-Donahoe covered bridge (relocated here in 1970) and Clark Tower, a 25-foot limestone monument on a wooded ridge with views over the Middle River valley.

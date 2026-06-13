@@ -7,6 +7,7 @@ tags:
   - sight
 title: Dakkhina Stupa
 type: poi
+score: 7.1
 ---
 
 A weathered brick mound south of Ruwanwelisaya that was for centuries assumed to be the tomb of King Elara, the South Indian Chola ruler who controlled Anuradhapura for several decades before being defeated by Dutugemunu in single combat. Twentieth-century excavations and the discovery of a 3rd-century inscription identified it instead as the Dakkhina Stupa of the Dakini Vihara.

@@ -7,6 +7,7 @@ tags:
 - market
 title: Barkhor Market
 type: poi
+score: 6.6
 ---
 
 The Barkhor circuit doubles as Lhasa's main bazaar. Stalls and small shops line the entire kora, selling religious goods to pilgrims (juniper bundles, prayer wheels, ghau charm boxes, butter lamps), turquoise and coral jewellery, knives, prayer flags by the metre, and a great deal of low-quality souvenir tat.

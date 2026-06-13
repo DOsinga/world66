@@ -15,6 +15,7 @@ tags:
 - museum
 title: South African Rugby Museum
 type: poi
+score: 6.2
 ---
 
 The South African Rugby Museum at Newlands is one of the largest rugby museums in the world, housed near the former Newlands Stadium (the historic home of Western Province rugby, since replaced as the main venue by the DHL Newlands). The collection spans the full history of South African rugby, from the first Springbok tour to the four World Cup-winning campaigns.

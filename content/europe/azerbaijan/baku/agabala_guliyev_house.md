@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Agabala Guliyev's House is one of the most ornate of Baku's surviving oil-boom mansions, built around 1900 for the Azerbaijani oil-billionaire Agabala Guliyev to designs by the Polish architect Eugeniusz Skibinski. The facade combines Italian-Renaissance arches, art-nouveau ironwork, and elaborate carved-stone caryatids.

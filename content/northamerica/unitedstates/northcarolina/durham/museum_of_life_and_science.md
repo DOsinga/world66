@@ -4,6 +4,7 @@ type: poi
 latitude: 36.0282
 longitude: -78.8975
 tags: [things_to_do, sight, museum]
+score: 7.4
 ---
 
 The Museum of Life and Science is the city's family science museum — a hundred-acre site in the north of Durham that combines a small zoo of native North Carolina wildlife (black bears, lemurs, red wolves), a butterfly conservatory, a large outdoor science playground, and a steam train that loops around the grounds.

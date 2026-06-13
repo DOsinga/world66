@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 18.0963
 longitude: -65.4238
+score: 6.4
 ---
 
 The ruin of an 1896 Spanish lighthouse stands on a low headland near Sun Bay, hollowed out and roofless. The original light was extinguished decades ago and the structure has been left to the weather, but the bones are still there — the curved staircase, the keeper's quarters, the iron fittings on the lantern.

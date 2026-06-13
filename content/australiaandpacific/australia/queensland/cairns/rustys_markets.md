@@ -13,6 +13,7 @@ story: >
   of mango and papaya that never make it onto supermarket shelves. Many of the vendors
   are third-generation market traders whose families have been growing tropical produce
   on the Atherton Tablelands since the early 20th century.
+score: 7.7
 ---
 
 Rusty's Markets runs Friday through Sunday in the Cairns CBD, and it is one of the most enjoyable markets in tropical Australia. The fruit and vegetable section is exceptional — a survey of tropical produce from the Atherton Tablelands and the surrounding region, much of it unfamiliar even to Australians from the south.

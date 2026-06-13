@@ -7,6 +7,7 @@ tags:
 latitude: 19.7555
 longitude: -70.5154
 address: "Calle Dr. Rosen, El Batey, Sosua"
+score: 8.2
 ---
 
 One of the most unexpected museums in the Caribbean, the Sosua Jewish Museum documents the story of the Jewish refugees who came to this stretch of Dominican coastline in the early 1940s, when most of the world's doors were closed to them. In 1938, at the Evian Conference, the Dominican Republic under President Trujillo — himself a brutal dictator seeking to improve his international image — offered to accept up to 100,000 Jewish refugees. About 800 eventually arrived, and around 600 settled in Sosua.

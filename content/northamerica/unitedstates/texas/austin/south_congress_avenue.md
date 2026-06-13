@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2530
 longitude: -97.7504
+score: 8.0
 ---
 
 South Congress — SoCo to locals — is the neighbourhood that best embodies the Austin ideal: independent shops, vintage stores, food trucks, old motels converted to boutique hotels, and the kind of relaxed, slightly weird energy that the "Keep Austin Weird" slogan was originally meant to protect. Congress Avenue runs south from the bridge over Lady Bird Lake into a strip of businesses that rewards a slow wander.

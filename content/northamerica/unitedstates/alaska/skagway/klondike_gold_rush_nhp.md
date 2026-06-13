@@ -13,6 +13,7 @@ story: >
   ranger-led walking tours are genuinely good — rangers in period dress walk you through
   the blocks and tell you which buildings were saloons, which were outfitters, and which
   were something less printable.
+score: 8.5
 ---
 
 The national park protects the core of Skagway's gold rush downtown — six blocks of restored wooden storefronts, boardwalks, and false-fronted buildings that look much as they did in 1898. The park's visitor centre on Broadway screens a film on the gold rush and has exhibits on the routes stampeders used: the Chilkoot and the White Pass.

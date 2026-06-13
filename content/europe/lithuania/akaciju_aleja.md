@@ -10,6 +10,7 @@ tags:
 - festivals
 title: Akaciju aleja
 type: poi
+score: 5.8
 ---
 
 Akaciju aleja (Acacia Alley) is a Lithuanian traditional song contest held in Kulautuva, a small resort village on the Nemunas river near Kaunas. The competition celebrates Lithuanian folk song traditions and draws participants and audiences from across the country.

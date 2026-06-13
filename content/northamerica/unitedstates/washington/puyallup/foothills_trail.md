@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.1860
 longitude: -122.2875
+score: 6.8
 ---
 
 A 15-mile paved rail trail that runs from south Puyallup through Orting toward the Carbon River valley, following a former railway corridor through the Puyallup River valley with views of Mount Rainier on clear days. The trail is flat and well-maintained, suitable for cycling, running, and walking. The stretch between Puyallup and Orting passes through agricultural land — daffodil fields, strawberry farms, and nurseries — with the mountain rising behind them when the weather cooperates.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 Magdalena's compact downtown is a national historic district with a dozen turn-of-the-century buildings still standing in recognisable form. The **Bank of Magdalena** (1908) at 1st and Main, the **Hall Hotel** (1916) at 2nd and Spruce, and the **Ilfeld Warehouse** facing the rail line are the headliners; smaller adobe houses on the side streets fill in the picture.

@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 21.5531
 longitude: 39.1642
+score: 4.3
 ---
 
 The city's most polished boulevard, four lanes wide and lined with international fashion brands, jewellers, gold shops, cafes, and restaurants. Properly called Prince Mohammed bin Abdulaziz Street, but Tahliah ("the desalination") is what everyone uses.

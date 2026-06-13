@@ -14,6 +14,7 @@ story: >
   of Gardena, Fassa, and Badia. Signs in the valley are in three languages: Italian, German,
   and Ladin. Local woodcarvers have been working in the valley since the 17th century, and
   the craft is still taught in the local art school.
+score: 8.1
 ---
 
 Val Gardena (Gröden in German, Gherdëina in Ladin) is the most cosmopolitan of the Dolomite valleys — a long, sun-facing valley running east-west between Bolzano and the Sella group, its three main towns (Ortisei, Santa Cristina, Selva) stacked one above the other. In winter it is one of the central hubs of the Dolomiti Superski circuit, with direct connection to the Sella Ronda ski carousel and access to hundreds of kilometres of linked pistes. The Men's World Cup Downhill on the Saslong course above Selva is one of the fastest and most prestigious races of the season.

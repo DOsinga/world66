@@ -9,6 +9,7 @@ tags:
 latitude: 15.1340
 longitude: 120.5900
 story: "The mansion was designed and built by Don Angel Pantaleon de Miranda, the founder of Angeles City, in 1824. The name Bale Matua means 'Old House' in Kapampangan, and the building has outlasted everything around it — wars, eruptions, and a century of rapid urbanization — to remain the oldest surviving residence in the city."
+score: 6.7
 ---
 
 Bale Matua is a Spanish colonial mansion dating from 1824, built by the city's founder Don Angel Pantaleon de Miranda. It represents the grandeur of the principalia class in early nineteenth-century Pampanga: wide verandas, thick stone foundations, and the generous proportions of a household that expected to receive guests and conduct business in equal measure. The architecture blends Spanish colonial design with local building traditions and materials.

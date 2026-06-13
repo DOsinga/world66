@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.6415
 longitude: 12.0785
+score: 5.8
 ---
 
 Roskilde once had a remarkable number of churches for a town of its size — at its medieval peak it had over a dozen, reflecting its importance as a religious centre and royal capital. Most were demolished after the Reformation, but the ruins of Saint Laurentius Church survive near the town centre, preserved as a scheduled monument.

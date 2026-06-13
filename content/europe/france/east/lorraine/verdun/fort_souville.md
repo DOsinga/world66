@@ -9,6 +9,7 @@ tags:
 - fortress
 story: "Fort de Souville marks the closest point of the German advance — the Bavarian Alpine Corps got within 100 metres of its walls on 12 July 1916 before the assault collapsed. The fort itself was never captured. It was here that General Nivelle issued his famous order 'Ils ne passeront pas' — they shall not pass."
 snippet: "Ruined fort marking the furthest point of the German advance"
+score: 7.7
 ---
 
 Fort de Souville sits on a wooded ridge between Verdun and Fort de Vaux. It is the least-restored of the major forts — barely more than a ruin, with collapsed concrete galleries and overgrown emplacements — and for that reason gives the most authentic sense of what the battlefield looked like in the years after the war.

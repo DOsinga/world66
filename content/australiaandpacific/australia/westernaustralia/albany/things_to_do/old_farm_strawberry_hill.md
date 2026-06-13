@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Old_Farm,_Strawberry_Hill
+score: 7.4
 ---
 
 The oldest farm in Western Australia, Strawberry Hill was established in 1827 as the government farm for the new settlement at King George Sound. The stone homestead dates from the 1830s and has been restored with period furniture. The property sits on a gentle rise east of town, and the gardens — some of the oldest in the state — still produce fruit from trees planted by the original settlers. The National Trust maintains the site; guided tours run on weekends.

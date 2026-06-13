@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Da Mario
 type: poi
+score: 4.0
 ---
 
 Italian restaurant on the Corniche near Tahrir Square. Good for pizza — you can combine ingredients to build your own.

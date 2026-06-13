@@ -11,6 +11,7 @@ story: >
   The Tipton-Haynes property was the site of the "Battle of the Lost State of Franklin" in 1788, when supporters of the short-lived State of Franklin (which had tried to break away from North Carolina) made their last stand against Colonel John Tipton's militia. Franklin never achieved statehood, but the episode is one of the stranger footnotes in early American history — a secession movement within a state that hadn't yet been absorbed into the new United States.
 sources:
   - https://en.wikipedia.org/wiki/Tipton-Haynes_State_Historic_Site
+score: 7.0
 ---
 
 The Tipton-Haynes State Historic Site preserves a collection of historic buildings on the south edge of Johnson City, including the original 1783 log home of Colonel John Tipton and the later antebellum house of Landon Carter Haynes, a Confederate senator. The site spans nearly two centuries of Tennessee history, from the earliest settlement of the Appalachian frontier through the Civil War.

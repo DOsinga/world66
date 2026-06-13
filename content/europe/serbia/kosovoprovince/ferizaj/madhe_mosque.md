@@ -13,6 +13,7 @@ story: >
   The whole place is barely 150 years old — younger than many European railway
   towns — which gives it a more regular, planned feel than older Kosovar cities
   like Prizren or Gjakova.
+score: 6.3
 ---
 
 The Madhe Mosque — the Great Mosque — stands in the heart of Ferizaj near the main bazaar streets. The building dates from the late Ottoman period when Ferizaj was founded as a railway town, and it serves the city's Muslim Albanian majority. It is an active place of worship rather than a tourist sight, but visitors are generally welcome outside prayer times.

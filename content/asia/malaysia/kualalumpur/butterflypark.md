@@ -6,6 +6,7 @@ longitude: 101.6889
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 A walk-in aviary in the Lake Gardens stocked with several thousand butterflies of around 120 Malaysian species, fluttering through a landscaped jungle garden complete with stream, pond, and small waterfalls. The conditions are kept hot and humid — typical of Malaysian rainforest — and the butterflies feed openly on cut fruit and flowers along the paths.

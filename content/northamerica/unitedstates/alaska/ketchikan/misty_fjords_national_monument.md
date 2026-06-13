@@ -10,6 +10,7 @@ latitude: 55.7000
 longitude: -130.4000
 sources:
   - https://en.wikipedia.org/wiki/Misty_Fjords_National_Monument
+score: 9.4
 ---
 
 Misty Fjords National Monument is 2.3 million acres of wilderness east of Ketchikan, carved by glaciers into deep fjords with sheer granite walls rising thousands of feet from the sea. It is one of the most dramatic landscapes in North America and receives a fraction of the visitors of Glacier Bay or Denali.

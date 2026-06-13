@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.4
 ---
 
 The small riverfront park at the foot of 2nd Street where the Little Kanawha joins the Ohio, and the launching point for the sternwheeler to Blennerhassett Island. A floodwall murals project along the levee maps out the city's history in two dozen large panels, from prehistoric mound-builders through the oil boom and the steamboat era to the present.

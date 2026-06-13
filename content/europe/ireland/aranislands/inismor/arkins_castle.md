@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.1051
 longitude: -9.6627
+score: 6.7
 ---
 
 Arkin's Castle (Caisleán Aircín) is a ruined thirteenth-century tower house at Killeany on the southeastern shore of Inis Mór, built by the Anglo-Norman settlers who briefly asserted control over the island in the medieval period. It is the only structure on Inis Mór that belongs unmistakably to the Norman tradition of military architecture, and it sits incongruously among the prehistoric and early Christian remains that dominate the island's heritage.

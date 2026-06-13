@@ -1,6 +1,7 @@
 ---
 title: "Rock Climbing"
 type: poi
+score: 7.4
 ---
 
 The smooth granite outcrops around Tafraoute have made the area one of Morocco's better rock climbing destinations, with routes ranging from easy slabs to more serious faces on the larger formations. The rock quality is generally excellent — solid granite that takes gear well and offers friction climbing on its rounded surfaces.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 30-hectare arboretum in West Tisbury, started by an amateur botanist in her fifties
+score: 7.8
 ---
 
 In 1957 Polly Hill, then in her early fifties and with no formal training in horticulture, began planting trees on an old sheep farm in West Tisbury that she had inherited from her mother. Over the next forty years she built one of the most distinguished private arboreta in the eastern United States — over 2,000 trees and shrubs, many grown from seed she collected herself, including dogwoods, magnolias, and the famous **North Tisbury azaleas**.

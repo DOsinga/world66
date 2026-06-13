@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.0626
 longitude: 12.5670
+score: 8.1
 ---
 
 The city museum is the natural complement to the Domus del Chirurgo, gathering more than two thousand years of Rimini into thirty-six well-arranged galleries. Roman mosaics, early Christian sarcophagi, the Trecento Riminese painting school (Giovanni and Pietro da Rimini), and a small but worthwhile Renaissance collection.

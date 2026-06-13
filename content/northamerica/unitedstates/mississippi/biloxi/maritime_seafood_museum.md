@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.4025
 longitude: -88.8885
+score: 8.1
 ---
 
 The Maritime and Seafood Industry Museum tells the story of the Gulf Coast fishing industry through artefacts, photographs, and oral histories. The focus is particular and rewarding: the Vietnamese shrimping community that arrived as refugees in the late 1970s and quickly dominated the local industry, the Croatian oystermen who had fished these waters since the 19th century, and the environmental changes — hurricanes, oil spills, dead zones — that have reshaped the fishery.

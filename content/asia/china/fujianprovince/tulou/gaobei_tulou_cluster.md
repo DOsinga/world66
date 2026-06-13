@@ -16,6 +16,7 @@ story: >
   second, and living rooms on the upper floors. The shared well in the inner
   courtyard was the only water source for the entire community. At Chengqi Lou,
   that well has never run dry in three centuries.
+score: 4.4
 ---
 
 The Gaobei Tulou Cluster, a short distance from Hongkeng in Yongding County, contains Chengqi Lou — the largest round tulou ever built and sometimes called the "king of tulou." The building's sheer scale is the primary impression: at 73 metres diameter with four rings of rooms, it feels less like a house than a small village folded into a circle. The outer wall is four storeys and impenetrable, the inner rings step down in height, and the central courtyard contains the clan's ancestral hall and the well that supplied the entire building.

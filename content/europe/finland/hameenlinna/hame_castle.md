@@ -9,6 +9,7 @@ latitude: 61.0039
 longitude: 24.4581
 story: >
   Häme Castle served as a prison for three centuries, and among its most famous inmates was Claes Fleming, a Finnish nobleman imprisoned here in the late 16th century during a civil war between the Swedish king's supporters and the Finnish peasants who had risen against them. The peasant uprising — known as the Club War — ended in mass executions, and the castle held its prisoners in the thick-walled chambers that visitors now walk through.
+score: 8.8
 ---
 
 Häme Castle is one of the best-preserved medieval fortifications in Scandinavia — a massive red-brick structure built in the 13th century on a small promontory jutting into Lake Vanajavesi. The Swedes built it to assert control over the inland Häme region, and it served successively as a military stronghold, a granary, and a prison before being restored and opened as a museum.

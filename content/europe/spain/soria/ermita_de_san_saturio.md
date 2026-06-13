@@ -12,6 +12,7 @@ story: >
   that was eventually built around his cave is an eighteenth-century Baroque structure, but the
   cave itself is ancient — its walls still show traces of the hermit's cell. Soria has honoured him
   since the Middle Ages: his feast day on 2 October is the city's main fiesta.
+score: 7.8
 ---
 
 The Ermita de San Saturio is one of the most unexpected sights in Castilla y León — an octagonal Baroque chapel built directly into a cave above the Duero river, reached by a winding path cut into the cliff face south of the city centre. The hermitage was constructed around the cave where San Saturio, a fifth-century ascetic, is said to have lived and died.

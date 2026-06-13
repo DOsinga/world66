@@ -7,6 +7,7 @@ address: Jinnah Super Market, F-7 Markaz
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 A long-standing Afghan restaurant in the Jinnah Super Market — chapli kebab, mantu dumplings, Kabuli pulao and the trademark Afghan bread baked in a tandoor by the entrance. Among the older eating houses in the market, opened in the 1980s when Islamabad's Afghan refugee community first started to grow.

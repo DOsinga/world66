@@ -15,6 +15,7 @@ story: >
   a Mexican general's daughter named Margarita Henkel — and named the drink
   after her. The story is unverifiable, but the cocktail has been served here
   ever since, and Hussong's has never felt the need to look modest about it.
+score: 6.5
 ---
 
 Hussong's Cantina on Avenida Ruiz in Ensenada opened in 1892 and is the oldest bar in Baja California. It is a straightforward place — a long wooden bar, sawdust on the floor, live norteño music on weekends, and a clientele that mixes Mexican locals with Californian expats, surfers, and the occasional tourist who wandered in from the cruise ships.

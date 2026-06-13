@@ -6,6 +6,7 @@ tags:
   - museum
 title: My Son In-Situ Museum
 type: poi
+score: 6.6
 ---
 
 Within the Group D mandapas, conservators have created a small in-situ museum displaying Cham sculptural fragments and replica pieces, with explanatory panels in Vietnamese and English. The roofed mandapa halls protect some of the most fragile carvings from the elements while making them accessible to visitors. This is the best place at the site to examine the quality of Cham stonework up close — the mythological reliefs, the apsara figures, and the decorative vocabulary of a Hindu civilisation that flourished for nearly a thousand years before disappearing.

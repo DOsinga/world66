@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.8
 ---
 
 The Corniche is the spine of La Marsa and the closest thing the city has to an unmissable sight. It is a wide, palm-lined promenade running for about two kilometres along the beach, with cafés, restaurants, ice-cream shops, and a strip of sand wide enough to spread out a towel. In the cooler months it is a place to walk; in summer it becomes the main social space of greater Tunis, packed in the evenings and on weekends.

@@ -10,6 +10,7 @@ longitude: -79.5526
 snippet: World-renowned tropical biology research station with public visitor programmes
 sources:
   - https://en.wikipedia.org/wiki/Smithsonian_Tropical_Research_Institute
+score: 7.9
 ---
 
 The Smithsonian Tropical Research Institute (STRI) is the only bureau of the Smithsonian Institution based permanently outside the United States, and one of the world's leading centres for the study of tropical biodiversity. The Panamanian headquarters in Balboa includes laboratories, a library, and a public visitor centre with exhibits on tropical ecology.

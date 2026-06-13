@@ -10,6 +10,7 @@ tags:
 title: BenCab Museum
 type: poi
 url: bencabmuseum.org
+score: 8.5
 ---
 
 The BenCab Museum opened in 2009 on a hillside about 6 km west of central Baguio, the personal museum of National Artist Benedicto "BenCab" Cabrera. The clean modernist structure cascades down the slope in tiers, each holding a different gallery: BenCab's own paintings (mostly Filipina figures in his familiar muted palette), his collection of indigenous Cordilleran wood carvings, contemporary Filipino art, and rotating temporary shows.

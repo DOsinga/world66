@@ -7,6 +7,7 @@ tags:
 - hiking
 latitude: -32.93
 longitude: 151.02
+score: 8.1
 ---
 
 The sandstone wilderness that forms the southern boundary of the Broke area. Yengo is one of the largest national parks in New South Wales and part of the Greater Blue Mountains World Heritage Area, though it sees far fewer visitors than the more famous sections to the south. The park protects deep gorges, Aboriginal rock engravings, and a dry sclerophyll forest that looks completely different from the green valley floor around Broke.

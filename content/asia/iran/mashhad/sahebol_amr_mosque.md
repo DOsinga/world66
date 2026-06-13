@@ -4,6 +4,7 @@ type: poi
 latitude: 36.2864
 longitude: 59.6172
 tags: [things_to_do, sight]
+score: 6.2
 ---
 
 A small Safavid mosque tucked into the bazaar quarter east of the Imam Reza Shrine, the Sahebol-Amr is easy to miss among the busy streets but rewards a moment of attention for its 17th-century tilework and quiet interior. It functions as a working neighbourhood mosque and welcomes respectful visitors outside prayer times.

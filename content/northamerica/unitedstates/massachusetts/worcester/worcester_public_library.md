@@ -9,6 +9,7 @@ tags:
 title: Worcester Public Library
 type: poi
 snippet: The city's free public library, founded 1859 and well worth a look
+score: 6.1
 ---
 
 The Worcester Public Library is one of the oldest free public libraries in the country, founded in 1859. The current main building on Salem Square is a 1964 modernist block that was substantially rebuilt and expanded in the 2000s — the result is an unusually pleasant, light-filled space.

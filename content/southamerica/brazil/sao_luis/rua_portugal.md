@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.5285
 longitude: -44.3004
+score: 8.2
 ---
 
 Rua Portugal is perhaps the most atmospheric street in São Luís, running steeply down from the upper historic centre toward the old port waterfront. The facades here are particularly dense with azulejo tiles, and the street itself is narrow enough that the buildings on both sides feel like walls of blue and white ceramics. At the bottom, the view opens out over the bay.

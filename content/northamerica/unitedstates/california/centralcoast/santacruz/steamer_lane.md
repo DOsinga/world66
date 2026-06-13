@@ -8,6 +8,7 @@ latitude: 36.9513
 longitude: -122.0258
 story: >
   The Santa Cruz Surfing Museum, housed in the Mark Abbott Memorial Lighthouse above Steamer Lane, documents that surfing in Santa Cruz predates California surf culture by at least 50 years. Hawaiian princes Jonah and David Kawananakoa, visiting the city in 1885, brought boards and surfed the San Lorenzo River mouth — the first recorded surfing in California. The sport did not take root immediately, but when it returned in the 1930s, it returned to Santa Cruz, and the city has been arguing that it is the birthplace of West Coast surfing ever since.
+score: 8.4
 ---
 
 A world-class surf break at the foot of West Cliff Drive, just below the Mark Abbott Memorial Lighthouse. Steamer Lane consists of five distinct spots — Middle Peak, The Slot, Indicators, Cowells, and Sewer Peak — that work at different tidal states and swell directions. On any given morning from September through May, the water here holds some of the most skilled surfers on the California coast.

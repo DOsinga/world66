@@ -10,6 +10,7 @@ title: Sera Monastery
 type: poi
 story: >
   Sera is the only place where most travellers ever witness Tibetan monastic debate as performance — the standing monk poses a question, slaps his right palm down on his left to punctuate, and the sitting monk must answer. The slap is said to summon Manjushri, the bodhisattva of wisdom, and to nail down a poor argument so it cannot escape.
+score: 8.9
 ---
 
 Sera, four kilometres north of central Lhasa, is the most accessible of the great Gelugpa monasteries and the easiest day visit. The complex spreads up the south slope of a rocky hill, a network of whitewashed colleges and chapels organised around three principal halls. Of the three great Lhasa monasteries — Sera, Drepung and Ganden — Sera was the most influential in monastic education, particularly in dialectics.

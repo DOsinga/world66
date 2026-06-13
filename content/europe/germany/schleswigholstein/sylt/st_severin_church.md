@@ -14,6 +14,7 @@ story: >
   tower — when pirates raided the island, villagers retreated inside and pulled up the
   wooden ladder. The narrow slit windows are not architectural decoration but archery
   loopholes from which to shoot at attackers below.
+score: 8.0
 ---
 
 The oldest building on Sylt, St. Severin's was built in the 13th century from fieldstone and brick on a low rise overlooking the tidal flats of the Wadden Sea. The thick whitewashed walls, the small round-arched windows, and the simple wooden interior all speak of a frontier church serving a community that lived from fishing and salvage. A medieval baptismal font of black granite from Gotland sits inside; the wooden pulpit is from the Renaissance.

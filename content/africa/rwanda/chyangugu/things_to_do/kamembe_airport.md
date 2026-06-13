@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Kamembe_Airport
+score: 5.4
 ---
 
 Kamembe International Airport (IATA: KME) sits on a ridge about 3 km north of the town centre, and it earns a mention not as a destination but for the drama of its approach. The runway ends abruptly above a hillside dropping toward the lake, and the views of Lake Kivu and the surrounding hills from the aircraft during descent are exceptional. If you are flying in from Kigali, take a window seat.

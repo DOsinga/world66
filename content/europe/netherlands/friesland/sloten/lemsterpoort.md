@@ -12,6 +12,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The Lemsterpoort is the north water gate of Sloten, where the central canal meets the open polder on the road to Lemmer. It is not a building you walk through, but a stone arch and bridge with iron portcullis grooves still visible in the masonry. A small bronze cannon sits beside it on a stone carriage — one of two that flanked the town in the 17th century.

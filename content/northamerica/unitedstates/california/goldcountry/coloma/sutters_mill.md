@@ -9,6 +9,7 @@ snippet: "Full-scale replica of the sawmill where gold was discovered in 1848"
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 The mill that started the Gold Rush. The structure you see today is a full-scale replica built in the 1960s — the original sawmill was abandoned within a few years of the discovery and dismantled in the 1850s. The replica was put up using the original 1840s techniques: water-driven, with hand-hewn timber framing.

@@ -13,6 +13,7 @@ story: >
   the Dutch at least 200,000 dead from battle and disease, and remains the most expensive colonial war the
   Netherlands ever fought. Diponegoro was eventually captured in 1830 through a negotiating ruse — invited to
   talks under a flag of truce, then arrested on the spot.
+score: 7.4
 ---
 
 The Kauman Great Mosque is the official royal mosque of the Yogyakarta Sultanate, built in 1773 by Hamengkubuwono I. It stands just west of the Kraton, connected to the palace complex by a ceremonial path, and functions as a living mosque used by the local community as well as a heritage site.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.2479
 longitude: -97.7082
+score: 5.8
 ---
 
 Longhorn Dam, at the eastern end of Lady Bird Lake, is a good vantage point for understanding Austin's relationship with the Colorado River. The Highland Lakes — a chain of seven reservoirs created by damming the Colorado between 1937 and 1951 — transformed Austin from a flood-prone river town into a city with reliable water supply and recreational lakes. Lady Bird Lake is the lowest and most urban of these reservoirs, and Longhorn Dam marks its eastern boundary.

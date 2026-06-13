@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7833
 longitude: 8.245
+score: 8.0
 ---
 
 The **Hohenbaden** — also called Altes Schloss — is the genuinely old castle on the hill above the town, the seat of the Margraves of Baden until lightning damage and a fire in 1599 made it uninhabitable. Since then it has slowly become a romantic ruin, and is one of the largest castle ruins in Germany.

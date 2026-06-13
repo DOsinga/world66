@@ -1,6 +1,7 @@
 ---
 title: Casco Viejo rooftop bars
 type: poi
+score: 6.9
 ---
 
 The rooftop bars of the Casco Viejo are among the better places to drink in Latin America, and the setting is the reason: you sit on the roof of a two-hundred-year-old Spanish colonial building, the bay in front of you, the glass towers of the modern city across the water lit up against a dark sky, and the warm Pacific air moving across the terrace. It is the kind of view that makes you feel good about being exactly where you are.

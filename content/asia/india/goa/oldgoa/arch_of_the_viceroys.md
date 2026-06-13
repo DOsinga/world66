@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The Arch of the Viceroys stands at the old river landing, where Portuguese viceroys arriving by boat from Lisbon would disembark and walk under the arch to begin their tenure. Built in 1597 from greenish basalt, it was originally known as the Viceroy's Gate and served as the ceremonial entrance to the capital of Portuguese India. A small statue of Vasco da Gama, who "discovered" the sea route to India, stands in a niche above the arch.

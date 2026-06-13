@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - bar
+score: 6.0
 ---
 
 Dogfish Head opened its Wilmington brewpub on the Riverfront in 2024, the long-overdue urban outpost of one of the most influential American craft brewers — founded in Rehoboth Beach down on the Delaware coast in 1995. The two-storey space pours the full Dogfish range alongside small-batch beers brewed on-site.

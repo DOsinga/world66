@@ -15,6 +15,7 @@ story: >
   more than 40. Each pole has a story panel explaining its figures and the nation that carved it — 
   one of the few places in Canada where the context of these carvings is explained in situ rather 
   than in a museum case.
+score: 7.9
 ---
 
 Duncan has installed more than 40 totem poles through its downtown core, carved by artists from the Cowichan Tribes and several other Coast Salish and Pacific Northwest First Nations. The poles are scattered along the main streets and in public spaces throughout the town centre, making them accessible on a straightforward walking tour.

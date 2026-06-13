@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0596
 longitude: -34.8716
 tags: [things_to_do, sight, church, recife_antigo]
+score: 6.8
 ---
 
 A small but ornate 18th-century church at the heart of Recife Antigo, with a fine carved limestone facade and a richly gilded interior. The building is squeezed between converted warehouses on Rua Madre de Deus and easy to miss from the outside.

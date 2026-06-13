@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 44.0580
 longitude: 9.9305
+score: 8.1
 ---
 
 Tellaro has no sand. Swimming happens off the flat rocks below the village, reached by short concrete stairs and iron handrails that drop straight into the Gulf of La Spezia. The water is deep, very clear, and on calm days a vivid blue-green over white pebbles a few metres down.

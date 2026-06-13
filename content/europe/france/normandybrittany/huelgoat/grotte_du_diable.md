@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.3660
 longitude: -3.7459
+score: 8.0
 ---
 
 The Devil's Grotto is a narrow passage between massive boulders, descending steeply into a dark cavity along the river gorge. Getting in requires a short climb down on fixed ladders — it is not difficult, but the descent into the shadow of the rocks with a river rushing below gives it a proper sense of drama.

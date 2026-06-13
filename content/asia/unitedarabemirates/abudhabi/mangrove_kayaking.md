@@ -9,6 +9,7 @@ tags:
 latitude: 24.4736
 longitude: 54.4339
 story: "The mangroves along the eastern shore of the main island are part of the largest mangrove forest in the Persian Gulf — and the only part of central Abu Dhabi that survives in something close to its pre-oil state."
+score: 8.1
 ---
 
 A protected stretch of mangrove forest on the eastern side of the main island, threaded with shallow tidal creeks. The standard way in is by guided kayak tour, launched from the Eastern Mangroves Promenade: a quiet, slow paddle through tunnels of mangrove with flamingos, herons, crabs, and the occasional juvenile reef shark below the boat.

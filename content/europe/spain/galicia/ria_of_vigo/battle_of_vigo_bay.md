@@ -6,6 +6,7 @@ latitude: 42.3000
 longitude: -8.6600
 story: >
   The Battle of Vigo Bay in 1702 has one enduring legacy in popular culture: it inspired the treasure legend that Jules Verne incorporated into Twenty Thousand Leagues Under the Sea. Captain Nemo claims to be raising Spanish treasure from the seabed of Vigo Bay. While treasure hunters have searched the bay repeatedly since, nothing significant has ever been recovered — the treasure ships were most likely unloaded before the battle.
+score: 6.2
 ---
 
 The Battle of Vigo Bay (also called the Battle of Rande) was fought in October 1702 near the narrows of Rande during the War of the Spanish Succession, when an Anglo-Dutch fleet attacked a Spanish treasure fleet under French naval escort. Fifteen Spanish and French vessels were sunk along with a reportedly vast cargo of silver and gold from the Americas.

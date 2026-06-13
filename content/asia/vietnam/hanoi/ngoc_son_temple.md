@@ -8,6 +8,7 @@ latitude: 21.0307
 longitude: 105.852
 snippet: "Lakeside temple on tiny island, reached by red wooden bridge"
 story: "The temple's preserved giant turtle, displayed in a glass case inside the main hall, was believed for generations to be the legendary beast that gave Emperor Le Loi a magical sword in the 15th century. The real animal — a Yangtze giant softshell turtle (Rafetus swinhoei), one of the rarest creatures on earth — died in January 2016. It was the last known individual in Hoan Kiem Lake and possibly the last of its kind in the world. The loss was mourned publicly across Vietnam."
+score: 7.7
 ---
 
 The Jade Mountain Temple sits on a tiny island near the northern end of Hoan Kiem Lake, reached by crossing the The Huc Bridge — a red-painted wooden walkway on stilts that is one of the most photographed structures in Vietnam. The temple was built in the early 19th century and expanded throughout the 1800s, dedicated to the military hero Tran Hung Dao, the scholar Van Xuong, and the physician La To. Its name means "jade mountain," a poetic description of the wooded island on which it stands.

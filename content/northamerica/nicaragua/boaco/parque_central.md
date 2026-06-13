@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 12.4722
 longitude: -85.6586
+score: 6.8
 ---
 
 Boaco's central park is a shaded square ringed by low buildings, the cathedral, and the alcaldía (city hall). Like most Nicaraguan town squares, it functions as the city's primary public space — benches under trees, a bandstand, children chasing pigeons, and a steady stream of people crossing it in every direction.

@@ -9,6 +9,7 @@ tags:
 - historic_site
 - temple
 story: Built directly on the shoreline in the late 7th to early 8th century, the Shore Temple is one of the oldest structural temples in South India — most Pallava monuments here are carved from rock, but this one was assembled from dressed granite blocks. Local legend says it is the last surviving temple of an original seven, the rest claimed by the sea. On quiet mornings before the crowds arrive, you can hear waves breaking just a few metres from the outer wall.
+score: 9.5
 ---
 
 The Shore Temple stands where the Coromandel Coast meets the sand, two small Shiva shrines backed by a third shrine to Vishnu, all enclosed within a low wall studded with Nandi bulls. The main tower rises about 20 metres in a layered, tapering form that became the template for later Dravidian temple architecture across South India.

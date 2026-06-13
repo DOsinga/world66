@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4833
 longitude: 25.9167
+score: 6.3
 ---
 
 Volissos is a small mountain village in the remote northwest of Chios, dominated by a ruined Byzantine castle on the hilltop above. It is one of the several places in the Aegean that claims a connection to Homer — a tradition that cannot be verified but persists. The village itself is picturesque in a faded way, with stone houses on steep lanes and a handful of tavernas that serve the fishing boats that work the western coast.

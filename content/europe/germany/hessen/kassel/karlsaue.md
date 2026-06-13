@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 51.3019
 longitude: 9.4933
+score: 7.4
 ---
 
 The **Karlsaue** is the great south-central park of Kassel — a 150-hectare Baroque garden laid out in the 17th century by Landgrave Karl on the banks of the Fulda river. The grid of canals and the long sight-lines were designed to be best viewed from the Orangerie at the northern edge; the park widens out into a series of woodland walks and the **Siebenbergen** flower island, which charges a small admission in summer.

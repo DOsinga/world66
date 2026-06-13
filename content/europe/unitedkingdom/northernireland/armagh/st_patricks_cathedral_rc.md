@@ -16,6 +16,7 @@ story: >
   The effect is stunning and unexpected behind the severe Gothic exterior.
 sources:
   - https://en.wikipedia.org/wiki/St_Patrick%27s_Cathedral,_Armagh_(Roman_Catholic)
+score: 8.0
 ---
 
 The Roman Catholic St Patrick's Cathedral occupies the opposing hilltop from its Church of Ireland counterpart, creating the famous twin-spired skyline of Armagh. Construction began in 1840 but was interrupted by the Great Famine in 1847 when the Bishop of Armagh diverted building funds to famine relief — the cathedral wasn't completed until 1904.

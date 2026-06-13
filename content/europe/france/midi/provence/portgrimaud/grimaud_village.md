@@ -8,6 +8,7 @@ latitude: 43.2741
 longitude: 6.5302
 story: >
   The ruined castle above Grimaud belonged to the Grimaldi family — the same dynasty that still rules Monaco. The lords of Grimaud once controlled a vast stretch of the Var coast, and the views from the castle ruins today still take in much of what they owned.
+score: 7.8
 ---
 
 The medieval hilltop village of Grimaud sits about four kilometres inland from Port Grimaud, perched above the plain on a rocky spur with views across the Gulf of Saint-Tropez. This is the original settlement that lent its name to the planned resort below — a genuine Provencal village of narrow streets, stone houses, arched passageways, and a ruined Romanesque castle at the summit.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3837
 longitude: 13.4623
+score: 6.8
 ---
 
 The town parish church, dedicated to the Assumption of Mary, sits on the highest point of the old town and is the architectural heart of Radstadt. The late-Romanesque core dates from the twelfth century; the gothic choir was added in the fifteenth. The most striking feature outside is the tall, slender west tower with its pointed roof.

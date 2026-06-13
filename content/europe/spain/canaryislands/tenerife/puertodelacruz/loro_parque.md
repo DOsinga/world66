@@ -9,6 +9,7 @@ tags:
 - sight
 story: >
   Loro Parque began in 1972 as a parrot collection — the name means "parrot park" — and at its peak held more than 3,000 parrots representing 350 species, making it the largest parrot collection in the world. It has since expanded into a full zoo while retaining its bird expertise. The parrot shows, though controversial among animal welfare advocates, remain technically extraordinary demonstrations of trained bird behaviour.
+score: 8.3
 ---
 
 Loro Parque sits on the western outskirts of Puerto de la Cruz and is consistently ranked among the best zoos in Europe. The grounds are beautifully landscaped with tropical plants, and the enclosures are large and naturalistic by zoo standards. Highlights include the gorilla habitat, the Penguin Planet (a refrigerated Antarctic environment housing hundreds of penguins), the shark tunnel aquarium, and the orca pool.

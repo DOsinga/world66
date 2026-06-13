@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 35.2254
 longitude: -97.4442
+score: 6.8
 ---
 
 A perfectly preserved 1899 Queen Anne mansion on Peters Avenue, four blocks west of downtown Norman. Built for Tyler Moore, a Cleveland County prosecutor, and later occupied by the prominent Lindsay family, the house has been a city museum since 1975. It is the best surviving example of late-Victorian residential architecture in Oklahoma, with the round tower, asymmetrical massing, fish-scale shingles, and broad porches of the style.

@@ -13,6 +13,7 @@ story: >
   on a rotation system, with each pond drained, farmed, and refilled on a cycle of
   several years. The system is still in use today, which is why the Brenne looks
   the way it does: a landscape shaped by medieval fasting habits.
+score: 8.7
 ---
 
 The Brenne — le pays des mille étangs, the land of a thousand lakes — is one of France's most important wetland habitats. The park covers 1,672 square kilometres of the Indre department, with Le Blanc as its principal town and gateway. The landscape is unusual: hundreds of shallow, vegetated ponds separated by low ridges and woodland, stretching to the horizon in every direction.

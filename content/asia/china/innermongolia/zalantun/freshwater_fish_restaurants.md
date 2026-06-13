@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 48.0270
 longitude: 122.7083
+score: 6.2
 ---
 
 The fish restaurants clustered near the river in Zalantun's old commercial district are the best reason to eat in the city rather than at your resort. Carp, crucian, and northern pike from the Yalu River are typically cooked simply — braised with ginger and doubanjiang, or steamed with spring onions — and the portions are large enough to feed two or three people. The cooking style is northeastern Chinese (dongbei) rather than Mongolian: hearty, salty, and designed to accompany baijiu rather than tea.

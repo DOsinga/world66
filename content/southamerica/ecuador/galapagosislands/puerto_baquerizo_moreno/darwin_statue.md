@@ -6,6 +6,7 @@ longitude: -89.6098
 snippet: "The seafront promenade where Darwin's statue stands watch and sea lions nap on the benches."
 tags: [things_to_do, sight]
 story: "The statue of Charles Darwin stands on the waterfront malecón looking out over the harbour, which is as it should be — San Cristóbal was the first Galápagos island he stepped ashore on, in September 1835. What would he have made of the sea lions? They occupy the benches along the promenade with the confidence of residents, occasionally sliding into the shallows and then hauling themselves back up, wet and indifferent, to resume their naps beside the tourists. The casual coexistence of humans and wildlife here is one of the most disarming things about the Galápagos."
+score: 6.6
 ---
 
 The waterfront malecón is the natural starting point for any visit to Puerto Baquerizo Moreno. It runs for several blocks along the harbour, lined with benches, cafes, and tour agency offices. The sea lions own the southern end, particularly the stretch near the main pier, where they sleep in improbable heaps and occasionally bark at passing dogs.

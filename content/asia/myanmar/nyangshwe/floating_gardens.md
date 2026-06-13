@@ -8,6 +8,7 @@ snippet: Hand-built island gardens that grow most of the region's tomatoes
 latitude: 20.5500
 longitude: 96.9000
 story: "The floating beds are built by hauling weed up from the lake bed, weaving it into rafts, and anchoring them to the bottom with bamboo poles. Whole villages of these gardens — kilometres across — drift and rebob with the seasons. Most of the tomatoes eaten in Myanmar come from here."
+score: 8.2
 ---
 
 Among the most distinctive sights on Inle Lake are the floating gardens — long strips of buoyant matted weed anchored to the lake bed with bamboo poles, planted with tomatoes, gourds, beans, and flowers. Generations of Intha farmers have built and tended them, and the gardens stretch for kilometres on the western shore.

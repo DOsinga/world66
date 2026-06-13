@@ -17,6 +17,7 @@ story: >
   It is now the prize of the Egyptian Museum's Old Kingdom gallery.
 sources:
   - https://en.wikipedia.org/wiki/Valley_temple_of_Khafre
+score: 8.8
 ---
 
 The Valley Temple of Khafre, at the eastern foot of the plateau near the Sphinx, is one of the best-preserved Old Kingdom temples in Egypt. Built around 2530 BC in massive blocks of red Aswan granite — some of the largest stones ever used in any Egyptian building — the temple served as the mortuary processing point where Khafre's body was received from the Nile before being moved up the causeway to the pyramid.

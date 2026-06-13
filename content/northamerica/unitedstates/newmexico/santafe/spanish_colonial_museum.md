@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.6720
 longitude: -105.9230
+score: 7.8
 ---
 
 A specialised museum of Spanish colonial art on Museum Hill, focused on retablos, bultos, santos, textiles, and furniture from New Mexico's three centuries as a Spanish and Mexican province. The collection is the work of the Spanish Colonial Arts Society, founded in 1925 to preserve the traditional crafts of New Mexican Hispanos.

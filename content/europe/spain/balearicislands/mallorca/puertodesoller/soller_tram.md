@@ -8,6 +8,7 @@ latitude: 39.7693
 longitude: 2.7164
 snippet: "A vintage tram connects the port to Sóller town through orange groves — slow, scenic, indispensable"
 story: "The Tranvia de Sóller has been running since 1913. When proposals emerged in the 1980s to shut it down and replace it with a modern bus, a local campaign succeeded in keeping it running by declaring it a heritage site — one of the few cases where tourists and locals agreed on something."
+score: 8.2
 ---
 
 The tram runs 3km between Sóller town's railway station and the port, taking about 20 minutes on a route that passes through the orange and lemon groves filling the valley bottom. The rolling stock is original — open-sided wooden carriages from the early 20th century — and the tram shares the road for part of the route, slowing for cars and pedestrians with a bell that sounds faintly ridiculous and entirely charming. It runs throughout the day from early morning to early evening, frequently enough that you don't need to plan around it.

@@ -10,6 +10,7 @@ longitude: -93.1259
 story: >
   Fitzgerald was born at 481 Laurel Avenue in 1896 and grew up in various houses around St. Paul, always conscious of being one step removed from the Summit Avenue wealth he wrote about.
   He said the city gave him his subject matter — the American dream, class aspiration, and the social anxiety of those who are almost but not quite in the right rooms.
+score: 6.8
 ---
 
 F. Scott Fitzgerald spent his early years and several significant periods of his adult life in St. Paul. The house at 599 Summit Avenue, where he lived while writing "This Side of Paradise," is a private residence but marked with a plaque. His birthplace at 481 Laurel Avenue, a brownstone a few blocks away, is also private but worth walking past.

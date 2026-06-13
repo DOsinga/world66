@@ -11,6 +11,7 @@ tags:
 title: Tickets
 type: poi
 url: www.ticketsbar.es
+score: 8.2
 ---
 
 Tickets is the playful tapas bar run by Albert Adrià (brother of Ferran), and it may be the most fun restaurant in Barcelona — a deliberately theatrical space where classic Catalan tapas are deconstructed, amplified, and served alongside theatrical presentations. The menu changes constantly but always includes brilliant versions of tortilla, croquetas, and seasonal vegetables alongside more experimental preparations.

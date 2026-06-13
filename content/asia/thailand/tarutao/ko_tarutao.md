@@ -14,6 +14,7 @@ story: >
   war and the prisoners, abandoned without rations, turned to piracy in the Strait of
   Malacca, raiding passing ships from camps on the island's west coast. British forces
   put a stop to it after the war ended, and the prison was finally closed in 1948.
+score: 8.8
 ---
 
 Ko Tarutao is the largest island in the archipelago — 152 square kilometres of jungle-covered mountains, mangrove creeks, and empty white-sand beaches. The park headquarters and the only formal accommodation sit on the northern bay of **Pante Malacca**, a long curve of fine sand backed by casuarinas. The bungalows are basic national-park style; there is a small restaurant, a shop, and bicycle hire, and almost nothing else.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7650
 longitude: 46.7490
+score: 8.3
 ---
 
 The fortress walls of Shusha enclose the old city on its northern and eastern approaches — the sides where the natural ravines did not provide protection. Built in the mid-18th century under Panah Ali Khan, the walls are constructed of large limestone blocks and were substantial enough to withstand multiple sieges. They survived reasonably intact through the conflict years, though sections were damaged.

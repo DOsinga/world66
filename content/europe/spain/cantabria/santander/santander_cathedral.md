@@ -15,6 +15,7 @@ story: >
   the heads of two Roman martyrs — Emeterius and Celedonius — who became the
   patron saints of Santander. The upper Gothic church, which most visitors see,
   was rebuilt after the 1941 fire largely destroyed it.
+score: 7.8
 ---
 
 Santander Cathedral occupies the highest point of the old city, on a hill above the port where the city was founded. The building has a complicated layered history: the lower Romanesque crypt dates from the 12th century, while the upper Gothic nave was completed in the 14th century and then largely reconstructed after the catastrophic fire of February 1941 burned most of central Santander to the ground. The result is a building that reads as Gothic but feels newer than it looks — which is partly the point, since the reconstruction was as faithful as the 1940s resources allowed.

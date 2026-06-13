@@ -12,6 +12,7 @@ sources:
   - https://skiwhitewater.com
 story: >
   Whitewater sits in a bowl in the Selkirk Mountains that consistently receives some of the driest, lightest powder in British Columbia — locals call it "champagne powder." The resort has deliberately stayed small: no high-speed quads, no on-mountain hotels, no slopeside condos. That restraint, combined with a snowfall average above 12 metres a year, is what keeps it a secret among serious skiers.
+score: 8.5
 ---
 
 Twenty minutes south of Nelson, Whitewater is one of British Columbia's great under-the-radar ski resorts. The mountain gets enormous snowfall — over 12 metres a season — and the terrain suits intermediate and advanced skiers well, with steep chutes, open bowls, and long groomed runs. Lift lines are a fraction of those at Whistler or Sun Peaks, and the base lodge has a genuine locals-first character.

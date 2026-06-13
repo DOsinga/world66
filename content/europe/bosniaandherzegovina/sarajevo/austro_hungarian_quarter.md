@@ -8,6 +8,7 @@ tags:
   - neighbourhood
   - sight
   - architecture
+score: 8.1
 ---
 
 Marijin Dvor (Mary's Court) is the neighbourhood built by the Austro-Hungarian administration after 1878, when they took over from the Ottomans and set about making Sarajevo look more like a European capital. The result is a dense grid of neo-Renaissance and Secession-style buildings — government offices, apartment blocks, hotels, and cultural institutions — that could have been transplanted from Prague or Ljubljana.

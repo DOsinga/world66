@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.0795
 longitude: 34.7660
+score: 7.7
 ---
 
 The Tayelet is the wide stone-and-wood pedestrian and cycle promenade running along the top of the Tel Aviv beach. The southern section, from the Tel Aviv port north of the centre down to the Jaffa Port at the southern end, is about ten kilometres of continuous walking.

@@ -9,6 +9,7 @@ tags:
 latitude: 4.9374
 longitude: -52.3328
 address: "Place du Coq, Cayenne"
+score: 8.5
 ---
 
 The covered market on Place du Coq is the best place in Cayenne to understand the city's food cultures. Hmong farmers from the inland villages of Cacao and Javouhey sell pak choi, lemongrass and pineapples; Creole stalls dish out *bouillon d'awara* and *blaff* of fish; Brazilian vendors fry *coxinha*. Spices, dried shrimp and bottles of homemade pepper sauce fill the back tables.

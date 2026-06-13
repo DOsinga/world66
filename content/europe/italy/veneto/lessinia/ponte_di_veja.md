@@ -8,6 +8,7 @@ tags:
 - sight
 title: Ponte di Veja
 type: poi
+score: 7.8
 ---
 
 A vast natural arch of grey limestone, around fifty metres wide and forty high, spanning a small valley north-west of Sant'Anna d'Alfaedo. It is the collapsed remnant of a karst cave, and one of the largest natural bridges in Europe. The cliffs around it shelter shallow caves that were inhabited from the Middle Palaeolithic onward, with finds going back more than 60,000 years.

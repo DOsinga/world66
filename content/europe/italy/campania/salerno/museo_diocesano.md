@@ -7,6 +7,7 @@ tags:
   - historic_centre
 latitude: 40.6802
 longitude: 14.7608
+score: 8.2
 ---
 
 The Diocesan Museum of Salerno is housed in the Archbishop's Palace alongside the cathedral and holds one of the most remarkable collections of medieval ivory carving in Europe. The centrepiece is a set of fifty-four ivory panels, carved in the eleventh century, that once decorated the ambo — the raised pulpit — of the cathedral. Each panel depicts a scene from the Old or New Testament in extraordinary detail, with figures barely larger than a thumb yet full of movement and expression. When the ambo was dismantled in the seventeenth century, the panels were dispersed; the museum has reunited the largest surviving group.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -26.175163
 longitude: 28.01086
+score: 7.2
 ---
 
 Melville is Johannesburg's most bohemian suburb, centred on the bars, restaurants, and record shops of 7th Street. It has a distinctly different character from the polished northern suburbs — scruffier, more independent, more likely to have live music on a Tuesday night. Artists, writers, and academics are drawn here partly by its general atmosphere and partly by proximity to the University of the Witwatersrand, which is just to the east.

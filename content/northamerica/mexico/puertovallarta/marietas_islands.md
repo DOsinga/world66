@@ -14,6 +14,7 @@ story: >
   the now-famous "Hidden Beach" — a circular crescent of sand open to the sky
   but completely enclosed by rock. The only way in is by swimming through a
   short tunnel from the sea.
+score: 8.4
 ---
 
 A small archipelago about 8 kilometres off Punta Mita, designated a UNESCO biosphere reserve and one of the most important seabird breeding sites on the Pacific coast of Mexico. Blue-footed boobies, brown pelicans, and frigatebirds all nest here in large numbers. Underwater the islands have spectacular reef systems with manta rays, sea turtles and dolphins regularly sighted.

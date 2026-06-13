@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.0864
 longitude: 8.1476
+score: 6.4
 ---
 
 The parish church stands at the heart of Cisano, opposite the civic tower. The current building is largely 17th-century Baroque, replacing an earlier medieval church, with a single nave and side chapels. The interior preserves several 17th-century altarpieces of local manufacture and a wooden Crucifix from the same period that is carried in procession during Holy Week.

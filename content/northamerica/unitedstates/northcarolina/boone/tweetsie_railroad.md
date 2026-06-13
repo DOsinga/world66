@@ -8,6 +8,7 @@ tags:
 - sight
 title: Tweetsie Railroad
 type: poi
+score: 6.8
 ---
 
 Tweetsie Railroad is a Wild West–themed amusement park built around a working three-mile narrow-gauge steam railroad. The ride is the heart of the experience: visitors board a 1917 Baldwin locomotive that loops through pine forest, stages a mock train robbery, and pulls into a saloon-style station. Around the ride are gold-panning, a small Ferris wheel, a country fair, and live cowboy shows.

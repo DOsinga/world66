@@ -10,6 +10,7 @@ story: >
   The theatre was built in 1925 and, like most historic cinema palaces, spent decades as a multiplex before falling into disrepair. It was saved in 1987 by David Packard Jr., son of HP co-founder Dave Packard, who bought and fully restored it. The Packard Humanities Institute now operates it exclusively as a classic film repertory cinema — one of the few remaining in California — showing double features from the golden age of Hollywood.
 sources:
   - https://en.wikipedia.org/wiki/Stanford_Theatre
+score: 7.9
 ---
 
 The Stanford Theatre is a beautifully preserved 1925 movie palace on University Avenue, showing classic Hollywood films from the 1920s through the 1960s. The interior is all gilded plasterwork, red velvet, and a Wurlitzer organ that plays before weekend evening shows. It seats nearly 1,200 people and keeps ticket prices deliberately low.

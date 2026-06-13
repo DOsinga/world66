@@ -8,6 +8,7 @@ tags:
 - sight
 title: Cathedral of the Holy Spirit
 type: poi
+score: 7.0
 ---
 
 An Orthodox cathedral built in 1642 for a Bernadine convent, converted to Russian Orthodox use in the 19th century. The blue-domed structure is the spiritual heart of Orthodox Christianity in Belarus and the seat of the Metropolitan of Minsk. The icon of Our Lady of Minsk inside is considered miraculous.

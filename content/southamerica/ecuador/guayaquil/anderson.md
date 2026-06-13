@@ -7,6 +7,7 @@ title: Anderson
 type: poi
 snippet: "French-inspired dining in Guayaquil's Urdesa neighborhood"
 address: Urdesa, Guayaquil
+score: 5.0
 ---
 
 A French-inspired restaurant in Guayaquil's upscale Urdesa neighborhood. Anderson serves European-style cuisine in a refined setting, popular with locals for special occasions and business dinners.

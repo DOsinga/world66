@@ -18,6 +18,7 @@ story: >
   Edmund Burke's defence of the French monarchy, was so incendiary that the 
   British government charged him with seditious libel. He was tried in 
   absentia and convicted. He never returned to England.
+score: 6.1
 ---
 
 A gilded bronze statue of Thomas Paine stands on King Street in the centre of Thetford, looking every inch the revolutionary — quill in one hand, a copy of *The Rights of Man* in the other. The statue, by sculptor Charles Wheeler, was unveiled in 1964 and paid for partly by American donors who regarded Paine's ideas as foundational to the United States.

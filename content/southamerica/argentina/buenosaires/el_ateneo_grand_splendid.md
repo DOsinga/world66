@@ -11,6 +11,7 @@ longitude: -58.3932
 address: Avenida Santa Fe 1860, Recoleta
 story: >
   The Grand Splendid opened in 1919 as a music hall and theatre, where tango performances were broadcast live on radio to the rest of Argentina. The orchestra pit was used for live transmissions; the famous singers of the era performed on the same stage that now serves as the bookshop's café. It became a cinema in 1929, was shuttered in 2000, and reopened as a bookshop in 2000.
+score: 9.1
 ---
 
 A 1919 theatre converted into a bookshop — and one of the most beautiful bookshops in the world, by widespread consensus. The auditorium's gilded plasterwork, painted ceiling, and ornate stage remain intact; the stage now hosts a café, the tiers of boxes have been turned into reading alcoves, and bookshelves fill the stalls.

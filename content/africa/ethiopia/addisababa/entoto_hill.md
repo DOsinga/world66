@@ -14,6 +14,7 @@ story: >
   hot springs at the base of the hill — the place that became Addis Ababa — partly
   because the upland forests were being rapidly depleted for firewood, and the springs
   offered a warmer, more hospitable site.
+score: 8.0
 ---
 
 The eucalyptus-covered ridge north of the city offers the best views over Addis Ababa, the sprawling capital laid out below in shades of grey and terracotta, with the highlands rising beyond. The walk or drive up takes about 30 minutes from the city centre.

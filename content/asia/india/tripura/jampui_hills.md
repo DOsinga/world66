@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 23.9659
 longitude: 92.2773
+score: 7.4
 ---
 
 The Jampui Hills run along Tripura's northeastern edge near Mizoram, offering cooler air, orange orchards, and wide views across folded hills. They make Tripura feel briefly like a hill state rather than a lowland borderland.

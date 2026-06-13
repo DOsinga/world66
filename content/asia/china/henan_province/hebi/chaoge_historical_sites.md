@@ -14,6 +14,7 @@ story: >
   in his finest jade and threw himself onto a fire built atop the terrace.
   The spectacular fall of the Shang at this site became a founding story of
   Zhou moral authority, endlessly retold in later Chinese literature and opera.
+score: 6.6
 ---
 
 The area around modern Qi County, about 25 kilometres south of central Hebi, was the location of Chaoge — the capital of the late Shang dynasty and later an important city of the Zhou-period State of Wei. The historical layer here is ancient and substantial, even if much of what remains is archaeological rather than spectacular. Local museums in Qi County display bronzes, ceramics, and oracle bone fragments recovered from excavations in the area, giving a concrete sense of the density of settlement that existed here during the second millennium BCE.

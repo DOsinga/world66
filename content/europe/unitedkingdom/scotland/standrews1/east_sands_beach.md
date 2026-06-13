@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.3365
 longitude: -2.7818
+score: 6.3
 ---
 
 East Sands is the smaller of St Andrews's two main beaches, curving south from the harbour between the town's eastern headland and the golf courses beyond. It is less well-known than the West Sands — fewer tourists find their way here — but for actual swimming and sunbathing it is the better option, having some shelter from the prevailing westerly wind and being closer to the town centre.

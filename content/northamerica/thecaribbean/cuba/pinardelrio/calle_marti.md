@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 22.4150
 longitude: -83.6963
+score: 7.1
 ---
 
 Calle Martí is the main pedestrian boulevard of Pinar del Río — a shaded arcade of colonial buildings running through the heart of the city. This is where people gather in the evenings, where the provincial government buildings and main churches face each other, and where the daily life of the city is most visible.

@@ -6,6 +6,7 @@ longitude: -0.6450
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The Front de Mer is Oran's seafront promenade — a broad boulevard high above the port, lined with palm trees and the grand French-era apartment buildings of the city's wealthier 19th-century residents. From the corniche the whole bay is visible: the port below, Mers-el-Kébir to the west, the Spanish-era Fort of Santa Cruz rising above the city on the right.

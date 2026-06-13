@@ -16,6 +16,7 @@ tags:
 - sight
 title: Pegasus Bridge
 type: poi
+score: 8.7
 ---
 
 The original swing bridge that British airborne troops captured in the opening minutes of D-Day. Replaced in 1994 by a wider structure to allow larger vessels through the Caen Canal, the original bridge now sits in the grounds of the Pegasus Memorial museum nearby. The new bridge still carries the name Pegasus Bridge, and crossing it — above the same dark canal water where the gliders landed in darkness — remains a genuinely moving experience. The site is marked with memorials and information boards explaining what happened in those first frantic minutes of the invasion.

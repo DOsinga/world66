@@ -12,6 +12,7 @@ story: >
   a Buddhist monk after the death of his favourite consort, Dong Ebilun. The story
   became a recurring theme in Qing-era fiction and drama, and the tomb's Buddhist
   elements have been cited as evidence either way.
+score: 8.2
 ---
 
 The Xiaoling is the tomb of the Shunzhi Emperor, the first Qing emperor to rule China from Beijing, and it occupies the central position in the complex — the founding mausoleum around which all the others were arranged. It is the oldest of the five imperial tombs here, begun in 1661, and the processional spirit way it shares with the rest of the complex is one of the most impressive in China, stretching more than six kilometres with paired stone animals and human figures at regular intervals.

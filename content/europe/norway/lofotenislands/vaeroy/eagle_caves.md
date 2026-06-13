@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 67.650
 longitude: 12.685
 story: The practice of catching eagles by hand was so effective on Værøy that the local white-tailed eagle population was nearly wiped out; the species is now fully protected across Norway and has recovered, but the hunting sites remain as evidence of what was once considered an ordinary livelihood.
+score: 8.0
 ---
 
 Nowhere else in the world do people appear to have caught eagles with their bare hands as a sustained practice. On Værøy, hunters would find a shallow cave or dig a stone pit in a position overlooking open ground, bait it with a carcass — a dead sheep was common — and lie hidden inside waiting. When a white-tailed eagle landed to feed, the hunter would reach out and seize it by the legs. The birds were killed for their feathers, which had commercial value, and for bounties paid by authorities who considered them a threat to livestock and young lambs. The practice continued into the twentieth century.

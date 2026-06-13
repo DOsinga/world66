@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Free children's museum and small zoo, recently rebuilt"
+score: 6.4
 ---
 
 A combined hands-on science museum and small zoo aimed at kids under twelve, rebuilt in a striking

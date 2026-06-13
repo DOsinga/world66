@@ -8,6 +8,7 @@ tags:
   - nevskiyprospekt
 latitude: 59.9376
 longitude: 30.3082
+score: 8.0
 ---
 
 The Admiralty is the long, golden-spired neoclassical building between Senate Square and Palace Square, with a 72-metre spire that serves as the visual anchor of central St Petersburg. Three of the city's main avenues — Nevsky Prospekt, Gorokhovaya Street, and Voznesensky Avenue — all radiate outward from its facade. The current building, by Andreyan Zakharov, dates from 1806–1823 and replaced Peter the Great's original shipyard on the same site.

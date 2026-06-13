@@ -12,6 +12,7 @@ story: >
   kept over 100 vessels here, including warships, supply ships, and flying boats.
   Today the same waters are home to large populations of reef fish, sea turtles,
   and sharks — an irony that would not be lost on the men who sailed here in wartime.
+score: 8.3
 ---
 
 Jaluit's lagoon is one of the largest in the Marshall Islands, enclosed by a rim of some 91 islets with four navigable passes. The water is clear and warm, the reef system largely intact, and the fish life impressive by any standard. Snorkelling from the shore of any inhabited islet is rewarding; proper diving requires bringing your own equipment, as there are no dive operators on the atoll.

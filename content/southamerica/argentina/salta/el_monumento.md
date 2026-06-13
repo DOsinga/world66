@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: El Monumento
 type: poi
+score: 5.6
 ---
 
 A solid neighbourhood restaurant in Salta serving traditional northwestern Argentine food at reasonable prices. The empanadas and locro are worth trying. Portions are generous and the atmosphere is unpretentious. Service can be slow, so go when you are not in a hurry.

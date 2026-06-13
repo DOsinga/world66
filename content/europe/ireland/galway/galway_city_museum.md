@@ -10,6 +10,7 @@ story: >
   One of the museum's exhibits covers the Galway Hooker — the distinctive red-sailed, black-hulled boat that dominated maritime trade along the Connacht coast for centuries. By the 1970s there were only a handful left; a revival movement in the 1980s and 1990s restored many and the boats now race every summer, their brick-red sails visible from the Spanish Arch on regatta days.
 sources:
   - https://en.wikipedia.org/wiki/Galway_City_Museum
+score: 7.9
 ---
 
 Galway City Museum occupies a purpose-built building beside the Spanish Arch, on the edge of the old city walls. It covers Galway's history from prehistoric times through the medieval merchant city, the Cromwellian destruction, the famine, emigration, and into the twentieth century. The exhibits are well-designed and clearly written; the medieval section, covering the Lynch family and the city's trading connections with Spain and France, is the most engaging.

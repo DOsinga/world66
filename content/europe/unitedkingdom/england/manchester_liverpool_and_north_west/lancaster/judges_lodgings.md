@@ -14,6 +14,7 @@ story: >
   Assizes — including those who sentenced the Pendle Witches in 1612. The judges would
   eat and sleep here, then walk up the hill to the castle in the morning to pass sentence
   on the accused waiting below.
+score: 7.8
 ---
 
 The Judges' Lodgings is a well-preserved 17th-century townhouse between Church Street and Castle Hill that served as the official lodging for visiting judges during the Lancaster Assizes. Today it operates as a museum with two distinct collections: the Museum of Childhood, with a remarkable assembly of antique toys and dolls' houses, and the Gillow furniture collection, showcasing the extraordinary work of Lancaster's most famous cabinetmakers.

@@ -9,6 +9,7 @@ latitude: 50.5195
 longitude: 1.5940
 sources:
   - https://en.wikipedia.org/wiki/Le_Touquet
+score: 5.9
 ---
 
 Pérard is the most famous restaurant in Le Touquet and has been for decades. It occupies a prominent position on the Rue Saint-Jean and is instantly recognisable by the shellfish and crustaceans displayed in the window and on ice outside. The menu is entirely seafood: whole sole meunière, skate with capers, moules marinières, and platters of oysters and langoustines from the local boats.

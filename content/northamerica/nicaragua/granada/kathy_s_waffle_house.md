@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 11.9302
 longitude: -85.9558
+score: 4.7
 ---
 
 Kathy's Waffle House is a long-standing Granada institution that serves exactly what the name suggests — American-style breakfasts — along with sandwiches, salads, and reliable coffee. It is where most travellers end up at least once, particularly for the morning meal before heading out to the lake or volcano.

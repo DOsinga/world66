@@ -8,6 +8,7 @@ tags:
   - bar
   - nightclub
 snippet: "Riverside super-club a short ride from Candolim for serious late-night dancing."
+score: 6.2
 ---
 
 LPK — short for Love Passion Karma — is the big riverside club at Nerul, about ten minutes inland from Candolim. The building is unmissable, a series of clay-sculpted human forms looming over the water. Inside, multiple dance floors, a long terrace over the Nerul River, and a serious sound system make this one of North Goa's premier nightlife venues.

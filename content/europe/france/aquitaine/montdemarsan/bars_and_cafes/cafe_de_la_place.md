@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.8914
 longitude: -0.5018
+score: 5.4
 ---
 
 A straightforward town-square café with a wide terrace looking onto the central place. The coffee is good, the croissants arrive fresh in the morning, and by mid-afternoon the terrace is the preferred spot for watching the town go about its business. In the evening it functions as a bar, with a short selection of local beers and Gascon wine by the glass.

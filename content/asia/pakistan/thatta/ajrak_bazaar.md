@@ -8,6 +8,7 @@ tags:
 latitude: 24.7468
 longitude: 67.9291
 snippet: "The local market for ajrak — the indigo block-printed cloth that is Sindh's defining textile."
+score: 6.6
 ---
 
 Ajrak is Sindh's most distinctive textile tradition: a hand-block-printed cloth produced in deep indigo, red, and black, with geometric patterns that have been characteristic of Sindhi culture for at least 4,000 years (ajrak-like patterns appear on artefacts from the Indus Valley Civilisation). The cloth is used as shawls, turbans, and wrapping cloth and carries profound cultural significance — receiving an ajrak is a gesture of welcome and respect.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 6.8
 ---
 
 Italy built a chain of forts across the Fezzan in the 1930s as it extended military control over the deep south of its Libyan colony. The fort at Al Qatrun marks the southern extreme of that effort — beyond here the desert became too empty and the distances too vast for conventional garrison administration to function. The Italians held Al Qatrun, watched the trade routes, and went no further south in any organised sense.

@@ -13,6 +13,7 @@ story: >
   his remaining years insisting that South America should stop looking to Europe for cultural 
   direction and develop its own modernist tradition from within. He drew a map of South America 
   upside down to make the point.
+score: 8.5
 ---
 
 The Museo Torres García in the Ciudad Vieja dedicates itself to Joaquín Torres García (1874–1949), the Uruguayan-born artist who developed a distinctive style blending geometric abstraction with pre-Columbian symbols and universal archetypes. His Constructivist paintings and wooden assemblages are unlike anything else in South American art of the period, and the museum does an excellent job of contextualising his work within 20th-century modernism.

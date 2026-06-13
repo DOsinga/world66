@@ -6,6 +6,7 @@ longitude: -122.0354
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 The 1889 wooden train depot at the south end of downtown is one of the oldest surviving railway stations in Washington State. It now houses a small museum focused on Issaquah's coal-mining, logging, and dairy past, with restored passenger cars on the tracks outside.

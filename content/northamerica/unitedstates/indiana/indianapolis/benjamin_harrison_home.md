@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.8
 ---
 
 The Italianate brick mansion of Indiana's only US president — Benjamin Harrison, the 23rd, who served from 1889 to 1893. The 16-room home on North Delaware Street is preserved with most of the original furnishings, including Harrison's books, his first lady Caroline's hand-painted china, and the desk on which he wrote his inaugural address.

@@ -18,6 +18,7 @@ story: >
   promenade, their carved wooden fretwork unchanged.
 sources:
   - https://en.wikipedia.org/wiki/Narva-J%C3%B5esuu
+score: 7.3
 ---
 
 The grandest reminder of Narva-Jõesuu's Belle Époque heyday is the string of ornate wooden villas that line the promenade and side streets nearest the beach. Built by well-to-do summer visitors from St Petersburg in the late 19th and early 20th centuries, the houses show the elaborate carved wooden decoration typical of the era — gabled rooflines, fretwork balconies, and decorative shutters, all in various stages of restoration and dignified decline.

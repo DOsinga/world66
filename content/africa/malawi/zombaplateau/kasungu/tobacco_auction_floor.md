@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -12.9921
 longitude: 33.4725
+score: 6.9
 ---
 
 Tobacco is Malawi's main export, and the Kasungu auction floor is one of the country's busiest. During the season — roughly April to September — the warehouses fill with bales of dried burley leaf, and the auctioneers' chant moves down the rows at extraordinary speed. The whole town gets busier and the roads thicken with trucks coming in from surrounding farms.

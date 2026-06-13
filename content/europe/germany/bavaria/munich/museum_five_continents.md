@@ -8,6 +8,7 @@ tags:
 latitude: 48.1376
 longitude: 11.5857
 story: "The museum's ethnographic collection was assembled largely through colonial-era acquisition, which the current management acknowledges with unusual directness. Several repatriation processes are ongoing; the displays now include substantial context about how the objects arrived in Munich. It's one of the more honest large ethnographic museums in Germany."
+score: 8.0
 ---
 
 An ethnographic museum on Maximilianstraße with collections from Africa, the Americas, Asia, Australia and the Pacific, and the Islamic world — covering over 160,000 objects accumulated from the 16th century onward. The permanent displays are thoughtfully presented with attention to colonial context.

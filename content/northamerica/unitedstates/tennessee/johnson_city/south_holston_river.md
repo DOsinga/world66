@@ -8,6 +8,7 @@ latitude: 36.5167
 longitude: -82.0667
 story: >
   The South Holston is a tailwater fishery — fed by cold water released from the bottom of South Holston Dam — which maintains a temperature of around 50°F year-round. This allows brown trout to grow to exceptional sizes; fish over 20 inches are not unusual, and the river regularly produces trophy catches that bring fly fishers from across the eastern United States.
+score: 8.2
 ---
 
 The South Holston River below South Holston Dam is considered one of the finest tailwater trout streams in the Southeast and one of the top wild-trout fisheries in the United States. The cold, clear, nutrient-rich water supports dense populations of brown and rainbow trout, and the relatively low fishing pressure (compared to famous streams further north) means good sport for visiting anglers.

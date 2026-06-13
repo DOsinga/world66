@@ -9,6 +9,7 @@ tags:
   - ruins
   - archaeology
 story: "Penjikent was sacked and burned by the Umayyad general Qutayba ibn Muslim around 722 CE during the Arab conquest of Central Asia, after the Sogdian ruler Devashtich was captured trying to flee to the mountain fortress of Mug. The fire that destroyed the city also baked and preserved the mud-brick walls and their painted plaster — which is why such a complete picture of Sogdian art and life has survived from a culture that disappeared so abruptly."
+score: 9.1
 ---
 
 The ruined Sogdian city — "old Panjakent" — sits on a low plateau about two kilometres south-east of the modern town, on the right bank of the Zeravshan. Soviet archaeologists from the Hermitage in Leningrad started systematic excavation here in 1946 and have continued every summer since. The site has yielded over five thousand square metres of brilliant mural paintings, hundreds of carved wooden statues and reliefs, and the documents that proved the Sogdians spoke a Middle Iranian language.

@@ -9,6 +9,7 @@ latitude: 20.7300
 longitude: -156.5000
 snippet: "Humpback whales breed in Maui's waters December through May — outstanding viewing"
 story: "The Au Au Channel between Maui, Lānaʻi, and Molokaʻi is the primary humpback breeding ground in Hawaii. At peak season in February and March, researchers estimate 10,000 whales pass through Hawaiian waters — about two-thirds of the entire North Pacific population."
+score: 8.3
 ---
 
 The shallow warm waters between Maui, Lānaʻi, and Molokaʻi form the Hawaiian Islands Humpback Whale National Marine Sanctuary, and from December through May this is one of the best places on earth to watch humpback whales. At peak season, breaching, spy-hopping, and tail-slapping whales are visible from shore along the south Maui coast; on a boat you get close enough to hear them.

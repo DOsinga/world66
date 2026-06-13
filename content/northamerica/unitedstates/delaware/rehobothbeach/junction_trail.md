@@ -8,6 +8,7 @@ latitude: 38.7339
 longitude: -75.1117
 sources:
   - https://en.wikipedia.org/wiki/Junction_and_Breakwater_Trail
+score: 8.0
 ---
 
 The Junction and Breakwater Trail is a six-mile rail trail that runs from Rehoboth Beach to Lewes through Cape Henlopen State Park. Built on the former right-of-way of the Rehoboth Beach and Lewes Railway, it offers a flat, paved route through coastal forest and dune habitat that is ideal for cycling, walking, and rollerblading.

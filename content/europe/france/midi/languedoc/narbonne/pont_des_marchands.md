@@ -13,6 +13,7 @@ story: >
   with buildings built on top of them. The practice was common in medieval towns
   where bridge tolls made the location commercially attractive. In Narbonne, the
   bridge's shops and houses have been continuously occupied since the 13th century.
+score: 6.9
 ---
 
 The Pont des Marchands (Bridge of Merchants) crosses the Canal de la Robine at the most atmospheric point in the old town. Unlike most old bridges, this one has buildings on it — shops and houses that have stood since the Middle Ages, making it one of a very small number of inhabited bridges remaining in France. The bridge connects the market district on one bank to the cathedral quarter on the other.

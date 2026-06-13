@@ -5,6 +5,7 @@ tags: [things_to_do, sight, outdoor]
 latitude: 30.2222
 longitude: 78.7708
 story: The Alaknanda is one of the two headstreams of the Ganges, rising at the Satopanth glacier above Badrinath and flowing through Srinagar Garhwal before joining the Bhagirathi at Devprayag to form the main Ganges. Srinagar sits on a wide, comparatively calm stretch of the river that supports rafting operations in addition to the usual riverside bathing ghats used by pilgrims and locals.
+score: 7.4
 ---
 
 The Alaknanda River forms the southern edge of Srinagar Garhwal and is central to the town's identity as both a pilgrimage stop and an outdoor-activity base. The river ghats below the main town are used for morning and evening rituals by pilgrims heading to and from Badrinath, and the atmosphere during peak season — with camp fires, chanting, and the river rushing below — is a concentrated version of the broader Char Dham experience.

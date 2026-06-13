@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - barbecue
+score: 8.0
 ---
 
 Payne's Bar-B-Q on Lamar Avenue is the kind of place that serious barbecue pilgrims make a special trip to Memphis to visit. The building is a converted gas station with minimal seating, the menu is short, and the operation is cash only. There is no atmosphere to speak of, unless you count the smell of smoke that hits you before you open the door. None of that matters because the chopped pork shoulder sandwich is the reason to be here, and it is extraordinary — meat chopped fine and mixed with a thin, tangy sauce, piled on a white bun with coleslaw mixed in.

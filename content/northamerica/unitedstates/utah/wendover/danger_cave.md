@@ -7,6 +7,7 @@ tags:
   - history
 title: Danger Cave
 type: poi
+score: 7.8
 ---
 
 Danger Cave is one of North America's most important archaeological sites, a small cavern in a limestone ridge northeast of Wendover that was formed by the waves of Lake Bonneville during the last Ice Age. Excavations beginning in the 1950s uncovered layers of human occupation spanning 12,000 years, from roughly 10,000 BCE into historic times. The artefacts — basketry, leather, tools, and plant material — established what archaeologists call the Desert Culture, a way of life adapted to the Great Basin environment that persisted remarkably unchanged for millennia.

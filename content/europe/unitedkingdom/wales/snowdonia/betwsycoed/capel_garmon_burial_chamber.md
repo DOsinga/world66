@@ -10,6 +10,7 @@ tags:
   - prehistoric
   - history
 story: "The tomb was rediscovered in 1854 by a farmer clearing his field. He found the inner chambers had been used as a stable — the polished floors and curved walls had made an excellent shelter for sheep for a couple of centuries. The reused capstones were too large to move."
+score: 7.5
 ---
 
 A signposted footpath climbs from the village of Capel Garmon to a Neolithic chambered tomb dating from around 3,500 BC. Three internal chambers and a passage survive under the remains of a long, kidney-shaped cairn. One of the massive capstones is still in place; another has slipped.

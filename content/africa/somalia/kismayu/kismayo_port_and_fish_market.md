@@ -9,6 +9,7 @@ latitude: -0.3560
 longitude: 42.5470
 story: >
   Kismayo's port was improved in the 1960s with U.S. aid, primarily to handle the banana export trade from the fertile Jubba valley. The banana plantations that once supplied European markets were largely destroyed during the civil war, but the port has partially recovered as the city stabilised under Jubaland administration. Fishing boats still work the Indian Ocean off the coast.
+score: 7.4
 ---
 
 Kismayo's port is the city's economic engine and, along the waterfront, the fish market is one of the most animated places in town. The Indian Ocean here is rich, and catches of tuna, kingfish, and sea bass are sold daily from the dockside. The market gives a vivid snapshot of a city trying to rebuild its commercial life despite everything — a messy, loud, working waterfront that feels genuinely alive.

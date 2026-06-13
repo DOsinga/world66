@@ -9,6 +9,7 @@ tags:
 - church
 title: St. Raymond of Peñafort Church
 type: poi
+score: 6.1
 ---
 
 The parish church of Mangatarem stands on the south side of the public plaza, as Spanish colonial churches throughout the Philippines were designed to do. Built of stone in the traditional manner, it's one of the town's most visible landmarks and the anchor of community life here. The church is dedicated to St. Raymond of Peñafort, the 13th-century Catalan Dominican who became patron of lawyers and canonists. Worth a look for the architecture and the cool interior on a hot afternoon.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 46.8039
 longitude: 7.1590
+score: 8.7
 ---
 
 The Basse-Ville is the older and more atmospheric half of Fribourg, tucked into the loop of the Sarine river below the cathedral plateau. The streets here are narrow, the houses tall and close together, and the whole quarter has a medieval density that the upper town lacks. It is also considerably quieter — tourists and most of the city's commerce cluster around the cathedral, leaving the lower town to its residents.

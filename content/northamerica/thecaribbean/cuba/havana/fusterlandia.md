@@ -15,6 +15,7 @@ story: >
   and says he will continue until he runs out of ceramic tiles or dies,
   whichever comes first. He is in his eighties and shows no sign of stopping
   either.
+score: 7.4
 ---
 
 Fusterlandia is the neighbourhood art project of José Fuster — a Cuban artist who has spent forty years covering his house, studio, and the surrounding street in the Jaimanitas fishing village (on Havana's western coast) with ceramic mosaic tile murals. The result is a psychedelic environment of unprecedented scope: fish, suns, faces, political symbols, and Cubist forms covering every surface of a dozen houses and their walls, gates, steps, and gardens.

@@ -15,6 +15,7 @@ story: >
   to the earthquake, designed to give people room to escape collapsing buildings.
   Four satellite plazas were laid out around it, one on each side, connected by
   the wide avenues that give central Mendoza its airy, spacious feel.
+score: 6.5
 ---
 
 Plaza Independencia is the geographic and social heart of Mendoza, a broad square ringed by sycamores and surrounded on all sides by the avenues from which the city's street grid radiates. Four smaller plazas — Chile, España, Italia, and San Martín — sit two blocks out in each direction, each with its own character and design. Together they form a system of outdoor spaces that makes central Mendoza feel remarkably generous in its provision of shade and seating.

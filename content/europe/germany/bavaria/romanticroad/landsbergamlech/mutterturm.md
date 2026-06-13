@@ -10,6 +10,7 @@ tags:
 - museum
 title: Mutterturm
 type: poi
+score: 7.4
 ---
 
 Sitting above the Lech just west of the old town is a four-storey ivy-covered tower of stone and timber that looks lifted out of the English Cotswolds — because that is more or less where it came from. The painter Hubert von Herkomer, born in Bavaria but raised in England, built it in 1884 as a present for his mother, modeled on the English manorial towers he had been painting. He used it as a studio and home until his death in 1914.

@@ -9,6 +9,7 @@ story: >
   Zhaoling is the tomb of Hong Taiji (Huang Taiji), the Qing emperor who transformed a northeast Chinese confederation into an empire that would rule China for over 250 years. He died in 1643, one year before his armies swept south to take Beijing — he never ruled the empire he created.
 title: Zhaoling Tomb (North Tomb)
 type: poi
+score: 8.3
 ---
 
 Zhaoling, known as the North Tomb, is the mausoleum of Huang Taiji, the second Qing emperor, and his empress. Together with Fuling (the East Tomb), it forms part of the UNESCO World Heritage listing that covers the imperial Qing tombs in and around Shenyang. The complex is set within Beiling Park, an extensive urban green space in the northern part of the city, making it both a historical site and a popular place for local residents to exercise, fly kites, and stroll.

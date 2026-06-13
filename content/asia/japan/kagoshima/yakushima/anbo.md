@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3208
 longitude: 130.6500
+score: 6.4
 ---
 
 Anbo is the second largest settlement on Yakushima, on the east coast roughly opposite Miyanoura. It was formerly the centre of the island's forestry industry — before the UNESCO designation, much of Yakushima's ancient cedar was logged, and Anbo was the administrative hub of that trade. The Yakusugi Museum here commemorates both the forest and the logging era, with exhibits on the ancient trees and the complex history of their exploitation.

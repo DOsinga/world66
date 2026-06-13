@@ -9,6 +9,7 @@ latitude: 4.3669
 longitude: -7.7167
 story: >
   Harper was the capital of a fully independent country for over two decades. The Republic of Maryland was established in 1834, achieved formal independence in 1854, and was only absorbed into Liberia in 1857 — making it one of the few places in West Africa with a history as a Black republic predating the colonial carve-up.
+score: 8.3
 ---
 
 The old town of Harper preserves — or rather shows the ruins of — a distinctive architectural tradition brought by the Americo-Liberian settlers who came from the American South in the nineteenth century. The houses, churches, and public buildings were built in a style that echoed plantation architecture, creating neighbourhoods that once looked more like coastal Georgia than West Africa. The civil wars of the 1990s destroyed much of this fabric, and rebuilding has been slow.

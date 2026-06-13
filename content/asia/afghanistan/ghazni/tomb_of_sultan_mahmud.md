@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: Marble cenotaph of the great Ghaznavid sultan at Rauza
 story: "Sultan Mahmud of Ghazni (971–1030) launched seventeen raids into northern India, returning each time loaded with gold, ivory, and captive scholars who became the basis of his celebrated court. The British looted the sandalwood gates of his tomb in 1842, mistakenly believing they had been taken from the Hindu temple at Somnath — they are still in Agra Fort."
+score: 5.3
 ---
 
 Three kilometres north of Ghazni at the village of **Rauza** stands the tomb of **Sultan Mahmud**, the most powerful ruler of the Ghaznavid Empire and the man who turned Ghazni from a frontier garrison into one of the cultural capitals of the Islamic world. The original mausoleum was built shortly after his death in 1030; the current low-domed structure incorporates surviving 11th-century carved marble panels and a famous inscribed cenotaph.

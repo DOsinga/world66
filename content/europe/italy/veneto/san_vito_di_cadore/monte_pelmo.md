@@ -15,6 +15,7 @@ story: >
   alpinism.
 sources:
   - https://en.wikipedia.org/wiki/Monte_Pelmo
+score: 8.8
 ---
 
 Monte Pelmo stands at 3,168 metres to the southwest of San Vito, visible from the valley as a great isolated massif — a vast, level-topped plateau of pale dolomite cut by vertical walls on all sides. It was formed as a single reef in a tropical sea around 230 million years ago, and its distinctive table-like profile distinguishes it immediately from the spiky ridges of surrounding peaks. Many Dolomites regulars consider it the most beautiful mountain in the range.

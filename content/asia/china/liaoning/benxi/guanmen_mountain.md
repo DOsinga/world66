@@ -8,6 +8,7 @@ latitude: 41.3500
 longitude: 123.8500
 story: >
   Guanmen Mountain draws more visitors for its autumn foliage than for any other reason, but the name means "Gate Mountain" — the two peaks that flank the entrance to the valley supposedly resemble gate posts. The maple forest that fills the valley between them turns vivid red and orange each October, and the photographs that result look impossibly saturated. Photographers from across northeastern China know this valley.
+score: 7.3
 ---
 
 Guanmen Mountain National Forest Park is Benxi's closest mountain destination and the most visited during autumn. The valley landscape — forested hillsides of mixed maple and oak with granite ridges above — produces autumn foliage that draws visitors from across the northeast. The peak season is October, when the maples turn red and orange and the whole valley lights up on clear days.

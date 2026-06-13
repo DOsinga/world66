@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.6250
 longitude: 119.8200
+score: 6.7
 ---
 
 The terraced tea gardens on the lower slopes of Moganshan produce a variety called *moganhuangya* — Moganshan yellow bud — a lightly processed tea with a delicate, slightly sweet character that sits between green and yellow tea in style. The harvest happens in the weeks around Qingming (early April), when the new season's growth first appears, and the best-quality leaves are picked as single buds before they fully open.

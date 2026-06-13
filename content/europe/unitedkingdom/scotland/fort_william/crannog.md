@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.6
 ---
 
 The Crannog sits on the town pier in a striking red-painted former bait shed, with windows on three sides looking onto Loch Linnhe and the Ardgour hills opposite. It has been serving the best seafood in Fort William for thirty years and is essentially the only place in town the locals will recommend without qualification.

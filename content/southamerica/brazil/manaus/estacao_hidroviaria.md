@@ -7,6 +7,7 @@ tags:
 - centro
 latitude: -3.1395
 longitude: -60.0220
+score: 5.8
 ---
 
 The Estação Hidroviária is the gateway for passenger travel up and down the Amazon. The terminal sits next to the floating port at the foot of the centro and handles regular departures for Belém, Santarém, Tabatinga (on the Colombian and Peruvian border), Tefé, Parintins and a long list of smaller towns.

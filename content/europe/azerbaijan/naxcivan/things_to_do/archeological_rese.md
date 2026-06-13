@@ -7,6 +7,7 @@ tags:
 - sight
 title: Archaeological Sites
 type: poi
+score: 7.4
 ---
 
 Naxcivan is rich in archaeological sites spanning from the Paleolithic to the Middle Ages. Several are accessible to visitors, though facilities are minimal.

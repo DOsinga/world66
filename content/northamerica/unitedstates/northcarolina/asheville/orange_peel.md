@@ -6,6 +6,7 @@ longitude: -82.5511
 tags:
   - bars_and_cafes
   - bar
+score: 7.5
 ---
 
 The Orange Peel is the city's main mid-size music venue, a 1,050-capacity room a few blocks south of Pack Square on Biltmore Avenue. It books an unusual mix — indie rock, soul, country, hip hop, jam bands — and *Rolling Stone* once ranked it among the top five rock clubs in America.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.0
 ---
 
 Praia da Laginha is Mindelo's town beach — a short crescent of imported white sand on the western edge of the bay, a fifteen-minute walk along the seafront from the centre. The water is sheltered, shallow, and warm; the location, looking back across the harbour at the city and out at the silhouette of Santo Antao, is unusually pleasant for an urban beach.

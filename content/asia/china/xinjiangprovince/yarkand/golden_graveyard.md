@@ -8,6 +8,7 @@ latitude: 38.4280
 longitude: 77.2490
 story: >
   The Yarkand Khanate was, at its 16th-century height, the wealthiest state between Samarkand and Beijing. The khans who are buried in the Altun Mazar complex ruled an empire that controlled the jade trade, the silk route, and the passes through the Karakoram. Their tombs — modest domes of whitewashed mud brick — reflect a Sufi aesthetic of restraint that deliberately contrasts with the wealth they commanded in life.
+score: 7.7
 ---
 
 The Altun Mazar — Golden Graveyard — holds the mausoleums of the rulers of the Yarkand Khanate, the Uyghur state that controlled the southern Silk Road in the 16th and 17th centuries. The complex adjoins the Amanisahan mausoleum in the old city and contains a sequence of domed tombs in the Central Asian Islamic tradition, each covering the grave of a khan or a member of the royal family.

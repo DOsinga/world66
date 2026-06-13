@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Ibo was the capital of the Quirimbas until the 1930s and one of the most important Portuguese trading posts in East Africa. The bottom dropped out of the local economy when the colonial administration moved to Porto Amelia (modern Pemba), and the town has been quietly crumbling ever since."
+score: 9.1
 ---
 
 The old town is the experience of Ibo: a few hundred metres of dusty streets lined by long, low colonial mansions, most with shuttered windows and palm trees pushing through the courtyards. A few have been carefully restored as lodges and houses; most stand somewhere between elegant decay and complete ruin, and walking the streets at dawn or dusk is the central pleasure of a stay here.

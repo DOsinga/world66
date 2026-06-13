@@ -7,6 +7,7 @@ tags:
 latitude: 47.2333
 longitude: -124.2078
 snippet: A bluff-top resort with sweeping Pacific views, an indoor pool, and a well-regarded restaurant — the main facility in Moclips
+score: 5.8
 ---
 
 Ocean Crest Resort sits on the bluff above Moclips Beach with views stretching up and down the coast and out to the Pacific horizon. It's the most significant lodging and dining establishment in the immediate area and the best reason for non-camping visitors to stay in Moclips rather than in the more developed Ocean Shores to the south.

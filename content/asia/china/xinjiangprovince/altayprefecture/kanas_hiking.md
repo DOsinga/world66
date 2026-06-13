@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 48.7200
 longitude: 87.0500
+score: 9.0
 ---
 
 The Kanas Scenic Area offers some of the best walking in northwest China. A network of trails runs through old-growth forest above the lake, up to ridge viewpoints, and along tributary valleys where the only sounds are wind, water, and birds. The forest here is genuinely ancient — Siberian spruce, fir, and larch growing to considerable heights — and wildlife sightings are common: elk, roe deer, brown bears (treat with appropriate caution), and an abundance of birds including Eurasian eagle-owls.

@@ -12,6 +12,7 @@ story: >
   scenes. Sawantwadi's version, made by the local Chitari community, survived here
   long after the tradition died out elsewhere, largely because of royal patronage.
   Today fewer than two dozen families still practise the craft.
+score: 8.2
 ---
 
 Sawantwadi is one of the very few places in India where the ancient tradition of ganjifa — hand-painted circular playing cards — is still practised by living artisans. The cards are made by the Chitari community, who live and work in the narrow lanes behind the Raj Wada palace. Each card is built from multiple layers of old cloth glued together with tamarind paste, then coated with khadi (chalk) before being hand-painted with natural pigments using fine squirrel-hair brushes.

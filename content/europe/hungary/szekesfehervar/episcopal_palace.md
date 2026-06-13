@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 47.1900
 longitude: 18.4112
+score: 6.4
 ---
 
 The Episcopal Palace (Püspöki palota) sits on the south side of Városház tér, a long two-storey Zopf-style building from the late 18th century. The Zopf style is a late-baroque, early-classical transitional manner peculiar to central Europe, restrained and symmetrical with garlands and urn motifs above the windows.

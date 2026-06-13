@@ -7,6 +7,7 @@ snippet: A late-night cellar bar that has been a Cluj fixture for over a decade
 tags:
 - bars_and_cafes
 - bar
+score: 6.7
 ---
 
 Insomnia, in a cellar just off Piața Unirii, is the kind of long-standing local bar that has outlasted every passing trend. Brick vaults, low lighting, a long bar with cheap drinks, and a soundtrack that drifts between rock, jazz, and electronica depending on the night.

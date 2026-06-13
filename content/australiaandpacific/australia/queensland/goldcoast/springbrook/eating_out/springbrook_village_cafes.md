@@ -1,6 +1,7 @@
 ---
 title: "Springbrook Village Cafes"
 type: poi
+score: 4.7
 ---
 
 The small cluster of cafes around Springbrook village is the social hub of the plateau. There are only a handful of places, strung along the main road, but they do the essentials well: strong coffee, fresh juices, cooked breakfasts, and lunches built around seasonal local produce. Avocados grown on the plateau appear in everything from smashed-avo toast to salads.

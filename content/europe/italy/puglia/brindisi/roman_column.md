@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Brindisi
 story: >
   For centuries there was a twin column standing alongside this one, but it collapsed in 1528. The fallen capital was carted off to Lecce, where it was mounted on a statue of Sant'Oronzo in the main piazza — where it still stands today. Brindisi's column has been waiting two thousand years for its partner to come back.
+score: 8.6
 ---
 
 The Roman column at the top of a broad staircase descending to the harbour is Brindisi's most recognisable landmark and one of the most significant Roman monuments in the south of Italy. It marked the terminus of the Via Appia — the great road that ran 540 km from Rome to the sea — and for centuries served as both a navigational beacon for ships entering the harbour and a symbolic gateway for travellers departing the empire's capital for the east.

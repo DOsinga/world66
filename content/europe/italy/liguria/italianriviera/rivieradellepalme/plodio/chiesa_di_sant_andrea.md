@@ -8,6 +8,7 @@ tags:
   - church
 title: Chiesa di Sant'Andrea
 type: poi
+score: 6.5
 ---
 
 The parish church of Sant'Andrea stands at the centre of Plodio village, its 18th-century façade concealing an older baroque core from the 16th century. When the church was rebuilt and enlarged in the 1700s, the original carved central portal and the decorated pilasters of the earlier structure were incorporated into the new design rather than demolished. The result is an unusual architectural layering that rewards close examination of the façade details.

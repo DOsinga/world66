@@ -8,6 +8,7 @@ tags:
   - wildlife
   - sight
 snippet: Wild reed-fringed coast with excellent spring and autumn birdwatching
+score: 7.8
 ---
 
 The coastline of Noarootsi is the parish's finest natural asset — a long, low-lying shoreline of reed beds, juniper meadows, and shallow bays that in spring and autumn become important staging areas for migrating birds. Thousands of waders, ducks, and geese pass through, and the area around the Võõla Sea (a shallow inlet) and Karjatse Sea sees good numbers of barnacle geese, whooper swans, and various terns. Twitchers should come in May or September for the best variety.

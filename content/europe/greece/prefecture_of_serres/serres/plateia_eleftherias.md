@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The central square of Serres, the heart of the city's daily life
+score: 5.7
 ---
 
 Plateia Eleftherias -- Liberty Square -- is the centre of modern Serres, a large open space lined with cafes, a couple of fountains, and the town hall on its north side. It was laid out as part of the comprehensive replanning of the city after the 1913 fire, replacing a tangle of Ottoman-era streets.

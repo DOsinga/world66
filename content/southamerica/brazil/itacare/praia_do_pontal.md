@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -14.2792
 longitude: -39.0033
+score: 6.9
 ---
 
 The point of sand at the mouth of the Rio de Contas, across the river from the town centre. Reached by a five-minute crossing on one of the small ferry boats that line the Praia da Ribeira waterfront. The river mouth opens into a calm lagoon that is wonderful for kayaks and stand-up paddleboards, with the open Atlantic just beyond a final spit of sand.

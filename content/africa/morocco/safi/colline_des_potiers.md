@@ -13,6 +13,7 @@ story: >
   Safi potters developed their own school of geometric decoration, distinct from
   the Fassi and Marrakchi styles, and their work was exported by Portuguese
   merchants across the Atlantic to Brazil and the Caribbean.
+score: 8.8
 ---
 
 The Colline des Potiers — Pottery Hill — is Safi's most distinctive neighbourhood, an entire hillside of kilns, workshops, showrooms, and potters' homes stretching north of the medina. The smoke rising from the wood-fired kilns and the smell of glazing chemicals in the air are unmistakeable.

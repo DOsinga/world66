@@ -1,6 +1,7 @@
 ---
 title: "Limpopo National Park"
 type: poi
+score: 8.3
 ---
 
 Parque Nacional do Limpopo is Mozambique's contribution to the Great Limpopo Transfrontier Park, a vast cross-border conservation area linking it with South Africa's Kruger National Park and Zimbabwe's Gonarezhou. The two parks share an open wildlife corridor — fences were removed between Limpopo NP and Kruger in the early 2000s — allowing animals to move freely across the border as they would have done for millennia. The result is one of the largest protected areas in Africa, covering around 35,000 square kilometres.

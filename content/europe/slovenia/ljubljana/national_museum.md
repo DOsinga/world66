@@ -8,6 +8,7 @@ latitude: 46.0502
 longitude: 14.4981
 sources:
   - https://en.wikipedia.org/wiki/National_Museum_of_Slovenia
+score: 7.7
 ---
 
 The National Museum, in a large neoclassical building near the western end of Congress Square, holds Slovenia's principal archaeological, natural history, and applied arts collections. The prehistoric section is the strongest, including finds from the Vače situla — an elaborately decorated Iron Age bronze bucket from the fifth century BC that is one of the most important Celtic-period artefacts found in Central Europe.

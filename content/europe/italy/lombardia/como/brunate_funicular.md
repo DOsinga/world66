@@ -10,6 +10,7 @@ snippet: Seven-minute funicular to a hilltop village with panoramic lake views
 story: The funicular opened in 1894 and rises 494 metres in just over seven minutes.
   On clear days, the view from Brunate takes in the full length of Lake Como and the
   Alps beyond — on exceptional days, you can see as far as the Matterhorn.
+score: 7.8
 ---
 
 The lower station is on the lakefront promenade, a short walk from the centre. The upper station deposits you in Brunate, a small hilltop village perched above the lake with views extending across Como and far into the Alps. The funicular runs about every 30 minutes throughout the day, more frequently in summer.

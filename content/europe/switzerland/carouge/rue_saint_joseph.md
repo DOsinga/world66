@@ -9,6 +9,7 @@ latitude: 46.1837
 longitude: 6.1318
 sources:
   - https://en.wikipedia.org/wiki/Carouge
+score: 8.2
 ---
 
 The main artery of Carouge's historic centre, lined with low arcaded buildings that give the street an unmistakably Italian feel. The arcades — a standard feature of the 18th-century Sardinian grid plan — shelter independent boutiques, artisan workshops, a few wine bars, and small restaurants. Walking its full length takes ten minutes; spending an afternoon here takes much longer.

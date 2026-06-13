@@ -9,6 +9,7 @@ longitude: 13.0846
 snippet: "Germany's most-visited maritime museum, in a beautifully converted Dominican monastery"
 sources:
   - https://en.wikipedia.org/wiki/German_Maritime_Museum
+score: 8.6
 ---
 
 The German Maritime Museum occupies the former Katharinenkloster, a 13th-century Dominican monastery, and is the most visited museum in the state of Mecklenburg-Vorpommern. The collection covers Baltic Sea natural history, the history of German seafaring, and oceanography — but the setting is as impressive as the content. The Gothic monastery church and cloister are spectacularly restored, with aquarium tanks and ships' instruments filling the medieval spaces.

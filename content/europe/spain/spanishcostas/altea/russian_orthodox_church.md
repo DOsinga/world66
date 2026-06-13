@@ -13,6 +13,7 @@ story: >
   became Patriarch of Moscow. Everything from the carved iconostasis to the
   timber walls was shipped from the Ural Mountains and assembled by Russian
   craftsmen — making it an architectural import as much as a spiritual one.
+score: 7.6
 ---
 
 Built in the style of a 17th-century Russian wooden church, the Iglesia Ortodoxa Rusa de San Miguel Arcángel sits in the Altea Hills urbanization a few kilometres north of the old town. It was the first Russian Orthodox church purpose-built in Spain, and every visible element — the painted icons, the carved wooden screen, the onion dome — was made in Russia and transported here.

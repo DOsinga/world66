@@ -12,6 +12,7 @@ story: >
   to the Danish king — one of the few instances in European history of a occupied people voluntarily
   choosing their own reintegration. The uprising was organised partly from Hammershus. Sweden got
   the island back briefly in a later treaty, but Denmark soon traded other territory to recover it.
+score: 9.5
 ---
 
 Hammershus is the largest medieval fortress complex in Scandinavia — a sprawling ruin of towers, walls, and baileys spread across a granite headland above the sea. It was built in the thirteenth century by the Archbishop of Lund and served as a military stronghold, a prison, and a centre of administration for Bornholm for four centuries.

@@ -9,6 +9,7 @@ tags:
   - nature
   - hiking
 snippet: Chain of glacial tarns high above Bohinj, classic two-day trek
+score: 9.0
 ---
 
 The Seven Lakes Valley (Dolina sedmerih jezer) is a chain of glacial tarns strung along a high karst valley between 1,300 and 1,990 metres, north-west of Lake Bohinj inside the heart of Triglav National Park. It is one of the most famous walks in Slovenia and a classic two-day trek with an overnight at the Triglav Lakes Hut.

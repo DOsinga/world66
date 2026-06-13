@@ -7,6 +7,7 @@ tags:
 - museum
 title: Republican Palace Museum
 type: poi
+score: 6.7
 ---
 
 The Republican Palace Museum sits in a former Anglican church just beside the palace it shares its name with. The cathedral was deconsecrated in the 1970s and converted into a museum dedicated to the country's heads of state and the history of the palace itself. The collection includes ceremonial regalia, gifts of state from visiting dignitaries, official cars, and photographs of every Sudanese leader since independence in 1956.

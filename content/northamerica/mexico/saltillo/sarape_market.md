@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 25.4225
 longitude: -100.9985
+score: 7.2
 ---
 
 The Sarape de Saltillo — a brightly striped blanket woven from wool — is one of the most recognisable craft products in Mexico, and Saltillo is where it originated. The distinctive geometric designs, radiating outward from a central diamond, were so influential that they spread across Latin America and into the American Southwest. You can find sarapes for sale throughout the city centre, but the Mercado Juárez, a couple of blocks from the Plaza de Armas, is the most concentrated place to look.

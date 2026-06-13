@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.3
 ---
 
 Bolshaya Pokrovskaya is the main pedestrian street of Nizhny Novgorod's Upper Town — a long, slightly curved boulevard lined with 19th-century merchant mansions, theatres, and a constant flow of locals and visitors. The street runs south from the Kremlin through the heart of the old city and is the natural place to orient yourself when you first arrive.

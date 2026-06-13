@@ -8,6 +8,7 @@ story: >
   The shrine at Toli Pir's summit is dedicated to a Sufi saint, and the mountain has been a place of pilgrimage
   for centuries. Local belief holds that the saint's spiritual energy inhabits the high meadows, which may explain
   why the summit feels unusually peaceful even when it is busy with picnickers on summer weekends.
+score: 8.7
 ---
 
 Toli Pir summit sits at around 3,000 metres above sea level, reached by a winding mountain road from Rawalakot that takes about 45 minutes each way. At the top, the treeline gives way to open alpine meadows that in summer are blanketed with wildflowers. The views on a clear day are exceptional — range after range of green and forested hills fading toward the Line of Control, with glimpses of higher, snow-dusted peaks further north.

@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 69.9669
 longitude: 23.2716
+score: 8.5
 ---
 
 Alta is one of the best places in Norway to go dog sledding — the open plateau of Finnmark stretches for hundreds of kilometres in every direction, the terrain is ideal, and the operators based here have access to wilderness that most places can't offer. Trips range from two-hour introductory runs to multi-day expeditions across the plateau with overnight stays in remote cabins.

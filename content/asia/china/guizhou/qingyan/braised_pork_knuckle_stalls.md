@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.3748
 longitude: 106.6580
+score: 6.8
 ---
 
 The braised pork knuckle (猪蹄, zhūtí) sold along Qingyan's main street is the town's most recognisable food — slow-cooked in soy sauce, rice wine, star anise, and a mix of spices until the meat falls from the bone and the skin becomes gelatinous and dark. The whole knuckles sit in the cooking liquid in clay pots visible through every other shopfront window on the main street; you point at one, pay, and eat from a paper bag or a styrofoam container as you walk.

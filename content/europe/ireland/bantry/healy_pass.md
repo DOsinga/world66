@@ -5,6 +5,7 @@ tags: [things_to_do, sight, scenic_drive]
 latitude: 51.7847
 longitude: -9.7569
 story: "The pass was built as a famine-relief project in the late 1840s but only completed in 1931 after Tim Healy, the first Governor-General of the Irish Free State and a Bantry man, pushed for the road to be finished as a memorial to his home county."
+score: 8.3
 ---
 
 The R574 climbs out of Adrigole on the south side of the Beara Peninsula, snakes through twelve hairpin bends to a saddle at three hundred metres, and drops down the north side to Lauragh on the Kenmare River. It is one of the most dramatic short drives in Ireland, with views east across the head of Bantry Bay and west to the lakes and rock of the Caha mountains.

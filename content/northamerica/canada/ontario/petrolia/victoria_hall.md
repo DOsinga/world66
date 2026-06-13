@@ -8,6 +8,7 @@ tags:
 - sight
 title: Victoria Hall
 type: poi
+score: 7.8
 ---
 
 Victoria Hall is the architectural centrepiece of Petrolia: a tall, red-brick Victorian pile completed in 1889 to serve as town hall, council chamber, and opera house all under one roof. The clock tower is the tallest thing in town.

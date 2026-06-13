@@ -6,6 +6,7 @@ longitude: 13.4929
 tags:
   - things_to_do
   - museum
+score: 7.6
 ---
 
 The Museu Regional da Huíla in central Lubango is the best place to understand the plateau peoples who have inhabited this part of Angola for centuries. The collections cover the Muila, Mucubal, and Nyaneka-Humbe cultures — their craftsmanship, ceremonial objects, and ways of life — alongside natural history displays covering the ecology of the Huíla province. The Muila women in particular are known for their elaborate beadwork necklaces and ochre-covered hair, and the museum holds some fine examples.

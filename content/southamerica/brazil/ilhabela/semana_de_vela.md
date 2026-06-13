@@ -6,6 +6,7 @@ tags:
   - event
 latitude: -23.7796173
 longitude: -45.3559251
+score: 7.1
 ---
 
 The Semana Internacional de Vela de Ilhabela (SIVI) takes place every July and is the largest offshore sailing regatta in Latin America. The event typically runs for about ten days and draws several hundred boats from Brazil and abroad, competing in multiple classes across courses that loop around the offshore islands of Alcatrazes and Búzios. The races are run by the Yacht Club Ilhabela on the waterfront of the Vila quarter, and spectators can watch the fleet depart each morning from the shore.

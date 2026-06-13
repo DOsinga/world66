@@ -7,6 +7,7 @@ tags:
 latitude: -16.1700
 longitude: 145.4200
 story: "The Daintree Rainforest is roughly 180 million years old — about 100 million years older than the Amazon — and predates the dinosaurs. It contains more plant and animal species found nowhere else on Earth than any other forest in the world. Standing in it, you are in a forest type that has been continuous since the age of the ferns."
+score: 8.9
 ---
 
 The Daintree Rainforest begins at the Daintree River, about 30 km north of Port Douglas, and continues north to the coast. It is the oldest tropical rainforest on Earth and contains extraordinary biodiversity: 30 percent of Australia's frog species, 65 percent of its bat and butterfly species, and 20 percent of its bird species inhabit this relatively small area. The forest meets the reef at Cape Tribulation — the only place in the world where two UNESCO World Heritage areas directly adjoin.

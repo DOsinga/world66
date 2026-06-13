@@ -7,6 +7,7 @@ tags:
   - sight
 title: Walking in the Serrania de Ronda
 type: poi
+score: 8.2
 ---
 
 The countryside around Gaucin is among the best walking terrain in Andalucia, with the Serrania de Ronda offering a network of tracks through oak woodland, gorges, and open hillside. The Sierra Crestellina, just south of the village, provides a challenging half-day ascent with panoramic views from the summit.

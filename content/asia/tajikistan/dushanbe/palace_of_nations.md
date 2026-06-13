@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5761
 longitude: 68.7786
+score: 7.4
 ---
 
 The Palace of Nations (Qasri Millat) is the official residence and main ceremonial building of the President of Tajikistan, an imposing white marble complex at the end of Rudaki Avenue that dominates the cityscape. The building is closed to the public, but the exterior, with its monumental columns and the vast flagpole rising beside it, is one of the defining images of post-independence Dushanbe.

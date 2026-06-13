@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.3246
 longitude: 35.4680
+score: 8.0
 ---
 
 A modern museum at the site entrance, opened in 2019, that does the job the old site museum never quite managed. The collection is organised chronologically — from Neolithic flints at Beidha through Edomite, Nabataean and Roman material — and includes the best of the recent finds: column capitals from the Temple of the Winged Lions, painted plaster fragments, a hoard of bronze figurines.

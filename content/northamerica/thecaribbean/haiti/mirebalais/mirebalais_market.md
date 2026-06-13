@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 18.8333
 longitude: -72.1053
+score: 6.8
 ---
 
 Mirebalais has long served as a market town for the Central Plateau, drawing produce, animals, sugar products, and everyday goods from surrounding rural communities. It is dense, hot, and functional rather than picturesque.

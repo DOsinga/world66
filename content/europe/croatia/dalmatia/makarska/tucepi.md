@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tučepi
 type: poi
+score: 6.2
 ---
 
 Tučepi is the small resort village just south of Makarska, with a long beach, several large hotels, and a less hectic feel than its bigger neighbour. The old village of Podpeć on the slopes above is worth the climb for the view back across the coast, and a couple of small konobas (taverns) serve traditional Dalmatian food away from the seafront.

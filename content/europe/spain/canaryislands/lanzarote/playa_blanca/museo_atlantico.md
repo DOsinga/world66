@@ -11,6 +11,7 @@ story: >
   underwater sculpture garden in the Caribbean in 2006 after noticing that artificial reefs
   attract sea life more readily than natural ones. The Lanzarote installation opened in 2016
   and was the first of its kind in European waters.
+score: 7.8
 ---
 
 Museo Atlántico is the world's first underwater art museum in the Atlantic Ocean, lying on the seabed about 14 metres down in the bay off Playa Blanca. British sculptor Jason deCaires Taylor installed more than 300 concrete sculptures on the ocean floor, including a group of life-size human figures arranged in a circle, a cross-section of a passenger boat, and a series of busts. The sculptures are made from pH-neutral concrete and are designed to function as artificial reefs — within a few years of submersion they become colonised by marine life, the stone faces gradually covered in coral and encrusting algae.

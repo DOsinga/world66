@@ -6,6 +6,7 @@ tags:
   - restaurant
 title: Flavours Restaurant
 type: poi
+score: 6.3
 ---
 
 Flavours on Main Street is one of the most reliably good restaurants in Jinja, with a menu that covers Ugandan staples alongside grilled meats and Indian dishes reflecting the town's mixed culinary heritage. The matoke with groundnut sauce is worth ordering, and they do a good nyama choma (roast meat) in the evenings. Tables outside are pleasant when the temperature drops after dark.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.1051
 longitude: 9.7290
 story: "The photo of Manarola you've seen on a thousand desktop wallpapers — pastel houses stacked above a black-rock harbour, all at sunset — was almost certainly shot from this point. The village cemetery sits just behind: thirty paces from the world's most-photographed viewpoint to the resting place of its fishermen."
+score: 8.0
 ---
 
 The little headland west of the village, reached by a paved path up from the harbour past the cemetery. From the railing at the top you get *that* view of Manarola — the one on every postcard, every guidebook cover and every Italy-travel Instagram account: pastel houses stacked on dark rock, slipway funnelling down to a turquoise harbour, terraced vineyards above.

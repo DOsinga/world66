@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The Muradiye Mosque, built around 1435 for Sultan Murad II, is one of Edirne's lesser-visited but most satisfying monuments. Set slightly apart from the main cluster of Ottoman buildings, on a quieter street north of the Selimiye, it combines an unusual T-shaped floor plan — characteristic of early Anatolian Ottoman architecture — with some of the finest Iznik tiles in Edirne. The interior dome rests on elegant pendentives, and the walls below the tile zone are covered in painted arabesque designs in green and red that have survived in good condition.

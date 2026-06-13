@@ -15,6 +15,7 @@ story: >
   fish; the fishermen caught him eventually and chained him to the dock as a
   trophy. A statue of the chained pike still stands on the town quay, though
   the original statue is long gone and this is a 20th-century replacement.
+score: 8.2
 ---
 
 Mikołajki is the most charming town on the Mazurian Lakes: a small settlement on a narrow strait between two large lakes, its old town preserved from the German period, and its quay so packed with sailboats in summer that the masts create a forest above the waterfront. It is the social heart of Mazurian sailing — the place where boats from across the lake system converge for the weekend, and the bars and restaurants along the water fill accordingly.

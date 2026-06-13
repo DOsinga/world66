@@ -8,6 +8,7 @@ tags:
   - sight
   - unesco
 snippet: Sukhothai's sister city, 55 km north on the Yom River — quieter, smaller and almost as rewarding.
+score: 8.9
 ---
 
 Si Satchanalai was the second city of the Sukhothai kingdom, founded at the same time as the capital and governed by the king's eldest son. It sits on the Yom River about 55 km north of modern Sukhothai, on a low ridge with the river bending around it on three sides. Like the capital, it was abandoned when the Ayutthaya kingdom rose in the 14th century, and like the capital it has been carefully restored as a national historical park and inscribed on the UNESCO World Heritage list.

@@ -14,6 +14,7 @@ story: >
   to command the routes across this part of the Deccan. No army has disputed that
   command for centuries, and the site has been left largely as nature and neglect
   found it — which is a significant part of its appeal.
+score: 7.4
 ---
 
 Ramadugu Fort is the most prominent structure in the village and the reason most visitors make the detour from [Karimnagar](/asia/india/andhrapradesh/karimnagar). The fortification dates back several centuries and features massive stone walls rising around 30 metres above the surrounding landscape. Though partially ruined and unrestored, the fort retains an imposing presence and the stonework gives a good sense of the scale of the original construction.

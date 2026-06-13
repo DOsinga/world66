@@ -11,6 +11,7 @@ tags:
   - sight
 neighbourhood: Baixa
 story: The fort contains the tomb of the **Gungunhana**, the last king of the Gaza Empire, who led the resistance to Portuguese expansion in the 1890s. Captured in 1895, he was exiled to the Azores where he died in 1906; his remains were repatriated in 1985 and now lie in a small chamber on the fort's lower level — a national hero in the centre of his enemies' citadel.
+score: 8.3
 ---
 
 The **Fortaleza de Nossa Senhora da Conceição** is the oldest building in Maputo, a low square fort of dark stone walls built by the Portuguese in the 1780s on the site of an earlier wooden stockade. It is more interesting historically than aesthetically: the walls are squat, the courtyard small, and the guns on the bastions are decorative rather than impressive.

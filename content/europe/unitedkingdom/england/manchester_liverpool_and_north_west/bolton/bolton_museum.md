@@ -6,6 +6,7 @@ tags:
 - museum
 title: Bolton Museum and Art Gallery
 type: poi
+score: 8.2
 ---
 Bolton Museum and Art Gallery sits in the civic centre on Le Mans Crescent, a confident piece of inter-war architecture that signals the town's former prosperity. The museum covers natural history, local history, and fine art, but its most unexpected strength is Egyptology. The collection includes genuine mummies, canopic jars, shabtis, and a range of smaller artefacts accumulated over more than a century of donations and acquisitions. For a regional museum in a northern English mill town, the depth of the Egyptian holdings is remarkable.
 

@@ -8,6 +8,7 @@ latitude: 31.1350
 longitude: 102.8700
 story: >
   The valley's name — Double Bridge — comes from two stone bridges that crossed the river here before the boardwalk was installed. The bridges are still there, but the 32-kilometre route now runs alongside them rather than relying on them. On clear days the four peaks of Siguniang Mountain appear at the valley's head, all four visible simultaneously from a single viewpoint roughly halfway along the main boardwalk.
+score: 8.5
 ---
 
 Shuangqiao Valley is the most accessible and most visited of Siguniang's three valleys — a 32-kilometre boardwalk and paved road circuit served by a shuttle bus that runs the length of the valley floor, allowing visitors to ride in and walk out, or vice versa. The mountain views at the head of the valley, where the four peaks of Siguniang come into alignment, are the defining images of the park.

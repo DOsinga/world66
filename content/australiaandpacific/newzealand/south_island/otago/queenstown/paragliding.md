@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Tandem paragliding flights from Bob's Peak
+score: 7.5
 ---
 
 The launch site is on the Skyline complex above town: ride the gondola, walk five minutes to a green slope, sit on the lap of a pilot, and run downhill until the wing lifts you off. Flights last 10-15 minutes and end with a landing in the Queenstown Gardens or beside the lake. Two operators share the launch — G-Force and Coronet Peak Tandem — both with long safety records.

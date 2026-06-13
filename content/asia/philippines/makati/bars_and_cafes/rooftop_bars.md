@@ -1,6 +1,7 @@
 ---
 title: "Rooftop Bars"
 type: poi
+score: 6.5
 ---
 
 Makati has a concentration of rooftop bars at the top end of its hotel and residential towers that offer a very different experience from the street-level scene in Poblacion. At height the city breeze makes the tropical heat bearable even in the warmer months, and the views across the Metro Manila skyline — a glittering carpet of lights extending to the horizon in every direction — are genuinely impressive at night.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 Touqan Palace — locally called Touqan Castle — is one of the grandest Ottoman-era mansions in the Nablus old city, built by the powerful Touqan family who dominated the city's politics for much of the eighteenth and nineteenth centuries. The building is privately owned but visitors can sometimes gain entry to the courtyard and garden by knocking and asking politely.

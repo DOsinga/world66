@@ -14,6 +14,7 @@ story: >
   interaction with the terrain to produce a unique agricultural product. The village itself 
   sits within the UNESCO zone, making the walk through the vineyards not merely scenic 
   but historically significant.
+score: 7.9
 ---
 
 Hautvillers sits in the Montagne de Reims appellation, surrounded by Premier Cru and Grand Cru vineyards. Marked walking paths lead from the village through the vines and up onto the hillside ridges, giving views across the Marne Valley to Epernay and beyond. The walk takes 45 minutes to two hours depending on how far you go.

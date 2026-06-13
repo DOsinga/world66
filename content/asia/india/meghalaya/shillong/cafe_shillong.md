@@ -8,6 +8,7 @@ tags:
 neighbourhood: Laitumkhrah
 latitude: 25.5703
 longitude: 91.8985
+score: 8.2
 ---
 
 The first venue most musicians in Shillong play and the city's spiritual home for live music. Cafe Shillong sits on the first floor of a converted house in Laitumkhrah and runs acoustic sets most weekend evenings — covers of Dylan, Hendrix, and Pink Floyd alongside Khasi-language originals.

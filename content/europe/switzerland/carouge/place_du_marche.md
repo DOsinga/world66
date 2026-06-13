@@ -10,6 +10,7 @@ longitude: 6.1310
 opening_hours: "Market: Sat 8am–1pm"
 sources:
   - https://en.wikipedia.org/wiki/Carouge
+score: 8.0
 ---
 
 The central square of Carouge — a generous, tree-shaded piazza with a fountain and the Baroque church of the Sainte-Croix at one end. On Saturday mornings it fills with one of the best weekly markets in the Geneva area: fruit and vegetables, local cheeses, fresh pasta, flowers, and a handful of craft stalls. Come before 10am when it's at its liveliest.

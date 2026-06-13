@@ -5,6 +5,7 @@ author: "Bill Hayton"
 isbn: "978-0300144468"
 tags:
   - books
+score: 7.9
 ---
 
 Bill Hayton's 2010 account of contemporary Vietnam is the best single-volume introduction to what the country actually is, as opposed to what it was. A BBC journalist who spent years in Hanoi, Hayton examines the Vietnamese Communist Party's management of economic liberalization without political reform, the country's remarkable growth alongside its persistent corruption, the tensions between state ideology and market reality, and the lives of ordinary Vietnamese navigating a society that changed faster in the decade before 2010 than in the previous fifty years. His access and reporting are exceptional.

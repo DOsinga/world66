@@ -7,6 +7,7 @@ tags:
 - sight
 title: Hokowhitu Lagoon
 type: poi
+score: 5.6
 ---
 
 Hokowhitu Lagoon is the city's largest body of water — an oxbow lake formed centuries ago when the Manawatū River cut a new channel and abandoned a long meander. Today the lagoon sits in the middle of a residential suburb, ringed by a paved 2.5-kilometre walking and cycling track that is one of the most popular casual walks in Palmy.

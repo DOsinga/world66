@@ -8,6 +8,7 @@ tags:
 - sight
 title: Its Kale Citadel
 type: poi
+score: 8.9
 ---
 
 The Its Kale is the upper, inner fortress of Ioannina's old castle district, built up by successive rulers — Byzantine, Norman, Despote, Ottoman — and reaching its final form under Ali Pasha in the early 19th century. The walls and gates are still largely intact, surrounding a quiet hilltop with grass, cypresses, and a view down over Lake Pamvotis.

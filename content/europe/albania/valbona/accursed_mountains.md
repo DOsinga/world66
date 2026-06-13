@@ -15,6 +15,7 @@ story: >
   its wild terrain was long associated with blood feuds, brigandry, and the
   violence of the highland *kanun* (customary law). The mountains themselves
   are entirely magnificent.
+score: 8.4
 ---
 
 The Accursed Mountains — *Bjeshkët e Namuna* in Albanian, *Prokletije* in Serbian — are the highest and wildest part of the Dinaric Alps, straddling the borders of Albania, Kosovo, and Montenegro. From the valley floor at Valbonë, the range looms immediately to the west and north: a saw-toothed limestone skyline that changes character entirely depending on light and cloud.

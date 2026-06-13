@@ -6,6 +6,7 @@ tags:
 - sight
 title: Mesen Castle
 type: poi
+score: 5.9
 ---
 
 About 5km west of Aalst in the village of Lede, Mesen Castle was once one of the grandest noble residences in East Flanders. It was rebuilt in the 18th century by the Princes of Salm-Salm and later became a school for girls of the nobility run by the Canonesses of the Holy Sepulchre.

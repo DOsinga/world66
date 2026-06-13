@@ -11,6 +11,7 @@ snippet: "Baroque cathedral with the world's largest church organ, rebuilt magni
 story: >
   The organ that dominates the western end of the nave was assembled over three centuries of competitive expansion — the chapter of St. Stephan kept enlarging it in response to larger instruments elsewhere in Europe. 
   The current instrument has 17,974 pipes and 233 stops, and the daily organ concerts held every summer (except Sundays) have continued without interruption since 1929, making them one of the oldest recurring concert series in Germany.
+score: 8.7
 ---
 
 St. Stephan's Cathedral is the centrepiece of Passau's old town, a magnificent Italian Baroque building whose white and grey facade rises above the narrow streets of the peninsula. The original Romanesque cathedral was destroyed in the fire of 1662; the replacement was built by Italian architect Carlo Lurago and decorated with stucco work by Giovanni Battista Carlone in a style that feels more like Rome than Bavaria.

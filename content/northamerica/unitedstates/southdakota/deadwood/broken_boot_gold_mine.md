@@ -6,6 +6,7 @@ longitude: -103.738
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Broken Boot Gold Mine, on the western edge of town, was a working hardrock mine from 1878 to 1904 and now runs guided tours through the tunnels. The visit lasts about forty-five minutes, takes you a few hundred feet underground and gives a reasonable feel for the cramped, candle-lit conditions miners worked in for ten-hour shifts.

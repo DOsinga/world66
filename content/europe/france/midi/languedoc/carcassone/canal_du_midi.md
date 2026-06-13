@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Canal du Midi was the largest civil engineering project in seventeenth-century Europe, the brainchild of Pierre-Paul Riquet, who ploughed his own fortune into solving the problem of supplying water to the highest point of the line. He died in 1680, months before it was finished, and the canal opened in 1681 to general astonishment."
+score: 7.1
 ---
 
 The Canal du Midi runs along the north side of the modern town, just past the railway station — a 240-kilometre seventeenth-century waterway that links the Atlantic to the Mediterranean. A flight of locks at Carcassonne raises boats over the local high ground.

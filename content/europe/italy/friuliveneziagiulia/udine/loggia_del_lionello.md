@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The Loggia del Lionello is the pink and white Venetian Gothic loggia on the lower side of Piazza della Libertà — Udine's old town hall, named after the goldsmith Nicolò Lionello who designed it in 1448. Pointed arches, slender pillars, and a balcony for proclamations: it is a deliberate echo of Venice's Doge's Palace in miniature.

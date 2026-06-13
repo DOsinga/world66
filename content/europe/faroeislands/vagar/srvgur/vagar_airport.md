@@ -9,6 +9,7 @@ tags:
 snippet: The only airport in the Faroe Islands, just outside Sørvágur
 sources:
   - https://en.wikipedia.org/wiki/V%C3%A1gar_Airport
+score: 4.5
 ---
 
 Vágar Airport (IATA: FAE) is the sole airport in the Faroe Islands, built on the flat ground at the eastern end of Sørvágur. Originally constructed by British forces during the World War II occupation of the Faroes, it has been expanded and modernised since and now handles a steady mix of scheduled and charter flights.

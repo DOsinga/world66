@@ -11,6 +11,7 @@ story: >
   water to supply the growing town — they hit oil instead. Argentina's state oil company YPF
   was later founded specifically in response to this discovery, nationalizing what had become
   the country's most important resource.
+score: 7.8
 ---
 
 The Museo Nacional del Petróleo is housed in an original YPF (Yacimientos Petrolíferos Fiscales) building in the Barrio Laprida neighbourhood, which was built by the state oil company as a self-contained workers' community in the early 20th century. The museum covers the 1907 oil discovery, the development of Argentina's petroleum industry, and the social history of the oil towns that grew up across Patagonia as a result. Original drilling equipment, geological maps, period photographs, and industrial machinery give the exhibits a satisfying physical weight.

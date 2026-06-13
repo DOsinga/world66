@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4275
 longitude: -69.4167
+score: 6.2
 ---
 
 Juan Dolio is the nearest beach resort to San Pedro, about 25 kilometres west along the coast, and makes an easy half-day excursion. It's not the most spectacular Caribbean beach — the sand is narrower and more golden-brown than the powder-white beaches of the north — but the water is calm and warm, there are several small restaurants serving fresh seafood, and the resort strip is low-key enough to feel like a real place rather than a tourist compound.

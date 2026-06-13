@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The sweeping Georgian street voted England's best
 story: William Gladstone called Grey Street the finest street in any city in Europe. CAMRA-style polls in the 1990s and a 2010 BBC Radio 4 vote both put it ahead of Bath, Edinburgh, and Bloomsbury as Britain's most handsome street.
+score: 9.7
 ---
 
 A long curve of classical facades sweeping from Grey's Monument at the top down to the Tyne river bank, built between 1835 and 1839 by John Dobson and Richard Grainger. The proportions, the curve, and the consistency of the travertine-coloured stone make it more harmonious than almost any equivalent in Britain. The Theatre Royal at midway is the architectural focus of the lower stretch.

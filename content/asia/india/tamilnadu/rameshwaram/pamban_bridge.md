@@ -8,6 +8,7 @@ tags:
 title: Pamban Bridge
 type: poi
 story: "When the Pamban railway bridge opened in 1914, it was the first sea bridge in India and the longest in the country at the time. Engineers included a double-leaf bascule drawbridge section — a rare piece of engineering for the era — that could be raised to allow ships to pass through. Trains still use the same bridge today, crawling across the water at walking pace while waves break against the pillars below. The approach into Rameshwaram across open sea, low to the water, remains one of the more arresting arrival experiences on the subcontinent."
+score: 8.4
 ---
 
 The Pamban Bridge carries the railway line between Mandapam on the mainland and Rameshwaram across the Palk Strait. Built in 1914, it runs for just over 2 kilometres at very low elevation above the open sea, which means trains crossing it travel almost at wave height. The view from the carriage windows — sea in every direction, the thin strip of land ahead — is unusual enough that many people make the crossing specifically for the journey.

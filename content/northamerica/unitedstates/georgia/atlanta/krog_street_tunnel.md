@@ -8,6 +8,7 @@ tags:
 neighbourhood: Inman Park
 latitude: 33.7587
 longitude: -84.3577
+score: 7.1
 ---
 
 A 105-year-old railroad underpass between Inman Park and Cabbagetown that has become Atlanta's central street-art and graffiti venue. The walls and ceiling are repainted continuously by both invited and uninvited artists; nothing visible today will be visible in three months.

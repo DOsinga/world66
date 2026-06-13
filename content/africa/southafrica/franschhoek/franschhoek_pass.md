@@ -10,6 +10,7 @@ snippet: A mountain pass crossing the Franschhoek Mountains on the R45, with dra
 story: >
   The pass was built in 1825 by the British colonial administration, replacing a rough wagon track that had existed since the Huguenots first needed to move goods over the mountains.
   The engineer, Henry Fancourt White, designed several passes in the Cape Colony and became so identified with road-building that the town of George has a street named after him — but the Franschhoek Pass is considered his finest work.
+score: 8.4
 ---
 
 The Franschhoek Pass crosses the Franschhoek Mountains on the R45, climbing from the wine valley below to a high watershed before descending to Villiersdorp. The road was surveyed and built in 1825 and has been continuously improved since; the current surface makes it easily passable by ordinary car, though the gradient is steep in places and caution is warranted in wet weather.

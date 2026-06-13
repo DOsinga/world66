@@ -9,6 +9,7 @@ tags:
 - museum
 title: National Museum
 type: poi
+score: 8.0
 ---
 
 Founded in 1887, the National Museum occupies the Cuartel Bellavista — a fortress whose bullet-pocked exterior walls are a legacy of the 1948 civil war. Inside, the collection spans pre-Columbian archaeology, colonial history, and natural history. The butterfly garden in the central courtyard is a pleasant surprise. A good introduction to Costa Rican history before heading into the country.

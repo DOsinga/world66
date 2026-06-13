@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -1.0500
 longitude: 136.0667
+score: 6.9
 ---
 
 On the north coast of Biak, Korem Beach has traditionally been associated with pearl harvesting — the clear, deep water of the bay supports pearl oyster beds that have been worked by local communities for generations. The beach itself is quieter and less developed than Bosnik, and the snorkelling and diving in the surrounding water is considered excellent, with reef walls dropping steeply into the deep water of the bay.

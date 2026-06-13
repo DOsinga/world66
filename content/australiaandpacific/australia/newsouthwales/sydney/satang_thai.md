@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Satang Thai
 type: poi
+score: 5.9
 ---
 
 A tiny Thai place with just four or five tables -- most people take away. The food is delicious and very cheap. A solid option near Central.

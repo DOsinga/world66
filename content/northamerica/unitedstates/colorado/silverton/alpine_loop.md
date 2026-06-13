@@ -9,6 +9,7 @@ tags:
 - nature
 title: Alpine Loop
 type: poi
+score: 8.8
 ---
 
 Alpine Loop fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

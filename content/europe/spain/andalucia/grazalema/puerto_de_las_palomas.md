@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 7.9
 ---
 
 The "Pass of the Doves" is the high point of the road from Grazalema to Zahara — at 1,357 metres the second-highest pass in Andalucía. A small lay-by and viewpoint at the top look down on Zahara and its reservoir on the north side, and back across the gorges of the Sierra del Endrinal to the south.

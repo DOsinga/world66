@@ -8,6 +8,7 @@ tags:
 latitude: 35.1614
 longitude: 136.9024
 neighbourhood: Osu
+score: 7.1
 ---
 
 The flagship of the Yabaton chain — three storeys on a corner in Osu, with the company's stylised pig mascot looming from the facade. Yabaton has been serving miso-katsu (deep-fried pork cutlet under a thick blanket of haccho red miso sauce) since 1947, and is widely considered the definitive version of the dish. The classic order is the "waraji" miso katsu set — a long, sandal-shaped cutlet, miso poured at the table, with rice and tonjiru pork miso soup.

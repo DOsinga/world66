@@ -13,6 +13,7 @@ tags:
 - museum
 title: Sant Pere de Galligants
 type: poi
+score: 8.3
 ---
 
 A Benedictine monastery founded in the 11th century, now housing the Archaeology Museum of Catalonia's Girona branch. The church itself is a fine example of Lombard Romanesque architecture, with an octagonal bell tower visible from across the old city. But the cloisters are the highlight: two storeys of carved capitals depicting biblical scenes, foliage, and fantastic beasts, completed around 1150.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Restaurant Schuh
 type: poi
+score: 5.1
 ---
 
 The Confiserie Schuh has occupied its corner on the Hoheweg since 1818, making it one of the oldest continuously operating businesses in Interlaken. The ground floor is a chocolate and confectionery shop; the café and restaurant above is all starched tablecloths, cream cakes, and waitstaff who have seen every variety of tourist come and go. The terrace looks straight down the Hoheweg towards the Jungfrau.

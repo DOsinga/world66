@@ -3,6 +3,7 @@ title: Haut-de-Cagnes
 type: poi
 latitude: 43.6637
 longitude: 7.1504
+score: 8.3
 ---
 
 The medieval hilltop village above the beach resort is a maze of cobbled lanes, arched passages, vaulted stairways, and flower-draped houses that genuinely reward getting lost in. Compared to most of the hilltop villages on the Riviera, it is remarkably unspoilt — the tourist apparatus is present but not overwhelming, and the residential character of the streets survives.

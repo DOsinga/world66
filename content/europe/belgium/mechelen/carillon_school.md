@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: The first and most prestigious carillon school in the world
+score: 7.9
 ---
 
 Mechelen is the world capital of the carillon — the keyboard-played array of tuned bells in a church tower — and this school, founded in 1922 by the local cathedral carillonneur Jef Denyn, is the reason. Players come here from Japan, the United States, the Netherlands, and France for several years of training; almost every serious carillon player in the world has either studied or taught here.

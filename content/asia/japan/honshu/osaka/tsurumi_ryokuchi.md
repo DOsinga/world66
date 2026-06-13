@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tsurumi Ryokuchi Park
 type: poi
+score: 6.4
 ---
 
 A large park in eastern Osaka containing the Sakuya Konohana Kan botanical garden, which claims to be the largest greenhouse complex in Japan. The gardens include a tropical plant house, a rose garden, and a Japanese garden. A good escape from the city, particularly in spring and autumn when the seasonal plantings are at their best.

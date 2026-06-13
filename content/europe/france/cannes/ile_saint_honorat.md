@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5072
 longitude: 7.0445
+score: 8.8
 ---
 
 The smaller of the two Lérins Islands is home to a functioning monastery of Cistercian monks who have been here, in one form or another, since the 5th century. The Abbey of Lérins is one of the oldest monastic foundations in the Western world. Today about 25 monks live and work on the island, producing wine, liqueur, and honey sold in the shop by the ferry dock.

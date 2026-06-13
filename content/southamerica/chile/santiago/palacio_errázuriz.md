@@ -8,6 +8,7 @@ tags:
   - santiago_centro
 latitude: -33.4374
 longitude: -70.6478
+score: 7.7
 ---
 
 The Palacio Errázuriz is one of the finest 19th-century mansions in Santiago, built in the 1870s for the Errázuriz family — one of the great oligarchic families of Chilean history. The building now houses the Museo de Artes Decorativas (Museum of Decorative Arts), which has a strong collection of European and Chilean applied arts from the 18th and 19th centuries: furniture, porcelain, silverware, and textiles.

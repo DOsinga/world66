@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.3606
 longitude: -89.7720
+score: 6.9
 ---
 
 The on-site museum at the entrance to the archaeological zone, providing context for the ruins with original sculptures, ceramics, and jade artefacts recovered from Uxmal and surrounding sites. Scale models of the principal buildings are useful for understanding the site's layout before or after exploring the ruins.

@@ -8,6 +8,7 @@ tags:
 address: 2753 Park St, Jacksonville, FL
 latitude: 30.3062
 longitude: -81.6751
+score: 6.0
 ---
 
 European Street Café is one of the most reliably good casual restaurants in Jacksonville, a long-running neighbourhood spot in Riverside with an enormous deli counter, a beer list of several hundred bottles and cans from around the world, and a menu of sandwiches, salads, soups, and daily specials. The combination of serious beer selection, good food, and modest prices has made it an institution.

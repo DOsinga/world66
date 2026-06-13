@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 38.9833
 longitude: -86.4167
+score: 7.8
 ---
 
 Hoosier National Forest covers about 200,000 acres of southern Indiana, wrapping around Bloomington to the south and west in a patchwork of public land mixed with private farms and small towns. The terrain is hillier and more forested than most people expect from Indiana — the landscape here was carved by erosion rather than glaciated flat, producing rugged ridges, limestone bluffs, and narrow hollows that feel more like eastern Kentucky than the rest of the state.

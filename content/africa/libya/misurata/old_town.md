@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 32.3775
 longitude: 15.0920
+score: 7.6
 ---
 
 Misurata's old town preserves some of the character of its pre-colonial past — narrow streets, traditional architecture, and the souq area where trade has happened for centuries. The city sits on the site of an ancient Phoenician trading post, and its position on the Mediterranean coast has made it a commercial hub through Carthaginian, Roman, Arab, Ottoman, and Italian colonial periods. The old city escaped the worst of the 2011 fighting and remains more intact than some parts of the surrounding urban area.

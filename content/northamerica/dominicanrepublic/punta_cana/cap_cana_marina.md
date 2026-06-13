@@ -8,6 +8,7 @@ snippet: The Dominican Republic's largest marina, with deep-sea fishing and spor
 latitude: 18.4667
 longitude: -68.3667
 story: "Cap Cana sits on what were once mangrove wetlands that took decades to transform into the yacht-lined marina and golf courses it is today. The protected cove it occupies is one of the very few natural harbours on the eastern coast of Hispaniola."
+score: 5.8
 ---
 
 Cap Cana is a gated resort community at the southern end of the Punta Cana strip, built around a marina that handles some of the biggest sport-fishing boats in the Caribbean. Blue marlin, wahoo, and mahi-mahi are all caught in waters a short distance offshore, and the marina is the departure point for most of the serious deep-sea fishing charters in the area.

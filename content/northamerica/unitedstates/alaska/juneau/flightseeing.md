@@ -9,6 +9,7 @@ latitude: 58.5500
 longitude: -134.3000
 story: >
   The Juneau Icefield is the fifth-largest temperate icefield in the world, covering 1,500 square miles across the border of Alaska and British Columbia. It feeds 38 glaciers, of which the Mendenhall is the most accessible. From the air you can see the full scale of the system — the accumulation zones high in the mountains where snow compresses into ice, the flow lines where the ice moves downhill, and the terminal moraines where glaciers used to end before the warming climate caused them to retreat.
+score: 9.4
 ---
 
 A floatplane or helicopter tour over the Juneau Icefield is one of the most spectacular things you can do in Southeast Alaska. The city sits at the edge of one of the largest icefields in the world, and the view from above — glaciers flowing between mountain peaks, the surface of the icefield stretching to the horizon, the occasional blue pool of melt water — is genuinely hard to match. Multiple operators offer tours from Juneau ranging from 30-minute overflights to full glacier-landing experiences where you can walk on the ice.

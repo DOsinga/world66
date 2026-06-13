@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Albert Patterson Law Office
 type: poi
+score: 6.3
 ---
 
 A small unassuming brick office building on 14th Avenue, marked by a simple historical plaque, where Albert Patterson was assassinated in 1954. Patterson, a Phenix City lawyer who had just won the Alabama Democratic nomination for Attorney General on a promise to clean up the city's notorious vice rackets, was shot in the alley outside his office.

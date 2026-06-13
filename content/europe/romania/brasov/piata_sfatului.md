@@ -7,6 +7,7 @@ snippet: The old town's wide main square, anchored by the 15th-century Council H
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 Piata Sfatului — Council Square — is the heart of medieval Brasov. The square is wide and irregular, lined with pastel-painted Saxon merchant houses and dominated by the squat Casa Sfatului, the old Council House, from which the town was run for four centuries. The trumpeter's tower on top blew the hours through to the 19th century.

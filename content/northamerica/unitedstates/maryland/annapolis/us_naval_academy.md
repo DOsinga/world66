@@ -15,6 +15,7 @@ story: >
   a Parisian cemetery in 1905, shipped to Annapolis, and installed in a
   black-marble sarcophagus modelled on Napoleon's tomb. A Marine honour guard
   stands watch over him around the clock.
+score: 8.7
 ---
 
 The United States Naval Academy occupies a large campus on the waterfront southeast of downtown, and it is open to civilian visitors — a fact that surprises many people. The Beaux-Arts architecture alone is worth the walk in: the Chapel with its impressive dome, Bancroft Hall (said to be the largest dormitory in the world), and the expansive Tecumseh Court give the campus a grandeur that few American universities can match.

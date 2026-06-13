@@ -7,6 +7,7 @@ tags:
   - wildlife
 title: Oxbow Bend
 type: poi
+score: 8.3
 ---
 
 Oxbow Bend is a slow curve of the Snake River with one of the park's most satisfying combinations: water, willows, wildlife, and Mount Moran in the background. It is a good place to scan for birds, moose, and changing light.

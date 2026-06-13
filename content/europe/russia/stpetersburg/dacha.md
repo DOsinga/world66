@@ -8,6 +8,7 @@ tags:
 - nevskiyprospekt
 title: Datscha
 type: poi
+score: 5.8
 ---
 
 A tiny, perpetually packed bar on Dumskaya ulitsa that has become a legend among traveling students and backpackers. There is no dance floor — just cheap drinks, DJs with good taste, and a crowd spilling onto the front walkway to escape the smoke. If you cannot find room, head upstairs to the "2nd Floor" club, which has a similar vibe with more space for dancing.

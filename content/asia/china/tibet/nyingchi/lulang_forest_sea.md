@@ -6,6 +6,7 @@ latitude: 29.6150
 longitude: 94.6981
 story: >
   At elevations above 3,500 metres, this alpine meadow produces some of Tibet's most spectacular wildflower displays each spring — rhododendrons, gentians, and primulas covering the hillsides while snow peaks still rise behind them.
+score: 7.7
 ---
 
 Lulang Forest Sea (鲁朗林海) is a high-altitude forest and alpine meadow ecosystem stretching across roughly 30 square kilometres east of Bayi, between 2,800 and 4,300 metres. It looks nothing like the treeless plateau most visitors associate with Tibet — dense stands of spruce, fir, and rhododendron cover the hillsides, threaded by meadow paths where yaks graze against a backdrop of snow peaks.

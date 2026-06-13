@@ -12,6 +12,7 @@ tags:
 title: Madame Tussauds
 type: poi
 url: www.madametussauds.com/london
+score: 4.9
 ---
 
 The original waxwork attraction, founded by the Swiss sculptor Marie Tussaud in the early 19th century, now sprawls across multiple floors of Marylebone Road. The figures — politicians, royals, celebrities, sports stars, musicians — range from uncannily accurate to mildly unsettling.

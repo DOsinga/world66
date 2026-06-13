@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 31.263
 longitude: 32.307
+score: 5.8
 ---
 
 El-Borg is one of Port Said's best-known fish restaurants, serving fresh Mediterranean seafood in a setting with views over the canal. The approach is Egyptian-style: you choose your fish from the display and it is grilled or fried to order, served with bread, salad, and tahini. The shrimp are a particular speciality of the region.

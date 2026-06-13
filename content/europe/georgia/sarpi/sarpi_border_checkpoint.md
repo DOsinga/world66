@@ -10,6 +10,7 @@ story: >
   thing visitors see when entering Georgia from Turkey. The result — a sinuous white concrete tower
   that looks like it belongs in a science fiction film — cost more than most Georgian public buildings
   and stands in surreal contrast to the surrounding village of tin roofs and fishing boats.
+score: 7.2
 ---
 
 The Sarpi Border Checkpoint building is one of those structures that stops you mid-sentence. Designed by German-Georgian architect Jürgen Mayer H. and completed in 2011, it is a sinuous, cantilevered white form that sweeps out over the road like a frozen wave. The building grows from a narrow base into a broad overhanging observation deck, all smooth concrete curves, the whole thing looking less like border infrastructure and more like a proposal for a museum of contemporary art in an ambitious European capital. Set against the Black Sea on one side and the steep forested mountains on the other, the visual contrast with its surroundings is almost comedic — and completely compelling.

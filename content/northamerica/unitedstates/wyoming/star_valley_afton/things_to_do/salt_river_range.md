@@ -10,6 +10,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Salt_River_Range
+score: 8.0
 ---
 
 The Salt River Range forms the eastern wall of Star Valley, rising steeply from the valley floor to peaks above 3,000 metres. The range falls within the Bridger-Teton National Forest, and a network of trails penetrates from the valley side into high alpine terrain — meadows full of wildflowers in July, rocky ridges with wide views west over the valley and east toward the Wyoming Range.

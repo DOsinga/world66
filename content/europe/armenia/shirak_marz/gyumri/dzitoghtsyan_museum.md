@@ -11,6 +11,7 @@ story: >
   The Dzitoghtsyan family were wealthy Armenian merchants who, like many successful traders in Russian-era Alexandrapol, built a house designed to impress.
   The building survived the 1988 earthquake because of its construction method: the thick tufa walls and shallow-pitched roof that defined Gyumri's merchant class architecture
   turned out to be more earthquake-resistant than the Soviet-era prefab blocks that collapsed around them.
+score: 8.3
 ---
 
 A museum of social life and domestic architecture housed in a beautifully preserved 19th-century merchant's house in the Kumayri historic district. The museum shows what life looked like for a prosperous Armenian family in Russian-era Alexandrapol — the decorative ironwork, the tiled stoves, the layers of carpets, the heavy furniture that Gyumri's craftsmen were famous for producing.

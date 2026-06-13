@@ -9,6 +9,7 @@ latitude: 41.8195
 longitude: 3.0710
 story: >
   Platja Gran began developing as a resort beach in the 1960s, during the Franco-era tourism boom that transformed much of the Costa Brava from fishing coast to holiday coast. The transformation happened faster here than in some neighbouring towns because the beach is long and flat — easier to line with hotels and apartment blocks. The promenade behind it, the Passeig Marítim, was built at the same time and is now the social spine of the resort season.
+score: 6.6
 ---
 
 Platja Gran is the main beach of Platja d'Aro — a broad, south-facing stretch of fine golden sand more than 2 km long, backed by a wide promenade lined with restaurants, ice cream stalls, and beach bars. It is well equipped: sun lounger rental, lifeguard towers, showers, and water sports including kayaks and pedal boats available for hire from mid-June to mid-September. The sea is shallow and calm, with good conditions for families with small children.

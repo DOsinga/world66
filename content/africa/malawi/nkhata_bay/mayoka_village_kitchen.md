@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: -11.6011
 longitude: 34.3019
+score: 5.9
 ---
 
 Mayoka Village is a lodge and bar-restaurant strung over a rocky headland on the north side of the bay, with a deck that drops almost straight into the water. It has become one of the social hubs for travellers in Nkhata Bay, with reliably good food (a real wood-fired pizza oven, decent salads, Indian and Malawian dishes) and a bar that stays open as long as the customers do.

@@ -8,6 +8,7 @@ tags:
 title: House of Terror
 type: poi
 story: "The building at Andrássy 60 served first as headquarters for the fascist Arrow Cross militia, then as a secret police prison for the communist ÁVO and ÁVH. The same basement cells where Arrow Cross interrogators worked were later used by their communist replacements — the continuity of repression is one of the museum's most disturbing themes."
+score: 8.5
 ---
 
 Terror Háza is one of the most affecting museums in Central Europe. The building itself is the exhibit as much as anything inside it: a grand neoclassical townhouse on Budapest's most elegant boulevard that served as a torture and detention site through two successive totalitarian regimes. A black steel frame spelling out TERROR projects a shadow across the facade.

@@ -8,6 +8,7 @@ tags:
   - sight
   - ferry
 story: "The crossing has been running since 1964 and saves about 90 miles of driving up I-95 and around Philadelphia. Bottlenose dolphins follow the ferry in summer; from the upper deck you usually see them within the first ten minutes out."
+score: 7.6
 ---
 
 The ferry across the mouth of Delaware Bay to Cape May, New Jersey, takes about eighty minutes and is a destination in itself. The terminal is north of town on the Lewes side of the canal. You can put your car on, or you can walk on as a foot passenger — Cape May is walkable from the New Jersey terminal via a connecting shuttle. Either way, the boat has a bar, an outdoor sundeck, and reliable views of bay traffic, lighthouses, and seabirds.

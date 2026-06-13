@@ -9,6 +9,7 @@ tags:
 - park
 title: Castello di San Vigilio
 type: poi
+score: 7.8
 ---
 
 Take the funicular from Colle Aperto up to San Vigilio — the ride alone is worth it. The castle at the top is mostly ruins, but the park around it is lovely, with underground passages to explore and views that make the whole climb worthwhile.

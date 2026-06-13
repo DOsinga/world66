@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 55.5650
 longitude: 9.7540
+score: 7.8
 ---
 
 Inside the ramparts, Fredericia's old town is laid out on a perfect grid, drawn up in 1650 by King Frederick III's military engineers. Streets run north-south and east-west and meet at right angles, all named with regimented logic — Prince's Street, Princess Street, Royal Street.

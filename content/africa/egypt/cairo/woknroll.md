@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Wok-n-Roll
 type: poi
+score: 4.1
 ---
 
 Malaysian, Thai, and Chinese dishes in Mohandiseen. The wok dishes are reliably good and the menu is one of the more diverse in the city for Asian food.

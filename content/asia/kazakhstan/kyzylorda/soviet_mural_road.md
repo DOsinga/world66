@@ -9,6 +9,7 @@ longitude: 63.9050
 snippet: Abandoned factory walls decorated with heroic Soviet-era frescoes
 story: >
   These murals were painted during the height of Soviet industrial optimism, when Kyzylorda's factories processed oil and goods for the vast Soviet system. When the USSR collapsed, the factories were abandoned almost overnight. The murals remain — faded portraits of workers, technological utopias, and Soviet slogans — a ghost gallery in the semidesert.
+score: 7.2
 ---
 
 On the road between the city centre and the airport, alongside the river and near the old Petro-Kazakhstan oil worker residential blocks, a series of abandoned factory buildings are decorated with Soviet-era murals. These large-scale frescoes depict the ideals of Soviet industry — workers, technology, and collective effort — painted in the bold, simplified style of Soviet propaganda art.

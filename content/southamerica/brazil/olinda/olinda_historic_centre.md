@@ -7,6 +7,7 @@ tags:
 latitude: -8.0010
 longitude: -34.8510
 snippet: The entire colonial hill — cobbled streets, baroque churches, pastel mansions — is the attraction
+score: 9.5
 ---
 
 The historic centre of Olinda is a UNESCO World Heritage Site not because of any single monument but because of the ensemble: the whole colonial hill, with its interlocking network of steep cobbled streets, baroque churches, 17th- and 18th-century townhouses in faded yellows and blues and terracottas, and the green hill itself pushing up through the rooftops. Wandering without a fixed itinerary is the point.

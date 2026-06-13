@@ -6,6 +6,7 @@ longitude: -107.8892
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 La Ventana ("the window") is one of the largest natural arches in New Mexico, a 25-metre-high opening carved by wind and water out of pale Zuni sandstone on the eastern side of the conservation area. It sits at the foot of a tall sandstone cliff that runs for miles along the edge of the lava beds — the dramatic geological boundary between the volcanic and sedimentary halves of El Malpais.

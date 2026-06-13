@@ -7,6 +7,7 @@ tags:
 - sight
 title: Arcadia Beach
 type: poi
+score: 6.8
 ---
 
 Arcadia is Odessa's main beach resort area, a long sandy stretch about 6 km south of the city centre accessible by tram or minibus. In summer, it becomes a genuine Black Sea resort: beach clubs, restaurants, DJs in the evenings, and crowds that make it feel like a smaller version of a Mediterranean beach town. The water is warm from June onwards and the sand is reasonably clean by urban beach standards.

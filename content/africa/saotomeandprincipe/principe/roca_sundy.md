@@ -18,6 +18,7 @@ story: >
   experimental confirmation of Einstein's general theory of relativity — turning
   an obscure German physicist into the most famous scientist in the world, from
   a cocoa plantation on a tiny equatorial island.
+score: 7.9
 ---
 
 Roça Sundy is the oldest and largest of Príncipe's cocoa plantations, founded in 1822 and once covering over 1,600 hectares. The estate produced both cocoa and coffee at its peak, and the plantation compound — a cluster of colonial-era buildings set around a central yard — survives in a state of atmospheric half-ruin. The main house has been restored as a boutique hotel, which makes it an excellent base for exploring the island's north.

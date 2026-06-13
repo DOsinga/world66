@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "The medieval church on this site burned to the ground in 1794. The current building, completed in 1799, is a plain Gustavian replacement — striking for the contrast between its sober white exterior and the bright interior decoration added in the 19th century."
+score: 5.9
 ---
 
 The current Hjo Church (Hjo kyrka) replaces a medieval predecessor that burned in the great fire of 1794. Built in the late Gustavian style and consecrated in 1799, it is a simple rectangular hall with a tall western tower, painted plain white. Inside, the altar and pulpit are 19th-century additions and the ceiling carries painted decoration that lifts what would otherwise be an austere space.

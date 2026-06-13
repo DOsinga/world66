@@ -10,6 +10,7 @@ story: >
   The east coast of 'Eua faces the open Pacific with no land between it and South America — roughly 8,000 kilometres of open ocean. In the right conditions, you can hear the swell before you see the cliffs: a deep percussion as each wave hits the rock. Locals say that on calm days you can sometimes see whales from the cliff edge without binoculars.
 sources:
   - https://en.wikipedia.org/wiki/%CA%BBEua
+score: 8.5
 ---
 
 The east coast sea cliffs are 'Eua's most dramatic feature. The island's limestone has been lifted and tilted by tectonic forces over millions of years, creating cliffs that drop almost vertically into the ocean from heights of up to 120 metres. The cliff walk along the top is one of the finest coastal walks in Tonga — wide views over the blue Pacific, sea birds wheeling below, and the occasional humpback whale visible in the channel between 'Eua and Tongatapu from June through October.

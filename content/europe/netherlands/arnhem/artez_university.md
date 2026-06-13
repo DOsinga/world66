@@ -6,6 +6,7 @@ tags:
   - arts
 latitude: 51.9839
 longitude: 5.8946
+score: 5.7
 ---
 
 ArtEZ University of the Arts is one of the Netherlands' main art and design schools, with its Arnhem campus focused on fashion design, fine art, and graphic design. The school has a strong international reputation, particularly in fashion — ArtEZ graduates have founded several of the Netherlands' best-known fashion labels.

@@ -12,6 +12,7 @@ story: >
   served as a departmental capital and administrative centre at various points in Colombian history.
   During the Wars of Independence, Honda was a key strategic point on the route between the coast
   and Bogotá, and the buildings around this plaza changed hands more than once.
+score: 6.2
 ---
 
 The Palacio Municipal anchors one end of the old town's central block with a solid, well-proportioned colonial façade. It is still a working government building — the local administration operates from inside — which gives it more life than a pure heritage monument. The arcaded ground floor facing the street is typical of the Tolima colonial style: thick walls, broad arches, a covered walkway that offers shade from the brutal sun.

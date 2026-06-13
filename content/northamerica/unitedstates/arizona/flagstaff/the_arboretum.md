@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1686
 longitude: -111.6750
+score: 7.1
 ---
 
 The Arboretum at Flagstaff, set at 2,180 metres in the ponderosa pines southwest of town, is one of the highest-elevation botanical gardens in the United States. Its collections focus on the plants of the Colorado Plateau and the arid Southwest, with particular strength in high-country wildflowers that are difficult to see elsewhere. From late June through summer the wildflower meadows are spectacular.

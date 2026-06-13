@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Imperial Palace and East Garden
 type: poi
+score: 8.5
 ---
 
 The Imperial Palace occupies the site of Edo Castle, which was the seat of the Tokugawa shogunate from 1603 to 1868. The palace buildings themselves are closed except on two public days a year, but the East Garden (Higashi Gyoen) is open to visitors and is one of the most beautiful formal gardens in Tokyo — ancient pines, traditional stone lanterns, reconstructed guardhouses, and the remains of the original castle foundations.

@@ -9,6 +9,7 @@ tags:
 title: Old Clock Tower
 type: poi
 neighbourhood: Fort
+score: 6.4
 ---
 
 The white lighthouse-turned-clock-tower at the heart of the Fort district dates from 1857. It served as Colombo's lighthouse until 1952, when the ships had grown too large and the harbour too busy for a lighthouse in the middle of the commercial district. The light was decommissioned and the tower converted to a clock tower, which it remains. It is one of the few colonial-era structures in the Fort that has not been replaced or overshadowed by office blocks.

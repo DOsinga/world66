@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Barton Arcade
 type: poi
+score: 6.1
 ---
 
 A beautifully restored Victorian glass-and-iron arcade on Deansgate. The soaring glazed roof makes it one of the prettiest shopping arcades in Manchester. Free to wander through.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Marquette Maritime Museum
 type: poi
+score: 7.4
 ---
 
 The Marquette Maritime Museum, in a small brick building right on the harbour,

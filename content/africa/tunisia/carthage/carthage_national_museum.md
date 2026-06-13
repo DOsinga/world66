@@ -7,6 +7,7 @@ tags:
 - museum
 title: Carthage National Museum
 type: poi
+score: 8.6
 ---
 
 The Carthage National Museum sits at the top of Byrsa hill — the citadel of the Punic city and the centre of the later Roman one — and is the place to start if you want to understand the archaeology of ancient Carthage in context. The collection covers both the Punic period (mostly funerary stelae, pottery, masks, and jewellery from the tophet and surrounding necropolises) and the Roman period (mosaics, statuary, inscriptions, coins).

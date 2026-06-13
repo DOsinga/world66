@@ -10,6 +10,7 @@ story: >
   buried a stone of possession on the beach. The Seychelles had no human
   inhabitants at that point — the first settlers arrived 27 years later. The
   stone itself is long gone, but the beach's name preserves the moment.
+score: 7.0
 ---
 
 Anse Possession is on the north coast of Praslin, east of Anse Lazio, and far less visited than its famous neighbour. The beach is smaller and the setting more intimate — a curved bay flanked by coconut palms, with a village behind it and fishing boats pulled up on the sand. The water is calm and clear, excellent for swimming, and the crowd is a fraction of Anse Lazio's.

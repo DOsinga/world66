@@ -7,6 +7,7 @@ tags:
 - nature
 title: Valle de la Muerte
 type: poi
+score: 7.8
 ---
 
 Valle de la Muerte is the rougher neighbour to Valle de la Luna, a maze of dunes and eroded ridges closer to San Pedro. The name sounds dramatic, but the place earns at least some of it in the afternoon heat.

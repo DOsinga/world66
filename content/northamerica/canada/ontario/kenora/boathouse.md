@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: The Boathouse
 type: poi
+score: 5.4
 ---
 
 The Boathouse sits on the Harbourfront, with a deck almost over the water and a kitchen that does the lake-town basics well: walleye and chips, burgers, salads, and a decent beer list. The view is the main draw — boats coming and going, float planes taxiing, the islands across the water.

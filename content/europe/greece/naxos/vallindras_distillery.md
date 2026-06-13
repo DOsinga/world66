@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.0694
 longitude: 25.4366
+score: 7.5
 ---
 
 Kitron is the liqueur that Naxos makes and nobody else does. It is distilled from the leaves of the citron tree — a knobbly, thick-skinned citrus relative that thrives in the island's interior — and has been produced here commercially since the 1890s. The Vallindras distillery in Halki is the oldest and most traditional producer, still using copper pot stills and a family recipe that has changed minimally in four generations. A visit here is one of the more genuine things you can do on the island.

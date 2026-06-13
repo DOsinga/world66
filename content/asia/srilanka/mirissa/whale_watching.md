@@ -9,6 +9,7 @@ title: Whale Watching
 type: poi
 story: >
   The waters off Mirissa lie along one of the blue whale's regular feeding routes — the same deep-water channel that the whales use as they move between feeding grounds in the Indian Ocean. A blue whale can reach 30 metres in length and 170 tonnes in weight. When one surfaces near a small boat, the scale is difficult to comprehend.
+score: 9.1
 ---
 
 The blue whale watching from Mirissa is among the best in the world. The deep water south of the bay is home to a resident population of blue whales year-round, and between November and April conditions are calm enough for regular boat trips. Sperm whales, Bryde's whales, and several species of dolphin are also commonly seen on these trips.

@@ -8,6 +8,7 @@ latitude: 39.9589
 longitude: -75.1728
 snippet: "Philadelphia's great science museum, with a walk-through giant heart and the Benjamin Franklin Memorial"
 story: "The Foucault pendulum inside has been swinging since 1934, knocked over only twice in its history — once by a cleaning person, once by a power failure. It has been silently proving the Earth's rotation ever since."
+score: 7.5
 ---
 
 The Franklin Institute is one of the oldest science museums in the country — founded in 1824 to honor Benjamin Franklin — and one of the best. The giant walk-through heart is a Philadelphia institution: a two-story model of the human heart that visitors walk through while listening to the amplified sound of a heartbeat. Children sprint through it; adults walk more slowly and feel oddly moved. It was installed in 1954 and has been the museum's signature exhibit ever since.

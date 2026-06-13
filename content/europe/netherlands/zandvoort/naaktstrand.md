@@ -6,6 +6,7 @@ tags:
   - beaches
 latitude: 52.353
 longitude: 4.527
+score: 6.4
 ---
 
 Zandvoort's official nudist beach runs roughly two kilometres south of the centre, between the southern end of the town and the start of the Amsterdamse Waterleidingduinen drinking-water dunes. It is one of the oldest established naturist beaches in the Netherlands — clearly signposted, well used, and accepted by the rest of the town as an unremarkable feature of the coast.

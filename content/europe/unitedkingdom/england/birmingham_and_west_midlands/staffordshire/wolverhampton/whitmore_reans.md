@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 52.5940
 longitude: -2.1420
+score: 6.9
 ---
 
 Whitmore Reans is the heart of Wolverhampton's South Asian community, a residential area just north-west of the city centre that has been home to British-Punjabi and Sikh families since the 1960s. Walking through here is a reminder that Wolverhampton has one of the largest Sikh communities in Britain outside of Southall, and that this community has shaped the city's food culture, its social life, and its politics in ways that are still very much visible.

@@ -12,6 +12,7 @@ story: >
   Blast Furnace 3 (Horno 3) at the Fundidora was inaugurated in 1969 and produced steel for 17 years before the plant's closure in 1986. Converting a 90-metre blast furnace into a museum required extensive structural engineering — visitors now walk through the furnace interior via an elevated walkway, passing the tuyeres, hearth, and slag pits of the original industrial structure. It is unlike any other museum experience in Mexico.
 sources:
   - https://en.wikipedia.org/wiki/Museo_del_Acero_Horno3
+score: 8.4
 ---
 
 The Museo del Acero is housed inside a converted blast furnace in Parque Fundidora, and it is one of the most unusual and impressive museums in Mexico. The vast industrial structure has been transformed into an interactive museum about steel, industry, and the history of the Fundidora steelworks. Visitors tour the furnace interior via walkways that penetrate the original structure.

@@ -14,6 +14,7 @@ story: >
   gums turn gold and herons stand motionless at the edges, this system of disconnected
   waterholes feels like the most improbable thing: an oasis in red dust that has sustained
   life on this plain for tens of thousands of years.
+score: 7.9
 ---
 
 The Thomson River sunset cruise is the best way to experience the Longreach landscape from water level. Two operators run the experience: Outback Aussie Tours uses a modern catamaran for 360-degree views, while Outback Pioneers operates the Thomson Belle paddlewheeler for a more atmospheric ride. Both follow the longest waterhole on the Thomson, about 14 kilometres northwest of town along the Landsborough Highway.

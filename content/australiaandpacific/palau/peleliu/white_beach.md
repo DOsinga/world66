@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 The northern of the two American landing beaches, where the 5th and 7th Marine Regiments came ashore. Quieter than Orange Beach today, with the rusting remains of Japanese pillboxes and a 75mm anti-boat gun still in its emplacement at the southern end.

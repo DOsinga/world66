@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market]
 latitude: 46.0908
 longitude: -64.7210
+score: 6.7
 ---
 
 A year-round farmers market that runs on Saturday mornings in a dedicated building in the residential part of Dieppe. The market skews Acadian and reflects the region's food culture: fiddleheads and fiddlehead products in spring, blueberries and local honey in summer, root vegetables and preserves in autumn. Vendors sell bread, pastries, smoked fish, and homemade sausages alongside crafts and local artwork.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 67.2870
 longitude: 14.3870
+score: 4.9
 ---
 
 Bryggkanten is a bar and social space on the waterfront, popular with the after-work crowd and busy on summer evenings when the outdoor terrace becomes one of the better places in the city to drink with a view. The bar is large enough to find a seat most nights; in summer the terrace fills up early and it is worth arriving by 6 pm if you want a waterside table.

@@ -7,6 +7,7 @@ tags:
   - castello
 latitude: 39.2214
 longitude: 9.1172
+score: 7.4
 ---
 
 The Torre di San Pancrazio is the twin of the Torre dell'Elefante — also built by Giovanni Capula in 1305, two years earlier than its companion, also with an open north face that reveals the interior timber structure. The two towers together formed the defensive corners of the medieval citadel wall. San Pancrazio stands at the northern end of Castello near the Archaeological Museum, while the Torre dell'Elefante guards the western approach.

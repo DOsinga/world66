@@ -14,6 +14,7 @@ story: >
   can still see the prayer niche cut into what was once Christian stonework.
 sources:
   - https://en.wikipedia.org/wiki/Sea_Castle_(Safi)
+score: 8.1
 ---
 
 Dar el Bahar — the Sea Fortress — stands on the headland at the very edge of the Atlantic, its stone battlements washed by salt spray. Built by the Portuguese in the 16th century, it commands sweeping views south along the coast and north toward the medina. It is one of the best-preserved examples of Portuguese military architecture in Morocco.

@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Beaumaris_Town_Hall
+score: 6.1
 ---
 
 The Beaumaris Town Hall is a small Georgian civic building of 1785, designed by John Hall and standing on Castle Street. Whitewashed with arched ground-floor openings — originally an open market hall — and a slender bell-turret, it forms an attractive group with the Bulkeley Arms and the row of Georgian inns beyond.

@@ -13,6 +13,7 @@ story: >
   eucalyptus plantations.
 sources:
   - https://en.wikipedia.org/wiki/Government_Botanical_Garden
+score: 7.6
 ---
 
 The Government Botanical Garden in Ooty spreads across 22 hectares of hillside below the town, laid out in 1848 under the direction of the Marquis of Tweeddale. The terraced design runs down the slope in a series of formal lawns and themed sections: a fernery, a fossil bed, an Italian garden, and extensive beds of the hybrid roses for which the Nilgiris are famous.

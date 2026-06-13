@@ -14,6 +14,7 @@ story: >
   a rich diet, and physical inactivity. Her gut still contained 138 melon
   seeds — she had apparently eaten melon shortly before death. She was the
   best-preserved ancient human body ever found, and remains so.
+score: 9.4
 ---
 
 The Hunan Provincial Museum holds one of the most remarkable archaeological finds of the twentieth century: the intact body of Lady Dai (formally Xin Zhui, the Marquise of Dai), who died around 160 BC and was interred under conditions so ideal that when her tomb was excavated in 1972 her skin was still pliable and pathologists could conduct a full autopsy. The preservation is the result of an airtight wooden coffin system sealed within layers of white clay and charcoal, combined with a location above the water table that prevented bacterial growth. No one has fully replicated the method.

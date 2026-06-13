@@ -9,6 +9,7 @@ title: Coconut Tree Hill
 type: poi
 story: >
   Coconut Tree Hill is technically private property belonging to a local family, who began charging a small admission fee after the crowds arrived. The view has appeared on thousands of travel photographs — a cluster of leaning palms silhouetted against the sea and sky — making it one of Sri Lanka's most recognisable images despite being on no official map until recently.
+score: 7.5
 ---
 
 Coconut Tree Hill is a small rocky promontory at the western end of Mirissa Beach, topped with a cluster of palm trees that lean dramatically over the water. It is a short scramble up from the beach, and the view from the top — back across the bay, out over the Indian Ocean, and down to the rocks below — is one of the finest on the south coast.

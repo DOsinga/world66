@@ -6,6 +6,7 @@ tags:
 - sight
 title: Rivington Terraced Gardens
 type: poi
+score: 8.4
 ---
 The terraced gardens at Rivington were created in the early twentieth century by William Hesketh Lever, the soap magnate who built Port Sunlight and became Lord Leverhulme. Lever bought Rivington Pike and the surrounding hillside as a private retreat and commissioned a series of Japanese-inspired gardens cut into the steep wooded slope, incorporating waterfalls, pools, bridges, pergolas, and a Japanese lake garden with a replica of a Liverpool castle. The whole ensemble was designed to be discovered gradually as you walk uphill through the trees.
 

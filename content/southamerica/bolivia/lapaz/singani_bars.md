@@ -7,6 +7,7 @@ tags:
 - bar
 title: Singani Cocktail Bars
 type: poi
+score: 6.7
 ---
 
 Singani is Bolivia's national spirit — a grape distillate produced at altitude in the Tarija region, legally protected under Bolivian law much as pisco is in Peru. It tastes lighter and more floral than pisco, and at altitude it hits faster than you expect. The classic preparation is a chuflay: singani with ginger ale and lime, served long. Sopocachi is where the better bars tend to be, several of which have made singani cocktails their focus.

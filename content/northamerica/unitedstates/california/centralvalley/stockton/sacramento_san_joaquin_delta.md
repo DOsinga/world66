@@ -9,6 +9,7 @@ latitude: 38.0500
 longitude: -121.5000
 story: >
   The Sacramento–San Joaquin Delta is an inverted delta — instead of a river spreading into the sea at its mouth, the delta was formed where two rivers converge behind a barrier of hills and fill an inland bay with silt. The result is one of the largest estuarine systems in the United States, covering about 1,100 square miles of waterways, islands, and marshes that are simultaneously the most productive agricultural land in California and one of the most important wetland habitats in the western hemisphere.
+score: 8.5
 ---
 
 The intricate waterway system east and north of Stockton, where the Sacramento and San Joaquin Rivers and their tributaries weave through a maze of leveed islands, sloughs, and channels before meeting San Francisco Bay to the west. The delta is one of the most interesting and least-visited landscapes in California — a world of water, asparagus farms, old swing bridges, and small waterside towns that feels entirely different from the rest of the state.

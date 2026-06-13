@@ -7,6 +7,7 @@ snippet: "The largest of the Saranac chain, with classic Adirondack camps and go
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 Upper Saranac Lake is the largest of the three Saranac Lakes and the most remote-feeling. The shoreline is dotted with the kind of rustic Adirondack camps — log lodges, boathouses, mile-long private docks — that the wealthy industrialists of the late nineteenth century built as a forest counterpart to their Newport mansions. Most are still privately held but a few have become inns.

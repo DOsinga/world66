@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 6 Saryan Street
+score: 6.8
 ---
 
 The original wine bar that kicked off Saryan Street's transformation into Yerevan's "Wine District". The list runs to several hundred bottles, with a heavy emphasis on Armenian producers (Voskevaz, Zorah, Trinity, Karas, Tushpa) alongside a smart international selection. Glass pours change weekly.

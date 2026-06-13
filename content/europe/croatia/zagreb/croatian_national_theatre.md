@@ -9,6 +9,7 @@ tags:
 - sight
 - architecture
 - donji_grad
+score: 7.4
 ---
 
 The HNK, opened in 1895 by Emperor Franz Joseph, is a textbook Habsburg-era theatre — neo-baroque, butter-yellow, columns and statues marching along the facade — by the Viennese architects Hellmer and Fellner, who designed nearly forty similar theatres across Central Europe. The interior is gold-leafed and red-velvet, with three tiers of boxes and excellent acoustics.

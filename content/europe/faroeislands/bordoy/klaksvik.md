@@ -9,6 +9,7 @@ tags:
 story: Klaksvík is built on a narrow isthmus only 200 metres wide where two opposing fjords almost meet. The town's pier on the south fjord faces the open Atlantic; the harbour on the north fjord opens to the inner sound between the islands. A single block of land separates them, which is why the town packs houses, the church, and the trawler harbour into such a tight space.
 title: Klaksvík
 type: poi
+score: 7.0
 ---
 
 Klaksvík sits on a narrow isthmus where Borðoyarvík (south) and Borðoyarvík's north counterpart almost cut the island in two. About 5,000 people live here — the largest town in the Faroes outside the Tórshavn area — and the place is unmistakably a working fishing port. Large pelagic trawlers tie up at the harbour, and the headquarters of several of the Faroes' biggest seafood companies, including JFK and Bakkafrost, are in the town.

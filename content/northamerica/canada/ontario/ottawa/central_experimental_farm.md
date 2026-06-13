@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 45.3929
 longitude: -75.7131
+score: 8.0
 ---
 
 The Central Experimental Farm is a 426-hectare working agricultural research station that has been surrounded by the city since the late 19th century — one of those truly unlikely urban spaces that you have to see to believe. Established in 1886 as one of five experimental farms created by the new Dominion of Canada to develop farming for the climate, it now operates as both a research facility and a public green space open to all.

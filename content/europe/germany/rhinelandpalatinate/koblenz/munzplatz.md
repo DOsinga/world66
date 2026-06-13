@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.3604
 longitude: 7.5990
+score: 6.8
 ---
 
 The triangular Münzplatz was the medieval mint square — coins were struck here for the Archbishops of Trier from the eleventh century until the eighteenth. The building on the south side is the eighteenth-century Metternich Palace, birthplace of the Austrian Chancellor Klemens von Metternich in 1773.

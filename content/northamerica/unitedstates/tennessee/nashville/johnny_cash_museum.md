@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - music_venue
+score: 7.9
 ---
 
 The Johnny Cash Museum, on 3rd Avenue South just off Broadway, is a privately run, very densely packed shrine to the Man in Black. The collection — handwritten lyrics, stage outfits, guitars, the cell-door panel from Folsom State Prison, family Bibles, the famous black wedding suit — is one of the most personal of any country-music museum. Several listening stations let you choose tracks across his career.

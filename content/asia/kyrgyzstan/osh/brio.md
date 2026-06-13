@@ -6,6 +6,7 @@ longitude: 72.7990
 tags:
   - eating_out
   - restaurant
+score: 4.9
 ---
 
 A reliable European-style restaurant near the central square, with attentive service, English-speaking staff and a long menu. Pizzas, pastas, soups and a few Russian and Kyrgyz dishes; the steaks are surprisingly good. Useful at the start of a trip when you want a familiar meal before you commit to the bazaar lunches.

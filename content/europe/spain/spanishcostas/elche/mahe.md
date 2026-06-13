@@ -6,6 +6,7 @@ longitude: -0.6988
 tags:
 - things_to_do
 - museum
+score: 8.2
 ---
 
 The MAHE (Museu Arqueològic i d'Història d'Elx) is built into and over the ruins of the Moorish alcazaba — the fortress that once controlled medieval Elche. The building itself is part of the exhibit: as you move through the galleries, you pass sections of the original fortifications, walk along parts of the old walls, and descend into spaces that were once towers or courtyards. It is an unusually honest piece of museum architecture, making the ruins a structural part of the visitor experience rather than something cordoned off behind glass.

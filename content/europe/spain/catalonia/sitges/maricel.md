@@ -9,6 +9,7 @@ tags:
 latitude: 41.2350
 longitude: 1.8125
 snippet: Gothic art, ceramics, and sea views from a clifftop palace
+score: 8.6
 ---
 
 The Museu de Maricel ("Sea and Sky") occupies a rambling neo-medieval palace built between 1910 and 1918 by the American collector Charles Deering, hanging directly over the Mediterranean next to the Cau Ferrat. Deering eventually fell out with the architect and shipped most of his collection back to Chicago; what remained, plus subsequent donations, now makes a strong run through Catalan art from the Romanesque to the early 20th century.

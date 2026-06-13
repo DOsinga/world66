@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, archaeological]
 latitude: 34.3277
 longitude: 134.0236
+score: 6.7
 ---
 
 A cluster of large keyhole-shaped tumuli on the south-western edge of the city, dating to the late fourth and early fifth centuries — the period when the proto-Japanese state was beginning to consolidate. The largest of the mounds, Iwaseoyama Kofun proper, is around a hundred metres long and is one of the most significant surviving tombs of its kind in western Japan.

@@ -10,6 +10,7 @@ longitude: 29.7429
 sources:
   - https://en.wikipedia.org/wiki/Diocese_of_Butare
   - https://www.discoverrwanda.net/cities/huye/
+score: 6.2
 ---
 
 Butare Cathedral anchors the Roman Catholic Diocese of Butare and is one of the city's main architectural landmarks. Its appeal is quiet rather than ornate, but the building fits Huye's character: sober, civic, and closely tied to education and public life.

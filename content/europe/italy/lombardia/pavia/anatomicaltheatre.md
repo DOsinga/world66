@@ -14,6 +14,7 @@ story: "The university's anatomical theatre was where public dissections were pe
   head, preserved after his death in 1832, is displayed in a case in the history museum."
 snippet: 18th-century dissection theatre frescoed with allegorical scenes of medicine and death
 type: poi
+score: 7.1
 ---
 
 The anatomical theatre within the old campus of the University of Pavia is one of the better-preserved of its kind in Italy. The tiered wooden seating surrounds the central dissection table on all sides, allowing maximum visibility for the student audience. The frescoed ceiling, painted to suggest that medicine operates at the border between earthly and spiritual realms, creates a striking contrast with the practical purpose of the room.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 40.1680
 longitude: -8.8710
+score: 7.8
 ---
 
 The coast north of town at Buarcos delivers consistent Atlantic surf, making it one of the more reliable breaks in central Portugal. The beach here is narrower and wilder than the main town beach, with the swell arriving more directly from the Atlantic and less sheltered by the river mouth geography to the south.

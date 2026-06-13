@@ -14,6 +14,7 @@ story: >
   documents of the ancient world. The main portion ended up in the Ashmolean Museum
   in Oxford after being sold by a Greek merchant in the 17th century; Paros keeps
   only a small fragment.
+score: 8.1
 ---
 
 The Archaeological Museum of Paros sits just behind the Ekatontapiliani church and is worth the small admission fee for the star exhibit alone: a fragment of the Parian Chronicle, a 3rd-century BC marble inscription that reads like a timeline of Greek history.

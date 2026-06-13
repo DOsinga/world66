@@ -7,6 +7,7 @@ tags:
 latitude: 49.4098
 longitude: 8.7067
 snippet: Germany's oldest university, founded 1386, with a museum and historic old auditorium
+score: 8.4
 ---
 
 The Ruprecht-Karls-Universität Heidelberg, founded in 1386 by Elector Ruprecht I, is the oldest university in Germany and one of the oldest in the German-speaking world. With around 30,000 students it remains a large and active research university, and its presence shapes the character of the entire city — the density of bookshops, cafés, and late-night bars on the Hauptstrasse and the lanes behind it is a direct result. Among the alumni and faculty over the centuries are an extraordinary roll-call: Hegel, Jaspers, Gadamer, and over fifty Nobel laureates.

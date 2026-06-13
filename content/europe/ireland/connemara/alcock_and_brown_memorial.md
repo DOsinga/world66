@@ -13,6 +13,7 @@ story: >
   When they touched down nose-first in the Irish bog, both men were unhurt,
   though Brown had spent much of the flight climbing out onto the wings in
   freezing fog to chip ice off the engines by hand.
+score: 7.5
 ---
 
 In the bog at Derrigimlagh, west of Clifden, a simple white aluminium sculpture marks the spot where Alcock and Brown's Vickers Vimy biplane came to rest in June 1919, completing the first non-stop transatlantic flight. The memorial is understated to the point of invisibility from the road, but a marked trail leads across the bog to the exact landing spot.

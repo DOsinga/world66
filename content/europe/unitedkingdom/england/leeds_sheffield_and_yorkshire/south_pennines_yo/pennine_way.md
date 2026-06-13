@@ -7,6 +7,7 @@ tags:
 - sight
 title: The Pennine Way
 type: poi
+score: 8.8
 ---
 
 The Pennine Way opened in 1965 as Britain's first National Trail, running 268 miles up the backbone of England from Edale in the Peak District to Kirk Yetholm in the Scottish Borders. The South Pennines stretch — between Standedge and the Calder Valley — passes Stoodley Pike, the Walshaw Dean reservoirs, and the wuthering moors around Top Withens (often identified with the Wuthering Heights farmhouse).

@@ -7,6 +7,7 @@ tags:
 latitude: 32.5255
 longitude: -117.0268
 snippet: "One of Tijuana's best craft breweries, with a spacious taproom."
+score: 6.9
 ---
 
 Norte Brewing Co. is one of the anchors of Tijuana's craft beer scene, a movement that has made the city one of the most interesting places for beer in Latin America. The brewery operates a full taproom in the Centro neighbourhood, a sprawling space with communal tables, a large bar, and a rotating selection of twenty or more house-brewed beers.

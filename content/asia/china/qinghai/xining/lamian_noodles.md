@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6155
 longitude: 101.7955
+score: 7.0
 ---
 
 Xining's version of hand-pulled noodles is distinct from the Lanzhou beef noodle soup that has become China's most widespread fast food. The Xining version is thicker, the broth cleaner, the portion larger, and the price is typically 10 to 15 yuan a bowl. Every halal restaurant in the Muslim quarter serves it, with the quality varying but the better places identifiable by the line of waiting customers.

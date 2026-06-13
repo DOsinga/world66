@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - garden
 - park
+score: 6.9
 ---
 
 The Nanjing Botanical Garden (南京中山植物园) sits at the northern foot of Purple Mountain and covers about 186 hectares. It is one of the largest botanical gardens in China, with collections spanning temperate and subtropical plants, a significant rose garden, and a section dedicated to Chinese medicinal herbs. The garden was established in 1929, making it one of China's oldest scientific botanical institutions.

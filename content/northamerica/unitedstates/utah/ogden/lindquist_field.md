@@ -9,6 +9,7 @@ latitude: 41.2240
 longitude: -111.9750
 sources:
   - https://en.wikipedia.org/wiki/Lindquist_Field
+score: 5.6
 ---
 
 The home of the Ogden Raptors, a Pioneer League baseball team, Lindquist Field is a compact minor league ballpark with the Wasatch Mountains rising immediately to the east — one of the better stadium views in American baseball. Games are casual, inexpensive, and thoroughly local: vendors sell Frito pie and locally brewed beer, families take up the outfield lawn seating, and the mountain backdrop turns pink as the sun sets behind the crowd.

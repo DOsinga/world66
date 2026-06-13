@@ -7,6 +7,7 @@ tags:
 - sight
 title: Far View Sites
 type: poi
+score: 7.2
 ---
 
 Far View Sites is part of the larger Mesa Verde story, where architecture, farming, water, and movement through canyon country all mattered. Look beyond the drama of the alcoves: the masonry, ventilation, storage rooms, and paths tell you how carefully people understood this landscape.

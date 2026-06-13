@@ -8,6 +8,7 @@ tags:
 latitude: 39.9583
 longitude: 26.2395
 snippet: "Foundations of the Greek and Roman temple to Athena on top of the mound — once the symbolic centre of the Roman city."
+score: 6.9
 ---
 
 The Greek and later Roman city built a temple to Athena on top of the highest part of the Troy mound. The earliest known temple here dates to the seventh century BC, replacing a long sequence of Bronze Age cult structures, and was substantially rebuilt by Lysimachus, one of Alexander the Great's successors, around 300 BC. The Romans rebuilt it again in the first century AD as part of Augustus's enthusiasm for the Trojan heritage of Rome.

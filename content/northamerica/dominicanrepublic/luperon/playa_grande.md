@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.9050
 longitude: -70.9540
+score: 7.5
 ---
 
 Playa Grande is a wide, curving beach of white sand a few minutes' walk from the centre of Luperon. The water is warm and clear, the surf gentle, and on most days — especially weekdays — you will have the beach largely to yourself. There was once a large resort here; it was destroyed in a hurricane and never rebuilt, which is why the beach remains uncrowded and free.

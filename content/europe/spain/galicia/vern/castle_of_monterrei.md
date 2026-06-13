@@ -9,6 +9,7 @@ tags:
 story: The castle's outer wall encloses one of the largest fortified precincts in Galicia. In 1494 a printing press operating inside its walls produced the Missale Auriense, the first book ever printed in Galicia — only a single complete copy survives, in the cathedral library at Ourense.
 title: Castle of Monterrei
 type: poi
+score: 8.5
 ---
 
 On the hill above Verín, visible from almost everywhere in town, the castle complex of Monterrei is one of the finest medieval fortifications in Galicia. Three concentric rings of walls enclose a precinct that includes the 14th-century Torre da Homenaxe (the great keep), the Torre das Damas, a 13th-century church (Igrexa de Santa María), a Renaissance palace built by the Counts of Monterrei in the 16th century, and the ruined hospital of San Pedro. The view from the parapets reaches across the Monterrei wine valley and south to the Portuguese border.

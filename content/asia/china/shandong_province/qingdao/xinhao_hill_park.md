@@ -6,6 +6,7 @@ tags:
   - sight
 title: Xinhao Hill Park
 type: poi
+score: 7.9
 ---
 
 The hill park surrounding the Governor's Residence offers the best views of the old German quarter and the bay. Well-maintained paths wind through pine and maple trees to several viewpoints, and the terraced gardens below the Governor's Residence are planted with seasonal flowers.

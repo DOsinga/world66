@@ -8,6 +8,7 @@ latitude: 10.6669
 longitude: 79.4422
 story: >
   Unlike most major Vaishnavite temples in Tamil Nadu which are dedicated to Vishnu in his reclining or standing form, Rajagopalaswamy is one of the rare shrines where the deity appears as Krishna tending cattle. The temple's name literally means 'king of cowherds' — Rajagopala — and the annual Brahmotsavam festival re-enacts Krishna's life in a procession that has run unbroken for centuries.
+score: 9.0
 ---
 
 The Rajagopalaswamy Temple is the reason Mannargudi exists. This sprawling Vaishnavite complex, spread over 23 acres, is one of the largest Krishna temples in South India and one of the 108 Divya Desams — the sacred sites celebrated by the Alvar poet-saints. The main gopuram rises to about 60 metres and is visible from well outside town, a landmark in the flat delta landscape.

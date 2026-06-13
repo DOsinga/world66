@@ -8,6 +8,7 @@ tags:
   - nature
 title: "Plage de Piemanson"
 type: poi
+score: 6.5
 ---
 
 Plage de Piemanson is a long, exposed beach beyond Salin-de-Giraud, facing the open Mediterranean. It has a wilder reputation than the town beaches at Saintes-Maries-de-la-Mer and can feel wonderfully empty outside peak periods.

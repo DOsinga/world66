@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 51.1240
 longitude: 71.4580
+score: 5.9
 ---
 
 Presidential Park is a long landscaped strip behind the Aqorda Residence, stretching east toward the Pyramid. It is wide, manicured, and patrolled — flowerbeds, fountains, monuments to national heroes, a small artificial lake at the eastern end. The park functions as the ceremonial garden of the executive complex.

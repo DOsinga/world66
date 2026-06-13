@@ -7,6 +7,7 @@ tags:
 title: Bisse du Levron
 type: poi
 snippet: Restored irrigation channel, an easy two-hour walk above the village
+score: 7.8
 ---
 
 The bisses are mediaeval irrigation channels that carried water from glacier streams to the dry villages of the Valais — and the Bisse du Levron, restored in the 1990s, is the most accessible of the surviving examples around Verbier. The channel hugs the contour at about 1,800 metres, and the path beside it is nearly flat for its full length.

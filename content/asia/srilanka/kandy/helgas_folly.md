@@ -14,6 +14,7 @@ story: >
   mirrors, columns — with paintings, murals, newspaper clippings, photographs of famous guests,
   and objects she collected on her travels. The result is as much a personal autobiography in
   three dimensions as it is a hotel or bar.
+score: 7.6
 ---
 
 Helga's Folly is one of the most bizarre interiors in Sri Lanka — a colonial villa on the Kandy hillside that has been decorated over decades into an overwhelming collage of paintings, mirrors, lanterns, dead flowers, photographs, newspaper clippings, and carved objects covering literally every surface. It is simultaneously a hotel, a bar, and a working museum of one woman's obsessions.

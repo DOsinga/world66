@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, architecture, historic_house]
 latitude: 41.1247
 longitude: -88.8256
+score: 6.2
 ---
 
 The Silas Williams House is a Queen Anne mansion built in 1890 for a Streator industrialist and later owned by Edward Baker, a local newspaper publisher. It is a textbook example of the style: a tall corner tower with a candle-snuffer roof, asymmetrical massing, decorative shingle work in the gables, and a wraparound porch with turned columns.

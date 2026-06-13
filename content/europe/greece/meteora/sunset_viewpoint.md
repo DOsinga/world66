@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7158
 longitude: 21.6297
+score: 8.1
 ---
 
 The main viewpoint for watching the sun go down over the Meteora rocks sits on the road between Kastraki and the monasteries, at a wide curve where the full sweep of the pillars is visible from roughly west-facing ground. As the sun drops behind the Pindos mountains to the west, the rocks glow orange and amber in sequence, and the monasteries — visible as white and terracotta structures against the darkening stone — catch the last light minutes after the valley below has fallen into shadow.

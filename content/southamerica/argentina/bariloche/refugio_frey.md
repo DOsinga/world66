@@ -8,6 +8,7 @@ tags:
 latitude: -41.1820
 longitude: -71.4710
 snippet: "Mountain hut on a cirque lake below granite spires"
+score: 9.1
 ---
 
 Frey is the most popular mountain hut day-hike from Bariloche — a sturdy stone refugio of the Club Andino Bariloche, perched at 1,700 metres beside a small glacial lake below the granite needles of the Catedral massif. The walk in takes around four hours from the base of Cerro Catedral, climbing through forest before breaking out into a wide cirque ringed by climbing routes.

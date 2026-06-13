@@ -13,6 +13,7 @@ story: >
   on the great domed churches of Byzantium — hence the unusual polygonal plan for a Lombard
   building in southern Italy. It survived 1000 years of earthquakes and wars before being
   listed as a UNESCO World Heritage Site in 2011 as part of the Longobards in Italy group.
+score: 8.8
 ---
 
 Santa Sofia is a small but remarkable church in Benevento's historic centre, built in the 8th century by the Lombard duke Arechis II and now a UNESCO World Heritage Site as part of the "Longobards in Italy: Places of Power" group. The church has an unusual elongated polygonal plan — a six-pointed arrangement of columns supporting a low dome — which reflects the Lombard ambition to match Byzantine sophistication in their southern Italian stronghold.

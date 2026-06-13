@@ -14,6 +14,7 @@ story: >
   a plant found nowhere else on earth. Its survival depends entirely on the
   protection of this specific patch of mountain forest — remove the reserve and
   the species disappears with it.
+score: 8.5
 ---
 
 The Horsh Ehden Nature Reserve protects around 1,000 hectares of mixed forest on the slopes of Mount Makmal, at elevations between 1,400 and 2,000 metres. The canopy is an unusual mix for Lebanon: ancient cedars, Cilician firs, junipers, wild apple and pear trees, and patches of mountain oak. Walking through it feels genuinely old, the trees substantial enough to have been here long before the current village existed.

@@ -4,6 +4,7 @@ type: poi
 latitude: -3.6833
 longitude: 39.8500
 tags: [things_to_do, sight]
+score: 7.7
 ---
 
 Takaungu is a small Swahili fishing village about 15 km south of Kilifi, set on its own narrow creek. It feels several decades behind the rest of the coast: coral-rag houses, narrow lanes, a small ruined fort, and a population that still makes most of its living from fishing and seaweed farming.

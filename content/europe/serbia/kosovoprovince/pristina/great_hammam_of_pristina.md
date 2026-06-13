@@ -13,6 +13,7 @@ story: >
   Fatih Sultan Mehmed Han Hamamı. It survived the Ottoman period, the Yugoslav period, and the 1999 war,
   though it has not functioned as a bath house for generations. Today it sits within the old bazaar area
   as a monument rather than a working facility — you can walk around it but not take a steam.
+score: 7.0
 ---
 
 The Great Hammam of Pristina is one of the oldest surviving Ottoman structures in Kosovo, built in the 15th century during the reign of Sultan Mehmed II. The building — with its characteristic lead-domed roof perforated with small glass oculi to let in light — sits within the old bazaar district, not far from the Jashar Pasha Mosque.

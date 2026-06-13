@@ -10,6 +10,7 @@ tags:
 - festivals
 title: 28-29 November (Albanian Independence Day)
 type: poi
+score: 4.8
 ---
 
 November 28 is Albanian Independence Day, commemorating the declaration of independence from the Ottoman Empire in 1912. The central figure was Ismail Qemali (1844-1919), a distinguished leader of the Albanian national movement who became the country's first head of state.

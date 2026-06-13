@@ -14,6 +14,7 @@ story: >
   winds by surrounding ridges, warm enough in summer for the fruit to ripen. The oil
   produced here has won national quality prizes in recent years, to the surprise of
   everyone who assumed olives needed Mediterranean conditions.
+score: 5.9
 ---
 
 Wudu district has developed a substantial olive industry over the past few decades, and the terraced hillsides of the Bailong River valley are now covered with olive groves that look startlingly out of place in northwestern China. The trees are productive and the local cold-pressed oil is increasingly sold across the country. Walking the valley roads in autumn, when the harvest is under way, gives a vivid sense of this agricultural improbability.

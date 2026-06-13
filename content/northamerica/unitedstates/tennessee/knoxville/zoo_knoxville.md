@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.9936
 longitude: -83.9068
+score: 6.8
 ---
 
 Zoo Knoxville is a mid-size zoo occupying 53 acres northeast of downtown in Chilhowee Park. It has a particular reputation for big cat breeding — the zoo has one of the longest-running cheetah breeding programmes in North America and has bred more red pandas than any other zoo in the Western Hemisphere. Both species are reliably on display.

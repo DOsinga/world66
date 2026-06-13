@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The fortress sits on Mount Mladevac, which takes its name from a Slavic word for "young man" — local legend holds that unmarried men were once stationed here as lookouts, scanning the Drina valley for approaching armies. The Ottoman garrison that held it for centuries called it İzvornik Kalesi, after the river springs below.
+score: 8.1
 ---
 
 Zvornik Fortress — also known as Kula Grad ("Tower City") or Stari Grad ("Old Town") — is a medieval castle perched on Mount Mladevac above the city, commanding views of the Drina valley and the Serbian town of Mali Zvornik directly across the river. The original structure dates from the medieval Bosnian kingdom; the Ottomans captured and substantially expanded it in 1460 and held it for over three centuries.

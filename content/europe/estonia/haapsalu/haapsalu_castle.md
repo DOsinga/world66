@@ -11,6 +11,7 @@ story: >
   The castle's most famous resident is a ghost. According to legend, a young woman dressed as a choirboy was discovered hiding inside by the bishop and walled up alive as punishment. She is said to reappear as the White Lady in the chapel window every August during the full moon — a tradition so well-established that the town has built an entire summer festival around it.
 sources:
   - https://en.wikipedia.org/wiki/Haapsalu_Castle
+score: 9.1
 ---
 
 Haapsalu Castle — or the Episcopal Castle — is a vast thirteenth-century fortress built as the seat of the Bishopric of Ösel-Wiek. The main keep, tower, and surrounding curtain walls are remarkably well preserved, and a cathedral with a nave dating to around 1270 stands within the enclosure. It is one of the best-maintained medieval fortifications in Estonia.

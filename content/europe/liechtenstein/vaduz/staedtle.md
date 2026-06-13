@@ -7,6 +7,7 @@ tags:
 - sight
 title: Städtle
 type: poi
+score: 8.4
 ---
 
 Städtle is the pedestrianised main street of Vaduz and the city's social spine. It runs for only a few hundred metres but packs in the cathedral, the Kunstmuseum, the National Museum, the Postmuseum, the government building, the tourist office and a half-dozen cafés. Walk it slowly.

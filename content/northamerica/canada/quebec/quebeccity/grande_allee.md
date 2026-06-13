@@ -7,6 +7,7 @@ tags:
 latitude: 46.8040
 longitude: -71.2210
 snippet: Québec City's main bar strip, lined with terasses and Victorian townhouses
+score: 6.5
 ---
 
 The tree-lined boulevard immediately outside the Parliament Building and Old City walls is Québec City's main entertainment street, particularly for bars and terraced restaurants. On summer evenings the Grande Allée is one of the most animated streets in Canada — every bar and restaurant runs an outdoor terasse, the energy is high, and the parade of people on the sidewalk goes on well past midnight.

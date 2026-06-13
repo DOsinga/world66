@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1891
 longitude: 91.7538
+score: 6.9
 ---
 
 A small Tantric temple in the Latasil locality near Jor Pukhury tanks, dedicated to Ugratara — a fierce form of the Mother Goddess associated with the Buddhist Tara as well as with Hindu Tantra. The temple is one of the more obscure Shakti shrines of the region and a much quieter alternative to Kamakhya for getting a sense of the city's Tantric tradition. The structure is 18th-century Ahom, built by Swargadeo Siva Singha.

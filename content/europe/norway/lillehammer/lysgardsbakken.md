@@ -5,6 +5,7 @@ tags: [things_to_do, sight, sport]
 latitude: 61.125
 longitude: 10.48722
 story: "The Lysgårdsbakken ski jumping hill was the site of the 1994 Winter Olympics opening ceremony, when a jumper descended the ramp carrying the Olympic torch — one of the most memorable moments in recent Olympic history. The hill consists of two separate jumps (the large and the normal hill), and both are still used for World Cup competitions. Visitors can take a chairlift to the top of the large hill for views across Lillehammer and Lake Mjøsa, or, more dramatically, ride a wheeled bobsled down the Olympic sliding track at speeds up to 100 km/h."
+score: 8.6
 ---
 
 The Lysgårdsbakken ski jumping arena sits on the hillside directly above Lillehammer, its two distinctive jumps visible from much of the town below. The hills were built for the 1994 Winter Olympics and have been maintained and upgraded since; they host FIS Ski Jumping World Cup events and are used for training and competition throughout the winter season.

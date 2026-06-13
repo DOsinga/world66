@@ -7,6 +7,7 @@ tags:
 latitude: 9.5058
 longitude: 138.1228
 snippet: "A traditional faluw — men's meetinghouse — that is a National Historic Landmark and a working centre of Yapese village governance."
+score: 8.7
 ---
 
 The faluw is the architectural and political heart of every traditional Yapese village. These men's meetinghouses served as the place where village elders deliberated, where young men were educated in the laws and protocols of the community, and where the complicated hierarchical relationships between villages — a system of mutual obligation and tribute called sawei — were negotiated and maintained. The Rull faluw stands as one of the finest surviving examples on the island, recognised as a National Historic Landmark for its architectural integrity and its continued significance to the community. The building itself follows the classic form: a massive, steeply pitched roof of thatch descending almost to the ground, supported by heavy timber posts, with a raised stone platform and a stone canoe house nearby.

@@ -11,6 +11,7 @@ story: >
   decades of political effort to achieve, finally granted in 1971. The northern
   Peneda section, closest to Arcos, remains one of the least visited parts of
   the park, meaning you are genuinely likely to have the trails to yourself.
+score: 8.8
 ---
 
 Arcos de Valdevez sits at the edge of the Serra da Peneda, the northern arm of the Peneda-Gerês National Park — Portugal's only national park and one of the least crowded in western Europe. The park covers around 700 square kilometres of granite mountains, river valleys, and oak forest, running along the Spanish border from the Lima valley north to the Minho river.

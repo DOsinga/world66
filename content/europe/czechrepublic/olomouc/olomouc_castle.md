@@ -8,6 +8,7 @@ tags:
 - sight
 title: Olomouc Castle
 type: poi
+score: 8.4
 ---
 
 What is called the "castle" is really the complex around Saint Wenceslas Cathedral on a low rise above the Morava river — the original 11th-century ducal seat of Moravia, fortified, rebuilt and repurposed many times. The Romanesque palace, the cathedral, and the surrounding cloister are now best visited through the **Archdiocesan Museum**, which uses the historic spaces to display religious art from across Moravia.

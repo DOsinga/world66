@@ -12,6 +12,7 @@ story: >
   King Abdullah I, who was assassinated at the Al-Aqsa Mosque in Jerusalem 
   in 1951. Construction did not begin until 1982 and was completed in 1989 — 
   taking 38 years from conception to dedication.
+score: 7.0
 ---
 
 King Abdullah I Mosque is the largest mosque in Amman and the most architecturally distinctive, built between 1982 and 1989 with a striking blue-tiled octagonal dome that can be seen from much of the city. The dome is 35 metres in diameter and is decorated with geometric patterns in deep blue, blue-green, and white tilework. The prayer hall beneath accommodates around 3,000 worshippers.

@@ -12,6 +12,7 @@ tags:
 - sight
 title: Albariño Wine Route
 type: poi
+score: 7.7
 ---
 
 The Ruta do Viño Rías Baixas threads together more than 50 wineries open to

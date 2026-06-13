@@ -8,6 +8,7 @@ latitude: 36.315
 longitude: 74.6819
 story: >
   Altit Fort is believed to be over 900 years old, making it the oldest surviving fort in Gilgit-Baltistan. For most of its history it served as the residence of the Mir of Hunza's queens rather than the Mir himself — Baltit Fort was the ruler's seat while Altit was the women's domain, perched on the cliff above the Hunza River.
+score: 8.6
 ---
 
 Altit Fort sits on a dramatic cliff edge about 1.5 kilometres from Ganish, directly above the churning Hunza River. It is one of the oldest structures in Gilgit-Baltistan, with origins dating back at least 900 years, and was the ancestral seat of the ruling family before Baltit Fort assumed that role. The fort was restored in the early 2000s by the Aga Khan Cultural Service and is now open to visitors.

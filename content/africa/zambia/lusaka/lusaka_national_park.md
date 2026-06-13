@@ -12,6 +12,7 @@ story: >
   land this close to a growing city was controversial, but the presence of white rhinos —
   reintroduced from South Africa as part of a conservation programme — has made it a genuine
   wildlife destination rather than just a scenic drive.
+score: 8.4
 ---
 
 Zambia's newest and smallest national park sits about 30 kilometres east of the city centre, making it easily accessible for a half-day excursion. Despite its modest size, it holds a solid selection of species: white rhinos, giraffes, zebras, blue wildebeest, eland, warthogs, and a variety of birds. The landscape is open savanna with patches of woodland — attractive in its own right even without the animals.

@@ -8,6 +8,7 @@ tags:
   - shopping
 latitude: 5.8233
 longitude: -55.1590
+score: 8.1
 ---
 
 The Central Market is the most vivid and chaotic place in Paramaribo — a large covered market near the waterfront where the full diversity of Surinamese society assembles every morning to buy and sell. Vendors from the Hindustani, Javanese, Creole, and Maroon communities each have their regular stalls, selling tropical produce, dried fish, spices, herbal medicines, and household goods alongside one another.

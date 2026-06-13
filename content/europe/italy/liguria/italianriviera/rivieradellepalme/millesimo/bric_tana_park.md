@@ -6,6 +6,7 @@ longitude: 8.205
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The Bric Tana regional park covers a karst plateau immediately north of Millesimo. It is a tangle of sinkholes, doline depressions, and small caves cut into the limestone, with chestnut and beech woods on top.

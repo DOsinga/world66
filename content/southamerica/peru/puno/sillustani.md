@@ -6,6 +6,7 @@ latitude: -15.7167
 longitude: -70.1583
 snippet: Pre-Inca and Inca funerary towers on a windswept promontory above Lake Umayo
 story: The largest chullpa at Sillustani stands 12 metres tall and is made from blocks weighing several tons each, hauled up to the promontory and fitted without mortar. Many of the towers were never finished — building stopped abruptly with the Spanish conquest in the 1530s.
+score: 9.4
 ---
 
 The standout half-day trip from Puno. Sillustani is a hilltop necropolis of pre-Inca and Inca funerary towers — chullpas — built by the Aymara-speaking Kolla people to house the remains of their nobility. The towers stand on a promontory above the small, deep-blue Lake Umayo, about 35 kilometres north of Puno and around an hour by road.

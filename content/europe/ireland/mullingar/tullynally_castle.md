@@ -11,6 +11,7 @@ story: >
   Tullynally has been the home of the Pakenham family — the Earls of Longford — since 1655, making it one of the longest continuously inhabited private houses in Ireland. Thomas Pakenham, the military historian, was its most famous recent occupant; his books on the Boer War and the scramble for Africa were written here while he maintained one of Ireland's most impressive arboreta in the grounds.
 sources:
   - https://en.wikipedia.org/wiki/Tullynally_Castle
+score: 7.5
 ---
 
 Tullynally Castle, near Castlepollard about 24 km north of Mullingar, is the largest inhabited castle in Ireland — a vast Gothic pile that grew by accretion from the 17th to the 19th century, ending up with towers, battlements, and a silhouette that makes it look almost theatrical against the Westmeath sky. The current building owes most of its character to early 19th-century remodelling by Francis Johnston.

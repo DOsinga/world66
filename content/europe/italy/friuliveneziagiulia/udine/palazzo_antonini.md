@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.1
 ---
 
 Palazzo Antonini, just north of the historic centre, is one of the few Andrea Palladio buildings on the mainland north of Venice — and the only one in Friuli. The Antonini family commissioned the design in 1556; the central courtyard and the symmetrical façade with its giant order of half-columns are unmistakably Palladian, even though later owners modified the building.

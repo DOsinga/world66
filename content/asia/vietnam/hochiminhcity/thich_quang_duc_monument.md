@@ -18,6 +18,7 @@ story: >
   said: "No news picture in history has generated so much emotion around the world."
 sources:
   - https://en.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c
+score: 6.5
 ---
 
 The Thích Quảng Đức Monument stands at the intersection where the Buddhist monk self-immolated on 11 June 1963, in protest against the Diệm government's persecution of Buddhists. The act — and Malcolm Browne's photograph of it — shocked the world and contributed to the political crisis that led to the coup and assassination of President Diệm five months later.

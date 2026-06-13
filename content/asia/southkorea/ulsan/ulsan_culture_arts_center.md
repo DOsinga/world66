@@ -9,6 +9,7 @@ title: Ulsan Culture and Arts Center
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Ulsan_Culture_%26_Arts_Center
+score: 5.7
 ---
 
 The Ulsan Culture and Arts Center is the city's principal venue for performing arts, hosting a programme that includes touring theatre companies, orchestral concerts, opera, and dance. It sits in Dal-dong, easily reached from Samsandong or central Ulsan. The building is a confident piece of civic architecture — rare in a city that tends to prioritise function over form.

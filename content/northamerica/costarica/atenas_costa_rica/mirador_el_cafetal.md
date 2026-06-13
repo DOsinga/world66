@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.9830
 longitude: -84.3920
+score: 6.6
 ---
 
 A viewpoint in the coffee hills above Atenas with a wide view over the Central Valley and, on clear mornings, toward the Pacific lowlands. The surrounding hillsides are dense with coffee plants, and the road up passes working fincas and the occasional ox cart. It is a short drive or a reasonable walk from the town centre depending on your appetite for hills.

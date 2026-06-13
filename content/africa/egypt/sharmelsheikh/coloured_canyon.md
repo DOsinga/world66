@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A narrow slot canyon north of Nuweiba where iron oxide has stained the sandstone walls in bands of red, purple, and gold.
+score: 8.0
 ---
 
 The Coloured Canyon is a tight slot canyon cut into the rim of the Sinai's central massif, near the small town of Nuweiba on the Gulf of Aqaba. Walking the canyon takes about an hour and a half, scrambling over small rock steps between walls that close in to a few metres apart and then open out again into miniature amphitheatres. Iron and manganese leaching out of the sandstone have stained the rock in extraordinary mineral colours — rust, yellow, lilac, deep red — that change as the sun rotates overhead.

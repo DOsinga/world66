@@ -6,6 +6,7 @@ tags:
 - sight
 title: Wredeby Airfield
 type: poi
+score: 2.6
 ---
 
 Wredeby is a small grass-and-asphalt airfield about 7km southwest of Inkeroinen, used mainly by local flying clubs for general aviation, gliding, and occasional skydiving operations.

@@ -15,6 +15,7 @@ story: >
   victory over the Ottomans in the Great Siege of 1565, and its name commemorates that
   deliverance. De la Valette himself was buried here until his remains were later moved to
   St John's Co-Cathedral.
+score: 6.7
 ---
 
 The Church of Our Lady of Victories is the oldest church in Valletta, built immediately after the Great Siege of 1565 to celebrate the defeat of the Ottoman fleet. Grand Master Jean de la Valette laid the foundation stone in 1566, beginning the construction of the entire city at the same time. The church sits near City Gate and is relatively modest by Valletta standards — the Knights put their major resources into St John's Co-Cathedral — but it carries historical weight as the physical starting point of the city.

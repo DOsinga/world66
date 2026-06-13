@@ -11,6 +11,7 @@ tags:
   - sight
   - sullivans_cove
 snippet: "One of the world's oldest preserved Tasmanian fishing boats — a quietly extraordinary survivor"
+score: 6.8
 ---
 
 The Matilda is a small **clinker-built fishing boat** dating from the 1880s, hauled out of the Derwent in the 1970s and lovingly restored over decades by Tasmanian volunteers. The boat is one of the very few surviving examples of its kind — a working sailing-rigged inshore fishing vessel of the late colonial period, used to catch flathead and trumpeter in the channel between Hobart and Bruny Island.

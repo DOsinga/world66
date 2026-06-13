@@ -13,6 +13,7 @@ story: >
   spat to the lagoon. The hybrid the farms now grow is descended from those
   introductions crossed with native stock — a particularly large, rather
   briny oyster that has become a fixture of Casablanca's better restaurants.
+score: 7.4
 ---
 
 Park 7 is the largest and most visitor-friendly of the lagoon's oyster operations and the easiest stop if you want to see how the farms work. Mid-morning is the best time — the boats are coming in with the racks, the sorting tables are full, and the staff have time to talk you through what they are doing. The tasting room at the back of the warehouse serves freshly opened oysters on plastic plates with bread and wine; you can sit on the deck looking out over the lagoon.

@@ -10,6 +10,7 @@ tags:
   - sight
 snippet: The Gold Coast's best surf headland with a national park walk and strong cafe scene
 story: "The point break at Burleigh Heads has been breaking waves the same way for millions of years, but it took the surfing boom of the 1960s to make it famous. When Nat Young and the shortboard revolution swept through Australian surfing in 1966, Burleigh's barrel waves were exactly what the new style demanded — steep, fast, and powerful."
+score: 8.6
 ---
 
 Burleigh Heads is the antidote to Surfers Paradise — a compact, characterful suburb 10 km to the south with a world-class surf break, a rainforest headland walk, and a cafe strip that locals would rather keep to themselves. The point break at the headland is one of the best in Australia when it's on, and on any good weekend the lineup will have some of the state's better surfers waiting for the rights.

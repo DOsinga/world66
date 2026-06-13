@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 12.1087
 longitude: -68.9316
+score: 8.2
 ---
 
 Marshe Bieu — "old market" in Papiamentu — is the best lunch spot in central Willemstad. The covered market hall in Punda has a row of cook stalls run by local women, serving traditional Curaçaoan food at very low prices: stoba, Kadushi soup, goat stew, grilled fish, and funchi. The stalls have been in operation for generations; some of the recipes have been passed down for decades.

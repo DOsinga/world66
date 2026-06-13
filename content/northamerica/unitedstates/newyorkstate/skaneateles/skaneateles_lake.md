@@ -8,6 +8,7 @@ tags:
 - swimming
 title: Skaneateles Lake
 type: poi
+score: 8.7
 ---
 
 Skaneateles Lake is one of the smaller and easternmost of the Finger Lakes, but consistently rated among the cleanest large lakes in the United States — its water is drawn unfiltered for the city of Syracuse. The lake runs roughly north-south for 25 kilometres, narrow and deep, with steep wooded shores and a handful of small coves.

@@ -15,6 +15,7 @@ tags:
   - museum
 title: Castello Sforzesco
 type: poi
+score: 8.8
 ---
 
 A vast 15th-century red-brick fortress built by the Sforza duchy, now housing several civic museums. The most important is the Museo d'Arte Antica, which contains Michelangelo's unfinished Pietà Rondanini — his last work, left incomplete at his death in 1564, and one of the most moving sculptures in Italy.

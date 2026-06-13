@@ -8,6 +8,7 @@ tags:
 latitude: 30.3225
 longitude: 35.4516
 story: "The name 'Treasury' comes from a Bedouin legend that a pharaoh hid his gold in the stone urn at the top of the facade. Generations of would-be looters pocked the urn with rifle shots in the hope of cracking it open; the urn is solid sandstone."
+score: 9.8
 ---
 
 The most famous facade in Petra and probably the most famous rock-cut monument anywhere. Al-Khazneh stands 40 metres tall, carved into a single cliff face at the end of the Siq, and was probably the tomb of the Nabataean king Aretas IV in the early first century AD.

@@ -6,6 +6,7 @@ longitude: 173.2500
 tags:
   - eating_out
   - bars_and_cafes
+score: 5.7
 ---
 
 Okahu Estate is New Zealand's northernmost commercial vineyard, sitting just south of Kaitaia. The estate makes well-regarded Syrah, Chambourcin, and a sweet, late-harvest Chardonnay that takes advantage of the long, warm Northland autumn.

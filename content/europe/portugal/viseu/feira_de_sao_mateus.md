@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.6570
 longitude: -7.9138
+score: 7.8
 ---
 
 The Feira de São Mateus is one of the oldest and largest fairs in Portugal, held annually in August and September in Viseu. It has operated since 1392 — first as a church market, then as a regional agricultural and craft fair, now as a large popular festival with food, wine, music, and commerce. The scale is striking: thousands of stalls spread across the Parque de Exposições, selling everything from regional crafts to furniture to cars.

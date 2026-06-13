@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Thassos marble was prized throughout the ancient world — it appears in the frieze of the Erechtheion on the Athenian Acropolis. The quarry face at Alyki still shows the saw marks and chisel traces of ancient workers, preserved by the same dense white stone that made the island famous. Nowhere else in Greece can you read the evidence of ancient quarrying so clearly.
+score: 8.8
 ---
 
 On the southern coast, the marble quarries at Alyki were worked continuously from the 7th century BC through the Byzantine period — a span of nearly 1,400 years. The quarried blocks were loaded directly onto ships from the water's edge, and the loading ramps cut into the rock are still clearly visible, dropping straight into the sea. The setting is remarkable: brilliant white marble meeting deep blue water, with cut faces and abandoned blocks scattered along the shore as though the workers simply walked away one afternoon and never came back.

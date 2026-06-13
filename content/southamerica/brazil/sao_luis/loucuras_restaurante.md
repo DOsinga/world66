@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: -2.529
 longitude: -44.303
+score: 6.7
 ---
 
 Loucuras do Sul is a well-regarded restaurant in the historic centre serving a combination of Maranhão regional food and churrasco (Brazilian barbecue). The regional dishes are the real draw: *torta de camarão* (shrimp tart), *vatapá*, crab rice, and the ubiquitous *arroz de cuxá*. Portions are large and prices are reasonable.

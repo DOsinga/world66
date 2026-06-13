@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, recreation]
 latitude: 42.081667
 longitude: -72.057778
+score: 5.2
 ---
 
 The Westville Dam is a flood control dam on the Quinebaug River, operated by the US Army Corps of Engineers, about four miles southeast of Sturbridge center. Built in 1961, it's a dry dam — meaning the reservoir only fills during high-water events, and the valley behind the dam is otherwise open meadow and forest. The Army Corps maintains a recreation area around the dam with picnic tables, gravel walking paths, and river access for fishing. The Quinebaug holds smallmouth bass, chain pickerel, and brown trout, and the stretch below the dam is reasonably productive in spring and early summer.

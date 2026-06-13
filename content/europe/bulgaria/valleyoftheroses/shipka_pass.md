@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.7541
 longitude: 25.3344
+score: 8.8
 ---
 
 The Shipka Pass crosses the central Balkan range at 1,150 metres, the most famous of Bulgaria's mountain passes. In August 1877, during the Russo-Turkish War, a small force of Russian and Bulgarian volunteers held the pass against overwhelming Ottoman attacks — a battle that has become central to Bulgaria's national story of independence.

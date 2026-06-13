@@ -9,6 +9,7 @@ longitude: -38.5153
 snippet: Fortaleza's bohemian beachfront quarter, with bars, forró, and seafood
 sources:
   - https://en.wikipedia.org/wiki/Praia_de_Iracema
+score: 7.5
 ---
 
 Praia de Iracema is the westernmost of Fortaleza's urban beaches and the one with the most character — a neighbourhood of whitewashed colonial buildings, bars playing forró and axé, and the old Ponte Metálica pier stretching into the sea. The beach itself is less clean than Meireles or Praia do Futuro, but the neighbourhood is the most interesting for wandering, eating, and drinking.

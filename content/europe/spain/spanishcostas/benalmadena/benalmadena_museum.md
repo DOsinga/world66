@@ -6,6 +6,7 @@ longitude: -4.5732
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 Tucked into a former eighteenth-century house in the pueblo, the Museo Precolombino is one of the small surprises of Benalmádena. It houses the pre-Columbian collection assembled by the Cuban-born painter Felipe Orlando, who lived locally and donated his pieces — ceramics, jade carvings, gold ornaments, and figures from Mexico, Central America, and the Andes — to the town.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 7.7
 ---
 
 Vlychos is the small hamlet half an hour's walk west of Hydra town along the coast — past Kamini, around a couple of headlands, with the path narrowing to a stony track in places. It is the best swimming on the populated side of the island: a pebble beach in a sheltered curve of bay, deep blue water, and the picturesque 19th-century stone bridge that arches over the dry watercourse at the back of the cove.

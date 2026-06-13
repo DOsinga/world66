@@ -13,6 +13,7 @@ story: >
   isolated — single columns rising to 40 metres from a flat base rather than the tightly
   packed maze of the main zone. UNESCO included Naigu in its 2007 World Heritage designation
   specifically because its geology differs from the more famous sections.
+score: 8.4
 ---
 
 Naigu Stone Forest sits about 9 kilometres northeast of the main park zone and receives a fraction of the visitor numbers, which immediately changes the character of the experience. The darker, taller columns rise from relatively flat ground with scrub vegetation between them, and the sense of scale is more apparent than in the main zone where the density compresses everything. Some individual formations here reach 40 metres — equivalent to a twelve-storey building.

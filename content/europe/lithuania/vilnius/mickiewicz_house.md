@@ -9,6 +9,7 @@ tags:
   - museum
   - old_town
 neighbourhood: Old Town
+score: 6.2
 ---
 
 The Adam Mickiewicz House Museum on Bernardinų Street marks the apartment where Poland's greatest poet — and one of the towering figures of 19th-century European Romanticism — lived as a student at Vilnius University in the early 19th century. Mickiewicz was born in the Vilnius region (then part of the Russian-controlled Duchy of Lithuania), and Vilnius, which he called Wilno, was central to his imagination.

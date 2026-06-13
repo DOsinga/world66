@@ -7,6 +7,7 @@ tags:
 latitude: 39.9453
 longitude: -75.1755
 snippet: "Home of the Philadelphia citywide special — a dive bar institution since 1969, with drag shows and live jazz"
+score: 7.0
 ---
 
 Bob & Barbara's is a South Street institution that invented or at least perfected the Philadelphia citywide special: a Pabst Blue Ribbon tall boy and a shot of Jim Beam for a price that barely covers the cost of either. The bar has been on South Street since 1969 and has accumulated the kind of patina — neon signs, red vinyl, Christmas lights year-round, a back bar that looks unchanged since the Carter administration — that cannot be manufactured. It is a genuine neighborhood dive that has survived long enough to become beloved.

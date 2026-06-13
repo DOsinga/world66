@@ -15,6 +15,7 @@ story: >
   state in the 1970s survived until the 1990s. The whole arrangement speaks to
   a particular moment in geopolitics: the era when a Yugoslav head of state
   could receive animal gifts from across three continents.
+score: 6.9
 ---
 
 The Safari Park on Veli Brijun occupies a large section of the island's interior and is home to deer, llamas, Tibetan yaks, peacocks, and various other animals, some descended from diplomatic gifts given to Tito. You visit by electric buggy as part of the organised tour, and the guide will explain which animals came from where. The setting — open parkland with Adriatic views through the treeline — is pleasant, and the animals are accustomed to visitors.

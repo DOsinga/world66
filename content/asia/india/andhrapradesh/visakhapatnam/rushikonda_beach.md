@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.7714
 longitude: 83.3706
+score: 7.9
 ---
 
 Rushikonda Beach, about 8 km north of the city centre, is the best beach in Visakhapatnam for swimming — cleaner than RK Beach, with gentler currents, golden sand, and green hills running down to the waterline. The Andhra Pradesh Tourism Development Corporation (APTDC) runs a resort complex on the headland above the beach that rents out watersports equipment: kayaks, windsurfers, and banana boats.

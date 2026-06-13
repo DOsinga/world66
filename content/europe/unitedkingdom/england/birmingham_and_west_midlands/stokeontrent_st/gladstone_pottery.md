@@ -9,6 +9,7 @@ tags:
 snippet: "Preserved Victorian pottery factory with bottle ovens"
 story: >
   Bottle ovens were so dirty that Stoke's air during firings used to be visibly black. The 1956 Clean Air Act effectively killed them off — most were demolished by the 1970s. Of the more than 4,000 bottle ovens that once dotted the Potteries skyline, only forty-seven survive.
+score: 8.7
 ---
 
 Gladstone is a complete preserved Victorian pottery factory in Longton — the only one left intact in the country. Four bottle-shaped kilns dominate the cobbled yard, and you can walk into the cool brick-lined interior of one to get a sense of what firing day was like. The factory ran until 1960, after which it was rescued by enthusiasts and turned into a museum.

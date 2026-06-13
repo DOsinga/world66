@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Mary
 type: poi
+score: 5.4
 ---
 
 A small Old Town cafe on the corner of Vene street, right in the heart of Tallinn's medieval centre. A good stop for a mid-morning coffee and cake while sightseeing -- nothing fancy, just a quiet spot to sit down between the churches and cobblestones.

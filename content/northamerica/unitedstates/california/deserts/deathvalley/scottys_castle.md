@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Scotty's Castle
 type: poi
+score: 7.1
 ---
 
 A Spanish-Moorish mansion from the 1920s, sitting improbably in a remote canyon in the northern park. Albert Johnson spent a million dollars on it and never quite finished it — the unfinished tower and incomplete rooms are part of the charm. The house is closed for flood restoration after a 2015 storm severely damaged the access road, but check the NPS website for current tour availability; rangers lead tours through the period-furnished rooms when the site is open.

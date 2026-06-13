@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.19056
 longitude: 71.43714
+score: 6.4
 ---
 
 **Saint Mary's Cathedral** is the principal Anglican (now Church of Pakistan) church in Multan, built in the Cantonment in the 1840s during the early years of British rule. It is a single-nave brick building in a plain Victorian Gothic style with a tall bell tower, set in a walled compound with mature trees and the graves of British officers and their families from the nineteenth and early twentieth centuries.

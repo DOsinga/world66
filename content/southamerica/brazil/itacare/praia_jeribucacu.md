@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -14.2386
 longitude: -38.9764
+score: 8.4
 ---
 
 A long, wild beach reached by a 15-minute trail from the BA-001 road, about 8 km north of town. The trail follows a small river through Atlantic Forest before opening onto the sand at a river mouth. The sweet-water lagoon where the river meets the sea is one of the area's standout features — calm, warm, ankle-to-waist deep, perfect for small children.

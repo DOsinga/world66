@@ -5,6 +5,7 @@ latitude: 43.9633
 longitude: 12.7452
 tags:
   - eating_out
+score: 6.5
 ---
 
 The Romagna **piadina** — a soft, slightly puffy unleavened flatbread folded around prosciutto, squacquerone cheese, rocket, or sausage and grilled vegetables — is the local fast food, and Cattolica has a good handful of dedicated stalls. **Paolo's**, off Via Bovio near the centre, has been doing it longer than most.

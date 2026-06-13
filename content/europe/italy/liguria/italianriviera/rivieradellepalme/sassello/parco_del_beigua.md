@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.4900
 longitude: 8.4700
+score: 8.3
 ---
 
 The Parco del Beigua is a regional park covering the Ligurian Apennines above Sassello and the nearby coast, protecting a landscape of chestnut forests, heathland, streams, and rocky summits. Monte Beigua (1,287 m) is the highest point and accessible by a combination of road and trail.

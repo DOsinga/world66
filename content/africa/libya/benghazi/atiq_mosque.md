@@ -8,6 +8,7 @@ latitude: 32.1215
 longitude: 20.0615
 story: >
   The Atiq Mosque — also known as the Great Mosque or Al-Jami al-Kabir — is one of the oldest surviving mosques in Benghazi, with roots in the Ottoman period. It was expanded and renovated multiple times over the centuries, most significantly in the Italian colonial period when the surrounding neighbourhood was rebuilt around it. The mosque remained in continuous use throughout the 2011 conflict and the subsequent fighting, serving as a landmark of continuity in a city that changed dramatically in a few years.
+score: 6.8
 ---
 
 The Atiq Mosque, near the city's old commercial centre, is one of Benghazi's oldest and most important mosques. The building is Ottoman in origin, though extensively rebuilt, and serves as a landmark of the old city area. The surrounding neighbourhood retains some of the character of pre-war Benghazi, with market streets and traditional architecture surviving amid the broader urban damage.

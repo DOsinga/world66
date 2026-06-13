@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, shopping, market]
 latitude: 0.0463
 longitude: 37.6555
+score: 6.5
 ---
 
 The central market is the social and commercial heart of Meru, busy from early morning until late afternoon. The fruit and vegetable section is heaped with produce from the Mount Kenya slopes — bananas, mangoes, avocados, passion fruit, and the famous miraa twigs bundled for the day's trade.

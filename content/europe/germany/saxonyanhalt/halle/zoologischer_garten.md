@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 51.4900
 longitude: 11.9520
+score: 5.9
 ---
 
 Halle's zoo, called the Bergzoo because it climbs a hillside above the Saale, opened in 1901 on what had been Burg Reichardt's romantic landscape garden. The terrain — steep paths, rocky outcrops, and old trees — gives it more character than a flat zoo.

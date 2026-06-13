@@ -15,6 +15,7 @@ story: >
   as Britain's most performed living playwright while remaining in Scarborough
   rather than moving to London. The theatre holds around 400 in a round
   configuration, which means no seat is more than a few metres from the stage.
+score: 7.9
 ---
 
 The Stephen Joseph Theatre is one of England's most important regional theatres and the reason Scarborough has a cultural life far above what a seaside resort of its size might otherwise possess. Founded in the 1950s by Stephen Joseph as Britain's first theatre-in-the-round, it is now almost exclusively associated with Alan Ayckbourn, who has directed world premieres of his plays here for over 60 years.

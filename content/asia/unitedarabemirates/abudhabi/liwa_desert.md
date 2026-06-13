@@ -8,6 +8,7 @@ tags:
   - day_trips
 latitude: 23.1394
 longitude: 53.7833
+score: 8.9
 ---
 
 About 200 km south-west of the city is the crescent of Liwa Oasis villages, marking the northern edge of the **Rub' al Khali** — the Empty Quarter, the largest sand desert on earth. The dunes here are among the highest in the world: Moreeb Dune outside Mezaira'a rises 300 metres, the venue for the annual Liwa Sports Festival of desert racing.

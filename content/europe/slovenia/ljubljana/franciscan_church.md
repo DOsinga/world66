@@ -8,6 +8,7 @@ latitude: 46.0518
 longitude: 14.506
 sources:
   - https://en.wikipedia.org/wiki/Franciscan_Church_of_the_Annunciation
+score: 7.6
 ---
 
 The pink Baroque facade of the Franciscan Church dominates Prešeren Square and is the most photographed view in Ljubljana. Built between 1646 and 1660, it was the first Baroque church in Slovenia. The clock on the tower is a Ljubljana reference point; the rosy-red colour is a deliberate choice and has been maintained in every restoration.

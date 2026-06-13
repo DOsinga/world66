@@ -8,6 +8,7 @@ tags:
 - midtown
 latitude: 38.6362
 longitude: -90.2257
+score: 6.5
 ---
 
 Pappy's Smokehouse, just east of the Saint Louis University campus, has been on most "best barbecue in America" lists since it opened in 2008. The style is Memphis dry-rub — apple and cherry wood smoked, slow-cooked, served with sweet barbecue sauce on the side rather than glazed on.

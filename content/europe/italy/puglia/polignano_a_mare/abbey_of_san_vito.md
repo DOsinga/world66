@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The Abbey of San Vito stands on the coast northwest of Polignano, beside a small harbour and fishing village. Its pale walls, loggia, and sea-facing position make it one of the loveliest short excursions from town.

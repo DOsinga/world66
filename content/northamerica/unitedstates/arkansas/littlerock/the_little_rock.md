@@ -13,6 +13,7 @@ story: >
   as the landmark by travellers coming from the north — the smaller south-bank
   rock became the reference point for the river crossing and eventually gave
   the city its name.
+score: 5.2
 ---
 
 On the south bank of the Arkansas River, just below the Interstate 30 bridge, a small rocky outcropping is embedded in the riverbank — this is the actual "little rock" that gave the city its name. French explorers called it La Petite Roche to distinguish it from the larger rock formation on the north bank (La Grande Roche, now in North Little Rock).

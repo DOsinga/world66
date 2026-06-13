@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 14th-century Gothic parish church at the heart of the old village
+score: 6.6
 ---
 
 The parish church in the centre of the old village of Argelès, dating from the 14th century. Its slim Gothic bell tower is visible from far across the surrounding plain — for centuries it was the local landmark for ships coming up the Cote Vermeille. The interior holds more than 100 works depicting around 30 different saints, an unusual concentration for a small Catalan town.

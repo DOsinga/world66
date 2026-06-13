@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.1396
 longitude: -86.2705
+score: 5.7
 ---
 
 The Tiscapa Canopy Tour is a zip-line that runs across the Tiscapa volcanic crater lake at height, giving a bird's-eye view of the lagoon and the surrounding Managua skyline. The course has several cables and platforms and takes about 45 minutes to complete; it is suitable for beginners and not technically demanding, though the height is genuine.

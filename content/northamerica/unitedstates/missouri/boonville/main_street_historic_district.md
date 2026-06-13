@@ -8,6 +8,7 @@ tags:
 latitude: 38.9744
 longitude: -92.7444
 snippet: "Six blocks of intact 19th-century brick commercial architecture along Main Street"
+score: 8.5
 ---
 
 The Main Street commercial district is the reason Boonville is on the National Register many times over — the town has more individually listed historic buildings per capita than almost any city in Missouri. The six-block stretch from Spring Street north to High Street is mostly two- and three-storey brick commercial buildings from the 1860s through 1910s, with cast-iron storefronts, painted signs, and a remarkable degree of preservation.

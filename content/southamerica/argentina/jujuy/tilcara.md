@@ -12,6 +12,7 @@ tags:
 - archaeology
 title: Tilcara
 type: poi
+score: 8.6
 ---
 
 Tilcara has become the quebrada's bohemian capital — backpackers, Argentine artists, and craft sellers all gravitate here. The town sits at 2,461 metres in a particularly dramatic stretch of the quebrada, with rust-coloured walls rising sharply on either side. The Pucará de Tilcara on the hill above the town is the highlight: a partially reconstructed pre-Inca fortress with stone-walled houses, ceremonial platforms, and views over the entire valley.

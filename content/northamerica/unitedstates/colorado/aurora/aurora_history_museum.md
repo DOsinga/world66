@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Free city museum covering Aurora's prairie origins, military history and growth
+score: 6.1
 ---
 
 A small, well-curated municipal museum in the Aurora Municipal Center. Permanent galleries cover the city's evolution — from prairie homesteads through the establishment of Fitzsimons Army Hospital in 1918 (and its long association with treating tubercular soldiers, including Major Dwight Eisenhower) to the postwar suburban boom that pushed Aurora to become Colorado's third-largest city.

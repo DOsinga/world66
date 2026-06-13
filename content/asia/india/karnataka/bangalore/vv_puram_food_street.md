@@ -6,6 +6,7 @@ tags:
 - market
 title: VV Puram Food Street
 type: poi
+score: 7.2
 ---
 
 VV Puram Food Street — known locally as Thindi Beedi, or "eating lane" — is Bangalore's most famous street food strip, running through the Basavanagudi neighbourhood and coming alive every evening from around 5pm. Dozens of stalls stretch down the street selling churumuri (puffed rice with vegetables and spice), pani puri, masala dosas, chaats, and the local speciality kadlekai puri — puffed rice with freshly boiled groundnuts in a spiced gravy that is one of the most distinctly Bangalorean things you can eat.

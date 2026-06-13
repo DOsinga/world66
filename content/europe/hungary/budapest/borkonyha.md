@@ -8,6 +8,7 @@ tags:
 - lipotvaros
 title: Borkonyha Winekitchen
 type: poi
+score: 7.8
 ---
 
 Borkonyha has held a Michelin star since 2014 and remains one of the best arguments for modern Hungarian cooking. The menu is built around seasonal Hungarian ingredients — mangalica pork, foie gras, freshwater fish — handled with precision and presented without the stuffy formality that characterised high-end dining here a generation ago. The room is warm and relatively informal, and the wine list is exceptional, with deep coverage of Hungarian varietals from Tokaj, Eger, and Villány.

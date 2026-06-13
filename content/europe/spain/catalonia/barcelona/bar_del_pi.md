@@ -8,6 +8,7 @@ tags:
 title: Bar Del Pi
 type: poi
 snippet: "Classic Barri Gòtic bar on a pretty square, with a terrace and a piano"
+score: 7.6
 ---
 
 Bar del Pi has been a fixture on Plaça de Sant Josep Oriol since the 1950s, and the square it faces — shaded by a large plane tree and overlooked by the church of Santa Maria del Pi — is one of the nicest spots in the Barri Gòtic. The bar is small and fills up fast, but a table on the terrace is worth waiting for.

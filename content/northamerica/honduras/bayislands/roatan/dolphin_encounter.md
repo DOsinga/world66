@@ -9,6 +9,7 @@ snippet: "Dolphin encounter and research centre at Anthony's Key Resort, Sandy B
 latitude: 16.3280
 longitude: -86.5706
 story: "RIMS keeps around 25 bottlenose dolphins in a fenced sea-lagoon and has run captive-dolphin research and 'encounter' programmes here since 1989. The facility is also a serious research institution — papers on dolphin cognition and Caribbean reef ecology are published from here regularly."
+score: 5.0
 ---
 
 The Roatán Institute for Marine Sciences sits inside Anthony's Key Resort on Sandy Bay and runs the most-visited attraction on the island that isn't a beach: a bottlenose dolphin encounter in a large fenced sea-lagoon. Programmes range from a half-hour wade in the shallows ("Encounter") to a 30-minute open-water swim with the dolphins, to longer "Trainer for a Day" packages.

@@ -14,6 +14,7 @@ story: >
   After the 1902 eruption destroyed it, a new co-cathedral was built on the same site. The ruins
   of the original structure — massive stone walls, arched window openings, and the base of the
   bell tower — remain visible alongside the rebuilt church, a palimpsest of before and after.
+score: 7.5
 ---
 
 The Cathedral of Notre-Dame-de-l'Assomption anchors the religious quarter of Saint-Pierre. The original mid-nineteenth-century cathedral, a large neo-Romanesque structure, was destroyed in the 1902 eruption; the current building, designated a co-cathedral of the Archdiocese of Fort-de-France, was constructed on the ruins in the decades that followed. Substantial fragments of the original walls still stand beside the rebuilt church.

@@ -11,6 +11,7 @@ longitude: 88.1886
 snippet: Sacred 'wish-fulfilling' lake where birds remove fallen leaves from the water
 story: >
   Local legend holds that birds from the surrounding forest swoop down to remove any leaf that falls onto the lake's surface, keeping it perpetually clear as a mark of its sacred status. Visitors arriving early in the morning can sometimes watch this happening — though sceptics note the lake is naturally sheltered from wind.
+score: 8.1
 ---
 
 Khecheopalri is one of the most sacred lakes in Sikkim, revered by both Buddhists and Hindus. The dark water is perfectly still and, by tradition, no leaf is allowed to remain on the surface — birds are said to remove them. Whether or not you believe the legend, the lake has an atmosphere unlike anywhere else in the region.

@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 7.2935
 longitude: 80.6375
+score: 5.3
 ---
 
 Sri Lanka has been a source of precious gems since antiquity — sapphires, rubies, cat's eyes, alexandrite, and star stones are all found in the alluvial gravels of the Ratnapura district, about 100 km southwest of Kandy. The Kandy gem trade is well established and several dealers operate near the lake with reputations built over decades. The National Gem and Jewellery Authority showroom in Colombo is the most reliable source of certified stones; in Kandy, established dealers with written guarantees and return policies are your best protection.

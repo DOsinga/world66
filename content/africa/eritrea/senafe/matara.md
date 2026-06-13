@@ -8,6 +8,7 @@ tags:
 - sight
 - archaeology
 story: Matara is also known locally as Metera or Balaw Kalaw. Excavations have found evidence of long occupation, including inscriptions and objects that connect the Eritrean highlands with the ancient Red Sea world.
+score: 8.2
 ---
 
 Matara, often called Metera, is an archaeological site south of Senafe and one of the most important ancient settlements in Eritrea. The visible remains include obelisks, stone structures, and fragments of a city that flourished through the pre-Aksumite and Aksumite periods.

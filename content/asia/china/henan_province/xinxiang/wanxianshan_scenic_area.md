@@ -8,6 +8,7 @@ latitude: 35.8800
 longitude: 113.7600
 story: >
   "Wanxianshan" means "ten-thousand-immortals mountain." The name comes from the shape of the canyon walls, where the eroded limestone forms profiles that, with some imagination, resemble a crowd of figures. The Taoist idea that immortals inhabit high, remote, water-carved mountains made this kind of landscape sacred long before it became a tourist attraction.
+score: 8.1
 ---
 
 Wanxianshan — "Ten-Thousand-Immortals Mountain" — is the scenic area that contains both the Guoliang Tunnel and the Baligou gorge, set on the dramatic southern edge of the Taihang range where the mountains drop abruptly to the North China Plain. The park covers a section of Taihang limestone topography at its most theatrical: deep gorges, sheer canyon walls, waterfalls, and the vertiginous high terraces on which Guoliang village is perched.

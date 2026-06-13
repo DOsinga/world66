@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 45.0690
 longitude: 7.6855
+score: 6.9
 ---
 
 A small bar-pasticceria attached to the eighteenth-century restaurant Del Cambio, opened in 2014 as a more accessible front door to the same kitchen. Whitewashed walls, polished brass, and the city's best modern pastry counter — fewer than ten things, but each made to a high standard.

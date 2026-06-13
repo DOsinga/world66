@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.08361
 longitude: -0.04417
+score: 7.4
 ---
 
 The Pic du Jer is the mountain that rises directly above Lourdes to the south, reaching 948 metres and providing the best panoramic view of the town, the sanctuary complex, and the Pyrenean foothills beyond. The Funiculaire du Pic du Jer — a funicular railway dating from 1900 — runs from the edge of town to near the summit, making the ascent accessible without a hike.

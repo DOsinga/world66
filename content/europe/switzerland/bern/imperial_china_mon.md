@@ -9,6 +9,7 @@ tags:
   - restaurant
 title: Imperial China Mongolian Barbecue
 type: poi
+score: 4.7
 ---
 
 Imperial China Mongolian Barbecue is a Bern institution above the Restaurant Gfeller on Bärenplatz. The format is self-serve: choose raw meats (beef, chicken, pork, lamb, fish, shrimp), vegetables, and sauces from a buffet, and watch the cook grill it on a large circular griddle. The price covers the buffet run, rice, and sauces; drinks are extra. It is good value by Bern standards and popular with families and groups.

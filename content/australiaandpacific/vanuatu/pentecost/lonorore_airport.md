@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -15.8656
 longitude: 168.1719
+score: 3.6
 ---
 
 Lonorore is the southern of Pentecost's two airstrips, a grass strip near Panngi that handles the bulk of arrivals during the land-dive season. Air Vanuatu's Twin Otters connect here from Port Vila via Norsup on Malekula and Lamen Bay on Epi; flight times depend on weather and on which other islands are on the day's circuit.

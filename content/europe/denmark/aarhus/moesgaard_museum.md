@@ -6,6 +6,7 @@ latitude: 56.0851
 longitude: 10.2265
 story: >
   The Grauballe Man was found in 1952 by peat cutters near Grauballe, west of Aarhus, who initially thought they had found a recently murdered man. Carbon dating showed he died around 290 BCE. His body had been so perfectly preserved by the acidic, oxygen-free bog water that his fingerprints could be taken, and his last meal — a porridge of over 60 different plant species — was still identifiable in his stomach.
+score: 9.3
 ---
 
 Moesgaard Museum, south of Aarhus, is one of the finest archaeology and ethnography museums in Scandinavia, and its building is remarkable in its own right: designed by Henning Larsen Architects and completed in 2014, the sloping grass roof rises from the surrounding landscape so gradually that you can walk up it like a hill. The effect is disorienting and wonderful.

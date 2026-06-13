@@ -8,6 +8,7 @@ snippet: Twelve life-sized historical figures sculpted entirely from marzipan
 tags:
 - things_to_do
 - museum
+score: 5.6
 ---
 
 Above the Niederegger café, a small free museum displays twelve life-sized figures from the history of Lübeck and the marzipan trade — Charlemagne, an Arab spice merchant who supposedly brought almonds to the Hanse, Thomas Mann, others — every one of them sculpted from marzipan and standing in glass cases.

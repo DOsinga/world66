@@ -8,6 +8,7 @@ tags:
 latitude: 51.2713
 longitude: 0.5221
 story: Maidstone's Tithe Barn is one of the finest surviving medieval barns in Kent, built in the 14th century to store the tithes — a tenth of agricultural produce — collected by the College of All Saints from the surrounding parishes. The college was dissolved at the Reformation and the barn passed into private use, but the structure itself, with its massive timber-frame construction, has survived largely intact.
+score: 6.8
 ---
 
 The Tithe Barn near All Saints' Church in Maidstone is a substantial medieval agricultural building, dating from the 14th century, built to store the produce collected as tithes by the College of All Saints. The barn is a fine example of a wealden timber-frame structure, with massive oak posts and a high-pitched tiled roof.

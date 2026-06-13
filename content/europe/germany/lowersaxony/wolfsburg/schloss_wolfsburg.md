@@ -8,6 +8,7 @@ tags:
 snippet: Medieval moated castle that gave the city its name
 latitude: 52.4392
 longitude: 10.7994
+score: 7.0
 ---
 
 Schloss Wolfsburg is the medieval moated castle from which the twentieth-century city took its name. It was first mentioned in 1302 and was rebuilt in the seventeenth century as a Renaissance Schloss; a wide square moat, a four-winged courtyard, and a corner tower still survive.

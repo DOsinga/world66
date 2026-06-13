@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1278
 longitude: 8.2050
+score: 6.1
 ---
 
 The parish church of San Martino sits at the heart of the medieval village, an unpretentious 17th-century building on the foundations of a much older Romanesque church. The interior has a single nave and a Baroque high altar, with a few decent paintings from the Genoese school of the 1600s.

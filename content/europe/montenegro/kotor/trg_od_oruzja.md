@@ -6,6 +6,7 @@ longitude: 18.7698
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Trg od Oružja, the Square of Arms, is the largest and busiest of Kotor's piazzas — the place where the Venetian republic kept its powder magazine and stored weapons for the defence of the bay. Today it is the natural centre of the old town, lined with cafes whose tables push out across the polished marble flagstones in summer.

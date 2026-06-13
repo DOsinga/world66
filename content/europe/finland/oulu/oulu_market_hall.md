@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 65.0131
 longitude: 25.4642
+score: 7.3
 ---
 
 The covered market hall on the harbour, dating from 1903, is a smaller and less polished cousin of the Helsinki and Turku market halls but the same in spirit — a long, low brick building with rows of butchers, fishmongers, bakers, and cafes opening on a central aisle.

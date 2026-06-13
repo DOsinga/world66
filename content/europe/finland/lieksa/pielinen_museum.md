@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 story: "The museum's centrepiece is a Karelian smoke sauna — a small windowless log building with no chimney, fired up the day before bathing. The walls and ceiling are entirely black with soot. This is how saunas were built in Finland until the 20th century, and the museum keeps theirs in working order; a few times a year, on heritage days, you can use it."
+score: 8.3
 ---
 
 The second-largest open-air museum in Finland, on a low hill above the lake five minutes north of the town centre. More than seventy buildings — log farmhouses, barns, smoke saunas, a windmill, a chapel, fishermen's huts — moved here from the surrounding region and reconstructed since the museum was founded in 1959.

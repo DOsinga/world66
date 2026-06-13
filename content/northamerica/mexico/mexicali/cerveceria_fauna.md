@@ -7,6 +7,7 @@ snippet: "Mexicali craft brewery and taproom with desert-themed beers"
 tags:
 - bars_and_cafes
 - bar
+score: 7.0
 ---
 
 Cervecería Fauna is one of the standard-bearers of the Mexicali craft beer scene, brewing properly in the city since 2014. The taproom serves the full house range — IPAs, sours, dark beers, seasonals — alongside guest taps from other Baja breweries. The brand identity leans heavily into the desert region's wildlife, with each beer named for a different animal and labelled in striking graphic art.

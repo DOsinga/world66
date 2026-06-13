@@ -13,6 +13,7 @@ story: In 2006, the production team for Casino Royale dressed the Kaiserbad as t
   was exactly the right visual language for an establishment where European aristocracy
   gambles enormous sums. The actual Habsburg aristocrats who took cures here in the
   1890s would probably have found the comparison apt.
+score: 7.1
 ---
 
 Built in 1895 for the Austro-Hungarian aristocracy who came to Karlovy Vary to take the waters, the Kaiserbad is one of the most ornate buildings in a town that takes ornament seriously. The facade is a confection of turrets, balconies, and sculptural detail in the Wilhelmine neo-Baroque style, designed by the Vienna firm Fellner and Helmer — who were responsible for a remarkable number of the grand buildings across the former Habsburg territories.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Musée des Arts et Traditions du Gabon
 type: poi
+score: 7.5
 ---
 
 This small but excellent museum houses a collection of Gabonese masks, carved figures, and musical instruments from the country's many ethnic groups. The ritual masks are particularly striking, and the explanatory panels give useful context for the cultural traditions of the interior.

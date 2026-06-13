@@ -10,6 +10,7 @@ snippet: February festival filling Odori Park with enormous snow and ice sculptu
 story: The festival was given unexpected international fame in 1972 when Sapporo
   hosted the Winter Olympics. The city had been building ice sculptures for 22 years
   before the world noticed.
+score: 8.4
 ---
 
 The Sapporo Snow Festival — Yuki Matsuri — runs for about a week every February and draws over two million visitors to what is already a heavily snowed-in city. The main event is in Odori Park, where twelve blocks of the central green space are filled with enormous snow and ice sculptures, some of them the size of multi-storey buildings, carved over weeks by teams of specialists, military units, and international competitors. The range goes from technically extraordinary — detailed reproductions of famous buildings and scenes from history — to frankly odd, but the sheer scale carries it. A second venue in Susukino focuses on ice sculptures illuminated at night, which is the better evening activity.

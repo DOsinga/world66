@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -8.653794
 longitude: 115.210089
+score: 7.2
 ---
 
 Pura Maospahit is one of the oldest temples in Denpasar, believed to date from the 14th century during the Majapahit period — the era when Hindu-Buddhist civilisation from Java was transplanted to Bali, creating the unique syncretic culture still visible on the island today. The temple's name connects it to the Majapahit empire, and it is considered one of the sacred sites associated with the establishment of Balinese Hinduism.

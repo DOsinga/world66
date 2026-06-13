@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9850
 longitude: 73.7600
+score: 7.0
 ---
 
 The hills around Bagh are covered in stands of pine, deodar cedar, and mixed forest, cut through by small valleys where farmers cultivate terraced fields and apple orchards. Walking through this landscape — especially in spring when the orchards are in blossom or in autumn when the fruit hangs heavy — is quietly rewarding.

@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+score: 8.5
 ---
 
 The Eritrean Orthodox cathedral of Enda Mariam was built between 1917 and 1920 in a hybrid style: the round-arched arcaded courtyard and bell tower borrow from Italian Lombard tradition, while the central church takes the form of a traditional highland Eritrean monastery, with whitewashed walls, painted wooden doors, and a peaked roof.

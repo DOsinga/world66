@@ -8,6 +8,7 @@ tags:
   - diving
 latitude: 22.1083
 longitude: -81.1306
+score: 7.7
 ---
 
 The Cueva de los Peces ("Cave of the Fish") is a flooded cenote on the eastern shore of the Bay of Pigs, halfway between Playa Larga and Playa Girón. The pool at the surface is a circular opening about 15 metres across, ringed by limestone and overhanging trees; below the surface it drops as a deep blue shaft into a system of submerged caves.

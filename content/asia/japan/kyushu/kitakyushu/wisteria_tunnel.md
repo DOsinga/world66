@@ -13,6 +13,7 @@ story: The Kawachi Fuji Garden's wisteria tunnels were planted in the 1980s by a
   tunnels emerged organically over decades. The garden only became famous internationally
   when photographs of the cascading purple flowers went viral on social media around
   2014, turning a quietly tended private garden into a global destination almost overnight.
+score: 7.7
 ---
 
 Kawachi Fuji Garden in the Yahata ward of Kitakyushu contains one of Japan's most spectacular floral displays: 150 wisteria plants of 20 varieties grown into arched tunnels approximately 100 metres long. At peak bloom in late April and early May, the tunnels fill with cascading purple, white, pink, and blue flower clusters that completely arch overhead, creating a passage of colour that has become one of the most photographed natural scenes in Japan.

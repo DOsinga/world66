@@ -15,6 +15,7 @@ story: >
   The equestrian statue of King José I was cast in 1775; the classical rider
   on a rearing horse has anchored the square ever since. In 1908, King Carlos I
   was assassinated in this square.
+score: 8.0
 ---
 
 The grandest square in Lisbon, opening directly onto the Tagus through a waterfront arcade. The Marquis of Pombal designed it after the 1755 earthquake as the ceremonial heart of the rebuilt city — government ministries occupy the flanking arcaded buildings, and the equestrian statue of José I commands the centre. The triumphal arch on the north side leads to Rua Augusta and the Baixa grid beyond.

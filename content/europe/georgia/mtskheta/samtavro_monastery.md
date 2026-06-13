@@ -15,6 +15,7 @@ story: >
   miracles of Saint Nino — Mirian, reportedly, when he was struck blind during a battle
   and prayed to Nino's god in desperation. The royal tomb has been in continuous veneration
   for 1,700 years.
+score: 7.6
 ---
 
 Samtavro Monastery sits just north of Svetitskhoveli Cathedral in the centre of Mtskheta and is one of the oldest continuously functioning monasteries in Georgia. The current nunnery church dates mainly from the 9th century, with later additions, and contains the graves of King Mirian III and Queen Nana — the monarchs who made Christianity the state religion of Kartli in 337 AD under the influence of Saint Nino.

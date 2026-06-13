@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Cibalae
   - https://en.wikipedia.org/wiki/Vinkovci
+score: 5.8
 ---
 
 Modern Vinkovci sits almost exactly on top of the Roman city of Cibalae, an important settlement on the Pannonian plain that served as a waypoint on the Roman road network between Siscia (Sisak) and Sirmium (Sremska Mitrovica). Two Roman emperors — Valentinian I and Valens — were born here in the fourth century, which gives the site a significance beyond its modest provincial role.

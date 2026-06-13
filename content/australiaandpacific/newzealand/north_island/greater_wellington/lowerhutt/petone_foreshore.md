@@ -6,6 +6,7 @@ longitude: 174.878
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Petone foreshore stretches along Wellington Harbour from the mouth of the Hutt River, offering a long walking and cycling path with views across the harbour to Wellington. The beach is not the most beautiful in New Zealand — it is urban and stony in places — but it has a good local atmosphere, especially on weekends when families gather and the café and restaurant strip on Jackson Street is busy.

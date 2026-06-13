@@ -9,6 +9,7 @@ latitude: 59.3522
 longitude: 10.4695
 sources:
   - https://en.wikipedia.org/wiki/Munch%27s_House
+score: 7.6
 ---
 
 Edvard Munch bought a small wooden cottage in the fishing village of Åsgårdstrand, about 20 kilometres north of Tønsberg on the fjord, in 1897. He returned here almost every summer until 1908, using the fjord landscape — its curved shoreline, its particular quality of light — as the setting and emotional backdrop for some of his most important paintings. *The Girls on the Bridge*, one of his most reproduced works, was painted directly from the view outside his front door.

@@ -7,6 +7,7 @@ snippet: A square mile of museums, hospitals, and music institutions east of dow
 tags:
   - things_to_do
   - neighbourhood
+score: 9.0
 ---
 
 University Circle is the densest concentration of cultural and educational institutions in Ohio, packed into roughly one square mile five miles east of downtown. Case Western Reserve University, the Cleveland Clinic main campus, and the city's flagship cultural buildings (the Museum of Art, Severance Hall, the Museum of Natural History, the Botanical Garden, the History Center) are all within walking distance of each other.

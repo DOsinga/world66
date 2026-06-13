@@ -11,6 +11,7 @@ story: >
   The Leluh city-state was built almost entirely from hand-cut basalt and coral, without metal tools, over several centuries from around 1000 CE. At its peak in the 14th century it housed the ruling elite of Kosrae in a series of walled compounds connected by raised canals — a Pacific Venice, of sorts, accessible only by canoe. European contact in the early 19th century effectively ended the traditional power structure, and the ruins were largely abandoned within a generation.
 sources:
   - https://en.wikipedia.org/wiki/Leluh_archaeological_site
+score: 9.2
 ---
 
 Lelu Island, connected to the main island of Kosrae by a short causeway, holds the remains of one of the most remarkable pre-contact settlements in Micronesia. The Leluh ruins are a complex of royal compounds, royal tombs, living quarters, and religious structures built from massive basalt boulders — some weighing several tonnes — fitted together without mortar. The scale and ambition of the construction is staggering given what archaeologists know about the population and resources available.

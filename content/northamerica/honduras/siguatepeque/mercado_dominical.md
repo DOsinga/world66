@@ -8,6 +8,7 @@ latitude: 14.5875
 longitude: -87.8310
 sources:
   - https://en.wikipedia.org/wiki/Siguatepeque
+score: 7.3
 ---
 
 The Sunday market is the best reason to time your visit to Siguatepeque for the weekend. Farmers come down from the surrounding mountain villages with fresh fruit, vegetables, beans, maize and meat — the produce of Comayagua's department, which is one of Honduras's most fertile agricultural zones.

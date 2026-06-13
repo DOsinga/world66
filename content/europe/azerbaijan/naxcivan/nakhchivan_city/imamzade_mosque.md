@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - mosque
+score: 7.5
 ---
 
 The Imamzade Mosque is a Shia shrine in the southern part of Nakhchivan, built around a small mausoleum traditionally said to hold the remains of a descendant of one of the Twelve Imams. The structure has been rebuilt and expanded over time; the current complex includes a blue-tiled dome that is one of the more recognisable silhouettes in the city.

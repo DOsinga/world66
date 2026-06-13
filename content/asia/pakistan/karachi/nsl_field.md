@@ -8,6 +8,7 @@ tags:
   - sight
   - sport
 story: "The National Stadium hosted Pakistan cricket's first home Test match in 1955, just eight years after the country's independence, and for decades it was the venue most associated with Pakistani cricket. It was here in 1987 that Imran Khan led Pakistan to a famous series win against England, and here that Wasim Akram and Waqar Younis developed the reverse swing bowling that would dominate international cricket through the 1990s. Pakistan played no home international cricket from 2009 to 2019 following a terrorist attack on the Sri Lankan team bus in Lahore, so the return of Test cricket to the National Stadium in 2019 carried considerable emotional weight."
+score: 6.9
 ---
 
 The National Stadium Karachi is Pakistan's premier cricket ground, capacity around 34,000, and the country's oldest major international venue. It sits in the Gulshan-e-Iqbal area of the city, a substantial oval of concrete grandstands surrounded by the urban sprawl that is characteristic of Karachi's middle-income districts. The ground has hosted Test cricket since 1955 and has been the scene of many of Pakistan's most significant cricket moments.

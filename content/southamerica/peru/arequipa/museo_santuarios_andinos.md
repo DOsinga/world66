@@ -10,6 +10,7 @@ tags:
 title: Museo Santuarios Andinos
 type: poi
 story: "Juanita was found in 1995 by archaeologist Johan Reinhard and his Andean guide Miguel Zárate, after a recent eruption of nearby Sabancaya melted the ice cap of Mount Ampato and exposed her burial. She had been ritually sacrificed at about age 13 around 1450, then frozen solid for 500 years."
+score: 8.7
 ---
 
 This small museum near the Plaza de Armas is the home of Juanita, also called the Ice Maiden — one of the best-preserved Inca mummies in the world. She was a young noblewoman sacrificed on the summit of Mount Ampato around 1450 as part of a *capacocha* ritual, and was discovered in 1995 when an eruption of the neighbouring Sabancaya melted the ice that had preserved her. The skin, hair, internal organs, and even her embroidered textile bundle have survived almost intact.

@@ -8,6 +8,7 @@ tags:
 latitude: 45.5609
 longitude: 18.6941
 snippet: "Jesuit baroque church dominating Tvrđa's main square with twin towers"
+score: 7.6
 ---
 
 The Church of Saint Michael faces Holy Trinity Square in Tvrđa — its white twin-towered baroque facade is the most photographed view in Osijek. Built by the Jesuits between 1725 and 1748, the church was part of the Jesuit complex that included a college and gymnasium. The towers are identical and symmetrical, which is unusual for the Jesuit baroque style.

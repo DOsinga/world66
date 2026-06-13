@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 latitude: 17.628922222222222
 longitude: -63.231525000000005
 story: The Dutch colonial architecture of Windwardside — white-painted wooden houses with red-shingled roofs, perched on a ridge at around 500 metres elevation — looks more like a village transplanted from the Netherlands than anything you'd expect in the Caribbean. The resemblance is not accidental; Saba has maintained a strong Dutch administrative tradition, and building styles have reflected it for centuries.
+score: 7.4
 ---
 
 Windwardside is where most visitors stay, and it earns its role as the island's social hub. The village sits at roughly 500 metres elevation on the windward slope of the mountain, a cluster of white houses with red roofs surrounded by gardens. At this altitude the air is noticeably cooler than the coast, and the clouds that drift across from the Atlantic give the place a misty, otherworldly feel in the early morning.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Morioka_Castle
 story: >
   The Nambu clan lords spent 26 years building Morioka Castle on a promontory above the Kitakami River, completing it in 1633. In 1874, three years after the Meiji government ordered feudal castles dismantled, the keep was torn down. Only the vast granite stone walls survived — and in spring they are smothered by hundreds of cherry trees, a spectacle that draws visitors from across Tohoku.
+score: 7.4
 ---
 
 Morioka Castle — or rather what remains of it — occupies a low hill at the junction of the Kitakami and Nakatsu rivers in the centre of the city. The main keep and towers were demolished after the Meiji Restoration, but the massive stone walls, built in the distinctive *nozurazumi* technique using rough granite boulders, survive intact and give a clear sense of the castle's former scale.

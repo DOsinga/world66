@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 51.1235
 longitude: 71.4738
 story: "A 62-metre glass pyramid by Norman Foster, completed in 2006 to host the triennial Congress of Leaders of World and Traditional Religions. The base is exactly 62 metres square — the building is geometrically perfect — and the apex contains a 200-seat circular conference chamber filled with stained-glass doves where the religious leaders meet."
+score: 8.5
 ---
 
 The Palace of Peace and Reconciliation is the most architecturally striking of the Foster + Partners buildings in Astana — a flawless glass-and-steel pyramid completed in 2006. It was built to host the Congress of Leaders of World and Traditional Religions, a periodic interfaith summit. The base houses an opera hall seating 1,500; the middle levels contain conference rooms and a small museum of Kazakhstani culture; the apex is a circular meeting chamber wrapped in stained-glass doves designed by British artist Brian Clarke.

@@ -6,6 +6,7 @@ tags: [things_to_do, museum, architecture]
 address: "Museo 150, San Pablo Tepetlapa"
 latitude: 19.3197
 longitude: -99.1378
+score: 8.5
 ---
 
 Diego Rivera spent the last decades of his life amassing one of the largest private collections of pre-Hispanic art in Mexico — some 60,000 objects from Aztec, Olmec, Teotihuacan, and Mayan cultures. He designed this building himself, in the volcanic-rock fields south of Coyoacán, to house the collection and bequeath it to the people of Mexico.

@@ -8,6 +8,7 @@ tags:
 snippet: Traditional gasthaus opposite medieval castle Giebichenstein
 title: Gasthof zum Moor
 type: poi
+score: 4.9
 ---
 
 Opposite the medieval castle Giebichenstein, this cosy gasthaus has two lounge rooms seating 80 each and a beer garden with 200 seats — a good spot after visiting the castle.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Jardín Circunvalar
 type: poi
+score: 6.6
 ---
 
 An ambitious circular greenbelt project — a 75-kilometre ring of paths, viewpoints, vegetable gardens, and small public spaces threaded around the upper edge of the city limits, designed as both a check on hillside urban sprawl and a recreational amenity for residents in higher barrios. Sections are complete, sections are not. The most accessible to visitors is the stretch near Trece de Noviembre, with views straight across the Aburrá Valley.

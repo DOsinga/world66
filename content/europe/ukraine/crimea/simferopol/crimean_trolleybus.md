@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Opened in 1959, the Simferopol–Yalta route is the longest single trolleybus line in the world: 96 kilometres of overhead wire over the Angarsky pass and down to the south coast. The original Soviet-built Skoda 9Tr trolleybuses ran for half a century — some are now preserved as museum pieces along the route."
+score: 8.5
 ---
 
 The Simferopol–Alushta–Yalta trolleybus is a Crimean institution and one of the great oddities of European public transport: a four-hour ride on electric buses through pine forests, over a 752-metre mountain pass, and down to the Black Sea coast.

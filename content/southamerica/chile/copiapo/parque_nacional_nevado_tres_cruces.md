@@ -11,6 +11,7 @@ story: >
   Ojos del Salado, accessible as a very serious mountaineering objective from within this park, is the world's highest active volcano at 6,893 metres. It is also the second-highest peak in the Andes, after Aconcagua. The volcano last erupted in the 16th century, but fumarolic activity continues, and climbers have recorded sulphur smells near the summit crater.
 sources:
   - https://en.wikipedia.org/wiki/Copiap%C3%B3
+score: 9.0
 ---
 
 Parque Nacional Nevado Tres Cruces lies about 145 kilometres east of Copiapó, high in the Andes at altitudes between 3,700 and 6,893 metres. It protects a stunning high-altitude landscape of salt flats, volcanic peaks, and shallow lakes that attract flamingos, Andean condors, and vicuñas. The three salt lakes — Laguna Santa Rosa, Laguna del Negro Francisco, and Laguna Verde — each have their own character; Laguna Verde is famous for its intense colour, caused by algae and mineral salts.

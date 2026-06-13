@@ -8,6 +8,7 @@ latitude: 29.5447
 longitude: 103.7733
 story: >
   The monk Haitong, who commissioned the statue in 713 AD, blinded himself to prove to corrupt officials that he would never use Buddha's funds for personal gain. He died before the project was completed, and it took three generations of monks and nearly 90 years of labour to finish. The millions of tonnes of stone chips excavated during carving were dumped into the river — which, locals say, actually did reduce the turbulence in the water below, though not quite as the monk had intended.
+score: 9.5
 ---
 
 The Leshan Giant Buddha is 71 metres tall — from the top of his head to the soles of his feet — and was the largest stone statue in the world for over 1,200 years. Carved into the red sandstone cliff at the confluence of the Minjiang, Qingyi, and Dadu rivers, the Buddha sits in a posture of meditation, hands on knees, face serene. His toenails are large enough to seat several people comfortably.

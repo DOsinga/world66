@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: The original Pokhara — Newar bazaars, courtyard houses, and the Bindhyabasini temple
+score: 8.0
 ---
 
 The original Pokhara settlement, several kilometres north of the Lakeside tourist strip and the area travellers most often miss. Bagar, together with the adjacent **Bhairab Tole** and **Mohariya Tole**, dates back at least 250 years and was a major staging post on the old Tibet-India trans-Himalayan trade route.

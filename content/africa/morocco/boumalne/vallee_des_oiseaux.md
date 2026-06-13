@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Vallée des Oiseaux
 type: poi
+score: 6.7
 ---
 
 A narrower side valley about 7 km up the Dadès Gorge, the Vallée des Oiseaux ("Valley of Birds") is a quieter walking alternative to the main gorge road. A small stream runs through a green strip of poplars, almond trees, and walnut groves, with red rock walls rising steeply on either side and Berber villages perched on the slopes above.

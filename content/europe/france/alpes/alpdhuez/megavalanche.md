@@ -8,6 +8,7 @@ tags:
   - sport
   - cycling
 story: "The race starts on snow at the Pic Blanc summit, descends through scree, ski piste, forest singletrack, and rocky alpine valley, finishing 27 kilometres later in the village of Allemont — a vertical drop of 2,600 metres in around an hour for the leaders."
+score: 8.4
 ---
 
 The Megavalanche is one of mountain biking's great festival events: a mass-start enduro race from the snow at 3,330 metres down to the valley floor, held every July since 1995. Around a thousand riders set off in waves, and the spectacle from the resort village is unmissable — riders flying past on snowy ridges, dust trails in the lower forest, and the bar at the finish line in full carnival mode.

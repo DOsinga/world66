@@ -6,6 +6,7 @@ longitude: 78.8695
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The large pushkarini — sacred tank — adjoining the temple is the heart of the pilgrimage complex. Pilgrims take ritual baths here before entering the temple, and the stepped ghats that line the tank are the most visually striking part of Vemulawada at any time of day, but especially at dawn, when lamps are lit on the water and the air smells of flowers and incense.

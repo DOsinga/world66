@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -34.524
 longitude: 138.959
+score: 7.6
 ---
 
 The Barossa Museum on Murray Street in Tanunda tells the story of the valley's German Lutheran settlers and their descendants. The collection includes original documents brought from Silesia and Prussia, farm equipment, household items, and photographs covering nearly two centuries of settlement. It's a small but carefully curated museum that gives real context to the names and landscape of the valley.

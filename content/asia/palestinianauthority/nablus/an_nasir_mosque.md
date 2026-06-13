@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The mosque incorporates columns and architectural fragments from the Crusader-era church that previously occupied the site — a layering of faiths and civilisations typical of Nablus's long history. The minaret, rebuilt and modified over centuries, is one of the city's most recognisable landmarks.
+score: 6.9
 ---
 
 An-Nasir Mosque is the principal historic mosque of Nablus's old city, built on the foundations of a Crusader church and incorporating elements from it into the Mamluk-era structure. The minaret rises above the surrounding rooflines of the old city and is visible from many points in the valley.

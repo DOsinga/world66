@@ -9,6 +9,7 @@ tags:
 - sight
 title: Old Cemetery
 type: poi
+score: 6.6
 ---
 
 A 250-year-old cemetery containing the ruins of the Church of St Finian. Nearby is a holy well traditionally used for eye ailments. The cemetery also holds a famine memorial -- a monument to the estimated 5,000 people from the area who died during the Great Famine.

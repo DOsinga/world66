@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Kalimata Temple
 type: poi
+score: 6.2
 ---
 
 Mauritius's south-coast Tamil community built this temple to the goddess Kali — Kalimata — and it remains an active place of worship, particularly during festival days. The brightly painted gopuram (entrance tower) above the village is the most visible landmark of Surinam from a distance.

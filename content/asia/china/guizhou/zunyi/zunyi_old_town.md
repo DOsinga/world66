@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 27.7050
 longitude: 106.9336
+score: 6.2
 ---
 
 Zunyi's old town occupies the area around Ziyin Road and the commercial streets radiating from it — a pedestrianised zone of Republican-era merchant architecture restored in 1930s style. The carved wooden shopfronts and covered ground-floor galleries are deliberate and somewhat nostalgic reconstructions, but the scale is human and the food choices are excellent.

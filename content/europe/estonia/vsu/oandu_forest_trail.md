@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.5430
 longitude: 26.0300
+score: 7.8
 ---
 
 The Oandu old-growth forest trail (4.7 kilometres) is one of the best places in Estonia to walk through genuinely ancient woodland. The trail winds through a section of Lahemaa National Park where the forest has been largely undisturbed for centuries — tall spruces and pines with mossy floors, veteran oaks, and the characteristic density and quiet of a forest that has had time to become itself. Brown bears and lynx live in these woods, though sightings are rare.

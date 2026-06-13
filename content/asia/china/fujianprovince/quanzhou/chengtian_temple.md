@@ -14,6 +14,7 @@ story: >
   nation under heaven" was represented, are among the earliest eyewitness accounts
   of medieval China by a Western visitor. The friary is long gone; the Buddhist
   temple that now occupies the site has no connection to it beyond the ground.
+score: 7.7
 ---
 
 Chengtian Temple is a Tang-dynasty Buddhist temple in the heart of Quanzhou's old town, famous for its preserved Song-dynasty architecture and for the ancient banyan tree in its courtyard whose roots have grown to cover a large section of the outer wall. The main hall retains original timber framing, and the stone pavement of the courtyard shows the patina of a thousand years of use.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Chinatown
 title: Far East Cafe
 type: poi
+score: 7.2
 ---
 
 A Chinatown institution, Far East Cafe has been serving Cantonese food since 1920. The old-school interior with private curtained booths is a step back in time. The food is traditional and reliable, and the atmosphere alone makes it worth a visit.

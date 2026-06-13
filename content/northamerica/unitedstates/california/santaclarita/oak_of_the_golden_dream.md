@@ -13,6 +13,7 @@ story: >
   searching for stray cattle. He woke up, pulled some wild onions from the ground, and found gold
   flakes clinging to their roots — six years before the official Gold Rush began at Sutter's Mill.
   California's gold history starts here, with a nap and an onion.
+score: 5.6
 ---
 
 A large valley oak marks the spot where Francisco Lopez reportedly made California's first documented gold discovery in 1842, while working as a rancher on the Rancho San Francisco. The find set off a minor gold rush among Mexican and Californio settlers long before the 1848 discovery at Sutter's Mill that brought the forty-niners, though the remote location kept it from becoming a major mining center.

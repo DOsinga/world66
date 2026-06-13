@@ -6,6 +6,7 @@ longitude: 14.1227
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The medieval pilgrimage church of Sankt Olof sits in a quiet inland village halfway between Simrishamn and the south coast. It was once one of the most important pilgrimage destinations in southern Scandinavia, attracting visitors who came to draw water from the holy springs nearby.

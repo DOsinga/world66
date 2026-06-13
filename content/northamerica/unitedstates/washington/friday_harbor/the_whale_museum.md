@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum]
 latitude: 48.5357
 longitude: -123.0173
 story: The Whale Museum was founded in 1979 and became one of the first places in the world to systematically study and catalogue individual wild orcas by their distinct markings — a technique now used for cetacean research worldwide. The cataloguing work done here helped establish that the Southern Resident killer whales of Puget Sound form stable family groups that stay together for life, a finding that changed how scientists and the public understood orca society.
+score: 7.8
 ---
 
 The Whale Museum in Friday Harbor is a small but substantive natural history museum dedicated to the orca and other cetacean populations of the Salish Sea. It was founded in 1979 — before the San Juan Islands were known as a whale-watching destination — and has been producing serious research on the region's Southern Resident killer whales ever since. The exhibits tell the story of these whales: their social structure, their vocalisation patterns, their diet of Chinook salmon, and the pressures they face from boat traffic, noise pollution, and declining prey.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.2500
 longitude: 47.8000
+score: 7.4
 ---
 
 The slopes of Mount Sabalan, the massive extinct volcano rising south of Meshkinshahr, are dotted with mineral hot springs that have been used for centuries. The springs at Googerdi and Qotoor Sooyee are the most accessible from the city, reached by a road that climbs through increasingly dramatic highland scenery. The water at the main spring has a strong sulfurous smell but a reportedly pleasantly warm temperature, and locals attribute therapeutic properties to the minerals.

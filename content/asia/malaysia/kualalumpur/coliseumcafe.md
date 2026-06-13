@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
 story: "The Coliseum opened in 1921 above a cinema of the same name and served sizzling sirloin steaks on cast-iron platters to British planters, tin-mining magnates, and travelling writers — Somerset Maugham among them. The same steak, with the same bib, is still on the menu today."
+score: 7.1
 ---
 
 A colonial-era restaurant on Jalan Tuanku Abdul Rahman that has barely changed since the 1920s — dark wood panelling, slow ceiling fans, mahogany bar, faded photographs of British rubber planters on the walls. The signature dish is the **Hainanese-style sizzling sirloin steak**, brought to the table on a cast-iron platter spitting hot, accompanied by chips and a green-pea-and-onion-gravy sauce.

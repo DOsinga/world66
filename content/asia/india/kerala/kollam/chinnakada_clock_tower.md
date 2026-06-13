@@ -6,6 +6,7 @@ tags:
   - sight
 title: Chinnakada Clock Tower
 type: poi
+score: 5.2
 ---
 
 The four-faced clock tower at Chinnakada is the symbolic centre of Kollam town. Built in the early 20th century during British rule, it stands at the busy junction where the main commercial streets converge and has been a meeting point for locals for generations.

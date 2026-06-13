@@ -8,6 +8,7 @@ tags:
 latitude: 31.562489
 longitude: -91.403614
 story: "This house at the top of Canal Street is where American surveyor Andrew Ellicott raised the American flag in 1797 to assert US sovereignty over Natchez — a gesture that provoked a standoff with the Spanish garrison still occupying Fort Panmure below. Spain had held Natchez since 1779, and was reluctant to leave until American pressure made staying untenable."
+score: 7.4
 ---
 
 The House on Ellicott's Hill, also known as Connelly's Tavern, is one of the oldest structures in Natchez — a Federal-style house built in the 1790s at the head of Canal Street, near the top of the bluff. It served as a tavern and gathering place during the complex period when Natchez changed hands between Spain, Britain, and the new United States, and the house has witnessed more political transitions than most.

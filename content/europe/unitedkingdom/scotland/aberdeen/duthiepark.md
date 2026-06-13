@@ -6,6 +6,7 @@ tags:
 - sight
 title: Duthie Park
 type: poi
+score: 7.4
 ---
 
 Duthie Park is Aberdeen's most popular public park, on the south bank of the River Dee about a mile from the city centre. The park is famous for its roses — it holds one of Scotland's largest rose collections, massed along a hillside that comes into full colour in June and July. The adjacent Winter Gardens is the biggest indoor garden in Scotland, a series of glasshouses covering more than a hectare with tropical plants, a cactus house, and a butterfly room. Admission is free.

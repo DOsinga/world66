@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 36.60330
 longitude: 30.56060
+score: 5.8
 ---
 
 Kemer, 43 km south of Antalya, is a planned resort town developed in the 1980s to absorb package tourism from the city. It has an artificial marina, all-inclusive hotels, and beaches backed by pine-covered mountains. The setting — between the sea and the Taurus range — is genuinely attractive, even if the resort itself is generic.

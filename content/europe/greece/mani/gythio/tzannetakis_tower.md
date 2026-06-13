@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.7546
 longitude: 22.5740
+score: 7.5
 ---
 
 The Tzannetakis Tower on Kranai island is one of the best-preserved Maniot fortified houses anywhere on the peninsula — built around 1829 by a family of local warlords who rose to political power in newly independent Greece. The tower is square, stone, four storeys tall, with the narrow shooting slits and the heavy iron-bound front door that characterised the Mani's chronic family feuds.

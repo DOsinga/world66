@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Boag%27s_Brewery
 story: >
   Boag's and Cascade are the two great Tasmanian brewing rivals — Boag's in Launceston, Cascade in Hobart — and the north-south rivalry is taken seriously by locals. James Boag founded the brewery in 1883, drawing on the Esk River for water. The Tasmanian water and local hops gave Boag's its characteristic character. The brewery changed hands many times and is now owned by Lion, but the Launceston site still produces all Boag's beer.
+score: 7.5
 ---
 
 Boag's Brewery has occupied its site on William Street, just north of the city centre, since 1883. James Boag set up here to take advantage of the Esk River water and the local barley, and the same location has been brewing ever since. The Boag's Centre for Beer Lovers offers guided tours of the working brewery, including the original heritage rooms and the modern production floor, ending with a tasting of the core range.

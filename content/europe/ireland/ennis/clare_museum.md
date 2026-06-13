@@ -6,6 +6,7 @@ tags: [things_to_do, museum]
 address: "Arthur's Row, Ennis"
 latitude: 52.8441
 longitude: -8.9816
+score: 7.3
 ---
 
 The Clare Museum is small but rewarding, occupying a single ground-floor exhibition space on Arthur's Row just off O'Connell Square. Its 'Riches of Clare' permanent display walks through the county in five thematic chapters — earth, power, faith, water, and energy — using objects loaned from the National Museum of Ireland.

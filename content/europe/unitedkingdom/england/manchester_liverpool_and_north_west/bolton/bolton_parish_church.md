@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 St Peter's Church, known as Bolton Parish Church, stands on Churchgate in the town centre on a site that has held a place of Christian worship since the medieval period. The current building dates primarily from the 1860s — a Victorian Gothic reconstruction that replaced an earlier structure — though it incorporates fragments and elements from the older church. The exterior, in Perpendicular Gothic style, is built from the same warm sandstone that characterises much of Bolton's Victorian civic architecture.

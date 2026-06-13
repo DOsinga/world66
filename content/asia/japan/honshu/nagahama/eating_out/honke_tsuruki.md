@@ -8,6 +8,7 @@ tags:
   - japanese
   - restaurant
 snippet: "A long-established soba restaurant in the Kurokabe district, serving handmade buckwheat noodles in clear dashi broth."
+score: 5.8
 ---
 
 **Honke Tsuruki** (本家鶴喜そば) has been making soba in Nagahama for generations, and the restaurant remains the most reliable address in the city for a proper bowl of handmade buckwheat noodles. The broth is a delicate kombu and katsuobushi dashi, clear and pale gold, gentle enough not to overpower the nutty flavour of the noodles themselves. You can order zaru soba (cold, with a dipping sauce) or kake soba (hot, in broth); both are good.

@@ -5,6 +5,7 @@ latitude: 25.13216
 longitude: 121.74744
 snippet: "Elaborately decorated folk religion temple in the city centre"
 tags: [things_to_do, temple]
+score: 7.3
 ---
 
 Zhuputan Temple is one of Keelung's more ornate Taiwanese folk religion temples, its facade dense with ceramic figurines, dragon pillars, and painted roof panels depicting scenes from classical Chinese mythology. The interior is as busy as the exterior — multiple altars, clouds of incense, and the sound of devotees shaking fortune sticks. It operates as a working religious site, not a tourist attraction, which means you will see actual ritual practice during your visit.

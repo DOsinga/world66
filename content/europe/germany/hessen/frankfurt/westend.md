@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 latitude: 50.1200
 longitude: 8.6600
 story: The Westend's grand 19th-century villas survived the war because most of the bombs fell on the medieval core. In the 1970s the city tried to demolish whole blocks to make way for office towers, triggering the so-called Häuserkampf — a five-year battle in which squatters, students, and the city's most influential intellectual, Jürgen Habermas, fought running street battles with the developers. The villas mostly survived.
+score: 6.6
 ---
 
 The Westend is the genteel, leafy district immediately north-west of the city centre, between the Alte Oper and the university. Its big late-19th-century villas, set back behind front gardens on quiet streets like Beethovenstrasse and Schubertstrasse, were built for the bankers and Jewish merchants of imperial Frankfurt, and many of them now house consulates, law firms and small private museums. The Palmengarten, Frankfurt's botanical garden, occupies the western edge of the district.

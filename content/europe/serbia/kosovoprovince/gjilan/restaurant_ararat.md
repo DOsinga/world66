@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.4630
 longitude: 21.4700
+score: 5.9
 ---
 
 Restaurant Ararat is one of the better-regarded places to eat traditional Kosovar food in central Gjilan. The menu covers the ground you would expect — grilled meats, qebapë, shish qebab — but also goes further, with fli (a layered pancake cooked slowly over an open fire) and tavë kosi, the baked lamb and yoghurt dish that appears on feast tables across Kosovo. It is the kind of restaurant locals bring guests to when they want to show the city at its best.

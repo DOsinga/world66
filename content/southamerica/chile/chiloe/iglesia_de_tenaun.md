@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Iglesia de Tenaún
 type: poi
+score: 7.6
 ---
 
 The Church of Tenaún is one of Chiloé's most distinctive wooden churches, with three towers rising above a quiet village on the east coast. It is a lovely reward for travellers following the less hurried church route.

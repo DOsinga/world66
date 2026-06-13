@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -23.1842
 longitude: -44.1253
+score: 9.0
 ---
 
 Lopes Mendes is widely considered one of the finest beaches in Brazil, a long crescent of fine pale sand on the eastern shore of Ilha Grande backed by Atlantic Forest. The water is clear, the surf just enough to be interesting, and because reaching the beach requires a boat from Abraão followed by a forest trail, the crowds are thinner than the reputation might suggest.

@@ -4,6 +4,7 @@ type: poi
 latitude: -35.3000
 longitude: 149.1300
 tags: [things_to_do, festival]
+score: 7.1
 ---
 
 Enlighten is a ten-day evening festival held every March, in which the facades of the major national institutions around the Parliamentary Triangle are turned into giant projection screens. Parliament House, Old Parliament House, the National Gallery, the National Library, the High Court and Questacon are all lit up after dark with elaborate animated artworks responding to the buildings' architecture.

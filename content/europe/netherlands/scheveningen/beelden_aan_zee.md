@@ -9,6 +9,7 @@ tags:
 - art
 title: Beelden aan Zee
 type: poi
+score: 8.4
 ---
 
 Beelden aan Zee ("Sculptures by the Sea") is a small, exceptionally well-curated museum of post-1945 figurative sculpture, set in a half-underground complex of galleries and a sea-facing terrace. The collection is strong on Dutch and Belgian sculptors — Karel Appel, Igor Mitoraj, the Reinhoud d'Haese animals — and rotates around two or three temporary shows a year.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.7411
 longitude: 28.2814
+score: 7.8
 ---
 
 The Pretoria National Botanical Garden in Brummeria holds 50 hectares of indigenous South African flora, from the arid succulent Karoo to the lush subtropics of KwaZulu-Natal, all growing within one site. The garden was established in 1946 and today maintains a living collection of around 5,000 plant species, with a particular focus on species threatened in the wild.

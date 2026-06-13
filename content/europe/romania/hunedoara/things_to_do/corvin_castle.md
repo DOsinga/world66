@@ -9,6 +9,7 @@ latitude: 45.7497
 longitude: 22.8888
 sources:
   - https://en.wikipedia.org/wiki/Corvin_Castle
+score: 9.5
 ---
 
 Corvin Castle — Castelul Corvinilor in Romanian — is one of the finest Gothic castles in Central Europe, and the single reason most travellers come to Hunedoara. It rises from a rocky outcrop above the Zlasti River on the western edge of town, its bristling towers, drawbridge, and battlements looking exactly as a medieval castle should. The fortress was begun in the 14th century and substantially rebuilt by John Hunyadi from the 1440s onward. Hunyadi, the regent of Hungary and the man who stopped the Ottoman advance at Belgrade in 1456, poured the profits of his campaigns into making this the grandest castle in the region.

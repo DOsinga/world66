@@ -15,6 +15,7 @@ story: >
   stream is now artificially maintained at a steady flow pumped from the Han
   River — but the cooling effect on the surrounding urban canyon is
   measurable and real.
+score: 8.2
 ---
 
 Cheonggyecheon is a restored urban stream that runs 11 kilometres through the centre of Seoul, its banks developed as a linear park with paths, sculptures, and places to sit at water level below the street. After dark the stream is lit and the surrounding bridges are illuminated, making it a pleasant evening walk for locals and visitors.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.4831
 longitude: 11.9650
+score: 6.5
 ---
 
 Wilhelm Friedemann Bach, the eldest son of Johann Sebastian, lived and worked in this house from 1746 to 1764, serving as organist at the Marktkirche. The Renaissance building has been turned into a small but attractive museum on his life — the most musically gifted of the Bach sons, often considered the most original, and the one who ended his career in poverty.

@@ -12,6 +12,7 @@ story: >
   Time magazine once called this "the bloodiest 47 acres in America." During its 168 years of operation, the penitentiary saw riots, escapes, and infamous inmates including Pretty Boy Floyd and James Earl Ray, who was held here after assassinating Martin Luther King Jr. before his famous escape through a laundry truck.
 sources:
   - https://en.wikipedia.org/wiki/Missouri_State_Penitentiary
+score: 8.3
 ---
 
 The Missouri State Penitentiary operated from 1836 to 2004, making it one of the oldest penitentiaries west of the Mississippi, and it holds a grim distinction: Time magazine called it the bloodiest 47 acres in America. Today it operates as a museum and event venue, offering a range of tours from straightforward history walks through the cellblocks and execution chamber to evening ghost tours that lean into the building's dark reputation.

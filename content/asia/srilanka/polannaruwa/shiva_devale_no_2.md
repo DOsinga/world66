@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The most complete of the Hindu temples in the city, Shiva Devale No. 2 was built by Chola conquerors from South India during their brief eleventh-century rule before Vijayabahu I drove them out. It is, in effect, a small Chola temple transplanted to Sri Lanka, with the characteristic square sanctuary, mandapa porch, and tower carved with sculpted niches.

@@ -13,6 +13,7 @@ tags:
   - museum
 title: Pinacoteca di Brera
 type: poi
+score: 9.1
 ---
 
 Milan's foremost art gallery, housed in a Baroque palazzo in the Brera neighbourhood. The collection covers Italian painting from the 13th to 20th centuries, with particular strength in northern Italian Renaissance work — Mantegna's Dead Christ, Raphael's Marriage of the Virgin, and Caravaggio are all here. Hayez's The Kiss (1859), the painting that became a symbol of Italian Risorgimento, is one of the most visited works.

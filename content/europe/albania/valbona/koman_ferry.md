@@ -14,6 +14,7 @@ story: >
   the first foreign travellers in the 1990s, after the fall of communism, but
   the route only became well-known internationally through the work of
   travel writers in the mid-2000s.
+score: 9.0
 ---
 
 The ferry from Koman to Fierza — or Fierza to Koman, depending on direction — is one of the most spectacular boat journeys in Europe. The route crosses the long, narrow Koman reservoir on the Drin River, threading between sheer limestone cliffs, forested slopes, and waterfalls for about three hours. There are no roads along the valley; the ferry is the only connection.

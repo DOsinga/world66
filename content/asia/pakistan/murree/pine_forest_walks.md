@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9100
 longitude: 73.3950
+score: 7.8
 ---
 
 The forested slopes around Murree are a significant part of the town's appeal, especially for visitors from Pakistan's hot plains who come for the cool air and green scenery. Pine, fir, and oak trees cover the hillsides, and a network of walking paths connects the ridge to the surrounding valleys. The paths around Bhurban and along the ridgeline toward Nathia Gali are the most rewarding for hiking.

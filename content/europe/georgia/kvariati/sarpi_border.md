@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5214
 longitude: 41.5519
+score: 6.4
 ---
 
 A couple of kilometres south of Kvariati lies Sarpi, the Georgian village that sits directly on the Turkish border. The crossing here — between the Georgian village of Sarpi and the Turkish village of Sarp — is the main land border crossing between Georgia and Turkey, and it's open round the clock. Even if you're not crossing, it's an interesting place to visit: the border literally runs through what was once a single Laz community, split between two countries.

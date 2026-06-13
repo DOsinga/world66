@@ -10,6 +10,7 @@ story: >
   Carlo Levi was a doctor, painter, and intellectual from Turin who was exiled to Aliano in 1935 by Mussolini's government for his anti-Fascist activities. He spent a year here, working as a physician in the village despite not being officially permitted to practice. The experience became the raw material for "Christ Stopped at Eboli" (1945), one of the great accounts of southern Italian poverty and isolation.
 sources:
   - https://en.wikipedia.org/wiki/Carlo_Levi
+score: 8.0
 ---
 
 The Museo Carlo Levi is housed in the building where the writer and painter lived during his 1935-36 confinement in Aliano, and it preserves a number of his paintings alongside documents and photographs from his time in Basilicata. The exhibition is modest in scale but moving in context: standing in these rooms, it is easy to understand the isolation and the odd beauty that Levi found here, far from Turin and the political turbulence of Fascist Italy.

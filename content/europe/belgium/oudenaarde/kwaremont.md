@@ -10,6 +10,7 @@ latitude: 50.8233
 longitude: 3.6404
 story: >
   Since 2012, the Tour of Flanders has ended the race with three consecutive ascents of the Paterberg and Kwaremont in the final 50 kilometres. No other race in the world finishes with the same combination three times. The double-climb sequence has become so decisive that the race is effectively won or lost between these two narrow roads — which together cover barely two kilometres of tarmac and cobblestone.
+score: 8.2
 ---
 
 The Paterberg and Kwaremont are two cobbled climbs a kilometre apart near the village of Kluisberg, about eight kilometres south of Oudenaarde. Both are central to the modern Tour of Flanders route, and both are accessible on a standard road or gravel bike — though neither is easy. The Kwaremont is the longer climb, rising steadily for two kilometres over rough cobbles; the Paterberg is shorter and more violent, with sections exceeding 20 percent gradient on a narrow lane barely wide enough for two cyclists.

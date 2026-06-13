@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The Moravians who founded Salem in 1766 were one of the first Protestant denominations to ordain women as ministers and to insist that enslaved members be welcomed as equals in worship — neither principle survived the move from Saxony to North Carolina without compromise, but the cemetery, God's Acre, still buries its dead alphabetically by 'choir' rather than by family or status."
+score: 9.2
 ---
 
 Old Salem is the original Moravian settlement, a working historic district about a mile south of downtown Winston-Salem. Costumed interpreters run more than a dozen restored buildings as a living museum — the gunsmith, the printer, the shoemaker, the apothecary — and they actually demonstrate the trades rather than just standing next to them. The Moravians were unusually meticulous about record-keeping, so the recreations are based on the original household inventories.

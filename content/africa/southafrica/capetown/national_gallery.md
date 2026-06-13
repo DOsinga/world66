@@ -15,6 +15,7 @@ tags:
 - city_bowl
 title: Iziko South African National Gallery
 type: poi
+score: 8.3
 ---
 
 The Iziko South African National Gallery is the country's national art museum, holding around 8,000 works ranging from European old masters to twentieth-century South African painting and a growing collection of contemporary African art. The collection's strength is its sweep — it documents a difficult century of South African art-making more thoroughly than any other institution.

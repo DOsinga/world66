@@ -10,6 +10,7 @@ latitude: 19.0539
 longitude: 20.5083
 sources:
   - https://en.wikipedia.org/wiki/Lakes_of_Ounianga
+score: 9.5
 ---
 
 Eighteen interconnected lakes scattered across a hyper-arid stretch of northeastern Chad — a place that has no right to have water at all, yet does. The Lakes of Ounianga were inscribed as a UNESCO World Heritage Site in 2012, the citation noting that they represent the largest permanent freshwater lake complex in the Sahara Desert.

@@ -10,6 +10,7 @@ tags:
 snippet: Landmark museum telling the story of the 1889 disaster that killed 2,209 people
 story: >
   The South Fork Fishing and Hunting Club, whose negligently maintained dam failed and caused the 1889 flood, counted Andrew Carnegie, Andrew Mellon, and Henry Clay Frick among its members. None of them were ever held legally liable. The families of the dead received nothing. The club simply disbanded.
+score: 8.3
 ---
 
 The Johnstown Flood Museum occupies the former Cambria Club building in downtown Johnstown and is the essential starting point for understanding the city's most defining moment. The main exhibit walks you through the events of May 31, 1889, when the South Fork Dam — which had been converted into a private recreational lake for Pittsburgh's industrial elite — failed after heavy rains and sent 20 million tons of water crashing down the Conemaugh Valley.

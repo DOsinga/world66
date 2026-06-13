@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.9962
 longitude: -81.0219
+score: 6.5
 ---
 
 True BBQ is the most celebrated barbecue restaurant in Columbia, known for whole-hog smoking in the South Carolina tradition — where the whole pig goes over hardwood coals for the better part of a day, producing meat that is pulled rather than sliced and served with the region's distinctive mustard-based sauce. This is the Midlands style, distinct from the vinegar-based sauce of coastal Carolina or the tomato-heavy styles of Tennessee and Texas.

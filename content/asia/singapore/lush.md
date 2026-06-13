@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: Lush
 type: poi
+score: 4.7
 ---
 
 A bar on River Valley Road that leans toward funk, trip hop, and acid jazz — a welcome change from the thumping clubs elsewhere in the city. The crowd is mixed and unpretentious. Good for a late drink in a relaxed setting.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.497
 longitude: -44.268
+score: 6.9
 ---
 
 The Sítio Rangedor State Park is a protected green area within the city of São Luís, an urban park covering several hundred hectares of Atlantic Forest remnants, lakes, and walking trails. It's a genuine escape from the city — the trails pass through dense secondary forest where birds are abundant, and the central lake is popular with local families for picnics and paddle boats.

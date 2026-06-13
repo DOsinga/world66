@@ -9,6 +9,7 @@ tags:
   - wuchang
 neighbourhood: Wuchang
 story: "The Bianzhong of Marquis Yi is a set of 65 bronze bells, the largest ever found in China, excavated from a 2,400-year-old tomb at Suizhou in 1978. The bells are still playable; the museum's resident orchestra performs short concerts on a replica several times a day, in part because the originals are now too fragile."
+score: 9.3
 ---
 
 The Hubei Provincial Museum is one of the four best museums in China and the main reason for any serious traveller to visit Wuhan. It sits on the western shore of East Lake in a substantial building shaped like a stylised Chu-dynasty palace, and houses the finds from the great tombs of Hubei — including the celebrated Tomb of Marquis Yi of Zeng, opened in 1978.

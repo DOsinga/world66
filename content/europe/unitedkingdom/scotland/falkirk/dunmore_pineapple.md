@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Dunmore_Pineapple
 story: >
   The pineapple was built in 1761 for John Murray, 4th Earl of Dunmore, who had served as the last British governor of Virginia before the American Revolution. One theory holds that the elaborate stone pineapple — then a symbol of welcome and wealth — was his defiant claim that he could grow the exotic fruit in Scotland as well as any colonial garden.
+score: 8.0
 ---
 
 North of Falkirk, near the village of Airth, stands one of Scotland's most singular buildings: a stone pineapple, about ten metres tall, sitting on top of a garden pavilion. It is owned by the Landmark Trust and can be rented as a holiday cottage. For those just passing through, you can view it from the outside and walk in the walled garden.

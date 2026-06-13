@@ -14,6 +14,7 @@ story: >
   architecture, a brief 1920s and 30s fashion that treated the movie-going experience as
   theatrical escapism from the first moment you walked through the door. Most such theatres
   have been demolished; the Fox Visalia is a well-preserved example.
+score: 7.8
 ---
 
 The Fox Theatre on West Main Street is the architectural centrepiece of downtown Visalia. Built in 1930 in the atmospheric theatre style, the interior evokes a Moorish garden courtyard with twinkling stars on the ceiling — an immersive fantasy that was meant to transport 1930s moviegoers somewhere entirely different from central California. The building seats 1,275 and was restored in the 1990s by a community group that raised funds specifically to save it.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5706
 longitude: -5.3697
+score: 7.7
 ---
 
 The grand open square between the medina and the Spanish town, paved in pale stone with four small minaret-like towers at the corners. The square was redesigned in 1988 to give the Royal Palace a more imposing setting, and the architects did their job — at dusk, lit and almost empty, the space has real grandeur.

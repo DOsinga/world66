@@ -11,6 +11,7 @@ story: >
   12 people on impact. The 27 survivors spent 72 days at altitude, in extreme cold, with no food. 
   Their survival — and the means by which they survived — became one of the most extraordinary 
   stories of the 20th century. Of the 45 people on board, 16 eventually walked out alive.
+score: 7.8
 ---
 
 The Museo Andes 1972 tells the story of Uruguayan Air Force Flight 571, which crashed into the Andes mountains in October 1972 carrying a Uruguayan rugby team and their supporters. The museum was created with the cooperation of the survivors and the families of those who died, and presents the story with unusual honesty and detail.

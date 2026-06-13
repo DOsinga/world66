@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, diving, snorkelling, nature]
 latitude: 14.008
 longitude: 74.329
+score: 8.7
 ---
 
 Netrani Island (also called Pigeon Island) is the best diving and snorkelling destination on the Karnataka coast, about 19 km offshore from Murudeshwar. The coral reefs around the island have good visibility — typically 15 to 20 metres — and the marine life includes reef fish, eels, rays, and occasional whale sharks and orca. The island itself is uninhabited and steep-cliffed; visits are by boat and the diving is done from the water.

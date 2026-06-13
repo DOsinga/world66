@@ -6,6 +6,7 @@ longitude: 9.7668
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The 662-metre Alssund Bridge crosses the narrow strait between Als island and the Jutland mainland just north of town. The view from the centre of the bridge, looking south down the Alssund towards Sønderborg's harbour, is the postcard view of the town.

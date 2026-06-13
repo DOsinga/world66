@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.2
 ---
 
 The Chaim Frenkel Villa is an elegant Art Nouveau house built in 1908 by Šiauliai's richest pre-war industrialist, the leather magnate Chaim Frenkel. Today it houses a branch of the Šiauliai Aušros Museum, with exhibits on the city's late-19th and early-20th-century Jewish community — which numbered close to half the city's population before the Holocaust.

@@ -9,6 +9,7 @@ title: Magic Kingdom
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Magic_Kingdom
+score: 8.6
 ---
 
 Magic Kingdom is the park most people picture when they think of Walt Disney World — Cinderella Castle at the end of Main Street, U.S.A., surrounded by six themed lands. It is the most visited theme park in the world by annual attendance, and it shows: queues form early and move slowly. Space Mountain, Haunted Mansion, Pirates of the Caribbean, and the Seven Dwarfs Mine Train are the rides most visitors prioritise; the latter routinely has the longest waits in the resort.

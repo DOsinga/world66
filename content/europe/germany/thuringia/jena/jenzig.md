@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.9310
 longitude: 11.6020
+score: 8.8
 ---
 
 The Jenzig is a limestone hill rising steeply from the east bank of the Saale opposite the city centre, reaching 302 metres and offering the best panoramic view over Jena and the valley. It was a favourite subject of Romantic painters in the early nineteenth century — the Caspar David Friedrich generation found the combination of the steep pale cliff, the river, and the city below irresistible — and the view from the top still has that quality of a landscape waiting to be painted.

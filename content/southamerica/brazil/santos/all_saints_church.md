@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The church was built in 1873 to serve the British engineers and shipping agents who ran much of the port in the late nineteenth century. The Sunday services were conducted in English well into the twentieth century."
+score: 6.4
 ---
 
 The Anglican church of All Saints, on the seafront a few blocks west of the centre, is a small but elegant nineteenth-century brick church built for the once-substantial British community in Santos. The roof beams and pews are of Indian teak, brought in as ballast on coffee-trade clippers heading home.

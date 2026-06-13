@@ -1,6 +1,7 @@
 ---
 title: "Cold War Tunnel"
 type: poi
+score: 8.1
 ---
 
 Beneath the castle hill, an extensive tunnel network was excavated during the Hoxha regime to serve as a nuclear shelter and command centre — one of hundreds of such installations built across Albania during the Cold War. A section of the tunnels under the castle has been opened as a museum and offers one of the most tangible encounters with the paranoia and scale of Albania's communist-era fortification programme available anywhere in the country.

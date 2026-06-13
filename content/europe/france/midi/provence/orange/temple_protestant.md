@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: 19th-century Protestant church, a reminder of Orange's Calvinist past
+score: 6.1
 ---
 
 Orange has an unusual religious history for Provence. As a sovereign principality under the Protestant House of Orange-Nassau from 1544, it was a Calvinist enclave in Catholic France for nearly 150 years, and Protestants from across the south took refuge here. The **Temple Protestant** — a simple neo-Romanesque church built in 1864 on Rue Saint-Florent — is a small reminder of that legacy.

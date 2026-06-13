@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 26.235
 longitude: 127.3019
+score: 9.1
 ---
 
 The waters surrounding Zamami Island lie within Keramashoto National Park, designated in 2014 partly because the coral reefs here are among the most intact in Japan. The visibility regularly exceeds 30 metres — exceptional even by international standards — and the reef systems have been largely spared from the bleaching events that have damaged corals further south. Dive sites around the island range from shallow coral gardens accessible to snorkellers to walls and channels with strong currents for experienced divers.

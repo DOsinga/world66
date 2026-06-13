@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_house
 story: "The Baron's Hall, built in 1341, is one of the most complete medieval great halls in England — open hearth in the middle of the floor, smoke-blackened timber roof above, no chimney. It is so atmospheric that the BBC has filmed Henry VIII court scenes here repeatedly, with virtually no set-dressing required."
+score: 8.5
 ---
 
 Penshurst Place is six miles north-west of Tunbridge Wells and easily the best day-trip from the town. The fortified manor house at its core dates from the 1340s; the surrounding wings are Tudor and Jacobean. It has been the seat of the Sidney family since 1552 and is still lived in.

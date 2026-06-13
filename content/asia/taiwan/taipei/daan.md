@@ -8,6 +8,7 @@ tags:
 neighbourhood: Da'an
 title: Da'an District
 type: poi
+score: 7.5
 ---
 
 Da'an is the most liveable of Taipei's central districts: tree-lined avenues, the city's best cafe culture, dozens of independent bookshops, and a generous concentration of small modern Taiwanese restaurants and bistros. It centres on **Da'an Forest Park**, a 26-hectare square of lawns and ponds that locals call "the lungs of Taipei", and runs north to the long shopping strips of Yongkang Street and Heping East Road.

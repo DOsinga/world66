@@ -7,6 +7,7 @@ tags:
 - museum
 title: Thar Heritage Museum
 type: poi
+score: 6.6
 ---
 
 The Thar Heritage Museum is a small, privately run museum in the old city, assembled over three decades by local historian and author LN Khatri. The collection includes an eclectic range of artefacts — old coins, textiles, musical instruments, fossils from the Jaisalmer Formation, documents from the princely state period, antique locks and keys, and items connected to the camel-trading economy of the desert. The display is dense and the labelling is informal, but the breadth of the collection is impressive for a private museum.

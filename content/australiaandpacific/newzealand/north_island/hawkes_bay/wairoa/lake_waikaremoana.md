@@ -12,6 +12,7 @@ story: >
   a legal entity with its own rights — an unprecedented recognition of the
   Tūhoe people's relationship with their ancestral homeland. The lake at its
   heart is named Waikaremoana, meaning "sea of rippling water."
+score: 9.4
 ---
 
 Lake Waikaremoana, 63 kilometres from Wairoa on a winding mountain road, is one of New Zealand's most beautiful lakes — a deep, forest-rimmed crater set in the ancient hills of Te Urewera. The surrounding landscape is the most extensive native rainforest in the North Island, home to populations of kiwi, blue duck, kōkako, and other birds that have become rare elsewhere.

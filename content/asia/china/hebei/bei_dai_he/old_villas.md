@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.8335
 longitude: 119.4870
+score: 7.5
 ---
 
 In the 1890s, foreign diplomats and missionaries based in Beijing began retreating to Beidaihe during the brutal summers, building wooden villas in the pine groves back from the shore. The town developed as an informal foreign concession, with British, American, German, and Russian residents each establishing their own sections. By the early 20th century there were hundreds of foreign-owned properties here.

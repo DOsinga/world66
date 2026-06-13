@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Rock_Art_in_the_Ha'il_Region
   - https://whc.unesco.org/en/list/1472/
+score: 9.1
 ---
 
 About 90 kilometres northwest of Ha'il, the town of Jubbah sits at the foot of Jabal Umm Sinman, a sandstone hill that once overlooked a freshwater lake at the southern edge of the Great Nafud Desert. The lake is long gone, but the carvings left by the people who lived beside it remain, and they are extraordinary. The Jubbah petroglyphs span some 10,000 years of human occupation, from Neolithic cattle herders through Bronze Age nomads to Nabataean traders and Islamic-era camel riders.

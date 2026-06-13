@@ -7,6 +7,7 @@ snippet: Long-running classic French bistro next to the central market
 tags:
 - eating_out
 - restaurant
+score: 5.9
 ---
 
 Aux Plaisirs des Halles is the long-established next-door restaurant to the city's covered market — the kitchen buys daily across the road and the menu reflects what was on the stalls that morning. The cooking is classic French regional rather than experimental, but consistently good.

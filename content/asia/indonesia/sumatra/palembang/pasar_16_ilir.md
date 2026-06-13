@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.2
 ---
 
 Pasar 16 Ilir is the largest traditional market in Palembang, sprawling across several blocks on the north bank just east of the Ampera Bridge. Five floors deep in places, it sells everything from fresh fish and durian to electronics, textiles, and household goods — and the riverside section at the back doubles as the main passenger jetty for the city's ketek river taxis.

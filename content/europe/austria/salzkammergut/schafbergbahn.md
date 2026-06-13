@@ -12,6 +12,7 @@ story: >
   vintage Austrian-built engines used in the film. The coincidence pleases
   the many American and British visitors who arrive expecting Julie Andrews
   and find an actual piece of Victorian engineering still doing its job.
+score: 9.1
 ---
 
 The Schafbergbahn is a narrow-gauge rack railway that has been climbing from St. Wolfgang to the summit of the Schafberg (1,783 m) since 1893. It remains one of the steepest rack railways in Europe, ascending 1,190 metres over just under six kilometres — the steepest section has a gradient of 26 percent. In summer the trains are hauled by original steam locomotives; in winter by modern rack diesels.

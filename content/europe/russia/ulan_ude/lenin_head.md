@@ -11,6 +11,7 @@ story: >
   in the world, the seven-metre bronze weighs around 42 tonnes. In a heavily
   Buddhist republic, local schoolchildren grew up with a meditative tilted-head
   Lenin watching over them, more bodhisattva than revolutionary.
+score: 8.4
 ---
 
 The Lenin head on Soviets Square is the single most unforgettable sight in Ulan-Ude. A giant bronze cube of a head, perched on a low plinth at the centre of the square, gazes blankly over the city's neoclassical post-war facades. It is reportedly the largest sculpted Lenin head in the world, and one of the most disorientating monuments anywhere in Russia.

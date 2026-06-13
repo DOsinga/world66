@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -12.578
 longitude: 13.396
+score: 6.4
 ---
 
 The string of informal seafood restaurants and grill stalls near the waterfront is the best place to eat in Benguela. The fish — cação (shark), robalo (sea bass), carapau (horse mackerel) — comes directly off the boats and onto charcoal grills. Order by weight, pick what looks freshest, and eat with bread and cold beer.

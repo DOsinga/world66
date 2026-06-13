@@ -9,6 +9,7 @@ longitude: 25.2814
 story: "The name means 'Virgin Mary of the Cliff' — the church is built on the very edge of the Chora hilltop, the highest point of the village. According to tradition, the icon of the Virgin housed here arrived miraculously by sea, and the church was built on the spot where it landed. Local fishermen still bring offerings before heading out in rough weather."
 sources:
   - https://en.wikipedia.org/wiki/Panagia_Gremniotissa
+score: 7.6
 ---
 
 The church of Panagia Gremniotissa crowns the top of Chora's hill, its blue dome visible from the port and from Mylopotas beach below. It is the most photographed building on Ios and for good reason: sitting at the peak of the whitewashed village with the Aegean spread out on three sides, it is a perfect example of Cycladic religious architecture. The windmills nearby add to the composition.

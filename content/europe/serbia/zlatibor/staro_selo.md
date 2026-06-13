@@ -7,6 +7,7 @@ tags:
 - sight
 title: Staro Selo Ethno-Village
 type: poi
+score: 7.8
 ---
 
 Sirogojno, a small village about 15 km from Zlatibor town, is home to Staro Selo (Old Village), an open-air museum where traditional rural Serbian buildings have been reconstructed and furnished as they would have been in the 19th century. The presentation is thoughtful — this is not a theme park, but a genuine attempt to show how people lived on this plateau. There is a restaurant serving local food, a small shop, an open-air stage, and a few traditional houses available to rent as holiday accommodation.

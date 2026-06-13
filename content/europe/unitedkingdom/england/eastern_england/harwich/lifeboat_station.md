@@ -6,6 +6,7 @@ longitude: 1.2871
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The RNLI lifeboat station at the northern tip of the Harwich peninsula has been operating in some form since 1821, making it one of the oldest in the country. The current boathouse is a handsome modern structure with a glass front facing the estuary, housing an all-weather Severn-class lifeboat and a smaller inshore B-class.

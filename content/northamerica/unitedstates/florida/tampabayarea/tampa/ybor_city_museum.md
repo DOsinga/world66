@@ -11,6 +11,7 @@ neighbourhood: Ybor City
 snippet: State park museum in a historic brick building telling the story of Tampa's cigar-making immigrant community
 story: >
   At the height of the cigar industry in the early 1900s, the factories employed *lectores* — professional readers who sat on elevated platforms and read aloud to the workers for hours each day. The workers paid the lectores out of their own wages and voted each week on what should be read: newspapers, political pamphlets, and novels by Zola, Tolstoy, and Cervantes were all standard fare. The tradition was so politically influential that the Florida state government eventually banned the lectores, fearing their role in organising labour.
+score: 7.9
 ---
 
 The Ybor City Museum State Park occupies a former bakery building on 9th Avenue that was built in 1896 to supply bread to the cigar workers. The museum tells the history of the neighbourhood from its founding by Vicente Martinez-Ybor in 1885 through the peak of the cigar industry and its decline after the 1930s.

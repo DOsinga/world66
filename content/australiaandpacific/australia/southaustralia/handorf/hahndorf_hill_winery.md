@@ -7,6 +7,7 @@ tags:
 - bar
 title: Hahndorf Hill Winery
 type: poi
+score: 7.1
 ---
 
 A small family-owned winery on the edge of Hahndorf, one of the better cellar door experiences in the Adelaide Hills. The winery specialises in wines made from Austrian grape varieties — Grüner Veltliner and Blaufränkisch — which thrive in the cooler Adelaide Hills climate and offer something genuinely different from the usual Barossa Shiraz trail. The tasting room is relaxed and the views across the valley are good.

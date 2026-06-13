@@ -10,6 +10,7 @@ story: >
   Snow Arena opened in 2012 and immediately became one of the most unusual sports facilities in the Baltic region — an indoor ski slope in a country with almost no natural elevation. Lithuania's highest point is just 294 metres above sea level. The Snow Arena offers Lithuanians and visitors what the landscape emphatically does not: a proper ski run, maintained at minus five degrees Celsius year-round.
 sources:
   - https://en.wikipedia.org/wiki/Snow_Arena
+score: 7.9
 ---
 
 Snow Arena is an indoor ski facility a short distance from Druskininkai town centre, offering a 440-metre ski run and snowboarding facilities in a climate-controlled hall. Open year-round, it is particularly popular in the warmer months when skiing is otherwise impossible, and it draws a steady stream of Lithuanian families and beginners who have never skied outdoors.

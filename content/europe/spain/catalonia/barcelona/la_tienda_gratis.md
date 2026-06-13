@@ -8,6 +8,7 @@ tags:
 - shopping
 title: La Tienda Gratis
 type: poi
+score: 5.0
 ---
 
 A free shop inside CSO El Teatro, a squatted social center near the Arc de Triomf metro station. The concept is simple: take what you need, bring what you no longer use. You will find clothing, books, household items, and whatever else people have dropped off. No money changes hands.

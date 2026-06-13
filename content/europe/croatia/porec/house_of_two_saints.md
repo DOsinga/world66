@@ -8,6 +8,7 @@ tags:
 - architecture
 title: House of Two Saints
 type: poi
+score: 6.7
 ---
 
 One of the more distinctive medieval buildings in Poreč's old town, the House of Two Saints takes its name from the two stone relief figures carved into the facade flanking an upper-floor window. The reliefs are worn but still legible — a rare piece of Romanesque decorative sculpture surviving in situ.

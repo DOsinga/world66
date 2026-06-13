@@ -6,6 +6,7 @@ tags:
 - transport
 title: Sanya Railway Station
 type: poi
+score: 2.5
 ---
 
 Sanya Railway Station sits about five kilometres north of the city centre and is the southern terminus of the Hainan Eastern Ring High-Speed Railway, which connects Sanya to Haikou in just over 90 minutes. The same complex is also served by the Hainan Western Ring Railway, which loops back around the western side of the island.

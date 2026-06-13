@@ -13,6 +13,7 @@ story: >
   a Jordanian of Palestinian origin — spent decades filling it with 
   photographs, maps, documents, and objects, creating an accidental archive 
   of 20th-century Amman.
+score: 7.6
 ---
 
 The Duke's Diwan is a privately maintained cultural centre and informal museum in one of the oldest houses in downtown Amman, run by its owner as a labour of personal passion. The ground floor and several rooms are open to visitors and filled with historical photographs of Amman, old maps, manuscripts, and objects accumulated over decades of collecting. The atmosphere is more like a scholar's private library than a formal institution.

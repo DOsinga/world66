@@ -14,6 +14,7 @@ story: >
   confederation and never fully recovered. The French re-established a garrison
   here in 1934, and modern Tindouf is essentially a 20th-century military and
   administrative town overlaid on a medieval ruin.
+score: 6.2
 ---
 
 What remains of the old fortified town of Tindouf sits at the centre of the modern grid, mostly buried under concrete and concrete-block construction from the French and Algerian-state eras. A few stretches of mud-brick wall, a couple of restored gateways, and the lines of one or two old caravanserai courtyards survive. The pace of visiting is slow — you walk between the modern buildings, ask permission to enter the surviving compounds, and read the place as much from absence as from presence.

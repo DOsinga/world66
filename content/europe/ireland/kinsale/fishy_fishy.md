@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 51.7060
 longitude: -8.5265
+score: 6.9
 ---
 
 Fishy Fishy is Kinsale's most celebrated restaurant and one of the best seafood restaurants in Ireland. The menu changes daily with whatever was landed at the harbour that morning — crab claws, chowder, fresh plaice, lobster, and oysters are regulars; everything else depends on the season and the weather. The room is bright and informal, with artwork on the walls and a conservatory looking out over a small garden.

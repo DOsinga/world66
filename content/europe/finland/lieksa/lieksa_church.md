@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+score: 7.2
 ---
 
 The town's Lutheran church, a striking modern building from 1982 designed by architect Raili Pietilä. A long single-storey block of white walls and stone topped by a sweeping arched roof, with a wide window facade on the front; one of the more distinctive examples of late-20th-century Finnish church architecture.

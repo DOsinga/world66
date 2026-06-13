@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - gornji_grad
+score: 7.0
 ---
 
 A small museum that reconstructs a typical 1980s Yugoslav apartment: living room with chunky brown furniture and a tube TV showing period programmes, kitchen with original packaging on the shelves, a child's bedroom with cassette tapes and posters. Everything is hands-on — you can sit on the sofas, dial the rotary phone, flip through the magazines, play the games.

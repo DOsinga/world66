@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The bronze statue, installed in 1998 by Slovenian sculptor Andrej Ajdic, weeps in a way that has never been fully explained. A clear liquid seeps continuously from a spot near the right knee of the statue; analysis has found it to be water but its source remains unknown despite the statue being hollow and sealed."
+score: 7.2
 ---
 
 A six-metre bronze of the risen Christ stands behind St. James' Church, his arms raised in blessing. The figure is striking on its own, but the reason most pilgrims stop here is the steady liquid that seeps from the right knee.

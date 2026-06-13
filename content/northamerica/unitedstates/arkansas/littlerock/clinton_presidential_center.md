@@ -12,6 +12,7 @@ story: >
   defined Clinton's 1996 campaign. Whether or not you find that compelling,
   the archive holds 80 million pages of documents, the largest presidential
   library collection in history.
+score: 8.1
 ---
 
 The William J. Clinton Presidential Center sits on the south bank of the Arkansas River in the River Market District and anchors the redevelopment of Little Rock's waterfront. The building itself is striking — a long glass rectangle cantilevered over the river on stilts, designed by Polshek Partnership Architects to evoke a bridge.

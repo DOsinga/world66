@@ -5,6 +5,7 @@ latitude: 27.753
 longitude: -15.562
 snippet: "A beachfront bar on the promenade where you can drink facing the water without leaving the sand"
 tags: [bars_and_cafes, bar]
+score: 5.4
 ---
 
 Bambú sits right on the Playa del Inglés promenade at the point where the concrete walkway meets the sand, with a terrace that extends far enough down the beach that you can sit in the shade of a parasol with your feet almost on the beach. It opens around 10am and runs a straightforward menu — fresh fruit juices, local Tropical beer, rum and Coke served in large plastic cups, and a short list of snacks including grilled octopus and chips. The food is not the reason to come; the position is.

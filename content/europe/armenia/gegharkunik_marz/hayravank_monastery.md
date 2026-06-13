@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.4680
 longitude: 45.2360
+score: 7.8
 ---
 
 Hayravank Monastery occupies a rocky promontory on the western shore of Lake Sevan, about ten kilometres south of Sevanavank. Unlike its more famous neighbour, Hayravank sees relatively few visitors, and the setting is arguably more dramatic — the tenth-century church of Surb Astvatsatsin perches right on the edge of the cliffs with unobstructed views over the lake.

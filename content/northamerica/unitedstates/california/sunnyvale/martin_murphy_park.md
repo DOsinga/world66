@@ -6,6 +6,7 @@ longitude: -122.0258
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 A small landscaped park on the original site of the Martin Murphy Jr. Mansion — the 1850 prefabricated wooden house that founded the city. The mansion itself, the oldest wood-frame house in California, was tragically destroyed by arson in 1961; the park preserves the location and includes interpretive panels about Murphy and the Donner-Reed party (the Murphy family came west with them in 1844).

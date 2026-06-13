@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6763
 longitude: 51.4221
+score: 7.6
 ---
 
 The Shah Mosque at the southern gate of the Grand Bazaar is Tehran's largest and most important historical mosque — a 17th-century Safavid structure that served as the royal mosque of the court and the principal place of prayer for the bazaar. It is architecturally significant as one of the few major Safavid buildings in Tehran (the city was not the Safavid capital; most Safavid architecture is in Isfahan), and the tile work on the main dome and the entrance portal is of the quality associated with that school.

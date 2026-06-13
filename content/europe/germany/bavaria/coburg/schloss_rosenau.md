@@ -9,6 +9,7 @@ latitude: 50.2841
 longitude: 10.9998
 story: >
   Prince Albert of Saxe-Coburg, who would become Queen Victoria's husband and the Prince Consort of Britain, was born at Schloss Rosenau on 26 August 1819. Victoria visited twice and called it the most beautiful place she had ever seen. Albert himself described Rosenau as "the paradise of my childhood" — and after his death, Victoria placed a copy of his death mask in the bedroom where he was born.
+score: 7.6
 ---
 
 Schloss Rosenau lies about five kilometres northeast of Coburg, a modest summer palace surrounded by an English-style landscape park that was laid out in the early nineteenth century. The palace is small and intimate compared to the grand Ehrenburg in town — white-painted, with Gothic Revival detailing that was fashionable among German courts of the period.

@@ -10,6 +10,7 @@ tags:
 title: Marine Science Center
 type: poi
 url: https://www.marinesciencecenter.com
+score: 7.4
 ---
 
 A few hundred yards inland from the Ponce Inlet Lighthouse, this small marine-life rehabilitation centre is one of the best-value family attractions on this stretch of coast. It nurses injured sea turtles back to health — there is usually a dozen or so loggerheads and green turtles in big circular tanks visible to visitors — and operates an active sea-bird hospital with herons, pelicans, and gulls in outdoor aviaries.

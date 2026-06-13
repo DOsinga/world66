@@ -7,6 +7,7 @@ snippet: Live music club in a former railway warehouse near the station
 tags:
   - bars_and_cafes
   - bar
+score: 6.8
 ---
 
 Katalin occupies a long brick railway warehouse just east of Uppsala Central Station and has been the city's main live music venue for decades. The booking ranges from Swedish folk and jazz to international rock and indie, and the bar serves food before the show — generous portions, fair prices, no surprises.

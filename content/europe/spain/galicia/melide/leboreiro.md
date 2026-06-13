@@ -7,6 +7,7 @@ snippet: A medieval pilgrim village east of Melide, on the Camino
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Leboreiro is a tiny village four kilometres east of Melide on the Camino Francés, almost entirely consisting of a single line of stone houses along the pilgrim path. It was once a major stop on the medieval Camino, with a hospital for pilgrims (now ruined) and a Romanesque church, Santa María de Leboreiro, that survives essentially unchanged.

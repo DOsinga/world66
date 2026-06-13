@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - sight
+score: 6.6
 ---
 
 The largest open square in the old town, dominated by the equestrian statue of King William II of the Netherlands (also Grand Duke of Luxembourg in his time). The neoclassical City Hall sits on the south side. Locals call the square "Knuedler", from the knotted rope on the belts of the Franciscan monks who once had a monastery here.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: The phrase "elk shower" comes from the way a passing elk's hoofs would send up a brief splash from the puddles inside the road tunnel, drenching unwary motorists. The tunnel itself sits on one of the elks' favoured east–west crossing routes, and sightings have been common enough over the years to enter local folklore.
+score: 3.4
 ---
 
 The town's stranger claim to fame is the so-called "elk shower" — sightings of wild elk walking calmly through the road tunnel at the edge of town, surprising drivers. It became a minor local legend in the 1990s and has been written up by various Swedish curiosities and travel sites since.

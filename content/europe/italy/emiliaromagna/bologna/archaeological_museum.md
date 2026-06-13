@@ -8,6 +8,7 @@ snippet: Etruscan, Egyptian and Roman collections in a fifteenth-century hospita
 tags:
 - things_to_do
 - museum
+score: 8.2
 ---
 
 Housed in the fifteenth-century Palazzo Galvani — once known as the Hospital of Death because it served patients deemed beyond cure — the Museo Civico Archeologico holds Bologna's best survey of the city's deep past. The Etruscan section is exceptional: Bologna was the Etruscan town of Felsina before the Romans arrived, and most of what was dug up from the necropoleis around the city ended up here.

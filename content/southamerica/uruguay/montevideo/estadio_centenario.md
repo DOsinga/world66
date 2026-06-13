@@ -12,6 +12,7 @@ story: >
   Uruguay beat Argentina 4-2 in front of 68,000 spectators. The stadium had been built in 
   just eight months specifically for the tournament. In the semi-final Uruguay beat Yugoslavia; 
   in the other semi-final Argentina beat the United States 6-1.
+score: 8.4
 ---
 
 The Estadio Centenario in Parque Batlle is one of football's great historic venues — built for the inaugural 1930 FIFA World Cup, which Uruguay hosted and won. The stadium is still the home ground of the Uruguayan national team and has a capacity of around 60,000. A small museum inside (Museo del Fútbol) tells the story of that 1930 tournament and Uruguayan football history more broadly.

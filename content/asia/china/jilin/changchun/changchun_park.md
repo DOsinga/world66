@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 43.8790
 longitude: 125.2970
+score: 6.7
 ---
 
 Changchun Park, also known as Laodong (Labour) Park, is one of the oldest parks in the city, dating to the Manchukuo period when it was developed as a public recreation ground for the planned capital's population. The park occupies a central location and has mature planting — trees that have been growing for over eighty years — that gives it a different quality from newer developments.

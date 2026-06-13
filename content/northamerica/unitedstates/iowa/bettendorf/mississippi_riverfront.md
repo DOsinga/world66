@@ -6,6 +6,7 @@ tags:
   - sight
 title: Mississippi Riverfront Trail
 type: poi
+score: 6.7
 ---
 
 The paved RiverWay Trail runs along the Mississippi through Bettendorf and connects to a 14-mile corridor that extends into Davenport to the west and Riverdale to the east. It is a flat, comfortable ride or walk with the river on one side and parkland on the other, and in summer the Channel Cat Water Taxi makes it possible to cross to the Illinois side — Moline and Rock Island — and explore by bike or on foot without retracing your steps.

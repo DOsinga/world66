@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - neighbourhood
 snippet: "Ancient hilltop village above modern Elazığ — the real reason to come here"
+score: 8.1
 ---
 
 Harput is what was here before Elazığ existed. The modern city in the plain was founded in 1862 as an Ottoman administrative centre to replace the old town on the ridge; Harput emptied out, and what's left is a quiet hillside village with a remarkable density of monuments — the castle, the Ulu Cami, several smaller mosques, the Arap Baba shrine, the Çimşit baths.

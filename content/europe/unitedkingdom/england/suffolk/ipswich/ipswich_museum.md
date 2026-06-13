@@ -12,6 +12,7 @@ story: >
   and processes used by the Anglo-Saxon craftsman. The actual Sutton Hoo burial
   site is about 15 km to the east, near Woodbridge, and is worth a trip in its
   own right.
+score: 7.4
 ---
 
 The Ipswich Museum covers natural history, geology, and archaeology, with a notable collection of Roman and Anglo-Saxon material from the region. The natural history galleries have that loveable Victorian museum quality — taxidermy, geology cases, a walrus — while the archaeology section is genuinely informative about Suffolk's long history.

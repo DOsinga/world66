@@ -7,6 +7,7 @@ tags:
   - sight
 title: Karlskrona Archipelago
 type: poi
+score: 8.5
 ---
 
 The islands around Karlskrona were closed to foreign visitors for most of the 20th century — classified as a military zone because of the naval base — and the landscape has the slightly undiscovered quality that comes from long isolation. Now that the restrictions have been lifted, the archipelago is one of the most rewarding parts of the Baltic coast to explore. The islands are low and smoothed by glaciers, covered with pine, juniper, and heather, with sheltered inlets and small fishing harbours.

@@ -8,6 +8,7 @@ tags:
 title: Place Seffarine
 type: poi
 snippet: "The brassworkers' square — the medina's loudest and most photogenic corner"
+score: 8.8
 ---
 
 Place Seffarine is one of the few actual squares in the labyrinth of Fes el-Bali, and the din of hammers on copper and brass bounces off its walls from morning to evening. Dozens of workshops ring the square, beating out trays, teapots, and lanterns much as they have since the Merinid period. A large mulberry tree stands in the middle, providing shade for the craftsmen taking breaks. The Al-Qarawiyyin library faces the square from one side.

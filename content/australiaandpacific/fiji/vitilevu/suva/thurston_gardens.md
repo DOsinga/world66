@@ -9,6 +9,7 @@ tags:
   - park
   - nasese
 neighbourhood: Nasese
+score: 7.1
 ---
 
 Fiji's national botanical garden, laid out in 1881 on land cleared from the colonial Government House grounds. The gardens are small but well planted — palms, ferns, frangipani, fig trees, a tortoise enclosure, and an ornamental pond — and they make a welcome bit of shade after the heat of Victoria Parade.

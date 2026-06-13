@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - wildlife
 story: "The Golfo Dulce is one of only three or four places on the planet where humpback whales from both hemispheres visit. Northern Pacific whales come down from Alaska between December and April; Southern Hemisphere whales arrive from Antarctica between July and October. The mothers calve in the warm gulf waters and the calves play in plain sight just metres from the boats."
+score: 7.9
 ---
 
 The Golfo Dulce is a tropical fjord — deep, calm, sheltered — and one of the world's most consistent humpback whale nurseries. Activity peaks in August and September (southern population) and again in January and February (northern population), with humpbacks visible nearly year-round between the two seasons.

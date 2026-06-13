@@ -9,6 +9,7 @@ latitude: 46.1651
 longitude: -1.1505
 sources:
   - https://en.wikipedia.org/wiki/Jardin_des_plantes_de_La_Rochelle
+score: 6.5
 ---
 
 The Jardin des Plantes de La Rochelle is a botanical garden of about two hectares, tucked behind the Natural History Museum on Rue Albert 1er. It is one of the few genuinely shaded retreats in central La Rochelle on a summer afternoon. The garden was founded in the 17th century and still has several trees from that era — a magnificent ginkgo and a tulip tree among them — standing above the more formal flowerbeds.

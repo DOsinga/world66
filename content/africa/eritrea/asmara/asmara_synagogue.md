@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Asmara once had a Jewish community of around 500, most of them traders and craftsmen who arrived under Italian rule. After Eritrean independence the community dwindled to a handful; for many years the synagogue was kept open single-handedly by Sami Cohen, the last Jewish caretaker in the country."
+score: 7.8
 ---
 
 A small but well-kept Orthodox synagogue on Serae Street, built in 1905 to serve the Italian-Jewish community that arrived with the colonial administration. The neoclassical facade gives little away from the street; inside, the prayer hall has its original wooden bimah and a small ark.

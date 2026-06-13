@@ -8,6 +8,7 @@ tags:
   - bè
 latitude: 6.1340
 longitude: 1.2480
+score: 7.7
 ---
 
 Lake Bè is a small, shallow lagoon in the old Ewe quarter of Bè, on the eastern edge of central Lomé. The neighbourhood around it is the oldest continuously inhabited part of the city, and the lake is a sacred site in the local vodun tradition — at certain times of year the chief priest of Bè performs ceremonies here that have continued through colonial occupation, single-party rule and the present day.

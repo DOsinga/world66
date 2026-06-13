@@ -7,6 +7,7 @@ tags:
 latitude: -18.65
 longitude: -173.98
 story: "Tonga is one of only a handful of places in the world where in-water encounters with humpback whales are legal and commercially operated. The whales arrive from Antarctica each July to breed in these warm, shallow waters, and the protected passages between the Vava'u islands form exactly the kind of sheltered environment mothers prefer for nursing their calves. A guide will enter the water ahead of you and signal when it is safe to approach."
+score: 9.5
 ---
 
 From July to October, humpback whales migrate from Antarctic feeding grounds to the warm waters of the Vava'u Group to breed, give birth, and nurse their calves. Tonga is one of the very few countries that permits swimming with humpbacks under controlled conditions, and Neiafu is where most of the licensed operators are based.

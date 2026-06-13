@@ -17,6 +17,7 @@ tags:
 neighbourhood: Berbés Quarter
 title: Pedra Oyster Market
 type: poi
+score: 7.7
 ---
 
 The Pedra market, tucked against the old harbour wall in the Berbés quarter, is one of the oldest and most atmospheric corners of Vigo. Every morning women set up at the stone counters and sell raw oysters, shucking them to order with practised speed. You eat them on the spot, dressed with nothing more than a squeeze of lemon, standing at the counter or perched on nearby steps. A glass of Galician white wine from the nearby bars completes the ritual.

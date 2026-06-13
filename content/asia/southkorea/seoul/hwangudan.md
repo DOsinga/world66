@@ -15,6 +15,7 @@ story: >
   centuries — only the Chinese emperor was supposed to communicate with Heaven
   — making it one of the most politically audacious acts in Korean history.
   Within eight years, Japan had reduced Korea to a protectorate.
+score: 6.2
 ---
 
 Hwangudan was a Joseon-era altar complex where the Korean emperor performed the Rite of Heaven, a ceremony asserting Korea's sovereignty equal to China. The main altar was demolished by the Japanese colonial administration in 1913 and replaced by the Joseon Hotel (now the Westin Chosun). The surviving circular stone drum tower (Hwanggungu) stands on the hotel grounds, incongruously surrounded by luxury hotel architecture.

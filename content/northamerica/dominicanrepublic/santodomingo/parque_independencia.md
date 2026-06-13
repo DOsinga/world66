@@ -9,6 +9,7 @@ tags:
 latitude: 18.4747
 longitude: -69.8969
 story: "The park marks the spot where Dominican independence was proclaimed on 27 February 1844. The Puerta del Conde gate at the park's edge was where independence leader Francisco del Rosario Sánchez raised the first Dominican flag. The date is still celebrated as Independence Day, and the Altar de la Patria mausoleum inside the park holds the remains of the three founding fathers."
+score: 6.7
 ---
 
 Parque Independencia marks the boundary between the Zona Colonial and the modern city, at the western gate through the colonial walls. At its centre is the Altar de la Patria — a classical mausoleum containing the remains of the three founding fathers of the Dominican Republic: Juan Pablo Duarte, Francisco del Rosario Sánchez, and Ramón Matías Mella.

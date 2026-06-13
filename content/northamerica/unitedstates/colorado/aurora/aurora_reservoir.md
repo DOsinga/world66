@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 820-acre reservoir on the eastern plains, no-wake boating and a swim beach
+score: 6.8
 ---
 
 The Aurora Reservoir is the city's quieter water park — 820 surface acres on the eastern plains, designated no-wake (so no motorboats above five mph), with a swim beach, an eight-mile loop trail around the perimeter, and some of the best windsurfing and stand-up paddleboarding within an hour of Denver. The clarity of the water also makes it one of the better dive training lakes in Colorado.

@@ -14,6 +14,7 @@ story: >
   elevated highway — a section of the Hanshin Expressway — that had been built to
   withstand such events, tipping it on its side as if made of cardboard. Engineers
   from around the world came to study what had gone wrong.
+score: 7.8
 ---
 
 The Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution in the Hyogo Earthquake Memorial 21st Century Research Institute is Kobe's main museum dedicated to the 1995 earthquake and its aftermath. The museum uses simulations, survivor testimonies, scale models, and archival footage to document the disaster and the city's recovery.

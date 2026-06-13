@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.1975
 longitude: 112.9758
+score: 7.5
 ---
 
 Chopped chilli fish head (duo jiao yu tou) is perhaps the most recognisable Hunanese dish outside the province — a large silver carp head halved and steamed with fermented chopped chillies piled on top, garlic, and fermented black beans, served in the steaming dish at the table. The combination of the delicate fish flesh, the sharp fermented chilli, and the savoury black bean sauce is one of the more complex flavour experiences in Chinese cooking.

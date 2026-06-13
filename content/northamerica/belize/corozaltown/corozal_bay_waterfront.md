@@ -5,6 +5,7 @@ snippet: The shaded malecón along Corozal Bay, with a small park, fishermen, an
 tags: [things_to_do, sight, beach, waterfront]
 latitude: 18.3915
 longitude: -88.3955
+score: 6.6
 ---
 
 The whole eastern side of Corozal opens onto the calm shallows of Corozal Bay, with a low seawall and a tree-lined waterfront that doubles as the town's open-air living room. There is no proper beach — the bottom is silty and tangled with sea grass, and the water is more for looking at than swimming in — but the breeze, the views across to Cerros, and the steady traffic of fishing skiffs are exactly the point.

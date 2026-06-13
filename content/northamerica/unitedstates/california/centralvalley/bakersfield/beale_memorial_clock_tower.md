@@ -15,6 +15,7 @@ story: >
   original downtown. The city that grew up around it after the fire was
   substantially different from what came before — the clock tower is almost
   the only physical link to the pre-fire town.
+score: 6.6
 ---
 
 The Beale Memorial Clock Tower stands at the corner of 17th Street and Chester Avenue, a Victorian Gothic structure in an otherwise modernized downtown streetscape. Built in 1904 from local granite, the four-faced tower rises four stories and is capped with a pyramidal roof. It is one of the most photographed structures in Bakersfield, largely because nothing else in the downtown comes close to its age or architectural character.

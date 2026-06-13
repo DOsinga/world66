@@ -11,6 +11,7 @@ tags:
 - center_strip
 story: >
   The Venetian's replica Campanile is two-thirds the height of the real one in St Mark's Square. When the resort opened in 1999, it imploded the historic Sands hotel — Frank Sinatra's old Rat Pack haunt — to clear the site.
+score: 7.2
 ---
 
 The Venetian opened in 1999 on the site of the demolished Sands and went all-in on a Venice theme: indoor canals with singing gondoliers, a recreated St Mark's Square under a painted ceiling, hand-painted frescoes, and a replica of the Rialto Bridge. The Grand Canal Shoppes mall connects directly through the canal-side passages, all bathed in artificial dusk light.

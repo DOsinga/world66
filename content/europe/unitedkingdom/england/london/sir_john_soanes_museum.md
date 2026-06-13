@@ -16,6 +16,7 @@ opening_hours: Wed-Sun 10am-5pm
 url: www.soane.org
 story: >
   Sir John Soane bought the sarcophagus of pharaoh Seti I in 1824 — for £2,000, after the British Museum turned it down as too expensive — and threw a three-night party to unveil it. The carved alabaster glowed gold when lit by candles from inside; the guests filed past it for two hours each. The sarcophagus is still in the basement, where Soane's friend Benjamin Disraeli once said he had seen "things that no living man would ever expect to see in a house at Lincoln's Inn Fields".
+score: 9.4
 ---
 
 The single most surprising small museum in London. The Regency architect Sir John Soane left his house, his collection, and a stipulation in an 1833 Act of Parliament that none of it could be moved or rearranged — and it has been left more or less as he died in 1837. The result is three connected townhouses jammed top to bottom with antique fragments, plaster casts, paintings hung four deep on hinged panels, and the alabaster sarcophagus of Pharaoh Seti I in the basement.

@@ -8,6 +8,7 @@ tags:
 - architecture
 type: poi
 snippet: Ornate neoclassical stock exchange building facing Piazza De Ferrari
+score: 7.3
 ---
 
 The former Stock Exchange, built between 1907 and 1912, is one of the most ornate buildings on Piazza De Ferrari. The neoclassical facade is covered in allegorical figures, columns, and decorative stonework that reflects the confidence of the Genoese financial world at the turn of the century. The trading floor inside — a vast, column-ringed hall with a coffered ceiling — is occasionally open for events and visits.

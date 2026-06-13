@@ -10,6 +10,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4894
 longitude: -13.2332
+score: 6.5
 ---
 
 The cathedral church of the Catholic Archdiocese of Freetown sits on Siaka Stevens Street and dates in its present form from the early twentieth century. The interior is cooler and more atmospheric than the Anglican cathedral nearby, and the painted ceiling is worth a look.

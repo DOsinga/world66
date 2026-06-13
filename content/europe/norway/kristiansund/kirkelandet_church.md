@@ -15,6 +15,7 @@ story: >
   and consecrated in 1964, became one of the most celebrated examples of Norwegian 
   modernist church architecture — widely discussed in Scandinavian architecture 
   circles at the time for the quality of its light and the boldness of its plan.
+score: 7.7
 ---
 
 Kirkelandet Church is one of the finest pieces of post-war architecture in western Norway — a modernist building completed in 1964 that replaced the original church destroyed in the German bombing of Kristiansund in 1940. The interior is notable for its colourful stained glass windows and the way natural light plays through the building at different times of day. The angular roof and the integration of bell tower and nave give it a presence that most Norwegian post-war churches lack.

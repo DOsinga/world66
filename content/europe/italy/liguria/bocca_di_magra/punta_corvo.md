@@ -7,6 +7,7 @@ tags:
 latitude: 44.0383
 longitude: 9.9696
 snippet: "Black-pebble beach at the base of a 700-metre cliff"
+score: 8.4
 ---
 
 Punta Corvo is the most dramatic beach on this stretch of coast — a long strand of dark grey pebbles tucked under a 700-metre cliff on the south-western face of the Montemarcello headland. The combination of sheer rock, dark water, and the small ferries arriving and leaving gives it the feel of a half-secret place even in August.

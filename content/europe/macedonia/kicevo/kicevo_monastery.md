@@ -12,6 +12,7 @@ story: >
   manuscripts in the surrounding caves, and some of those icons are still venerated inside today.
 sources:
   - https://en.wikipedia.org/wiki/Ki%C4%8Devo_Monastery
+score: 7.0
 ---
 
 Kičevo Monastery, dedicated to the Dormition of the Mother of God (Sveta Bogorodica Prečista), sits on a wooded hillside about four kilometres east of town on the road towards Makedonski Brod. It is one of the more venerated religious sites in western North Macedonia, drawing pilgrims on feast days and quiet visitors throughout the year.

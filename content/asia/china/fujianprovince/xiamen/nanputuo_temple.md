@@ -13,6 +13,7 @@ story: >
   network during the war. A memorial hall in the temple complex
   commemorates this period, which sits incongruously alongside the Qing
   Dynasty prayer halls and resident monks going about their daily routines.
+score: 7.8
 ---
 
 Nanputuo Temple (南普陀寺) is a functioning Buddhist monastery at the southern foot of Wulao Mountain, founded in the Tang Dynasty and rebuilt to its current scale in the Qing. The main prayer halls rise in tiers up the hillside, with a sequence of gates, courtyards, pavilions, and a large central hall housing three enormous gilded Buddhas. The monastery is active and the monks visible — it is affiliated with Xiamen University's Buddhist College next door.

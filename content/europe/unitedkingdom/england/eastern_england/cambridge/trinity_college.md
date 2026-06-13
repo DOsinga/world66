@@ -9,6 +9,7 @@ tags:
 - sight
 title: Trinity College - the Backs
 type: poi
+score: 8.2
 ---
 
 Trinity is the largest and wealthiest of the Cambridge colleges, founded by Henry VIII in 1546. Its Great Court is the biggest enclosed courtyard in Europe, and the Wren Library — designed by Christopher Wren and completed in 1695 — holds medieval manuscripts and a first edition of Newton's Principia.

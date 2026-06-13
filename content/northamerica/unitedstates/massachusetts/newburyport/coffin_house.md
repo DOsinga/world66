@@ -10,6 +10,7 @@ tags:
   - architecture
   - historic_site
 snippet: First-Period house showing 300 years of additions in one building
+score: 7.7
 ---
 
 Just over the line into Newbury — but a five-minute drive from downtown Newburyport — the Coffin House is one of the oldest standing wood-frame houses in New England, with the original part built around 1678. Eight generations of Coffins lived in it until 1929, each adding to it; the result is a single structure showing First-Period, Georgian, and Federal interiors side by side, with two separate kitchens (his and hers, after a 1785 family split).

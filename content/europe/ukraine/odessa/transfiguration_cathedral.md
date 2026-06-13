@@ -15,6 +15,7 @@ story: >
   consecrated in 2003. The bones of Field Marshal Alexander Suvorov were reinterred
   here — he had been buried in the original building and his remains were moved
   before the demolition.
+score: 6.3
 ---
 
 The Cathedral of the Transfiguration is the principal Orthodox church in Odessa, a large neoclassical structure near Soborna Square. The current building is a reconstruction — the Soviet authorities demolished the original in 1936 — but it was rebuilt faithfully from historical records and reopened in 2003. The interior is richly decorated with frescoes and iconostasis work, and the cathedral functions as the seat of the Odessa Diocese.

@@ -6,6 +6,7 @@ longitude: 14.5747
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Galija sits inside a fifteenth-century stone building near the cathedral, with vaulted dining rooms and a small terrace on the lane outside. The menu is Mediterranean Croatian — Adriatic fish, šurlice, lamb peka, Istrian truffle pasta when in season. The seafood platter and the lamb under the bell are the dishes most often ordered.

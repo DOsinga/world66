@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 59.4917
 longitude: 25.2917
+score: 6.8
 ---
 
 The Ubari Landscape Conservation Area is a protected coastal zone in Harju County that covers the forests, meadows, and shoreline around the Kaberneeme peninsula. It was designated to preserve the mosaic of habitats that have developed along this stretch of the Gulf of Finland — old pine stands, wet meadows, and reed-fringed coves that provide nesting ground for waders and waterfowl.

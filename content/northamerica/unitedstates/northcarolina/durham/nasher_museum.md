@@ -4,6 +4,7 @@ type: poi
 latitude: 35.9986
 longitude: -78.9405
 tags: [things_to_do, sight, museum]
+score: 8.2
 ---
 
 The Nasher Museum of Art opened on the Duke campus in 2005 in a striking modern building by Rafael Vinoly — five low pavilions clustered around a soaring glass-roofed atrium. The collection is small but strong, with particular depth in contemporary art, African art, and pre-Columbian objects from Central and South America.

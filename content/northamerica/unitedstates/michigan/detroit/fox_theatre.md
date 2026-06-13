@@ -11,6 +11,7 @@ tags:
 neighbourhood: Downtown
 title: Fox Theatre
 type: poi
+score: 7.8
 ---
 
 The Fox is the largest of the surviving 1920s American movie palaces, seating just over 5,000 in a fantasy interior that mixes Burmese, Indian, Chinese, and Persian motifs. The lobby is six storeys tall, the auditorium gilded to the rafters, and the chandelier weighs more than a small car. William Fox built it in 1928 as the flagship of his Fox chain.

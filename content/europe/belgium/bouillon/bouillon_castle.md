@@ -12,6 +12,7 @@ story: >
   Godfrey of Bouillon sold the castle to the Prince-Bishop of Liège in 1095 to raise funds for the First Crusade. He used the money to equip an army and march to Jerusalem, where he became the first ruler of the Kingdom of Jerusalem in 1099 — refusing the title of King, since he would not wear a crown of gold in the city where Christ had worn a crown of thorns.
 sources:
   - https://en.wikipedia.org/wiki/Bouillon_Castle
+score: 9.1
 ---
 
 Bouillon Castle is one of the most impressive medieval fortifications in Belgium, perched on a rocky spur above the tight bend of the Semois River with the town spread below on both sides. The castle dates to at least the 10th century, with the core of the current structure built in the 11th and 12th centuries. Three drawbridges, a dungeon, towers at different levels, and subterranean passages are all accessible.

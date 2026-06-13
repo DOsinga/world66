@@ -13,6 +13,7 @@ story: >
   They are displayed in a climate-controlled case in the drawings gallery, between
   works by Rubens and Watteau, with no queue and no audioguide crowd — a combination
   essentially impossible to arrange at any comparable institution in Paris or London.
+score: 9.4
 ---
 
 The Palais des Beaux-Arts is Lille's great secret and, for most visitors, its greatest surprise. After the Louvre, it is the largest and finest art museum in France — a claim that sounds implausible until you are standing inside looking at Rubens, Van Dyck, Goya, Delacroix, and Courbet arranged in handsome 19th-century galleries with no discernible crowd. The collection is exceptional in breadth: Flemish and Dutch masters from the 16th and 17th centuries, French academic painting, a superb medieval sculpture gallery, and a basement dedicated to ceramics, coins, and archaeological finds from the region.

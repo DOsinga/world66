@@ -7,6 +7,7 @@ tags:
   - waterfall
 latitude: 25.584
 longitude: 91.864
+score: 6.9
 ---
 
 A pair of plunge waterfalls on the road between Shillong and the Umiam dam. The Beadon Falls drop in a single column, while the Bishop Falls beside them split into a forked cascade — together they were nicknamed after two nineteenth-century Bishops of Calcutta. The viewing platform on the cliff opposite gives a head-on look at both.

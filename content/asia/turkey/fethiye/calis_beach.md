@@ -6,6 +6,7 @@ tags:
 snippet: Long public beach north of Fethiye with sunset views and a loggerhead turtle nesting site
 latitude: 36.6550
 longitude: 29.1034
+score: 5.4
 ---
 
 Çalış is a 5 km pebble-and-sand beach stretching north from Fethiye along the bay. It is the town's main beach — less spectacular than Ölüdeniz but much more accessible, with a promenade lined with restaurants and bars behind it. The sunsets here are genuinely beautiful, with the sun dropping behind the islands of the bay.

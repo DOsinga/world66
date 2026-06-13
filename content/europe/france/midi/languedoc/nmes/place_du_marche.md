@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - square
+score: 6.3
 ---
 
 Place du Marché, off Rue de l'Horloge, holds the modern bronze sculpture of the Nîmes crocodile chained to a palm tree — the city's coat of arms, derived from a Roman coin commemorating Augustus's conquest of Egypt. Veterans of that campaign were settled in Nîmes and the city's emblem has shown the crocodile ever since.

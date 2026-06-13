@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 24.3740
 longitude: 88.6011
+score: 5.2
 ---
 
 Rajshahi has been Bangladesh's silk capital for centuries, and the industry is still very much alive. The city and its surrounding villages are home to numerous silk weaving workshops and factories where you can watch the full production process — from the cocoons of Bombyx mori silkworms through reeling, spinning, dyeing, and weaving on traditional looms. The resulting cloth, known for its fine texture and lustrous finish, is sold at prices far below anything available in Dhaka.

@@ -9,6 +9,7 @@ tags:
 - historic_house
 title: Caccia Birch House
 type: poi
+score: 6.5
 ---
 
 Caccia Birch House is a late Victorian timber homestead set in two hectares of mature gardens on the edge of Hokowhitu Lagoon, in the leafy southeast suburbs of Palmerston North. The house was built in 1892 for Sir John Russell and is one of the few remaining examples of large-scale colonial Italianate domestic architecture in the lower North Island.

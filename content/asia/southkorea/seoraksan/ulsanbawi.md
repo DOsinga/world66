@@ -17,6 +17,7 @@ story: >
   more dramatic sight.
 sources:
   - https://en.wikipedia.org/wiki/Ulsanbawi
+score: 9.5
 ---
 
 Ulsanbawi is the most dramatic rock formation in Seoraksan — six granite spires rising steeply above the surrounding ridgeline, visible from much of the park. The hike from Sinheungsa temple to the summit takes about two hours each way, beginning gently through a valley before the gradient steepens and the trail gains elevation through a series of granite staircases and iron ladders bolted into the rock face. The final ascent requires some scrambling, but the route is well-equipped and most fit walkers can manage it.

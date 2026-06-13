@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.8700
 longitude: 125.3100
+score: 6.4
 ---
 
 The Changchun Grand Theatre is the city's principal performing arts venue, hosting opera, ballet, symphony concerts, and the various performing arts events that a provincial capital of its size supports. The building itself is a significant piece of contemporary Chinese architecture, designed with a visual ambition that the city's older cultural buildings lack.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Gandamadana Parvatham
 type: poi
+score: 6.0
 ---
 
 Gandamadana Parvatham is a small hillock about three kilometres north of the main temple, considered the highest point on Pamban Island. A shrine here is said to contain the footprints of Rama, and the hillock is included in most pilgrimage circuits. The elevation is modest by any measure — the island is essentially flat — but enough to give unobstructed views across the rooftops of Rameshwaram, the temple gopurams, and on clear days, across the water toward the Sri Lankan coast.

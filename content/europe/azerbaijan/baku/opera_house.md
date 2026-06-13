@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Opera House on Nizami Street is a peach-coloured neoclassical building dating from 1911, originally built privately by the oil magnate Daniil Mailov for a Russian-language theatre season. It has been the home of the state opera and ballet since the 1920s, and the company has a long tradition: composers like Uzeyir Hajibeyov made their reputation here.

@@ -7,6 +7,7 @@ tags:
 latitude: 74.697
 longitude: -94.841
 story: "The muskox population on Cornwallis Island was virtually eliminated by hunting in the early twentieth century. A small herd was reintroduced in the 1990s and has since grown — muskoxen can now be seen grazing on the tundra around Resolute with some regularity. Polar bears pass through the area on sea ice, particularly in spring, and have occasionally wandered into the hamlet itself."
+score: 8.0
 ---
 
 The tundra and sea ice around Resolute support a range of iconic Arctic wildlife. Muskoxen graze on the frost-cracked tundra above the hamlet, especially in summer when there is enough vegetation to sustain them. Polar bears travel the sea ice between Cornwallis Island and the surrounding islands during spring and early summer, and beluga whales move through the channels when the ice breaks up. Arctic foxes are year-round residents, often seen around the hamlet.

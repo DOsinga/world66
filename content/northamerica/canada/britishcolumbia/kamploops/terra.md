@@ -8,6 +8,7 @@ snippet: Long-running downtown restaurant for modern Canadian and BC wine
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 **Terra** is a long-standing fixture on Victoria Street and one of the more reliable upmarket-ish restaurants in central Kamloops. The kitchen does a polished modern-Canadian menu with strong BC sourcing — Pacific halibut, Okanagan duck, local mushrooms, Thompson Valley beef — and the wine list is one of the better selections of BC interior wineries (Nk'Mip, Burrowing Owl, Quails' Gate) anywhere in the city.

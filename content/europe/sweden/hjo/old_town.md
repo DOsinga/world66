@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Hjo's grid of red-painted wooden houses survived intact because the town never grew rich enough to demolish and rebuild. The street plan visible today matches a town map from 1696 almost exactly."
+score: 8.4
 ---
 
 The compact wooden town centre is what makes Hjo distinctive. Painted timber houses in the deep ochre red typical of Swedish heritage districts line a tight grid of narrow streets, with the harbour, the square, and the church all within a few minutes of each other. Many of the buildings carry workshops, small shops, or cafes on the ground floor; the upper storeys are still residential.

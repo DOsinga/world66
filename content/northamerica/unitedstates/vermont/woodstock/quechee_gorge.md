@@ -7,6 +7,7 @@ longitude: -72.4195
 snippet: Vermont's deepest gorge, a short Route 4 drive east of Woodstock
 story: >
   Quechee Gorge was carved by meltwater as the last ice sheet retreated, cutting sharply into the bedrock where the Ottauquechee River now runs. The result is a dramatic 165-foot chasm in a state better known for rounded hills than sudden drops.
+score: 7.6
 ---
 
 Quechee Gorge is the standard day trip from Woodstock, and it earns the traffic. The Route 4 bridge gives the quickest view down into the chasm, while trails in Quechee State Park let you approach the river and see the gorge from below.

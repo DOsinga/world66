@@ -9,6 +9,7 @@ latitude: 36.8061
 longitude: 118.0181
 story: >
   Zhoucun's commercial district was so central to the regional economy in the Qing Dynasty that it was known as "the city without a city wall" — a market town so important that it didn't need fortifications because everyone needed it too much to attack it. At its peak, merchants from across China maintained warehouses and counting houses here, and the banking houses of Shanxi province used it as an eastern outpost.
+score: 8.4
 ---
 
 Zhoucun Ancient Commercial Street is one of the better-preserved examples of a late Ming and Qing dynasty market town in northern China — an area of streets, shophouses, warehouses, and guild halls that survived the 20th century largely intact because it was absorbed into Zibo's industrial urban fabric rather than demolished and redeveloped.

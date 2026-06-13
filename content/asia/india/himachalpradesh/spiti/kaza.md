@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.2273
 longitude: 78.0714
+score: 6.9
 ---
 
 Kaza is the administrative headquarters and main settlement of Spiti Valley, a market town at 3,800 metres with guesthouses, restaurants, a few ATMs (bring extra cash), a post office, and most of the logistics infrastructure you need for exploring the valley. It has two parts: Old Kaza, with older houses and a small monastery, and New Kaza, the newer commercial area with most of the shops and accommodation.

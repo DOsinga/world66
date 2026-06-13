@@ -6,6 +6,7 @@ tags:
   - gallery
 latitude: 55.1714
 longitude: -118.7997
+score: 6.0
 ---
 
 The Centre for Creative Arts occupies a converted downtown building on 100 Avenue and is the main public gallery in Grande Prairie. The exhibition program rotates work by Alberta and Peace Country artists across painting, photography, ceramics and textiles, with several shows running concurrently in the connected gallery spaces.

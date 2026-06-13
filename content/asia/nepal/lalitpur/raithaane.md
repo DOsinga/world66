@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Raithaane
 type: poi
+score: 6.5
 ---
 
 Raithaane is one of the more thoughtful restaurants in the valley. The menu is built around indigenous Nepali ingredients and dishes from areas — Mustang, Karnali, the Eastern hills — that you almost never see on tourist menus elsewhere. Buckwheat, fermented greens, foxtail millet, yak cheese, and freshwater fish from the country's rivers all appear.

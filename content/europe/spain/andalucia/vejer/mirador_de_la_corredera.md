@@ -9,6 +9,7 @@ latitude: 36.2511
 longitude: -5.9609
 sources:
   - https://www.andalucia.org/en/vejer-de-la-frontera
+score: 7.7
 ---
 
 The Mirador de la Corredera is the view that explains why Vejer was built here. From the eastern edge of town, the land opens into a broad sweep of fields, low hills, and sky, with the Atlantic influence never far away.

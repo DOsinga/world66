@@ -6,6 +6,7 @@ latitude: 1.5606
 longitude: 110.3494
 story: >
   Fort Margherita was built in 1879 and named after Margaret de Windt, wife of the second White Rajah Charles Brooke. It was designed primarily to guard against piracy — the Sarawak River was a major trading artery and pirate raids from the interior had been a persistent threat throughout the early Brooke period. The fort's cannon were never actually fired in anger; its purpose appears to have been deterrence rather than combat.
+score: 7.2
 ---
 
 Fort Margherita sits on the north bank of the Sarawak River, directly opposite the waterfront, accessible by bumboat in three minutes. The white-painted fort with its crenellated towers is one of the most recognisable images of Kuching — you see it from the waterfront esplanade throughout your time in the city. It is in excellent condition, having been carefully maintained as a historic site.

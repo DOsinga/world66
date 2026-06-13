@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Cathedral of Saint John
 type: poi
+score: 8.0
 ---
 
 Built like a fortress after Alfonso IX took the city in the 13th century, the cathedral is topped by battlements and anchored by a tall square tower that could have been a defensive keep on its own. Inside, the basilica plan has three naves with late Gothic arches, a Renaissance choir stalls carved in walnut, and several Zurbarán paintings in the cathedral museum. The main entrance on Plaza de San Juan is crowned by a statue of John the Baptist.

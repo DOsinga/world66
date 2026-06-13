@@ -13,6 +13,7 @@ tags:
 - architecture
 title: St. Anne's Church
 type: poi
+score: 8.5
 ---
 
 A former Carmelite monastery church in the northern Altstadt, notable for several reasons: it contains the Fuggerkapelle (Fugger Chapel, 1512), the first Renaissance chapel in Germany, commissioned as a private burial chapel by Jakob Fugger; it has a Goldschmied's Kapelle with remarkable late-Gothic carvings; and it is where Martin Luther stayed in 1518 during his confrontation with the papal authorities. The church is now a Lutheran parish church and is open to visitors. A small museum in the adjacent rooms covers Luther's Augsburg visit and the building's history.

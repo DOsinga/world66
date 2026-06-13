@@ -12,6 +12,7 @@ story: Freemasonry arrived in Liberia with the first American settlers and becam
   19th and early 20th century, membership in the Masonic lodge was a near-requirement
   for political advancement — more than a dozen Liberian presidents were Freemasons.
   The temple remains the most architecturally distinctive building in central Monrovia.
+score: 7.9
 ---
 
 The Masonic Temple on Capitol Hill is one of Monrovia's most distinctive colonial-era buildings, a white neoclassical structure with columns and ceremonial steps that reflects the unusual history of Freemasonry in Liberia. The fraternity arrived with the first American settlers in 1822 and for over a century formed the social backbone of the Americo-Liberian ruling class.

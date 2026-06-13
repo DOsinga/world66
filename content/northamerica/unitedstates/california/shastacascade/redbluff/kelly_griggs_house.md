@@ -6,6 +6,7 @@ latitude: 40.1769
 longitude: -122.2362
 address: "311 Washington St"
 snippet: Restored Victorian mansion turned local history museum
+score: 6.4
 ---
 
 A two-storey Italianate Victorian built in 1880 for one of Red Bluff's leading families, now run as a museum by the Tehama County Historical Society. The rooms have been furnished in period style, with original family pieces alongside donated furniture, costumes, and photographs of pioneer Red Bluff. Upstairs there is a small display of Wintu and other Northern California Native American artefacts.

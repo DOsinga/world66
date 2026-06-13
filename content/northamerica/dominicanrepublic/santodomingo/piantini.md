@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 18.4699
 longitude: -69.9436
+score: 5.4
 ---
 
 Piantini is the upscale residential and commercial neighbourhood in the western part of Santo Domingo, built largely in the 1980s and 1990s when the city's professional class moved westward. It is where you will find the best restaurants, wine bars, and boutiques in the city, along with many of the mid-range and upmarket hotels.

@@ -11,6 +11,7 @@ story: >
   of West Africa — visible clearly on any map, and giving the reserve one of the more
   memorable names in African conservation. The actual bends lie on the Niger-Benin
   border, where the river curves twice in quick succession before swinging northeast again.
+score: 7.8
 ---
 
 The viewpoint above the Niger River's famous W-shaped double bend is the park's most photogenic spot and the one that gives the reserve its name. At dawn or dusk, the wide river glittering below, with the forest of three countries visible on the far bank, is genuinely stirring.

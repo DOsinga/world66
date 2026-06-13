@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 63.8236
 longitude: 20.2678
+score: 6.5
 ---
 
 Umeå City Church (Umeå stadskyrka) sits between Vänortsparken and the north bank of the Ume River, a red-brick structure built after the 1888 fire that destroyed most of the old town. The church replaced an earlier wooden building lost in the blaze and was completed in 1894 in a Gothic Revival style unusual for the pragmatic rebuilding that followed the fire.

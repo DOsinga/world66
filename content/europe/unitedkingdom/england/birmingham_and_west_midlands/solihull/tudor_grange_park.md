@@ -7,6 +7,7 @@ tags:
 latitude: 52.4102
 longitude: -1.7868
 story: "Tudor Grange Park occupies the grounds of a Victorian house built on the site of a Tudor grange — a monastic farm belonging to Coventry Priory. The original grange gave Solihull's most prominent school its name, and traces of the mediaeval fishponds survive in the park's lower section near the brook."
+score: 5.6
 ---
 
 A public park of about 26 acres, walking distance from Solihull town centre. The park has formal gardens near the old house site, a boating lake, tennis courts, and open grassland that runs down to a brook. It is the most pleasant green space in central Solihull and well used by local families, particularly on summer weekends.

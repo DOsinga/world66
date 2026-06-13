@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6250
 longitude: 101.7800
+score: 4.9
 ---
 
 The Drum Tower (Gulou) square in central Xining is the city's main public gathering place — a broad plaza framed by commercial buildings and the reconstructed drum tower, which now serves more as a landmark than as the timekeeping device it once was. In the evenings the square fills with families, old men playing chess on stone tables, and vendors selling toys and snacks. On weekends during summer, outdoor performances and markets sometimes take over the space.

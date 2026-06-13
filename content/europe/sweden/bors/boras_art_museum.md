@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - art
+score: 7.1
 ---
 
 The Borås Art Museum (Borås Konstmuseum) holds the city's collection of modern and contemporary Swedish and international art, with particularly strong holdings in Nordic painting from the early 20th century and a growing collection of sculpture and installation work. It occupies a clean modernist building in Kulturhuset, just south of the central square.

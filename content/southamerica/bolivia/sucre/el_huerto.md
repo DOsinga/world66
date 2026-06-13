@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Traditional Bolivian cuisine in a leafy garden setting
+score: 6.6
 ---
 
 El Huerto, which means "the orchard", is one of Sucre's classic Bolivian restaurants. The dining room and a generous garden patio sit on Calle Ladislao Cabrera, a fifteen-minute walk east of the centre. The kitchen serves regional Chuquisaca specialities: picante de pollo (chicken in a fiery red chilli sauce), sajta de lengua (beef tongue stewed in yellow chilli), chorizo chuquisaqueño, and the local sausage charque kan made with dried llama meat.

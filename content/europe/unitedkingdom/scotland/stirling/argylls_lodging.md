@@ -8,6 +8,7 @@ tags:
 latitude: 56.1218
 longitude: -3.9437
 snippet: A 17th-century Renaissance town-house below Stirling Castle, the finest of its kind in Scotland
+score: 8.0
 ---
 
 Argyll's Lodging is the most complete 17th-century townhouse in Scotland, sitting on Castle Wynd in the angle between the road to the castle and the Church of the Holy Rude. The core of the building dates to about 1630, but the present configuration is the work of Archibald Campbell, 9th Earl of Argyll, who extended it after 1670 into a grand four-sided house around a small inner court.

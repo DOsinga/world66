@@ -15,6 +15,7 @@ story: >
   decide collectively whether to harvest early or gamble on another two weeks of ripening.
 sources:
   - https://en.wikipedia.org/wiki/Freemark_Abbey_Winery
+score: 7.5
 ---
 
 One of the oldest operating wineries in Napa Valley, with origins on this site going back to 1886. The stone winery building along Highway 29 north of St. Helena dates from 1895 and was restored in 1967 when the current Freemark Abbey partnership relaunched production. The estate specialises in single-vineyard Cabernets — particularly the Bosché and Sycamore Vineyards bottlings — and a honeyed late-harvest Riesling made in years when Botrytis develops in the valley.

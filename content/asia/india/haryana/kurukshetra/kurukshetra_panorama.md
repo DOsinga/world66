@@ -7,6 +7,7 @@ tags:
 latitude: 29.963
 longitude: 76.837
 snippet: '360-degree cyclorama depicting the Mahabharata battle'
+score: 6.4
 ---
 
 A 360-degree cyclorama depicting the Mahabharata battle, installed in a drum-shaped building near the Brahma Sarovar. The painted panorama wraps the viewer inside a scene of the battle — chariots, armies, divine figures — while mannequins, battle sounds, and recorded narration fill in the story. The effect is populist and unabashedly dramatic, but it works as contextualisation: visitors who have read nothing about the Mahabharata before arriving leave with the shape of the story in their heads.

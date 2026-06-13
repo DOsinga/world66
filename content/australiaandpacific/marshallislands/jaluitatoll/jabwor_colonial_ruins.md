@@ -12,6 +12,7 @@ story: >
   before flying over most of what became German colonial Africa. The Japanese replaced
   the Germans here in 1914, almost without a shot, and the administration moved
   to Jabwor again. Today the village has fewer than a thousand people.
+score: 7.2
 ---
 
 Jabwor island holds the most concentrated evidence of Jaluit's colonial past. The German administration established its Marshall Islands headquarters here in the 1880s, and remnants of that era — along with subsequent Japanese structures — are scattered around the village and shoreline.

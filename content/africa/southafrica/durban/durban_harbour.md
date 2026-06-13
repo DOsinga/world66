@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -29.8730
 longitude: 31.0357
+score: 7.3
 ---
 
 Durban Harbour is the largest and busiest port in Africa, the engine behind the city's economy and visible from almost any high vantage point in town. The harbour mouth is squeezed between the Bluff and the Point, and watching the container ships ease through is one of the city's unexpected pleasures.

@@ -9,6 +9,7 @@ latitude: 52.4046
 longitude: 13.0241
 sources:
   - https://en.wikipedia.org/wiki/Orangery_Palace,_Potsdam
+score: 8.3
 ---
 
 The Orangerie Palace is the grandest building in Sanssouci Park after the Neues Palais — a 300-metre-long Italian Renaissance structure built by Frederick William IV in the 1850s and modelled on the Villa Medici in Rome. It was built as a residence for Tsar Nicholas I and his wife (Frederick William's sister), and the Raphael Hall inside contains 47 copies of Raphael's most famous paintings, commissioned from court painters and displayed in a long gallery.

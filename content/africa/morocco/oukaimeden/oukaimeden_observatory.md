@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2061
 longitude: -7.8664
+score: 6.4
 ---
 
 The Oukaimeden Observatory is run by the Cadi Ayyad University of Marrakech and takes advantage of the plateau's high altitude, dry air, and distance from city light pollution for astronomical research. The observatory has discovered several minor planets (asteroids) and carries out photometric monitoring work.

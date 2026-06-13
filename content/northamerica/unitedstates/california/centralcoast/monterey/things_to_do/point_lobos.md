@@ -16,6 +16,7 @@ story: >
   and the reserve's twisted Monterey cypress groves, many of them centuries old, were among his
   favourite subjects. The reserve was spared from development only because a planned hotel
   project collapsed in the 1930s and the state acquired the land.
+score: 9.2
 ---
 
 The finest stretch of rocky Pacific coast you can walk without a boat or a permit. Point Lobos sits about five miles south of Carmel on Highway 1, and the state reserve protects a ragged headland of granite, sea caves, and coves where California sea lions bark from the rocks, sea otters float in the kelp forest offshore, and grey whales pass close in winter. The Monterey cypress groves on the point are among the last natural stands of the species on Earth.

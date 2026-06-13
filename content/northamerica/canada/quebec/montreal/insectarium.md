@@ -9,6 +9,7 @@ tags:
 snippet: The largest insect museum in North America, with live collections and edible insects
 sources:
   - https://en.wikipedia.org/wiki/Montreal_Insectarium
+score: 7.2
 ---
 
 The Insectarium beside the Botanical Garden is the largest museum dedicated to insects in North America — home to 160,000 specimens, some living, many pinned and mounted under glass, and a section devoted to insects as food (yes, you can taste them). The museum underwent a major renovation and reopened in 2022 with a dramatic new building that integrates the exhibits into a landscape of plants and outdoor spaces, creating immersive habitats for both insects and visitors.

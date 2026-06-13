@@ -6,6 +6,7 @@ longitude: 9.7200
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 The Blue Trail (Sentiero Azzurro) is the most famous walking path in the Cinque Terre, linking all five villages in a series of cliff-hugging sections above the sea. The section between Corniglia and Vernazza to the north is one of the most rewarding — about 90 minutes of walking through maquis, past vineyards and olive groves, with constant views of the coast below.

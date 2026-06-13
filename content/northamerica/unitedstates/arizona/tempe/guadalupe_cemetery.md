@@ -6,6 +6,7 @@ longitude: -111.9659
 tags:
 - sight
 - historic
+score: 5.9
 ---
 
 The Guadalupe Cemetery, in the Yaqui town of Guadalupe just south of Tempe, is a small, vivid burial ground belonging to the Pascua Yaqui tribe. Founded in the early 1900s when Yaqui refugees fleeing persecution in Mexico settled here, it remains in use by the community today.

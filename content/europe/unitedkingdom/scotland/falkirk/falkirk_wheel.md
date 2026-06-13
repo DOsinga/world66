@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Falkirk_Wheel
 story: >
   The Wheel was built to reconnect the Forth and Clyde Canal with the Union Canal after 70 years of separation. When the canals were joined in 1822, they used a flight of eleven locks that took nearly a day to navigate. The Wheel, opened by the Queen in 2002, does the same job in four minutes — lifting or lowering a gondola containing two canal boats through a height of 24 metres in a single elegant rotation.
+score: 9.2
 ---
 
 The Falkirk Wheel is the world's only rotating boat lift, and even if you have no particular interest in canals or engineering, it is worth the trip. The structure is a double-headed arm, each end holding a gondola filled with water — and, when it's working, canal boats. As the wheel turns, boats in the upper gondola descend while boats in the lower gondola rise, the balanced loads requiring only as much energy as boiling a kettle. The mathematics of it is almost offensively elegant.

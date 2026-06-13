@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 54.8783
 longitude: 10.3289
 story: "Voderup's cliffs are slowly sliding into the sea — landslips have created three giant terraces of grassland stepping down toward the water. The wildflowers that grow on them, undisturbed by ploughs, include orchids and rare butterflies."
+score: 7.7
 ---
 
 Voderup Klint on Ærø's south coast is the island's most dramatic landscape. The clay cliffs have collapsed repeatedly over the centuries, creating wide stepped meadows where you can walk down toward the sea on natural terraces. The lower terrace is grazed by cows in summer and ends at a pebbly beach.

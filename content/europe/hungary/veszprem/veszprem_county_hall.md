@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Veszprém County Hall
 type: poi
+score: 6.4
 ---
 
 The Megyeháza, the County Hall, was completed in 1887 as the seat of Veszprém county's administration. The building is one of the largest in town and one of the better examples of Hungarian eclectic architecture from the period — a mix of Renaissance Revival, Romanesque, and Gothic detail.

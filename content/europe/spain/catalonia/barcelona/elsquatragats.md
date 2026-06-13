@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Els Quatre Gats
 type: poi
+score: 7.1
 ---
 
 This Modernista café opened in 1897 as a gathering place for Barcelona's bohemian artists and intellectuals — Picasso held his first exhibition here in 1900, and Gaudí, Casas, and Rusiñol were regulars. The building itself, designed by Puig i Cadafalch, is a Gothic Revival gem tucked into a narrow lane just off Portal de l'Àngel.

@@ -9,6 +9,7 @@ latitude: 42.2500
 longitude: 3.1167
 sources:
   - https://en.wikipedia.org/wiki/Empuriabrava
+score: 5.8
 ---
 
 Empuriabrava is the odd modern half of the municipality: a huge marina development cut through with canals, private moorings and holiday villas. It is not medieval, not subtle and not especially Catalan in mood, but it is memorable in its own way.

@@ -18,6 +18,7 @@ story: >
   Friedrich painted the Bastei rocks repeatedly in the early 19th century,
   helping establish the Elbe Sandstone Mountains as the defining landscape of
   German Romanticism.
+score: 9.4
 ---
 
 The Bastei is the most famous natural landmark in Saxon Switzerland and one of the most visited spots in Germany east of Berlin. A cluster of sandstone rock pillars rises to 194 metres above the Elbe, connected by the 19th-century Bastei Bridge — a stone arch construction that threads between the towers and provides the landscape's defining view. The rocks were formed by the same geological process that shaped all of Saxon Switzerland: a vast sandstone plateau, laid down as a seabed 90 million years ago, then eroded over millennia by water into the towers, gorges, and table mountains of the present landscape.

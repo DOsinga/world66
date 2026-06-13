@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -26.0726
 longitude: -65.9762
+score: 5.5
 ---
 
 Cafayate has turned a regional quirk into a genuine attraction: its heladerías (ice cream shops) serve flavours made from local wine grapes — Torrontés, Malbec, Cabernet, and others — alongside the usual fruit varieties. The Torrontés sorbet is floral and dry; the Malbec is rich and slightly tannic; the Cabernet Sauvignon has a surprising depth for a dessert. This is not a gimmick — the wine here is good enough that using it as a base for ice cream produces genuinely interesting results.

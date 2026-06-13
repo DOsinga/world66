@@ -14,6 +14,7 @@ story: >
   Narses I while the Persian king's wives are paraded in defeat. Ironically, Galerius never 
   entered Thessaloniki through his own arch; he died in 311 before completing the grand imperial 
   quarter he had planned around it.
+score: 7.7
 ---
 
 The Arch of Galerius — known locally as the *Kamara* — stands astride the ancient Via Egnatia at Navarinou Square, the ruined lower portion of a once-vast triumphal monument built by the Roman co-emperor around 300 AD. Originally, two arches framed by four pillars spanned the road; now only one arch and two of the piers survive, their marble cladding long gone but the sculptural reliefs cut into the brick core still sharp and readable in the afternoon light.

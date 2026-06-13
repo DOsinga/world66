@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.6413
 longitude: 18.1087
+score: 7.5
 ---
 
 The Red History Museum occupies a vault below the Stradun and offers an interactive walk-through of everyday life in communist Yugoslavia. This is not a conventional history exhibition — the approach is immersive, with reconstructed rooms, period objects, archival footage, and audio guides that evoke the texture of daily life under Tito's regime: the food, the furniture, the propaganda, the peculiar mix of state control and relative consumer freedom that made Yugoslav socialism different from its Soviet neighbours.

@@ -13,6 +13,7 @@ story: >
   Wachau in 1529 and again in 1683, though they did not cross the river here.
   The church's defensive features — the wall walk, the storage cellars, the
   narrow window slits — are still intact.
+score: 8.3
 ---
 
 Weissenkirchen in der Wachau is a wine village of about 1,000 people in the middle of the Wachau, less visited than Dürnstein but arguably more atmospheric. The Wehrkirche — the fortified church — stands on a rise above the village, its walls and towers giving it a fortress-like silhouette. Below it, the village has a good collection of 16th- and 17th-century wine-growers' houses along the main square, several Heurigen open in season, and the Wachau Museum occupying the Teisenhoferhof, a Renaissance courtyard.

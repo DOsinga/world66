@@ -9,6 +9,7 @@ latitude: 49.42847
 longitude: 2.08065
 sources:
   - https://en.wikipedia.org/wiki/Saint-%C3%89tienne_Church_(Beauvais)
+score: 8.3
 ---
 
 While the Cathédrale Saint-Pierre overshadows everything else in Beauvais, the church of Saint-Étienne is worth a separate visit. It stands about 500 metres southwest of the cathedral and spans several centuries of building: the nave and transept are Romanesque, dating from the 12th century, while the choir is a fine example of Flamboyant Gothic construction added in the 16th century.

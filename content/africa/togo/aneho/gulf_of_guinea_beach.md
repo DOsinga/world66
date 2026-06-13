@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.2200
 longitude: 1.5938
+score: 7.2
 ---
 
 The beach running along the southern edge of Aneho's sand spit faces the Gulf of Guinea directly, giving it the full force of the Atlantic swell. The water is warm year-round but the surf can be powerful, and swimming requires care. Local fishing boats are hauled up on the beach in the early morning, and the return of the fleet in the afternoon is one of the town's livelier moments — fish are sold directly off the boats, with the catch cleaned on the spot.

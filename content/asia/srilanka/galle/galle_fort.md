@@ -10,6 +10,7 @@ tags:
 latitude: 6.025833
 longitude: 80.2175
 story: The fort survived the 2004 tsunami almost unscathed — the massive Dutch walls broke the wave that destroyed much of the new town outside the ramparts. UNESCO inscribed it in 1988 as the best-preserved example of a fortified European city in South and Southeast Asia.
+score: 9.4
 ---
 
 Galle Fort is the reason most travellers come to Galle. The Portuguese first built a small fortification here in 1588; the Dutch took the town in 1640 and built the present rampart system from 1649 onwards, enclosing 36 hectares of streets, churches, mosques, warehouses and villas. The British added some buildings in the nineteenth century, including the present lighthouse, but otherwise left the Dutch fabric alone.

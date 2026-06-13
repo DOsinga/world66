@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.1
 ---
 
 A small stupa midway between the Quadrangle and the Royal Palace, Menik Vehera (the "Gem Stupa") is unusual for its octagonal terrace and surrounding ring of brick-built monastic cells. The stupa itself, perhaps no more than 8 metres high in its restored form, is a useful study in proportion compared with the great hemispheres of Rankoth Vehera and Kiri Vehera nearby.

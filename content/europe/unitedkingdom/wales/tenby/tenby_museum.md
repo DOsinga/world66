@@ -6,6 +6,7 @@ latitude: 51.6723
 longitude: -4.6949
 snippet: "Wales's oldest independent museum, on Castle Hill"
 story: "Founded in 1878, this is the oldest independent museum in Wales. Its art collection includes works by Augustus and Gwen John, both born in Tenby — Augustus on Rope Walk in 1878, the same year the museum opened."
+score: 7.4
 ---
 
 Wales's oldest independent museum, founded in 1878 and tucked into the old castle ruins on Castle Hill. The collections cover Tenby's maritime, geological, and social history, with a strong art gallery showing works by the local-born siblings Augustus and Gwen John, as well as Nina Hamnett and others associated with the town.

@@ -8,6 +8,7 @@ tags:
 story: "Husky was unveiled in 1967 as Kenora's Canadian Centennial project. The muskellunge — a large freshwater predator famous in Lake of the Woods — was chosen to represent the local fishing tradition, and the statue has been the town's photo backdrop and unofficial mascot ever since."
 title: Husky the Muskie
 type: poi
+score: 5.6
 ---
 
 Husky the Muskie is a 40-foot-tall fibreglass statue of a muskellunge in McLeod Park on Kenora's harbour. Built in 1967 as a Centennial project, it has become the town's most-photographed landmark and the obligatory stop on a drive through Kenora. The park around the statue has picnic tables, a playground, and views over the lake.

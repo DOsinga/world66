@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.6633
 longitude: -116.4083
+score: 7.2
 ---
 
 A small Bureau of Land Management visitor center at the southern edge of Palm Desert, gateway to the Santa Rosa and San Jacinto Mountains National Monument. The interior has a clear, well-designed set of exhibits on desert ecology, the peninsular bighorn sheep, the Cahuilla people who lived in these canyons, and the geology of the mountains.

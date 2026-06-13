@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 44.3878
 longitude: -68.2049
+score: 5.7
 ---
 
 The small public park at the heart of downtown, framed by Main Street, Mount Desert Street, and Firefly Lane. A bandstand sits in the centre; benches under shade trees fill on summer afternoons. The free Island Explorer buses to Acadia stop at the corner here, making the green the practical hub of any visit.

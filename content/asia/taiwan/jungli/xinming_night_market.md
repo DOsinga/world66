@@ -9,6 +9,7 @@ tags:
 title: Xinming Night Market
 type: poi
 snippet: "Zhongli's main night market, running daily along Xinming Road between Zhongyang and Minzu"
+score: 7.0
 ---
 
 Xinming Night Market is held nightly on Xinming Road and is one of the largest of its kind in northern Taiwan outside Taipei itself. It is more locals-and-students than tourist-driven, with a mix of Taiwanese snack stalls — oyster omelettes, popcorn chicken, stinky tofu, bubble tea — and stalls selling clothes, mobile-phone accessories, kitchen gear, and shoes.

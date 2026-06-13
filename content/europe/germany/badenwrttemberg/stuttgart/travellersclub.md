@@ -8,6 +8,7 @@ latitude: 48.772981
 longitude: 9.169785
 tags:
 - bars_and_cafes
+score: 4.9
 ---
 
 A veteran cocktail bar in the Mitte neighbourhood, Travellers Club has been pouring drinks on Paulinenstrasse for years. The interior leans into the globetrotter theme with maps and travel memorabilia. It is a reliable spot for a well-made drink in a city centre that can feel short on character after dark.

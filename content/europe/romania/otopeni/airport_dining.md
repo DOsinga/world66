@@ -5,6 +5,7 @@ tags:
   - eating_out
 latitude: 44.5711
 longitude: 26.0850
+score: 3.2
 ---
 
 Henri Coandă Airport's terminals offer a serviceable selection of restaurants, cafés, and fast-food outlets spread across both the Schengen and non-Schengen departure zones. Expect international chains alongside Romanian options — ciorba (sour soup), sarmale (stuffed cabbage rolls), and grilled meats appear on most menus. The prices are airport prices: roughly twice what you would pay in the city for the same dish. For long layovers, the Novotel and Crowne Plaza hotels adjacent to the terminals both have restaurants open to non-guests, which offer a slightly calmer atmosphere than the departure hall.

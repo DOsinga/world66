@@ -11,6 +11,7 @@ tags:
 story: "The dunes sit within metres of the highway, making them one of the world's most accessible desert landscapes — you can step off a bus and be ankle-deep in sand in under a minute."
 sources:
   - https://en.wikipedia.org/wiki/Medanos_de_Coro_National_Park
+score: 8.5
 ---
 
 The Médanos de Coro are rolling sand dunes just outside the colonial city of Coro, at the narrow isthmus connecting the Paraguaná Peninsula to the mainland. They are the only true desert dunes in Venezuela — an unlikely sight against the backdrop of Caribbean blue sky. The dunes shift constantly with the trade winds, and early morning visits reward with clean, untracked sand and good light.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.5700
 longitude: 81.1000
+score: 7.3
 ---
 
 Horse riding at Sayram Lake can be arranged directly with the Kazakh families camped around the southern and western shores during the summer season. The horses here are the sturdy, sure-footed Central Asian type bred for mountain terrain — not ornamental riding school horses — and the Kazakh men who lead the treks know the terrain thoroughly. A basic lakeside circuit on horseback gives a different perspective on the water and the peaks than the roadside viewpoints provide.

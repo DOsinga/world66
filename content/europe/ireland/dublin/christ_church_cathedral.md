@@ -19,6 +19,7 @@ story: >
   the cathedral's Victorian restorers preferred not to advertise. You can still visit
   it today, and it houses an exhibition including a mummified cat and rat found
   stuck in an organ pipe in the 1860s.
+score: 8.7
 ---
 
 Christ Church Cathedral predates every other standing structure in Dublin. The original wooden church was founded around 1028 by Sitriuc Silkenbeard, the Norse King of Dublin; the stone building you see today was begun by the Anglo-Norman Richard de Clare (Strongbow) after his conquest of Dublin in 1169.

@@ -8,6 +8,7 @@ tags:
   - sport
   - sight
 story: "Rancagua is the unofficial capital of Chilean rodeo, and the Medialuna Monumental hosts the Campeonato Nacional de Rodeo every March or April — the country's most important rodeo, watched on national television and treated by huasos with the seriousness Brazilians give to Carnaval."
+score: 7.7
 ---
 
 The Medialuna Monumental is the largest rodeo arena in Chile and the spiritual home of *chilean rodeo* — a distinctive horseback sport in which two huasos in stiff straw hats and brightly woven ponchos pin a young bull against the padded crescent wall of the arena. It is the country's second-most-popular sport after football, and Rancagua is its capital.

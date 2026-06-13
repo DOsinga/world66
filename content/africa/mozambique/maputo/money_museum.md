@@ -11,6 +11,7 @@ tags:
   - museum
   - architecture
 neighbourhood: Baixa
+score: 7.5
 ---
 
 The **Museu da Moeda** (Money Museum) occupies a handsome arcaded building on Praça 25 de Junho that was originally the Standard Bank's Maputo branch. The collection traces money used in this part of southern Africa from the cowrie shell and Maria Theresa thaler through the colonial escudo to the current metical, with a particular focus on the **mintage of Lourenço Marques** and the wartime emergency issues of the 1970s.

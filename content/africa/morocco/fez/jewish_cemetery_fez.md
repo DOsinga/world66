@@ -9,6 +9,7 @@ tags:
 title: Jewish Cemetery of Fez
 type: poi
 snippet: "One of the largest and best-maintained Jewish cemeteries in Morocco"
+score: 7.3
 ---
 
 The Jewish cemetery outside the Mellah walls is one of the oldest and largest in Morocco, with graves dating to the fifteenth century and continuing to the present day — a handful of Jewish families still live in Fez and use it. The white-painted stone graves, many covered with fabric and candles, are maintained in good order. The older sections contain the tombs of important rabbis and scholars, some with elaborate carved headstones.

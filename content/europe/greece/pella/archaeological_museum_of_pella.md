@@ -8,6 +8,7 @@ tags:
 latitude: 40.762
 longitude: 22.5192
 snippet: Museum housing the finest pebble mosaics and sculpture from the ancient Macedonian capital
+score: 8.3
 ---
 
 The museum adjacent to the archaeological site holds the best of what has been excavated from Pella over decades of work: marble sculpture, bronze weapons, gold jewellery, coins, and above all the pebble mosaics. Several mosaic panels have been relocated here from their original floors, allowing you to study the detail up close in good light without crouching over an outdoor shelter.

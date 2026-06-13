@@ -13,6 +13,7 @@ story: >
   city of San Francisco played along for the remaining 21 years of his life,
   honouring his hand-printed currency and giving him free meals. His funeral in
   1880 was attended by 30,000 people.
+score: 4.3
 ---
 
 South San Francisco has an unexpected connection to one of California's great eccentrics: Emperor Norton I, the self-proclaimed Emperor of the United States. A bronze plaque in the city commemorates his legacy and the Californian tradition of tolerating, even celebrating, spectacular nonconformity.

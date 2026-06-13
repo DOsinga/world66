@@ -11,6 +11,7 @@ tags:
 - architecture
 title: La Maison d'Adam
 type: poi
+score: 7.8
 ---
 
 A half-timbered house near the rear of the cathedral, built around 1500 and the finest example of Gothic domestic architecture in Angers. Its two facades — it stands on the corner of two major streets — are covered in carved figures, making it one of the most ornate burgher houses surviving in France. The wooden Adam and Eve give it its popular name.

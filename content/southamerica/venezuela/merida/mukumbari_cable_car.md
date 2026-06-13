@@ -12,6 +12,7 @@ story: >
   12.5 kilometres from the valley floor to Pico Espejo at 4,765 metres. After catastrophic
   mechanical failures in the 2000s, it sat idle for years before a full rebuild reopened it,
   but even the restored version reaches altitudes where altitude sickness is a real possibility.
+score: 9.0
 ---
 
 The Mukumbarí cable car (Teleférico de Mérida) ascends in four stages from the base station in the city at 1,577 metres to Pico Espejo at 4,765 metres — one of the highest cable car systems in the world. The journey takes around 50 minutes and passes through dramatically different climate zones, from cloud forest at mid-elevation to bare alpine tundra and glacial rock near the summit.

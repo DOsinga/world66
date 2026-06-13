@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.1825
 longitude: 75.7656
+score: 5.4
 ---
 
 The nine-metre bronze statue of King Vikramaditya stands on Vikram Teela, a raised mound behind the Mahakaleshwar Temple complex. Vikramaditya — one of Indian history's most legendary rulers, possibly a composite figure — made Ujjain his capital and presided over a court that the tradition credits with a golden age of Sanskrit literature and science.

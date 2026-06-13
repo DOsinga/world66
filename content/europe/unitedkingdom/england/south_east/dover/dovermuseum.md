@@ -10,6 +10,7 @@ tags:
 - museum
 title: Dover Museum
 type: poi
+score: 7.6
 ---
 
 The town centre museum houses the Dover Bronze Age Boat, one of the oldest known seagoing boats in the world, dating to around 1550 BC. The museum also covers Dover's long history as a port and garrison town, with exhibits spanning the Roman period through to the twentieth century.

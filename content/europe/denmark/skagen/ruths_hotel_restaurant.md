@@ -8,6 +8,7 @@ latitude: 57.7269
 longitude: 10.5217
 sources:
   - https://en.wikipedia.org/wiki/Ruth%27s_Hotel
+score: 6.1
 ---
 
 Ruth's Hotel in the Højen district of Skagen has been feeding travellers since 1904, and its restaurant is still the most serious dining option in the area. The kitchen focuses on local seafood — Skagen prawns, North Sea sole, plaice — with a French-influenced style that has been here long enough to feel entirely natural in this setting.

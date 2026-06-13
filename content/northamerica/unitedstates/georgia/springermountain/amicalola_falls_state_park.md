@@ -10,6 +10,7 @@ tags:
   - sight
 story: >
   The Cherokee word "Amicalola" means "tumbling waters." At 729 feet, the falls are the tallest cascading waterfall east of the Mississippi River — taller than Niagara, though the comparison is misleading because Amicalola flows down a stepped rock face rather than over a vertical drop.
+score: 8.8
 ---
 
 The 829-acre state park at the southwestern base of Springer Mountain, built around the 729-foot Amicalola Falls — the tallest cascading waterfall in the eastern United States. Most visitors come for the falls themselves, which are visible from multiple viewpoints connected by a 600-step metal staircase climbing alongside.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3619
 longitude: 28.4655
+score: 8.0
 ---
 
 The Kaliakra Lighthouse stands at the very tip of the headland, a slim white tower above the red cliffs. The current structure is modern, but a beacon of some kind has marked this corner of the Black Sea coast since antiquity — Greek and later Ottoman ships used the cape as a landmark.

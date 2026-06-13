@@ -7,6 +7,7 @@ snippet: Open purple-flowering heath on the south edge of the village
 tags:
 - things_to_do
 - sight
+score: 8.6
 ---
 
 The Westerheide is the open heath that runs south-west of Laren towards Hilversum — several hundred hectares of heather, sandy paths, and scattered pine, kept open by grazing Scottish Highland cattle and Drenthe heath sheep. In August the heather turns a deep purple, the local cliché made true; in winter it is a pale, austere landscape and almost empty.

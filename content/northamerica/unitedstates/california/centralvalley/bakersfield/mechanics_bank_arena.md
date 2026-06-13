@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3721
 longitude: -119.0137
+score: 5.3
 ---
 
 Mechanics Bank Arena (formerly known as Rabobank Arena and Dignity Health Sports Park) is Bakersfield's main indoor venue for concerts, sporting events, and large-scale entertainment. The 10,000-seat arena sits just east of downtown near the Amtrak station and hosts the Bakersfield Condors ice hockey team (AHL), along with touring concerts, rodeos, and motorsports events that Meadows Field Airport and the smaller venues in town cannot handle.

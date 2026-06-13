@@ -9,6 +9,7 @@ tags:
 title: De Bokkedoorns
 type: poi
 url: www.bokkedoorns.nl
+score: 6.9
 ---
 
 A two-Michelin-star restaurant in Overveen, just outside Haarlem on the road to the coast. One of the finest restaurants in the Netherlands — the kitchen works with classical French technique and excellent local ingredients. Expensive: allow €90–€150 per person without wine. A reservation well in advance is essential.

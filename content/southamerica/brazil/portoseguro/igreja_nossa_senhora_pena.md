@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.3
 ---
 
 The largest of the colonial churches on the bluff, originally built in 1535 and rebuilt in the 18th century after a collapse. The simple whitewashed façade and single bell tower are typical of Bahian colonial parish churches; the interior holds a small wooden image of Our Lady of Penha, a popular pilgrimage object, and a painted ceiling depicting the discovery of Brazil.

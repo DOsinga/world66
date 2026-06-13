@@ -7,6 +7,7 @@ tags:
 latitude: 49.4108
 longitude: 8.7045
 snippet: City history museum in a Baroque palace, with the Riemenschneider Altar as its centrepiece
+score: 8.0
 ---
 
 The Kurpfälzisches Museum — the Museum of the Electoral Palatinate — occupies a handsome Baroque palace on the Hauptstrasse and is the principal history and art museum of Heidelberg. The collections cover the city and the surrounding Palatinate region from prehistory through the medieval period and up to the 19th century, with particular strength in the history of the Electoral court at its height in the 16th and 17th centuries.

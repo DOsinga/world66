@@ -9,6 +9,7 @@ tags:
 - food_and_drink
 title: Centro Citta
 type: poi
+score: 5.2
 ---
 
 An Italian cafe on Bourke Street in the heart of the CBD. Good for an espresso and pastry mid-morning or a straightforward pasta lunch without fuss. Nothing flashy, but reliable and convenient if you're already in the city centre.

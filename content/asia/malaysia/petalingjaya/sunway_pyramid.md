@@ -8,6 +8,7 @@ tags:
   - sight
   - shopping
 story: "The mall is built around a full-size Egyptian pyramid topped with a giant lion's head — visible from the federal highway and one of the most absurd pieces of architecture in the Klang Valley."
+score: 6.3
 ---
 
 A pyramid-shaped shopping centre in Sunway just south of PJ, with around 800 stores, an indoor ice rink, a 12-screen cinema, and a giant arcade. It is part of the Sunway resort complex that includes the Sunway Lagoon water park next door — easy to combine in a day.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -2.528
 longitude: -44.302
+score: 7.4
 ---
 
 The Casa da Festa is a small museum and cultural centre dedicated to the festivals and popular celebrations of Maranhão. Where the Centro de Cultura Popular focuses on Bumba Meu Boi, Casa da Festa has a broader scope, covering the *Tambor de Crioula* (an Afro-Maranhão drum dance tradition), the *Cacuriá*, the *Lelê*, and other folk forms that are specific to the state.

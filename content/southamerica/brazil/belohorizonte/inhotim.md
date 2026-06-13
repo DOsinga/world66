@@ -9,6 +9,7 @@ tags:
 story: "Inhotim was the private estate of mining magnate Bernardo Paz before he opened it to the public in 2006. Today it is the largest outdoor contemporary art collection on the planet — 140 hectares of botanic garden punctuated by 23 individual gallery pavilions, several built specifically around the work of a single artist."
 title: Inhotim
 type: poi
+score: 9.8
 ---
 
 Inhotim is the most extraordinary art destination in Brazil and one of the great cultural projects anywhere in the world. About an hour's drive west of Belo Horizonte, near the town of Brumadinho, it covers 140 hectares — part botanic garden, part open-air contemporary art park, with 23 individual gallery pavilions scattered through the grounds along walking trails and shuttle routes.

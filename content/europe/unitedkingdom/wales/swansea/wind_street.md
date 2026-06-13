@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
 latitude: 51.6196
 longitude: -3.9407
+score: 5.6
 ---
 
 Wind Street (pronounced "wine") runs from Castle Square down to the Strand, lined almost end-to-end with bars, pubs and late-night clubs. By day it is a quiet street of mostly Georgian and Victorian frontages; from Thursday to Saturday night it is the loudest place in Wales.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Savona's Sistine Chapel was commissioned by Pope Sixtus IV, the same Della Rovere pope behind the Vatican chapel. This one was built as a family mausoleum, so its grandeur is quieter and more personal than Rome's famous ceiling.
+score: 8.7
 ---
 
 The Cappella Sistina of Savona is not a copy of the Vatican chapel, and it is better for not pretending to be. Built in the late fifteenth century beside the cathedral, it was created for Pope Sixtus IV as a memorial to his parents, members of the powerful Della Rovere family from the Savona area.

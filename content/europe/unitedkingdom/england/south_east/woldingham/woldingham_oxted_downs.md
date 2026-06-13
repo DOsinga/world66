@@ -13,6 +13,7 @@ tags:
 - sight
 title: Woldingham and Oxted Downs SSSI
 type: poi
+score: 7.7
 ---
 
 A protected area of chalk downland grassland on the steep slopes of the North Downs south of Woldingham village. The site is managed by Natural England and is one of the finest chalk grassland reserves in Surrey. In late spring and early summer the slopes are covered in wildflowers: cowslips, chalk milkwort, horseshoe vetch, and several species of orchid. The walking is open and easy, with good views across the Weald. The site is accessible on foot from Woldingham station; allow 45 minutes to reach the best grassland areas.

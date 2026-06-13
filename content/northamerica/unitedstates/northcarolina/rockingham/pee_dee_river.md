@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 34.9106
 longitude: -79.8089
+score: 7.1
 ---
 
 The Pee Dee River runs a few miles west of Rockingham and offers the best outdoor recreation in the county. The river is wide and dark-watered here, running through bottomland and sandy banks before heading south into South Carolina. Redfish, bass, and catfish are the main catches, and local guides run half-day and full-day fishing trips out of the boat ramps along the river.

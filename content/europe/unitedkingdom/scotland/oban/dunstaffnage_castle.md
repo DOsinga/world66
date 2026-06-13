@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Dunstaffnage was the seat of the Kingdom of Dalriada, the early Scots kingdom that gave Scotland its name and its royal dynasty. The Stone of Destiny — Scotland's coronation stone, now in Edinburgh Castle — is said to have been kept here before being moved to Scone. Flora MacDonald, who helped Bonnie Prince Charlie escape after Culloden, was briefly imprisoned in the castle in 1746.
+score: 8.4
 ---
 
 Dunstaffnage Castle stands four miles north of Oban on a rocky promontory jutting into Dunstaffnage Bay, its thirteenth-century walls rising directly from the rock. It is one of the oldest and best-preserved medieval castles in Scotland and has been significant enough to figure in some of the country's most important historical moments.

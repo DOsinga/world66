@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Le Bistrot des Halles
 type: poi
+score: 5.5
 ---
 
 Le Bistrot des Halles sits beside the covered market in the city centre and takes full advantage of the ingredients available on its doorstep. At lunchtime it fills quickly with market workers and office staff; the plat du jour, written on a blackboard, tends to be exactly what you want after a morning walking around the city. Moules marinières and steak-frites are perennial fixtures.

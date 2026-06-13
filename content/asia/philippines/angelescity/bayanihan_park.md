@@ -8,6 +8,7 @@ latitude: 15.168459
 longitude: 120.586597
 sources:
   - https://en.wikipedia.org/wiki/Bayanihan_Park
+score: 4.6
 ---
 
 Bayanihan Park is a landscaped public park within the Clark Freeport Zone, one of the few genuinely green spaces in this otherwise commercial and industrial district. The park takes its name from the Filipino concept of bayanihan — communal unity and cooperative effort — and was developed as part of the broader effort to transform the former American military base into a liveable, well-designed economic zone.

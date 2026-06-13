@@ -7,6 +7,7 @@ tags:
 latitude: 59.6458
 longitude: -151.5486
 snippet: Beloved bakery and cafe on Pioneer Avenue serving breakfast and lunch
+score: 7.3
 ---
 
 Two Sisters Bakery on Bunnell Street near Pioneer Avenue has been a Homer institution for decades. The baking is serious — sourdough bread, cinnamon rolls the size of a small plate, quiches, and seasonal pastries — and the lunch menu covers sandwiches, soups, and salads made from local ingredients where possible. The place fills up fast on weekend mornings; arrive early or expect a wait.

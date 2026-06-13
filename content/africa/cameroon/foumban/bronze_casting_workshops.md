@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.7335
 longitude: 10.9020
+score: 8.1
 ---
 
 The streets behind and around the Royal Palace are lined with artisan workshops, and the bronze casters are the most impressive. The Bamoun people have practised lost-wax bronze casting for centuries — a technique in which a wax model is encased in clay, the wax melted out, and molten bronze poured in. The resulting sculptures range from small figurines sold to tourists to large ceremonial pieces commissioned for palaces and festivals.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.9
 ---
 
 The Church of Saint-Michel has the most flamboyant Renaissance facade of any church in Burgundy — a three-bay frontispiece built between 1530 and 1600 onto an earlier Gothic nave. The west front is a riot of classical orders, statues, garlands, and reliefs. The three porches are framed by columns rising through three tiers, topped by a pair of slim towers.

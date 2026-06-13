@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -1.4820
 longitude: 29.5540
+score: 4.8
 ---
 
 Iby'Iwacu Cultural Village, near the park headquarters at Kinigi, was established with support from the Rwanda Development Board as part of an effort to provide economic opportunities for former poachers in the communities bordering Volcanoes National Park. The programme offers a cultural experience that includes traditional music and dance, demonstrations of traditional crafts and practices, and the chance to meet former poachers who have transitioned to tourism employment.

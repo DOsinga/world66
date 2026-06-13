@@ -6,6 +6,7 @@ tags:
 title: San Juan Valley
 type: poi
 snippet: "Cloudforest valley with suspension bridges and coca fields"
+score: 7.7
 ---
 
 A valley of cloudforest mixed with coffee and coca agriculture, best explored on foot. Take a minibus to Carmen Pampa, a small village with a rural university, and cross the valley on a beautiful path over two suspension bridges.

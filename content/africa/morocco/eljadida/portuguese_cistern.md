@@ -16,6 +16,7 @@ story: >
   on the floor — became one of cinema's most memorable opening sequences.
 sources:
   - https://en.wikipedia.org/wiki/Portuguese_Cistern_(Mazagan)
+score: 9.3
 ---
 
 The Portuguese Cistern is the most extraordinary interior space in El Jadida, and one of the strangest rooms in all of Morocco. Built in the early sixteenth century as a water storage vault inside the Portuguese fortress, it fell into disuse and was only rediscovered in 1916, when a local merchant knocked through a wall and revealed the vaulted chamber beyond. It had been sealed, and partly filled with rubble, for over a century.

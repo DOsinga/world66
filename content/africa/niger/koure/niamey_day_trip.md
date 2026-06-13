@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.5137
 longitude: 2.1098
+score: 4.4
 ---
 
 Kouré is almost always visited as a day trip from Niamey. The capital, 60 km to the northwest, is the logical base: it has hotels, restaurants, vehicle rental, and the infrastructure that Kouré lacks entirely.

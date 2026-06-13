@@ -16,6 +16,7 @@ story: >
   making rationalism feel insufficient.
 sources:
   - https://en.wikipedia.org/wiki/Ben_Macdui
+score: 9.0
 ---
 
 Ben Macdui (1,309m) is the second-highest mountain in Scotland and all of the British Isles, after Ben Nevis. It sits at the heart of the Cairngorm plateau and is reached most directly from the Linn of Dee in the south via Glen Luibeg, or from Cairn Gorm in the north — both routes are long mountain days of 20 kilometres or more. The summit plateau is genuinely remote: it takes hours to reach from any roadhead, and the Arctic-alpine environment at the top is unforgiving in bad weather.

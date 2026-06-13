@@ -9,6 +9,7 @@ latitude: 32.5025
 longitude: -92.1475
 address: "Trenton St, West Monroe, LA"
 snippet: "Half-mile stretch of antique shops in West Monroe's historic riverfront district"
+score: 6.3
 ---
 
 Trenton Street in West Monroe, just across the Ouachita River from Monroe, is lined with antique dealers, vintage shops, boutiques, and restaurants for about half a mile. The strip is known locally as Antique Alley and is the most concentrated shopping district in the twin-city area.

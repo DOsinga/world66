@@ -8,6 +8,7 @@ tags:
 latitude: 7.8567
 longitude: 80.6492
 story: "The caves have been a place of worship since at least the 1st century BC, when King Valagamba took refuge here after being driven from Anuradhapura. When he regained his throne, he converted the caves into a royal temple complex. The paintings and statues that now fill five caves span 2,000 years of continuous Buddhist devotion — among the oldest surviving Buddhist mural cycles in the world."
+score: 9.5
 ---
 
 The Dambulla Cave Temple is the finest Buddhist cave complex in Sri Lanka and one of the most extraordinary religious sites in Asia. Five caves have been carved from the granite outcrop and filled over two millennia with murals and statues: 153 Buddha figures, 3 statues of Sri Lankan kings, and 4 of gods, spread across 2,100 square metres of painted ceiling and walls. The colours, despite their age, remain vivid.

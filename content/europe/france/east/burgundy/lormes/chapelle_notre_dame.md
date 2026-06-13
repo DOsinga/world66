@@ -12,6 +12,7 @@ story: >
   chapel built in its grounds in 1647 survived, becoming a place of pilgrimage
   for the surrounding farms and villages. Locals still come here on the Feast of
   the Assumption.
+score: 6.3
 ---
 
 This small chapel from 1647 stands on the site of Lormes' original medieval castle, on a quiet street just below the town centre. Dedicated to Notre-Dame de Bon Secours — Our Lady of Good Help — it served for centuries as the main pilgrimage chapel for the cantons around Lormes, drawing processions from villages that no longer exist.

@@ -6,6 +6,7 @@ tags:
 - museum
 title: Pottery Museum
 type: poi
+score: 6.5
 ---
 Mota del Cuervo has been a centre of traditional ceramics for generations, and the town museum dedicates its main collection to this craft. Displays trace the full arc of local pottery making from raw clay dug out of the surrounding hills through hand-throwing, drying, and the distinctive lead-glazed finishes that made Manchegan pottery recognisable across Spain. Alongside finished pieces, the museum preserves moulds, wheels, and kiln furniture that give a clear picture of how a working pottery operated before industrial production took over.
 

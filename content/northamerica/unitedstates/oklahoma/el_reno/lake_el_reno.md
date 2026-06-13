@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5222
 longitude: -97.9917
+score: 5.9
 ---
 
 Lake El Reno was created in 1966 as a city reservoir and is now the main outdoor spot in town: a 60-acre lake with a public park, fishing piers, a swimming beach, walking paths, and picnic shelters. Bass, channel cat, and bluegill are the usual catches; a state fishing licence is required.

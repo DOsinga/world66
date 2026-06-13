@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8700
 longitude: -8.2000
+score: 8.4
 ---
 
 The Serra da Freita plateau rises to over 1,000 metres and forms the southern boundary of the Arouca Geopark. The high moorland — treeless, windswept, and dotted with granite outcrops — is a complete contrast to the forested river gorges below. On clear days you can see the Atlantic coast to the west and the Serra da Estrela to the southeast. The plateau road (EN227) crosses the range and passes through several viewpoints and the curious village of Frecha da Mizarela, where a waterfall drops directly off the edge of the plateau.

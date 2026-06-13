@@ -6,6 +6,7 @@ longitude: 101.6772
 tags:
   - eating_out
   - restaurant
+score: 6.2
 ---
 
 A Malay buffet restaurant run by celebrity chef Datuk Chef Ismail, set in a glass-walled penthouse on the roof of a shopping complex in the southern KL suburb of Bangsar. The buffet runs at lunch and dinner and gathers up to fifty kampung-style Malay dishes from across the peninsula — beef rendang, ayam masak merah, gulai lemak, ulam (raw herbal salad), sambal belacan — alongside an unusually wide pull of traditional Malay desserts.

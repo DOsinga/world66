@@ -1,6 +1,7 @@
 ---
 title: "Calle Crisologo"
 type: poi
+score: 9.0
 ---
 
 Calle Crisologo is the cobblestone spine of Vigan's UNESCO World Heritage zone — a narrow street of Spanish colonial mansions stretching several hundred metres through the old quarter. The two-storey bahay na bato houses that line it were built by Spanish colonists and Ilocano ilustrado families in the 18th and 19th centuries: their lower floors are stone and brick, their upper floors timber, and their windows are fitted with sliding panels of translucent capiz shell that diffuse the light into a warm amber glow.

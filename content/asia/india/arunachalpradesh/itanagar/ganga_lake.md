@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.1000
 longitude: 93.6250
+score: 6.7
 ---
 
 Ganga Lake, known locally as Gekar Sinyi, is a small natural lake set in forest at the edge of Itanagar. It is a pleasant spot for a morning walk, with a path that circles the water through sal and bamboo. Pedal boats are available for hire.

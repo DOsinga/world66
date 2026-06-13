@@ -12,6 +12,7 @@ story: >
   was buried for safekeeping during the rest of the occupation and returned to its
   plinth after liberation — one of the very few pre-war objects to reclaim its
   original position in the rebuilt city.
+score: 6.5
 ---
 
 A bronze statue of Desiderius Erasmus, Rotterdam's most famous son, standing in a small square near the Laurenskerk. Erasmus — the humanist scholar, theologian, and author of "In Praise of Folly" — was born here in 1466, and the city has named its university, its bridge, and countless streets after him. This statue, cast in 1622, is the oldest in the country.

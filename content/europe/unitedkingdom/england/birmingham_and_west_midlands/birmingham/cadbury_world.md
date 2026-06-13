@@ -14,6 +14,7 @@ story: >
   earliest planned suburbs. He reportedly believed that good housing would improve the moral
   character of the working class. Bournville still has no pub in the immediate vicinity of
   the original estate, nearly 130 years later.
+score: 6.1
 ---
 
 The visitor attraction at the Cadbury chocolate factory in Bournville, about 4 miles south of Birmingham city centre, traces the history of Cadbury and the manufacture of chocolate. It is one of the most-visited paid attractions in the UK, drawing around half a million visitors per year, and is particularly popular with families.

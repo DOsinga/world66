@@ -15,6 +15,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.3
 ---
 
 The Church of the Holy Spirit dominates the Largo de Igreja, Margao's central church square, its broad white Baroque facade rising above a double flight of stone steps. Built in 1675 — and rebuilt more grandly after Maratha raids in the 1730s — it is one of the finest Portuguese colonial churches in South Goa, with twin bell towers, a rhythmic play of pilasters and cornices, and an interior of gilt altarpieces and carved wooden panels that surprises visitors expecting something more austere.

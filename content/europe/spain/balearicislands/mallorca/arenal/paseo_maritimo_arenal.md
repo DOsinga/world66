@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.5035
 longitude: 2.7460
+score: 6.8
 ---
 
 The flat seafront promenade running along the Platja de S'Arenal and continuing all the way west through the Playa de Palma is one of the better features of this stretch of coast. It is wide, well-maintained, and runs for the full seven kilometres from S'Arenal to Ca'n Pastilla without a hill or a road crossing. In the early morning and evenings, locals use it for running and cycling; during the day it is full of slow-moving holidaymakers.

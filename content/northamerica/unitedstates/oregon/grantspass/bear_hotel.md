@@ -11,6 +11,7 @@ tags:
 - sight
 title: Bear Hotel
 type: poi
+score: 6.1
 ---
 
 Grants Pass has, for the last twenty years, been quietly building a downtown public art collection of painted black-bear statues. Roughly 130 of them stand on sidewalks around the city, each sponsored by a local business and painted by a different artist. They are slightly larger than life-size and impossible to miss once you start looking.

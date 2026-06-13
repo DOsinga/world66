@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.5
 ---
 
 Binz is Rügen's largest seaside resort, and the most photogenic of its Wilhelmine-era spas. The seafront is a procession of white-painted villas with wraparound verandas, balconies, and the wedding-cake spa architecture that Germans call Bäderarchitektur. The pier, restored, runs out into the Baltic with a small restaurant at the end.

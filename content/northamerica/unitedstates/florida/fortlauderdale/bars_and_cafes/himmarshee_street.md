@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 26.1221
 longitude: -80.1448
+score: 5.5
 ---
 
 Himmarshee Street — technically SW 2nd Street in downtown Fort Lauderdale — is the city's main bar strip for people who want to be out late rather than just late-ish. The block between SW 3rd and SW 5th Avenues has a high density of nightclubs, sports bars, and open-front drinking establishments that get going after 10pm and stay busy until 2am or later. The atmosphere on a Friday or Saturday night is loud, crowded, and unpretentious in the way that bar districts in midsize American cities often are.

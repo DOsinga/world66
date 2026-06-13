@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.8297
 longitude: 111.6592
+score: 6.9
 ---
 
 Hohhot's main railway station (not the high-speed station, which is at Hohhot Dong) is a late Soviet-era building from the 1950s, architecturally typical of the Chinese railway stations built with Soviet technical assistance during the first Five-Year Plan. The station serves ordinary-speed trains to Beijing, Baotou, and destinations across Inner Mongolia and northern China, and its forecourt is one of the more animated public spaces in the city — taxi drivers, food vendors, porters, and travellers of every description.

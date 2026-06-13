@@ -12,6 +12,7 @@ story: >
   discovered in 1994 — fossilised tracks of a herd of prosauropod dinosaurs
   walking through coastal mud some 220 million years ago. A short signposted
   path from the pass leads to the panel where the footprints are visible.
+score: 8.4
 ---
 
 The Staulanza Pass at 1,766 metres is the dominant geographical feature above Vodo, climbed by the SS251 road from the village in a series of long looping curves through pine and larch forest. It is one of the great Dolomite passes — less famous than the Falzarego or the Pordoi but in many ways more beautiful — and gives the best road approach to Monte Pelmo.

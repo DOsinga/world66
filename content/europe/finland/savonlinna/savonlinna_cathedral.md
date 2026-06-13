@@ -9,6 +9,7 @@ tags:
 title: Savonlinna Cathedral
 type: poi
 snippet: A Neo-Gothic 19th-century cathedral on the main island
+score: 6.3
 ---
 
 Savonlinna Cathedral is the Lutheran parish church of the town and stands prominently on the main island a few minutes' walk from the harbour. The current Neo-Gothic building was completed in 1879 to designs by the Finnish-Swedish architect A. H. Dahlström, replacing an earlier wooden church on the same spot.

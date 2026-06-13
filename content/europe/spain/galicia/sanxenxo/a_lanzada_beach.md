@@ -12,6 +12,7 @@ story: >
   Waves" still draws crowds every year, in a mix of folklore,
   Catholic procession to the chapel above the dunes, and Atlantic
   cold water.
+score: 8.4
 ---
 
 A Lanzada is the great Atlantic beach of the Rías Baixas — four kilometres of clean light sand backed by low dunes and the open ocean. Unlike the sheltered ría beaches, here you get real waves: it is one of the only places on the Galician inner coast where you can surf with any reliability. Sea kayaks, paddleboards, and kite-surfing rigs are common on calmer days.

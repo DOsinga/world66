@@ -11,6 +11,7 @@ story: >
   Wageningen UR consistently tops the global rankings for agricultural sciences. It is where much of the world's thinking about food security, plant breeding, and sustainable farming is done. Researchers here developed the techniques that made Dutch greenhouse horticulture the most productive on earth per square metre — a country roughly the size of West Virginia now feeds much of Europe.
 sources:
   - https://en.wikipedia.org/wiki/Wageningen_University_%26_Research
+score: 7.8
 ---
 
 **Wageningen University & Research** (WUR) is the reason this small Gelderland town has an outsized reputation. Ranked consistently as the world's leading university for agricultural sciences, it draws students and researchers from across the globe — walk the campus and you will hear half a dozen languages before you reach the canteen. Nearly a quarter of Wageningen's population are students.

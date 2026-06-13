@@ -6,6 +6,7 @@ longitude: 1.133
 snippet: "Two-storey mud-tower compound houses of the Batammariba — UNESCO-listed and unlike anything else in West Africa"
 tags: [things_to_do, sight, architecture, historic]
 story: "The Batammariba — the name means 'those who shape the earth' — built their distinctive tower-houses, called takienta, as fortified dwellings during the centuries when slave-raiders pushed south from the Sahel. The compound is a small village in itself: ancestor shrines, sleeping cells, granaries, a kitchen, all stacked vertically in a sculpted clay tower with conical thatched roofs. The structure also encodes cosmology — the lower level for cattle and humans, the upper for grain and ancestors. UNESCO inscribed the Koutammakou landscape as a World Heritage Site in 2004."
+score: 9.3
 ---
 
 The takienta is the architectural signature of the Batammariba people and the heart of any visit to Tamberma. From outside, each compound resembles a small mud castle: a roughly cylindrical two-storey tower, four to six metres high, with conical thatched roofs poking up from above and a single narrow doorway at ground level. Inside, the layout is a deliberate cosmogram — animals and ground-floor sleeping quarters below, an upper terrace, granaries, and ancestor altars above.

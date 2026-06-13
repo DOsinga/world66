@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -15.8390
 longitude: -70.0335
 snippet: Hilltop park crowned by a stone puma, west of the city centre
+score: 5.3
 ---
 
 A smaller hilltop park on the western side of Puno, with a large stone puma — the Puma Uta — at the top. The view is less sweeping than from the Kuntur Wasi side, but the climb is shorter and the steps are gentler. Worth a stop on the way back from a Plaza de Armas walk, or as a sunset alternative to the more famous condor viewpoint.

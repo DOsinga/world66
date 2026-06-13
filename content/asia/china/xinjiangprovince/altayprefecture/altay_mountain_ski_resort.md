@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 47.6500
 longitude: 88.0500
+score: 5.6
 ---
 
 The Altay Mountain Ski Resort, located on the slopes of the Altay range near Altay City, is one of the few purpose-built ski resorts in Xinjiang. It has gained a measure of international attention in recent years as part of China's push to develop winter sports infrastructure following the 2022 Beijing Winter Olympics. The resort receives heavy snowfall between November and March, and conditions can be excellent.

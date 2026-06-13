@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 7.6772
 longitude: 36.8334
+score: 4.6
 ---
 
 Fresh juice is one of the everyday pleasures of Ethiopian cities, and Mule's Juice is one of Jimma's most popular spots for it. The highland location means the fruit is good: avocado, mango, papaya, and passion fruit feature, often blended together in layered combinations that are more meal than drink.

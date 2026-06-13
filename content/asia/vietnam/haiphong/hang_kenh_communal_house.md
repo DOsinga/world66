@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.6
 ---
 
 The Hang Kenh Communal House (Đình Hàng Kênh) is the city's most important surviving piece of classical Vietnamese wooden architecture. The building dates from the early eighteenth century and is dedicated to Ngô Quyền, the tenth-century king who defeated the Chinese fleet on the nearby Bạch Đằng River and effectively founded an independent Vietnam.

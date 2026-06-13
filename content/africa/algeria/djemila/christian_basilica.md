@@ -15,6 +15,7 @@ story: >
   required full-body immersion for baptism, and the pool here is large enough for an
   adult to stand in. The mosaics that once covered the floor depicted scenes meant
   to prepare the newly baptised for their new life.
+score: 8.1
 ---
 
 The Christian quarter of Djemila occupies the southern expansion of the city, developed in the third century and adapted for Christian use in the fourth. The basilica is a large three-aisled church, and while the roof is long gone, the scale of the building is impressive — this was a substantial community with the resources to build on a major scale.

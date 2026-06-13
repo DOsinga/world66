@@ -14,6 +14,7 @@ story: >
   partitioning. The renovation was led by the Moroccan artist Yto Barrada
   and the new Cinémathèque de Tanger operates as a non-profit, screening
   arthouse and Moroccan cinema almost nightly.
+score: 8.3
 ---
 
 The Art Deco Cinema Rif has dominated the Grand Socco since 1938. After a long decline it was rescued in 2007 by the Cinémathèque de Tanger — a non-profit founded by photographer Yto Barrada — which now runs daily programmes ranging from Moroccan independent film to international classics, often in French or English with Arabic subtitles. The lobby cafe is one of the most stylish in town and a popular meeting spot for the local cultural set.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5742
 longitude: -7.8194
+score: 6.9
 ---
 
 A small stone chapel sitting at 1,187 metres on the Monte do Faro, the highest peak in the local Serra do Faro. The drive up to it climbs through chestnut woods and meadows, then opens onto a bald summit with views over the Miño valley, the Ribeira Sacra, and on clear days as far as the Atlantic.

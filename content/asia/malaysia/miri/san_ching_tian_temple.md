@@ -9,6 +9,7 @@ longitude: 114.0030
 story: "When it was completed in 2003 after three years of construction, San Ching Tian Temple became the largest Taoist temple in Southeast Asia. The entire decorative programme — dragon columns, roof ridges, deity statues — was fabricated in China and shipped to Sarawak."
 sources:
   - https://en.wikipedia.org/wiki/San_Ching_Tian_Temple
+score: 7.0
 ---
 
 San Ching Tian Temple, completed in 2003 at a cost of RM10 million, is the largest Taoist temple in Southeast Asia. It stands on a 1.5-acre site in Krokop, about 4 km north of central Miri, and is dedicated to the Three Pure Ones — the highest deities in Taoist cosmology. Every decorative element was produced in China: the dragon-encrusted columns, the elaborate roof ridges, and the large deity statues inside the main hall.

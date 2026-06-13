@@ -9,6 +9,7 @@ latitude: 40.7502
 longitude: -74.1798
 address: "89 Ridge St, Newark, NJ 07104"
 story: "Construction began in 1898 and took 54 years to complete — the cathedral was not fully finished until 1954, at which point it had taken longer to build than most of the great medieval cathedrals it was modelled on. The two towers are 232 feet tall and visible from much of central Newark."
+score: 8.5
 ---
 
 The Cathedral Basilica of the Sacred Heart is one of the great surprises of Newark: a massive French Gothic Revival cathedral that would be famous if it were anywhere but New Jersey. The building seats 2,300 people under a nave that rises 108 feet, with extensive stone carving, stained glass from the Chartres tradition, and a recently restored interior that is in excellent condition.

@@ -8,6 +8,7 @@ latitude: 53.5847
 longitude: -9.8219
 sources:
   - https://en.wikipedia.org/wiki/Lough_Fee
+score: 6.5
 ---
 
 Lough Fee sits in the hills north of Letterfrack and Kylemore, a long narrow lake hemmed in by steep slopes and accessible only on foot or by a rough track. It is one of the more remote and peaceful lakes in Connemara — you are unlikely to meet anyone here outside of a summer weekend. The hillsides above it give good access into the northern Twelve Bens.

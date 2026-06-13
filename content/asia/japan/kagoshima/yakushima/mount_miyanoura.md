@@ -15,6 +15,7 @@ story: >
   launched its first rockets.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Miyanoura
+score: 8.8
 ---
 
 Mount Miyanoura is the highest summit in Kyushu at 1,936 metres, rising steeply from the forested interior of Yakushima. The ascent is typically combined with neighbouring peaks Nagata-dake and Kuromi-dake on a traverse of the island's high ridge. Most hikers approach from Yodogawa trailhead (reached by bus from Miyanoura port) and complete the circuit in a long day or over two days with a night at the Shintakatsubo refuge hut.

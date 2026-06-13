@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "When built in 1865 the synagogue had room for 3,000 worshippers — one of the largest in central Europe. Timisoara's Jewish community at the time was about 14,000 people and the synagogue served as the main Neologue (reform) congregation. After most of the community was deported or emigrated during and after the Holocaust, the building stood largely empty for decades. Restoration began in the 2010s."
+score: 8.1
 ---
 
 The Cetate Synagogue, also called the Great Synagogue, is a vast Moorish-Revival brick-and-stucco building on Marasesti Street, completed in 1865. It is one of the largest synagogues built in central Europe in the 19th century, with seating originally for 3,000 worshippers. The exterior — twin onion-domed towers, horseshoe arches, a rose window — borrows directly from the Spanish-Moorish tradition that became fashionable for European synagogues from the 1850s onward.

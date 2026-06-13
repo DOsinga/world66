@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 51.1316
 longitude: 71.4095
+score: 5.4
 ---
 
 Lovers' Park (also called Youth Park) sits on the right bank of the Ishim, a green space of walking paths, fountains, and modest sculpture popular with couples and wedding-photo parties. The name comes from the cluster of romantic-themed sculptures and the long heart-shaped flowerbeds; it is unironically what it sounds like.

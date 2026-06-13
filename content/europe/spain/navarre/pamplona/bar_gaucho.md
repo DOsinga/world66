@@ -9,6 +9,7 @@ latitude: 42.8193
 longitude: -1.6441
 sources:
   - https://en.wikipedia.org/wiki/Pamplona
+score: 6.9
 ---
 
 Bar Gaucho on Calle Espoz y Mina is widely regarded as one of the best pintxos bars in Pamplona. The counter is loaded with imaginative combinations — txangurro (spider crab) on toast, anchovy with piquillo pepper, foie gras with apple reduction — and the kitchen turns out hot pintxos throughout the evening.

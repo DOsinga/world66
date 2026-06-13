@@ -8,6 +8,7 @@ tags:
   - cafe
   - restaurant
 snippet: Traveller cafe attached to a community tourism agency
+score: 6.6
 ---
 
 Condor Cafe on Calle Calvo is a long-running traveller cafe and the front-of-house for Condor Trekkers, a community-run hiking agency that funnels profits into rural projects in the surrounding villages. The food is honest cafe fare — soups, salads, decent sandwiches, vegetarian and vegan options for once — at backpacker-friendly prices, all served in a sunlit room with shelves of secondhand books.

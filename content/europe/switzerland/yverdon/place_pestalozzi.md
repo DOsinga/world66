@@ -7,6 +7,7 @@ tags:
 latitude: 46.7782
 longitude: 6.6413
 snippet: The town's central square, framed by the castle, the church, and pavement cafés
+score: 6.8
 ---
 
 Place Pestalozzi is the heart of Yverdon, an irregular cobbled square dominated by the four towers of the castle on one side and the eighteenth-century Reformed church on the other. A statue of the educational reformer Johann Heinrich Pestalozzi stands in the middle, gesturing toward an imaginary child.

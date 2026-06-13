@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: De Taanderij
 type: poi
+score: 6.2
 ---
 
 The most established of the harbour-side restaurants, De Taanderij occupies a traditional building right on the waterfront with a terrace that looks out over the boats. The kitchen leans heavily on local tradition: smoked eel is the signature dish, served with brown bread and mustard in the time-honoured way. In summer the terrace fills with day-trippers from Amsterdam and Volendam; arrive early or expect a wait.

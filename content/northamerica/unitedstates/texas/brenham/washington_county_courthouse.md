@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 30.16694
 longitude: -96.39750
+score: 7.3
 ---
 
 The Washington County Courthouse is the centrepiece of downtown Brenham — a 1939 Art Deco building in cream limestone with stylised eagles and Lone Stars carved into the facade. It is the fifth courthouse on the site (its predecessors burned, were outgrown, or both) and is still the working county seat for Washington County.

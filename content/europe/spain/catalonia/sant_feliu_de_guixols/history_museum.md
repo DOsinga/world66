@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.7801
 longitude: 3.0266
+score: 7.5
 ---
 
 The municipal museum, housed in part of the old monastery complex. The permanent exhibition covers the town's two great industries — fishing and cork — with reconstructed workshops, machinery, and a serious collection of cork-cutting tools. The Sant Feliu cork was once shipped around the world; the local industry collapsed in the 1980s with the rise of plastic stoppers.

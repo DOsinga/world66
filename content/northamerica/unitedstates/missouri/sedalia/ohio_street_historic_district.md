@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Five blocks of intact 19th-century commercial architecture.
+score: 7.3
 ---
 
 Ohio Street is downtown Sedalia's main commercial spine and remains remarkably intact: roughly five blocks of two- and three-storey brick buildings from the 1870s through the 1910s, with iron storefronts, decorative cornices and pressed-tin ceilings still visible behind the modern shop signs. The federally listed Sedalia Commercial Historic District covers about 90 buildings centred on the 200–500 blocks.

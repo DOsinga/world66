@@ -7,6 +7,7 @@ tags:
 title: Pub Mont Fort
 type: poi
 snippet: Long-running British-style pub on the way to the slopes
+score: 5.7
 ---
 
 Pub Mont Fort opened in 1989 and is the longest-running British-style pub in town — a dark wood interior, a long bar, a permanent crowd of British and Australian ski instructors, decent pub food and a serious cask-ale selection. The terrace catches the afternoon sun and tends to be packed from 15:00 onwards in season.

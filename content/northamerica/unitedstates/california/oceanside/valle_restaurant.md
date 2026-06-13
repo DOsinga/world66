@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.1946
 longitude: -117.3834
+score: 7.9
 ---
 
 Valle is a Baja California-inspired restaurant in downtown Oceanside that helped put the city on the Southern California dining map. Chef Roberto Alcocer, born in Ensenada, runs an open kitchen producing refined Mexican coastal cooking — farm-grown produce, local seafood, and wood-fire techniques applied to dishes that draw on the traditions of Baja wine country.

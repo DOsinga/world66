@@ -9,6 +9,7 @@ latitude: -12.4567
 longitude: -41.4736
 story: >
   Pai Inácio (Father Inácio) was a runaway slave who, according to local legend, hid from bounty hunters on top of this mesa by jumping off the other side to certain death rather than being recaptured. The tableland-within-a-tableland formation is one of the most distinctive geological features of the Chapada — a flat-topped mesa 1,120 metres high, its vertical sides of ancient quartzite rising above the surrounding plateau.
+score: 9.0
 ---
 
 Morro do Pai Inácio is the most iconic viewpoint in Chapada Diamantina and probably the single most photographed view in the park: a flat-topped quartzite mesa that rises above the surrounding plateau, looking out over a vast landscape of tabletop hills, river valleys, and distant escarpments. The climb from the park entrance takes about 45 minutes on a well-marked trail and requires no technical equipment; the summit is accessible to anyone with reasonable fitness.

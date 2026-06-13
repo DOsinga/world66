@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - diving
+score: 8.9
 ---
 
 A long underwater ridge in the channel west of Cocoa Island, dropping from around 15 metres to past 30. It is one of the most reliable shark dives in the atoll — grey reef sharks circling the deeper end most days, sometimes joined by silver-tips and the occasional hammerhead in the cooler months.

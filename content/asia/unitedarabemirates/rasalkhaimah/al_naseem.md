@@ -6,6 +6,7 @@ longitude: 55.9412
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Al Naseem is a long-running Emirati-style fish restaurant on the corniche, with plastic chairs, paper tablecloths, and a tank of live fish at the door. The format is simple: pick your fish — usually hammour, kingfish, or pomfret — choose how you want it cooked (grilled, fried, or stuffed with herbs and lemon) and it arrives 20 minutes later with rice, salad, and a stack of flatbread.

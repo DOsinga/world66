@@ -7,6 +7,7 @@ tags:
 latitude: 38.6407
 longitude: 1.3972
 snippet: "The wild, flat southern cape with its own lighthouse, ancient watchtowers, and dramatic sea cliffs"
+score: 8.8
 ---
 
 Cap de Barbaria is the island's southernmost point, and it feels like the end of the world in the best way. The road south from Sant Francesc runs across flat scrubland — low rosemary, dwarf fan palms, a few stone walls — before arriving at the lighthouse and the cliffs that drop straight into the sea. The Torre des Garroveret, a round stone watchtower built in the 18th century to spot Barbary pirate raids (the cape took its name from those raids), stands a few minutes' walk from the lighthouse and gives context to the island's historically exposed position.

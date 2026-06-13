@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.3503
 longitude: 26.3503
+score: 7.4
 ---
 
 Founded in 1940 and one of Estonia's two main regional theatres — much-loved, well funded, and impressively prolific for a town of 15,000. The building itself is a sober inter-war affair on the western edge of the old town.

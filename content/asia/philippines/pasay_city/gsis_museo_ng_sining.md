@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 14.5474
 longitude: 120.9843
+score: 7.2
 ---
 
 The GSIS Museo ng Sining (Government Service Insurance System Museum of Art) is a free-entry art museum in Pasay, housed in the GSIS building complex. The collection focuses on Philippine visual art — paintings, sculptures, and mixed-media works by Filipino artists, with particular emphasis on the 20th century. The museum holds works by the country's National Artists as well as a significant collection of Fernando Amorsolo paintings, the quintessential depiction of pre-war Philippine rural life.

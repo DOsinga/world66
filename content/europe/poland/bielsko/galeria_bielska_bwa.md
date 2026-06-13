@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - art
+score: 6.9
 ---
 
 Galeria Bielska BWA is the city's contemporary art space, and a more ambitious one than its size suggests. The gallery runs the Bielska Jesień (Bielsko Autumn), a national biennial of painting that has been held since 1962 and is one of the most important showcases of Polish painting still working today.

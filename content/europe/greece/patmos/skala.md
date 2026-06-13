@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.3230
 longitude: 26.5470
+score: 5.6
 ---
 
 The port village of Skala is Patmos's practical hub: ferries dock here, most of the hotels are here, and the restaurants lining the waterfront provide the most accessible (if not always the most interesting) dining on the island. The harbour has a pleasant evening atmosphere, with the lights of Hora visible on the hill above and the sound of the church bell drifting down.

@@ -11,6 +11,7 @@ story: >
   on its summit. Emigrants in the 1840s and 1850s aimed to reach it by Independence Day; if they
   arrived later, they risked being caught by snow in the Rockies before they made it to Oregon.
 snippet: "Granite outcrop scratched with thousands of 19th-century emigrant signatures"
+score: 8.2
 ---
 
 A massive granite turtle of a rock rising 50 metres out of the Sweetwater Valley about an hour

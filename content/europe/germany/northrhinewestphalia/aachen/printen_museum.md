@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Bakery museum devoted to Aachen's signature spiced gingerbread — and its closely guarded recipes
+score: 6.3
 ---
 
 Aachen's *Printen* is a spiced gingerbread that has been made in the city since the Middle Ages, originally sweetened with honey and later with sugar beet syrup when Napoleon's continental blockade cut off the sugar trade. Every bakery in Aachen has its own recipe and guards it fiercely. The museum at Café Nobis on the Münsterplatz covers the history, mythology, and manufacture of the biscuit with tours and tastings.

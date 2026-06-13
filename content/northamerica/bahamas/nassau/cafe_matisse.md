@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0775
 longitude: -77.3432
+score: 6.5
 ---
 
 A small Italian restaurant tucked away on Bank Lane behind Parliament Square, in a converted colonial townhouse with a leafy courtyard. The cooking is genuine Italian — handmade pasta, wood-fired pizzas, daily fresh fish — by chef-owner Greg Curry who has been there since the late 1990s.

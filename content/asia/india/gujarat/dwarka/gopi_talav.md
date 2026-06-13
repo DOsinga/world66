@@ -6,6 +6,7 @@ tags:
 - sight
 title: Gopi Talav
 type: poi
+score: 5.2
 ---
 
 Gopi Talav is a small sacred pond tied to Krishna legends and usually visited on the route toward Bet Dwarka. Pilgrims collect or buy the yellowish clay associated with the site.

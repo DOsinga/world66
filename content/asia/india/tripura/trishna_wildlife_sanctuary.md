@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 23.4217
 longitude: 91.3131
+score: 6.4
 ---
 
 Trishna Wildlife Sanctuary protects forest and grassland in southern Tripura and is known for bison, birds, and a quieter rural setting than Sepahijala. It is a better fit for patient wildlife watchers than for visitors expecting guaranteed sightings.

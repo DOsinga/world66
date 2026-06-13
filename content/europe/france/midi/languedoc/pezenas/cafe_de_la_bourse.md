@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.4610
 longitude: 3.4218
+score: 6.5
 ---
 
 The Café de la Bourse sits on the main parking square — not the most romantic address in town, but strategically placed for watching Pézenas's full social range arrive and depart. On Saturday mornings, when the market is running, the terrace fills early and the people-watching is outstanding. The whole week's worth of social activity seems to compress into a few hours of market-day traffic.

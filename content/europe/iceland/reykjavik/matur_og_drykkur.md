@@ -10,6 +10,7 @@ tags:
   - grandi
 neighbourhood: Grandi
 snippet: Modern interpretations of traditional Icelandic recipes, named for a 1947 cookbook
+score: 8.1
 ---
 
 Matur og Drykkur — Icelandic for "Food and Drink" — is named after a much-loved 1947 cookbook by Helga Sigurðardóttir, and the menu takes that book as a starting point: lamb head stew, salt cod, char in caraway broth, skyr cake. The cooking is more refined than the originals but the references are precise and the result is a satisfying introduction to Icelandic food.

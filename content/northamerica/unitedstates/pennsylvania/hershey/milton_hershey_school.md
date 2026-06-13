@@ -15,6 +15,7 @@ story: >
   Street analysts initially refused to believe a businessman had given away that
   much wealth. The school now enrolls around 2,000 students and the trust remains
   one of the largest in the United States.
+score: 6.6
 ---
 
 Milton Hershey's most lasting legacy isn't the chocolate — it's the school he founded in 1909, a free boarding school for children from low-income families. Students live in cottage-style homes on the sprawling campus east of downtown Hershey, with all costs covered including tuition, housing, food, clothing, and medical care.

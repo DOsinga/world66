@@ -5,6 +5,7 @@ snippet: "Frank Lloyd Wright-designed restaurant overlooking the Wisconsin River
 tags: [things_to_do, sight, architecture]
 latitude: 43.1439
 longitude: -90.0595
+score: 6.6
 ---
 
 The Riverview Terrace Restaurant, sometimes called the Spring Green Restaurant, is a low circular pavilion of stone and copper designed by Frank Lloyd Wright in 1953 on a bluff overlooking the Wisconsin River. Wright did not live to see it built — construction did not begin until 1965, six years after his death, with the work overseen by his apprentices at Taliesin.

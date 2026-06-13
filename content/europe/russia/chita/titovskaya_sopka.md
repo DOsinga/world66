@@ -10,6 +10,7 @@ story: >
   The volcanic rock of Titovskaya Sopka contains the largest concentration of Neolithic rock engravings in the Baikal region — deer, shamanic figures, and hunting scenes scratched into the basalt. Many of the carvings are thought to be at least 4,000 years old. The hill also served as a Mongolian fire-signal station in the medieval period.
 sources:
   - https://en.wikipedia.org/wiki/Titovskaya_Sopka
+score: 7.8
 ---
 
 Titovskaya Sopka is a rocky volcanic hill rising above the western edge of Chita, offering the best view available of the city and the vast surrounding steppe. The ascent from the city takes about 30 minutes on foot. At the top a Soviet-era war memorial and an Orthodox church occupy the summit, and on clear days the view extends to the mountains along the Mongolian border.

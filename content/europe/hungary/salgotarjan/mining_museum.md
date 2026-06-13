@@ -9,6 +9,7 @@ tags:
 address: Bajcsy-Zsilinszky út, Salgótarján
 opening_hours: 09:00–16:00 Tuesday–Sunday
 admission: HUF 1000
+score: 7.9
 ---
 
 The Hungarian Mining Museum is built around the only surviving section of a 19th-century coal mine that you can still walk through underground in Hungary. A guided tour takes you 280 metres into the hillside on the original miners' track, with original lamps, drills, ventilation cars, and the rough timber supports that held the seams up.

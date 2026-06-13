@@ -12,6 +12,7 @@ tags:
 - nature
 title: Monte Sant'Elia
 type: poi
+score: 8.6
 ---
 
 Monte Sant'Elia rises behind Palmi and gives the town its great natural balcony. The summit looks over the Costa Viola, the Strait of Messina, Sicily, and, in exceptionally clear weather, the Aeolian Islands.

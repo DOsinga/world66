@@ -9,6 +9,7 @@ tags:
 address: "400-500 W 7th St"
 latitude: 30.2699
 longitude: -97.7502
+score: 6.9
 ---
 
 The Bremond Block, between 7th and 8th Streets west of Guadalupe, is Austin's best-preserved collection of 19th-century residential architecture. Four mansions built by the Bremond family and their relatives between 1853 and 1910 still stand on the block, including Italianate, Greek Revival, and Eastlake-style houses that give a clear picture of affluent Austin life in the Victorian era.

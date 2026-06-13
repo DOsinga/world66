@@ -15,6 +15,7 @@ story: >
   and a sheela-na-gig (a carved female figure) that pre-Christian in character.
   The combination of piety and pagan imagery on a 16th-century tomb is unusual
   anywhere in Scotland.
+score: 8.6
 ---
 
 St Clement's Church at Rodel sits at the southernmost point of Harris, overlooking the Sound of Harris towards North Uist. The building dates from around 1520 and contains the finest carved stonework in the Outer Hebrides. The interior holds three elaborately carved late-medieval tombs, including the tomb of its builder, Alasdair Crotach MacLeod, with its remarkable panel of figures carved in a style that mixes Christian and older imagery.

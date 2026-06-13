@@ -14,6 +14,7 @@ story: >
   still played from the surviving tower. What was once the largest of Wismar's
   three churches is now a partial ruin and a memorial to the destruction of
   wartime and the careless decisions of the postwar decades.
+score: 7.6
 ---
 
 The Marienkirche tower rises above the rooflines of the western old town — a tall Gothic spire of red brick that gives no hint, from a distance, of the emptiness behind it. Up close the situation becomes clear: the nave and choir are gone, and the tower stands alone in an open space where the body of one of Mecklenburg's great churches once stood. It is an affecting sight, not least because the surviving tower is itself beautiful, and because the church in its entirety was once comparable in ambition to the Nikolaikirche.

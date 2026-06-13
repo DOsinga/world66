@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - park
+score: 6.9
 ---
 
 A spur off the Pinellas Trail leads east to John Chesnut Sr. Park on Lake Tarpon, a 255-acre park with boardwalks through oak hammock and cypress swamp. The two short loop trails — Peggy Park Nature Trail and the Chesnut Trail — are some of the few elevated boardwalks in the county where you can reliably spot alligators in the wild.

@@ -14,6 +14,7 @@ story: >
   foundations are original Roman masonry — meaning that traffic has crossed this
   bridge continuously for nearly 2000 years, making it one of the longest-used
   river crossings in the world.
+score: 7.6
 ---
 
 The Römerbrücke (Roman Bridge) crosses the Moselle near the old city centre and is one of the oldest bridges still in use in Germany. The massive stone piers date from the 2nd century AD, making them authentic Roman engineering; the arches above were rebuilt in the 12th and 17th centuries after flood damage. The bridge is still open to vehicles and pedestrians.

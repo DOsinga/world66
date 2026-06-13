@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.454
 longitude: -114.39
+score: 6.4
 ---
 
 Frame Lake is an urban lake sitting in the heart of Yellowknife, circled by a well-maintained walking and cycling trail of about 4 kilometres. In summer, it is the city's main outdoor recreation space — locals jog the trail, picnic on the banks, and watch the sun set late into the evening. The path passes the Legislative Assembly, the Prince of Wales Northern Heritage Centre, and several sculptures and public artworks. In winter the lake freezes solid and the trail becomes a cross-country ski loop.

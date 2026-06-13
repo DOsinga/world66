@@ -13,6 +13,7 @@ tags:
 title: Vino Vino
 type: poi
 url: www.anticomartini.com
+score: 6.2
 ---
 
 An encyclopaedic wine bar near La Fenice with over 350 Italian and international wines available by the glass or bottle. Casual, mixed crowd. Food served too — pasta, fish, meat. Open 11:30am–11:30pm.

@@ -16,6 +16,7 @@ tags:
 - castle
 title: Carlisle Castle
 type: poi
+score: 9.0
 ---
 
 Carlisle Castle has stood guard over the city since the late 11th century, when William Rufus ordered its construction to secure the newly acquired border territory. The red sandstone keep, built by Henry II in the 12th century, still dominates the city centre. The castle was besieged repeatedly — during the Baron's Wars, the Scots invasions, the English Civil War, and the Jacobite risings — and the medieval fabric shows its age in the best way.

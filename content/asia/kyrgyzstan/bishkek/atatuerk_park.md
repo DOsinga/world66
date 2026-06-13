@@ -8,6 +8,7 @@ tags:
 latitude: 42.8556
 longitude: 74.6086
 address: "South Bishkek"
+score: 5.9
 ---
 
 The largest park in the southern half of the city, named for the Turkish founder Mustafa Kemal Atatürk in recognition of long-standing Turkish-Kyrgyz cultural ties. The park has shaded paths, a small lake, a children's playground, and a striking bronze of Atatürk on a high plinth at the main entrance.

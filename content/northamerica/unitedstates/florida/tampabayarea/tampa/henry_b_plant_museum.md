@@ -10,6 +10,7 @@ longitude: -82.4641
 snippet: A gilded-age Moorish fantasy palace that launched Florida tourism — now a museum inside the University of Tampa
 story: >
   Henry Plant built his Tampa Bay Hotel in 1891 specifically to attract wealthy Northern tourists to his railroad empire. The minarets visible from across the Hillsborough River were meant to suggest exotic grandeur; what Plant actually created was the first luxury resort in Florida. One guest in 1898 was Theodore Roosevelt, who used the hotel as a staging point for the US Army's invasion of Cuba during the Spanish-American War — the lobby where officers planned the campaign is now the museum's main gallery.
+score: 8.2
 ---
 
 The Henry B. Plant Museum occupies a wing of what was originally the Tampa Bay Hotel — a spectacular 511-room Moorish Revival palace completed in 1891 by railroad magnate Henry B. Plant. The building now houses the University of Tampa, but the museum preserves the original Victorian-era furnishings, decorative arts, and historical artefacts from the hotel's gilded-age heyday.

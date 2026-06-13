@@ -13,6 +13,7 @@ story: >
   Silverio created a space where LGBT Cubans could gather without harassment —
   effectively carving out a zone of tolerance inside a repressive system.
   The Cuban government has since recognised it as a model cultural institution.
+score: 8.8
 ---
 
 El Mejunje — "The Mixture" — is one of the most remarkable cultural spaces in Cuba. Housed in a ruined colonial mansion with an open courtyard, it has operated since 1984 as Santa Clara's open cultural centre and, uniquely for Cuba at the time, an openly gay-friendly space. The result is a venue unlike anything else on the island: drag shows, rock bands, trova music, children's theatre, and film screenings all happen in the same courtyard, often in the same week.

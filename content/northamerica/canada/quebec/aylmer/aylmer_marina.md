@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4000
 longitude: -75.8480
+score: 6.3
 ---
 
 The Aylmer Marina sits at the foot of the old village, where Lac Deschênes widens before narrowing back into the Ottawa River. In summer it is a lively spot — sailboats and motorboats come and go, and the waterfront terrace of the marina restaurant draws locals for a drink in the evening. The view across the lake toward the Ontario shore, with the Gatineau Hills rising in the background, is one of the best in the area.

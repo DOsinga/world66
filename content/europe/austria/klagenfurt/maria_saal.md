@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.5
 ---
 
 Ten kilometres north of Klagenfurt, the twin-towered pilgrimage church of Maria Saal is one of the oldest and most important religious sites in Carinthia. The original church on this hill was founded in the eighth century by Bishop Modestus, sent by the Salzburg archbishops to convert the Slavic Carantanians; the building you see now is a Romanesque structure made over in the Gothic.

@@ -6,6 +6,7 @@ longitude: 40.63
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 Ibo sits in the middle of the Quirimbas Archipelago, a chain of around thirty coral islands stretching down the Mozambican coast. Most are uninhabited; many are inside the Quirimbas National Park, which protects mangrove, reef, and marine life.

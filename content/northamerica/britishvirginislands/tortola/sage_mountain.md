@@ -9,6 +9,7 @@ tags:
   - hiking
   - nature
 story: "Sage Mountain at 521 metres is the highest point in the British Virgin Islands. The rainforest at its summit is what most of the eastern Caribbean looked like before three centuries of plantation farming stripped the trees off the lower slopes — the park exists because Laurance Rockefeller paid for the land in 1964 and gifted it to the territory."
+score: 8.7
 ---
 
 Sage Mountain National Park protects the wettest, coolest, and most forested patch of Tortola — a fragment of cloud forest on the spine of the island, with mahogany trees, tree ferns, lianas, and a tangle of vines that feels nothing like the dry coast just below. A short, well-marked trail loops to the summit in around an hour.

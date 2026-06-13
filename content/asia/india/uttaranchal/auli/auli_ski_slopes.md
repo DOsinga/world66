@@ -9,6 +9,7 @@ longitude: 79.5657
 snippet: "India's best skiing — government-managed runs at 2,500–3,050m, affordable and uncrowded"
 story: >
   Auli hosted the 1987 South Asian Winter Games, which put it on the map as a serious ski destination. The National Institute of Mountaineering and Allied Sports (NIMAS) runs courses here, and the combination of government-managed pricing and the sheer remoteness of the location keeps Auli far less crowded than comparable resorts in Europe or Japan. On a mid-week day in January you may find yourself virtually alone on the mountain.
+score: 7.8
 ---
 
 Auli's ski slopes are managed by GMVN (Garhwal Mandal Vikas Nigam), the state tourism development body, and this government management has a direct consequence: lift tickets and equipment rental are dramatically cheaper than any comparable ski resort elsewhere in the world. The runs descend through roughly 500 metres of vertical between the upper gondola station and the mid-mountain area, with a mix of beginner, intermediate, and advanced terrain.

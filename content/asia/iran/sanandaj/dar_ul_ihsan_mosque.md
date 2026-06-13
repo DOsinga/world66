@@ -8,6 +8,7 @@ latitude: 35.31991
 longitude: 46.9952
 sources:
   - https://en.wikipedia.org/wiki/Dar_ul-Ihsan_Mosque
+score: 6.8
 ---
 
 The Dar ul-Ihsan Mosque, also known as the Jameh Mosque of Sanandaj, is the city's main Friday mosque and the oldest surviving mosque in the city centre. Built in the Qajar era on the site of an earlier structure, it has a single minaret and a courtyard layout typical of Iranian mosque architecture, adapted to the scale and means of a provincial Kurdish capital rather than an imperial centre.

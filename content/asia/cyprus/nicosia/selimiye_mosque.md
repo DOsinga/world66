@@ -16,6 +16,7 @@ story: >
   almost overnight. The minarets look incongruous; the nave looks magnificent.
 sources:
   - https://en.wikipedia.org/wiki/Selimiye_Mosque,_Nicosia
+score: 8.2
 ---
 
 The most striking building in Nicosia's northern half is neither a mosque nor a cathedral in any simple sense, but the collision of both. The Cathedral of Saint Sophia was built between 1209 and 1326, a soaring French Gothic structure in the Champagne tradition, and served as the coronation church of the Lusignan kings of Cyprus. When the Ottomans took the city in 1570, they converted it to a mosque within days, whitewashing the interior, removing the Gothic decoration, and planting two minarets on the western facade towers.

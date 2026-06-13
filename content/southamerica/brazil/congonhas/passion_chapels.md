@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.5085
 longitude: -43.8615
+score: 8.8
 ---
 
 Six small chapels (called the Passos do Senhor) line the slope leading up to the sanctuary, each one housing a tableau of polychrome wooden figures depicting a scene from the Passion of Christ. The chapels are simple white boxes from the outside; inside, the carved scenes are intense, theatrical, full of restrained gesture and unsettling expression — quite different in feel from the monumental prophets above.

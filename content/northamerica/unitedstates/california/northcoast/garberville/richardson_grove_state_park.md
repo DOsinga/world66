@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0167
 longitude: -123.8
+score: 7.4
 ---
 
 Richardson Grove is five miles south of Garberville and is the first old-growth redwood grove most northbound travelers encounter on US-101. The highway literally passes through the park, and at one point squeezes between living redwoods — you can see the trees from the driver's seat without pulling over.

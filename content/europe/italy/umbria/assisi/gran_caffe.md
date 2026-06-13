@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 43.0710
 longitude: 12.6149
+score: 5.8
 ---
 
 The classic morning coffee stop on Corso Mazzini just off Piazza del Comune. Tourist-busy but the coffee is good, the cornetti come fresh through the morning, and the small terrace catches the early sun. A reliable stop before climbing to the basilica.

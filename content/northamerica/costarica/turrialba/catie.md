@@ -10,6 +10,7 @@ latitude: 9.8901
 longitude: -83.6441
 sources:
   - https://en.wikipedia.org/wiki/CATIE
+score: 7.4
 ---
 
 The Centro Agronómico Tropical de Investigación y Enseñanza (CATIE) is one of the leading tropical agricultural research institutes in the world, and its campus on the eastern edge of Turrialba contains an extensive botanical collection open to visitors. The gardens cover hundreds of hectares of tropical forest, experimental plantations, coffee varieties, and cacao trees, all set in a landscape of hills above the Reventazón River.

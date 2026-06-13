@@ -11,6 +11,7 @@ tags:
 snippet: "Aleijadinho's rococo masterpiece — soapstone façade, painted ceiling by Manoel da Costa Ataíde"
 story: >
   The architect Antônio Francisco Lisboa — known as Aleijadinho, "the little cripple" — designed this church and carved its soapstone medallions and pulpits while in the late stages of a degenerative disease that cost him fingers and toes. He worked with chisels strapped to the stumps of his hands. He died in poverty in 1814 and was buried under the floor of the Igreja de Nossa Senhora da Conceição.
+score: 9.7
 ---
 
 The most celebrated of Ouro Preto's churches and the high point of Brazilian baroque. Built between 1766 and 1810, it is unusual for its rococo lightness — single nave, oval medallions, a curving façade flanked by cylindrical bell towers rather than the rectangular blocks that dominate elsewhere.

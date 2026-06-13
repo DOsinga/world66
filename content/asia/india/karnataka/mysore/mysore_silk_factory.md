@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 12.2954
 longitude: 76.6394
+score: 7.5
 ---
 
 The Government Silk Weaving Factory on Mananthody Road has been producing Mysore silk sarees since 1912, when the Mysore maharaja set it up as part of a broader push to modernise the kingdom's artisan industries. The factory can be visited — a guided tour shows the full process from raw silk thread to finished fabric, including the Jacquard looms that weave the characteristic gold zari (metallic thread) border onto the saree. The weavers work with remarkable speed and precision on equipment that is old but still capable of producing cloth of exceptional quality.

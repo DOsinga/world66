@@ -3,6 +3,7 @@ title: "Chintheche Inn Beach"
 type: poi
 tags:
   - things_to_do
+score: 6.5
 ---
 
 The Chintheche Inn is the main established lodge in the area and its beach is one of the most pleasant stretches of sand on this part of the lakeshore. A wide strip of white sand runs along the water's edge, shaded by a few large trees and backed by a quiet lawn. Non-guests can usually use the beach for a small fee, and the bar serves cold drinks through the day.

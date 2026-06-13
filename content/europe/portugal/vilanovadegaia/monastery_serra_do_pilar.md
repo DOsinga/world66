@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Monastery_of_Serra_do_Pilar
 story: >
   During the Liberal Wars of the 1830s, the monastery served as the headquarters of the future King Pedro IV of Portugal (Pedro I of Brazil) during his successful campaign against the absolutist Miguel I. The round cloister and the hilltop position gave the defenders excellent sightlines across the Douro, and the monastery walls bear the marks of artillery fire from the siege that followed. It was here that Pedro IV directed the assault on Porto that ultimately secured the liberal constitution.
+score: 9.0
 ---
 
 The Monastery of Serra do Pilar sits on the hilltop in Gaia directly above the Ponte Dom Luís I, and its round church and circular cloister are among the most unusual architectural forms in Portugal. Built in the sixteenth and seventeenth centuries, the monastery belongs to a rare tradition of circular ecclesiastical buildings; the church has a rotunda plan with a Renaissance dome, and the cloister wraps around it in a complete circle. Both are designated UNESCO World Heritage Sites as part of the Historic Centre of Porto inscription.

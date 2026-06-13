@@ -13,6 +13,7 @@ story: >
   brought luck to pregnant women. The pagoda slowly hollowed itself out until
   the base gave way. The current structure, opened in 2002, encases the
   surviving Song-era brick stump inside a modern steel and bronze frame.
+score: 6.9
 ---
 
 Leifeng Pagoda stands on Sunset Hill on the southern shore of West Lake, its five-story silhouette one of the defining views of the lake. The original pagoda was built in 977 AD by the king of the Wuyue kingdom, who dedicated it to his favourite consort — the bricks are stamped with Buddhist sutras still visible in the underground exhibition. An escalator takes you most of the way up; the top floor has unobstructed views across the lake to Baochu Pagoda on the northern shore.

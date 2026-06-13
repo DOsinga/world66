@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 45.398
 longitude: 6.6353
+score: 6.9
 ---
 
 Le Cap Horn sits right next to the altiport at the bottom of one of the access pistes — an on-mountain restaurant with a vast sun terrace that, in clear weather, doubles as the best place in Courchevel to drink champagne and watch private jets land twenty metres away. It is a lunch institution that turns into a (very expensive) party in the afternoon.

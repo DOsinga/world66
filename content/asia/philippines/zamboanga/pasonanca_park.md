@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 6.9540
 longitude: 122.0700
+score: 6.1
 ---
 
 Pasonanca Park is the city's main green space, in the hills about 6 km north of downtown. Spread across a forested ridge above the Tumaga River watershed, it is a mix of formal gardens, swimming pools, a treehouse you can rent for the night, an aviary, and miradores (lookouts) facing back over the city to the strait.

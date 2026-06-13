@@ -7,6 +7,7 @@ tags:
 snippet: "Iconic Bronx ballpark and quintessential New York experience"
 title: Yankee Stadium
 type: poi
+score: 7.6
 ---
 
 The current stadium opened in 2009, replacing the legendary original across the street. Even if you're not a baseball fan, catching a Yankees game here is a quintessential New York experience — the stadium holds over 50,000 and the energy on a summer night is electric. Tours of the facilities are available on non-game days.

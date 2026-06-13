@@ -12,6 +12,7 @@ story: Liberia operates one of the world's largest open registries of ships — 
   of convenience, and the annual fees have been a significant source of government
   revenue ever since. Looking out at Monrovia harbour, many of the ships at anchor
   are technically Liberian even if they have never touched the country.
+score: 5.4
 ---
 
 The Freeport of Monrovia is one of West Africa's largest deepwater ports, handling most of Liberia's imports and a substantial amount of regional shipping. The port itself is not open to casual visitors, but the area around the northern waterfront gives views over the harbour and the constant movement of container ships, bulk carriers, and smaller vessels.

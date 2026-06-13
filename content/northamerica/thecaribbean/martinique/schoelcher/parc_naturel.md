@@ -6,6 +6,7 @@ longitude: -61.0842
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Regional Natural Park of Martinique covers the mountainous centre of the island — rainforest, volcanic peaks, and river gorges — and its administrative headquarters is in Schoelcher. The park office is the best place to pick up trail maps, get information about guided hikes, and learn about the island's ecology. Martinique's interior is genuinely wild and impressive: the park protects the slopes of Mount Pelée and the surrounding forests.

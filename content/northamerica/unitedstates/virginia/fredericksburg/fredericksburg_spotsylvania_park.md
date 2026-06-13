@@ -15,6 +15,7 @@ story: >
   too fond of it." Those words are attributed to Robert E. Lee.
 sources:
   - https://en.wikipedia.org/wiki/Fredericksburg_and_Spotsylvania_National_Military_Park
+score: 8.8
 ---
 
 The Fredericksburg and Spotsylvania National Military Park is among the largest military parks in the world, preserving portions of four separate Civil War battlefields: Fredericksburg (December 1862), Chancellorsville (May 1863), the Wilderness (May 1864), and Spotsylvania Court House (May 1864). Together they tell the story of one of the war's most decisive campaigns in miniature — the two-year struggle for the corridor between Washington and Richmond.

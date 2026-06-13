@@ -9,6 +9,7 @@ tags:
 latitude: 50.9400
 longitude: 10.3200
 story: "The Rennsteig ridge path, which runs for 168 kilometres along the spine of the Thuringian Forest, begins near Eisenach. For centuries it served as a boundary between different German principalities — traders and travellers crossing it paid tolls and changed jurisdiction. The stone boundary markers are still visible at intervals along the path."
+score: 7.7
 ---
 
 The Thuringian Forest begins at the southern edge of Eisenach and offers some of the best walking in central Germany. The marked trail network covers 243 kilometres, ranging from short circular routes through the hills to multi-day hikes along the Rennsteig ridge.

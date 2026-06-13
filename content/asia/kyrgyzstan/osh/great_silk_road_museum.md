@@ -6,6 +6,7 @@ longitude: 72.7990
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 A small but well-presented museum on the eastern side of the city centre, devoted to Osh's role as a stop on the northern branch of the Silk Road. Displays cover trade goods, period costume, manuscripts and a small collection of coins from the Sogdian, Karakhanid and Timurid periods.

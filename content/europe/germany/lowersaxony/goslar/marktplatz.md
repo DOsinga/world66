@@ -7,6 +7,7 @@ tags:
 - sight
 title: Marktplatz
 type: poi
+score: 8.6
 ---
 
 Goslar's market square is a small, dense space hemmed in on every side by buildings worth a long look. On the north side, the late Gothic Rathaus (town hall) hides a hand-painted council chamber, the Huldigungssaal, whose walls and ceiling are covered in early sixteenth-century Biblical scenes. Diagonally opposite stands the Kaiserworth, a guildhall of the cloth merchants with comic stone figures crouching at the buttress tops — including the famous Dukatenmännchen, a small man defecating gold coins.

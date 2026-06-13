@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2993
 longitude: 139.4812
+score: 7.4
 ---
 
 A small island connected to the mainland by a 600-metre causeway, about 30 minutes from Kamakura on the Enoden line, and one of the most popular day-trip additions to a Kamakura visit. The island is devoted to Benzaiten, goddess of everything that flows — water, music, time, eloquence — and the main path up through the island is lined with souvenir shops and food stalls selling shirasu (whitebait), the local speciality.

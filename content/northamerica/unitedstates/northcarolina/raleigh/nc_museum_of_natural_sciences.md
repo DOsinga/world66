@@ -12,6 +12,7 @@ story: >
   a shark inside it, and that shark had a fish inside it. This nested predator sequence 
   — a real fossil, not a reconstruction — sits in the main hall and is the most dramatic 
   natural history specimen in any American museum outside of New York or Washington.
+score: 8.6
 ---
 
 The North Carolina Museum of Natural Sciences is the most visited museum in the state, housed in an impressive modern building a block north of the Capitol. The permanent collection spans paleontology, marine biology, ecology, and live animal exhibits across multiple floors, all admission-free. The Nature Research Center wing, added in 2012, houses four floors of working research labs where visitors can watch scientists at work through glass walls.

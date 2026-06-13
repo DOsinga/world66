@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.1675
 longitude: -94.7290
+score: 5.7
 ---
 
 A Hochatown institution decorated with Grateful Dead memorabilia and serving wood-fired pizzas with names like Sugar Magnolia and Friend of the Devil. Crusts are crisp and blistered, toppings generous, and the patio fills with families and cyclists most weekend evenings.

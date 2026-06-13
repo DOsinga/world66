@@ -6,6 +6,7 @@ longitude: 110.3417
 tags:
   - beaches
   - sight
+score: 8.4
 ---
 
 One of the further-out islands of the archipelago, Geleang is reached in about ninety minutes from the main harbour and rewards the journey with the best coral reefs in the park — the standard add-on for any half-day or full-day snorkelling charter. The sand is fine and white, and the lagoon is shallow enough for non-swimmers.

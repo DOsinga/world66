@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 41.2565
 longitude: -95.9350
+score: 8.2
 ---
 
 The Old Market is Omaha's most walkable neighbourhood, occupying a grid of 19th-century warehouse buildings on the northeastern edge of downtown. The cobblestone streets and red-brick facades give it a character that the rest of the city lacks, and it has the densest concentration of independent restaurants, bars, galleries, and boutiques anywhere in Nebraska.

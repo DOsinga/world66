@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Grays Harbor Lighthouse, completed in 1898, is the tallest lighthouse in Washington State at 107 feet. It stands in Westport, just across Grays Harbor from Ocean Shores, and was listed on the National Register of Historic Places in 1992. During its operational years, the light was visible 18 miles out to sea — far enough to warn ships clear of the treacherous bar at the harbor entrance, where dozens of vessels wrecked in the 19th and early 20th centuries.
+score: 5.8
 ---
 
 The Grays Harbor Lighthouse stands in Westport, just across the harbor from Ocean Shores — a short drive or a ferry ride away. It is the tallest lighthouse in Washington at 107 feet, an octagonal brick tower completed in 1898 and still operational. The lighthouse and surrounding Westport Light State Park are open to visitors, and you can climb the 135 steps to the top during summer open days for a panoramic view of the harbor, the Pacific, and the Olympic Mountains on a clear day.

@@ -12,6 +12,7 @@ story: >
   1881, two months after finishing The Brothers Karamazov. He wrote the novel at the small wooden
   writing desk that is still in the study. The clock in his study has been stopped at 8:38 pm, the
   moment of his death.
+score: 8.2
 ---
 
 The Dostoevsky Memorial Apartment on Kuznechny Lane is the last home of Fyodor Dostoevsky, who lived here from 1878 until his death in 1881, and where he wrote The Brothers Karamazov. The apartment has been restored to look exactly as it did during his residence — the family's furniture, his clock stopped at the moment of his death, his cigarette case, even the hat and cane by the door.

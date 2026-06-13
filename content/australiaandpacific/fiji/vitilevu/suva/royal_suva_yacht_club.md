@@ -8,6 +8,7 @@ tags:
   - sight
   - walu_bay
 neighbourhood: Walu Bay
+score: 6.1
 ---
 
 Founded in 1932 and granted royal status by Queen Elizabeth II, the yacht club sits on a small headland at Walu Bay, north of the centre. It is the main yachting club in the country and the registration point for cruising yachts arriving in Fiji.

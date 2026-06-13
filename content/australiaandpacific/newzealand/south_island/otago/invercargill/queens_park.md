@@ -8,6 +8,7 @@ tags:
 snippet: "80-hectare Victorian park at the heart of the city, with gardens, wildlife, and a golf course"
 latitude: -46.4016
 longitude: 168.356
+score: 6.9
 ---
 
 Queens Park was laid out in 1876 as part of the original city plan, and it remains the green heart of Invercargill. The 80 hectares include formal rose gardens, a Japanese garden, an aviary, a small deer park, a band rotunda, and enough sports grounds to keep a small town occupied. Entry is free throughout.

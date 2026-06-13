@@ -8,6 +8,7 @@ tags:
 latitude: 5.8483
 longitude: -0.1763
 snippet: "Ghana's oldest botanical gardens in the Akwapim hills, noticeably cooler than the city"
+score: 6.9
 ---
 
 Ghana's oldest botanical gardens, established by the British in 1890 on the Akwapim ridge about 45 minutes' drive north of Accra. The altitude — around 450 metres — makes Aburi noticeably cooler than the coast, sometimes by five degrees or more, and the gardens are a genuine relief after days in Accra's heat. Mature tropical trees, a small arboretum, well-kept lawns, and views down the escarpment toward the plain and the distant coast make this one of the most pleasant half-days available from the city.

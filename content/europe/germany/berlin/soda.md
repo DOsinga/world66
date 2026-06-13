@@ -11,6 +11,7 @@ tags:
 - prenzlauerberg
 title: Soda
 type: poi
+score: 6.1
 ---
 
 A bar and restaurant inside the Kulturbrauerei complex in Prenzlauer Berg. The space has a 1920s salon feel and doubles as a club on weekends. It's a solid spot for a drink or a meal before exploring the rest of the Kulturbrauerei's courtyard venues.

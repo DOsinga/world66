@@ -9,6 +9,7 @@ longitude: -71.1494
 snippet: 83-metre waterfall taller than Niagara, 15 minutes east of the city
 sources:
   - https://en.wikipedia.org/wiki/Montmorency_Falls
+score: 8.5
 ---
 
 At 83 metres, Montmorency Falls is 30 metres taller than Niagara — a fact locals enjoy mentioning. The falls drop in a single sheer curtain from the plateau above into the St. Lawrence, visible from across the river and from the Île d'Orléans. Parc de la Chute-Montmorency, 15 minutes east of the Old City, has a cable car, a suspension footbridge directly above the falls, and a network of stairs and pathways giving multiple viewpoints.

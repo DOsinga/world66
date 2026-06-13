@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.7790
 longitude: -78.6420
+score: 6.8
 ---
 
 The Roast Grill has been serving hot dogs and nothing else since 1940 — a tiny, smoke-filled diner a few blocks from the Capitol where the menu has not changed in eight decades. The hot dogs are grilled on an ancient flat-top, served on plain buns, and topped with house-made chili, onions, and mustard. That is the extent of it.

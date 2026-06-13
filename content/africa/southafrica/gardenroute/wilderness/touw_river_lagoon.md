@@ -7,6 +7,7 @@ longitude: 22.5959
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 The Touw River cuts through the dunes to reach the sea at the western end of Wilderness Beach. Behind the dune ridge the river widens into a calm tannin-coloured lagoon, sheltered from the ocean and ideal for canoes, paddleboards and small dinghies. The estuary mouth opens and closes seasonally depending on rainfall and sandbar dynamics.

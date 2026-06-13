@@ -6,6 +6,7 @@ longitude: 21.6261
 tags:
   - bars_and_cafes
   - cafe
+score: 5.8
 ---
 
 A long-established cafe just off Piac utca, Incognito does the things a Central European cafe should do: proper espresso, decent cakes, a wide selection of teas, and a terrace big enough to spend an hour reading the paper. The clientele tilts older during the week and younger at weekends. The cheesecake is locally famous.

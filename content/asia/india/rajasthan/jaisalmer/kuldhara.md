@@ -14,6 +14,7 @@ story: >
   powerful minister Salim Singh demanded the headman's daughter in marriage and
   threatened the village with ruin if refused. Whether or not the curse works, the
   site remains uninhabited.
+score: 7.3
 ---
 
 Kuldhara is an abandoned village about 18 kilometres southwest of Jaisalmer. The Paliwal Brahmin community that built it in the 13th century lived here for over five centuries before leaving, apparently overnight, in 1825. They left their houses intact, their wells open, and their village plan visible — and have never returned. The ruins are well preserved in the dry desert climate and the Archaeological Survey of India has done some restoration work on the more prominent structures.

@@ -6,6 +6,7 @@ longitude: 6.6256
 tags:
 - things_to_do
 - architecture
+score: 7.2
 ---
 
 One of the largest mosques in the world when it was completed in 1994, with space for 15,000 worshippers. The architecture blends traditional Islamic forms with modern scale — twin minarets rise 107 metres, and the main prayer hall is covered by a massive dome. The mosque also houses an Islamic university.

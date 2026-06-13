@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.8
 ---
 
 Misol-Ha is a single-drop waterfall that plunges about 35 metres into a wide, dark pool ringed by tropical vegetation. It is a more intimate stop than Agua Azul — fewer crowds, a cooler microclimate, and a remarkable extra: a path behind the curtain of falling water leads into a shallow cave that stretches back into the hillside. The noise and spray inside are extraordinary.

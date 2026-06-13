@@ -9,6 +9,7 @@ tags:
   - miraflores
 neighbourhood: Miraflores
 snippet: Cliff-top park with Pacific views and paragliders
+score: 7.7
 ---
 
 The **Malecón** is the 10-kilometre clifftop esplanade that runs along the edge of Miraflores, looking down onto the Pacific from a height of 70 metres. It is a chain of small parks linked by a continuous pedestrian and cycle path: **Parque del Amor** with its famous Tuesday-the-statue *El Beso* and Gaudí-style mosaic walls; **Parque Salazar** with the Larcomar shopping centre cut into the cliff face below; and the **Parque Raimondi** where the paragliders launch.

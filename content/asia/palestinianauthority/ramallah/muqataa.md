@@ -14,6 +14,7 @@ story: >
   speculation about the cause of death. In 2012, Swiss scientists found elevated levels of polonium-210
   on his personal effects; his body was subsequently exhumed for further testing, though the results
   were inconclusive. The question of whether he was poisoned remains officially unanswered.
+score: 6.3
 ---
 
 The Muqata'a is the compound that served as Yasser Arafat's headquarters during the Second Intifada, when Israeli forces besieged it and confined him inside from 2001 until his evacuation for medical treatment in 2004. He is buried here in a simple white marble tomb in an open courtyard, and the site has become the main visitor attraction in Ramallah.

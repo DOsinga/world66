@@ -14,6 +14,7 @@ story: >
   than Yellowstone by three decades. Finland was then a Grand Duchy of
   the Russian Empire, and the ridge had already become a fashionable
   destination for the Saint Petersburg elite.
+score: 9.2
 ---
 
 The ridge — harju in Finnish — is a glacial esker that runs for about seven kilometres between two lakes, in places narrowing to a strip wide enough only for the road and a footpath. Pines grow straight out of the gravel and the water is visible on both sides at once. It is the kind of landscape Finns put on banknotes; in fact, an image of Punkaharju did appear on the old 100-mark note before the euro.

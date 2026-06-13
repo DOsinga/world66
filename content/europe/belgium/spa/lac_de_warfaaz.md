@@ -7,6 +7,7 @@ tags:
 latitude: 50.5028
 longitude: 5.8894
 snippet: "A small artificial lake on the edge of town, with a promenade, cafes, and pedalo hire"
+score: 6.2
 ---
 
 The Lac de Warfaaz is a small artificial lake about two kilometres from the town centre, created in the 19th century as part of the resort improvements. The shores are lined with horse chestnut trees and there is a paved promenade popular with walkers and cyclists. A small cluster of restaurants and cafes on the south shore makes it a pleasant stop.

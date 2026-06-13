@@ -13,6 +13,7 @@ story: >
   paraphernalia, and the regalia of the *bagikilya* — the powerful dance societies that
   defined village social life. The collection is now considered the most important
   record of Sukuma material culture in existence.
+score: 8.1
 ---
 
 The Sukuma are Tanzania's largest ethnic group, and Bujora — about 15 km east of Mwanza along the Musoma road — is the centre of their cultural heritage work. The museum sits on a hilltop within a sprawling Catholic mission, the buildings designed as enlarged versions of traditional Sukuma round houses, with thatched roofs and clay-painted walls.

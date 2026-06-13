@@ -8,6 +8,7 @@ latitude: 55.7694
 longitude: -2.0030
 story: >
   The building that houses the Loovre was constructed as a public convenience in the Victorian era, when Berwick was prosperous enough to invest in quality civic infrastructure. Victorian public toilets were often built to a surprisingly high standard — they needed to be, given that convincing a sceptical public to use them required demonstrating that the facilities were clean and respectable. This particular example was ornate enough to survive long after its original function became obsolete.
+score: 5.3
 ---
 
 The Loovre is a small guesthouse and curiosity occupying one of the few surviving Victorian-era public toilet buildings in the north of England. The ornate structure, near the town centre, has been converted into accommodation — a fact that gives it a certain notoriety in lists of unusual places to stay.

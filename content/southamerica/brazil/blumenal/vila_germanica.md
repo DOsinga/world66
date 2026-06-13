@@ -13,6 +13,7 @@ story: >
   cultural theatre. During the 10 months of the year when the festival is not
   running, locals come here for the restaurants, the souvenir shops, and the
   quietly surreal experience of a Bavarian marketplace in subtropical Brazil.
+score: 8.1
 ---
 
 Vila Germânica is the center of Blumenau's Oktoberfest — a purpose-built park designed as a Bavarian village, complete with half-timbered buildings, beer halls, and folkloric architecture. During the festival in October it holds tens of thousands of people; outside festival season it functions as a pleasant park with restaurants, craft shops, and a year-round German atmosphere.

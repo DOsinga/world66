@@ -12,6 +12,7 @@ story: >
   and from there to the global telegraph network. The cable house where it
   came ashore still stands in town. The beach itself was largely ignored by
   planners and tourists until the 1980s; it is now Broome's defining image.
+score: 9.0
 ---
 
 **Cable Beach** is a 22-kilometre stretch of white sand facing the Indian Ocean, consistently ranked among the best beaches in Australia. The sand is fine and pale, the water clear and very blue, and the sunsets — with the sun dropping into the ocean at the western end of the beach — are spectacular. It is Broome's defining attraction and the reason most visitors come.

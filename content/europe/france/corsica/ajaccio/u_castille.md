@@ -8,6 +8,7 @@ tags:
   - bar
 title: U Castille
 type: poi
+score: 5.4
 ---
 
 A straightforward bar on the Boulevard Danielle Casanova, a short walk from the citadel and the old port. Tables face the waterfront and the evening foot traffic. The thing to order is Cap Corse — the bittersweet aperitif made from quinine and grape must that Corsicans drink before dinner — either straight over ice or lengthened with sparkling water. Good for the aperitif hour before heading to the restaurants of the Borgo.

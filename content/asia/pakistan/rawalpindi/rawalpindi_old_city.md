@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Rawalpindi Old City
 type: poi
+score: 8.4
 ---
 The old city of Rawalpindi — the pre-British, pre-partition town that predates the cantonment grid by centuries — is a maze of narrow lanes, crumbling havelis, and architectural fragments that most visitors miss entirely. The area around Raja Bazaar and Kashmiri Bazaar contains structures that date to the Sikh period and earlier: carved wooden facades, projecting balconies, internal courtyards now subdivided into workshops and storage rooms.
 

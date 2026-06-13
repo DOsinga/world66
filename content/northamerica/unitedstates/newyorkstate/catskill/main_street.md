@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 42.2175
 longitude: -73.8647
+score: 7.2
 ---
 
 Catskill's Main Street has undergone a quiet transformation over the past decade as weekenders from New York City discovered the village. The result is a short commercial strip with an appealing mix of working art galleries, antique dealers, independent bookshops, and a handful of good restaurants and cafes. It has not been overrun — the scale is human and the prices remain reasonable by Hudson Valley standards.

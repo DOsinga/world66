@@ -8,6 +8,7 @@ snippet: The valley's most picturesque town, with a historic main street and goo
 tags:
 - things_to_do
 - day_trips
+score: 8.3
 ---
 
 St. Helena is the most picturesque of the Napa Valley wine towns, with a stone main street of late-nineteenth-century buildings, the Culinary Institute of America's Greystone campus on the northern edge, and a number of significant wineries (Beringer, Charles Krug, Hall) within easy reach. The Silverado Museum is dedicated to Robert Louis Stevenson, who honeymooned in nearby Calistoga.

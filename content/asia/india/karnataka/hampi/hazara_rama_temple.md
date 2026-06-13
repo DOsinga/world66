@@ -13,6 +13,7 @@ story: >
   continuous narrative. It was built as the private royal chapel of
   the Vijayanagara kings, which is why it is so richly decorated while
   remaining compact in scale.
+score: 8.6
 ---
 
 The private royal chapel of the Vijayanagara kings, built by Krishnadevaraya in the 15th century. It sits between the royal enclosure and the zenana enclosure — the heart of the imperial precinct — and was used exclusively by the king and court rather than the general public. The name means "thousand Ramas," a reference to the repeated Rama figures carved across the walls.

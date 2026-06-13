@@ -8,6 +8,7 @@ tags:
 latitude: 41.0707
 longitude: -81.5421
 address: 514 Diagonal Road
+score: 6.8
 ---
 
 John Brown — the abolitionist whose 1859 raid on Harpers Ferry helped ignite the American Civil War — lived in Akron from 1844 to 1854, working as a wool merchant in a partnership with Akron founder Simon Perkins. The house he occupied, across Diagonal Road from the Perkins Stone Mansion, survives and is open as a small museum run by the Summit County Historical Society.

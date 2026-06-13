@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "At 284 feet 6 inches the monument is 15 feet shorter than the Statue of Liberty — a deliberate restraint, locals say, to avoid offending New York. The interior holds the small Colonel Eli Lilly Civil War Museum, named for the founder of the pharmaceutical company who served as a Union officer."
+score: 8.1
 ---
 
 The neoclassical limestone tower dominates Monument Circle, the geographical heart of Indianapolis. Designed by German architect Bruno Schmitz and dedicated in 1902, it commemorates Indiana's veterans of the Civil War, the Mexican–American War, the War of 1812, the Revolutionary War, and the Spanish–American War. The bronze and sculpture work — including the female "Victory" at the top — is unusually ambitious for a Midwestern memorial of its era.

@@ -8,6 +8,7 @@ latitude: 53.7144
 longitude: -2.0962
 sources:
   - https://en.wikipedia.org/wiki/Todmorden_Markets
+score: 7.0
 ---
 
 Todmorden's market is one of the more genuine survivors of the traditional northern market town. The indoor Public Market Hall and the open-air market to its front operate on Wednesday and Saturday, filling the area around the town hall with stalls selling produce, clothing, household goods, and local food. It has resisted the homogenisation that has overtaken many similar markets and still has the character of a working market serving local people.

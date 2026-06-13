@@ -12,6 +12,7 @@ story: >
   in river transport on the Kama, then spent it on civic projects and
   philanthropic causes. The house is itself a fine example of provincial
   Russian merchant architecture and worth a look even if you skip the exhibits.
+score: 7.4
 ---
 
 The Perm Regional Museum (Permsky Kraevedchesky Muzey) is the main historical and natural history museum of the region. It covers the natural environment of the Perm Krai from the geological period that bears the city's name to the present, with extensive exhibits on the region's animal life, pre-Slavic peoples, early Russian settlement, and industrial development. The Permian period exhibits — the geological era named after the city, roughly 299 to 252 million years ago — are genuinely interesting if you have any interest in deep history.

@@ -9,6 +9,7 @@ latitude: -31.8876
 longitude: 116.7682
 sources:
   - https://en.wikipedia.org/wiki/York,_Western_Australia
+score: 7.6
 ---
 
 The Residency Museum occupies one of the oldest surviving buildings in York — the former residence of the colonial magistrate and resident, built in the 1840s and enlarged over subsequent decades. Administered by the York Museum Foundation, it holds collections covering the town's social history from first European settlement through to the early 20th century: farming equipment, domestic life, Indigenous Nyoongar history, and the stories of the families who built York.

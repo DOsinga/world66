@@ -9,6 +9,7 @@ tags:
 latitude: 35.624
 longitude: -96.040
 snippet: "Small reservoir west of town with fishing and walking"
+score: 5.7
 ---
 
 Okmulgee Lake is a small reservoir about 10 km west of the centre, built in the 1930s as a Works Progress Administration project and now run as a state park with the adjacent Dripping Springs Lake. It is the standard local escape for an afternoon outdoors — fishing for catfish, bass, and crappie; picnic tables under blackjack oaks; and a few short walking trails along the shoreline.

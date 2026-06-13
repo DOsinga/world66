@@ -9,6 +9,7 @@ tags:
   - lake
 title: Jenny Lake
 type: poi
+score: 8.9
 ---
 
 Jenny Lake is the park's most beloved lake, and for good reason. The water sits tight against the mountains, with trails, boat shuttles, and views that make the Tetons feel close enough to touch.

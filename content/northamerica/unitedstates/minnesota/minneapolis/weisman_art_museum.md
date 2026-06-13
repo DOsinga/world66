@@ -9,6 +9,7 @@ latitude: 44.9737
 longitude: -93.2354
 story: >
   Frank Gehry received the commission in 1990, five years before the Guggenheim Bilbao made him internationally famous. When the Weisman opened in 1993, it was the most distinctive building in Minneapolis and a preview of what Gehry's titanium and stainless steel vocabulary would look like when fully developed. A major expansion in 2011 nearly doubled the gallery space and added a new stainless steel wing.
+score: 8.3
 ---
 
 The Frederick R. Weisman Art Museum on the University of Minnesota campus is a Frank Gehry building from 1993 — a stainless steel sculptural form perched on a bluff above the Mississippi River, recognisable from the Washington Avenue Bridge as one of the more dramatic buildings in the American Midwest. The building is free to enter and worth visiting for the architecture alone.

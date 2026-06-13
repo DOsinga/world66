@@ -8,6 +8,7 @@ latitude: 38.7163
 longitude: -75.0756
 story: >
   The Thrasher family has been frying potatoes on the Rehoboth boardwalk since 1929. The rules are firm: vinegar only, no ketchup. Requesting ketchup is considered by regulars to be a serious breach of local protocol, and the staff will not provide it. The potato variety used has reportedly remained the same since the 1940s.
+score: 7.2
 ---
 
 Thrasher's French Fries has occupied a spot on the Rehoboth boardwalk since 1929, and it may be the most serious business in town. The fries are cut thick from whole potatoes, fried in hot oil, and served in paper cups or cardboard buckets with vinegar and seasoning salt. Ketchup is not offered and, according to long-standing policy, will not be provided on request.

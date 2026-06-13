@@ -10,6 +10,7 @@ story: >
   The festival began in 1966 as a way to preserve Slavonian folk traditions that were disappearing under Yugoslav modernisation. It has grown into one of the largest folk festivals in southeastern Europe, drawing tens of thousands of visitors and dozens of folk ensembles from Croatia and neighbouring countries each September.
 sources:
   - https://en.wikipedia.org/wiki/Vinkovci
+score: 8.3
 ---
 
 The Vinkovačke Jeseni — Vinkovci Autumn — is the town's defining event and one of the premier folk festivals in southeastern Europe. Held each September, it gathers folk ensembles from across Slavonia, the Baranya, Posavina, and neighbouring countries for five days of music, dance, costume parades, and craft displays in the town centre.

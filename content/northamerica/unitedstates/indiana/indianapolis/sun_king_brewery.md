@@ -6,6 +6,7 @@ longitude: -86.1456
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 The largest craft brewery in Indianapolis, founded in 2009 in a downtown warehouse just east of Mass Ave. The Sunlight Cream Ale and Wee Mac Scottish Ale are the year-round flagships; the brewery rotates dozens of seasonals and one-offs. The taproom has 20+ beers on draught plus a small food menu and rotating food trucks.

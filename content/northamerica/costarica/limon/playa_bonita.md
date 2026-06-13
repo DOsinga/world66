@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 10.0078
 longitude: -83.0594
+score: 6.5
 ---
 
 Playa Bonita is the closest proper beach to Puerto Limón, about 4 km north-west of the town centre on the road towards Moín. A small bay curves between two rocky headlands, the sand is dark and coarse, and the swell is strong enough to draw the city's surfers when the wind is right. There are simple sodas and changing rooms behind the beach.

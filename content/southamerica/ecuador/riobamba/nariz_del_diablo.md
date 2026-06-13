@@ -12,6 +12,7 @@ story: >
   for the "impossible" task. Locals took to calling it "the railway built on
   bones." The engineer in charge, Archer Harman, reportedly said the slope was
   so difficult that not even the devil could descend it — hence the name.
+score: 8.5
 ---
 
 The Nariz del Diablo — Devil's Nose — is a sheer rock face in the Andes south of Riobamba where engineers in the early 1900s faced an apparently insoluble problem: how to descend a near-vertical mountain wall with a railway. Their solution was a system of switchbacks in which the train goes forward to one zigzag, reverses to the next, and so on down the slope — a breathtaking sequence that takes the track from the high Andean plateau down into the subtropical Chanchan River valley. The descent covers around 500 metres of altitude in just a few kilometres of track.

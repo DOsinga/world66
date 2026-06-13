@@ -9,6 +9,7 @@ tags:
 neighbourhood: Puy-Saint-Front
 latitude: 45.1839
 longitude: 0.7158
+score: 5.8
 ---
 
 The city's town hall occupies the Hôtel de Lagrange-Chancel, a 17th-century mansion absorbed into the municipal block in the 19th century. The carved doorway and inner courtyard are the parts to look for — visitors can pass into the courtyard during working hours. The façade gives onto the place de l'Hôtel-de-Ville, a useful orientation point at the top of the old town.

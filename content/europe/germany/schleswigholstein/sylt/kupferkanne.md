@@ -8,6 +8,7 @@ tags:
   - cafe
   - kampen
 snippet: An institution of a cafe on the heath above the Rotes Kliff, in a converted WWII bunker
+score: 6.7
 ---
 
 The Kupferkanne is set in a half-buried Wehrmacht command bunker on the heath behind the Rotes Kliff at Kampen — the artist Günter Rieck took the brutalist concrete shell over in 1949 and transformed it into something genuinely strange and very welcoming. The interior is low-ceilinged, lit by candles, and full of locally-made copper kettles (hence the name); the terrace outside has wide views across the heath and dunes to the sea.

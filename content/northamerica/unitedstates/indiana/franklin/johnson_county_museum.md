@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.4820
 longitude: -86.1295
+score: 5.9
 ---
 
 The Johnson County Museum of History occupies one of the historic buildings near the courthouse square and covers the county's development from pre-settlement Indigenous occupation through the 20th century. Exhibits touch on the county's role in Indiana agriculture, the railroad era that made Franklin a market hub, and local figures who shaped the region.

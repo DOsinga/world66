@@ -7,6 +7,7 @@ tags:
 - sight
 title: Punta de Tarifa
 type: poi
+score: 7.2
 ---
 
 A long stone causeway leads south from the harbour to a small rocky island, the Isla de las Palomas. Crossing it puts you at the most southerly point of continental Europe — a fact marked by a low plaque and the abrupt change in colour where the green Atlantic meets the deeper blue of the Mediterranean. On a clear morning the Moroccan coast looks close enough to swim to; in practice the strait is 14 kilometres wide here and the current ferocious.

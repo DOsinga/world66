@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 18.4086
 longitude: -77.1044
+score: 7.2
 ---
 
 Coyaba River Garden is a small botanical garden and museum at Shaw Park, set around the Coyaba River and its waterfalls. The grounds are beautifully maintained, with palms, ferns, bromeliads, and flowering trees framing the river pools. The museum section covers Jamaican history from the Taino people through the Spanish and British colonial periods to independence, with exhibits that are modest but informative.

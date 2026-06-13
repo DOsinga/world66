@@ -7,6 +7,7 @@ snippet: The medieval gate where the famous portico to San Luca begins
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 Porta Saragozza is one of ten surviving gates from the third ring of medieval walls that once enclosed Bologna. The crenellated brick structure has been restored several times — the present neo-Gothic appearance dates from 1859 — but the spot itself has been a gateway since the thirteenth century.

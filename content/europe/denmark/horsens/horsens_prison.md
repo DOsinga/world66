@@ -7,6 +7,7 @@ tags:
 - museum
 title: Horsens State Prison (Fængslet)
 type: poi
+score: 9.0
 ---
 
 The Horsens State Prison — known simply as Fængslet (The Prison) — is an imposing Neo-Gothic fortress built in 1853 and modelled on Pentonville Prison in London. It operated as a maximum-security prison until 2006, holding some of Denmark's most notorious criminals. The complex of towers, cell blocks, and high stone walls occupies a full city block in the town centre and is impossible to miss.

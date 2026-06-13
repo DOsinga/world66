@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 35.5950
 longitude: 45.5100
+score: 7.2
 ---
 
 Azmar Mountain rises directly behind Sulaymaniyah to the northeast, its forested slopes visible from much of the city. The road to the summit (or near it — the road ends at a communications installation short of the top) is one of the most popular escapes from the urban heat, especially in summer when families drive up to eat, drink tea, and enjoy the cooler air under the trees.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.5286
 longitude: -93.6444
+score: 5.8
 ---
 
 A surprise for an old riverboat town: Bossier City is now home to a respected cybersecurity research campus. The Cyber Innovation Center sits in the National Cyber Research Park alongside Bossier Parish Community College and a growing cluster of defence contractors and tech firms, drawn here by Barksdale's strategic importance and Louisiana tax incentives.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 neighbourhood: Centro Histórico
+score: 8.0
 ---
 
 A short heritage tram line runs through the historic centre of Santos, using restored 1920s wooden carriages of the kind that once made up the city's electric network. The route takes about 30 minutes and loops past the Bolsa do Café, the cathedral, the Casa do Café, the Estação do Valongo, and a handful of restored merchant houses.

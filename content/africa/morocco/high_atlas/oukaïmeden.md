@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2
 longitude: -7.8667
+score: 6.9
 ---
 
 Oukaïmeden is Africa's highest ski resort, sitting at 2,650 metres in the High Atlas about 75km south of Marrakech. The season runs roughly from December to March, snow permitting. The resort has a handful of lifts, including a chairlift reaching 3,258m, and a dozen or so runs of varying difficulty. For European skiers used to the Alps, the infrastructure feels basic, but the experience of skiing with a view of the Moroccan Atlas and knowing you're skiing in Africa is genuinely unusual.

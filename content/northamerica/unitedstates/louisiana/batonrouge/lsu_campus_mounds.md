@@ -8,6 +8,7 @@ tags:
 latitude: 30.4128
 longitude: -91.1785
 story: The two earthwork mounds on the LSU campus were built around 11,000 years ago, making them among the oldest known human-constructed structures in the Americas — older than Stonehenge, older than the Egyptian pyramids. Archaeologists believe they were built by hunter-gatherers rather than settled agricultural communities, which challenges long-held assumptions about who builds monumental earthworks.
+score: 7.7
 ---
 
 Two grassy mounds on the LSU campus are among the oldest human-made structures in North America, constructed roughly 11,000 years ago by Archaic-period hunter-gatherers. The mounds are about 8 metres high and were clearly intentional constructions, built in stages over centuries, though their exact purpose remains debated — ritual site, gathering point, or territorial marker.

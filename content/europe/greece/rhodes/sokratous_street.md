@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.4432
 longitude: 28.2278
+score: 6.1
 ---
 
 Sokratous Street is the commercial spine of the Old Town, running east from the Palace of the Grand Master toward the harbour gates. During the medieval period it marked the rough boundary between the Latin Castello to the north and the Greek and Jewish Chora to the south. Today it is the main tourist bazaar, lined with jewellery shops, leather goods, ceramics, and the inevitable souvenir stalls, but the buildings are genuine medieval structures adapted over centuries of use.

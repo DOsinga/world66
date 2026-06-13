@@ -8,6 +8,7 @@ snippet: Downtown four-theatre arts complex, opened 2015, with Brock University'
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 The FirstOntario Performing Arts Centre opened in 2015 as the anchor of downtown St. Catharines' regeneration. The complex holds four performance spaces — the 775-seat Partridge Hall, a recital hall, a cinema, and a black-box dance studio — and shares the building with the Marilyn I. Walker School of Fine and Performing Arts at Brock University.

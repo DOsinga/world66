@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 24.8011
 longitude: 113.5927
+score: 6.9
 ---
 
 The older parts of Shaoguan, particularly the streets near the confluence of the Zhen and Wu rivers, retain a texture that distinguishes this Hakka-inflected city from coastal Guangdong. The architecture is northern Guangdong vernacular — narrower shophouses, less elaborate ceramic roof ornaments, more use of stone — and the street life moves at a pace that feels genuinely unhurried by comparison with the Pearl River Delta cities.

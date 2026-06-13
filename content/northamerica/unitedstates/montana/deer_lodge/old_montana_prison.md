@@ -10,6 +10,7 @@ latitude: 46.3970
 longitude: -112.7330
 story: >
   The prison held some of Montana's most notorious criminals and witnessed one of its bloodiest episodes: the 1959 riot in which prisoners took guards hostage and an officer was killed before the National Guard was called in to retake the cell block. Damage from the riot is still visible in the cell tiers.
+score: 8.3
 ---
 
 The Old Montana Prison operated as a state penitentiary from 1871 to 1979, when overcrowding and a series of violent incidents led to the construction of a modern facility outside town. The old cellblock, guard towers and perimeter walls have been preserved as a museum complex at the south end of Main Street and form the main reason most travellers stop in Deer Lodge.

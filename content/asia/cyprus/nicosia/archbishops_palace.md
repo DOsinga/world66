@@ -8,6 +8,7 @@ latitude: 35.173
 longitude: 33.3675
 sources:
   - https://en.wikipedia.org/wiki/Archbishop%27s_Palace,_Nicosia
+score: 7.3
 ---
 
 The Archbishop's Palace is the headquarters of the Church of Cyprus, one of the oldest autocephalous churches in the Christian world. The current building, completed in 1960, is a grand Venetian-Gothic pastiche that houses both the working offices of the Archbishop and the Byzantine Museum. A large bronze statue of Archbishop Makarios III — the first President of Cyprus — stands in the courtyard, a striking monument to the man who led the independence movement and dominated Cypriot politics for two decades.

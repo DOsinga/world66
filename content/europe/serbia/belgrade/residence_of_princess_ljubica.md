@@ -13,6 +13,7 @@ story: >
   She lived instead in a more secluded residence nearby, and the palace passed
   through several uses — schoolhouse, teachers' college, eventually museum — before
   being restored to its original 19th-century appearance.
+score: 7.9
 ---
 
 The Residence of Princess Ljubica is a handsome Balkan Baroque townhouse built in 1831 for the wife of Prince Miloš Obrenović, ruler of the newly autonomous Serbian Principality. The palace — a whitewashed two-storey building in the old town — blends Ottoman architectural elements with the emerging European tastes of 19th-century Belgrade, and is one of the best-preserved examples of this transitional style in the city.

@@ -9,6 +9,7 @@ story: For 700 years Geel families have taken people with mental illness into th
   homes as boarders, sometimes for life. At its 1938 peak the system housed 3,800
   patients in private homes; the practice continues today, though on a much smaller
   scale and within a modern medical framework.
+score: 7.8
 ---
 
 The museum of Geel's tradition of community psychiatric care, housed in the former Sint-Elisabeth Hospital. Permanent displays cover the medieval pilgrimage, the development of the boarding system from the fourteenth century onward, the role of the religious orders, and the modern medical-social framework. Old patient records, photographs of the boarders and their host families, and the actual rooms in which patients were assessed give the story unusual immediacy.

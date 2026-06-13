@@ -7,6 +7,7 @@ tags:
   - heritage
 latitude: -31.957035
 longitude: 115.861443
+score: 6.6
 ---
 
 Government House is the official residence of the Governor of Western Australia, a graceful Gothic Revival mansion set behind iron gates on St George's Terrace. Built in stages between 1859 and 1864, it is the oldest surviving Government House in Australia still in use for its original purpose. The building takes its Gothic styling — pointed arches, castellated parapets — from the fashions of the era, and it sits in surprisingly generous grounds given that it is hemmed in by the CBD on all sides. The contrast between the delicate Victorian architecture and the surrounding office towers is one of the more striking visual juxtapositions in the city.

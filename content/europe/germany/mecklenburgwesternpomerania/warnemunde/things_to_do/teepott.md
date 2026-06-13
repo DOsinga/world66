@@ -1,6 +1,7 @@
 ---
 title: "Teepott"
 type: poi
+score: 7.6
 ---
 
 The Teepott stands immediately beside the lighthouse and is one of the most distinctive pieces of architecture on the German Baltic coast. Built in 1968 to a design by Ulrich Müther, it has a wavy concrete roof of hyperbolic paraboloid shells — a form that makes it look simultaneously like breaking waves and a swooping gull. The building was an engineering tour de force for its time, and Müther, who worked almost exclusively in East Germany, became internationally recognised for this type of thin-shell concrete construction.

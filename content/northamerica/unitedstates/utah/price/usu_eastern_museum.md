@@ -8,6 +8,7 @@ latitude: 39.5996
 longitude: -110.8081
 story: >
   The Utahraptor — the inspiration for the velociraptors in Jurassic Park, though far larger — was discovered in the cliffs of eastern Utah in 1991. The USU Eastern museum holds specimens from this animal, which stood nearly two metres tall and weighed around 500 kilograms. The Jurassic Park film had already been written when the Utahraptor was found, but the filmmakers retroactively noted that the real animal matched their outsized dinosaurs better than the actual velociraptor ever had.
+score: 8.1
 ---
 
 The USU Eastern Prehistoric Museum is one of the finest dinosaur museums in the American West, housed at Utah State University Eastern in downtown Price. The collection centres on specimens recovered from the remarkably productive fossil beds of the Colorado Plateau, and the depth of material here is genuinely impressive for a regional institution.

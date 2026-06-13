@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 7.2
 ---
 
 At the far western tip of Juist, where the dunes finally give way to salt-marsh and the Wadden Sea, stands the Domäne Bill — a former state farmstead built in 1898 to drain and reclaim the land at the western end of the island. The complex includes a long-roofed farmhouse, barns, and outbuildings, and is now used as a guest house and restaurant.

@@ -7,6 +7,7 @@ snippet: Small fishing and pleasure harbour at the northern tip of Langeland
 tags:
 - things_to_do
 - sight
+score: 6.2
 ---
 
 The harbour is the centre of village life. A protective stone mole shelters a basin used by working fishing boats, the local sailing club, and a steady trickle of visiting yachts crossing the Langelandsbælt strait. The car ferry to Spodsbjerg on Funen runs from a separate dock just to the south.

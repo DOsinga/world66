@@ -8,6 +8,7 @@ tags:
 address: "Via Francesco Barocci 57, Urbino"
 latitude: 43.7258
 longitude: 12.6346
+score: 8.0
 ---
 
 A few metres from the Oratorio di San Giovanni, this slightly later confraternity hall (founded 1500) houses an extraordinary work: a *Presepio* by Federico Brandani, completed around 1560. Brandani modelled fourteen near-life-size terracotta figures of the Holy Family, shepherds, and the magi, set in a rock grotto carved into the wall behind the altar.

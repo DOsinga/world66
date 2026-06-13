@@ -5,6 +5,7 @@ snippet: Long-established restaurant on the bazaar lane, with a vine-covered cou
 tags: [eating_out, restaurant, bosnian]
 latitude: 43.3382
 longitude: 17.8155
+score: 6.3
 ---
 
 Šadrvan is one of the oldest tourist-facing restaurants in Mostar and one of the easiest to recommend if you are new to Bosnian food. The courtyard sits under grapevines and the staff wear traditional dress, which can feel staged, but the kitchen takes the food seriously.

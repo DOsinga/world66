@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 18.7548
 longitude: 73.4112
+score: 4.1
 ---
 
 For alcohol in Lonavala, the resort hotels are effectively the only option. **Della Resorts** and **Fariyas Resort** both have bars serving beer, spirits, and cocktails, primarily to their own guests but generally accessible to visitors eating in the hotel restaurant. **Rhythm Lonavala** follows the same pattern.

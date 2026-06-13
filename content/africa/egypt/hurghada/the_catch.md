@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: The Catch
 type: poi
+score: 5.6
 ---
 
 A seafood restaurant on the Corniche with some of the more creative fish dishes in town. The menu moves beyond standard grilled fish to well-seasoned preparations with local herbs and spices.

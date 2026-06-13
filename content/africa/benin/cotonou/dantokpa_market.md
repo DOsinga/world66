@@ -11,6 +11,7 @@ story: >
   associated with wealth, while "tokpa" means lagoon. The market was deliberately
   built near the water for the god's protection, and traders still make offerings
   at shrines tucked between the stalls.
+score: 8.5
 ---
 
 Dantokpa — known locally simply as Tokpa — is widely considered the largest open-air market in West Africa, spreading across more than 20 hectares on the eastern bank of the Cotonou lagoon. Everything sold in Benin passes through here at some point: dried fish, bolts of wax-print fabric, motor parts, live animals, fetish medicines, and electronics.

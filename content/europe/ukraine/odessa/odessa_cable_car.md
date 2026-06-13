@@ -7,6 +7,7 @@ tags:
 - sight
 title: Odessa Cable Car
 type: poi
+score: 6.5
 ---
 
 Odessa sits on cliffs above the Black Sea, and the cable car (funikulyor) provides a pleasingly eccentric way to descend from the upper city to Otrada beach below. Built in the Soviet era, it still runs on its original gondolas and covers the 90-metre drop in a few minutes. The view from the car — over the sea, the beaches, and the freight port — is the best you will get of Odessa's relationship with the water.

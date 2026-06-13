@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Drakonjina_%C5%A1pilja
+score: 8.1
 ---
 
 A medieval rock chapel above the village of Murvica, carved out of a cliff and decorated with bas-reliefs that have puzzled scholars for centuries. The carvings include a dragon, a centaur, the Madonna, and figures that seem to blend Christian iconography with older pagan motifs — the best theory is that a 15th-century Glagolitic monk carved them, working through his own syncretism of competing beliefs.

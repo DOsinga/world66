@@ -6,6 +6,7 @@ longitude: 32.477527
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Better known to most visitors as Entebbe Zoo, the Uganda Wildlife Education Centre sits on the shore of Lake Victoria and functions as much as a rescue facility as a zoo. Many of its animals were confiscated from the illegal wildlife trade or rehabilitated after being orphaned.

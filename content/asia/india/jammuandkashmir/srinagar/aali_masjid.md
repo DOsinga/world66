@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.1017
 longitude: 74.8067
+score: 7.4
 ---
 
 The Idgah Masjid — used for the large outdoor congregational prayers of Eid — is one of Srinagar's most prominent mosques, located in the Idgah area north of the main old city. The mosque itself is a substantial structure, but the Idgah function — the vast open courtyard designed to hold the enormous Eid congregations — is what distinguishes it architecturally from the city's other mosques. On Eid ul-Fitr and Eid ul-Adha, tens of thousands of worshippers gather here.

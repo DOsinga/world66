@@ -6,6 +6,7 @@ longitude: -103.733
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The Days of '76 Museum, on the north side of town next to the rodeo grounds, holds one of the finest collections of horse-drawn vehicles in the West — more than fifty wagons, stagecoaches, freight wagons and carriages, including a Deadwood Stage that ran between here and Cheyenne. The collection grew out of the annual Days of '76 rodeo and parade, held every July since 1924, and is the museum's reason for existing.

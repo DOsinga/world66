@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "The borehole that feeds the spa was drilled in 1959 in a search for oil. The drillers struck no petroleum but hit hot, mineral-rich water at 2,022 metres — and Mosonmagyaróvár has been a spa town ever since."
+score: 7.4
 ---
 
 The thermal complex on the eastern side of town is the reason most foreign visitors stop in Mosonmagyaróvár. The water comes out of the ground at over 70°C and is classified among Europe's most medicinal — high in sulphate, calcium, and a long list of trace elements that the brochures love to enumerate. There are indoor and outdoor pools, sauna circuits, and dedicated therapy basins for back and joint complaints.

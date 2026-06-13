@@ -10,6 +10,7 @@ tags:
 - museum
 title: International Petroleum Museum and Exposition
 type: poi
+score: 8.4
 ---
 
 The International Petroleum Museum and Exposition commemorates the event that changed the global energy industry: the drilling of the world's first successful offshore oil well by Kerr-McGee on 14 November 1947, just off the coast of Morgan City. The museum traces the development of offshore oil technology from that first platform through the modern era of deepwater drilling.

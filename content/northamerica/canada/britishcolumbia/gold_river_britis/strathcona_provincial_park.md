@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "BC's oldest provincial park, with glacier-capped peaks, remote alpine lakes, and serious rock climbing"
+score: 8.6
 ---
 
 Strathcona Provincial Park surrounds Gold River and lines the approach road for most of the 80-kilometre drive from Campbell River. Established in 1911 as British Columbia's first provincial park, it covers nearly 250,000 hectares of mountains, glaciers, waterfalls, and old-growth forest at the centre of Vancouver Island. The highest point on the island, Golden Hinde at 2,195 metres, is within the park.

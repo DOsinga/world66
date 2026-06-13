@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Small zoo of Icelandic farm and native species, with a fairground for children
+score: 5.8
 ---
 
 Not a zoo of exotic animals, the Reykjavík Family Park and Zoo (Húsdýragarðurinn) collects the species of Iceland: sheep, cows, the small Icelandic horse, hens, pigs, reindeer, Arctic foxes, seals and a tank of cod and salmon from the bay. Attached is a small fairground with a Ferris wheel, bumper cars and a few simple rides.

@@ -9,6 +9,7 @@ tags:
 - sight
 - church
 story: "St. Michael's has changed denomination four times — Catholic, then Lutheran during the Reformation, briefly Unitarian, and finally Catholic again. Each shift left marks on the interior, from whitewashed Reformation walls later restored to repainted baroque altarpieces still visible today."
+score: 8.8
 ---
 
 The Gothic spire of St. Michael's rises 80 metres above Piața Unirii, the focal point of central Cluj. Construction began around 1316 and dragged on into the early 15th century; the steeple was added much later, in 1860, but it has become the city's visual signature. From a distance, the church looks like one tall finger pointing at the sky.

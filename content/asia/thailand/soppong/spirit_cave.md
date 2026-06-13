@@ -17,6 +17,7 @@ story: >
   remains controversial among archaeologists, but it made Spirit Cave one of
   the most discussed sites in Southeast Asian prehistory. Gorman's finds are
   now in the National Museum in Bangkok.
+score: 7.3
 ---
 
 Spirit Cave (Tham Phii Man in Thai) is an archaeological site in the hills north of Soppong that was excavated in the 1960s and produced evidence of some of the earliest known plant cultivation in Southeast Asia. The cave itself is a relatively modest rock shelter, but the stone tools, plant remains, and human bones found here transformed understanding of early agriculture and human settlement in the region.

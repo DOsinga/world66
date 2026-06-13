@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Bar Pinotxo
 type: poi
+score: 8.0
 ---
 
 Bar Pinotxo is the most celebrated breakfast and lunch counter inside La Boqueria market — a narrow bar with eight stools where Juanito Bayen and his family have been feeding Barcelona since 1940. The food is simple Catalan cooking of exceptional quality: garbanzos with salt cod, cuttlefish with chickpeas, fried eggs with asparagus, whatever is fresh from the stalls that morning.

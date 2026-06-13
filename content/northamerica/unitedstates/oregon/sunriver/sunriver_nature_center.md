@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.8851
 longitude: -121.4476
+score: 5.6
 ---
 
 The Sunriver Nature Center shares a campus with the Oregon Observatory and handles the daytime side of natural science education. The indoor exhibits focus on Central Oregon geology, native plants, birds of prey, and reptiles — nothing flashy, but solid and well-suited to families with young children.

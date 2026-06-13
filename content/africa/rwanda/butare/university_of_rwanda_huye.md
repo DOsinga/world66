@@ -8,6 +8,7 @@ latitude: -2.6161
 longitude: 29.7428
 sources:
   - https://en.wikipedia.org/wiki/National_University_of_Rwanda
+score: 6.9
 ---
 
 The University of Rwanda's Huye campus grew from the former National University of Rwanda, long the country's leading academic institution. It is not a formal tourist attraction, but it explains Butare's reputation as Rwanda's intellectual city.

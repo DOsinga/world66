@@ -7,6 +7,7 @@ price: Like the menu bar on your computer, the Menu Bar Cafe &
 title: Things to do
 type: poi
 url: www.interisland.net
+score: 2.0
 ---
 
 There are many things to do in Washington.

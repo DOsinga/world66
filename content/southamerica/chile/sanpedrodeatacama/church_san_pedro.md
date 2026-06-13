@@ -9,6 +9,7 @@ latitude: -22.9167
 longitude: -68.2000
 sources:
   - https://en.wikipedia.org/wiki/Church_of_San_Pedro_de_Atacama
+score: 7.4
 ---
 
 The Church of San Pedro de Atacama is one of the oldest and most distinctive churches in Chile. Built in stages from the 17th century onwards — with the earliest elements dating to around 1641 — it is a simple adobe structure that reflects the materials and techniques of the Atacameño builders who constructed it. The walls are thick whitewashed adobe, the roof is supported by cactus wood beams, and the belfry is a characteristic detached tower that catches the desert light beautifully in the evenings.

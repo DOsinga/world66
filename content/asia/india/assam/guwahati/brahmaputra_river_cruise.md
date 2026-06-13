@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1850
 longitude: 91.7400
+score: 5.7
 ---
 
 Evening sunset cruises on the Brahmaputra leave from Fancy Bazaar ghat (and a couple of other piers) — large flat-bottomed boats with two decks, music, snacks and a 90-minute loop downriver past Umananda Island. Operators include Alfresco Grand and Mahabaahu Cruise. Tickets run ₹500–₹1,500 depending on whether you want dinner included.

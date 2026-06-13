@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.7660
 longitude: 11.2460
+score: 8.2
 ---
 
 The south bank of the Arno — literally "beyond the Arno" — has a character distinct from the tourist-saturated north. The Oltrarno was historically the artisan quarter: goldsmiths, bookbinders, restorers, and upholsterers still have workshops here amid the wine bars and restaurants. The major sights (Palazzo Pitti, Boboli Gardens, Santa Felicita, Santo Spirito) are here, as is the most genuinely local neighbourhood life you'll find in the historic centre.

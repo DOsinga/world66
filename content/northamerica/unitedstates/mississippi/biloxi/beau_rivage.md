@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3924
 longitude: -88.8919
+score: 6.8
 ---
 
 The flagship of Biloxi's casino strip, Beau Rivage is a full MGM resort operation — 1,740 rooms, multiple restaurants, a spa, a pool, a marina, and a casino floor that keeps going when you think it has to end. It is the closest thing the Mississippi Gulf Coast has to a Las Vegas property, and it performs a similar function: drawing visitors who might otherwise have no reason to stop in Biloxi.

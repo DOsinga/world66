@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.2008
 longitude: 5.7948
+score: 5.3
 ---
 
 A 1976 bronze of Margaretha Zelle in dancer's pose stands on the Korfmakersstraat bridge, just over the canal from her childhood home at Grote Kerkstraat 28. Sculpted by Suze Boschma-Berkhout for the centenary of her birth, it shows Mata Hari as the public knew her — bare feet, draped scarves, one arm raised.

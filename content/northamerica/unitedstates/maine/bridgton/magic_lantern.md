@@ -13,6 +13,7 @@ story: >
   Goodman secured the worldwide premiere for the Magic Lantern — an astonishing
   coup for a small-town cinema in western Maine. The theater was also the first
   in Maine to install Dolby Stereo Surround sound.
+score: 7.1
 ---
 
 The Magic Lantern is a four-screen cinema on Main Street with a history stretching back to 1929. The original building — known by various names before Tom Goodman renamed it the Magic Lantern in 1977 — eventually succumbed to a sinkhole that caused sloping floors and cracked foundations, and was demolished in 2006. The current building reopened in 2008 with three screens that retain old-fashioned balconies, themed décor from different eras of Bridgton cinema history, and a fourth screen that doubles as a stage for live performances.

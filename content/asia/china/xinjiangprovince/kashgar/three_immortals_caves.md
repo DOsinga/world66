@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 39.5000
 longitude: 75.9200
+score: 7.7
 ---
 
 The Three Immortals Caves (San Xian Dong) are a set of Buddhist cave temples carved into the cliff face above the Qiakemaer River, about three kilometres north of the city centre. They were active during the Tang dynasty, when Buddhism was the dominant religion across the Tarim Basin before the Islamisation of the 10th and 11th centuries. The painted murals have largely faded or been damaged, but the caves themselves remain accessible and the setting — high on a crumbling loess cliff above the river valley — is dramatic.

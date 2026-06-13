@@ -8,6 +8,7 @@ latitude: 62.2339
 longitude: 25.7310
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Central_Finland
+score: 7.4
 ---
 
 The Museum of Central Finland (Keski-Suomen museo) sits beside the Alvar Aalto Museum, forming a small cultural campus on the edge of the university area. Its collections cover the history and culture of the Central Finland region, from prehistoric settlements around the lakes through to the industrialisation of the 20th century and the social changes of recent decades.

@@ -6,6 +6,7 @@ longitude: -5.0356
 tags:
   - things_to_do
   - sight
+score: 9.3
 ---
 
 Glen Nevis is the deep U-shaped valley that runs east from Fort William between Ben Nevis to the north and the Mamores to the south. The drive up the single-track road past the campsite and the visitor centre is one of the most cinematic in Britain — the slopes of the Ben tower a kilometre overhead, waterfalls tumble down both sides, and the river cuts a series of deep pools and small gorges through the granite floor.

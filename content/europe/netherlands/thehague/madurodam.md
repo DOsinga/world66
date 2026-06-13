@@ -10,6 +10,7 @@ story: >
   The park is named after George Maduro, a Jewish-Curaçaoan law student who fought
   heroically in the Battle of the Netherlands in 1940 and died in Dachau in 1945.
   His parents donated the funds to build Madurodam in his memory.
+score: 7.1
 ---
 
 A miniature park displaying scale models of famous Dutch landmarks, buildings, and infrastructure — windmills, canals, Schiphol airport, the Delta Works, the Peace Palace, all built at 1:25 scale with extraordinary detail. It sounds kitsch, and it partly is, but the craftsmanship is genuinely impressive and the park provides a surprisingly effective overview of the Netherlands in an afternoon.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 42.289348
 longitude: 3.275216
+score: 9.0
 ---
 
 The heart of Cadaqués is the arc of the bay, the whitewashed houses stepping up the hillside behind it, and the church of Santa Maria at the top — a composition that has been the subject of more paintings, photographs, and postcards than can reasonably be counted. The visual coherence of the village is partly the result of genuine age (the core is mostly 17th and 18th century) and partly the result of decades of strict planning rules that prevented the concrete apartment blocks that disfigured other Costa Brava towns.

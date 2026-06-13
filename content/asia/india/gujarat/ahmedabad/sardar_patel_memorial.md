@@ -8,6 +8,7 @@ tags:
 latitude: 23.061
 longitude: 72.591
 snippet: "Museum to the architect of modern India"
+score: 7.2
 ---
 
 The Sardar Patel National Memorial is housed in the **Moti Shahi Mahal**, an early 17th-century pleasure palace built by Mughal prince Shahjahan when he was governor of Gujarat. The palace is set in formal Persian-style gardens in the Shahibaug neighbourhood. The museum on the upper floors traces the life of Vallabhbhai Patel, India's first Home Minister and the man who knit together the 562 princely states into the modern Indian republic.

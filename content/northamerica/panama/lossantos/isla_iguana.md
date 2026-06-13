@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.4667
 longitude: -80.0333
+score: 8.4
 ---
 
 A small island about 8 km off the coast near Pedasí that protects one of the best coral reefs on Panama's Pacific side. The waters around the island are clear, the reef is healthy, and the snorkelling is straightforward — you don't need to dive to see the fish populations. The island is a protected wildlife area managed by ANAM, Panama's environmental authority.

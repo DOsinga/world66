@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Working fishing harbour with Vatnajökull filling the horizon
+score: 6.8
 ---
 
 Höfn's harbour is the beating heart of the town. The trawlers that make their way in and out of the port are the reason the town exists — Höfn is first and foremost a fishing community, and the langoustine that fill the holds of those boats end up on restaurant plates within hours. Standing at the quayside on a clear day, you can watch the practical work of a fishing port while Vatnajökull fills the northern horizon, its white mass looking improbably close in the clear Icelandic air.

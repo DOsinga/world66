@@ -9,6 +9,7 @@ tags:
   - restaurant
 sources:
   - https://en.wikipedia.org/wiki/Asia_Town_(restaurant)
+score: 4.8
 ---
 
 Asia Town is one of Port Harcourt's best-known Chinese and Asian restaurants, a long-established fixture in the Old GRA dining scene. It serves a broad menu of Chinese and Thai dishes adapted for Nigerian tastes — portions are generous and the cooking is more authentic than you might expect for a West African city. The restaurant is popular with the expatriate community but draws a mixed crowd of business diners and local families.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 68.2075
 longitude: 14.4489
+score: 6.7
 ---
 
 The Lofoten Aquarium at Storvågan focuses on the marine life of the surrounding waters: the cod, halibut, and wolffish of the Vestfjord, as well as seabirds and seals in outdoor tanks. It is a modest-sized facility but well-suited to the location — everything in it lives in the sea just outside.

@@ -8,6 +8,7 @@ tags:
 - square
 title: Nathan Phillips Square
 type: poi
+score: 6.5
 ---
 
 Nathan Phillips Square is the civic heart of Toronto, the open plaza in front of the dramatic curved twin towers of New City Hall. The square is named after Nathan Phillips, Toronto's first Jewish mayor, who served from 1955 to 1962 and pushed through both the construction of the new City Hall (designed through an international competition won by Finnish architect Viljo Revell) and the plaza's creation.

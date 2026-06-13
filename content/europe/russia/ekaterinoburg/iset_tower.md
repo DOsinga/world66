@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The cluster of skyscrapers immediately west of the Yeltsin Center — Iset, Vysotsky and a handful of others — is the Yekaterinburg-City business district. At 188 metres, Iset is the tallest building between Moscow and Vladivostok.

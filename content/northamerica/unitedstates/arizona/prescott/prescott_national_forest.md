@@ -13,6 +13,7 @@ story: >
   cooking at 40°C, Prescott's pine-cooled trails draw Arizonans from across the state.
 sources:
   - https://en.wikipedia.org/wiki/Prescott_National_Forest
+score: 6.8
 ---
 
 Prescott National Forest wraps around the town on three sides, covering nearly 1.3 million acres of pine forest, grasslands, and desert transition zone. The elevation range — from 914 to over 2,400 metres — creates a variety of ecosystems and a long hiking season compared to the lower desert cities.

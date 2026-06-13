@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - museum
+score: 7.4
 ---
 
 The flagship factory and showroom of Royal Selangor, the world's largest pewter manufacturer. Founded in 1885 by a Chinese tinsmith newly arrived in the Selangor tin-rush, the company has been turning Selangor tin into hand-finished pewter ever since. Free guided tours every fifteen minutes walk you through the workshop floor — casting, hammering, polishing — and a small museum displays historical pieces, including the world's largest pewter tankard.

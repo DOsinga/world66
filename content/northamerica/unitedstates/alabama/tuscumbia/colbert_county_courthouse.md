@@ -8,6 +8,7 @@ latitude: 34.73388889
 longitude: -87.70416667
 sources:
   - https://en.wikipedia.org/wiki/Colbert_County_Courthouse_Square_Historic_District
+score: 5.9
 ---
 
 The Colbert County Courthouse Square Historic District forms the core of Tuscumbia's downtown, a compact collection of 19th- and early 20th-century commercial buildings around the courthouse. The square is listed on the National Register of Historic Places and gives the town centre its character — genuine small-town Alabama architecture rather than a reconstructed heritage district.

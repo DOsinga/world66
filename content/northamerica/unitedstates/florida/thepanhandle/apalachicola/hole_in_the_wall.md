@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.9
 ---
 
 A small, scuffed seafood joint on Market Street that is exactly what it sounds like — cinder-block walls, paper menus, mismatched chairs, and some of the best raw oysters in town. Everything else is unpretentious Gulf cooking: fried shrimp, grouper sandwiches, hush puppies.

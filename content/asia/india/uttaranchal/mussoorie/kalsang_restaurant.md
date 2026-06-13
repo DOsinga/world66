@@ -7,6 +7,7 @@ tags:
 latitude: 30.4573
 longitude: 78.0672
 snippet: Long-running Tibetan restaurant on Mall Road, best momos in town
+score: 6.3
 ---
 
 Kalsang is one of the most reliable restaurants on Mall Road, and the go-to address for Tibetan food in Mussoorie. The momos — steamed dumplings filled with vegetables or meat — are the main reason to come, and the thukpa (noodle soup) is a good option on a cold evening. The restaurant has been here long enough that it has become something of an institution.

@@ -11,6 +11,7 @@ story: >
   tram rides through the enclosures after dark to see nocturnal animals like slow loris,
   tapirs, civets, and the Malayan sun bear — animals rarely visible at conventional
   daytime zoos. The night safari runs on weekend evenings and selected public holidays.
+score: 6.9
 ---
 
 Zoo Taiping sits adjacent to the Lake Gardens and shares some of the same rain trees and greenery, giving it a less institutional feel than most urban zoos. The collection focuses on Malaysian and Southeast Asian wildlife: sun bears, tapirs, orangutans, pygmy elephants, and a fine collection of monitor lizards. The setting is attractive, and the animals have reasonably spacious enclosures compared to older Malaysian zoos.

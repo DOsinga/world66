@@ -13,6 +13,7 @@ story: >
   mosque of the çarshia — when its muezzin called, the other mosques of the city would follow.
   The name survives in mosque names across the former Ottoman Balkans, a small linguistic fossil
   from the administrative system that once organised these cities.
+score: 7.2
 ---
 
 The Bajrakli Mosque stands in the centre of Peja's old bazaar quarter, a 15th-century Ottoman structure that is one of the finest surviving examples of early Ottoman religious architecture in Kosovo. The interior is elegantly simple: a single domed prayer hall with painted arabesque decoration around the windows and a carved wooden minbar that has survived several centuries of use.

@@ -8,6 +8,7 @@ tags:
 latitude: 54.815
 longitude: 9.45944
 story: "In May 1945, Grand Admiral Karl Dönitz moved his government to Mürwik after Hitler's death, making this the last seat of any Nazi government — a fleeting, three-week shadow state that surrendered to the Allies on May 23. The school's position at the water's edge, in a deliberately secluded northern corner of Germany, made it the logical refuge for the regime's final days. Allied soldiers arrested Dönitz and his cabinet here on May 23, 1945, effectively ending the Third Reich."
+score: 6.5
 ---
 
 The Marineschule Mürwik is Germany's main naval officer training academy, occupying a large red-brick complex on the eastern shore of the Firth north of Flensburg. The building was constructed between 1907 and 1910 in the North German Renaissance style, a deliberate architectural statement about German naval ambition. It is not open to the public as an active military installation.

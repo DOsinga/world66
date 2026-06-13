@@ -7,6 +7,7 @@ tags:
 snippet: "Lake-side public park dedicated to the king who freed Siam"
 latitude: 12.6160
 longitude: 102.1110
+score: 5.8
 ---
 
 King Taksin Park, just north of the centre, is the city's main public green space, built around a small lake with a paved walking circuit. It was named for King Taksin the Great, the eighteenth-century military leader who rallied his forces in Chantaburi after the fall of Ayutthaya to the Burmese in 1767 and went on to reconquer Siam.

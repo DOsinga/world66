@@ -4,6 +4,7 @@ type: poi
 latitude: 51.1090
 longitude: -3.5688
 tags: [eating_out, bars_and_cafes, pub]
+score: 6.2
 ---
 
 The Royal Oak sits at the centre of Winsford, opposite the ford, and is the kind of thatched country pub the rest of England spent the twentieth century trying to imitate. The building is fifteenth-century, the bar is small and beamed, and the open fire is lit from October to April.

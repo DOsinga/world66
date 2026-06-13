@@ -7,6 +7,7 @@ tags:
 - sight
 title: Plaza Avaroa
 type: poi
+score: 6.6
 ---
 
 Plaza Avaroa is the hub of Sopocachi, the neighbourhood where most of La Paz's better cafes and restaurants cluster. The plaza itself is a pleasant public square with a monument to Eduardo Avaroa — a Bolivian hero of the War of the Pacific (1879–84) who famously refused to surrender when surrounded by Chilean forces. The quote attributed to him just before he was killed ("Surrender? Your grandmother should surrender!") has become something of a national catchphrase.

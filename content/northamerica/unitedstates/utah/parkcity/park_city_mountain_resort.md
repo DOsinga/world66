@@ -8,6 +8,7 @@ latitude: 40.6514
 longitude: -111.5080
 story: >
   Park City Mountain became the largest ski resort in the United States when it merged with Canyons Resort in 2015, nearly doubling its terrain overnight. The merger was preceded by years of legal battles between Vail Resorts and the landowner of the Canyons base area — a dispute that dragged on long enough to become a case study in ski resort business. The unified resort now covers 7,300 acres, more than enough to spend a week without repeating a run.
+score: 8.8
 ---
 
 Park City Mountain Resort is the largest ski resort in the United States by acreage, covering over 7,300 acres of terrain on the Wasatch Range. The mountain receives more than 350 inches of snow annually — the famous "Greatest Snow on Earth" — and the combination of terrain variety, reliable snow, and proximity to Salt Lake City (35 minutes by car, 45 minutes by shuttle) makes it one of the most visited ski resorts in North America.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum was founded in 1971 — a late effort, by Ceaușescu-era cultural policy standards, to preserve a vernacular architecture that the regime's own villagisation plans were systematically demolishing. Several of the houses on site were dismantled board by board from villages that were later cleared as part of the systematisation programme."
+score: 8.2
 ---
 
 The Banat Village Museum is the largest open-air ethnographic museum in western Romania, occupying around 17 hectares of woodland on the northern edge of the city near the Green Forest. It assembles around 30 vernacular buildings — houses, churches, mills, blacksmiths' shops, granaries — relocated and reconstructed from villages across the multi-ethnic Banat region.

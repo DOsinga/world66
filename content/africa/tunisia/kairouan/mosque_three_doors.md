@@ -9,6 +9,7 @@ tags:
   - medina
 story: >
   The facade of the Mosque of the Three Doors was carved in 866 AD by Muhammad ibn Khayrun al-Maafiri and is one of the earliest examples of highly ornamental Arabic epigraphy on a building facade in the world. The Kufic inscriptions running along the facade are carved in a style so refined it set a standard for North African decorative arts that lasted for centuries.
+score: 8.3
 ---
 
 The Mosque of the Three Doors is a small and largely unremarkable mosque from the outside — except for its facade, which is among the most important pieces of Islamic decorative architecture in North Africa. Carved in the 9th century, the three doorways are framed by bands of intricately carved floral ornament and Kufic inscriptions, the whole composition displaying a level of refinement that was extraordinary for its time.

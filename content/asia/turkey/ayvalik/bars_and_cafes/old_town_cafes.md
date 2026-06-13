@@ -1,6 +1,7 @@
 ---
 title: "Old Town Cafes"
 type: poi
+score: 6.4
 ---
 
 The old Greek quarter of Ayvalık has accumulated a cluster of small cafes and bars in converted stone buildings over the past decade or so. The atmosphere leans bohemian without being aggressively hip — worn wooden furniture, Turkish coffee made properly in a copper cezve, local music playing at a volume that allows conversation.

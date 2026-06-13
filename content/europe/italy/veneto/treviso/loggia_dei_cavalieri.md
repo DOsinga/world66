@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.6678
 longitude: 12.2436
+score: 7.1
 ---
 
 A wide, open Romanesque loggia from the 13th century, built as a meeting place for the noble class to play chess, talk, and watch tournaments in the street outside. It is one of the only surviving structures of its kind in northern Italy — most cities walled off their public meeting spaces long ago.

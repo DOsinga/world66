@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   This Kailash is not the famous Tibetan peak but the local holy mountain of Doda district — less known, less crowded, and accessible to anyone reasonably fit. The August yatra draws thousands of local pilgrims following routes that predate any modern trekking route map.
+score: 8.9
 ---
 
 The Mount Kailash in Bhadarwah's hinterland stands at 5,029 metres and is reached by a traditional pilgrimage route that is walkable in August without any technical climbing experience. Horses and porters are available in Bhadarwah town. The trail passes through dense forest, alpine meadows, and the final section crosses open scree and snow-dusted rock to a summit with views that stretch to the main Himalayan range.

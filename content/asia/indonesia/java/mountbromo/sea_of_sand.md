@@ -14,6 +14,7 @@ story: >
   volcanic ash and debris from subsequent eruptions. It lies at about 2,200 metres,
   surrounded by the caldera wall on three sides and the cones of Bromo, Batok, and
   Widodaren rising from it. The landscape has no equivalent anywhere else on Java.
+score: 8.4
 ---
 
 The Sea of Sand is the caldera floor that stretches between the caldera wall and the volcanic cones — a flat, grey, ash-covered desert 10 kilometres across at its widest. Walking or riding across it is the practical requirement for reaching Bromo's crater stairs; it is also an experience in itself. On horseback from the saddle rental point, the crossing to the Bromo stairs takes about 20 minutes; on foot, about 40.

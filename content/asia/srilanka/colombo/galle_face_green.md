@@ -13,6 +13,7 @@ tags:
   - sight
 title: Galle Face Green
 type: poi
+score: 8.6
 ---
 
 The long, narrow strip of lawn between the city and the Indian Ocean is where Colombo comes to breathe. Every evening, families lay out mats, children fly kites, and vendors set up grills selling isso wade (prawn fritters), corn on the cob, and sweet rotis. It's one of the best and most democratic places in the city — everyone comes here.

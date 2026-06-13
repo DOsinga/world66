@@ -6,6 +6,7 @@ longitude: 8.0680
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The hillsides around Massimino are dominated by chestnut trees, and they have been for a very long time. Before pasta and polenta became staples of the Italian interior, chestnut flour was the bread of the mountain poor — dried, ground, and baked into flat loaves that kept a family fed through winter. The groves around Massimino were not decoration but infrastructure, and the village economy revolved around the harvest for centuries. Many of the trees standing today are old enough to have provided chestnuts for generations of the same families.

@@ -8,6 +8,7 @@ tags:
 - sight
 - geology
 story: Gaet'ale Pond is often cited as one of the saltiest natural bodies of water on earth. Its oily-looking surface and sharp mineral edge are a reminder that the Danakil is not just hot; it is chemically extreme.
+score: 6.7
 ---
 
 Gaet'ale Pond is a small hypersaline pool near Dallol, more curiosity than grand vista but memorable precisely because it is so strange. The water is dense with dissolved salts and minerals, and the surrounding crust can be brittle underfoot.

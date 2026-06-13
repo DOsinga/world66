@@ -6,6 +6,7 @@ tags:
 - shopping
 latitude: -3.1142
 longitude: -60.0444
+score: 4.3
 ---
 
 Studio 5 is a riverside mall in the Distrito Industrial, originally built around the Studio 5 concert hall — for years the city's main venue for large pop and rock shows. The mall itself has a cinema, food court, and a moderate range of shops, but it is most useful for travellers as a concert venue: tour dates for Brazilian artists almost always include Studio 5.

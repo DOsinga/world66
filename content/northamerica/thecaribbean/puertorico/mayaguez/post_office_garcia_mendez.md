@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The federal post office and former courthouse on Calle McKinley is one of the finest pieces of public architecture in Mayagüez. Built in the late 1930s in a stripped neoclassical style — a federal WPA-era project — it has a clean limestone façade, a deep colonnaded entry, and a marble lobby that still functions as the city's main post office.

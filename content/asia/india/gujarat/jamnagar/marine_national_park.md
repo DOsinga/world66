@@ -14,6 +14,7 @@ tags:
 - wildlife
 title: Marine National Park
 type: poi
+score: 9.0
 ---
 
 The Gulf of Kutch Marine National Park stretches along the coast west of Jamnagar and across to a string of small islands. The reef itself is the attraction: at low tide, the receding water leaves shallow pools and exposed coral that you can walk across, with stretches of brain coral, soft coral, sea anemones, octopus, and small reef fish.

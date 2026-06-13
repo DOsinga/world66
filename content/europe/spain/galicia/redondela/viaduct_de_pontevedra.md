@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.2845
 longitude: -8.6110
+score: 6.7
 ---
 
 The younger of Redondela's two railway viaducts, inaugurated in 1884, carries a second rail line across the town at a slightly different angle to the first. Standing beneath the two structures simultaneously — which you can do from certain points in the old town — gives a vivid sense of how dramatically the 19th-century railway era transformed the landscape of this small Galician town.

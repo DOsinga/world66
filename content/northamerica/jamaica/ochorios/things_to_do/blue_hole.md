@@ -9,6 +9,7 @@ latitude: 18.3847
 longitude: -77.1089
 sources:
   - https://en.wikipedia.org/wiki/Blue_Hole_(Jamaica)
+score: 8.2
 ---
 
 The Blue Hole — also known as Secret Falls — is a series of turquoise natural pools in the mountains south of Ocho Rios, fed by a waterfall that drops into a deep swimming hole. The water is a vivid blue-green, startlingly clear, and cold. You can jump from ledges into the pools, or simply swim. It is, despite its alternative name, no longer a secret: the site has become popular with tour operators, but the jungle setting keeps it feeling more natural than the falls at Ocho Rios itself.

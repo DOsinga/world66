@@ -11,6 +11,7 @@ longitude: 106.7044
 snippet: "The city's most distinctive skyscraper, with a helipad sticking out at the 52nd floor"
 sources:
   - https://en.wikipedia.org/wiki/Bitexco_Financial_Tower
+score: 7.3
 ---
 
 The Bitexco Financial Tower is the most architecturally distinctive building in Ho Chi Minh City — a 262-metre skyscraper in District 1 designed by Carlos Zapata Studio, notable for its lotus-blossom-inspired form and the circular helipad jutting out from the 52nd floor. Completed in 2010, it became the instant symbol of Saigon's economic transformation.

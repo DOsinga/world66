@@ -12,6 +12,7 @@ story: >
   performers in elaborate headdresses and masks — dance and perform theatrical
   dramas rooted in the fusion of West African traditions with those of British
   Caribbean immigrants who came to San Pedro to work the sugar plantations.
+score: 7.8
 ---
 
 The Cocolo community, descendants of English-speaking immigrants from British Caribbean islands who arrived in San Pedro in the late 19th century to work in the sugar industry, has preserved a unique cultural tradition unlike anything else in the Dominican Republic. Their most visible expression is the Guloyas — performers in extravagant feathered costumes and masks who take to the streets during the San Pedro Carnival in February and during the feast of San Pedro on 29 June.

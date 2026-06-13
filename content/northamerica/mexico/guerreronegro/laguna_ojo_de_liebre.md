@@ -9,6 +9,7 @@ latitude: 27.75
 longitude: -114.25
 story: >
   Laguna Ojo de Liebre (Eye of the Jackrabbit Lagoon) was renamed Scammon's Lagoon in the 19th century after the American whaling captain Charles Melville Scammon, who discovered the gray whale breeding ground in 1857 and proceeded to hunt it nearly to extinction. By the 1870s the lagoon had been stripped of whales; a century later, under protection, the population had recovered. The Spanish name was restored; the whales came back. Today more than 60% of the world's gray whales are born in this lagoon.
+score: 9.2
 ---
 
 Laguna Ojo de Liebre is the world's most important gray whale nursery, a vast shallow lagoon 27km south of Guerrero Negro where the whales migrate from Alaska each winter to mate and give birth. The lagoon was designated a UNESCO World Heritage Site in 1993 as part of the El Vizcaíno Biosphere Reserve. Between January and April, whale-watching pangas take small groups out onto the water for three-hour excursions.

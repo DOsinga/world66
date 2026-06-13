@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - historical_site
+score: 7.1
 ---
 
 Latte Stone Park (Senator Angel L. G. Santos Latte Stone Park) holds eight of the distinctive double-tiered stone pillars on which the ancient Chamorros raised their houses. The pillars consist of a tapered shaft (haligi) topped by a hemispherical cap (tasa) and arranged in two rows under the floor of the building. Reaching one to two metres tall and weighing several tonnes, they are the most visible remains of pre-contact Chamorro architecture and are the de facto national symbol of the Marianas.

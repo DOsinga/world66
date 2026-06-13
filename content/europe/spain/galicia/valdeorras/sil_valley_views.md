@@ -15,6 +15,7 @@ tags:
 - sight
 title: "Sil Valley Terraced Vineyards"
 type: poi
+score: 7.5
 ---
 
 The Sil river has carved a deep valley through the eastern edge of Galicia, and the vineyards here cling to its slopes at angles that look impossible to work. The terraces are held by dry-stone walls built on dark slate bedrock — the same slate that forms the roofs of every village in the valley. In September, harvest crews pick by hand because no machine could navigate the gradients. The result is a working landscape of extraordinary beauty, best seen from the road between A Rúa and Vilamartín, where you look across the valley to a far hillside that is almost entirely covered in vines.

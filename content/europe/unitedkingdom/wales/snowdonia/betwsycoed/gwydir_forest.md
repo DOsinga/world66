@@ -11,6 +11,7 @@ tags:
   - walking
   - cycling
 story: "The forest hides the remains of one of Wales's most important lead and zinc mining areas. Between the 17th and early 20th centuries, hundreds of shafts and adits pierced the hills. The mossy heaps and ruined enginehouses you stumble over on the trails are easy to mistake for natural rock — they're industrial archaeology in slow disguise."
+score: 8.0
 ---
 
 Gwydyr Forest covers some 28 square kilometres of the hillsides around Betws-y-Coed, planted mainly with conifers from the 1920s onwards. It is the most accessible large woodland in Snowdonia, threaded with forest roads, lakes and waymarked walking and mountain-bike trails of every grade.

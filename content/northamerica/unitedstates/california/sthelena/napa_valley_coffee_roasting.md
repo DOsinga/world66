@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - cafe
+score: 5.9
 ---
 
 The town's main independent cafe, in a brick-fronted building on Main Street that has been roasting its own coffee since the 1980s. It opens early enough to catch locals before the wine-country morning begins, and the counter does strong espresso, drip, and a rotating selection of single-origins roasted on-site. Pastries and a simple breakfast menu are available.

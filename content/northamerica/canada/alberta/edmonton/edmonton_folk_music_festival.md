@@ -16,6 +16,7 @@ story: >
   this scale.
 sources:
   - https://en.wikipedia.org/wiki/Edmonton_Folk_Music_Festival
+score: 7.8
 ---
 
 The Edmonton Folk Music Festival is one of North America's premier outdoor music events — four days in early August at Gallagher Park, overlooking the North Saskatchewan River valley from the south bank. The festival has run every year since 1980 and has established a reputation for programming that combines internationally known names with regional artists and genre boundaries deliberately ignored.

@@ -5,6 +5,7 @@ snippet: The marble plaza linking the two shrines — the symbolic heart of Karb
 tags: [things_to_do, sight, square]
 latitude: 32.6167
 longitude: 44.0342
+score: 6.8
 ---
 
 Bayn al-Haramayn — literally "between the two sanctuaries" — is the 378-metre stretch of marble between the Husayn and Al-Abbas shrines. It was widened and paved in white stone after 2003 to handle the swelling pilgrim crowds, and now functions as a vast outdoor mosque, a meeting place, and a procession route all at once.

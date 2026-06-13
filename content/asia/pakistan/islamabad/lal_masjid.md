@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "In July 2007 the Pakistani army stormed the mosque after a week-long siege in which the radical clerics inside, who had been running a vigilante anti-vice campaign in the capital, refused to surrender. Over one hundred died in the operation; the explosion of religious militancy across northwest Pakistan that followed is generally traced back to this week."
+score: 7.2
 ---
 
 The Lal Masjid — the "Red Mosque," for its distinctive red brick and ochre paint — sits in the Aabpara area of G-6. It is one of the older mosques in Islamabad, founded in 1965 as the capital was being built, and remains an active centre of religious instruction.

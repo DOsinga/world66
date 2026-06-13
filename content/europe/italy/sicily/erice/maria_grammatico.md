@@ -12,6 +12,7 @@ story: >
   convent closed in the 1960s, she apprenticed herself to the last surviving
   nun who knew the recipes and eventually opened her own shop in 1963. The
   book "Bitter Almonds" by Mary Taylor Simeti tells her story.
+score: 6.8
 ---
 
 Maria Grammatico's pasticceria on Via Vittorio Emanuele is the most famous shop in Erice and one of the best pastry shops in western Sicily. The specialities are almond-based: genovesi (lemon cream-filled pastry shells), buccellati (fig and nut pastries), and the extraordinary marzipan fruits — crafted into perfect miniature replicas of Sicilian produce that are almost too beautiful to eat.

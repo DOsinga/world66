@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9163
 longitude: -6.3471
+score: 6.8
 ---
 
 Mérida shares its cathedral status with Badajoz — the two cities are co-seats of the archdiocese — and Santa María la Mayor is the older and more modest of the pair. A Visigothic basilica stood on the site, then a mosque, then a thirteenth-century Romanesque-Gothic church, much rebuilt over the centuries. The granite tower and west portal are the most photogenic exterior features.

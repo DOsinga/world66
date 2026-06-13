@@ -7,6 +7,7 @@ tags:
 title: River's Edge Trail
 type: poi
 snippet: "Sixty miles of paved and singletrack trail along both banks of the Missouri"
+score: 7.1
 ---
 
 The trail runs from Broadwater Bay through downtown, past Giant Springs, and out to the falls — well over 60 miles of paved riverside path with separate singletrack mountain bike routes shadowing it. It's the easiest way to see the city's best stretches of river without driving.

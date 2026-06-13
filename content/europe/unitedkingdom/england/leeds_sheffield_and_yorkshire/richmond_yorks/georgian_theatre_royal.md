@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: 1788 theatre, the oldest working Georgian playhouse in Britain
 story: "The theatre was rediscovered by accident. After being converted to a wine vault in 1848 and then forgotten, the building was only identified as a surviving Georgian playhouse during a 1962 restoration — when workmen pulling out shelves found the original pit, boxes and gallery still in place beneath the storerooms."
+score: 8.7
 ---
 
 The Georgian Theatre Royal opened in 1788, built by the actor-manager Samuel Butler as a stop on his touring circuit, and it is the oldest theatre in Britain still operating in its original form. The auditorium holds 214 — pit, two galleries and a horseshoe of boxes — and remains very close to what audiences would have seen in the year the French Revolution began.

@@ -7,6 +7,7 @@ tags:
 - forest_park
 latitude: 38.6342
 longitude: -90.2779
+score: 6.3
 ---
 
 The Jewel Box is a stepped-pyramid greenhouse in the southeast corner of Forest Park, built in 1936 in a striking Art Deco style by the Works Progress Administration. The cantilevered glass walls — designed to withstand the hailstones that had shattered earlier conservatories — were technically innovative for the time and still look futuristic.

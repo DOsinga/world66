@@ -9,6 +9,7 @@ tags:
   - museum
 story: >
   The Sacred Spring still delivers over a million litres of hot water a day at 46 degrees Celsius, just as it did when the Romans built the temple complex around it nearly two thousand years ago. The water that rises here fell as rain on the Mendip Hills up to ten thousand years ago and has been heated deep underground ever since.
+score: 9.8
 ---
 
 The best-preserved Roman bathing complex in northern Europe, and Bath's most visited attraction. The site centres on the Great Bath, a lead-lined pool still filled with steaming green mineral water, surrounded by Roman columns and Victorian additions. The museum below ground level reveals the original Roman engineering: underfloor heating systems, lead pipes, and the temple of Sulis Minerva, the Romano-Celtic goddess who presided over the springs.

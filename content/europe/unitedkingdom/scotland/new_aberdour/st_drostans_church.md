@@ -11,6 +11,7 @@ story: >
   tradition holds that St Drostan himself used it to baptise his first converts after landing
   at the bay below in 580 AD. The saint was a nephew of Columba and went on to found several
   other churches in the north-east before his death.
+score: 6.3
 ---
 
 St Drostan's Church stands at the head of the road down to the beach, a modest but ancient building marking one of the earliest Christian sites in northern Scotland. The current structure is largely medieval, but the site has been a place of worship for well over a thousand years.

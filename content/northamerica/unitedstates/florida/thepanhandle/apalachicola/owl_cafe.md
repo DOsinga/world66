@@ -6,6 +6,7 @@ longitude: -84.9856
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 A long-running fine-dining option in a restored 1908 building on Avenue D, the closest thing to formal in Apalachicola. The menu mixes Gulf seafood with steaks and pastas, all done well; the wine list is more ambitious than you would expect for a town of two thousand people.

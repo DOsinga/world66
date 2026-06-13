@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.9150
 longitude: 108.6850
+score: 7.4
 ---
 
 Huguo Temple is one of the larger temple complexes on Fanjingshan's mid-slopes, and one of the oldest — historical records trace a temple at this location to the Tang dynasty, with substantial reconstruction in the Ming period when the mountain's Buddhist significance was formally recognised by the imperial court. The current buildings are Qing-era reconstruction, having survived both the fires and the Cultural Revolution demolitions that claimed the summit temples, largely because their mid-slope position made them less visible targets.

@@ -13,6 +13,7 @@ story: Madan Mahal was built in 1116 by Rajput king Raja Madanshah, and its isol
   middle of otherwise flat ground, providing sightlines in all directions. The entire
   fort is built on and around the natural rock formation, with sections of the granite
   boulders incorporated directly into the walls.
+score: 7.6
 ---
 
 Madan Mahal Fort perches on a granite hilltop in the northern part of Jabalpur, an 11th-century Rajput fortification associated with the Gond queen Rani Durgavati. The fort is modest in scale but dramatic in position — reached by a short climb up rocky steps, it gives panoramic views over the city and the surrounding landscape.

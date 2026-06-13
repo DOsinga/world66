@@ -7,6 +7,7 @@ tags:
 - sight
 title: Aibahama Park
 type: poi
+score: 5.9
 ---
 
 A quiet linear park along the Shinmachi River in central Tokushima, on the site of the wharves where indigo barges once unloaded their bales. The name Aiba — "indigo wharf" — survives in the surrounding neighbourhood, and a row of restored Meiji-period merchant houses faces the water.

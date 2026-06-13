@@ -12,6 +12,7 @@ story: >
   needed for national defence, the medieval keep at Fléville was spared — not by legal
   argument but by a direct appeal from King Louis XIII, who had a personal affection for
   the place. The 30-metre tower still stands because a king liked it.
+score: 8.6
 ---
 
 The Château de Fléville is the reason to come to this village. Built around a 14th-century keep, it was transformed in the early 16th century into one of the finest examples of early French Renaissance architecture in the region. The principal facade is 35 metres long and faced with a continuous balcony of carved stone windows — elegant, light, and entirely unlike the defensive character of the keep it was attached to. Both the castle and its park are listed historic monuments, and the whole complex has been in the same private family's ownership for nearly two centuries.

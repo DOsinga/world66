@@ -14,6 +14,7 @@ sources:
   - https://en.wikipedia.org/wiki/The_Breakers
 story: >
   Cornelius Vanderbilt II commissioned architect Richard Morris Hunt to build The Breakers in 1893 after the previous house on the site burned down. The entire structure was designed to be fireproof — the basement boiler room is separated from the main house by a moat — because Vanderbilt had lost a fortune in the previous fire. The result took 2,500 workers two years to build and cost the equivalent of several hundred million dollars. Vanderbilt died in 1899, having enjoyed it for just four years.
+score: 9.6
 ---
 
 The Breakers is the grandest of Newport's Gilded Age cottages and one of the most spectacular private residences ever built in the United States. Cornelius Vanderbilt II commissioned architect Richard Morris Hunt to design a 70-room Italian Renaissance palazzo on Ochre Point, overlooking the Atlantic, and the result — completed in 1895 — is an act of pure, unapologetic plutocratic excess. The Great Hall rises 45 feet, the dining room is sheathed in red alabaster and gilded bronze, and the morning room's alabaster columns were quarried in Africa.

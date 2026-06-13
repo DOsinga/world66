@@ -6,6 +6,7 @@ longitude: 85.9153
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A planned residential and recreation area on the eastern edge of the city, Mahanadi Vihar sits beside the river of the same name. The riverfront here is broader and quieter than in the old city, with a paved walking path and a few small temples along the bank.

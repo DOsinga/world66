@@ -6,6 +6,7 @@ longitude: 74.0235
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 Dropadi is the long-running beach shack at the centre of Palolem and a reliable choice for Goan classics: pomfret in recheado masala, butter garlic king prawns, and the day's catch grilled tandoor-style. Tables are on the sand under thatched palms, lit by candles after dark.

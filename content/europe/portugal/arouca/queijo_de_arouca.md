@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9289
 longitude: -8.2442
+score: 6.0
 ---
 
 The Serra da Freita is good grazing country, and the cheese it produces — queijo de Arouca — is a semi-soft, slightly tangy sheep's milk cheese eaten young when it is soft and spreadable, or left to age until firmer and more pungent. It is not exported in any quantity; the best place to find it is the weekly market in Arouca or the small food shops near the monastery.

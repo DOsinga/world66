@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 6.7
 ---
 
 Trujillo's beach is its most-loved feature: a wide curve of soft yellow sand running for several kilometres east and west of the town centre, with the calm bay rarely getting more than a metre of swell. Coconut palms line the back of the beach; small *champas* (palm-shaded thatch shelters) serve cold beer and grilled fish all day. Hammocks for hire.

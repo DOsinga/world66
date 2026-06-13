@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 39.7282
 longitude: -121.8375
+score: 7.6
 ---
 
 Downtown Chico, centred on Broadway and the surrounding streets, has the pleasant character of a mid-sized California college town that hasn't been entirely homogenised. The Saturday Farmers Market, held in the parking lot behind City Plaza from spring through autumn, draws local almond, walnut, and olive growers from across the Sacramento Valley alongside fruit and vegetable vendors, food trucks, and artisan stalls. It is a genuine market rather than a tourist event.

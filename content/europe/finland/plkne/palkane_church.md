@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.3384
 longitude: 24.2660
+score: 6.8
 ---
 
 The Pälkäne church in the village of Onkkaala, the administrative centre of the municipality, is a grey stone building that has stood on this lakeside location for centuries. The current structure dates largely to the eighteenth century following reconstruction after the Great Wrath period of Russian occupation, though the church as an institution goes back much further. The churchyard contains some of the oldest grave markers in the region.

@@ -18,6 +18,7 @@ tags:
 - sight
 title: Domus Aurea
 type: poi
+score: 8.4
 ---
 
 The partially excavated ruins of Nero's legendary Golden House, an enormous pleasure palace built after the fire of 64 AD. After Nero's death, the building was systematically buried and built over — the Colosseum stands on what was Nero's artificial lake. What remains today are the subterranean rooms of one wing, covering about five hectares, with fragmentary frescoes visible throughout.

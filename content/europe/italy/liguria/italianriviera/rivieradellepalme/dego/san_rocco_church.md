@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Small 17th-century church on the edge of the village
+score: 5.0
 ---
 
 The little church of San Rocco sits on the western edge of the centre and dates from the 17th century — a votive chapel of the kind built across Liguria in the wake of the plague epidemics, dedicated to Saint Roch, the protector against pestilence.

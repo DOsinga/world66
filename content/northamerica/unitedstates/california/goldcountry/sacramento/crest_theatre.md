@@ -9,6 +9,7 @@ latitude: 38.57934
 longitude: -121.49313
 story: >
   The Crest opened in 1912 as the Hippodrome and was rebuilt in 1949 in an extravagant Egyptian Art Deco style, complete with gilded reliefs, murals of the Nile, and a lobby that would look at home in a Cecil B. DeMille production. The current owners rescued it from demolition in 1994 and have maintained it as a working cinema and concert venue.
+score: 7.4
 ---
 
 A vintage single-screen movie palace at the heart of downtown Sacramento, now operating as an independent cinema and music venue. The 1949 Art Deco building retains its original ornate interior — gilded Moorish plasterwork, a huge ceiling mural, and period lighting that gives the lobby a warm, otherworldly glow. One of the best-preserved mid-century movie palaces in California.

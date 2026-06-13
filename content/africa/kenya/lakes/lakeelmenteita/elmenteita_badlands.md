@@ -6,6 +6,7 @@ longitude: 36.2667
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 South of the lake, the Elmenteita Badlands is a young lava field formed roughly 9,000 years ago — recent enough in geological terms that the rock is still raw, jagged, and barely covered by vegetation. The flow stretches for several kilometres and is one of the youngest volcanic landscapes in the Kenyan Rift.

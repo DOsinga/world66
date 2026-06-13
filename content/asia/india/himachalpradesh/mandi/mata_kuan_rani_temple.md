@@ -5,6 +5,7 @@ latitude: 31.7200
 longitude: 76.9200
 snippet: "'Princess of the Well' temple by the riverbank"
 tags: [things_to_do, sight, temple]
+score: 6.1
 ---
 
 The Mata Kuan Rani — Princess of the Well — is a small temple on the bank of the Beas a kilometre upstream from the centre of Mandi. The legend behind it concerns a princess of the old Mandi royal house who, faced with capture by an invading army, leapt into a well rather than be taken; her spirit became the protective devi of the well and the temple was built over the spot.

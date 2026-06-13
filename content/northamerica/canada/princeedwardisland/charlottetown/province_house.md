@@ -8,6 +8,7 @@ tags:
 latitude: 46.234927
 longitude: -63.126084
 story: "Prince Edward Island was the last Atlantic colony to join Confederation — it held out until 1873, six years after Canada was founded, eventually agreeing only when the federal government promised to fund a railway and buy out absentee landlords. The island that hosted the conference that created Canada was the last to sign up for it."
+score: 8.8
 ---
 
 Province House is the birthplace of Canadian Confederation. In September 1864, delegates from the British North American colonies gathered in the Legislative Council Chamber here for discussions that would lead to the creation of Canada three years later. The building itself is a handsome neoclassical courthouse from 1847, and it still functions as the seat of the PEI legislature.

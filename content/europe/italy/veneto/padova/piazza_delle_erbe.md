@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 45.4072
 longitude: 11.8750
+score: 7.5
 ---
 
 The twin piazzas flanking the Palazzo della Ragione form the daily market and social heart of Padova. Piazza delle Erbe (herb square) and Piazza della Frutta (fruit square) have been market spaces since the middle ages, and they still function as such every morning of the week except Sunday — stalls selling produce, cheese, fish, meat, clothing, and household goods arranged in the shadow of the medieval market hall.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -22.7430
 longitude: -41.8775
+score: 8.3
 ---
 
 Two small beaches separated by a rocky point, accessible on foot from Praia dos Ossos via a short trail. Azeda and Azedinha are among the clearest-water beaches in Búzios: the cove is sheltered, the bottom is sandy, and the water is shallow enough to see your feet at considerable depth. Snorkelling is excellent around the rocks.

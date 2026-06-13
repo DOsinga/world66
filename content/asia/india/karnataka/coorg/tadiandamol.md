@@ -9,6 +9,7 @@ tags:
   - hike
   - mountain
 snippet: "Coorg's highest peak at 1,748 metres, a solid half-day trek through shola forest."
+score: 8.6
 ---
 
 Tadiandamol is the highest peak in the Coorg district, rising to 1,748 metres above sea level. The trek to the summit starts from Nalknad Palace near Kakkabe, takes around three to four hours each way, and climbs through a mosaic of shola forest, open grassland, and the occasional cardamom plot.

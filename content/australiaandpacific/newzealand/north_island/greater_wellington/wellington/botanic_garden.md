@@ -8,6 +8,7 @@ tags:
 latitude: -41.2818
 longitude: 174.7672
 snippet: "25-hectare garden above the city, accessed by cable car, with native forest"
+score: 8.2
 ---
 
 The Wellington Botanic Garden occupies 25 hectares of the hillside above the city centre in Kelburn, directly accessible from the upper cable car terminus. The garden combines formal sections — a rose garden, the Lady Norwood Rose Garden — with large tracts of protected native bush. The bush section feels genuinely wild for somewhere so close to the city centre, with tall podocarp trees and tuis calling overhead.

@@ -13,6 +13,7 @@ story: >
   choose to ride and because Yubeng residents need a supply chain. It is one of the few places
   in Yunnan where the practical use of pack animals for transport remains genuinely functional
   rather than a tourist attraction.
+score: 9.4
 ---
 
 The approach from Xidang to Yubeng is a six to eight hour walk over a high pass at 3,900 metres, descending to the village at 3,100 metres on the other side. The trail is the only way in or out — no road reaches Yubeng — and this fact alone shapes what the place is. The isolation filters who comes, and once inside the valley the atmosphere is quieter and more intimate than the approach would suggest.

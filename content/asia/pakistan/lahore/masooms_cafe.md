@@ -9,6 +9,7 @@ tags:
 address: M.M. Alam Road, Gulberg III, Lahore
 title: Masoom's Cafe
 type: poi
+score: 6.3
 ---
 
 A Lahore institution on M.M. Alam Road in Gulberg, Masoom's has been the go-to spot for cakes, pastries, and desserts for years. The basement location in Al-Hafeez Tower is easy to miss, but the display cases packed with layered cakes and cream rolls give it away. Good coffee too. Busy on weekends when families pile in for afternoon treats.

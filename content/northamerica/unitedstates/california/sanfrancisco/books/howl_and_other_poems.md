@@ -6,6 +6,7 @@ tags:
 - books
 title: Howl and Other Poems
 type: poi
+score: 6.7
 ---
 
 "I saw the best minds of my generation destroyed by madness..." Ginsberg first read *Howl* at the Six Gallery in San Francisco in October 1955, and the poem detonated like a bomb. Published by Lawrence Ferlinghetti's [City Lights Books](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/north_beach) in 1956, it was seized by customs and put on trial for obscenity -- a trial that made both the poem and the bookshop famous.

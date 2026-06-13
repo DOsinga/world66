@@ -14,6 +14,7 @@ tags:
 - driving
 title: Scenic Byway 12
 type: poi
+score: 8.2
 ---
 
 Utah Scenic Byway 12 runs directly through Cannonville and is widely considered one of the most beautiful roads in the United States. The 124-mile route connects Bryce Canyon to Capitol Reef National Park, crossing through Boulder, over the Hogback ridge (a paved road on a narrow fin of rock with steep drops to either side), and up to the Aquarius Plateau at over 9,600 feet. The geological variety along this single road — volcanic plateau, slickrock, canyon bottoms, conifer forest — is exceptional.

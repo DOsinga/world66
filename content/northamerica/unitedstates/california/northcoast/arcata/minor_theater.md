@@ -15,6 +15,7 @@ story: >
   house — a rarity in an era of multiplexes.
 sources:
   - https://en.wikipedia.org/wiki/Minor_Theater
+score: 7.7
 ---
 
 The Minor Theater at 1001 H Street is a genuine piece of film history. Opened in 1914, it is one of the oldest movie theatres in continuous operation in the United States — though it has had its dark periods, most recently a long closure that ended when independent owners reopened it in 2016. The single-screen format, the original architectural bones, and the programming choices set it apart from every multiplex in the region.

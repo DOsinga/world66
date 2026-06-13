@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.1167
 longitude: 12.2333
+score: 6.3
 ---
 
 A medieval hilltop hamlet a few kilometres south-east of Magione, Montecolognola is worth the short detour for its views across Lake Trasimeno and the surrounding Umbrian countryside. On a clear day you can see Monte Melino to the south and, with luck, the distant outline of Monte Amiata in Tuscany.

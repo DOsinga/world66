@@ -7,6 +7,7 @@ tags:
 latitude: 44.7297
 longitude: -72.0308
 snippet: Cliff-top hike above Lake Willoughby with panoramic views
+score: 8.7
 ---
 
 Mount Pisgah rises 600 metres above Lake Willoughby on its eastern shore and offers the best views over the lake from above. The South Trail from the Route 5A trailhead is the most popular route — about 3.6 km to the summit, climbing steeply through hardwood and spruce forest before breaking out onto exposed ledges with views over the entire lake and across into Quebec.

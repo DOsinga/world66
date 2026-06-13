@@ -10,6 +10,7 @@ tags:
 title: Soda Club
 type: poi
 url: www.soda-berlin.de
+score: 6.4
 ---
 
 A reliable Thursday and Sunday night salsa spot at the Kulturbrauerei complex in Prenzlauer Berg. Dance lessons kick off an hour before the party — open to beginners and experienced dancers alike. The crowd is mixed, the atmosphere unpretentious, and in summer the dancing spills outside. Entrance is €4 including the lesson.

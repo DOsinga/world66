@@ -9,6 +9,7 @@ longitude: -119.4490
 address: "1752 10th Street, Reedley, CA 93654"
 sources:
   - https://en.wikipedia.org/wiki/Reedley,_California
+score: 6.5
 ---
 
 The Reedley Museum occupies an older downtown building and tells the story of the town's growth from a railroad stop to a thriving agricultural community. Exhibits cover the immigrant communities — Mennonites, Swedes, and others — who settled the area in the late 1800s, the development of the fruit-packing industry, and everyday life in the San Joaquin Valley before mechanization transformed farming.

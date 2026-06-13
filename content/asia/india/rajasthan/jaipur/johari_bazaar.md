@@ -8,6 +8,7 @@ latitude: 26.9213
 longitude: 75.8258
 address: Johari Bazar, Pink City, Jaipur
 snippet: Jaipur's main jewelry market; the world's largest gem-cutting center
+score: 7.2
 ---
 
 Johari Bazaar — "Jewelers' Market" — is the heart of Jaipur's renowned gemstone trade. The city processes and exports more colored gems than anywhere else in the world, particularly emeralds from Colombia and Africa, rubies from Mozambique, and sapphires from Sri Lanka. The bazaar's narrow lanes are lined with workshops and shops selling gems, set jewelry, and unset stones at prices well below what you'd pay in Europe or North America.

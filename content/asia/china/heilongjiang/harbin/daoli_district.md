@@ -10,6 +10,7 @@ story: >
   In the 1920s, Daoli was the commercial heart of a city sometimes called the "Paris of the East." The district had Russian department stores, German bakeries, a Jewish business community with its own schools and synagogues, and a race track. The Russian community peaked at around 120,000 people. Most left after 1949, but the architecture they built remains largely intact.
 sources:
   - https://en.wikipedia.org/wiki/Daoli,_Harbin
+score: 8.9
 ---
 
 Daoli is the old foreign quarter of Harbin and the district that best preserves the city's remarkable multicultural past. The streets around Zhongyang Dajie and the nearby lanes are packed with European-era buildings — onion-domed churches, art nouveau apartment blocks, and neoclassical commercial buildings that would not look out of place in Riga or Prague. Walking these streets remains the best way to understand why Harbin feels unlike any other Chinese city.

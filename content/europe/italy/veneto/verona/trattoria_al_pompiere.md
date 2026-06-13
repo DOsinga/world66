@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Trattoria al Pompiere
 type: poi
+score: 6.8
 ---
 
 A Veronese institution since 1910, tucked into a narrow lane off Piazza dei Signori. The room is hung with old photographs and the kind of framed wine labels that accumulate over a century of serious drinking. The kitchen does classic Veronese: risotto with Amarone, bigoli with duck, boiled meats with pearà sauce. The highlight is the formidable cheese trolley — 40 or so cheeses from the Veneto and beyond. The wine list is equally serious. One of the few restaurants in the centre where you will eat alongside actual Veronese.

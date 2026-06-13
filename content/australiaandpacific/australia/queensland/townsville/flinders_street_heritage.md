@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.7
 ---
 
 Flinders Street, the main commercial street of Townsville's CBD, is lined with a remarkable collection of Victorian and Federation-era buildings. The street was laid out in the 1860s and most of the significant buildings date from 1880 to 1920, when Townsville was booming as a port for the goldfields of north Queensland. The architecture is tropical colonial — wide verandahs, ornate iron lacework, and thick walls — adapted for the heat.

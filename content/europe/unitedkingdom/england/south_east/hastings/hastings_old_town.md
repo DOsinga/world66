@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.8568
 longitude: 0.5920
+score: 9.1
 ---
 
 Hastings Old Town is the ancient heart of the settlement, compressed into the valley between the East Hill and the West Hill. The streets here — many of them narrow "twittens" barely wide enough for two people to pass — are lined with weatherboarded houses, antique shops, pubs, and fish-and-chip shops. It has a slightly crumpled, independent character that distinguishes it from the more commercial town centre to the west.

@@ -9,6 +9,7 @@ latitude: 40.6373
 longitude: 17.9420
 sources:
   - https://en.wikipedia.org/wiki/Brindisi
+score: 5.8
 ---
 
 Porta Lecce is the main surviving gate of Brindisi's medieval fortifications, a solid sixteenth-century arch at the southern edge of the old town marking the start of the road toward Lecce. The gate was part of a defensive circuit built under the Aragonese, and though most of the walls have long since been absorbed into the urban fabric, the gate still stands in reasonable condition.

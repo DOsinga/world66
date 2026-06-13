@@ -9,6 +9,7 @@ tags:
   - sight
   - snorkelling
 snippet: Quiet northeast coast beach closest to Mnemba Atoll, good snorkelling
+score: 8.0
 ---
 
 Matemwe, on the northeast coast of Unguja, is the quietest and most genuinely remote-feeling of Zanzibar's main beach areas. The coastline here is long and white-sanded, fringed with casuarina trees, and the village behind it is a working fishing community that has so far avoided being overwhelmed by resort development. Seaweed farming — a significant local livelihood — is visible on the tidal flats, with neat rows of coral stakes and trailing lines at low tide.

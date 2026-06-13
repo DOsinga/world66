@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The Musamman Burj is the octagonal marble tower at the eastern corner of Agra Fort, with a perfect view of the Taj Mahal two kilometres downstream. Shah Jahan built it as a private chamber for his wife Mumtaz Mahal; he ended his own life imprisoned in the same room, allowed by his son Aurangzeb only this one consolation — the sight of his wife's tomb.

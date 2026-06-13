@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.2
 ---
 
 A monumental Tudor Gothic limestone hall on North Meridian Street, finished in 1929 — the largest Scottish Rite Masonic facility in the world. The building is a riot of carved oak, stained glass, hand-laid marble, and one of the largest pipe organs in any cathedral in the United States (over 7,000 pipes).

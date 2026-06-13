@@ -10,6 +10,7 @@ tags:
 - sight
 title: Vaxholm
 type: poi
+score: 8.0
 ---
 
 Vaxholm is a small town on an island in the Stockholm archipelago, about 30 minutes by ferry from the city centre. Boats leave from in front of the Grand Hotel at Strandvagen; you can buy tickets at the dock or on board.

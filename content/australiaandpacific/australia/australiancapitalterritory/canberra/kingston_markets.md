@@ -4,6 +4,7 @@ type: poi
 latitude: -35.3133
 longitude: 149.1453
 tags: [eating_out, shopping, market, kingston]
+score: 7.0
 ---
 
 The Old Bus Depot Markets, on Wentworth Avenue in Kingston, run every Sunday in a cavernous former bus depot — about 200 stalls of crafts, fashion, gourmet food and produce. It is the main weekend market in Canberra and has been running since 1994.

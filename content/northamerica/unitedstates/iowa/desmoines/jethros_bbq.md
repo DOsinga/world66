@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.6086
 longitude: -93.6716
+score: 5.7
 ---
 
 Jethro's is Des Moines' best-known barbecue chain — a half-dozen locations across the metro, the original on Beaver Avenue in Beaverdale. The smoker runs ribs, brisket, and pulled pork in roughly equal volume; the Adam Emmenecker challenge sandwich (an entire menu's worth of food, free if you finish it in fifteen minutes) is one of the country's better-known competitive-eating set pieces.

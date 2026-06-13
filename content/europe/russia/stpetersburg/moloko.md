@@ -9,6 +9,7 @@ tags:
 - nightlife
 title: Moloko
 type: poi
+score: 5.0
 ---
 
 A small, scrappy rock club popular with students. Live bands on weekends in an intimate, no-frills setting. Nearest metro: Ploshchad Alexandra Nevskogo.

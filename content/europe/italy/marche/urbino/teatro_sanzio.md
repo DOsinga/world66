@@ -8,6 +8,7 @@ tags:
   - theatre
 latitude: 43.7252
 longitude: 12.6325
+score: 6.7
 ---
 
 Designed in 1845 by Vincenzo Ghinelli and built right against the city's western bastions, the theatre's intimate scale and red-and-gold tiers are typical of an Italian provincial opera house of its era. The auditorium seats around 360 in three levels of horseshoe boxes.

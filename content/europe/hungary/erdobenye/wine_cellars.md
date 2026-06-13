@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - food
+score: 8.6
 ---
 
 Erdőbénye sits in the heart of the Tokaj-Hegyalja wine region, the oldest classified wine region in the world (1737). Several cellars in the village offer tastings, including the **Béres Vineyards & Estate**, one of the larger modern producers, with cellars cut into the volcanic tufa of the surrounding hills.

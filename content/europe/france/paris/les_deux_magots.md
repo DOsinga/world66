@@ -12,6 +12,7 @@ tags:
 title: Les Deux Magots
 type: poi
 url: www.lesdeuxmagots.fr
+score: 6.8
 ---
 
 Les Deux Magots faces Café de Flore across Place Saint-Germain-des-Prés, and the two cafes have been in friendly rivalry for over a century. Both were frequented by Hemingway, Sartre, and de Beauvoir; both serve the same excellent coffee at the same steep prices; both fill with tourists in summer and fill with locals in winter.

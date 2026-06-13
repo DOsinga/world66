@@ -11,6 +11,7 @@ story: >
   that is permanently covered in snow. The summit lies just 1.2 km south of the
   equator, meaning the snowline here crosses zero degrees latitude — a geographic
   combination found nowhere else on earth.
+score: 8.6
 ---
 
 Volcán Cayambe is Ecuador's third-highest peak at 5,790 metres, and the highest point on the equatorial line anywhere on earth. The volcanic dome is permanently glaciated, which makes it visually striking from the city below and physically demanding to climb. Unlike the relatively predictable Cotopaxi, Cayambe has a reputation among Ecuadorian mountaineers for unpredictable weather, crevassed glaciers, and frequent icefall on the upper slopes.

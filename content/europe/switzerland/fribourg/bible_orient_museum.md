@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.8064
 longitude: 7.1528
+score: 6.8
 ---
 
 The Bible+Orient Museum at the University of Fribourg holds one of Switzerland's most specialised collections: ancient Egyptian and Near Eastern art and artefacts, assembled to illustrate the world described in the biblical texts. It is a scholarly museum, housed in the university buildings rather than a purpose-built gallery, and it draws an audience of religious studies students, archaeologists, and curious visitors.

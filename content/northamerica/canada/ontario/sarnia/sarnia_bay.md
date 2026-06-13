@@ -6,6 +6,7 @@ longitude: -82.4070
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 Sarnia Bay is the protected harbour just south of downtown, home to one of the larger marinas on the Great Lakes. The bay itself is a useful destination for an evening walk — sailboats moored two and three deep, an open lawn for the family, and the Stones N Bones Museum's quirky private collection of fossils and rocks at the water's edge.

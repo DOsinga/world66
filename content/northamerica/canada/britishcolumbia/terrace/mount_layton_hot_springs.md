@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hot_springs
+score: 6.8
 ---
 
 A natural hot springs resort on the south shore of Lakelse Lake, twenty minutes south of Terrace on Highway 37. The springs feed a series of outdoor pools and waterslides built into the hillside, with the hottest pool sitting around 38°C.

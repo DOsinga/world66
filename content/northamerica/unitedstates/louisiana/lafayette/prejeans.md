@@ -7,6 +7,7 @@ tags:
 snippet: Classic Cajun restaurant with nightly live music
 latitude: 30.3092
 longitude: -92.0125
+score: 6.1
 ---
 
 A barn-style Cajun restaurant on the north edge of town with live Cajun and zydeco music every night and a fourteen-foot stuffed alligator named Big Al in the lobby. Prejean's leans more touristed than the gas-station joints, but the gumbo is genuinely good and the menu covers the canon — étouffée, jambalaya, blackened fish, fried alligator.

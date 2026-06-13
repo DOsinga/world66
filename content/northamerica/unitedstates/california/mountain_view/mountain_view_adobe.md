@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 37.3958
 longitude: -122.0769
+score: 7.2
 ---
 
 The Mountain View Adobe is one of the oldest structures in Santa Clara County, a humble mud-brick building that predates the Gold Rush and the city around it. Built in the 1840s during the Mexican period of California, it served variously as a way-station for travellers on the El Camino Real, a saloon, and a general store before falling into disuse. The building's survival is something of a small miracle given the pace of development around it.

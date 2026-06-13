@@ -9,6 +9,7 @@ latitude: 41.2950
 longitude: 48.1061
 sources:
   - https://en.wikipedia.org/wiki/Laza,_Qusar
+score: 8.6
 ---
 
 The village of Laza sits at 1,300 metres at the foot of Mount Shahdagh in one of the most dramatic valleys of the Greater Caucasus. The surrounding landscape — rocky gorges, alpine meadows, and the white cone of the 4,243-metre Shahdagh peak above — draws hikers and climbers from Baku in summer. In winter the valley fills with snow and the road can close; the Shahdag ski resort operates on the slopes directly above the village.

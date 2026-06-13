@@ -13,6 +13,7 @@ story: >
   nearby to serve the growing population.
 latitude: 11.992
 longitude: 8.519
+score: 7.5
 ---
 
 The Emir's Palace is a sprawling compound of traditional Hausa-Islamic architecture — thick mud walls, layered gateways, and interior courtyards that have housed Kano's emirs for over 500 years. You cannot enter without a personal invitation from the emir, but the square in front is worth lingering in: local dignitaries and petitioners come and go throughout the day in a stream of colour and ceremony that gives you a real sense of the palace's continuing importance.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.0360
 longitude: 0.7340
+score: 5.9
 ---
 
 The Quay Theatre is Sudbury's main cultural venue, a 160-seat theatre beside the River Stour that runs a programme of drama, comedy, music, and film throughout the year. The venue is small enough that there is no bad seat in the house, and the programme — a mix of touring productions and local amateur work — is generally of a high standard for a town this size.

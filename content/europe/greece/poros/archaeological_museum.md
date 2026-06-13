@@ -7,6 +7,7 @@ tags:
 - museum
 title: Archaeological Museum of Poros
 type: poi
+score: 6.8
 ---
 
 The Archaeological Museum on Koryzis Square holds the finds from the Sanctuary of Poseidon — inscribed decree stones from the inter-state amphictyony, terracotta votives, pottery, and architectural fragments. The collection is modest but well-presented, and the inscriptions (with translations) give a sense of how the sanctuary operated as a political as well as religious institution across several centuries.

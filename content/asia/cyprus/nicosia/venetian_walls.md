@@ -12,6 +12,7 @@ story: >
   They barely had time to finish before the Ottomans arrived. The siege of 1570 lasted just
   45 days — a crushing defeat for the defenders despite the walls. Three of the original
   eleven bastions survive with their names intact: Podocataro, Caraffa, and Constanza.
+score: 7.9
 ---
 
 The walls that still ring the old city of Nicosia were built by the Venetians in the 1560s in a last-ditch effort to fortify their most valuable Mediterranean possession against Ottoman expansion. They form a perfect circle 4.5 km in circumference, with eleven bastions — one for each of the noble Venetian families that funded a section — and three gates. The design was considered state-of-the-art military engineering for its era, with low, angled bastions intended to deflect cannon fire rather than simply receive it.

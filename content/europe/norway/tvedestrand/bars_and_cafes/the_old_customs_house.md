@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 58.6230
 longitude: 8.9318
+score: 6.3
 ---
 
 One of the older buildings on the Tvedestrand waterfront, the former customs house dates from the town's busy nineteenth-century shipping years, when Norwegian timber and iron moved through the harbour in substantial quantities. It has since been converted into a bar and cafe, and the thick timber walls and low ceilings give it a character that the newer waterfront buildings lack.

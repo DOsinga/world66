@@ -9,6 +9,7 @@ latitude: 51.7535
 longitude: -1.2541
 story: >
   The Camera was funded by a bequest from the physician John Radcliffe, who left a fortune so vast that Oxford spent decades arguing about what to do with it. The domed rotunda, completed in 1749, was the first round library in England — and architects considered it so experimental that several refused the commission before James Gibbs accepted.
+score: 8.7
 ---
 
 The Radcliffe Camera is the defining image of Oxford — a great domed rotunda of golden Cotswold stone standing in the middle of Radcliffe Square, surrounded by the medieval buildings of Brasenose and All Souls colleges. Built in the Baroque style between 1737 and 1749, it originally housed the Radcliffe Science Library and now serves as a reading room for the Bodleian Library. Readers with a Bodleian card can work inside; everyone else gets the exterior.

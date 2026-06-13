@@ -12,6 +12,7 @@ tags:
 - nature
 title: Smith Rock State Park
 type: poi
+score: 8.9
 ---
 
 Smith Rock State Park is about 35 minutes east of Sisters in the high desert north of Bend, and is one of the most spectacular state parks in Oregon — a sudden uplift of vertical basalt and welded tuff above a meander of the Crooked River. The park is internationally famous among rock climbers as the birthplace of American sport climbing in the early 1980s, and on any sunny weekend the cliffs are dotted with climbers on hundreds of bolted routes.

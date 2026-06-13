@@ -13,6 +13,7 @@ story: >
   that he designed the towers by studying photographs of European cathedrals
   and drawing plans in the sand. The result is unlike any other church in Mexico —
   part European cathedral, part Mexican imagination, entirely his own.
+score: 8.8
 ---
 
 The Parroquia de San Miguel Arcángel is San Miguel's defining image — the pink neo-Gothic towers that rise above El Jardín and appear in every photograph of the city. The original church was built in the 17th century; the extraordinary facade was added in stages beginning in the 1880s, the work of a self-taught indigenous stonemason who transformed a colonial church into something that looks like a dream of Gothic Europe reconceived in rose-coloured stone.

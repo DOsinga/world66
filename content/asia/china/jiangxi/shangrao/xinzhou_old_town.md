@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 28.431
 longitude: 117.966
+score: 7.8
 ---
 
 Xinzhou (信州区) is the historical core of Shangrao, preserving sections of old town walls and Ming-dynasty streetscapes that give the district a tangible historical weight. The surviving wall sections are genuine — built during the Ming dynasty and partially intact rather than reconstructed for tourism — and the old streets within them contain traditional shophouses, temples, and residential compounds that have been little altered. By the standards of eastern China, where rapid development has erased most historic fabric, Xinzhou's survival is unusual.

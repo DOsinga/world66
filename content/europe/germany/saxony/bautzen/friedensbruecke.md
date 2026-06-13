@@ -8,6 +8,7 @@ tags:
 title: Friedensbrücke and old-town view
 type: poi
 snippet: The bridge across the Spree that gives Bautzen's classic postcard view of the old-town skyline
+score: 8.8
 ---
 
 The Friedensbrücke crosses the Spree on the north side of the old town and is the spot from which Bautzen looks most like the postcard. From mid-span you get all eleven medieval towers ranged along the bluff above the river, with the Ortenburg, the Alte Wasserkunst, and the cathedral grouped together — the kind of intact medieval skyline that survives in very few German cities.

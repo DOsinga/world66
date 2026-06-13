@@ -9,6 +9,7 @@ snippet: Spectacular 4th-century BC Lycian rock tomb carved into the cliff above
 latitude: 36.6183
 longitude: 29.1178
 story: "The tomb's facade imitates a Greek Ionic temple, complete with columns, but it was carved directly into the living rock around 350 BC. The inscription identifies it as belonging to Amyntas, son of Hermagios — probably a local dignitary, not a king, despite what the tour guides say."
+score: 8.1
 ---
 
 The Tomb of Amyntas is Fethiye's most recognisable landmark — a monumental Lycian rock tomb carved into the cliff face overlooking the town. The facade is designed to look like a Greek Ionic temple, with two columns and a triangular pediment, and it is impressive enough to make you stop and look up from almost anywhere in town.

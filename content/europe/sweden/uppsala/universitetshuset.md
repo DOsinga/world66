@@ -12,6 +12,7 @@ story: >-
 tags:
   - things_to_do
   - architecture
+score: 8.4
 ---
 
 The Universitetshuset, the main hall of Uppsala University, was inaugurated in 1887 as a deliberately grand statement of the institution's prestige. Its monumental Italianate facade dominates the square opposite the cathedral, and the great Aula inside — a frescoed ceremonial hall in red, gold, and white — is one of the most theatrical interiors in Sweden. This is where the university confers its degrees and where the Nobel Prize laureates sometimes come to lecture.

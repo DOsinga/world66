@@ -8,6 +8,7 @@ tags:
 - sight
 title: Col Agnel
 type: poi
+score: 8.2
 ---
 
 The Col Agnel climbs from Molines up to the Italian border at 2,744 metres, making it one of the highest paved passes in the Alps. The road is open roughly from June to October, depending on snow.

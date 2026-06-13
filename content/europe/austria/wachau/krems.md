@@ -13,6 +13,7 @@ story: >
   opens and the Danube widens, made it a natural trading point. The wine
   merchants of Krems were wealthy enough to build the Gothic and Renaissance
   houses that still define the old town.
+score: 8.1
 ---
 
 Krems an der Donau is the largest city on the Wachau — a city of about 25,000 people with a well-preserved medieval and Renaissance old town, several museums, and a lively university presence. It is the natural starting or finishing point for a Wachau cycling trip from the east, and the city makes a good overnight base for exploring the valley.

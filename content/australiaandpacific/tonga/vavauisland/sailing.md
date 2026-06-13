@@ -6,6 +6,7 @@ tags:
 - water_sports
 latitude: -18.65
 longitude: -173.98
+score: 9.0
 ---
 
 The Vava'u Group's combination of protected anchorages, predictable trade winds, and closely spaced islands makes it one of the premier bareboat charter destinations in the Pacific. Distances between islands are short — most passages are under two hours — and the anchorages are sheltered enough that a novice skipper can handle most conditions. Dozens of undeveloped islands with beaches and snorkelling are within a day's sail of Neiafu.

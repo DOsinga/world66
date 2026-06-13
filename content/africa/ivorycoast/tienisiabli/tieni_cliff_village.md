@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.6833
 longitude: -7.5167
+score: 7.9
 ---
 
 Tieni is the upper settlement, perched on a cliff face above the valley. The village is built directly into the rock, with houses clinging to ledges and paths that require care in wet weather. The setting is the point: from the cliff edge, the forested valley below stretches out in shades of green, with Siabli visible at the foot of the slope and the broader highland landscape extending toward the horizon.

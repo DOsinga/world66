@@ -7,6 +7,7 @@ tags:
 title: Le Farinet
 type: poi
 snippet: Iconic après-ski terrace on Place Centrale
+score: 6.6
 ---
 
 The Farinet's south-facing terrace on Place Centrale is one of the great après-ski stages in the Alps — a tiered open-air bar with live bands every afternoon from late January to early April. From around 16:00 the terrace fills with ski boots and beer; the resident DJs and bands keep it loud until early evening.

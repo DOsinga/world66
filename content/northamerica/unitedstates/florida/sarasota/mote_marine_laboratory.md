@@ -8,6 +8,7 @@ tags:
   - sight
 title: Mote Marine Laboratory & Aquarium
 type: poi
+score: 7.6
 ---
 
 Mote is both a working marine research institution and a public aquarium — the largest sharks in the tanks are actual research animals, not just exhibits. The aquarium covers Gulf of Mexico marine life, with touch tanks for rays and horseshoe crabs, a seahorse gallery, and a manatee rehabilitation facility where injured animals recover before release.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 11.4072
 longitude: -69.6776
+score: 7.3
 ---
 
 The Diocesan Museum occupies the former San Francisco convent half a block from the cathedral. The collection is religious art from across Falcón State — colonial silver, vestments, polychrome statues of saints, and a handful of important paintings — but the building itself, with its cloistered courtyard and original tile floors, is the highlight.

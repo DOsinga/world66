@@ -11,6 +11,7 @@ story: >
   lama of Lahaul. Its library holds scriptures so old that some monks cannot read them — they belong
   to lineages of Buddhist scholarship that dissolved centuries ago. The monastery also houses human
   skulls and skin drums used in tantric rituals, kept in a side chapel that is not always open to visitors.
+score: 8.8
 ---
 
 Kardang Gompa is the largest and most important monastery in the Lahaul valley, perched on the hillside directly across the Bhaga River from Keylong at around 3,500 metres. Getting there involves crossing the river and walking uphill through the village of Kardang — about 8 kilometres from town — but the effort is well rewarded. The monastery belongs to the Drukpa Kagyu school of Tibetan Buddhism and is still an active religious centre with a resident community of monks.

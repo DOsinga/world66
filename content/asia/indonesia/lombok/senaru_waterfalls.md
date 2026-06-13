@@ -7,6 +7,7 @@ tags:
 - sight
 title: Senaru Waterfalls
 type: poi
+score: 7.6
 ---
 
 Senaru is a village at the northern foot of Mount Rinjani, the main departure point for treks approaching from the north side. The village itself is interesting — a traditional Sasak settlement with stilted wooden houses and a weaving cooperative — but the main draw is the pair of waterfalls accessible on a 30-minute forest walk from the village.

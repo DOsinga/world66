@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.0855
 longitude: -1.3508
+score: 6.8
 ---
 
 The Dutch Cemetery in the old town of Elmina is a quiet, overgrown reminder of three centuries of European presence. Many of the tombstones date from the 17th and 18th centuries, with inscriptions in Dutch and Latin. The graves include merchants, soldiers, and officials who died in the service of the Dutch West India Company — many from tropical diseases rather than violence.

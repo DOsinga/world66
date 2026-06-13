@@ -5,6 +5,7 @@ latitude: 53.1435
 longitude: 0.3403
 tags: [things_to_do, sight, monument]
 story: The Jolly Fisherman was created in 1908 by John Hassall for a Great Northern Railway poster carrying the slogan "Skegness is SO bracing." Hassall was paid twelve guineas for the artwork and famously never visited the town until 1936, when the council finally invited him for the day to receive the freedom of the borough.
+score: 4.8
 ---
 
 A bronze statue of the dancing Jolly Fisherman stands on the Tower Esplanade roundabout, and a second statue sits in Compass Gardens behind the seafront. He is the most famous fictional resident of the town and one of the most enduring tourism mascots in Britain — a stout, red-cheeked man in oilskins skipping along the beach.

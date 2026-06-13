@@ -15,6 +15,7 @@ story: >
   now serves as the main gallery. The museum is named for Morris Graves, the
   visionary Pacific Northwest painter whose meditative bird paintings brought
   international attention to the region in the mid-20th century.
+score: 7.5
 ---
 
 The Morris Graves Museum of Art occupies the Carnegie Free Library building on F Street, a handsome 1902 Classical Revival structure with high ceilings and arched windows that make for excellent gallery space. The Humboldt Arts Council operates the museum, which hosts rotating exhibitions of regional and national art alongside a permanent collection that includes work by its namesake.

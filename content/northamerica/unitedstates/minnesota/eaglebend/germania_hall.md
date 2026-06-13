@@ -9,6 +9,7 @@ latitude: 46.2163
 longitude: -94.9681
 sources:
   - https://en.wikipedia.org/wiki/Germania_Hall
+score: 5.8
 ---
 
 Germania Hall is a historic community hall northeast of Eagle Bend, a rare surviving reminder of the immigrant and township social life that shaped this part of Minnesota. Buildings like this mattered because they gave scattered farm families a place to gather, argue, dance, vote, and belong.

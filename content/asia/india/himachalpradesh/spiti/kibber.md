@@ -8,6 +8,7 @@ latitude: 32.3853
 longitude: 78.0003
 sources:
   - https://en.wikipedia.org/wiki/Kibber
+score: 8.1
 ---
 
 Kibber is one of the highest permanently inhabited villages in the world with motorable road access, sitting at around 4,270 metres with views across the Spiti Valley and the peaks of the Spiti-Kinnaur watershed. For decades it was cited as the highest village in the world with a road — a distinction now competed by several others — but the setting remains extraordinary, and the village itself is one of the most photogenic in Spiti.

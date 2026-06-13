@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 43.2200
 longitude: 116.6000
+score: 7.5
 ---
 
 Dali Lake (达里湖, Dalinuoer) is a large alkaline lake within the Hexigten Geopark, surrounded by steppe grassland at an altitude of about 1,226 metres. It is not to be confused with the more famous Dali in Yunnan — this lake has its own character: glassy water reflecting an enormous sky, reed-fringed shores, and the distant silhouette of volcanic hills. The Hexigten Mongolian name means "ocean of the grassland," and the scale of the landscape does justice to that description.

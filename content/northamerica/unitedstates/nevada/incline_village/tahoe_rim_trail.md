@@ -6,6 +6,7 @@ longitude: -119.9519
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 The Tahoe Rim Trail is a 165-mile loop circumnavigating Lake Tahoe along the ridgeline above the water. Several sections of the trail are easily accessed from Incline Village, offering day hikes with views down into the lake from above. The trail climbs through pine and fir forest before breaking out onto open granite ridges — the scale of the lake becomes apparent once you gain elevation and can see the full oval of water below.

@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Blue Nose Restaurant and Grill
 type: poi
+score: 4.9
 ---
 
 Good choice of seafood, pasta, and vegetarian meals. Fully licensed. Well used by locals and visitors alike, with great value for money.

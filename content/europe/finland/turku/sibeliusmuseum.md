@@ -10,6 +10,7 @@ snippet: Museum dedicated to Finland's great composer and 300 historic instrumen
 tags:
 - things_to_do
 - museum
+score: 7.3
 ---
 
 The Sibelius Museum is one of the few museums in the world dedicated to a single composer. The collection covers Jean Sibelius's life and career through manuscripts, instruments, and personal effects, and also holds around 300 historical instruments from across Europe. The building itself is a striking piece of 1960s brutalist architecture by Woldemar Baeckman, designed so that its concrete forms echo the acoustics of music.

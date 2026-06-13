@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 37.2873
 longitude: 13.5441
+score: 6.8
 ---
 
 The birthplace of Luigi Pirandello — Nobel laureate, playwright, and arguably the most significant Italian writer of the 20th century — is preserved as a museum in the Caos neighbourhood between Agrigento and Porto Empedocle. Pirandello was born here in 1867, and the house reflects the provincial intellectual world of late 19th-century Sicily: a middle-class sulphur merchant's home in an olive grove above the sea.

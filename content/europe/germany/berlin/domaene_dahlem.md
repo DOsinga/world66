@@ -13,6 +13,7 @@ tags:
 title: Domäne Dahlem
 type: poi
 url: www.stadtmuseum.de
+score: 7.9
 ---
 
 A working farm estate and open-air museum in the leafy southwest of the city, showing the history of agriculture in and around Berlin. The regular weekend markets draw locals as much as tourists — you can buy handmade pottery, textiles, and farm produce. The Advent market in December is particularly good.

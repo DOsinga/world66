@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 28.6850
 longitude: 115.8900
+score: 6.7
 ---
 
 The Nanchang Army Museum (陆军博物馆, formerly the Army Infantry College Museum) covers the history of Chinese ground forces from the Nanchang Uprising to the present day. The outdoor exhibits include tanks, artillery pieces, and military vehicles that can be examined at close range. Indoor galleries cover the major campaigns of the PLA's history with maps, weapons, uniforms, and equipment.

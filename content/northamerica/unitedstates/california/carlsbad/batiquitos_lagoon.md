@@ -8,6 +8,7 @@ latitude: 33.0938
 longitude: -117.3014
 story: >
   Batiquitos Lagoon was nearly destroyed in the 1980s by sedimentation that cut it off from tidal flushing. A restoration project completed in 1997 reopened the tidal inlet and restored the salt marsh — and within a few years, the California least tern and western snowy plover, both federally threatened species, had returned to nest on the newly-formed sandbars.
+score: 8.1
 ---
 
 Batiquitos Lagoon is one of the few remaining coastal wetlands in Southern California that still receives regular tidal flushing, and the result is a thriving salt marsh that hosts more than 130 bird species throughout the year. Great blue herons stand motionless in the shallows, osprey patrol overhead, and in winter the lagoon attracts diving ducks and shorebirds in numbers that serious birders travel far to see.

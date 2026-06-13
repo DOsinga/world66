@@ -6,6 +6,7 @@ latitude: -15.6553
 longitude: -69.7236
 snippet: Larger, quieter island further from Puno, the standard overnight stop
 story: The island's two main hills are crowned with pre-Inca ruins dedicated to Pachatata (Father Earth) and Pachamama (Mother Earth). Each year the islanders perform ceremonies at both temples, alternating which is "open" to receive offerings — a system that links the agricultural calendar to the older Andean cosmology.
+score: 8.5
 ---
 
 The further of the two main inhabited islands east of Puno, about four hours by boat and the standard choice for an overnight stay. Amantaní is bigger and less visited than [Taquile](/southamerica/peru/puno/taquile_island), with terraced fields of broad beans and quinoa rising to two hilltops crowned with pre-Inca temples.

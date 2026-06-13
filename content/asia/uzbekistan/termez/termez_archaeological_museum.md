@@ -12,6 +12,7 @@ story: >
   Taliban had just destroyed the Bamiyan Buddhas in Afghanistan, and
   Termez's Buddhist heritage suddenly seemed both more important and more
   fragile than before.
+score: 8.6
 ---
 
 The Termez Archaeological Museum houses over 27,000 artefacts drawn from the sites scattered across the Surkhandarya region, making it the essential first stop before visiting any of the outdoor sites. The collections cover the full sweep of Termez's history: Greek-Bactrian coins and pottery, Buddhist sculptures and murals from Fayaz Tepe and Kara Tepe, early Islamic ceramics, and material from the Kushan Empire period when this was one of the most cosmopolitan cities in Central Asia.

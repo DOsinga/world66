@@ -8,6 +8,7 @@ latitude: 29.9699
 longitude: 78.1607
 story: >
   According to Hindu tradition, seven great sages — the Sapta Rishis — were meditating on the banks of the Ganges here when the river, unwilling to disturb their meditation, split into seven streams to flow around them. The channels of the Ganges in Haridwar still carry the name "Sapt Dhara" — seven streams — in their memory.
+score: 7.5
 ---
 
 Sapta Rishi Ashram sits at the point where the Ganges splits into multiple channels before flowing through Haridwar, about 5 kilometres upstream from Har Ki Pauri. The setting is beautiful — the river is wide and fast here, the forest comes down to the water, and the distant Himalayan foothills are visible in the morning light. It is quieter than central Haridwar and more conducive to contemplation.

@@ -13,6 +13,7 @@ story: >
   months of wages to commission. The tradition predates the Spanish conquest,
   and the Christian overlay was added gradually over centuries rather than
   imposed all at once.
+score: 9.4
 ---
 
 The Carnaval de Oruro is one of South America's great festivals, designated a UNESCO Intangible Cultural Heritage of Humanity. It takes place in February or early March (the exact dates change each year, falling on the Saturday before Ash Wednesday) and draws over 400,000 visitors to a city of 280,000 people.

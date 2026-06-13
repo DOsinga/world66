@@ -8,6 +8,7 @@ tags:
   - hiking
 title: Prehistoric Rock Carvings
 type: poi
+score: 7.3
 ---
 
 The hills above Plodio contain rock carvings — engravings cut into the sandstone outcrops — that attest to human settlement in this valley long before the written record begins. The carvings include cup marks, geometric patterns, and animal figures typical of the prehistoric rock art found across the western Ligurian Alps and into Piedmont. The precise dating is uncertain, but similar carvings in neighbouring valleys have been placed in the Bronze Age.

@@ -9,6 +9,7 @@ latitude: 18.0178
 longitude: -76.7707
 story: >
   Hope Gardens was established on land purchased from Major Richard Hope after the 1655 British conquest of Jamaica. It became a government agricultural station in 1873 and was gradually transformed into Jamaica's first botanical garden. The grounds contain over 200 species of tropical trees — some of them specimens planted in the Victorian era and now mature to heights that make the garden feel like a forest rather than a park.
+score: 7.6
 ---
 
 Hope Botanical Gardens in the Hope Road area of Kingston is the largest botanical garden in the English-speaking Caribbean — 200 acres of mature tropical plantings, formal garden beds, orchid house, palm avenue, and open lawns that provide a genuinely restful escape from the city. The location on the road between New Kingston and the University of the West Indies (UWI) campus makes it easily accessible.

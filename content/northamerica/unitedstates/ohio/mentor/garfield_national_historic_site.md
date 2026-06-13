@@ -16,6 +16,7 @@ story: >
   with a presidency that lasted only 200 days.
 sources:
   - https://en.wikipedia.org/wiki/James_A._Garfield_National_Historic_Site
+score: 8.6
 ---
 
 Lawnfield, as the Garfield family called their property, is the best-preserved campaign home in American political history. Garfield bought the farmhouse in 1876 and enlarged it significantly to accommodate his large family before the 1880 election. During the campaign, he stayed home while delegations of supporters made pilgrimages from across the country to hear him speak from the porch — an approach that contrasted sharply with the barnstorming style of many political rivals and that worked. He won.

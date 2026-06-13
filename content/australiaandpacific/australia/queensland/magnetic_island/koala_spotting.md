@@ -9,6 +9,7 @@ story: >
   estimated at over 500 animals on an island of about 52 square kilometres. The density
   is roughly ten times higher than on the mainland, partly because introduced predators
   like foxes and wild dogs have not established themselves on the island.
+score: 8.7
 ---
 
 Magnetic Island has one of the highest densities of wild koalas in Australia, and unlike many places where koalas are presented in wildlife parks, here they are genuinely wild and genuinely abundant. The eucalyptus forests of the national park shelter hundreds of animals, and spotting them requires nothing more than looking up into the tree forks along any of the walking trails.

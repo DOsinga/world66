@@ -5,6 +5,7 @@ tags:
   - day_trips
 latitude: 44.6580
 longitude: 24.2580
+score: 7.1
 ---
 
 Drăgășani, about 50km south of Râmnicu Vâlcea, is one of Romania's oldest and most distinctive wine regions, producing whites from native varieties — Crâmpoșie Selecționată, Tămâioasă Românească, and Fetească Regală — that are largely unknown outside the country and that reward exploration. A handful of estates have begun welcoming visitors for tastings, and the vineyards on the rolling hills above the Olt make for an easy and pleasant drive.

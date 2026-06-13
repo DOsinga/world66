@@ -8,6 +8,7 @@ tags:
   - industrial_history
 title: "Salin-de-Giraud"
 type: poi
+score: 6.9
 ---
 
 Salin-de-Giraud is the stark, working edge of the Camargue, built around salt production near the eastern mouth of the Rhone. Its grid of workers' houses and huge salt pans feel more industrial than Provencal.

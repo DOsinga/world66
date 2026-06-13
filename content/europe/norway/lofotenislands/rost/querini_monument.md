@@ -12,6 +12,7 @@ story: >
   an uninhabited island near Røst, in January 1432. The survivors were found half-dead and
   nursed back to health by the islanders — the first documented encounter between Venice and
   the people of the far north.
+score: 7.4
 ---
 
 On the small island of Sandøy, accessible by boat from Røstlandet, a monument marks the spot where the Venetian merchant Pietro Querini and his surviving crew came ashore in January 1432 after drifting helplessly for weeks in the North Sea. They had set out from Crete bound for Flanders; a storm destroyed their ship in the Atlantic. Of the forty or so men who initially took to lifeboats, only eleven survived to reach Sandøy.

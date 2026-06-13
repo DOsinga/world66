@@ -12,6 +12,7 @@ story: >
   making it the last European port of call before crossing the Atlantic. On the first voyage
   in September 1492, he spent several days here reprovisioning and repairing the Pinta's
   rudder before the fleet sailed on 6 September into waters no European had charted.
+score: 7.9
 ---
 
 The Casa de Colón occupies a restored colonial building a short walk from the waterfront and tells the story of Columbus's connection to La Gomera in a measured, well-assembled way. The displays cover the political and navigational context of the 1492 voyage, the fleet's composition, and the island's role as a provisioning stop — a role San Sebastián played three times over as Columbus returned to the Americas on subsequent expeditions.

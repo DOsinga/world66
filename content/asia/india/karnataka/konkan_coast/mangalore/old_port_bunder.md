@@ -7,6 +7,7 @@ tags:
 latitude: 12.8614
 longitude: 74.8397
 snippet: Mangalore's historic port district with fish market and old trading quarter
+score: 8.3
 ---
 
 The Bunder area is the oldest commercial district in Mangalore, clustered around the old port where the Gurpur River meets the sea. For centuries this was where Arab, Portuguese, and later British merchants traded pepper, cardamom, and cashews from the Western Ghats interior. Today it's still a working port district, with fish markets, warehouses, and the particular smell and noise of a port that hasn't been sanitised for tourism.

@@ -15,6 +15,7 @@ story: >
   campaign that would culminate in the Mississippi Freedom Summer of 1964, when hundreds 
   of student volunteers came south to register voters and run Freedom Schools. Hattiesburg 
   was one of the campaign's focal points.
+score: 7.4
 ---
 
 Smith Drug Co. on Mobile Street is a historic African American-owned pharmacy that played a role in the Civil Rights Movement in Hattiesburg during the 1960s. The building is preserved as a museum and heritage site documenting the local civil rights struggle, with particular focus on the voter registration campaigns that made Hattiesburg a significant site in the broader Mississippi movement.

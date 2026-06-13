@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 6.2
 ---
 
 The covered bazaar in the centre of town is the social hub — a maze of stalls selling spices, dried apricots and almonds from the surrounding villages, watermelons in summer, Russian sausage, Chinese-imported clothes, and the inevitable rows of optimistic mobile phone accessories. Mornings are busiest; by mid-afternoon the produce traders have packed up.

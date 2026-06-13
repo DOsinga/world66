@@ -9,6 +9,7 @@ tags:
   - sight
   - festival
 story: "The Denbigh Show, run every Emancipation/Independence weekend in early August, has been held since 1952 and is the showcase of Jamaican farming. The crowds come to see prize-winning bulls, the best yam at the giant-vegetable competition (a category that gets unusually fierce), and the marching bands and reggae acts of the evening programme."
+score: 6.8
 ---
 
 On the western edge of town, Denbigh's expansive showground hosts the Jamaica Agricultural Society's annual Denbigh Show on the Emancipation/Independence long weekend (1–6 August). It is the country's biggest farming festival — three days of livestock judging, food competitions, agro-processing demonstrations, marching bands and concerts. Tens of thousands attend.

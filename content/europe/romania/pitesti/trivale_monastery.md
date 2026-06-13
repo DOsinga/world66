@@ -8,6 +8,7 @@ latitude: 44.8530
 longitude: 24.8485
 sources:
   - https://en.wikipedia.org/wiki/Trivale_Monastery
+score: 6.8
 ---
 
 The Trivale Monastery sits within the large Trivale forest park on the western edge of Pitești — a pleasant contrast to the industrial outskirts of the city. The monastery dates to the late 16th century, with later rebuilding, and its frescoes and iconostasis are worth a look.

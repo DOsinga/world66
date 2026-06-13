@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.2000
 longitude: 72.8350
+score: 5.4
 ---
 
 The Tapi River runs through the northern part of Surat before emptying into the Gulf of Khambhat, and the riverfront area has been significantly developed in recent years as a public promenade and park. The Dumas Road and Hazira shoreline developments have added gardens, walking paths, and viewing areas along the water's edge.

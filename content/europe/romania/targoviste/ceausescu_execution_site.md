@@ -9,6 +9,7 @@ tags:
   - museum
   - historic
 story: "The trial lasted under two hours. The judge read out the charges; Elena Ceaușescu shouted that the court was illegitimate; Nicolae refused to recognise it. Forty-five minutes later the verdicts were read, the couple were marched to the wall, and three soldiers — chosen from volunteers — fired. The bodies are preserved in the museum and a stenographic transcript of the trial is on the wall."
+score: 7.8
 ---
 
 The military garrison at the southern edge of Târgoviște was the site of the trial and execution of Nicolae Ceaușescu and his wife Elena on Christmas Day 1989. A small museum on the grounds preserves the courtroom, the wall against which they were shot, and the bullet holes — the most visceral monument to the end of communism anywhere in Europe.

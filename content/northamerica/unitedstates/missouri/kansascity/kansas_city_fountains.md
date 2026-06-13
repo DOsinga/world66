@@ -12,6 +12,7 @@ tags:
 - sight
 title: Kansas City Fountains
 type: poi
+score: 7.1
 ---
 
 Kansas City's claim to have more fountains than any city outside Rome is more than civic boosterism — the count is genuinely over 200, and many of them are architecturally significant. The tradition began in the 1890s when wealthy citizens began donating fountains as civic gifts, accelerated through the Park Commission's work in the early 20th century, and continued with the Country Club Plaza's Spanish-inspired water features. The result is a city where grand Beaux-Arts fountains appear at intersections, in parks, and along boulevards with unusual frequency.

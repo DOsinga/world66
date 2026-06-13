@@ -9,6 +9,7 @@ tags:
 - posta
 title: Old Boma
 type: poi
+score: 7.4
 ---
 
 The Old Boma on Sokoine Drive is the oldest standing building in the city, a single-storey block of coral rag and lime plaster put up by the Sultan of Zanzibar in 1867 as the local administrative seat. The wide verandah and carved Zanzibari door — studded with brass spikes once meant to defeat war elephants — survive almost intact. The Germans later used the building as their first colonial headquarters; the British added the upper floor and the corner balcony.

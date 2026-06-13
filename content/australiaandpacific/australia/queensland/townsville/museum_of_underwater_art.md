@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 7.9
 ---
 
 The Museum of Underwater Art (MOUA) is a series of large-scale sculptures installed on the seafloor off Townsville, designed by British sculptor Jason deCaires Taylor. Each piece serves a dual purpose: as a work of art viewed by snorkellers and divers, and as an artificial reef structure that encourages coral growth and provides habitat for marine life. The sculptures are made from pH-neutral marine cement and are designed to be colonised by the reef over decades.

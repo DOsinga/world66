@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.2867
 longitude: 130.5797
+score: 7.2
 ---
 
 Ohko Falls, on the south coast of Yakushima, drops 88 metres directly into the sea — a dramatic cascade that is one of the most visually distinctive sights on the island. Unlike most of Yakushima's attractions, which require hiking into the forest interior, Ohko Falls is easily reached by car or bus, with a short walk from the road to the viewing area at the base. When rainfall has been heavy, which is often, the falls are at their most spectacular.

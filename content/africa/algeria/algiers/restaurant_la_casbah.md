@@ -6,6 +6,7 @@ longitude: 3.0610
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 La Casbah is one of the best-known traditional restaurants in the Casbah itself, serving classic Algerian couscous and tagine dishes in a restored Ottoman house. The setting is the draw as much as the food: marble floors, a central courtyard, painted ceiling beams. The couscous with lamb and seven vegetables is the dish to order.

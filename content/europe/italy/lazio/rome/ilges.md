@@ -10,6 +10,7 @@ tags:
 - church
 title: Il Gesù
 type: poi
+score: 8.8
 ---
 
 The mother church of the Jesuit order, built between 1568 and 1584 to designs by Vignola (nave) and Giacomo della Porta (façade). Its wide single nave — designed to pack in large congregations for sermons — became the template for Jesuit churches across the world. The ceiling fresco by Baciccia, the Triumph of the Name of Jesus (1679), is one of the most theatrical pieces of illusionistic Baroque painting in Rome: figures and angels seem to tumble out of the ceiling into the church below.

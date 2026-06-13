@@ -6,6 +6,7 @@ tags:
 - museum
 title: Government Museum
 type: poi
+score: 8.0
 ---
 
 The Government Museum in Cubbon Park is one of the oldest public museums in India, established in 1886. It holds a broad and genuinely impressive collection: stone sculptures from the Hoysala and Chalukya periods, ancient coins, bronzes, manuscripts, and decorative arts from across Karnataka. The Harappan gallery, with artifacts from the Indus Valley Civilisation including seals and pottery, is worth particular attention — it puts Bangalore's history in a much deeper frame than the city's tech-boom reputation might suggest.

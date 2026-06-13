@@ -14,6 +14,7 @@ story: >
   Menéndez de Avilés, the founder of St. Augustine. The shipwrecked French
   soldiers surrendered expecting mercy but were killed on the banks of the
   inlet, and Menéndez chose the name deliberately as a warning.
+score: 7.8
 ---
 
 Fort Matanzas sits on a small island about 14 miles south of St. Augustine, accessible by a free National Park Service ferry that runs throughout the day. The coquina watchtower was built by the Spanish between 1740 and 1742 to guard the southern approach to the city after a British fleet had demonstrated the vulnerability of the inlet. The tower was small by fort standards — it held a garrison of just a dozen men — but it successfully deterred attack from the south. When Florida passed to the British in 1763, the garrison was withdrawn and the fort was abandoned.

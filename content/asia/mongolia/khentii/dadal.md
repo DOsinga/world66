@@ -13,6 +13,7 @@ story: >
   language. The text places his birth on the banks of the Onon River in 1162, though
   scholars continue to debate the exact site. A stone memorial was erected here in
   1962 to mark the 800th anniversary of his birth.
+score: 7.2
 ---
 
 Dadal is a small sum (district centre) in the northeastern corner of Khentii province, reached via a long, rough track from Undurkhaan or over the mountains from Binder. Most visitors come because the town sits at the confluence of the Onon and Balj rivers, in the territory traditionally identified as the birthplace of Temujin — who would become Genghis Khan.

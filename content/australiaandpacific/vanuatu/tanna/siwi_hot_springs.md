@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -19.5000
 longitude: 169.3500
+score: 6.6
 ---
 
 The Siwi area in the interior of Tanna has a series of hot springs and geothermal features fed by the same volcanic system that powers Mount Yasur. The springs are not developed for tourism and the pools are not suitable for bathing (the water is too hot in places), but the landscape — steaming vents, mineral-stained ground, and the smell of sulphur — is striking.

@@ -15,6 +15,7 @@ story: >
   European mercenaries, defending a trade route worth more than anything in Asia.
   The Portuguese were expelled by a combined Persian-British force in 1622 — the
   alliance is sometimes cited as the first significant British-Iranian military cooperation.
+score: 8.1
 ---
 
 The Portuguese Fort is the most substantial historical structure on Hormuz and one of the best-preserved Portuguese fortifications in the Persian Gulf region. Built in the early sixteenth century from the island's distinctive red iron-oxide stone, it occupies a promontory on the northern shore and commands views across the narrow strait towards the Iranian mainland. The walls, bastions, and a circular keep are largely intact, giving a vivid impression of the fortification's original scale.

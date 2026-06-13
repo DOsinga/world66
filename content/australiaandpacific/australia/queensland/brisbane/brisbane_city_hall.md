@@ -16,6 +16,7 @@ story: >
   the hall served as a transit point for Australian and American troops, and
   General Douglas MacArthur used Brisbane as his headquarters for the Pacific
   campaign.
+score: 8.2
 ---
 
 Brisbane City Hall on King George Square is one of the finest municipal buildings in Australia — a grand 1930 neoclassical structure with a 91-metre clock tower that still defines the city centre skyline from certain angles. The building is free to enter, and it is worth going inside to see the ornate auditorium and the Museum of Brisbane on the ground floor, which covers the city's history through rotating exhibitions.

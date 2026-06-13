@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 33.9412
 longitude: -84.2136
+score: 6.8
 ---
 
 Norcross's historic district is a compact, walkable town centre with Victorian-era commercial buildings grouped around a small town green and park. The scale is human and the atmosphere is genuinely local rather than tourist-polished — there are antique shops, a few restaurants, and the Lionheart Theatre Company, a community theatre that has operated here for decades and has a reputation well above the usual local theatre standard.

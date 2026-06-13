@@ -9,6 +9,7 @@ tags:
 latitude: 50.36943
 longitude: -4.1399
 snippet: Plymouth's oldest house, a 15th-century merchant's courtyard beside St Andrew's
+score: 7.2
 ---
 
 Prysten House is a Grade I listed medieval building dating from around 1498, making it one of the oldest domestic buildings in Plymouth. It stands just beside St Andrew's Church and was built as a merchant's house around a small courtyard — the kind of structure that was common in prosperous Tudor ports but has almost entirely disappeared.

@@ -7,6 +7,7 @@ tags:
 title: Mikoyan Brothers Museum
 type: poi
 story: "Artem Mikoyan designed the MiG series of fighter jets — the 'Mi' in MiG stands for his surname. His older brother Anastas served as a top Soviet politician under both Stalin and Khrushchev, one of the very few to survive both regimes with his head attached."
+score: 6.8
 ---
 
 In the old school building near the monastery, this small museum celebrates Sanahin's most famous sons. Artem Mikoyan was the aircraft designer behind the legendary MiG fighter jets, and his older brother Anastas was a senior Soviet politician who navigated the dangerous waters of Stalinist politics with remarkable skill. Both were born here in the early 1900s when Sanahin was a remote Armenian village in the Russian Empire.

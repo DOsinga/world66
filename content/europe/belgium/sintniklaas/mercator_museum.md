@@ -11,6 +11,7 @@ tags:
 - museum
 title: Mercator Museum
 type: poi
+score: 7.6
 ---
 
 The Mercator Museum holds the largest collection of globes and maps in Belgium, gathered around the legacy of Gerard Mercator (1512–1594), the Flemish cartographer who revolutionised navigation with his 1569 world map projection. The museum's collection includes original Mercator globes, 16th and 17th-century maps, and instruments used in early cartography and navigation.

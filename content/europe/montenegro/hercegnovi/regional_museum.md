@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Local history and ethnography in an 18th-century baroque palace"
+score: 6.7
 ---
 
 The Regional Museum (Zavičajni muzej) occupies the Komnenović family palace just above the old town. The building itself — baroque, with a long stone balcony and a walled garden — is half the appeal. Inside, the collection covers everything from prehistoric finds in the Orjen caves to icons of the local Boka school and 19th-century maritime artefacts.

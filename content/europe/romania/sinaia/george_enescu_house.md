@@ -6,6 +6,7 @@ latitude: 45.3669
 longitude: 25.5483
 sources:
   - https://en.wikipedia.org/wiki/George_Enescu_House
+score: 7.1
 ---
 
 The Vila Luminița is the Sinaia summer home of George Enescu, Romania's greatest composer, now preserved as a memorial museum. Enescu was a towering figure in Romanian cultural life: virtuoso violinist, conductor, pianist, and the composer of two Romanian Rhapsodies that remain among the most performed orchestral pieces from the region. He was also the teacher of Yehudi Menuhin, who considered him the most important influence on his musical life.

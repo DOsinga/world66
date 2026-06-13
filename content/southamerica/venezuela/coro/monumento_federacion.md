@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.4242
 longitude: -69.6449
+score: 5.2
 ---
 
 The Monument to the Venezuelan Federation stands on the eastern edge of Coro, a tall obelisk surrounded by a circular plaza. It commemorates the Federal War of 1859–1863 and the Liberal victory that turned Venezuela from a centralist into a federal republic — a struggle in which Falcón State played a leading role.

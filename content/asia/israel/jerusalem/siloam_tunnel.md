@@ -13,6 +13,7 @@ story: >
   the middle, a feat recorded on an inscription (the Siloam Inscription) discovered
   in 1880 and now in Istanbul. How they kept the two crews on a converging course is
   still debated.
+score: 8.2
 ---
 
 Cut through the bedrock of the City of David during the reign of King Hezekiah around 701 BCE, this ancient water tunnel diverted the Gihon Spring into the Pool of Siloam inside Jerusalem's walls ahead of the Assyrian siege. The tunnel runs 533 metres in near-total darkness, and you can walk its full length wading through ankle-to-knee-deep water. Torches are available at the entrance; closed-toe shoes are essential.

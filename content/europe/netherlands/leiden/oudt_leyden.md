@@ -4,6 +4,7 @@ type: poi
 latitude: 52.1622
 longitude: 4.4846
 tags: [eating_out, restaurant]
+score: 6.0
 ---
 
 A pancake restaurant on the Steenstraat near the windmill museum, Oudt Leyden has been serving traditional Dutch pancakes — the giant, thin, savoury or sweet kind — for decades and is the standard local recommendation for visiting families and tourists. The interior is old-fashioned but the kitchen is reliable and the menu has the full ridiculous range of toppings.

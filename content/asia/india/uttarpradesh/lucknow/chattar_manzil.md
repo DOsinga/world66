@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 26.8634
 longitude: 80.9326
+score: 8.0
 ---
 
 Chattar Manzil — the "Umbrella Palace" — is a 19th-century Nawabi palace on the Gomti, named for the gilded umbrella-shaped chattri that crowns its central dome. The building is a hybrid: classical European columns and pediments combined with Mughal-style chhatris and an underground basement (the **tehkhana**) that was kept naturally cool in summer by water channels from the river.

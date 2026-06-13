@@ -6,6 +6,7 @@ longitude: 101.6868
 tags:
   - things_to_do
   - neighbourhood
+score: 7.7
 ---
 
 KL's Little India, a few hundred metres south of KL Sentral station, where saree shops, gold jewellers, flower garland sellers, and South Indian banana-leaf restaurants run for several blocks along Jalan Tun Sambanthan. The neighbourhood was originally the brick-firing yard that supplied the city's rebuilding after the 1881 fire — hence the name — and was settled by Tamil railway workers under the British. It is still the cultural heart of KL's Tamil community.

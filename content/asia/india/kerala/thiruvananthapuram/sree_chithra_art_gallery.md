@@ -8,6 +8,7 @@ latitude: 8.5111
 longitude: 76.9550
 sources:
   - https://en.wikipedia.org/wiki/Sree_Chithira_Art_Gallery
+score: 8.1
 ---
 
 Sree Chithra Art Gallery houses one of the best collections of traditional Indian painting in Kerala, with a particular strength in Tanjore paintings, Mughal miniatures, Kangra school works, and the Kerala mural tradition. The gallery was founded in 1935 by the Travancore royal family and later taken over by the state government. It sits within the museum compound beside the Napier Museum, making it easy to combine both in a single visit.

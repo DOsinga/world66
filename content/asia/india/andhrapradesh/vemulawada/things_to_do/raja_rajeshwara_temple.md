@@ -9,6 +9,7 @@ tags:
   - temple
 sources:
   - https://en.wikipedia.org/wiki/Vemulawada_Temple
+score: 8.6
 ---
 
 The Sri Raja Rajeshwara Swamy Temple is the reason Vemulawada exists. It is one of the most venerated Shiva temples in south India — ancient, architecturally handsome, and busy with pilgrims on almost every day of the year. The presiding deity is Rajeshwara, a form of Shiva, and the temple's epithet "Dakshina Kashi" — the Kashi of the South — signals its standing: this is considered to be as sacred as Varanasi for Shaivite devotees across Telangana and beyond.

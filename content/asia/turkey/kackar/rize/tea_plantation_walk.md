@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 41.0300
 longitude: 40.5100
+score: 8.0
 ---
 
 The hillsides behind Rize are covered in tea bushes from sea level to about 1,000 metres, and walking among the plantations is one of the pleasures of the city. There is no formal trail system — you simply head uphill from the city on any of the lanes that climb through the gardens, and within twenty minutes you are in a different world of neat rows of dark green bushes, mountain streams, and wooden farmhouses.

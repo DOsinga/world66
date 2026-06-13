@@ -8,6 +8,7 @@ tags:
   - sight
   - lake
   - nature
+score: 5.5
 ---
 
 An artificial reservoir on the eastern edge of the city, fringed by woods and quiet villas. Locals come for early-morning runs, weekend cycling, and picnics. There is no urban infrastructure — no cafés on the water, no boat hire — but for a quiet half-day out of the city centre it is pleasant.

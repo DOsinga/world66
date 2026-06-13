@@ -8,6 +8,7 @@ tags:
 title: Birmingham Museum of Art
 type: poi
 story: "The Birmingham Museum of Art holds one of the largest Wedgwood collections in the world outside of England — over 1,800 pieces spanning nearly 250 years of production, including rare early 18th-century items. The museum also has a significant collection of Asian art accumulated largely through the 1950s and 1960s, and a Charles Octavius Beale portrait collection that documents Alabama's antebellum elite."
+score: 8.1
 ---
 
 The Birmingham Museum of Art is the largest art museum in the Southeast by square footage, and admission is free. The permanent collection spans 6,000 years and includes strong holdings in ancient art, Asian ceramics and decorative arts, and American and European paintings. The Wedgwood collection alone warrants a visit for anyone interested in the decorative arts.

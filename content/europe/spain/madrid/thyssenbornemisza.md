@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The collection was assembled over two generations by the German-Hungarian Thyssen-Bornemisza barons. When in the 1990s the heirs offered to sell it abroad, the Spanish government — encouraged by Carmen Cervera, the Spanish wife of the late Baron — bought it outright for around $350 million, the bargain art deal of the century."
+score: 9.2
 ---
 
 The smallest and most easily digested of the Golden Triangle's three museums, the Thyssen fills the gaps that the Prado (Spanish and pre-19th century) and the Reina Sofía (modern Spanish) leave. The collection runs chronologically from medieval altarpieces through Italian Renaissance, Dutch Golden Age, French Impressionism, German Expressionism, American post-war abstraction, and Pop Art — a one-museum tour through 700 years of Western painting.

@@ -8,6 +8,7 @@ latitude: 42.2045
 longitude: -122.7050
 sources:
   - https://en.wikipedia.org/wiki/Lithia_Fountain
+score: 5.8
 ---
 
 The Lithia springs that give Ashland's park its name emerge from the hillside northeast of town, rich in lithium bicarbonate, sodium bicarbonate, and enough sulphur compounds to make the water smell faintly of rotten eggs. In the early twentieth century, city promoters marketed Ashland as a health resort on the strength of these springs, hoping to rival the mineral-water towns of the eastern United States. The Chautauqua movement arrived, then the theatre festival, and the health-resort angle was quietly dropped.

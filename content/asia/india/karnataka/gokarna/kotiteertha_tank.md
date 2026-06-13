@@ -7,6 +7,7 @@ tags:
   - sight
 title: Kotiteertha Tank
 type: poi
+score: 7.5
 ---
 
 The large rectangular tank in the heart of Gokarna town is where Hindu pilgrims ritually bathe before visiting the Mahabaleshwara Temple. Kotiteertha means "ten million sacred fords" — bathing here is considered spiritually equivalent to bathing at countless holy rivers simultaneously. Stone steps lead down to the water on all four sides, and the ghats are busiest in the early morning and at dusk when pilgrims gather by lamplight.

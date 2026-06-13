@@ -14,6 +14,7 @@ story: >
   to breed on Texel after an absence of more than a century.
 sources:
   - https://en.wikipedia.org/wiki/Duinen_van_Texel_National_Park
+score: 8.9
 ---
 
 Duinen van Texel National Park covers the entire western and northern dune belt of the island — from the beaches up through the dunes and into the freshwater slacks, heath, and secondary woodland beyond. De Koog sits right on its edge, making it the most convenient base for exploring the park on foot or by bike.

@@ -15,6 +15,7 @@ story: >
   into the mountains and maintained their practices. Today the Tengger Hinduism practised here
   is distinct from Balinese Hinduism and incorporates older Javanese animist elements not found
   elsewhere in Indonesia.
+score: 6.7
 ---
 
 Bromo Tengger Semeru National Park covers over 800 square kilometres of highland East Java, encompassing the Tengger caldera and Bromo volcano in its northern section and Mount Semeru — Java's highest peak at 3,676 metres — in the south. The park was designated a national park in 1982 and is one of Java's most visited natural areas.

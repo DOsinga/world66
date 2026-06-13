@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 28.1840
 longitude: 112.9330
+score: 8.1
 ---
 
 Hunan University occupies the lower slopes of Yuelu Mountain, incorporating the Yuelu Academy — one of the four great centres of Song-dynasty Confucian scholarship — within its modern campus. The result is an unusually beautiful university: ancient lecture halls and Ming-dynasty gardens sit alongside Republican-era faculty buildings and mid-century teaching blocks, all threading through forested hillside. The contrast between the old academy courtyards and the crowded student cafeterias is part of the university's character rather than a problem to be solved.

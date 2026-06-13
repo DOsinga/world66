@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Wat Phra Sri Sanphet
 type: poi
+score: 9.4
 ---
 
 The most important temple in the old royal palace grounds, and Ayutthaya's equivalent of Bangkok's Wat Phra Kaew. The three iconic bell-shaped chedis, built between 1448 and 1530, contained the ashes of three Ayutthayan kings and have become the symbol of the city.

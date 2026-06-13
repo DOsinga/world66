@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -0.9490
 longitude: 100.3530
+score: 7.4
 ---
 
 The old Chinese quarter of Padang, known as Pondok, stretches along the waterfront south of the main port area. The shophouses here — two and three storeys of colonial-era Chinese commercial architecture in faded ochres and greens — line the narrow streets that run between the waterfront road and the market area behind.

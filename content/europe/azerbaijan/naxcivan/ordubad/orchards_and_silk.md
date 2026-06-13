@@ -9,6 +9,7 @@ longitude: 45.9300
 snippet: Mulberry plantations and fruit orchards surrounding the town, survivors of a silk industry
 sources:
   - https://en.wikipedia.org/wiki/Ordubad
+score: 7.8
 ---
 
 The countryside around Ordubad is defined by orchards and mulberry plantations in a way that immediately distinguishes it from the stark, eroded landscape of much of the Nakhchivan Republic. Silkworm breeding (sericulture) was practised here for centuries, with mulberry leaves as the feed crop. Though the industry has largely declined since Soviet times, the mulberry trees remain and give the village lanes and hillside terraces a lush, almost Mediterranean quality in spring and early summer.

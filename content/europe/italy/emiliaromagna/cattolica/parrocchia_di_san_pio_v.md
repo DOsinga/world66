@@ -6,6 +6,7 @@ longitude: 12.7387
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 The town's parish church, just inland of the seafront on Via Don Minzoni, was dedicated to Pope Pius V — the Counter-Reformation pontiff who organised the Christian fleet at Lepanto. Cattolica took its name from this same Catholic militancy in the seventeenth century: a small village that remained loyal to Rome at a moment when the surrounding territory was theologically in flux.

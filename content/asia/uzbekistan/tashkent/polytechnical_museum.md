@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 41.3073
 longitude: 69.2784
+score: 5.6
 ---
 
 A small museum dedicated to Soviet automotive and industrial heritage. The collection runs from early ZIS limousines through to Lada saloons and Volga taxis, plus a few aircraft, motorcycles, and farm machines. The cars are parked outdoors and you can wander among them.

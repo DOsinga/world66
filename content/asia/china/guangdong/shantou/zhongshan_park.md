@@ -7,6 +7,7 @@ tags:
 - park
 title: Zhongshan Park
 type: poi
+score: 6.4
 ---
 
 Zhongshan Park is an old-fashioned Chinese city park with lakes, bridges, pavilions, banyan shade, and morning exercise groups. It is not Shantou's grandest sight, but it is one of the easiest places to watch daily life unfold at a slower pace.

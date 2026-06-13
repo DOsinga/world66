@@ -7,6 +7,7 @@ snippet: "Local wine bar in the centro storico — the place to try Ischia's Bia
 tags:
 - eating_out
 - bar
+score: 6.2
 ---
 
 A small enoteca in the lanes of Forio's old town, stocking a well-chosen selection of Ischia wines alongside bottles from the rest of Campania. The focus is on local producers — Biancolella from the volcanic terraces above Forio and Panza, Guarnaccia reds, and the occasional rarity from the island's smaller growers. Bar snacks run to bruschetta, local cheeses, and cured meats.

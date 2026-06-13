@@ -7,6 +7,7 @@ tags:
 latitude: 38.6571
 longitude: -27.2169
 story: "The museum occupies the former Convent of São Francisco, one of the earliest Franciscan convents in the Azores, founded in 1510. During Terceira's brief period under Spanish rule (1583–1642), the convent was used as a barracks by Spanish troops. The convent church adjacent to the museum — the Igreja de Nossa Senhora da Guia — retains its original azulejo (tile) panels from the 17th century."
+score: 7.8
 ---
 
 The Angra do Heroísmo Museum is housed in the restored Convent of São Francisco, a 16th-century Franciscan complex that occupies a full block in the heart of the historic city. The collection covers the history of Terceira and the Azores across four floors: Azorean decorative arts, paintings, furniture, military artefacts, and a section on the natural history of the island.

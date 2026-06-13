@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Restored Victorian park designed by Thomas Mawson"
+score: 6.5
 ---
 
 Hanley Park is a fine late-Victorian public park between Hanley town centre and the railway station, designed by the landscape architect Thomas Mawson and opened in 1894. The bandstand, pavilion, ornamental lake, and Italianate bridges have all been carefully restored, and the park is now Grade II* listed.

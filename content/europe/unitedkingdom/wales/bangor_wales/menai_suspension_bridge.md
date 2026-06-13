@@ -12,6 +12,7 @@ story: >
   When it opened in January 1826, the Menai Suspension Bridge was the longest suspension bridge in the world, with a main span of 176 metres. Engineers came from across Europe and America to study it. The chains are the original iron links — they have been replaced in sections over the years, but the fundamental structure Telford designed has stood for nearly two centuries.
 sources:
   - https://en.wikipedia.org/wiki/Menai_Suspension_Bridge
+score: 8.6
 ---
 
 Thomas Telford's Menai Suspension Bridge, completed in 1826, is one of the great works of civil engineering. It was built to carry the London to Holyhead road (now the A5) across the Menai Strait, and its elegant proportions — tall limestone towers, sweeping chains, a roadway 30 metres above high water — remain visually stunning nearly two centuries later.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 12.1560
 longitude: -86.2715
+score: 7.2
 ---
 
 Casa Bendaña is a rare surviving example of pre-earthquake Managua architecture — a late 19th-century merchant's house on the edge of the old city plaza that has been restored and now functions as a small museum and cultural centre. The building gives a glimpse of what the old city centre looked like before 1972: thick adobe walls, internal courtyard, heavy wooden doors, and the kind of domestic scale that the ruined neoclassical buildings around it lack.

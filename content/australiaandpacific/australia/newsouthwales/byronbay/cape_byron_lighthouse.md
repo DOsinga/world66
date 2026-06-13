@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cape_Byron_Light
 story: >
   Cape Byron is the easternmost point of the Australian mainland — the first place on the continent to catch the sunrise. The lighthouse, completed in 1901, was deliberately built at the highest point of the headland rather than at the very tip, so its beam would clear the cliff and reach farther out to sea.
+score: 8.8
 ---
 
 The walk out to Cape Byron Lighthouse is the classic Byron Bay morning. The path from the town takes about 45 minutes each way, climbing through the small headland reserve before opening onto views of the coast in both directions: Main Beach and Clarkes Beach curving away to the north, Tallow Beach stretching south. The lighthouse itself is still operational, built from reinforced concrete in 1901 and one of the most powerful in Australia.

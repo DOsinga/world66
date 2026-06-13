@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 21.3925
 longitude: -157.7398
+score: 6.4
 ---
 
 Cinnamon's is the famous breakfast spot of Kailua, tucked behind a small strip mall on Kailua Road. The signature dishes are the red velvet pancakes and the guava chiffon pancakes — neither subtle, both enormous, and both responsible for waits of an hour or more on weekends. Eggs Benedict come in half a dozen variations.

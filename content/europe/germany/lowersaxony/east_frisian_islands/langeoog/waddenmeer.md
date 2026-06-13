@@ -13,6 +13,7 @@ story: >
   south of the island drain almost completely at low tide, exposing several
   square kilometres of mudflat that can be walked on foot — a strange and
   memorable experience in what looks from a distance like open water.
+score: 8.5
 ---
 
 The Wadden Sea — *Wattenmeer* — is the shallow tidal zone between Langeoog and the mainland coast, and it is one of the most productive marine ecosystems in Europe. At low tide the flats are exposed, revealing cockles, lugworms, and the feeding grounds for millions of migrating birds making their way along the East Atlantic Flyway.

@@ -9,6 +9,7 @@ latitude: 39.3910
 longitude: -99.6172
 sources:
   - https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
+score: 8.3
 ---
 
 One of the five original structures preserved within the National Historic Site, the First Baptist Church was a cornerstone of community life from the earliest years of the settlement. Churches were not just places of worship in Nicodemus — they were the social anchors of a community that had little else to hold onto in the early years on the treeless Kansas prairie. The congregation met here through the town's boom years in the 1880s and kept meeting long after the population collapsed.

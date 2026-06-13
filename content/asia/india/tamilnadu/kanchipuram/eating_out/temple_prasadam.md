@@ -12,6 +12,7 @@ story: >
   cumin, ginger, sesame oil, and curry leaves before steaming. Whether or not the legend
   is strictly true, the flavour is distinctly different from the plain idli found
   elsewhere, and Kanchipuram remains the best place to eat one.
+score: 6.4
 ---
 
 At Hindu temples, prasadam is food that has been offered to the deity and is then distributed to devotees — a blessing made edible. Accepting and eating prasadam is one of the most direct forms of participation available to a visitor in a Hindu religious context, regardless of your own beliefs.

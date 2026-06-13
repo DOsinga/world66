@@ -7,6 +7,7 @@ tags:
   - viewpoint
 latitude: 68.4111
 longitude: 27.4153
+score: 8.1
 ---
 
 Kaunispää, at 437 metres, is the closest fell to the village and the easiest to climb — a paved access road runs almost to the summit and a chair lift carries skiers up in winter. The view from the top is the standard postcard of Saariselkä: a sea of treeless fells rolling east toward the Russian border, with the village a small cluster in the trees below.

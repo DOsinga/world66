@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - medieval_quarter
+score: 7.4
 ---
 
 The archaeology museum shares the Bibat complex with the Fournier playing-card museum. The collection covers Álava's prehistory, the Iron Age Celtiberian sites of the surrounding plains, and the Roman remains at Iruña-Veleia just west of the city.

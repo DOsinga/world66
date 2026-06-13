@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Remote territory of the Apo people at the deep end of the Chirinos valley
+score: 6.0
 ---
 
 At the far end of the Chirinos valley, where the forest closes in and the plots thin out, you reach the territory of the Apo people — around 3,000 individuals living in one of the more isolated communities in northern Peru. Many speak little or no Spanish. The community has had very limited contact with outsiders on any sustained basis, which means a visit needs to be approached with care and genuine respect for the fact that you are a guest in someone else's home, not a sight to be consumed.

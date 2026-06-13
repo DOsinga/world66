@@ -8,6 +8,7 @@ tags:
 - giza_plateau
 title: Inside the Great Pyramid
 type: poi
+score: 8.8
 ---
 
 Entering the interior of Khufu's pyramid is a separate ticketed experience beyond the general Giza admission. Only 300 people per day are permitted inside; tickets are sold at the main entrance gate from opening time and typically sell out within the first hour. If you want to go inside, arrive as early as possible — ideally at or before the 8 am opening.

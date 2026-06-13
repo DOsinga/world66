@@ -8,6 +8,7 @@ tags:
   - cafe
   - old_town
 neighbourhood: Old Town
+score: 4.5
 ---
 
 A spacious modern brunch café on Jalan Sultan Yussuf in the Old Town, housed in a restored two-storey shophouse with high ceilings, mid-century furniture and good light. The menu is the contemporary KL-Penang weekender standard: smashed avocado on sourdough, eggs benedict, big salads, decent espresso, fresh-pressed juices.

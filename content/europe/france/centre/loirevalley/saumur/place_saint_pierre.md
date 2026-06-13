@@ -7,6 +7,7 @@ tags:
   - sight
 title: Place Saint-Pierre
 type: poi
+score: 7.2
 ---
 
 Place Saint-Pierre is the natural heart of old Saumur — a small irregular square in the lee of the 12th-century church of Saint-Pierre, paved in cobbles and ringed with restaurants. On a summer evening the terrasses fill up and the square becomes one of the more agreeable places to eat in the Loire Valley.

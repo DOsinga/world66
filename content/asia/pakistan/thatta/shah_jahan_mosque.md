@@ -10,6 +10,7 @@ latitude: 24.747222
 longitude: 67.928056
 snippet: "A Mughal masterpiece of blue tilework and extraordinary acoustic engineering."
 story: "The Shah Jahan Mosque was built between 1644 and 1647, after the future emperor Shah Jahan (then ruling as prince governor of Gujarat) was given shelter in Thatta during a period of conflict with his father. The mosque was his gift of gratitude to the city. Its most remarkable feature is acoustic: a whispered prayer at any point in the 93 domes can be heard clearly throughout the building — an effect achieved by the geometry and proportions of the vaulting rather than any external aid. It took 90 years to complete after Shah Jahan's initial commission."
+score: 9.2
 ---
 
 The Shah Jahan Mosque is one of the finest examples of Mughal architecture in South Asia — a large, harmonious building covered in blue and white glazed tile work that has given it the nickname the "Blue Mosque of Thatta." Construction began in 1644 on Shah Jahan's commission and the complex took several decades to complete, but the quality of workmanship throughout is extraordinarily consistent.

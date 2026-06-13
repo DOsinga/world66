@@ -9,6 +9,7 @@ latitude: 44.0483
 longitude: 9.8325
 sources:
   - https://en.wikipedia.org/wiki/San_Pietro,_Porto_Venere
+score: 9.0
 ---
 
 The most dramatic building in Portovenere stands at the very tip of the promontory, perched on a black rock above the sea. San Pietro is a small Gothic church with a facade of alternating black and white marble stripes — a distinctly Genoese touch, repeated in the great cathedral at home. Built in 1198 on the foundations of a 6th-century chapel, which itself stood on the site of a Roman temple to Venus Erycina, it faces the open Ligurian Sea on one side and the Gulf of La Spezia on the other.

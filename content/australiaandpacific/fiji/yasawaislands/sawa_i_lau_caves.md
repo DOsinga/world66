@@ -14,6 +14,7 @@ story: >
   his lover in the cave to protect her from his family's disapproval, and the
   pool's name, meaning "rising limestone," reflects both the geology and the
   romance.
+score: 9.2
 ---
 
 Sawa-i-Lau is one of the most striking natural landmarks in the Yasawas — a domed limestone cavern rising directly from the sea on the island of the same name near the northern end of the chain. The main chamber is a tall, oval space with a pool at its base, lit by a circular opening in the ceiling that sends a column of blue-green light down into the clear water. You swim to enter and swim around inside.

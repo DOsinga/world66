@@ -9,6 +9,7 @@ tags:
 title: Lux Central
 type: poi
 url: luxcoffee.com
+score: 7.0
 ---
 
 Lux is the Phoenix all-day cafe that locals point to first when out-of-towners ask where the coffee is good. The roastery and bar sprawl across a multi-room industrial space on Central Avenue and stay open from early morning until late at night. By day it is a serious coffee bar serving espresso from beans roasted on site; by evening it shifts toward cocktails and small plates.

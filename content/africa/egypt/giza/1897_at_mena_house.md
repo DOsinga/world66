@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: 1897 at Mena House
 type: poi
+score: 6.4
 ---
 
 The most theatrical restaurant setting in Egypt: an outdoor terrace at the Mena House hotel where the Great Pyramid fills the horizon beyond the palm-shaded garden. The restaurant is named for the year the property became a hotel. The menu runs to international and Egyptian dishes — stuffed pigeon, lamb tagine, fresh seafood — at hotel prices that reflect the view.

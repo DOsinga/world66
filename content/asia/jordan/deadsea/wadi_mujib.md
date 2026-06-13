@@ -10,6 +10,7 @@ tags:
   - sight
 snippet: The dramatic canyon that meets the Dead Sea — wading through its slot gorge is one of Jordan's best outdoor experiences
 story: "Wadi Mujib has been called the Grand Canyon of Jordan, but the comparison undersells its peculiarity. Unlike the Colorado, this canyon does not just end at a river — it ends at the lowest point on earth, with its stream flowing into the Dead Sea. The gorge cuts through 1,000 metres of vertical rock before emptying into water so salty it burns any cuts you might get scrambling through the slot."
+score: 8.7
 ---
 
 Wadi Mujib is a dramatic gorge that descends to the Dead Sea shore from the Jordanian plateau, cutting through some of the most spectacular canyon scenery in the Middle East. The Royal Society for the Conservation of Nature (RSCN) manages a nature reserve here, and the **Siq Trail** — the main attraction — involves wading waist-deep through a narrow slot canyon against a current, scrambling over boulders, using ropes to pull yourself up small waterfalls, and eventually emerging into a natural pool at the head of the canyon.

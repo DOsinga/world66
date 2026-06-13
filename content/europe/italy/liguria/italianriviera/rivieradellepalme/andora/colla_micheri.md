@@ -8,6 +8,7 @@ latitude: 43.9693
 longitude: 8.1576
 story: >
   Thor Heyerdahl, the Norwegian explorer famous for the Kon-Tiki raft expedition across the Pacific, bought and restored a house in Colla Micheri in the 1960s and lived here for the last decades of his life. He is buried in the village garden. Heyerdahl chose this place precisely because it was remote and genuinely medieval — he wanted nothing to do with modern tourism, and Colla Micheri gave him an unchanged stone village surrounded by olive terraces and sea air.
+score: 7.6
 ---
 
 Colla Micheri is a small medieval village in the hills above Andora, reached by a winding road through olive groves. The village is one of the best-preserved in western Liguria — a cluster of stone houses, a Romanesque church, and narrow lanes with views down to the sea. In summer it is cool and quiet, a sharp contrast to the resort beaches only a few kilometres away.

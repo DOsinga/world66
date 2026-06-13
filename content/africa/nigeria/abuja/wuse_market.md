@@ -8,6 +8,7 @@ tags:
 latitude: 9.0711
 longitude: 7.4639
 snippet: Abuja's busiest everyday market — the place to see the city functioning on its own terms
+score: 7.8
 ---
 
 Wuse Market is the largest and most active market in Abuja, and the best place to see the city behaving like itself rather than like a government compound. The market covers an enormous area in Wuse Zone 1 and sells everything — fresh produce, dried goods, spices, fabric, electronics, shoes, and whatever else the city needs. It's crowded, noisy, and completely uninterested in tourists.

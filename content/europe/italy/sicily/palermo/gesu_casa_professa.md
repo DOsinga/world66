@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 38.115
 longitude: 13.359
+score: 9.0
 ---
 
 The Chiesa del Gesù — also called Casa Professa, from the Jesuit residence next to it — is the most lavish Baroque church in Sicily, with walls completely covered in polychrome marble inlay (cinque mischio) and frescoes by Filippo Randazzo and Pietro Novelli. It was completed in 1636 after almost a century of construction.

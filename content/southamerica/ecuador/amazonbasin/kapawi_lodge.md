@@ -7,6 +7,7 @@ tags:
 snippet: "Remote Achuar-run eco-lodge deep in pristine rainforest"
 title: Kapawi Ecolodge
 type: poi
+score: 8.8
 ---
 
 One of the most remote lodges in the Ecuadorian Amazon, Kapawi sits on the Pastaza River in territory belonging to the Achuar people. Getting there requires a small charter flight from Shell, followed by a canoe ride — there are no roads. That isolation is exactly the point.

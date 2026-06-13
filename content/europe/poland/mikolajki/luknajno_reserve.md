@@ -8,6 +8,7 @@ tags:
 latitude: 53.805
 longitude: 21.643
 snippet: UNESCO biosphere reserve and one of Europe's largest mute swan colonies
+score: 8.4
 ---
 
 Lake Łuknajno lies four kilometres east of Mikołajki and is one of the most important bird reserves in Poland. The shallow eutrophic lake supports one of Europe's largest breeding colonies of mute swans — typically several hundred pairs — along with bitterns, black-throated loons, and dozens of other species. The reserve was designated a UNESCO biosphere reserve in 1976 and is a Ramsar wetland site.

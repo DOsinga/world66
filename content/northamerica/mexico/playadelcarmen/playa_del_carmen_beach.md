@@ -8,6 +8,7 @@ tags:
 latitude: 20.6300
 longitude: -87.0788
 snippet: "White Caribbean sand stretching north and south from the ferry pier, with free public access beyond the beach clubs"
+score: 7.2
 ---
 
 The beach at Playa del Carmen is genuinely beautiful — fine white quartz sand, clear turquoise water, and views across to Cozumel on clear days. The stretch directly in front of town is largely carved up by beach clubs that charge for sunbeds and umbrellas, but free public beach is available by walking north past the beach clubs toward Mamitas Beach or south into the Playacar residential development.

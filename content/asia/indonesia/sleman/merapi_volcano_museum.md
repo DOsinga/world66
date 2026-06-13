@@ -7,6 +7,7 @@ tags:
 latitude: -7.6147
 longitude: 110.4248
 snippet: Geological museum at the foot of Mount Merapi
+score: 7.2
 ---
 
 The Museum Gunung Merapi sits on the southern slopes of the volcano above Kaliurang. The exhibits — dioramas of past eruptions, seismic monitoring instruments, scale models of the cone — cover the geology and the lived history of Indonesia's most active volcano in plain language. A separate room is given over to tsunamis and earthquakes.

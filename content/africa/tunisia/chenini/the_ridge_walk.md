@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.9108
 longitude: 10.2618
+score: 8.7
 ---
 
 The walk from the base of the hill to the mosque at the summit is the essential experience of Chenini. The path climbs steeply through the old village, passing the cave dwellings on one side and the ksar on the other, until it reaches the crest with its sudden, vertiginous view over the desert plain. On a clear day you can see for fifty kilometres or more — a flat, ochre expanse fading into haze in the direction of the Sahara.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6603
 longitude: 9.1755
+score: 7.8
 ---
 
 The Bodensee ferry network turns the lake into a means of transport. From Konstanz the car ferry to Meersburg takes about fifteen minutes and runs continuously — it's the fastest way to cross. Longer routes connect to Friedrichshafen (about an hour), Mainau island, Bregenz in Austria, and Swiss ports including Kreuzlingen and Romanshorn. Slower panoramic boats also run in summer, making circuits of the lake with commentary.

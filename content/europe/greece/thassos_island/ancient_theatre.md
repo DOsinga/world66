@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - theatre
+score: 8.5
 ---
 
 A Hellenistic theatre cut into the hillside above the ancient agora, with surviving marble seating and a well-defined stage area. The structure is in good condition for its age, and in summer it is used for live performances — ancient drama, concerts, and occasional film screenings — under an open sky. Watching a performance here, with the port and the Kavala coastline visible beyond the stage, is one of those experiences that makes Greek archaeology feel genuinely alive rather than simply picturesque.

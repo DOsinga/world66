@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "When workmen quarried stone from the cairn in 1748 they uncovered a slab-lined burial chamber decorated with carved scenes — chariots, ships, dancers, figures with raised arms. The carvings, around 3,200 years old, are unique in Scandinavia and resemble depictions from much further south. They are some of the oldest figurative art in Sweden."
+score: 7.8
 ---
 
 Kivik's Bronze Age burial cairn is the largest of its kind in Sweden — about 75 metres across and built around 1000 BC. From the outside it looks like a vast pile of stones in a field; what makes it special is the inner chamber, with eight carved stone slabs depicting some of the most enigmatic ancient art in Scandinavia.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.7137
 longitude: 35.7959
+score: 7.7
 ---
 
 The Church of the Apostles, on the southern edge of the old town, holds another of Madaba's great mosaic floors — a personification of the sea, *Thalassa*, surrounded by fish, octopuses and sea monsters, with the apostles arranged in panels around her. The mosaic dates to 578 AD and is named in an inscription that records the donors and the artist.

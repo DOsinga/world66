@@ -8,6 +8,7 @@ tags:
 - nature
 title: Conakry Botanical Garden
 type: poi
+score: 6.8
 ---
 
 The Conakry Botanical Garden, in the Camayenne district, was established by the French colonial administration in the 1890s as a research garden for tropical plants — many of the species they were trying to commercialise across French West Africa were first acclimatised here. The garden has fallen in and out of upkeep many times, and what remains today is a quiet, slightly overgrown park rather than a manicured collection.

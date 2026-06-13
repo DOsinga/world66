@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.4213
 longitude: -4.7538
+score: 6.3
 ---
 
 The handful of sidrerías (cider bars) lining the harbour front of Llanes are where the town comes alive in the evenings. Asturian cider is natural and slightly sour, poured from a great height in a thin stream to aerate it just before drinking — a technique called *escanciado*. The result needs to be drunk immediately, in a few quick swallows before the fizz dies, which is part of what makes it a social drink.

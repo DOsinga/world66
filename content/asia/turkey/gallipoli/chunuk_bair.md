@@ -14,6 +14,7 @@ story: >
   founder of modern Turkey. Kemal understood that losing the ridge meant
   losing the peninsula; he ordered his men to fix bayonets and charge,
   telling them "I am not ordering you to attack, I am ordering you to die."
+score: 8.4
 ---
 
 Chunuk Bair commands the highest point of the Sari Bair ridge and on a clear day gives views across both sides of the peninsula — the Aegean to the west and the Dardanelles to the east. This was the strategic goal of the entire August offensive: had it been held, the Dardanelles might have been forced and the campaign succeeded. It was not.

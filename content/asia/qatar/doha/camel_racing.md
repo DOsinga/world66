@@ -9,6 +9,7 @@ latitude: 25.4163
 longitude: 51.2248
 story: >
   Qatar replaced child jockeys with robot jockeys in 2004, following international pressure over the use of small children — some as young as three — in camel racing. The robots are attached to the camel's back and controlled by radio from an owner's car driving alongside the track. Watching a line of camels run past, each carrying a small mechanical figure waving a crop controlled by a handler following in an SUV, is one of the more genuinely surreal spectacles available in the Gulf.
+score: 7.8
 ---
 
 The Al Shahaniya camel racing track is about 45 km west of Doha and holds regular races from October to March, typically on Thursday and Friday mornings from around 7am. Entry is free. The track is a long oval and races happen in quick succession — twenty minutes or so apart — as owners bring their animals in for training runs as well as competitive events.

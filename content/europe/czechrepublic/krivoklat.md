@@ -6,6 +6,7 @@ longitude: 13.860344
 title: Sights in Krivoklat
 type: poi
 url: www.krivoklat.cz
+score: 7.8
 ---
 
 There are several things to see in Krivoklat. The most famous is the hunting castle, Krivoklat Castle.

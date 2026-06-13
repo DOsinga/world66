@@ -10,6 +10,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4892
 longitude: -13.2350
+score: 5.2
 ---
 
 Crown Bakery, with its sister Crown Xpress branches around town, has been the most dependable café in central Freetown for decades. Lebanese-style sandwiches, freshly baked bread, simple grilled-meat plates, and a long list of juices and milkshakes. It is the easiest place to retreat to in midday heat — air-conditioned, clean, and quick.

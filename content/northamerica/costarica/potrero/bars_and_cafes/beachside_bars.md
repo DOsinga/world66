@@ -1,6 +1,7 @@
 ---
 title: "Beachside Bars"
 type: poi
+score: 5.3
 ---
 
 Potrero's bar scene is small and informal, which fits the village perfectly. A few open-air spots sit close enough to the water to catch the evening breeze off the bay, and they draw a mixed crowd of long-term expats, weekend visitors from Liberia and San José, and whoever has come in off a fishing charter or a surf trip that day. The drink of choice is usually a cold Imperial, Costa Rica's light lager, or a rum drink made with Cacique, the local cane spirit. Cocktails exist and are improving; margaritas and Cuba libres are standard.

@@ -3,6 +3,7 @@ title: Brazilian Side (Parque Nacional do Iguaçu)
 type: poi
 latitude: -25.6953
 longitude: -54.4367
+score: 8.9
 ---
 
 The Brazilian side of the falls — Parque Nacional do Iguaçu — offers what the Argentine side does not: a single elevated walkway running along the cliff face that looks across the full width of the falls simultaneously. This is the classic postcard perspective, the image you recognise. Where the Argentine side immerses you in individual cascades, the Brazilian side steps back and shows you the whole picture.

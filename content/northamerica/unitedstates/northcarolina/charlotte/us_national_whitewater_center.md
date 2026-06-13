@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2723
 longitude: -81.0051
+score: 8.8
 ---
 
 The U.S. National Whitewater Center sits on 1,300 acres along the Catawba River, about 15 kilometres west of Uptown, and is one of the most unusual urban outdoor recreation facilities in the country. The centerpiece is a system of artificial whitewater channels — the world's largest, according to the Center — that feed a full programme of whitewater rafting, kayaking, and canoe slalom. It hosted Olympic team trials and is used for serious training as well as public recreation.

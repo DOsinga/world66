@@ -8,6 +8,7 @@ tags:
 latitude: 40.6375
 longitude: 22.9417
 snippet: Restored 15th-century mosque now used as a shopping arcade
+score: 6.8
 ---
 
 The Hamza Bey Mosque, built in 1467–68, is one of the oldest surviving Ottoman monuments in Thessaloniki. After the city passed to Greece in 1912 it was converted into a cinema and then a shopping arcade — the Alcazar — and the minaret was removed. In recent years it has been partially restored, with the interior now operating as a clothes market while the building retains its Ottoman shell.

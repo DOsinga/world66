@@ -7,6 +7,7 @@ longitude: -46.2574
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 The main beach in central Guarujá, lined with high-rise apartment buildings and backed by rows of food and drink kiosks. Pitangueiras is the closest beach to the ferry terminal and the most popular — which means it can be very crowded on summer weekends and public holidays when São Paulo empties out to the coast.

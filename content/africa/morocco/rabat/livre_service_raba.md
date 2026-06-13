@@ -12,6 +12,7 @@ tags:
 - bookshop
 title: Livre Service Rabat S.A.
 type: poi
+score: 5.9
 ---
 
 The *Livre Service* bookstore is large and well assorted, with literature in different languages. Whether you want to get to know the contemporary Moroccan literature or need a travel guide, the staff is very friendly and helps with all questions and problems.

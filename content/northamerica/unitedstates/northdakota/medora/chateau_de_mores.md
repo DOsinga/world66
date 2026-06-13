@@ -14,6 +14,7 @@ story: >
   on the plains and shipping refrigerated meat east. The venture collapsed
   within three years. He was assassinated in Tunisia in 1896, and his widow
   Medora — for whom the town is named — never returned to North Dakota.
+score: 7.7
 ---
 
 The Chateau de Mores is a 26-room two-story frame house built in 1883 by the Marquis de Mores as a summer home and hunting lodge. It is preserved as a state historic site, complete with the family's original furnishings, glassware, china, and personal effects — including the Marquis' rifles and Medora's silver toiletries. Costumed guides take you through room by room.

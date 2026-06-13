@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.894
 longitude: 91.8773
+score: 7.2
 ---
 
 The childhood home of General Muhammad Ataul Goni Osmani, the commander-in-chief of the Bangladesh Liberation Forces during the 1971 war of independence, is now a small museum displaying his personal effects, military uniform, books, photographs, and the medals he received. The general was from Sylhet and is one of the city's most-celebrated figures; the museum is treated as a near-pilgrimage site by Bangladeshi visitors.

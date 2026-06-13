@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The land where the JFK Memorial stands was formally gifted by Britain to the United States in 1965, so technically the small patch of meadow at Runnymede is American soil. It is the only piece of American territory in England."
+score: 7.8
 ---
 
 Runnymede is the riverside meadow about 4 miles south-east of Windsor where King John signed the Magna Carta in June 1215. The actual signing took place somewhere among the meadows — no one knows exactly where — but the site is now a National Trust property with several memorials clustered along the river.

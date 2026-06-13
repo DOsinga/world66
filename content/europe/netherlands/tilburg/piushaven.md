@@ -7,6 +7,7 @@ tags:
 latitude: 51.5650
 longitude: 5.0637
 snippet: Former industrial harbour reborn as Tilburg's waterfront neighbourhood
+score: 7.1
 ---
 
 The Piushaven is Tilburg's most successful urban regeneration project — a former industrial harbour that has been converted into a lively waterfront strip of restaurants, cafes, and event spaces. The warehouses and water make for a setting more interesting than the city centre, and on summer evenings the terraces along the water are genuinely pleasant.

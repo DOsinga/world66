@@ -8,6 +8,7 @@ latitude: 11.8900
 longitude: -85.9100
 story: >
   The 365 islets were created in a single geological event — an eruption of Mombacho volcano roughly 10,000 years ago that collapsed the volcano's southern flank into the lake. The debris field formed one small island for every day of the year, or so the locals claim. Some are barely big enough to stand on; others have been inhabited since pre-Columbian times.
+score: 8.5
 ---
 
 The Isletas de Granada are a cluster of roughly 365 small islands scattered in Lago de Nicaragua just offshore from the city, formed by debris from an ancient Mombacho volcanic eruption. Boat tours from the Granada waterfront are easy to arrange and take about two hours, winding through channels between islands where local families live in stilted houses, monkeys occasionally appear in the trees, and egrets stand motionless on rocks.

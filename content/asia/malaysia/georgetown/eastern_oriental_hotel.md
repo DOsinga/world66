@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 story: "The Sarkies Armenian brothers — Martin, Tigran, Aviet and Arshak — founded the E&O in 1885 and went on to build the Raffles in Singapore and the Strand in Yangon. Three legendary colonial hotels from a single family, defining the look of luxury travel in Southeast Asia for half a century."
+score: 7.4
 ---
 
 The Eastern & Oriental Hotel — the E&O — has anchored the northern edge of the seafront since 1885, when the four Armenian Sarkies brothers, fresh from Persia, opened it as the most luxurious lodging in British Penang. The colonial wing's long white facade with its rows of arched windows, polished teak interiors and palm-court atriums sets the tone for the whole street.

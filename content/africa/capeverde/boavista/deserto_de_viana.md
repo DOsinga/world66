@@ -13,6 +13,7 @@ story: >
   blowing, you can watch new layers of African dust settle on the crests of the dunes.
 sources:
   - https://en.wikipedia.org/wiki/Deserto_de_Viana
+score: 8.0
 ---
 
 The Deserto de Viana is a field of spectacular sand dunes in the northwestern interior of Boa Vista — the most dramatic landscape the island has to offer. The dunes shift and reshape with the wind, and the colours change dramatically through the day from pale gold at midday to deep amber at sunset. A small oasis of date palms in the middle of the desert adds an incongruous but welcome note of green.

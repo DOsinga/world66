@@ -8,6 +8,7 @@ tags:
 latitude: 51.4797
 longitude: -3.6967
 snippet: "Family beach in front of Coney Beach Pleasure Park"
+score: 6.8
 ---
 
 Sandy Bay is the busiest of Porthcawl's beaches — a wide, gently shelving arc of fine sand wrapped around the eastern side of the harbour. It is the obvious family beach: shallow water, donkey rides in summer, an esplanade behind, and the long-running Coney Beach Pleasure Park immediately above the dunes.

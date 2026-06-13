@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dubai Garden Glow
 type: poi
+score: 5.4
 ---
 
 Dubai Garden Glow is a seasonal night attraction in Zabeel Park that runs from October to April, illuminating the park with millions of energy-efficient LED lights arranged into flowers, animals, and themed landscapes. Adjacent sections include Dinosaur Park (life-sized dinosaur sculptures), Ice Park (sculptures made from ice in a chilled indoor tent), and Art Park (artist installations).

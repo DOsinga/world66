@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 4.6
 ---
 
 Limbach Park is a one-block green space at the heart of downtown Monument, just off Second Street. A grassy lawn, a gazebo, a small playground, and a stand of mature trees — not much in any individual sense, but the social centre of the town in warm weather.

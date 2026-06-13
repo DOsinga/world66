@@ -14,6 +14,7 @@ story: >
   fishermen, and what may be the only contemporary portrait of Henry the
   Navigator. The identity of the figures was debated for centuries after the
   panels were rediscovered in 1882.
+score: 8.7
 ---
 
 Portugal's national collection of pre-modern art, housed in a 17th-century convent in the Lapa district. The permanent collection covers Portuguese painting from the 15th century to the 19th, plus European masters — Hieronymus Bosch's Temptation of Saint Anthony is the most internationally famous piece — and an exceptional collection of Japanese Namban screens depicting the Portuguese arrival in Japan in the 16th century.

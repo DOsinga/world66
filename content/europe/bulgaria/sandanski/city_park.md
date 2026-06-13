@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 41.5652
 longitude: 23.2787
+score: 6.6
 ---
 
 The city park at Sandanski's centre is the main gathering place for locals and the hub around which the town's attractions are arranged. The Parthicopolis ruins are partially excavated within the park, the archaeological museum borders it, and several mineral water fountains are accessible throughout. The park is large and well-maintained, with mature trees providing shade in summer.

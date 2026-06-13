@@ -7,6 +7,7 @@ tags:
 - shop
 title: Donna Karan
 type: poi
+score: 3.7
 ---
 
 Donna Karan's flagship store is spatious, chic.

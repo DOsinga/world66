@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.2097
 longitude: -97.4436
+score: 7.9
 ---
 
 OU's student union is the social and architectural heart of the central campus — a large brick, limestone-trimmed Tudor Gothic building begun in 1928 and expanded several times since. It is named for the OU students killed in the First World War. The Beaird Lounge, with its dark wood panelling and stone fireplaces, is one of the great public rooms of an American university.

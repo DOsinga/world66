@@ -13,6 +13,7 @@ story: >
   that visitors sunbathe on today were once the work surfaces of a major Mediterranean
   shipbuilding industry. The last wooden boat was built in Varazze in the early 20th
   century, and today the beach is given over entirely to sunbathers and bathers.
+score: 7.2
 ---
 
 Varazze's beach is a classic Ligurian pebble beach stretching the length of the seafront, backed by the coastal promenade and the historic centre behind it. Like most Ligurian beaches, it is divided between free public sections and stabilimenti balneari (beach clubs) that rent sun loungers and umbrellas. The water is clear and the swimming generally good, sheltered somewhat by the headlands to either side of the bay.

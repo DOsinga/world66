@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - sculpture
+score: 8.3
 ---
 
 The bronze canopy that rises above the papal altar at the centre of St. Peter's Basilica is the work of Gianlorenzo Bernini, commissioned by Pope Urban VIII Barberini and completed in 1634 when Bernini was 26. Twenty-nine metres tall — the height of an eight-storey building — it is the largest piece of bronze sculpture in the world.

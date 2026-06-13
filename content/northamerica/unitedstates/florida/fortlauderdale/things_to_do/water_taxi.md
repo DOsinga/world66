@@ -8,6 +8,7 @@ tags:
 latitude: 26.1259
 longitude: -80.1428
 story: "Fort Lauderdale has more miles of navigable waterways than Venice — around 165 miles of canals threaded through the city — which is why the Water Taxi is not a novelty but genuinely the most logical way to move between the main sights."
+score: 7.9
 ---
 
 The Water Taxi runs a hop-on, hop-off service along the New River and the Intracoastal Waterway, stopping at a dozen or so points including Las Olas, the beach, the cruise port, and the strip of canal-front mansions known as Millionaires' Row. A day pass lets you ride as many times as you like, and the boats run frequently enough that you will never wait long. Buy tickets at any of the stops or directly on board.

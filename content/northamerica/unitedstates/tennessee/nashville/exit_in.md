@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - music_venue
+score: 7.4
 ---
 
 A small, scruffy rock club on Elliston Place near Vanderbilt, open since 1971. Etta James, Linda Ronstadt, Billy Joel, Muddy Waters, Tom Waits, and (in his post-Police early solo days) Sting all played small breakthrough shows here. The room has the genuine layered grunge of a real music venue: signed photographs cover every available wall, the floor is sticky, the bar runs along one side, and the sight lines from the back are not great.

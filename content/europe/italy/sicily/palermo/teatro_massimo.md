@@ -9,6 +9,7 @@ latitude: 38.1199
 longitude: 13.3573
 story: >
   The Teatro Massimo is the largest opera house in Italy and the third largest in Europe, after Vienna and Paris. It was built between 1875 and 1897 on land cleared by demolishing a 16th-century church and convent — a controversial choice at the time. Coppola's Godfather Part III filmed its final shootout on the steps; the opera being performed inside is Cavalleria Rusticana.
+score: 8.0
 ---
 
 The Teatro Massimo dominates the Piazza Verdi at the northern edge of the old town, a neoclassical pile of pale limestone with a portico of six Corinthian columns and a perfect oval auditorium inside. Designed by Giovan Battista Filippo Basile and completed by his son after his death, it seats 1,300 and has acoustics that put it consistently among Europe's top opera houses.

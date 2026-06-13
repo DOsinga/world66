@@ -12,6 +12,7 @@ snippet: "A remote sinkhole lake deeper than Otjikoto and far less visited"
 story: "Lake Guinas reaches a depth of 133 metres — considerably deeper than Otjikoto — and its aquatic ecosystem is so isolated that it has developed its own unique species of cichlid fish, found nowhere else in the world."
 sources:
   - https://en.wikipedia.org/wiki/Lake_Guinas
+score: 7.6
 ---
 
 Lake Guinas is the lesser-known twin of Otjikoto: another dolomite sinkhole lake about 38km west of Tsumeb via the D3043 gravel road, and notably larger and deeper. While Otjikoto sits conveniently beside the tar highway, Guinas requires a deliberate detour on a rougher track, which is exactly why most visitors skip it. That is your opportunity.

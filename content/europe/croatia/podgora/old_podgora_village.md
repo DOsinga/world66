@@ -4,6 +4,7 @@ type: poi
 latitude: 43.2517
 longitude: 17.0894
 tags: [things_to_do, sight]
+score: 7.4
 ---
 
 Before the 1962 earthquakes, Podgora was not on the coast — it was a cluster of stone hamlets several hundred metres up the hillside, where the inhabitants were safe from the pirate raids that troubled the Adriatic for centuries. After the quakes the population was largely relocated to the seafront, and the old village above became a partial ruin. Walking through the empty stone houses, you can still trace the lanes, wells, and small churches of what was here.

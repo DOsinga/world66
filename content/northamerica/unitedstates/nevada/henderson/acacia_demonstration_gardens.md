@@ -9,6 +9,7 @@ latitude: 36.0304
 longitude: -115.0153
 sources:
   - https://en.wikipedia.org/wiki/Acacia_Demonstration_Gardens
+score: 5.7
 ---
 
 A public garden in Henderson designed specifically to show how to landscape in the Mojave Desert without using excessive water. The garden contains hundreds of drought-tolerant plant species — native desert plants, succulents, cacti, and low-water ornamentals from arid regions around the world — all labelled and arranged to demonstrate what a well-designed desert garden can look like.

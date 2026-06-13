@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3262
 longitude: 75.5765
+score: 6.8
 ---
 
 A small but historically important pre-Mughal tomb in the old city, dating from the 14th century and one of the few surviving Islamic monuments of Jalandhar's sultanate period. The mausoleum is built in a simple square-with-dome plan, brick-faced and plastered, with traces of original tilework around the entrance arch. It commemorates a local Muslim saint who lived in Jalandhar in the time of Muhammad bin Tughluq.

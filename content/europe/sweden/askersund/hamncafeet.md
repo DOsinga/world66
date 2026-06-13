@@ -6,6 +6,7 @@ longitude: 14.9025
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 The harbour cafe is the most popular eating spot in Askersund — a seasonal operation with tables right on the waterfront and a menu built around the lake's perch and pike-perch. The fish soup is the thing to order. Simple and fresh, it is the kind of food that tastes best with a view of the water and the sound of rigging in the wind.

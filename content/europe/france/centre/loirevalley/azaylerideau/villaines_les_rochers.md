@@ -9,6 +9,7 @@ longitude: 0.4978
 snippet: A village of wicker-weavers keeping a centuries-old craft alive in troglodyte workshops
 sources:
   - https://en.wikipedia.org/wiki/Villaines-les-Rochers
+score: 7.4
 ---
 
 Villaines-les-Rochers, about 5 km south of Azay-le-Rideau, is one of those places that exists almost nowhere else in Europe. The village has been the centre of the Touraine wicker-weaving trade for centuries, and a cooperative of local craftspeople still works osier (basket willow) into baskets, furniture, and decorative objects using techniques largely unchanged since the Middle Ages.

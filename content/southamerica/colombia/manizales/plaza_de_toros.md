@@ -6,6 +6,7 @@ longitude: -75.5250
 tags:
   - things_to_do
   - architecture
+score: 5.9
 ---
 
 The Manizales bullring is a striking Moorish-revival structure built in 1951, with horseshoe arches, mudéjar tilework, and a 16,000-seat ring. It is the venue for the bullfighting feria that runs every January as part of the Feria de Manizales.

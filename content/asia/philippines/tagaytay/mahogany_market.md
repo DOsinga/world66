@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 14.1029
 longitude: 120.9576
+score: 7.1
 ---
 
 The Mahogany Market is the local produce market at the centre of old Tagaytay, and it is the cheapest and most atmospheric place to eat in town. Stalls sell everything from fresh vegetables and fruit (local strawberries are especially good) to grilled corn, deep-fried tawilis, and various Filipino street snacks. The ground floor butchers and fishmongers are where the locals shop; the upper floors have simple restaurants where you can eat bulalo for a fraction of what the roadside restaurants charge.

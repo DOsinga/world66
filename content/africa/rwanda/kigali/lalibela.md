@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -1.9394
 longitude: 30.0800
+score: 6.1
 ---
 
 Lalibela is Kigali's best Ethiopian restaurant, and sharing a meal here is one of the better culinary experiences the city offers. The menu follows the classic Ethiopian format: a large injera flatbread serves as plate, utensil, and accompaniment for an assortment of stews (wot) — lentils, chickpea, beef, lamb — which you tear off and scoop up with pieces of the sourdough bread. Go with at least two people to split a platter properly.

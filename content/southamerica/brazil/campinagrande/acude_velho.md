@@ -8,6 +8,7 @@ latitude: -7.2260
 longitude: -35.8820
 story: >
   The Açude Velho (Old Reservoir) was built in the 1830s to supply water to the growing town — a critical piece of infrastructure in a region where drought is a permanent reality. The Borborema plateau receives less rainfall than the coast, and water storage has always been a matter of survival in the northeast. The reservoir now serves as a leisure space, but it carries the memory of necessity.
+score: 6.8
 ---
 
 The Açude Velho is a small reservoir in the centre of Campina Grande — a blue patch of water surrounded by a pleasant promenade of palm trees and benches, and one of the most agreeable spots in the city for an evening walk. Food stalls and small bars set up along the waterfront in the evening, and local families come here to escape the heat and watch the sun go down.

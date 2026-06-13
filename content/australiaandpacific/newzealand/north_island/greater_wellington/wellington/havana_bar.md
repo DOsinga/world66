@@ -8,6 +8,7 @@ tags:
 latitude: -41.2955
 longitude: 174.7734
 snippet: "Cuba Street bar with salsa nights, live jazz, and their own coffee roastery"
+score: 6.1
 ---
 
 Havana is on upper Cuba Street and manages to be both a serious coffee roaster during the day and one of Wellington's most characterful bars by night. The decor runs to Latin American kitsch — mismatched chairs, louche lighting, Havana street art — and the live music programme leans toward salsa and jazz. On Friday and Saturday nights the small dancefloor actually fills up, which is rarer in Wellington than you might think.

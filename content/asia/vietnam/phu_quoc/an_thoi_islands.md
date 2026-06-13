@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.9820
 longitude: 104.0140
+score: 8.8
 ---
 
 A cluster of around a dozen small islands off the southern tip of Phu Quoc, the best snorkelling and diving territory around the island. The coral reefs here are in better condition than the mainland Vietnamese coast, with reasonable visibility and a reasonable variety of reef fish, sea turtles, and — with luck — leopard sharks in the sandy channels between islands.

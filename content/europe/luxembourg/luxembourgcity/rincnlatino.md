@@ -11,6 +11,7 @@ tags:
 - bar
 title: Rincón Latino
 type: poi
+score: 6.1
 ---
 
 A Latin bar with a warm, sociable atmosphere — salsa nights, decent rum selection, and a crowd that actually dances. Livelier than most places in the neighbourhood.

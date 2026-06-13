@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5770
 longitude: 68.7498
+score: 6.9
 ---
 
 The Mayakovsky Theatre, named after the Soviet poet Vladimir Mayakovsky, is the main Russian-language drama theatre in Dushanbe — a legacy of the large Russian-speaking community that lived in the city during the Soviet period. The company still performs a repertoire of Russian and world drama, primarily in Russian, to a diminishing but loyal audience.

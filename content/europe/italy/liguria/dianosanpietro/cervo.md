@@ -8,6 +8,7 @@ latitude: 43.9167
 longitude: 8.1167
 story: >
   Cervo has been used as a filming location and backdrop by several Italian film directors drawn to its unchanged medieval appearance. The village is famous for its annual chamber music festival held in August in the square in front of the baroque church — concerts that begin at sunset and use the church facade as a backdrop. The festival has been running since the 1960s and has become one of the more unusual music events on the Italian Riviera.
+score: 8.7
 ---
 
 Cervo is a medieval hilltop village about 8 kilometres east of Diano Marina, and it is one of the best-preserved historic villages on the Ligurian coast. The village clusters around a baroque church — San Giovanni Battista, with its distinctive convex facade — and the views down to the sea and along the coast are exceptional.

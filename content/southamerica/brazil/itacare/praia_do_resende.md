@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -14.2731
 longitude: -38.9931
+score: 7.3
 ---
 
 The first of the long line of beaches that runs north from town, reached by a five-minute walk along the cliff path from Praia da Concha. Resende is a clean curve of sand backed by coconut palms, with surf gentler than the beaches further out but still big enough for beginner lessons.

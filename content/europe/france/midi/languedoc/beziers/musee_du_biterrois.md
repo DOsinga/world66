@@ -8,6 +8,7 @@ longitude: 3.21117
 tags:
 - things_to_do
 - museum
+score: 6.9
 ---
 
 The Musée du Biterrois occupies a former military barracks adjacent to the cathedral, and covers the history and natural history of the Béziers region from prehistoric times to the 20th century. The strongest sections deal with Roman Béziers — Baeterrae was a significant colony on the Via Domitia, and the excavated material is substantial — and with the construction of the Canal du Midi, which has a dedicated room with original technical drawings and models.

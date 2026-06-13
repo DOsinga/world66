@@ -9,6 +9,7 @@ tags:
 latitude: 39.4733
 longitude: -0.3744
 story: "The wildly ornate alabaster doorway carved by sculptor Ignacio Vergara in 1740 depicts the Two Waters that gave the marquis his title — the Júcar and the Turia — as two reclining giants flanking a virgin holding a rosary. The work took over a year and is one of the great pieces of Spanish Rococo sculpture."
+score: 7.8
 ---
 
 A Rococo palace from the 18th century that now houses the González Martí National Museum of Ceramics. The building alone is worth the visit — the alabaster doorway is so extravagantly carved that the merely talented contemporaries refused to compete, and the rooms inside are arranged as period interiors with porcelain, glass, and silver from across Spain and the world.

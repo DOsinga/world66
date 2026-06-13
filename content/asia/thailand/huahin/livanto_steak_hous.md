@@ -9,6 +9,7 @@ tags:
 title: Livanto Thai & European Restaurant
 type: poi
 url: www.livantohuahin.com
+score: 4.6
 ---
 
 Livanto life style steak house

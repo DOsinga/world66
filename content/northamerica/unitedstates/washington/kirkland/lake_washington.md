@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6612
 longitude: -122.2072
+score: 8.2
 ---
 
 Lake Washington's eastern shore through Kirkland offers some of the best public access to the lake anywhere on the Eastside. Several public beaches — Houghton Beach Park, David Brink Park, and the beach at Marina Park — are open for swimming in summer, with lifeguards at some locations. The water is surprisingly clear by urban lake standards, fed largely by streams from the Cascade foothills.

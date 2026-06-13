@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 16.2397
 longitude: -61.5352
+score: 7.3
 ---
 
 Darse Market is the waterfront market area where Pointe-à-Pitre feels closest to its port identity. Fish, produce, boats, and ferry movement all overlap here, and the scene changes quickly between early morning business and the slower heat of midday.

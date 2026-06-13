@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 27.9520
 longitude: 109.5890
+score: 6.8
 ---
 
 Miao silverwork is sold throughout Fenghuang, and quality ranges from factory-made tourist merchandise to genuine handcrafted pieces from local workshops. The distinction matters: authentic Miao silver uses traditional filigree and repoussé techniques that require real craft skills, while the mass-produced versions are stamped and soldered. The most reliable way to distinguish them is to look at the reverse — handmade pieces show tool marks and slight irregularities; factory pieces are uniform.

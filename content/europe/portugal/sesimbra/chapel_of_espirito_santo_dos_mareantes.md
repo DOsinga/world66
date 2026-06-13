@@ -9,6 +9,7 @@ latitude: 38.4435
 longitude: -9.1005
 story: >
   In the late Middle Ages and into the seventeenth century, sailors departing Sesimbra would scratch the outlines of their ships into the chapel walls — a votive plea for safe return. Many never came back; the ship drawings remain. Some are detailed enough that maritime archaeologists have used them to identify hull types of vessels that fished the West African coast in the sixteenth century. The graffiti is faint and easily missed; bring a torch.
+score: 6.8
 ---
 
 The Chapel of the Holy Spirit of Mariners — Capela do Espírito Santo dos Mareantes — is a small, plain, easy-to-miss chapel a couple of streets back from the harbour. It is part of what was once a medieval hospital and confraternity for the town's sailors, founded in the fourteenth century. The hospital is long gone; the chapel survives.

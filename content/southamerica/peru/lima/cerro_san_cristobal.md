@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Hill above the city with the biggest viewpoint over Lima
+score: 6.4
 ---
 
 The **Cerro San Cristóbal** is a 400-metre hill rising above the Rímac district on the north side of the centre — topped by a tall iron **cross** and a small chapel and giving the only true panoramic view of Lima. On a clear day (rare; usually grey from May to October), the whole metropolis spreads below: Miraflores cliffs to the south, Callao to the west, the Andean foothills to the east.

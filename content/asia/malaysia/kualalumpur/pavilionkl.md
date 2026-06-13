@@ -6,6 +6,7 @@ longitude: 101.7135
 tags:
   - shopping
   - bukit_bintang
+score: 5.1
 ---
 
 The upmarket mall at the eastern end of Bukit Bintang, anchored on a six-storey atrium with a Crystal Fountain that doubles as the city's most photographed shopping-mall water feature. Pavilion's tenant mix leans luxury: the global designer names line the ground floor, with the major Asian brands above, plus a basement food court (Tonkatsu, Madam Kwan's) that punches above its mall weight.

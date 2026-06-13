@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 36.9261
 longitude: 14.7410
+score: 6.7
 ---
 
 La Bettola is an informal trattoria in Ibla that does the traditional local cooking well and without fuss: pasta alla norma, rabbit with capers and olives, grilled swordfish, and the Iblean sweets that show up at the end of any proper Sicilian meal. The tables spill onto a narrow lane in summer.

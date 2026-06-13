@@ -9,6 +9,7 @@ latitude: -34.580076
 longitude: 138.928253
 sources:
   - https://en.wikipedia.org/wiki/Orlando_Wines
+score: 7.2
 ---
 
 Jacob's Creek is one of Australia's most exported wine brands, and its visitor centre at the actual creek near Rowland Flat is a substantial operation with a restaurant, tasting room, and interpretive displays about the history of the brand and the region. The Jacob's Creek Shiraz Cabernet was first released in 1976 and helped put Australian wine on supermarket shelves worldwide.

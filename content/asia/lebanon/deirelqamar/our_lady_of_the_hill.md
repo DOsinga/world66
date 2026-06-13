@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 Saydet et-Tallé — Our Lady of the Hill — is the main Maronite church of Deir el Qamar, set on the slope above the Midan with a small terraced courtyard in front. The current building dates from the seventeenth century, replacing an earlier shrine to the Virgin that gave the town its religious anchor before the princes arrived.

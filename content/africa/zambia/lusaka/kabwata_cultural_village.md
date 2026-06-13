@@ -12,6 +12,7 @@ story: >
   arts projects in post-independence Zambia. The round thatched workshops were designed to give
   artists affordable studio space close to the city centre — and despite decades of urban change
   around them, they still function exactly as intended.
+score: 5.0
 ---
 
 A cluster of circular thatched huts on Burma Road, Kabwata Cultural Village is the best place in Lusaka to buy traditional crafts directly from the makers. Sculptors, painters, weavers, and woodcarvers work on-site, so you can watch pieces being made and talk to the artists rather than shopping from static displays.

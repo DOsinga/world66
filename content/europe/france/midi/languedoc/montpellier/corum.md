@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Corum
 type: poi
+score: 6.5
 ---
 
 The Corum, a vast pink-granite congress centre completed in 1990 to a design by Claude Vasconi, sits at the northern end of the Esplanade Charles-de-Gaulle. Inside is the **Opéra Berlioz**, a 2,000-seat concert hall with very fine acoustics, and the principal venue for the Festival de Radio France et Montpellier each July.

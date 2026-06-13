@@ -13,6 +13,7 @@ story: >
   or enslaved most of its population, and carried off prisoners to North Africa.
   The attack left Ciutadella virtually depopulated and the city took generations
   to recover. The anniversary is still marked annually on 9 July.
+score: 6.6
 ---
 
 The Plaça des Born is the main square of Ciutadella and one of the finest in the Balearic Islands. It occupies a natural terrace overlooking the harbour, with views down to the water through a gap in the old town walls. The square has the unhurried formality of a place that was once the centre of political power: the 19th-century town hall faces the former governor's palace across the flagstones, and the facades of noble houses frame the surrounding streets.

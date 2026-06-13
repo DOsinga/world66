@@ -8,6 +8,7 @@ latitude: 13.0700
 longitude: -59.5714
 sources:
   - https://en.wikipedia.org/wiki/Saint_Lawrence_Gap
+score: 7.4
 ---
 
 St. Lawrence Gap — "the Gap" to everyone who lives here — is a kilometre-long strip of bars, restaurants, beach clubs, and shops running parallel to the south coast in the middle of Christ Church. It is the social heart of visitor Barbados: compact enough to walk in an evening, lively enough to fill a week of nights.

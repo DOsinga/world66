@@ -9,6 +9,7 @@ story: >
   dramatic show of karst hydrology. For centuries locals knew the water came from somewhere inside the mountain,
   but it wasn't until the 1960s that cave explorers traced the full underground course through nearly 10 kilometres
   of passages. Visitors today see only a short, highly scenic portion of that route.
+score: 8.0
 ---
 
 The Grottes de Vallorbes are a limestone cave system through which the River Orbe flows, carved over millennia by the water eating through the Jura bedrock. The entrance is set dramatically in a cliff face on the edge of town, with the river emerging into daylight from a low, dark arch. The guided tour follows a lit path through chambers decorated with stalactites, stalagmites, and cascades of flowstone, with the river running alongside through sections of the cave.

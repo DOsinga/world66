@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lake Pamvotis
 type: poi
+score: 7.4
 ---
 
 Lake Pamvotida (or Pamvotis) is the largest lake in Epirus — about 8 km long and 5 km wide, at an altitude of nearly 500 metres, ringed by mountains. The old town and the new town of Ioannina spread along its western shore; the small inhabited island sits off the castle promontory.

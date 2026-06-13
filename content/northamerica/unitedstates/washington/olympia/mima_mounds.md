@@ -15,6 +15,7 @@ story: >
   resonance during the 1700 Cascadia earthquake, and an enormous,
   centuries-long colony of pocket gophers. The current consensus is gophers,
   but no one is entirely sure.
+score: 7.8
 ---
 
 A 600-acre preserve of glacial outwash prairie 25 km southwest of Olympia, covered by thousands of low domed mounds — typically 2 metres high and 8 metres across — whose origin has never been definitively explained. Theories range from prehistoric earthquake liquefaction to long-term gopher activity.

@@ -6,6 +6,7 @@ tags:
 - water_sports
 latitude: 23.045
 longitude: -109.7
+score: 7.1
 ---
 
 The best surf break in the Los Cabos area, a reef break just south of the town that receives swells from the south Pacific and is consistent from May to October when south and southwest swells arrive. The main break — known locally as Zippers — is a fast right-hand wave that works best at mid to high tide; a second break, Old Man's, offers gentler conditions for learners.

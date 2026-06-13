@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The Sacred Heart Cathedral (Katedrala Srca Isusova) is the largest cathedral in Bosnia and Herzegovina and the Catholic seat of Sarajevo, built in the 1880s during the Austro-Hungarian administration that followed the Ottoman period. The building is neo-Gothic in style — twin towers, pointed arches, stained glass — and looks somewhat unexpected against the Ottoman character of the surrounding old town, which is exactly the point: the Austrians wanted to mark their arrival architecturally.

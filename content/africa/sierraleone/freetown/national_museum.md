@@ -10,6 +10,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4867
 longitude: -13.2358
+score: 8.0
 ---
 
 The National Museum is small but worth the hour. It covers Sierra Leone's history from precolonial times through the slave trade, the founding of the colony for liberated Africans, the rise of the Krio elite, the colonial period, independence, and the brutal civil war of 1991–2002. Ethnographic objects from the Mende, Temne, and other inland peoples sit alongside court regalia and weapons from the Bunce Island slave factory.

@@ -7,6 +7,7 @@ tags:
   - hampden
 latitude: 39.3261
 longitude: -76.6387
+score: 6.6
 ---
 
 Miracle on 34th Street is a single residential block in Hampden that every December transforms into one of the most elaborate Christmas lighting displays in the United States. Every house on the block participates, and the result is a dense, joyful, slightly chaotic accumulation of lights, figures, and decorations that feels entirely unlike the corporate holiday displays you find elsewhere.

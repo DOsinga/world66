@@ -8,6 +8,7 @@ longitude: 9.180559
 snippet: "Bar on the main pedestrian shopping street"
 tags:
 - bars_and_cafes
+score: 3.4
 ---
 
 A bar on Königstrasse, Stuttgart's main pedestrian shopping street in the city centre.

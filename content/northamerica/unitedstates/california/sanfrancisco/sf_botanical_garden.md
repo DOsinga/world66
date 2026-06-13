@@ -8,6 +8,7 @@ tags:
 - park
 title: San Francisco Botanical Garden
 type: poi
+score: 8.3
 ---
 
 Fifty-five acres of Golden Gate Park are given over to this botanical garden, which contains nearly 9,000 plant species from every continent. The collections are organized by region -- you can walk from a California redwood grove to a South American cloud forest to a Southeast Asian magnolia garden in the space of an afternoon.

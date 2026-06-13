@@ -8,6 +8,7 @@ tags:
 title: Vattanac Capital Tower
 type: poi
 snippet: Dragon-shaped 39-storey tower that reset the Phnom Penh skyline
+score: 7.1
 ---
 
 The 188-metre Vattanac Capital Tower, finished in 2014, is still the most architecturally distinctive of Phnom Penh's modern skyscrapers — a curving glass form that, viewed from the right angle, suggests a stylised dragon rising from the city. Designed by London-based TFP Farrells, it houses offices, a luxury hotel, and a rooftop sky bar on the 38th floor.

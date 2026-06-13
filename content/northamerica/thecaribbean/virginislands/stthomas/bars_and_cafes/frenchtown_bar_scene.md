@@ -1,6 +1,7 @@
 ---
 title: "Frenchtown Bars"
 type: poi
+score: 5.7
 ---
 
 Frenchtown is also where St. Thomas's bar scene has its most authentic face. A cluster of small waterfront bars lines the Frenchtown harbour, where fishing boats tie up and pelicans patrol the dock. These are the kinds of places where you can sit on a stool, order a Dark and Stormy or a Cruzan rum on the rocks, and watch the boats drift past without feeling like you're in a stage set built for tourists.

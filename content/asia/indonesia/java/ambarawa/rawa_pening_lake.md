@@ -9,6 +9,7 @@ tags:
 - nature
 title: Rawa Pening Lake
 type: poi
+score: 6.9
 ---
 
 A scenic lake popular with photographers. Sunrise is the best time to visit — the light comes up over the far shore as fishermen head out in their boats and the floating mats of water hyacinth catch the first colour. The hills overlooking the lake are known locally as *Bukit Cinta* (Love Hills).

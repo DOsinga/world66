@@ -10,6 +10,7 @@ latitude: 29.0596
 longitude: 89.0430
 story: >
   Shalu is the home monastery of a tradition of Tibetan monks trained to perform extraordinary physical feats — long-distance running across the plateau in a trance state, generating body heat sufficient to dry wet sheets in freezing temperatures, and other documented "superhuman" capacities. The tradition, called lung-gom, was recorded by early 20th-century Western travellers and remains one of the stranger documented practices in Tibetan Buddhism.
+score: 8.8
 ---
 
 Shalu Monastery, about 22 kilometres south of Shigatse, is one of the oldest and most architecturally distinctive monasteries in Tibet. Founded in the 11th century, it was substantially expanded in the 14th century under the patronage of the Sakya rulers, and the result is a hybrid building unlike anything else on the plateau: Chinese-style green-glazed roof tiles atop Tibetan walls, with interior murals that blend Tibetan and Nepalese artistic traditions.

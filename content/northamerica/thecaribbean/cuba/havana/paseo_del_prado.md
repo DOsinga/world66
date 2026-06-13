@@ -16,6 +16,7 @@ story: >
   lions are polished smooth by generations of children sitting on them, and
   the boulevard has been taken over by skateboarders and boxers sparring
   in the open air.
+score: 8.5
 ---
 
 The Paseo del Prado (officially Paseo de Martí) is Havana's main promenade — a tree-lined marble boulevard running from the Parque Central down to the Malecón, flanked by some of the finest 19th and early 20th century buildings in the city. The central walkway is separated from traffic by decorative ironwork and has marble benches at intervals, bronze lions at the main intersections, and very old trees providing dense shade.

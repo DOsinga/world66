@@ -14,6 +14,7 @@ story: >
   deliberate modernization program. Oklahoma statehood in 1907 ended the
   Cherokee Nation's formal independence; the telephone memorial survived.
 type: poi
+score: 5.5
 ---
 
 A small monument in downtown Tahlequah marks the site of the Cherokee Indian Telephone Company, which in 1887 established the first commercial telephone exchange west of St. Louis. The Cherokee businessmen who organized it were responding to the same commercial pressures as telephone companies elsewhere in the country, but they were doing so as citizens of an independent tribal nation — one that happened to have its own government, courts, and commercial infrastructure.

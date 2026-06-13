@@ -7,6 +7,7 @@ tags:
 title: Trinidad Harbour and Fishing Pier
 type: poi
 snippet: "Working fishing harbour with seafood shacks, harbour seals, and views of the sea stacks"
+score: 8.0
 ---
 
 Trinidad's small harbour is one of the most picturesque on the northern California coast, sheltered by the headland and ringed by forested bluffs. The fishing fleet — mostly small vessels targeting rockfish, Dungeness crab, and salmon — operates from the pier, and several seafood businesses sell the day's catch directly. The harbour is the most social spot in town, where you can buy fresh crab in season and watch the sea stacks from a bench.

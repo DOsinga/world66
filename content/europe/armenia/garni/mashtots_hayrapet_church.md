@@ -10,6 +10,7 @@ story: >
   The church is dedicated to Mashtots, the 5th-century monk who created the Armenian alphabet — one of the most consequential acts in the cultural history of the Caucasus. Before Mashtots invented the script around 405 AD, Armenian had no written form; the liturgy was conducted in Greek or Syriac. The alphabet he created is still in use today, essentially unchanged, making it one of the oldest continuously-used alphabets in the world.
 sources:
   - https://en.wikipedia.org/wiki/Mashtots_Hayrapet_Church_of_Garni
+score: 6.3
 ---
 
 The Mashtots Hayrapet Church sits in the village of Garni itself, a short walk from the pagan temple. It is a small medieval Armenian church, typical of the style developed in this region: square plan, conical drum and pointed dome, walls of finely cut basalt. The church dates from the medieval period and is still used for worship.

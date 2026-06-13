@@ -9,6 +9,7 @@ latitude: 39.265278
 longitude: -111.633056
 sources:
   - https://en.wikipedia.org/wiki/Manti_Carnegie_Library
+score: 5.9
 ---
 
 The Manti Carnegie Library is one of Utah's smaller Carnegie libraries, funded by Andrew Carnegie's philanthropy in the early twentieth century. The compact Classical Revival building sits on Main Street and has been listed on the National Register of Historic Places.

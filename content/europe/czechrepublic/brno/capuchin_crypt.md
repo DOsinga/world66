@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum, historic]
 latitude: 49.191114
 longitude: 16.609439
 story: The Capuchin friars who built this crypt believed that the natural airflow through the chamber would desiccate and naturally mummify their dead brethren — and they were right. The mummification process was so effective that the bodies of monks buried here from the 17th to 18th centuries are still partially preserved, displayed in an open crypt with placards identifying who they were in life. The same chamber also holds the remains of local nobility, including the Habsburg military commander Ludwig von Raduit de Souches, who defended Brno against the Swedes.
+score: 7.4
 ---
 
 The Capuchin Crypt beneath the Church of St. Joseph in the Zelný trh (Cabbage Market) is one of Brno's most unusual sights. The burial vault contains the naturally mummified remains of Capuchin friars alongside several members of the local aristocracy, displayed in open coffins or arranged along the walls. The effect is eerie and surprisingly moving.

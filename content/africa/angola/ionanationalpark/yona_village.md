@@ -8,6 +8,7 @@ tags:
 - sight
 - locality
 - culture
+score: 5.4
 ---
 
 Yona is the small locality that shares its name with the park, sitting inland from the coast in the arid high country. It is not a tourist village in the usual sense, but it gives the park a human geography that is easy to forget when staring at maps of dunes and rivers.

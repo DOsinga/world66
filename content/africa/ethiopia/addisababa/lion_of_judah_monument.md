@@ -13,6 +13,7 @@ story: >
   outside the Termini railway station for 25 years. After Ethiopian independence was restored,
   Italy returned it in 1960 — one of the few cases of colonial-era looting being formally
   undone during the 20th century.
+score: 7.2
 ---
 
 The golden Lion of Judah, symbol of the Ethiopian imperial dynasty and of Haile Selassie's Rastafarian following, stands near Meskel Square in central Addis. The bronze statue represents the ancient connection between the Ethiopian royal line and the Tribe of Judah as described in biblical tradition.

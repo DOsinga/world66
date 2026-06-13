@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.9082
 longitude: 99.8258
+score: 5.4
 ---
 
 The Golden Clock Tower at the centre of Chiang Rai was designed by Chalermchai Kositpipat, the same artist behind the White Temple. It is a very different kind of statement — ornate, gilded, and covered in Lanna-inspired decorative motifs. The tower was built as a gift to the city in 2008 and has become one of Chiang Rai's most photographed landmarks, though it is easy to be slightly baffled by its ambitions when you see it in daylight.

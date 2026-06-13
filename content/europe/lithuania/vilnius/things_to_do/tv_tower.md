@@ -15,6 +15,7 @@ tags:
   - sight
   - landmark
   - history
+score: 6.7
 ---
 
 The Vilnius TV Tower, completed in 1980 at 326 metres, is the tallest structure in the Baltic states and visible from much of the city. It stands about 3 km west of the old town in the Karoliniškės district, reachable by bus or a long walk from the centre.

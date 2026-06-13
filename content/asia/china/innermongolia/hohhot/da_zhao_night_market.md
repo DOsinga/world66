@@ -7,6 +7,7 @@ tags:
   - old_town_quarter
 latitude: 40.8005
 longitude: 111.6450
+score: 6.8
 ---
 
 The night market that sets up along the streets leading to Dazhao Temple in the evening is Hohhot's most concentrated street food scene. The stalls extend for several blocks and cover both Mongolian and Hui Muslim food traditions: lamb skewers on one side of the street, fresh yogurt cups on the other, with fried offal, hand-pulled noodles, and sesame flatbreads filling the gaps. The crowd is a mix of tourists visiting the temple area and local residents who come for the same food they always eat, which is the best evidence that the market is genuine rather than performance.

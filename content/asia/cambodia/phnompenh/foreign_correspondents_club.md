@@ -9,6 +9,7 @@ tags:
 title: Foreign Correspondents' Club
 type: poi
 snippet: Colonial-era bar where journalists drank through Cambodia's worst years
+score: 6.1
 ---
 
 The FCC opened in the 1990s in a yellow colonial-era building on Sisowath Quay, taking its name and atmosphere from the press clubs that once operated in Saigon and Bangkok. Generations of correspondents, photographers and travelling journalists have leaned on its first-floor balcony with a beer and a notebook, watching the lights of the riverboats below.

@@ -8,6 +8,7 @@ tags:
 latitude: 42.71944
 longitude: 12.10361
 story: "San Giovenale is thought to be the oldest church in Orvieto, built on top of an Etruscan settlement — excavations beneath the floor have revealed Etruscan walls and artifacts. The church's position on the westernmost tip of the tufa plateau, with a dramatic drop on three sides, made it a natural defensive site long before Christianity arrived."
+score: 7.8
 ---
 
 San Giovenale sits on the far western tip of the Orvieto plateau, with vertiginous views on three sides over the Paglia valley below. It is one of the oldest churches in the city, with origins in the early medieval period, and its interior retains 11th and 12th-century frescoes that are simple, faded, and entirely compelling in their antiquity.

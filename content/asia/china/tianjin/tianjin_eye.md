@@ -13,6 +13,7 @@ story: >
   above boat traffic flowing beneath you. The wheel opened in 2009 and quickly became
   the city's most photographed structure — unusual given that Tianjin has no shortage of
   remarkable buildings.
+score: 6.6
 ---
 
 The Tianjin Eye is a 120-metre Ferris wheel mounted directly onto the Yongle Bridge spanning the Hai River. This is one of a handful of bridge-mounted Ferris wheels in the world, and arguably the most dramatic — the gondolas extend over the water on both sides, giving riders views up and down the river while the bridge traffic passes below.

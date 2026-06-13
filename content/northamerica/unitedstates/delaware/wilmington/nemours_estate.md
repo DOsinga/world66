@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Alfred I. du Pont built Nemours in 1909 for his second wife, modelled on Louis XIV's hunting lodge at Versailles and named for the French town his ancestor came from in 1799. The 300-acre garden contains the largest French formal landscape in North America — a kilometre-long axial canal, a Temple of Love, and a colonnade modelled on the one at Versailles."
+score: 8.4
 ---
 
 Nemours is the most ornate of the Brandywine du Pont estates, a 47,000-square-foot Louis XVI mansion set in the largest French formal garden in North America. Alfred I. du Pont built it in 1909 — partly to outdo his cousin Pierre at Longwood, partly because his second wife wanted a Versailles of her own.

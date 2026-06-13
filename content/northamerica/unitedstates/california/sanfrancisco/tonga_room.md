@@ -8,6 +8,7 @@ tags:
 - bar
 title: Tonga Room
 type: poi
+score: 7.6
 ---
 
 The Tonga Room is a tiki bar in the basement of the Fairmont Hotel on Nob Hill, and it has been serving tropical cocktails since 1945. The centrepiece is a swimming pool -- the hotel's original pool, now surrounded by thatched huts and tropical foliage. A band plays on a barge floating in the middle of the pool. Every twenty minutes or so, the lights dim and an indoor rainstorm pelts the water while thunder rumbles through the speakers.

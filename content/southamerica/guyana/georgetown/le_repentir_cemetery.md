@@ -7,6 +7,7 @@ tags:
 latitude: 6.80026
 longitude: -58.15651
 snippet: "Vast nineteenth-century cemetery, atmospheric and overgrown"
+score: 8.5
 ---
 
 One of the largest cemeteries in the Caribbean, Le Repentir was opened in 1861 to replace the smaller in-town burial grounds. It covers more than a hundred acres in the south of central Georgetown and is a strange, melancholy place — Victorian tombs and angels half-swallowed by tropical vegetation, broad avenues lined with palms, and a constant background of birdsong.

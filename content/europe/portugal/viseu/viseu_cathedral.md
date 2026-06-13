@@ -16,6 +16,7 @@ story: >
   coordinate their designs.
 sources:
   - https://en.wikipedia.org/wiki/Viseu_Cathedral
+score: 8.8
 ---
 
 The Sé de Viseu is the ancient heart of the city, a Romanesque cathedral founded in the 12th century on a hill above the old town. The exterior is relatively plain — granite, sober, Portuguese — but step inside and the Manueline vaulting of the nave stops you in your tracks: elaborate stone ribs twist above the nave in a pattern of ropes and maritime symbols that seems almost organic.

@@ -8,6 +8,7 @@ latitude: 38.5538
 longitude: -121.4917
 story: >
   The zoo opened in 1927 and was originally centred in William Land Park, named for the Sacramento businessman who donated the land. Its oldest resident for decades was an African elephant named Patty, who lived here from 1953 to 2012 — a 59-year relationship between one elephant and one city that attracted considerable attention when the zoo's elephant programme was eventually phased out.
+score: 6.0
 ---
 
 A well-maintained zoo in William Land Park, south of downtown. The Sacramento Zoo covers 14 acres and holds about 140 species, with strong collections of big cats, primates, and birds. The new African Savanna exhibit opened recently, housing giraffes and zebras in an expanded habitat. The zoo is mid-sized by national standards but consistently well reviewed for animal welfare.

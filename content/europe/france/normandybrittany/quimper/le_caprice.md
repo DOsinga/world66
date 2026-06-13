@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.9966
 longitude: -4.1010
+score: 5.3
 ---
 
 A solid brasserie on one of the main streets of the old town, good for a straightforward lunch of moules-frites, a fish of the day from Guilvinec or Douarnenez, or a well-executed steak with Breton butter sauce. The terrace is pleasant in summer and the wine list is reasonable.

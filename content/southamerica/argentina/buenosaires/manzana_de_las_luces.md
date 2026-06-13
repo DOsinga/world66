@@ -11,6 +11,7 @@ longitude: -58.3723
 address: Perú 222, San Telmo/Microcentro
 story: >
   The tunnels under La Manzana de las Luces were dug by the Jesuits in the early 18th century and extended over several decades. Their exact purpose has been debated: they may have served as escape routes, as storage, or as communication passages between the Jesuit properties. When the Jesuits were expelled from Buenos Aires in 1767, the tunnels were sealed; they were only rediscovered and partially mapped in the 20th century. Some tunnels still connect to buildings several blocks away.
+score: 8.1
 ---
 
 "The Block of Lights" — a colonial complex at the corner of Perú and Alsina streets that was the intellectual centre of Buenos Aires from the early colonial period through the 19th century. The block held the first Jesuit church, the first school, the national archive, and (briefly) the first printing press in Argentina.

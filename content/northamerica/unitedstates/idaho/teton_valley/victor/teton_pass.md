@@ -11,6 +11,7 @@ story: >
   The highway over Teton Pass — US-33 — has a gradient of 10 percent in places, making it one of the steepest paved highways in the United States open year-round.
   In heavy winter snowfall the road closes temporarily, effectively cutting Victor and the rest of Teton Valley off from Wyoming.
   Locals have long joked that when the pass closes, you know who actually lives here versus who just pretends to.
+score: 8.7
 ---
 
 Teton Pass sits at 2,575 metres (8,431 feet) and connects Victor and Teton Valley on the Idaho side with Wilson and Jackson Hole on the Wyoming side. The drive over is spectacular in both directions: going east, the Grand Teton suddenly appears over the ridge as you descend toward Jackson Hole; going west, you see the entire width of Teton Valley spread below with the Snake River Range in the distance.

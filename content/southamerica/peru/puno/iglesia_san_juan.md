@@ -5,6 +5,7 @@ tags: [things_to_do, church]
 latitude: -15.8378
 longitude: -70.0290
 snippet: 19th-century church holding the image of the Virgen de la Candelaria
+score: 5.8
 ---
 
 The church on Parque Pino, two blocks north of the cathedral. The Iglesia San Juan Bautista is not especially old or architecturally distinguished, but it holds Puno's most important religious icon — the image of the Virgen de la Candelaria, around which the city's enormous February festival is built.

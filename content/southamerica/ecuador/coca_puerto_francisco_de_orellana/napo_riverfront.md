@@ -8,6 +8,7 @@ tags:
   - waterfront
 latitude: -0.4675
 longitude: -76.9858
+score: 6.6
 ---
 
 The malecón along the Napo is where Coca shows its better face. A long pedestrian boardwalk runs above the muddy brown river, with viewing platforms, a few simple restaurants, and small craft stalls run by local Kichwa and Shuar families. In the late afternoon the heat eases off and the embankment fills up with families taking the air.

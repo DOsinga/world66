@@ -6,6 +6,7 @@ longitude: -82.5515
 tags:
   - things_to_do
   - neighbourhood
+score: 8.5
 ---
 
 The compact downtown grid is the heart of Asheville. The streets are lined with art deco towers, brick warehouses turned into cafes, and a dense concentration of breweries and bars. Pack Square anchors the eastern edge with the Vance Monument, the art museum, and the courthouse around it; Wall Street and Battery Park Avenue curve through the middle past the Flat Iron Building.

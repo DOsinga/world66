@@ -6,6 +6,7 @@ longitude: 7.0133
 tags:
   - shopping
   - market
+score: 7.7
 ---
 
 Mile 1 Market is Port Harcourt's largest and most chaotic traditional market, sprawling across several blocks in the heart of the city. It is named after its distance from the old colonial waterfront — one mile from the Bonny Waterside — and has been the city's commercial hub since the early twentieth century. Everything is sold here: fresh food, dried fish, spices, fabrics, electronics, phone accessories, hardware, and traditional medicines.

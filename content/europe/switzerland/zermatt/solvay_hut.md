@@ -13,6 +13,7 @@ story: >
   to give stranded climbers a place to survive a night on the mountain. The
   locks were removed in 1966 so climbers could enter without a key. It can be
   seen from the Hörnli Hut below, a small red dot on the vast northeast face.
+score: 5.8
 ---
 
 The Solvay Hut is an emergency shelter perched at 4,003 metres on the Hörnli Ridge of the Matterhorn, built in 1915 with funds from the Belgian industrial chemist Ernest Solvay. It is not a destination in the usual sense — reaching it requires serious alpine climbing experience and equipment. But it can be seen from the Hörnli Hut below and is part of what makes the Matterhorn one of the most storied mountains in the world.

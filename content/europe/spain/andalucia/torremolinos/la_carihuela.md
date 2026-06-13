@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6196
 longitude: -4.5082
+score: 7.8
 ---
 
 La Carihuela is the old fishermen's quarter at the western end of Torremolinos, and it is the part of town that most resembles an actual Spanish village. The whitewashed cottages and narrow lanes survived the hotel-building frenzy of the 1960s largely intact. The beach here — also called La Carihuela — is backed by a seafront promenade lined with proper fish restaurants rather than beach bars serving international food.

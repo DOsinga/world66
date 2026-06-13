@@ -8,6 +8,7 @@ latitude: 38.787343
 longitude: -76.220229
 story: >
   The museum's most storied exhibit is the Hooper Strait Lighthouse, a screw-pile lighthouse built in 1879 that originally stood in the middle of the Chesapeake Bay. When it was decommissioned in 1966, the museum moved it entirely to the St. Michaels waterfront, where it now sits incongruously close to dry land. Visitors can climb inside and see the Fresnel lens that once warned ships off the shoals.
+score: 9.0
 ---
 
 The Chesapeake Bay Maritime Museum occupies 18 waterfront acres on Navy Point in St. Michaels and is one of the finest maritime museums on the US East Coast. The collection includes more than 100 historic Bay watercraft — skipjacks, log canoes, buy boats, and work skiffs — and a working boatyard where craftsmen build and restore traditional wooden boats using period techniques.

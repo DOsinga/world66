@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 7.8
 ---
 
 Housed inside Bethlen Castle (Magna Curia), the Museum of Dacian and Roman Civilisation is one of the most important regional museums for the pre-Roman and Roman history of Transylvania. The Dacian galleries hold finds from the nearby fortresses of Sarmizegetusa and other UNESCO-listed sites in the Orăștie Mountains; the Roman rooms display material from Micia and Apulum.

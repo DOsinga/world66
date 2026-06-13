@@ -15,6 +15,7 @@ story: >
   in the country.
 sources:
   - https://en.wikipedia.org/wiki/Hope_Waddell_Training_Institution
+score: 6.9
 ---
 
 Hope Waddell Training Institution, founded in 1895 by Presbyterian missionaries from Scotland, was for decades the most advanced educational establishment in southern Nigeria. Mary Slessor was a driving force behind its creation. At its peak it was the largest vocational training institution in West Africa, teaching carpentry, masonry, blacksmithing, and tailoring alongside academic subjects, and running its own printing press and newspaper.

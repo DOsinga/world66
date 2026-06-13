@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The former Southern Pacific railway station at the north end of Main Street, a small brick-and-redwood building from 1868 with the original eaves and roof brackets still in place. The line carried passengers to and from San Francisco and freight from the valley's wineries; passenger service ended in 1929. The depot is now used as commercial space and is listed on the National Register.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.2
 ---
 
 Varsoli, just north of Alibaug town, is one of the cleaner local beaches and is partly run by the Indian Navy — which keeps a small base on the headland. The southern half is open to the public; the northern half is closed.

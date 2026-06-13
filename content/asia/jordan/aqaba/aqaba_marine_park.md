@@ -7,6 +7,7 @@ snippet: "Protected coral reef along the southern coast — Jordan's only marine
 tags:
 - things_to_do
 - sight
+score: 8.7
 ---
 
 Jordan's only marine protected area runs along seven kilometres of coast south of Aqaba city, between the public South Beach and the Saudi border. The reef is exceptional by Red Sea standards — fringing coral with healthy gardens of staghorn, brain, and table corals, large schools of butterflyfish and surgeonfish, and good visibility (often 25 metres or more) year-round.

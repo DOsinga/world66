@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.5150
 longitude: 7.1450
+score: 7.2
 ---
 
 The Col du Donon is a mountain pass about 15 kilometres north of Schirmeck, at the northern end of the Vosges range. At its summit (1009 metres) stands a small Gallo-Roman temple reconstruction and a viewing table that, on clear days, gives views east across the Rhine plain toward the Black Forest and west into the Lorraine plateau. The col has been a significant crossing point between Alsace and Lorraine since antiquity.

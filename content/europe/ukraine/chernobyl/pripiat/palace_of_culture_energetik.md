@@ -7,6 +7,7 @@ tags:
 - sight
 title: Palace of Culture Energetik
 type: poi
+score: 8.4
 ---
 
 The Energetik (Энергетик — "Power Worker") was the social heart of Pripyat: a long modernist slab on the main square with a 1,500-seat cinema, a theatre, sports halls, and rooms for chess clubs, dance classes, and Komsomol meetings. The interior is still recognisable forty years on. Murals of athletes and cosmonauts cover the upper foyer; a piano with rotted strings sits at the back of the stage; the swimming-pool diving boards are folded down for the night.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9260
 longitude: 8.1380
+score: 8.3
 ---
 
 Tozeur's palm grove is extraordinary — more than 200,000 date palms drawing on hundreds of ancient springs in a system of irrigation channels that has functioned continuously since Roman times. The grove covers some 1,000 hectares and is divided into plots, each with its own allocation from the spring system. The palms are packed tight enough that the interior of the grove is green and shaded even in midsummer.

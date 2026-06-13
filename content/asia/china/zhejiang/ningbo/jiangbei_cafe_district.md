@@ -7,6 +7,7 @@ tags:
   - jiangbei
 latitude: 29.8930
 longitude: 121.5580
+score: 5.9
 ---
 
 The compact streets of the Jiangbei old foreign quarter have accumulated a cluster of independent cafes and coffee shops that take advantage of the colonial building stock and the pedestrianised waterfront. The best are in converted ground floors of the 1920s commercial buildings — high ceilings, old tile floors, floor-to-ceiling windows — and serve specialty coffee that would be competitive in Shanghai or Beijing. The combination of architecture, river views, and coffee quality makes this the most pleasant place in Ningbo to spend a morning not sightseeing.

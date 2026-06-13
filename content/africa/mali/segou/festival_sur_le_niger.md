@@ -14,6 +14,7 @@ story: >
   showcase Malian culture without the risks associated with Timbuktu or Mopti. It has 
   grown into one of the most important music festivals in West Africa, drawing artists 
   from across the continent.
+score: 9.0
 ---
 
 The Festival sur le Niger takes place each February in Segou, drawing musicians, dancers, visual artists, and craftspeople from Mali and across West Africa to the riverbanks of the Niger. Concerts are held on large stages beside the river, with the water and pirogues as a backdrop; smaller performances and workshops fill the town's public spaces. The festival is a genuine showcase of Malian musical culture — griots, kora players, Wassoulou singers, blues-inflected guitar — rather than a sanitised tourist event.

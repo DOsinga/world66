@@ -9,6 +9,7 @@ latitude: 39.6278
 longitude: -79.9564
 sources:
   - https://en.wikipedia.org/wiki/Old_Stone_House_(Morgantown,_West_Virginia)
+score: 7.2
 ---
 
 The Old Stone House is a solid Georgian structure built around 1795, making it one of the oldest standing buildings in West Virginia. It sits close to the river near the south end of downtown — a two-story stone house that looks improbably old and permanent next to the surrounding streets.

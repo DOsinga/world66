@@ -8,6 +8,7 @@ tags:
   - market
 sources:
   - https://en.wikipedia.org/wiki/Koronadal
+score: 7.1
 ---
 
 The Marbel Public Market is the commercial and social engine of Koronadal City, and a visit here is the most direct way to understand what the city actually produces. Stalls overflow with pineapples from the surrounding farms, fresh asparagus, and a bewildering variety of root vegetables and tropical fruits. The dry goods section stocks B'laan woven items alongside everyday hardware, and the wet market at the back is where local cooks do their morning shopping.

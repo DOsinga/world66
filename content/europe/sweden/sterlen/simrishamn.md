@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.9
 ---
 
 Simrishamn is the main town on the east coast — a small harbour of around 6,500 people with white-painted half-timbered houses, a 12th-century church, and a working fishing fleet that still lands cod and herring most mornings. The setting is one of the prettiest in southern Sweden and the place to base yourself for exploring the coast north and south.

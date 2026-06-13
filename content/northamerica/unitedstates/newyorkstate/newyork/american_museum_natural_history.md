@@ -7,6 +7,7 @@ tags:
 latitude: 40.7813
 longitude: -73.9740
 address: "Central Park West at 79th Street"
+score: 9.7
 ---
 
 The American Museum of Natural History, on the Upper West Side facing Central Park, is one of the largest and most visited natural history museums in the world, with 45 permanent exhibition halls. The dinosaur halls on the fourth floor are the best in America — the T. rex, mounted in an active hunting pose, the Apatosaurus skeleton, the hands-on fossil preparation lab — and the museum's collection of dinosaur fossils is genuinely unmatched.

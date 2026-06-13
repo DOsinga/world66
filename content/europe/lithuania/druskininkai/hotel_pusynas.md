@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 54.0200
 longitude: 23.9780
+score: 6.4
 ---
 
 Hotel Pušynas ("Pine Grove Hotel") is a striking example of Soviet-era modernist architecture in Druskininkai, a structure that would look at home in a 1960s science fiction film. The building is the most prominent surviving piece of the Soviet sanatorium complex that once defined the town's health tourism infrastructure — an angular, glass-and-concrete structure that expressed the ambitions of Soviet modernism in their most optimistic form.

@@ -10,6 +10,7 @@ story: >
   The Sanremo festival has launched some of the most significant careers in Italian popular music. Volare (Nel blu dipinto di blu), now one of the most recognisable Italian songs in the world, won the festival in 1958. More recently, the competition has been credited with reviving the Italian music industry: in 2021, the year of Maneskin's victory, Italian-language songs outsold all other categories on domestic streaming platforms for the first time in decades.
 sources:
   - https://en.wikipedia.org/wiki/Sanremo_Music_Festival
+score: 7.8
 ---
 
 The Festival della Canzone Italiana — better known as the Sanremo Music Festival — is the most important popular music event in Italy, held annually in February at the [Teatro Ariston](/europe/italy/liguria/italianriviera/sanremo/teatro_ariston). Broadcast live on RAI 1 for five evenings, it consistently draws the largest television audiences of the year, outrating everything except the World Cup final.

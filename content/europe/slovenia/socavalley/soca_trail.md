@@ -13,6 +13,7 @@ story: >
   summer when the water is low and clear; after heavy rain the river turns brown with
   suspended sediment. The emerald tone has been documented since at least the 18th century,
   when it became a subject of wonder for travellers crossing the Julian Alps.
+score: 9.2
 ---
 
 The Soča Trail (Soška pot) is a marked walking route that follows the Soča River from its source near the Vršič Pass to the Italian border, covering about 25 kilometres with manageable ascent. It passes through gorges, over suspension footbridges, and through the heart of Triglav National Park in the upper valley. The trail can be walked in sections — day walks from Bovec cover the most spectacular stretches near the town.

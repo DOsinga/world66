@@ -8,6 +8,7 @@ tags:
 neighbourhood: San Salvario
 latitude: 45.0598
 longitude: 7.6818
+score: 7.2
 ---
 
 A bistro on the edge of San Salvario that has become the go-to spot for younger Turinese who want serious Piedmontese cooking without the formality. The dining room is tight, the walls are hung with the framed menus of decades past, and the kitchen sends out fritto misto, agnolotti, brasato al Barolo, and one of the city's best bonets.

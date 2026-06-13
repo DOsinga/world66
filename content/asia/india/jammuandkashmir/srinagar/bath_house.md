@@ -7,6 +7,7 @@ tags:
   - old_city
 latitude: 34.0920
 longitude: 74.8100
+score: 7.8
 ---
 
 Traditional hammams — heated public baths — have operated in the old city of Srinagar for centuries, serving a population living in cold mountain winters without reliable domestic heating. The hammams are heated by wood fire; the steam and heat build up in a series of progressively hotter rooms. Several historic hammams still operate in the old city, though the tradition is declining as domestic plumbing improves.

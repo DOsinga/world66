@@ -9,6 +9,7 @@ longitude: 115.6380
 story: "The dolphins that visit Koombana Bay are wild and come and go freely. The colony of up to 90 bottlenose dolphins has been using the bay for decades, and on the right morning — usually when the sea is calm and the dolphins are foraging near shore — you can wade into knee-deep water and find yourself surrounded."
 sources:
   - https://en.wikipedia.org/wiki/Bunbury,_Western_Australia
+score: 8.0
 ---
 
 The Dolphin Discovery Centre on Koombana Bay foreshore is built around a genuinely wild dolphin colony. Up to 90 bottlenose dolphins use the bay as their home range, and they regularly come into the shallows in the morning to interact with people standing in the water. The experience is unscripted — no feeding, no corralling — which makes it one of the more authentic wildlife encounters in Western Australia.

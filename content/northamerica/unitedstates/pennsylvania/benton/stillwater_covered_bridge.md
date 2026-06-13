@@ -6,6 +6,7 @@ longitude: -76.3608
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The Stillwater Covered Bridge crosses Big Fishing Creek just south of Benton on the way to the village of Stillwater. Built in 1849, it is one of 23 covered bridges still standing in Columbia County — more than in any other county of Pennsylvania — and uses the Burr arch truss design typical of the region.

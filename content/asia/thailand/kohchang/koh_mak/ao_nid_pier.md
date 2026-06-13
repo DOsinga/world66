@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.8181
 longitude: 102.5044
+score: 6.8
 ---
 
 Ao Nid sits on the east coast of Koh Mak and is the island's working pier — the place where the slow ferries dock and where local fishing boats are tied up. A few seafood restaurants line the road behind the pier, serving the day's catch on tables that look out over the channel toward Koh Wai.

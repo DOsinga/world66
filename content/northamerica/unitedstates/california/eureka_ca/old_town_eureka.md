@@ -16,6 +16,7 @@ story: >
   intact on a working waterfront is genuinely unusual on the West Coast.
 sources:
   - https://en.wikipedia.org/wiki/Old_Town_Eureka
+score: 8.8
 ---
 
 Old Town Eureka is the historic commercial heart of the city, occupying a dozen blocks between the waterfront and the Victorian residential streets further inland. The architecture is the draw: elaborate painted commercial buildings from the 1880s and 1890s, built when Eureka was booming on timber and fishing. The scale is human, the streets are walkable, and the mix of galleries, restaurants, independent shops, and bookstores makes it the obvious place to spend time in the city.

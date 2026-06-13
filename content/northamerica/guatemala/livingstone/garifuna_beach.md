@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Livingston Beach
 type: poi
+score: 6.4
 ---
 
 The beach that runs in front of Livingston is lined with fishing boats, small restaurants, and wooden houses painted in the Caribbean palette — blues, greens, yellows. It is not a swimming beach in the resort sense — the water is calm but the beach is used actively by the fishing community — but it is one of the more atmospheric stretches of Caribbean coastline in Central America.

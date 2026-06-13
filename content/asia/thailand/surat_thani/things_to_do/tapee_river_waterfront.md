@@ -1,6 +1,7 @@
 ---
 title: "Tapee River Waterfront"
 type: poi
+score: 6.5
 ---
 
 The Tapee River runs through the heart of Surat Thani, and its banks are the most pleasant part of the city to spend an evening. As the sun goes down, a riverside night market sets up along the waterfront promenade — vendors selling grilled seafood, Southern Thai curries, fresh fruit, and snacks alongside the usual mix of clothing and household goods stalls. It draws locals rather than tourists, which makes it one of the more authentic market experiences in southern Thailand.

@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "Varnhem holds the tomb of Birger Jarl, the 13th-century statesman who effectively founded Stockholm. Recent excavations next to the abbey uncovered a small wooden Christian church and graveyard dating to the late 9th century — pushing back the documented arrival of Christianity in Sweden by more than a century."
+score: 8.7
 ---
 
 About fifteen kilometres east of Skara, Varnhem Abbey is one of the most important medieval church sites in Sweden. The Cistercian monastery was founded around 1150 and became a burial place for several medieval kings and for Birger Jarl. The abbey itself is largely ruined, but the church survives, its long Romanesque nave and choir still intact.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.3902
 longitude: -122.0823
+score: 7.5
 ---
 
 The Mountain View Center for the Performing Arts is the city's main indoor venue for theatre, dance, and music, with a 600-seat main stage and a smaller studio theatre. It anchors the southern end of Castro Street, and is home to the TheatreWorks Silicon Valley company — one of the Bay Area's most consistently good regional theatre groups, with a particular reputation for world premieres of new American musicals.

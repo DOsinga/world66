@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
   - altstadt
+score: 7.5
 ---
 
 The oldest coffeehouse in Salzburg, on Alter Markt since 1700, and an unbroken Mozart family haunt — Wolfgang's father Leopold played cards here weekly. The pale yellow upstairs salon with its rows of newspapers and silver coffee pots looks essentially as it did in 1900.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 23.6580
 longitude: 116.6220
+score: 7.8
 ---
 
 Braised goose (卤鹅) is the prestige dish of Teochew cooking: whole geese slow-cooked in a master stock of soy sauce, sugar, five-spice, and aromatics, then sliced and served at room temperature with a dipping sauce of vinegar and garlic. A good lu wei operation keeps its braising stock running for years, continually refreshed, and the depth of flavour in an old stock is impossible to replicate. This is food that improves with a restaurant's age.

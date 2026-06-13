@@ -15,6 +15,7 @@ story: >
   internationally recognised in the 20th century, worn by everyone from Royal Canadian 
   Mounted Police to American presidents. A genuine hand-knitted Cowichan sweater takes 
   40 to 80 hours to complete.
+score: 8.2
 ---
 
 The Quw'utsun' Cultural and Conference Centre on the edge of town is the main gateway to the culture and history of the Cowichan people, who have lived in this valley for thousands of years. The centre houses exhibitions on Cowichan history and traditions, a longhouse, carving studio, and a shop selling authentic Cowichan knitwear and other crafts directly from the artisans who make them.

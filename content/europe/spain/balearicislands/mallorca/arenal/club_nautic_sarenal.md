@@ -15,6 +15,7 @@ story: >
   racers to the bay. The combination of reliable summer winds and protected
   anchorage in the Bay of Palma has made this stretch of coast a fixture on the
   Mediterranean sailing circuit since the 1960s.
+score: 6.2
 ---
 
 The Club Nàutic S'Arenal — also known in Spanish as Club Náutico El Arenal — sits at the southern end of the resort where the beach meets the marina. Founded in the 1950s, it is one of the main sailing clubs on the Bay of Palma, with a full marina, sailing school, and facilities for dinghies, keelboats, and windsurfing.

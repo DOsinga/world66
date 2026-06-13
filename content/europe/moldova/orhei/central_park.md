@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 47.3781
 longitude: 28.8241
+score: 5.8
 ---
 
 The town's central park runs along the Răut River through the middle of Orhei — lime trees, benches, a Soviet-era war memorial, and an embankment that fills with families on summer evenings. It is the local social space and a pleasant 20-minute walk to fill the wait for a marshrutka or a meal.

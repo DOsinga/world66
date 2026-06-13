@@ -14,6 +14,7 @@ story: >
   what became one of the defining political scandals of the 19th century, spent five
   years in solitary confinement on Île du Diable. He was the only prisoner ever
   detained there; the island's fearsome reputation is almost entirely his legacy.
+score: 9.2
 ---
 
 The Salvation Islands — three small volcanic outcrops roughly 14 km north of Kourou — are among the most visited sites in French Guiana, and for good reason. They were the heart of France's penal colony system from 1852 to 1953, and the ruins that remain are atmospheric enough to justify the ferry crossing on their own. Add the wildlife (howler monkeys, agoutis, sea turtles nesting on the beaches) and the archipelago becomes genuinely exceptional.

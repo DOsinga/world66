@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_degli_Alessandri,_Viterbo
+score: 9.3
 ---
 
 The San Pellegrino quarter is the best-preserved medieval neighbourhood in Lazio and one of the finest in Italy. Compact enough to explore in an hour but intricate enough to get happily lost in for an afternoon, it occupies the southern tip of the historic centre behind the Papal Palace.

@@ -9,6 +9,7 @@ latitude: -37.2092
 longitude: 145.4284
 sources:
   - https://en.wikipedia.org/wiki/Yea,_Victoria
+score: 7.1
 ---
 
 The Yea Wetlands are a well-maintained reserve on the Yea River flats at the northern edge of town, accessible via a boardwalk loop that takes about 30 minutes to walk. The wetlands provide habitat for over 80 recorded bird species, including herons, ibis, and various duck species. In the right season you might spot platypus in the river channels.

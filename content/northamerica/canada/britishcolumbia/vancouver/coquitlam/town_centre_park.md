@@ -8,6 +8,7 @@ tags:
 latitude: 49.2886
 longitude: -122.787
 snippet: The 30-hectare civic park at the heart of Coquitlam, home to Lafarge Lake and the annual Lights at Lafarge festival
+score: 6.8
 ---
 
 Town Centre Park is the principal civic park of Coquitlam — a 30-hectare landscape of lawn, woodland, sports fields and the artificial [Lafarge Lake](/northamerica/canada/britishcolumbia/vancouver/coquitlam/lafarge_lake) at its centre. The park was developed in the 1990s on the site of former gravel pits, and forms the green heart of the planned Coquitlam Town Centre commercial and residential area.

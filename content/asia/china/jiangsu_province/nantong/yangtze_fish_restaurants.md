@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 31.9760
 longitude: 120.8950
+score: 6.8
 ---
 
 The restaurants along the Yangtze riverfront and around the Haohe River serve what Nantong does best: fish and shellfish from the estuary, cooked with the light, clean flavours of Jiangnan cuisine. Mandarin fish (guiyu) steamed with ginger and spring onion is the dish most restaurants lead with; river crabs in autumn, when the hairy crab season peaks, are the highlight of the year.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 23.5168
 longitude: 120.8083
+score: 7.3
 ---
 
 The Alishan Museum documents the history of the mountain area and its forest railway — a history that begins with the indigenous Tsou people who have lived in these mountains for centuries, continues through the Japanese-era logging operations that built the railway and stripped most of the original forest, and arrives at the present-day national scenic area.

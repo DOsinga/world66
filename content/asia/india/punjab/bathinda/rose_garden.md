@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.4
 ---
 
 Bathinda's **Rose Garden**, run by the Punjab Horticulture Department, is a surprisingly large, well-kept park on the north side of town with hundreds of varieties of roses, neat lawns, and a small artificial lake at its centre. In February and March it is at its best, with the cultivars in full bloom and families out for picnics in the cool morning air.

@@ -11,6 +11,7 @@ story: >
   Hinchinbrook Island is the largest island national park in the world — 39,350 hectares of entirely protected land, with no permanent residents and no development. The western side of the island is separated from the mainland by a narrow channel of mangrove-fringed water; from Cardwell's foreshore, the mountain peaks of the island are visible across just a few kilometres of sea. Everything on that island is wild.
 sources:
   - https://en.wikipedia.org/wiki/Hinchinbrook_Island_National_Park
+score: 9.1
 ---
 
 Hinchinbrook Island rises dramatically from the Coral Sea, its granite peaks draped in rainforest and its western shore separated from the mainland by a shallow mangrove channel. At 393 km² it is the largest island national park in the world, entirely free of permanent settlement and development, accessible only by boat from Cardwell or Lucinda.

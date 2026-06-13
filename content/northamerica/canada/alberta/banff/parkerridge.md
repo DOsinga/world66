@@ -9,6 +9,7 @@ tags:
 - park
 title: Parker Ridge
 type: poi
+score: 7.8
 ---
 
 A short but rewarding hike through alpine meadow to the crest of Parker Ridge, which provides one of the best accessible views of the Saskatchewan Glacier — the largest tongue of the Columbia Icefield. The trail gains about 250 metres over 2.5 km and takes most people under two hours round trip. In summer, the meadows are carpeted with wildflowers.

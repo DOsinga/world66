@@ -13,6 +13,7 @@ story: >
   by desert communities for centuries. Without this ancient irrigation system,
   the settlement could not exist: the nearest comparable oasis is more than 80 km
   away across open dunes.
+score: 6.8
 ---
 
 The Erbent oasis occupies a slight depression in the Karakum where groundwater lies close enough to the surface to support a cluster of trees, gardens, and the low mud-brick architecture typical of desert Turkmenistan. Around the edges of the settlement, the sand asserts itself immediately: dunes press against garden walls, and in a strong wind the distinction between village and desert becomes genuinely unclear.

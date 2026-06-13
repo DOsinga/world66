@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kymijoki River
 type: poi
+score: 6.9
 ---
 
 The Kymijoki flows for over 200km from Lake Päijänne down to the Gulf of Finland near Kotka, dropping through a series of rapids that powered the paper industry of southern Finland for more than a century. Through Anjalankoski it's wide, fast, and bordered by mixed forest.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Cafe Aylanto
 type: poi
+score: 5.8
 ---
 
 One of Karachi's better options for non-Pakistani food. The shrimp and avocado salad is a highlight. You can bring your own wine — just let them know at the door.

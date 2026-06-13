@@ -9,6 +9,7 @@ tags:
 - museum
 title: The Funen Village
 type: poi
+score: 8.1
 ---
 
 Den Fynske Landsby is an open-air museum with more than 20 rural buildings from the 18th and 19th centuries — farmhouses, a smithy, a windmill and watermill, a vicarage, a school, and an almshouse. Agriculture and cattle-raising are practised using traditional methods, and craft workshops run during the summer months.

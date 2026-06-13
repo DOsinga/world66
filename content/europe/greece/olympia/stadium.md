@@ -12,6 +12,7 @@ story: >
   Hellanodikai, the judges who enforced the rules and could expel any athlete
   found bribing or cheating. Their fines went to fund bronze statues of Zeus,
   called Zanes, lined up along the sacred way as a public shaming.
+score: 9.2
 ---
 
 The ancient stadium at Olympia has no tiers of seats, no stone grandstands, and no marble finishing. The athletes ran on dirt and the 45,000 spectators watched from grassy embankments on either side. This stripped-down simplicity is part of what makes it so affecting — you can walk through the stone vaulted entrance tunnel exactly as athletes did for centuries, step onto the track, and stand at the starting line.

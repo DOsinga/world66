@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5111
 longitude: 12.5963
+score: 8.8
 ---
 
 The waters around Lampedusa are among the clearest in the Mediterranean, with visibility routinely exceeding 30 metres. The combination of African geology and Mediterranean biodiversity gives the underwater environment here a character distinct from Italian waters further north: you encounter species more typical of North Africa, including sightings of sea turtles, barracuda, and grouper in sizes rarely seen elsewhere in Italian waters.

@@ -9,6 +9,7 @@ longitude: 7.0662
 story: "The Saint Bernard breed gets its name from the Grand St Bernard hospice at the pass above Martigny, where monks began keeping large Alpine dogs to help find travellers lost in the snow. The most famous was Barry, who allegedly saved over 40 lives between 1800 and 1812. A stuffed Barry has been on display in Bern's natural history museum since 1815 — making him arguably the most famous Swiss celebrity of the 19th century."
 sources:
   - https://en.wikipedia.org/wiki/Barry_(dog)
+score: 6.2
 ---
 
 Barryland is the museum dedicated to the Saint Bernard, the massive, gentle mountain rescue dog that became one of Switzerland's most recognisable symbols. The museum covers the history of the breed, its connection to the Grand St Bernard hospice 50 km up the valley, and the mythology of the barrel-wearing mountain rescuer (the barrel is largely fictional, added by later artists for effect).

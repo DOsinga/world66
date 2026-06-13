@@ -8,6 +8,7 @@ tags:
 latitude: 36.1296
 longitude: 54.3943
 snippet: Ruined hilltop fortress in the foothills south-east of Damghan
+score: 6.3
 ---
 
 The remains of a stone-walled medieval fortress on a rocky outcrop in the foothills 7 kilometres south-east of Damghan, originally an Ismaili (Assassin) stronghold and later expanded under the Mongols. The bailey walls and a couple of round towers are the main surviving features.

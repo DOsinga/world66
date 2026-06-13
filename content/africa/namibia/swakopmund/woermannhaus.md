@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Woermannhaus
 type: poi
+score: 8.4
 ---
 
 One of Swakopmund's finest colonial buildings and a national monument. The Woermannhaus is a confident example of German Wilhelmine architecture: a symmetrical facade, wide veranda, and the distinctive square tower that still punctuates the town's skyline. It now houses a public library and a small art gallery. Worth visiting for the building itself; the tower view over the town is worth asking about.

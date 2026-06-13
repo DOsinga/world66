@@ -8,6 +8,7 @@ title: Neelkanth Mahadev Temple
 type: poi
 story: >
   According to Hindu mythology, this is where Shiva drank the poison Halahala that emerged from the churning of the cosmic ocean, turning his throat blue — hence the name Neelkanth (blue-throated one). The poison was so powerful that it had to be contained in Shiva's throat before it reached his stomach, and Parvati clasped his neck to stop it descending. The temple is believed to mark the exact spot where this occurred.
+score: 7.9
 ---
 
 Neelkanth Mahadev Temple sits at 1330 metres in the forest above Rishikesh, nestled between the Manikoot, Brahmakoot, and Vishnukoot peaks. It is one of the most revered Shiva temples in Uttarakhand, drawing pilgrims who trek up from Swarg Ashram through dense forest on a 5 km path. A paved road also reaches the temple for those coming by taxi or motorbike from Rishikesh.

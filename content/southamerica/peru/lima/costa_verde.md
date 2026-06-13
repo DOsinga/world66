@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: Pebbly beaches below the cliffs of Miraflores and Barranco
+score: 6.7
 ---
 
 The **Costa Verde** is the strip of pebbly beach at the foot of the cliffs below Miraflores and Barranco, reached by a coast road and a series of paths and elevators. Lima is built on a desert coast and the beaches are not classic tropical sand — they are dark grey shingle, with cold Humboldt-current water — but the surf is reliable year-round.

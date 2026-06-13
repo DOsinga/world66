@@ -6,6 +6,7 @@ tags:
   - adventure
 latitude: -39.3667
 longitude: -71.9667
+score: 6.1
 ---
 
 The ski resort on the slopes of Volcán Villarrica operates from June to September, with around 20 runs spread across 500 vertical metres. It is modest by international standards but offers the unusual experience of skiing on an active volcano — sulfurous steam occasionally drifts across the upper pistes. The resort is run by a Chilean company and is primarily patronised by Chileans from Santiago.

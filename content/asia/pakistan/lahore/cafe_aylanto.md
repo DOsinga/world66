@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - gulberg
+score: 5.9
 ---
 
 Aylanto opened in 2009 and quickly became the standard-setting "international" restaurant in Lahore — Mediterranean menu, decent wine cellar (with appropriate alcohol permits), and design that would not look out of place in Dubai or Singapore. The kitchen is reliable across pasta, grills, and seafood.

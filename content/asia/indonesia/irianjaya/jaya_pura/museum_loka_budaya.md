@@ -13,6 +13,7 @@ story: >
   objects as part of conversion. The museum's anthropologists travelled
   upriver in the Asmat region with cash and tobacco, persuading communities to
   let the carvings go to a museum rather than the fire.
+score: 8.2
 ---
 
 Housed on the campus of Cenderawasih University in Abepura, about halfway between central Jayapura and Sentani, this is the most important museum of Papuan culture in Indonesia. The Asmat collection — bisj poles, ancestor figures, war shields, drums — is exceptional, and there are good holdings of bark-cloth painting from the Sentani area, Korowai material, and feathered headdresses from the highlands.

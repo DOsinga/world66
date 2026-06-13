@@ -11,6 +11,7 @@ story: "The site was discovered in 1881 when a local landowner digging in his ga
 sources:
   - https://en.wikipedia.org/wiki/Carmona,_Spain
   - https://www.spain.info/en/places-of-interest/roman-necropolis-carmona/
+score: 9.1
 ---
 
 The Roman necropolis on the western edge of Carmona is one of the most extraordinary ancient sites in Spain. Over 900 family tombs, ranging from simple pit graves to elaborate multi-chambered vaults hewn directly into the rock, fan out across an area of about 10 hectares just outside the old city walls. The scale of it — and the quality of preservation — is genuinely remarkable: this is what a wealthy Roman provincial town looked like from the perspective of death.

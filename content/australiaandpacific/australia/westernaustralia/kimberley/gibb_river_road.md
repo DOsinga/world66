@@ -14,6 +14,7 @@ story: >
   wet season rains make creek crossings impassable.
 sources:
   - https://en.wikipedia.org/wiki/Gibb_River_Road
+score: 9.5
 ---
 
 The Gibb River Road is a 660-kilometre unsealed track through the heart of the Kimberley, running east from Derby to connect with the highway near Kununurra. Built in the 1960s to move cattle off the remote stations, it has become one of Australia's iconic drives — not because it's comfortable, but because the gorges, waterfalls, and swimming holes along the way are some of the most beautiful in the country.

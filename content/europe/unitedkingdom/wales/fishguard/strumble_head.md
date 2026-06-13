@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.0196
 longitude: -5.0469
+score: 8.2
 ---
 
 Strumble Head, the rocky headland 5 kilometres northwest of Fishguard, is one of the best wildlife-watching spots on the Welsh coast. A lighthouse built in 1908 sits on the small island of Ynys Meicel, connected to the mainland by a footbridge, and the surrounding waters are rich in marine life. Grey seals haul out on the rocks, harbour porpoises are regularly seen from the clifftop, and the autumn migration brings thousands of seabirds past the point.

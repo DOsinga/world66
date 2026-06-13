@@ -8,6 +8,7 @@ tags:
   - sight
   - condado
 neighbourhood: Condado
+score: 6.5
 ---
 
 A 1.5-kilometre strip of white sand running along the Atlantic-facing side of Condado, with the row of high-rise hotels at its back. Condado is the most accessible beach in San Juan — fifteen minutes by taxi from Old San Juan — and the most crowded.

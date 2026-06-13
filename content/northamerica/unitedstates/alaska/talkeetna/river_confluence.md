@@ -8,6 +8,7 @@ tags:
 latitude: 62.3183
 longitude: -150.1095
 snippet: Where three glacial rivers meet, with Denali on the horizon
+score: 7.8
 ---
 
 Walk to the end of Main Street and follow the path down to the riverbank where the Susitna, Chulitna, and Talkeetna rivers converge. The water is the grey-green of glacial melt, fast and cold even in summer. On a clear day -- which is far from guaranteed -- Denali rises impossibly large to the north, filling the sky beyond the treeline.

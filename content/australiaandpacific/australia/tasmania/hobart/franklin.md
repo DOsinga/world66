@@ -12,6 +12,7 @@ tags:
   - restaurant
   - sullivans_cove
 snippet: "Hobart's most photographed dining room — Scandinavian oak in a converted Mercedes showroom on the waterfront"
+score: 7.5
 ---
 
 A handsome industrial-modern dining room carved out of a former Mercedes-Benz showroom near the waterfront, with a long open kitchen running the full length of one wall and a glowing wood-fired oven as the visual centrepiece. Chef David Moyle (also of the Longsong group) designed the kitchen as a single working brigade behind a marble counter; almost everything is finished over fire.

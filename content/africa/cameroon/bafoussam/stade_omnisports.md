@@ -15,6 +15,7 @@ story: >
   went on to finish third, their best result in decades.
 sources:
   - https://en.wikipedia.org/wiki/Stade_Omnisports_de_Bafoussam
+score: 4.8
 ---
 
 The Stade Omnisports de Bafoussam, also known as Stade Kouekong, is the main sports venue in the West Region, with a capacity of around 20,000 after its AFCON 2021 upgrade. The stadium sits northwest of the city centre on the road toward Babadjou, its stands visible from the surrounding hills. It serves as the home ground for local football clubs competing in the Cameroonian top flight.

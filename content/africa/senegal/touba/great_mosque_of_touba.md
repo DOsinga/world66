@@ -15,6 +15,7 @@ story: >
   Mouride leadership.
 sources:
   - https://en.wikipedia.org/wiki/Great_Mosque_of_Touba
+score: 9.4
 ---
 
 The Great Mosque of Touba is the largest mosque in Senegal and the spiritual heart of the Mouride Brotherhood. Its main minaret reaches 86 metres — visible from far outside the city — and the prayer hall can accommodate tens of thousands of worshippers. The complex is surrounded by the tombs of Mouride leaders, including the mausoleum of Cheikh Amadou Bamba himself, whose remains are buried beneath the central structure.

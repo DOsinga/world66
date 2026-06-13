@@ -11,6 +11,7 @@ story: >
   animals that once roamed this region when it was wetter — while later Thamudic inscriptions show
   camels, human figures, and footprints. Some of the most recent carvings are Arabic text left by
   pilgrims heading to Mecca.
+score: 8.9
 ---
 
 A narrow slot canyon slices into the base of Jabal Khazali, about 13 kilometres south of the village. The entrance is a dramatic crack in the cliff face, just wide enough to squeeze through, and the temperature drops noticeably as you step inside.

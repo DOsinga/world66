@@ -8,6 +8,7 @@ tags:
   - museum
 title: National Museum of Subaquatic Archaeology
 type: poi
+score: 8.7
 ---
 
 The National Museum of Subaquatic Archaeology, usually branded ARQVA, is one of Cartagena's best museums. Its subject is what the sea has preserved and swallowed: shipwrecks, amphorae, trade routes, anchors, and the legal and practical work of underwater archaeology.

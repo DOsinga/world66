@@ -12,6 +12,7 @@ story: >
   levelled much of the city. The present neo-Gothic basilica, completed in the 1950s,
   was built partly as a monument to the city's reconstruction — a deliberate statement
   that Ambato would rebuild bigger and better than what was lost.
+score: 6.5
 ---
 
 Ambato's cathedral basilica stands on the south side of the Plaza Juan Montalvo, the city's main square, and is the most prominent religious building in the city centre. The neo-Gothic exterior, with its twin towers and elaborate stonework, is more imposing than the interior, though the latter has some good stained glass and a quiet atmosphere away from the street noise.

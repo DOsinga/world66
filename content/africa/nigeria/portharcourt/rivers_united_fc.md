@@ -6,6 +6,7 @@ longitude: 7.0216
 tags:
   - things_to_do
   - sport
+score: 7.2
 ---
 
 Rivers United is Port Harcourt's professional football club and one of the major teams in the Nigeria Premier Football League. The club has a passionate local following and matches at [Yakubu Gowon Stadium](/africa/nigeria/portharcourt/yakubu_gowon_stadium) draw large crowds, particularly for league matches against rivals from Lagos and Kano. The club has won the Nigerian title and has competed in African club competitions, giving it a profile well beyond Rivers State.

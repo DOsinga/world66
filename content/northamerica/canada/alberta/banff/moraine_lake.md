@@ -7,6 +7,7 @@ tags:
 latitude: 51.3217
 longitude: -116.1860
 story: "Moraine Lake appeared on the back of the Canadian twenty-dollar bill from 1969 to 1979. The image, taken from the Rockpile at the eastern end of the lake, shows the ten peaks of the Valley of the Ten Peaks reflected in the still water — one of the most reproduced photographs in Canadian history. The lake itself was formed by a massive rockfall that dammed the valley, not by glacial moraine as its name suggests — a naming error made by the surveyor who first documented it in 1899."
+score: 9.4
 ---
 
 Many visitors argue that Moraine Lake is even more beautiful than Lake Louise — deeper colour, more intimate scale, more dramatically enclosed by peaks. The Valley of the Ten Peaks rises directly from the far shore, and the Rockpile at the eastern end of the lake gives the famous elevated view over the water toward the mountains.

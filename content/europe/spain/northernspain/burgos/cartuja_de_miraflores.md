@@ -10,6 +10,7 @@ story: >
   Columbus — sent as a gift to the Spanish crown and passed on to this royal
   monastery. Whether the story is entirely true is debated, but the altarpiece's
   scale and craftsmanship are beyond question.
+score: 8.5
 ---
 
 The Cartuja de Miraflores is a fifteenth-century Carthusian monastery about three kilometres east of Burgos, founded by King Juan II of Castile and completed under his daughter Isabel the Catholic. The monastery is still inhabited by Carthusian monks and is not publicly accessible, but the church is open to visitors and contains some of the finest late Gothic funerary art in Spain.

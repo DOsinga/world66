@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.5
 ---
 
 The Kala Academy, designed by the Goan-born architect Charles Correa in the 1970s, is Goa's main performing-arts centre — a long, low, white-painted concrete building stepping down toward the river, with internal courtyards open to the sea breeze. The building is an under-appreciated masterpiece of South Asian modernism, working out a tropical version of the cultural-centre brief in a way that bears comparison with Correa's later work in Delhi and Hyderabad.

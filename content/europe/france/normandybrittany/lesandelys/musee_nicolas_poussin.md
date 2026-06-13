@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 49.2430
 longitude: 1.4218
+score: 6.5
 ---
 
 The small Musée Nicolas Poussin pays homage to the town's most famous son, the 17th-century French classical painter Nicolas Poussin, who was born near Les Andelys in 1594. The museum occupies a building in Grand-Andely and holds a modest but respectable collection of paintings, drawings, and engravings — not all by Poussin himself, but exploring his world and influence.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.2
 ---
 
 The covered market in the centre of May Pen is at its loudest and best on Saturday mornings, when farmers from across Clarendon — and from as far away as St Catherine — bring in produce, meat, fish and clothes. Yams, ackee, callaloo, breadfruit, plantains, scotch bonnet peppers and a long line of unfamiliar herbs are heaped on tarpaulins; vendors call across each other.

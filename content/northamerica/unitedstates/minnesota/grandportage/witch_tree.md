@@ -12,6 +12,7 @@ story: >
   the open lake; Sieur de la Vérendrye recorded the practice in 1731. The tree
   is on the National Register of Historic Places and remains an active site of
   ceremony for the Grand Portage Band.
+score: 6.2
 ---
 
 A small, gnarled Eastern white cedar growing from a fissure in the basalt cliff at Hat Point — somewhere between 300 and 400 years old, despite the harsh conditions of wind, salt spray, and almost no soil. The Ojibwe name Manidoo-giizhikens means "Little Cedar Spirit Tree", and the tree is sacred to the Grand Portage Band of Lake Superior Chippewa.

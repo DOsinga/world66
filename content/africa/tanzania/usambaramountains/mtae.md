@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: -4.56
 longitude: 38.25
+score: 8.3
 ---
 
 Mtae is a village on the northern escarpment of the Western Usambaras, reached by a full day's walk from Lushoto or by a rough road that requires a four-wheel drive vehicle. The reward is one of the most dramatic viewpoints in the range: the ridge above Mtae looks north over an enormous plain, with views stretching 100 kilometres on a clear day.

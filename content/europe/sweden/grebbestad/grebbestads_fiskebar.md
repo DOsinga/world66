@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 58.6921
 longitude: 11.2541
+score: 7.2
 ---
 
 The Fiskebar at Grebbestad harbour is the best place to eat the local oysters, shrimp, and whatever the day boats brought in. The menu is short and changes constantly. Order the shellfish platter if it is on — a heap of prawns, oysters, and crayfish with aioli and bread, eaten outside on a summer evening with a cold beer or a glass of white wine.

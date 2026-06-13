@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.4165
 longitude: 8.7855
+score: 6.9
 ---
 
 The kasbah rises above the old town on a low bluff, its thick walls built by the Ottomans in the 16th century on foundations that likely go back further. From the outside it reads as a solid, slightly severe fortification — large dressed stones, corner towers, a gate that once controlled the approach to the medina below. The Ottomans built it to anchor their hold on the interior routes, and the position makes the strategic logic clear: from the walls, you can see the valley approaches and the older town spreading out beneath you.

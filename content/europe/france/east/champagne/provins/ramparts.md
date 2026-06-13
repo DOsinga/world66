@@ -11,6 +11,7 @@ tags:
 - sight
 - architecture
 - landmark
+score: 9.2
 ---
 
 The fortifications of the upper town stretch for roughly 1,200 metres and remain largely intact — one of the most complete circuits of medieval walls in northern France. The walls are punctuated by 22 surviving towers, ranging in shape from the standard semicircular to the unusual diamond-shaped Tour aux Engins, which projected the defenders forward and gave them a clear shot down the length of the wall.

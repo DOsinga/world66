@@ -9,6 +9,7 @@ longitude: -82.4572
 snippet: Tampa's annual pirate invasion parade — a beer-soaked Mardi Gras-style festival celebrating a pirate who never existed
 story: >
   José Gaspar — the legendary pirate the festival commemorates — almost certainly never existed. The story of "Gasparilla," a Spanish naval officer turned Gulf Coast pirate, was largely invented in the early 20th century by a cigar salesman named John Gomez who claimed to be Gaspar's last surviving crew member. The Gasparilla festival was launched in 1904, four years after Gomez's story appeared in local newspapers, and has grown ever since into Tampa's biggest annual event — built entirely on a myth.
+score: 6.0
 ---
 
 The Gasparilla Pirate Festival, held each January, is Tampa's most characteristic event — a vast, chaotic, jubilant parade that has celebrated a fictional pirate invasion of the city since 1904. The festival begins with an "invasion" of Tampa Bay by the Jose Gasparilla II, a full-rigged pirate ship sailing up the Hillsborough River under the escort of hundreds of smaller boats. The ship's crew fires cannons at the city, the mayor "surrenders," and the parade begins.

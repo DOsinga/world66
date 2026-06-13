@@ -6,6 +6,7 @@ longitude: 101.6933
 tags:
   - things_to_do
   - museum
+score: 5.4
 ---
 
 A small museum on the south side of Merdeka Square, housed in the 1899 former Government Printing Office. The headline exhibit is an enormous illuminated wooden scale model of central KL — every notable building picked out, the streets lit from below. Worth ten minutes for the orientation alone, especially if you arrive jet-lagged and want to understand the city's geography.

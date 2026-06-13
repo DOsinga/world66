@@ -16,6 +16,7 @@ story: >
   to tropical lowland rainforest near the Pacific coast.
 sources:
   - https://en.wikipedia.org/wiki/Laguna_Cuicocha
+score: 8.8
 ---
 
 A volcanic crater lake sitting at 3,068 metres in the shadow of Cotacachi volcano, Laguna Cuicocha is one of the most dramatic landscapes in the Imbabura region. The water is a deep blue-green, the rim walk takes about four to five hours, and the views of Cotacachi and, on clear days, Cayambe and Imbabura volcanoes are exceptional.

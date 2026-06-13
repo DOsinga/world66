@@ -12,6 +12,7 @@ story: >
   expose the Iran-Contra affair. This one was abandoned at San José airport
   for years before a local entrepreneur bought it for $3,000, hauled it up
   the hill in pieces, and built a restaurant around the fuselage.
+score: 7.1
 ---
 
 El Avion is an open-air restaurant built around the fuselage of a Cold War cargo plane, perched on the ridge between Quepos and the entrance to Manuel Antonio National Park. The fuselage itself serves as a bar — climb the steel ladder, find a seat in the cockpit, and order a beer in the captain's chair. The main dining terrace below offers wide views of the Pacific and reliable, if not extraordinary, Costa Rican seafood: ceviche, mahi-mahi, garlic shrimp, cold beer.

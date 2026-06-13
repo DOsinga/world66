@@ -9,6 +9,7 @@ tags:
 title: Grafton Shopping Centre
 type: poi
 zipcode: CB1 1PS
+score: 3.8
 ---
 
 An indoor shopping centre on the eastern edge of Cambridge's centre, a ten-minute walk from the Market Square. The Grafton is where locals go for everyday high-street shopping -- clothing chains, phone shops, a large M&S, and a John Lewis nearby. Not the reason you visit Cambridge, but useful if you need something practical. There are a few cafes inside for a break between shops.

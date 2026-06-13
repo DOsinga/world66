@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Louie's Pub and Grill
 type: poi
+score: 4.9
 ---
 
 A low-key neighborhood pub on Menaul Boulevard in Albuquerque's northeast heights. Louie's does straightforward bar food — burgers, wings, nachos — alongside a full bar with local and domestic beers on tap. The crowd is regulars and sports fans, and the atmosphere is relaxed. A decent spot if you want a casual meal without fuss.

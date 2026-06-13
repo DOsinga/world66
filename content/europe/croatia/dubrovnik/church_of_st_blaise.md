@@ -12,6 +12,7 @@ story: >
   was saved and the grateful citizens adopted him as their protector. A golden statue of St. Blaise holding a
   model of Dubrovnik stands on the facade of his church in Luža Square — one of the few images showing what
   the medieval city looked like before the 1667 earthquake.
+score: 7.1
 ---
 
 The Baroque church dedicated to St. Blaise stands prominently on Luža Square at the eastern end of the Stradun, built between 1706 and 1717 by the Venetian architect Marino Gropelli after its predecessor was destroyed in a fire in 1706. The exterior is richer and more theatrical than most buildings in Dubrovnik's restrained Baroque, with pilasters, a dome, and an ornamental facade facing the square.

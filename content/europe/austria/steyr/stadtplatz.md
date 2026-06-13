@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Stadtplatz is regularly listed among the most beautiful town squares in Europe — including by Austrian president Karl Renner, who in 1945 announced his preference on national radio. The 16th-century Rathaus combines the city's iron-trade wealth with a slightly out-of-scale Rococo facade added in 1778."
+score: 8.2
 ---
 
 The Stadtplatz runs along a single curving slope through the historic centre, lined on both sides with Gothic and Baroque burgher houses, most of them dating to between 1450 and 1700 and several still showing painted facades. The Bummerlhaus dominates the west side and the rococo Rathaus the east.

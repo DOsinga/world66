@@ -13,6 +13,7 @@ story: >
   Smith's ships intercepted the French artillery being sent by sea and turned it
   against the besiegers. Had Acre fallen, Napoleon later wrote on Saint Helena,
   he might have marched on Constantinople.
+score: 8.3
 ---
 
 The land walls of Acre were strengthened by Ahmad Pasha al-Jazzar in the 1790s, with the help of a French engineer and, crucially, British naval support. They proved their worth in 1799 when Napoleon's army besieged the city for 61 days before retreating to Egypt — one of the few setbacks of the Napoleonic Wars in the East.

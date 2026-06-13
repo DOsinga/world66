@@ -8,6 +8,7 @@ latitude: 40.73115
 longitude: 8.56072
 story: >
   The Fontana del Rosello is considered the symbol of Sassari. It was built between 1606 and 1635 by Genoese marble workers at the site of a medieval spring that had provided the city with fresh water since the earliest settlement. The four heads spouting water from the lower basin represent the four seasons. A local saying holds that anyone who drinks from the fountain will always return to Sassari.
+score: 7.2
 ---
 
 The Fontana del Rosello at the bottom of the steps on Corso Trinità is the most celebrated monument in Sassari, a late Renaissance fountain of white marble fed by a natural spring. The fountain dates from the early 17th century and is decorated with figures of the seasons, allegorical reliefs, and two lions at the top holding the arms of Sassari.

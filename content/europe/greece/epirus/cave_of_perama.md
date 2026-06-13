@@ -12,6 +12,7 @@ story: >
   on the entrance. The fossils of prehistoric cave bears — ursus spelaeus — were
   found inside along with the stalactites and stalagmites, and the cave has since
   yielded one of the richest collections of Pleistocene fauna ever found in Greece.
+score: 7.2
 ---
 
 The Cave of Perama, on the Goritsa Hill just 5 kilometres from Ioannina, is one of the largest and most impressive show caves in Greece. Its chambers extend over 14,000 square metres and contain 19 different types of stalactite and stalagmite formation, some of them millions of years old. Guided tours (in Greek and sometimes English) take about 45 minutes and cover the main chambers.

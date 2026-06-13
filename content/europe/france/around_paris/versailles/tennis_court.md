@@ -11,6 +11,7 @@ story: >
   locked out of their usual meeting hall — a logistical accident that became one
   of the founding moments of the French Revolution. If the doors had simply been
   left open, history might have gone differently.
+score: 8.0
 ---
 
 The Jeu de Paume is a long, bare indoor tennis court — the royal version of a sport that was popular in the 17th century — tucked behind the north wing of the palace. It would be entirely unremarkable except for what happened here on 20 June 1789.

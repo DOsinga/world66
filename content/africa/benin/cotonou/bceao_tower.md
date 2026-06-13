@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.2
 ---
 
 The BCEAO Tower is Cotonou's most prominent skyscraper — at 64 metres and 16 floors, it is the tallest building in Benin. Inaugurated in 1994, it serves as the headquarters of the Beninese branch of the Central Bank of West African States. The building is not open to the public, but it is worth looking at from the street: the facade is decorated with bas-relief cowrie shells, referencing the currency that circulated across the Gulf of Guinea before European colonisation.

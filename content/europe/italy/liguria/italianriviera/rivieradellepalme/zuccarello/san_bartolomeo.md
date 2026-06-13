@@ -6,6 +6,7 @@ longitude: 8.1148
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The parish church dedicated to San Bartolomeo stands at the heart of Zuccarello's old village. Its Romanesque campanile is the oldest surviving structure in the town — the bell tower predates the church's later Baroque interior additions — and is one of the few Romanesque towers preserved this far into the Ligurian hinterland.

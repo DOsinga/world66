@@ -17,6 +17,7 @@ story: >
   appears peaceful and functions normally. But the history is part of understanding
   what it means to maintain a Tibetan Buddhist institution in the contemporary Chinese
   state.
+score: 8.3
 ---
 
 Kirti Gompa on the Sichuan side of Langmusi is the larger and more architecturally impressive of the two monasteries facing each other across the small river that marks the provincial border. The main assembly hall has murals in good condition and a collection of large gilded statues. The monastery compound includes several subsidiary temples, monk residences, and a series of large prayer wheels at the entrance that visitors are invited to turn.

@@ -5,6 +5,7 @@ tags: [eating_out, restaurant]
 latitude: 32.1660
 longitude: 74.1875
 snippet: "Charcoal-grilled mutton tikka on Sialkot Road"
+score: 6.1
 ---
 
 Chiraghdin is one of the names Gujranwala people invoke when they argue about the best tikka in Punjab. The shop is simple — a tin roof, a row of charcoal grills, plastic tables — and the menu is essentially mutton, served as boti tikka or chops with fresh nan, raita and sliced onion. Go at lunchtime or early evening before the meat runs out.

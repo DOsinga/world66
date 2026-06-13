@@ -11,6 +11,7 @@ tags:
 title: The Quality Chop House
 type: poi
 url: www.thequalitychophouse.com
+score: 8.1
 ---
 
 The Quality Chop House has been on Farringdon Road since 1869 — the original signage on the facade calls it a "Progressive Working Class Caterer." The Victorian interior, with its high-backed wooden pews in which you sit elbow-to-elbow with strangers, is listed, and the menu honours the tradition with exceptional versions of British classics: confit potatoes, ox cheeks, aged beef from named farms.

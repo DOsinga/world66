@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Sokoto_Sultanate_Council
   - https://www.openstreetmap.org/node/5836592711
+score: 7.0
 ---
 
 The Sultan's Palace is the symbolic centre of Sokoto, guarded, ceremonial, and still very much in use. Its importance is not just architectural; this is the seat of a traditional institution whose authority reaches far beyond the city.

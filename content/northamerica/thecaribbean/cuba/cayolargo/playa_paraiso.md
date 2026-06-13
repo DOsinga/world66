@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.8
 ---
 
 Playa Paraíso is Cayo Largo's other world-class beach, immediately adjacent to Playa Sirena on the southwest tip but with even fewer facilities — basically a long, empty stretch of white sand and turquoise water with a single shaded bar. The reef is closer to shore here, which makes the water slightly clearer and the swimming slightly cooler than at Sirena.

@@ -7,6 +7,7 @@ snippet: A self-guided tour of the city's remaining 22 medieval towers
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 Of the more than 100 noble towers that once gave medieval Bologna a skyline like San Gimignano's, 22 still stand — sometimes truncated, sometimes leaning, often embedded inside later buildings so that you don't notice them until you look up. The two main towers near Piazza di Porta Ravegnana (the Asinelli and Garisenda) get most of the attention, but there are clusters of others worth seeking out.

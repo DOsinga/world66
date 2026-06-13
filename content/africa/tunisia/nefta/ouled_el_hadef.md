@@ -5,6 +5,7 @@ latitude: 33.878
 longitude: 7.881
 snippet: "Old quarter of mud-brick houses with characteristic geometric brick decoration"
 tags: [things_to_do, sight, architecture, historic]
+score: 8.1
 ---
 
 Ouled el-Hadef is the old residential quarter of Nefta, a tight grid of narrow lanes lined with houses whose facades are decorated with the distinctive yellow-brick geometric patterns of the Jerid region. The patterns — diamonds, lozenges, zigzags, sun-discs — are made by setting the standard mud bricks at varying angles, and are unique to a handful of oasis towns in southern Tunisia.

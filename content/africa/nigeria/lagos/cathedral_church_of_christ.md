@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 - lagos_island
+score: 7.6
 ---
 
 The Anglican cathedral of the Diocese of Lagos sits at the western end of the Marina, a long brick-and-stone Gothic Revival church that was begun in 1924 and finished in 1946. It is the seat of the Primate of the Church of Nigeria, the largest province of the Anglican Communion. The interior is unexpectedly cool and dim, with carved wooden pews, stained glass, and memorial plaques to colonial officials, soldiers, and merchants. Open most weekdays for visitors; services on Sundays are full and lively.

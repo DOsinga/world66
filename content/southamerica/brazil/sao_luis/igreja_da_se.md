@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.5275
 longitude: -44.3042
+score: 7.6
 ---
 
 The original see of the diocese of São Luís, the Igreja da Sé (or Igreja de Nossa Senhora da Vitória) is one of the oldest churches in the city, with origins in the earliest Portuguese colonial period. The current structure has been rebuilt and modified over the centuries, but the church remains a central landmark of the historic centre.

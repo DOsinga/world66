@@ -13,6 +13,7 @@ story: When the Spanish arrived in the region in the 1530s, they found Kuélap a
   the population had been dispersed. The massive fortress was "rediscovered" by a
   local judge in 1843, but it took another century and a half before serious archaeological
   work began. The site contains more stone than the Great Pyramid of Giza by volume.
+score: 9.6
 ---
 
 Kuélap is the most important archaeological site in northern Peru — a massive walled citadel built by the Chachapoyas civilisation on a mountain ridge at 3,000 metres, containing over 400 circular stone buildings within walls that reach 20 metres high. The site covers six hectares and was likely home to thousands of people at its peak between 900 and 1500 AD.

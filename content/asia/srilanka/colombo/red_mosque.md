@@ -9,6 +9,7 @@ tags:
 title: Jami Ul-Alfar Mosque (Red Mosque)
 type: poi
 neighbourhood: Pettah
+score: 8.2
 ---
 
 The Red Mosque — properly Jami Ul-Alfar — is the most striking building in Pettah and one of the most distinctive pieces of architecture in Colombo. Built in 1909 in an Indo-Saracenic style, it has two tall minarets striped in alternating red and white, visible from a considerable distance above the bazaar rooftops. The striped pattern extends across the facade and domes in a way that makes the building look almost like something from a picture book.

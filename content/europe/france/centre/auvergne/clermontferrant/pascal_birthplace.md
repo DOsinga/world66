@@ -8,6 +8,7 @@ tags:
 - sight
 title: Birthplace of Blaise Pascal
 type: poi
+score: 5.8
 ---
 
 Blaise Pascal was born in Clermont-Ferrand in 1623, and the city takes its association with the polymath philosopher, mathematician, and physicist seriously — the international airport is named after him, and a plaque on the Rue des Gras in the old town marks his birthplace. The Musée d'Art Roger-Quilliot nearby holds some Pascal-related material, but the main connection is in the atmosphere of the old town itself: Pascal grew up in this compact medieval city, studied here, and performed his famous barometric experiment on the Puy de Dôme in 1648 (by proxy, using his brother-in-law Florin Périer).

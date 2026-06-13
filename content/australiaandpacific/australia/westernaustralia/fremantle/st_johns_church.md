@@ -8,6 +8,7 @@ tags:
   - church
 sources:
   - https://en.wikipedia.org/wiki/St_John%27s_Anglican_Church,_Fremantle
+score: 6.7
 ---
 
 St John the Evangelist on Walyalup Koort is the oldest Anglican parish church in Western Australia, the second on this site — the first, of 1843, gave way to the current Decorated Gothic building in 1882. The square in front holds a tall war memorial cross, around which the city's Anzac Day commemorations are still held.

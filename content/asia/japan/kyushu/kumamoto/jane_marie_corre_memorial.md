@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.8169
 longitude: 130.6894
+score: 4.8
 ---
 
 A small memorial in the grounds of Honmyō-ji to Father Jean-Marie Corre, the French Catholic missionary who in 1898 founded the Tairoin Hospital for leprosy patients who had gathered around the temple. The hospital was one of the first organised responses to Hansen's disease in Japan and is still in operation today.

@@ -8,6 +8,7 @@ tags:
 latitude: 37.28694
 longitude: -122.06278
 snippet: 739-acre open space with ridge trails and valley views above Saratoga
+score: 6.8
 ---
 
 Fremont Older Open Space Preserve sits in the hills above Saratoga and Cupertino, offering 739 acres of oak woodland, chaparral, and grassland with a well-maintained trail network. The preserve is named for Fremont Older, the San Francisco newspaper editor who owned the land in the early 20th century and who, along with his wife Cora, was known for hosting a salon of writers, politicians, and intellectuals at their hilltop ranch house.

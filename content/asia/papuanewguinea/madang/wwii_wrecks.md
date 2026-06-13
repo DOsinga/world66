@@ -7,6 +7,7 @@ tags:
 latitude: -5.2150
 longitude: 145.8100
 story: "During World War II, Madang was a major Japanese base from 1942 until Allied forces retook it in 1944. The Japanese occupation left an extraordinary legacy underwater: dozens of ships, aircraft, and vehicles lie on the sea floor around the harbour and along the nearby coast. The shallow water and warm temperatures have allowed coral to colonise the wrecks extensively, creating some of the most visually spectacular dive sites in the Pacific."
+score: 9.2
 ---
 
 The waters around Madang hold one of the densest concentrations of WWII wrecks in the Pacific. Japanese freighters, patrol boats, landing craft, and Zero fighters lie in depths ranging from 5 to 40 metres, most of them within easy reach of the town's dive operators. The warm, clear water — visibility is routinely 20-30 metres — and prolific marine life make these among the most rewarding wreck dives in the world.

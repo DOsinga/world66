@@ -10,6 +10,7 @@ story: >
 title: Lange Jaap
 type: poi
 snippet: The tallest lighthouse in the Netherlands, a slender iron tower near Fort Kijkduin
+score: 6.8
 ---
 
 Lange Jaap stands on the coastal strip near Huisduinen, a few hundred metres from Fort Kijkduin. The lighthouse is an elegant cast-iron column painted in alternating black and white bands, rising 63 metres above the flat dune landscape. It has guided shipping through the busy Marsdiep strait since 1877 and is still an active navigation aid.

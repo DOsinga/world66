@@ -9,6 +9,7 @@ latitude: 30.6703
 longitude: -81.4617
 story: >
   Fernandina Beach's Victorian downtown survives because the town lost its railroad connection in the 1880s and was essentially bypassed by Florida's great land boom. What looked like economic stagnation for a century turned out to be the best preservation policy money couldn't buy.
+score: 9.0
 ---
 
 The historic district along Centre Street and the surrounding blocks is one of the most intact Victorian commercial districts in Florida, with buildings dating back to the 1870s and 1880s when Fernandina Beach was a booming port town. The architecture ranges from Italianate commercial fronts to Queen Anne houses, and most of it is in active use as restaurants, shops, and small hotels — which keeps the streets lively rather than museum-quiet.

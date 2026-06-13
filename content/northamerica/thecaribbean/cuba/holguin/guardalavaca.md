@@ -10,6 +10,7 @@ latitude: 21.1250
 longitude: -75.8289
 sources:
   - https://en.wikipedia.org/wiki/Guardalavaca
+score: 7.2
 ---
 
 Guardalavaca is the main beach resort of Holguín province, about 65 kilometres north of the city along a winding road through cattle country and hills. The beach itself stretches for 1,200 metres, the sand is white and powdery, and the water stays warm year-round. Directly offshore, coral reefs begin in shallow water — snorkelling is excellent even for beginners, and the reef drops off into deeper water for divers.

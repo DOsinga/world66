@@ -14,6 +14,7 @@ story: >
   analogue for studying impact craters on the Moon and Mars, since the
   geology mimics what their probes find on those bodies far more closely
   than craters in sandstone or limestone elsewhere.
+score: 9.0
 ---
 
 The Lonar Crater is a near-circular basin about 1.8 kilometres across and 150 metres deep, gouged out of the Deccan Plateau by a meteorite roughly 50,000 years ago. At the bottom sits a shallow lake whose water is both saline and alkaline — a chemistry rare in lakes that size, and one that supports a peculiar ecosystem of micro-organisms that have been studied for decades by astrobiologists.

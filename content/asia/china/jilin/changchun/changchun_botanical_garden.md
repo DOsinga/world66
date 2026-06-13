@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 43.8400
 longitude: 125.2700
+score: 6.8
 ---
 
 The Changchun Botanical Garden is one of the larger botanical collections in northeast China, covering a site that includes outdoor planting areas, glasshouse collections, and a rose garden that is a city landmark in early summer. The garden holds an extensive collection of plants native to the northeast Chinese climate — species adapted to long cold winters and short intense growing seasons that are rarely found in botanical collections further south.

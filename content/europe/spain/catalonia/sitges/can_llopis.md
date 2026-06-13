@@ -8,6 +8,7 @@ tags:
 latitude: 41.2369
 longitude: 1.8078
 snippet: 19th-century bourgeois house frozen in time
+score: 7.4
 ---
 
 The Can Llopis was the family home of a wealthy Sitges wine merchant who made his fortune in 19th-century Cuba and returned to build an Italianate town house in the centre of his native town. When the family donated the building to the council in 1949 they left everything in place: the painted ceilings, the period furniture, the silverware, the dolls and music boxes belonging to the children.

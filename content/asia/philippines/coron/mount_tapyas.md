@@ -9,6 +9,7 @@ address: Mt Tapyas, Coron, Palawan
 latitude: 11.9943
 longitude: 120.2050
 snippet: 700-step climb to a giant white cross above the town
+score: 7.4
 ---
 
 Mount Tapyas rises directly behind Coron town and is the standard sunset destination — a flight of just over 700 concrete steps zigzagging up the steep limestone face to a hilltop topped by a 30-foot white cross. From the top the view runs out across the harbour and the maze of Calamian Islands and, on clear evenings, all the way to Culion to the south.

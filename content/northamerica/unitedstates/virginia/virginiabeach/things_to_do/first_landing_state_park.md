@@ -1,6 +1,7 @@
 ---
 title: "First Landing State Park"
 type: poi
+score: 8.7
 ---
 
 First Landing State Park preserves the spot where the English colonists of the Virginia Company first came ashore on April 26, 1607, before sailing up the James River to establish Jamestown. That landing happened nearly three weeks before the settlement was founded, making this the literal starting point of permanent English colonization in North America. The historical weight sits lightly here — the park is more about what the land looks like today than what happened on it — but a marker at the bay shore acknowledges the event.

@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Gaststätte Zum Ritter
 type: poi
+score: 5.3
 ---
 
 A historical castle tavern right in the city centre, serving solid German food in an atmospheric old setting. The building dates back centuries and the interior keeps that vaulted, stone-walled character. Expect classics like Schnitzel, Sauerbraten, and local beers on tap.

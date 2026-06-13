@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.3
 ---
 
 The whitewashed parish chapel of the old fishing village sits a couple of streets back from the seafront, surrounded by what is left of the original settlement before the resort came up around it.

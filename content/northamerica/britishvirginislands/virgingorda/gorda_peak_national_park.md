@@ -8,6 +8,7 @@ tags:
 latitude: 18.476
 longitude: -64.405
 snippet: A 265-acre dry-forest reserve in the centre of Virgin Gorda, with the highest point on the island
+score: 7.8
 ---
 
 Gorda Peak National Park covers 265 acres of subtropical dry forest in the centre of Virgin Gorda, protecting one of the last remaining stretches of the island's original vegetation. The peak — Gorda Peak proper — rises to 414 metres, the highest point on the island and one of the highest in the British Virgin Islands. The forest here is biologically distinct from the surrounding lowlands, with several plant species found nowhere else and a population of the endangered Virgin Gorda gecko.

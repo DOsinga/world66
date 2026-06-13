@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, casino]
 latitude: 32.515438
 longitude: -93.737054
+score: 4.9
 ---
 
 Horseshoe Bossier City is the largest of the riverboat casinos lined up along the Red River. The complex includes a 26-storey hotel tower — for many years the tallest building in the Shreveport–Bossier area — and Louisiana's largest casino floor by gaming positions.

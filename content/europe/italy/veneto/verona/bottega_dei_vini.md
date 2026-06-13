@@ -10,6 +10,7 @@ tags:
 - bar
 title: Bottega dei Vini
 type: poi
+score: 6.9
 ---
 
 Founded in 1890, this is Verona's definitive wine bar: dark wood, old bottles on high shelves, and a list of several hundred wines covering the full Veneto spectrum from young Valpolicella to aged Amarone. Bar snacks at the counter (salumi, formaggi, crostini) or a full trattoria menu in the dining room. The atmosphere is deliberately old-fashioned and takes itself seriously, which is exactly right. A mandatory stop for anyone interested in the wines of the region.

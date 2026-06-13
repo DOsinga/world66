@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 43.2731
 longitude: 11.9824
+score: 5.8
 ---
 
 The Parterre is Cortona's small public garden, on a terraced promenade just outside the western edge of the historic centre. Stone walls hold up a flat shaded area planted with plane trees and gravel paths — useful as a break from the steep streets above.

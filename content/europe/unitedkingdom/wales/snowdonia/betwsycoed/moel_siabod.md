@@ -10,6 +10,7 @@ tags:
   - mountain
   - hiking
 story: "From the summit cairn, fourteen of the fifteen 3,000-foot peaks of Snowdonia are visible on a clear day — the most complete panorama in the national park. Sir Edmund Hillary trained on Moel Siabod before his 1953 Everest expedition."
+score: 8.8
 ---
 
 Moel Siabod is the prominent humped mountain visible to the south-west from the village. At 872 metres it falls just short of true mountain status by metric reckoning, but its position — out on its own east of the Snowdon massif — gives it one of the most rewarding summit views in Wales.

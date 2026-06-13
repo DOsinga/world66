@@ -6,6 +6,7 @@ longitude: -118.4140
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The beach break at Manhattan Beach is one of the better surf spots in the South Bay — not the most consistent, but reliably rideable when there is swell running. The waves break close to shore and can get powerful, which suits shortboarders. The surf scene here is competitive and local; don't expect a beginner's paradise.

@@ -12,6 +12,7 @@ tags:
 - downtown
 story: >
   The Carillon tower at the entrance contains 47 cast bronze bells that play short concerts throughout the day. The largest bell weighs nearly five tons, and the tower's design directly references the Hoover Dam intake towers visible 30 miles to the east.
+score: 8.0
 ---
 
 Las Vegas's main classical performance venue opened in 2012 in the downtown Symphony Park redevelopment. The Smith Center deliberately turned away from the Strip's spectacle aesthetic, choosing a serious art-deco design inspired by the Hoover Dam and the Boulder Dam Hotel. It is the city's most architecturally significant new building of the last two decades.

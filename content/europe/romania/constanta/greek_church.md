@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The **Biserica Greacă** is the centre of Constanța's small but historically important Greek community — the descendants of the merchants who refounded the modern city's commercial life in the 18th and 19th centuries, when most of the local trade flowed through Greek hands. The church was completed in 1862 in a restrained neoclassical style, with a single dome over the crossing and a low porch.

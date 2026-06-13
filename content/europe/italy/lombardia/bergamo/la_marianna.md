@@ -10,6 +10,7 @@ tags:
 title: La Marianna
 type: poi
 url: www.lamarianna.it
+score: 5.9
 ---
 
 Garden patio full of flowers for the summer and sidewalk cafe service for those wonderful Italian sweets or ice cream while you catch all the action going by in the Upper Town in Colle Aperto

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 44.174
 longitude: 8.271
+score: 6.7
 ---
 
 The baroque church of San Sebastiano in Bardino Nuovo is pleasant enough, but what makes the hamlet worth a brief stop is the small collection of antique clocks and watches housed nearby — an oddly specific local institution that delights anyone who stumbles on it.

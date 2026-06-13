@@ -8,6 +8,7 @@ tags:
   - peruvian
 latitude: -13.7093
 longitude: -76.2028
+score: 5.6
 ---
 
 Don Manuel is a popular local lunch spot near Pisco's plaza that keeps things straightforward: freshly caught Pacific fish, fried or in ceviche, with rice and the yellow-potato causa on the side. The portions are generous, the prices are low, and the cook changes the catch-of-the-day chalk board each morning depending on what arrived at the port.

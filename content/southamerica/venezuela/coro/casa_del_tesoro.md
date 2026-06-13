@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 11.4078
 longitude: -69.6785
+score: 7.7
 ---
 
 The Casa del Tesoro — Treasure House — is an 18th-century mansion on Calle Zamora that takes its name from a cache of colonial silver coins discovered in one of the walls during 20th-century restoration. The house has the standard Coro layout: thick mud-and-cane walls, an inner patio, deep rooms shaded by overhanging eaves.

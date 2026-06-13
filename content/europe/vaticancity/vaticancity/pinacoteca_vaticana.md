@@ -8,6 +8,7 @@ snippet: "The Vatican's picture gallery, from Giotto to Leonardo"
 tags:
 - things_to_do
 - museum
+score: 8.4
 ---
 
 The Vatican's painting gallery, opened in 1932 in a purpose-built pavilion at the entrance to the museum complex. The collection is small by museum standards — about 460 works arranged in 18 rooms — but the quality is unrelenting and the layout chronological, which makes it one of the easier ways in the Vatican to take in an art history lesson in two hours.

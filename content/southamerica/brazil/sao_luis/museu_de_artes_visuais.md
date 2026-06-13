@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: -2.526
 longitude: -44.299
+score: 7.2
 ---
 
 The Museum of Visual Arts in São Luís occupies a restored colonial building in the historic centre and has a collection focused on contemporary and historical art from Maranhão and northeastern Brazil. The permanent collection includes paintings, sculptures, and ceramic works by regional artists; temporary exhibitions bring in work from across Brazil.

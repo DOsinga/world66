@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.6
 longitude: 76.43
+score: 7.0
 ---
 
 The local toddy shops — small thatched bar-restaurants attached to the toddy tappers' cooperatives — are the most authentic places to eat in Kumarakom. The food is simple, the prices low, and the fish is local. The signature dish is karimeen pollichathu: pearl spot fish marinated in chilli, turmeric, and lime, wrapped in a banana leaf, and grilled over coals.

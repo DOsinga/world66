@@ -8,6 +8,7 @@ latitude: 58.9294
 longitude: 23.5256
 sources:
   - https://en.wikipedia.org/wiki/Paralepa
+score: 6.8
 ---
 
 Paralepa is the borough south of Haapsalu's centre where the town's main beach and outdoor recreation area is located. The sheltered gulf here is exceptionally shallow — you can walk out a long way before it gets deep — and the water warms up significantly by mid-summer, making it genuinely pleasant for swimming. This is the same quality that attracted nineteenth-century health tourists to Haapsalu in the first place.

@@ -14,6 +14,7 @@ story: >
   at the command of Bishop Odo, William the Conqueror's half-brother, who held
   Reading Abbey lands. The copy, at full scale and displayed in proper sequence,
   is one of the few places outside Bayeux where you can see the whole thing.
+score: 7.7
 ---
 
 Reading Museum, housed in Reading Town Hall, is free and covers the town's history from the Roman settlement of Calleva Atrebatum (Silchester) through the medieval abbey to the Industrial Revolution biscuit empire of Huntley & Palmers. The Roman gallery, with finds from the nearby excavations at Silchester, is the strongest permanent collection — mosaics, sculptures, and everyday objects from what was a substantial Roman town.

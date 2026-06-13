@@ -14,6 +14,7 @@ tags:
 - sight
 title: William Tell Open Air Theatre
 type: poi
+score: 6.4
 ---
 
 The Tellspiele at the Ruegen theatre is one of the oldest and largest open-air theatrical productions in Europe, staging Friedrich Schiller's drama about the Swiss national hero each summer since 1912. The cast numbers close to 200 performers, most of them local volunteers alongside a core of professional actors, and the performances run in the original German with a hillside natural amphitheatre as the stage. The Alps provide the backdrop.

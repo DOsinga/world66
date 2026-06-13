@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Large Chinese Confucian temple, the spiritual heart of Pangkalpinang's Chinese community"
+score: 7.5
 ---
 
 Pangkalpinang's Confucian temple complex is the most tangible reminder that this city has had a substantial Chinese-Malay population for over two centuries. The temple is large, well-maintained, and active — come on a weekend morning and you'll find families burning incense and making offerings in a scene that would be equally at home in Fujian province. The architecture mixes Chinese elements with local adaptations accumulated over generations.

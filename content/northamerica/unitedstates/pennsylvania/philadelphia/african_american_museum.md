@@ -8,6 +8,7 @@ tags:
 latitude: 39.9543
 longitude: -75.1494
 snippet: "The first museum in the US funded and built by a city to preserve African American history"
+score: 7.7
 ---
 
 The African American Museum in Philadelphia opened in 1976 as part of the city's Bicentennial celebration — the first museum in the United States funded and built by a municipality specifically to preserve and interpret the heritage of African Americans. The timing was deliberate: Philadelphia was reminding itself and the world that the story of American freedom was, from the beginning, a story shaped by Black Americans who were excluded from the freedoms being celebrated.

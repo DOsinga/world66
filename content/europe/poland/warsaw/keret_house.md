@@ -10,6 +10,7 @@ longitude: 20.9980
 snippet: "The world's narrowest house — a sliver of art space wedged between two buildings in Muranów"
 sources:
   - https://en.wikipedia.org/wiki/Keret_House
+score: 7.0
 ---
 
 The Keret House is officially the world's narrowest house, squeezed into a gap between two buildings in the Muranów neighbourhood. At its narrowest it is 92 centimetres wide; at its widest, 152 centimetres. The building was designed by architect Jakub Szczęsny in 2012 as an art space for Israeli author Etgar Keret, who was invited to be its first resident — a reference to the fact that Keret's family survived the Warsaw Ghetto, which occupied this very neighbourhood.

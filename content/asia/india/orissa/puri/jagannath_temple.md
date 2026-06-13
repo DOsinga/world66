@@ -10,6 +10,7 @@ story: "The word \"juggernaut\" in English — meaning an unstoppable force — 
   rolling through the streets while vast crowds pulled it. Some accounts, probably
   exaggerated, described devotees throwing themselves beneath the wheels in religious
   ecstasy."
+score: 9.8
 ---
 
 The Jagannath Temple is the gravitational centre of Puri — and in many ways, of all eastern India. Its *deul* (main tower) rises 65 metres above the old city, visible from far out to sea and from every corner of town, its white walls crowned with the spinning wheel of Vishnu and a flag that never stops flying. It has stood here for over a thousand years, though the current structure dates mostly to the 12th century, built by the Ganga king Anantavarman Chodaganga Deva. Puri is one of the four *char dhams* — the four sacred pilgrimage sites that a Hindu should visit in a lifetime — alongside Dwarka, Badrinath, and Rameswaram. That status alone tells you what the temple means to Hinduism.

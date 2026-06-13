@@ -9,6 +9,7 @@ longitude: 76.42
 story: "The Kuttanad region around Alappuzha is one of the few places in the world where farming takes place below sea level — in some parts of the paddy fields the water table sits nearly two metres above the field surface. The landscape is held in place by an intricate system of bunds and pumps that have been maintained by local communities for centuries."
 sources:
   - https://en.wikipedia.org/wiki/Alappuzha
+score: 9.2
 ---
 
 The overnight houseboat (kettuvallam) cruise is the classic Alappuzha experience. These converted rice barges — roofed in palm thatch and fitted with bedrooms, a sitting area, and a kitchen — are crewed by a captain and a cook and move slowly through the canal network south of town. You wake up to stillness broken only by birds and the occasional passing canoe.

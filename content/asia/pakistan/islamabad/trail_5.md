@@ -6,6 +6,7 @@ longitude: 73.0763
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Trail 5 is the shortest and steepest of the popular Margalla Hills hiking routes — three kilometres from a trailhead at the north end of F-5 to the ridge above, with a punishing 500 metres of altitude gain in the first hour. The path runs through dense scrub oak and offers little shade.

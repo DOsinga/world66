@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The cliffs of Arrábida hide several caves where Neanderthal remains have been found — Figueira Brava cave, excavated in the 2010s, produced evidence that Neanderthals were diving and eating shellfish 100,000 years ago, far earlier than previously thought."
+score: 8.8
 ---
 
 The Serra da Arrábida runs along the coast between Setúbal and Sesimbra: a low limestone ridge of dense Mediterranean scrub dropping straight into clear turquoise water. The road through the park, the EN379-1, is one of the great drives in southern Portugal — switchbacks, viewpoints, and pull-outs above hidden coves.

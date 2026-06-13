@@ -9,6 +9,7 @@ tags:
 - ximending
 title: Red House Bar District
 type: poi
+score: 7.2
 ---
 
 The alley directly behind the Red House in Ximending is the centre of LGBTQ+ Taipei: a long pedestrian lane lined with around twenty open-air bars, set up with tables under awnings against the back of the Red House and the adjoining shophouses. Most are friendly to all comers and serve simple cocktails, beer, and a short snack menu.

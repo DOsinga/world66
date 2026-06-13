@@ -16,6 +16,7 @@ story: >
   Chautauqua hosted President Theodore Roosevelt, William Jennings Bryan, and
   John Philip Sousa. The auditorium is still standing and still hosting summer
   concerts.
+score: 9.3
 ---
 
 Chautauqua Park sits at the base of the Flatirons on the western edge of Boulder, where the city's residential streets end and the mountain begins with little warning. The park is the main gateway to Boulder's 45,000-acre Open Space and Mountain Parks system, and the trailhead parking lot fills early on weekends.

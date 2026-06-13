@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 37.2868
 longitude: 9.8748
+score: 5.9
 ---
 
 La Corniche is the seafront boulevard that runs north from the modern port along the Mediterranean coast, lined with apartment blocks, small hotels, café-restaurants, and a thin strip of public beach that gets busy in July and August. It is where Bizerte residents come to walk in the evening, where Tunisian families holiday in summer, and where the city's nightlife — modest as it is — concentrates.

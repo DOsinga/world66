@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 1.8551
 longitude: 102.9467
+score: 6.2
 ---
 
 The Sultan Ismail Jamek Mosque is the largest mosque in Batu Pahat and the principal Friday prayer hall for the town. Its multi-tiered tiled roof and slender minarets follow the regional Johor style, drawing on Sumatran Minangkabau cues. The building you see now dates from a 1990s expansion, but the foundation goes back to the original wooden village mosque established in the 1920s.

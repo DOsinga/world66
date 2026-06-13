@@ -13,6 +13,7 @@ tags:
 - sight
 title: Gniezno Cathedral
 type: poi
+score: 9.3
 ---
 
 The great cathedral on Lech Hill is the oldest and most important church in Poland. Bolesław the Brave was crowned here in 1025, and the shrine of Saint Adalbert — Poland's patron saint — has drawn pilgrims for over a thousand years. The building you see today is mostly Gothic, rebuilt after fires and wars, but its finest element is Romanesque: the 12th-century bronze doors depicting the life of Adalbert in 18 relief panels. They are extraordinary — expressive, detailed, and remarkably preserved. The cathedral tower is open to visitors and offers views over the old town and surrounding lakes.

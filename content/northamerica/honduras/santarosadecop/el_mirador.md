@@ -7,6 +7,7 @@ tags:
 latitude: 14.7772
 longitude: -88.7682
 snippet: 'Hilltop restaurant with views over the valley and solid Honduran regional cooking'
+score: 5.9
 ---
 
 El Mirador sits on the eastern edge of town, up the hill from the centre, and earns its name with panoramic views over the Santa Rosa valley. The outdoor terrace is the place to be in the late afternoon when the light softens and the surrounding mountains turn blue.

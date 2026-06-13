@@ -13,6 +13,7 @@ story: >
   wholeheartedly that it appears on everything from street signs to beer
   bottles, and the walking bear sculpture has become Perm's unofficial
   mascot, generating as many photographs as any official monument.
+score: 5.2
 ---
 
 The "Legend of Perm Bear" (or "Walking Bear") is a bronze sculpture on Komsomolsky Prospekt that has become one of Perm's most photographed objects. It depicts a full-size bear in mid-stride, head up and expression alert — naturalistic rather than heraldic. The bear is Perm's civic symbol, appearing on the city's coat of arms, and this sculpture plays on that identity with affection rather than self-importance.

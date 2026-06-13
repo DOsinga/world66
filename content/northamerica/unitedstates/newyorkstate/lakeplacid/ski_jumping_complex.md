@@ -15,6 +15,7 @@ story: >
   jumping requires a specific kind of courage.
 sources:
   - https://en.wikipedia.org/wiki/Lake_Placid_Olympic_Ski_Jumping_Complex
+score: 7.7
 ---
 
 The MacKenzie Intervale Ski Jumping Complex built for the 1980 Olympics still operates as a training facility, and visitors can take the elevator to the top of the 90-metre tower for views over the Adirondacks and Mirror Lake. In winter, when training jumpers are active, it is possible to watch athletes in full flight from close range — the combination of the launch, the flight, and the landing is breathtaking in person.

@@ -4,6 +4,7 @@ type: poi
 latitude: 45.5166
 longitude: 13.5799
 tags: [things_to_do, sight]
+score: 6.5
 ---
 
 Portoroz — "Port of Roses" in Italian — is Piran's slightly less elegant younger sister, two kilometres around the headland to the south. Where Piran is medieval and Venetian, Portoroz is Habsburg-era resort: long sandy beach, palm-lined promenade, casinos, grand hotels, and the kind of unapologetic seafront commerce Piran does not allow itself.

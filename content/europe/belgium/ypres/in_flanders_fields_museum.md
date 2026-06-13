@@ -15,6 +15,7 @@ story: >
   dismissed the poem and threw it away; a fellow officer retrieved it and sent it
   to the Spectator, which declined it. Punch published it in December 1915 and it
   became one of the most widely read poems of the war.
+score: 9.4
 ---
 
 One of the finest First World War museums in the world, In Flanders Fields occupies the upper floors of the rebuilt Ypres Cloth Hall — itself a powerful statement, since the original Lakenhalle was entirely destroyed in the war and reconstructed over twenty years from the ruins. The museum covers the entire Ypres Salient and the experience of the war, from the political origins through the grinding attrition of the trenches to the aftermath and memory.

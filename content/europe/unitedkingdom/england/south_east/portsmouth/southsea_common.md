@@ -8,6 +8,7 @@ tags:
   - sight
   - southsea
 neighbourhood: Southsea
+score: 6.3
 ---
 
 A wide strip of grass running along the seafront, kept clear of buildings since the 18th century to give the navy clear lines of fire on any French invader. Today it functions as the city's main outdoor space — kite-flying ground, festival venue, picnic spot, and an enjoyable place to walk between the major sights at either end (Southsea Castle, the D-Day Story, the Pyramids leisure pool, the Rose Garden).

@@ -9,6 +9,7 @@ tags:
 - sights
 title: Santa Clara
 type: poi
+score: 8.8
 ---
 
 One of Antigua's most atmospheric ruins. The Convent of Santa Clara was founded in 1699 when five nuns arrived from Mexico, and its first church was completed in 1705 — only to be destroyed in the earthquake of 1717. What stands today is the replacement, built between 1723 and 1734, and later ruined again by the great earthquake of 1773.

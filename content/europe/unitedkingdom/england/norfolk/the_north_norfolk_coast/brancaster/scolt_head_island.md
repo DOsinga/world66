@@ -6,6 +6,7 @@ tags:
 - sight
 title: Scolt Head Island
 type: poi
+score: 8.8
 ---
 
 Scolt Head Island is a National Nature Reserve lying offshore from Brancaster Staithe, accessible by a short ferry trip that runs in season from the staithe. The island is a classic barrier island: a long ridge of dunes, saltmarsh creeks behind, open North Sea beach in front, and almost no human presence apart from the seasonal ferry landing.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.086
 longitude: -8.210
 snippet: Six kilometres of wild beach beneath dramatic ochre cliffs — the Algarve at its most spectacular
+score: 9.1
 ---
 
 Praia da Falésia is widely considered one of the finest beaches in Portugal, and the description is easy to understand from the cliff top: six kilometres of barely interrupted sand backed by ochre and red sandstone cliffs between 20 and 30 metres high, their faces eroded into pillars and ridges by Atlantic winds. The cliffs glow amber at sunset in a way that makes even jaded beach-goers reach for their cameras.

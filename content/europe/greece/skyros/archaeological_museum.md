@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.9050
 longitude: 24.5240
+score: 7.1
 ---
 
 The Archaeological Museum sits near the central square in Skyros Town and was inaugurated in 1973, though its collection had been assembled for a decade before that. The finds come primarily from excavations at Palamari, a Bronze Age settlement on the northern coast that was occupied from around 2800 BCE and shows evidence of trade connections across the early Aegean world.

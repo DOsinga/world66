@@ -8,6 +8,7 @@ tags:
 latitude: 41.5556
 longitude: 2.4015
 snippet: Puig i Cadafalch summer house, a Modernista landmark
+score: 6.4
 ---
 
 The architect Josep Puig i Cadafalch — author of the Casa Amatller and the Casa de les Punxes in Barcelona — designed several of Argentona's most striking buildings, of which Can Garí (also called Casa Garriga i Nogués) is the best preserved. Built in 1898 as a summer residence for the banker Rupert Garí, it has the asymmetric silhouette, polychrome ceramic tiles, and gothic-revival flourishes that mark Puig's mature work.

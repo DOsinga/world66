@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - wildlife
+score: 8.1
 ---
 
 Mount Kenya National Park surrounds the mountain from about 3,200 metres upwards and is a UNESCO World Heritage site, recognised both for its geological significance and for the unusual flora and fauna that live on the upper slopes. The lower forests are home to elephant, buffalo, leopard, and the rare bongo antelope; on the moorland and in the alpine zone you find rock hyrax, occasional duiker, and a startling variety of birds.

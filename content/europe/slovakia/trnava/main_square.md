@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 48.3775
 longitude: 17.5860
+score: 8.0
 ---
 
 Trnava's main square — Trojičné námestie, or Trinity Square — is the heart of the old town, a generous rectangular space dominated at one end by the City Tower and lined with baroque buildings that house cafes, restaurants, and shops. A Trinity Column stands at the centre, as in many central European cities, erected after a plague epidemic as a votive offering.

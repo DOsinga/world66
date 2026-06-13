@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - lagos_island
+score: 8.4
 ---
 
 In the middle of the noisy commercial chaos of Lagos Island sits one of the city's quietest and most satisfying public spaces — a memorial-and-arts park built on the ruins of Her Majesty's Broad Street Prison, the colonial-era jail where Nigerian nationalists were held. The Cellblock building has been left standing, with explanatory panels; the rest of the site is a landscaped park with an amphitheatre, a small museum, food kiosks, and a regular programme of concerts, plays, and book readings. The Felabration and the Lagos Theatre Festival both use the venue. Bring water; bring a book.

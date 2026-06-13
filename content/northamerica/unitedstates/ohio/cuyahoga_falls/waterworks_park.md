@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.136273
 longitude: -81.482812
+score: 6.5
 ---
 
 Waterworks Park runs along the Cuyahoga River gorge on the western bank, giving visitors a long stretch of riverside trails, picnic areas, and direct access to the water. The park takes its name from the old municipal waterworks that once occupied the site; the infrastructure is long gone but the riverfront setting remains.

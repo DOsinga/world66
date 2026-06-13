@@ -7,6 +7,7 @@ tags:
 latitude: 37.8364
 longitude: 24.8981
 snippet: "Elegant Cycladic town on a narrow peninsula, with neoclassical mansions and sea views"
+score: 8.5
 ---
 
 Andros town — always called Chora — occupies a dramatic narrow peninsula on the island's east coast, with sea on three sides and views to the open Aegean. Unlike most Cycladic towns, it has a distinctly Venetian-influenced character: the mansions here were built by ship-owning families in the 19th and early 20th centuries, and their neoclassical facades give Chora a grander feel than Mykonos or Paros.

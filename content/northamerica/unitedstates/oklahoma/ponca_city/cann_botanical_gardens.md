@@ -9,6 +9,7 @@ tags:
 address: '1500 East Grand Avenue'
 latitude: 36.702778
 longitude: -97.065278
+score: 5.8
 ---
 
 The Cann Memorial Botanical Gardens, on a ten-acre site on East Grand Avenue, were donated to the city by Robert R. Cann in 1955 as a memorial to his wife. The gardens contain mature conifers, a small rose collection, a Japanese-style pond with koi, and a series of formal terraced flower beds.

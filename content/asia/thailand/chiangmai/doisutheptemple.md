@@ -9,6 +9,7 @@ tags:
 title: Doi Suthep Temple
 type: poi
 story: The temple was founded after a white elephant carrying a Buddha relic wandered into the hills and trumpeted three times before dying on the spot — the spot where the chedi now stands. King Kue Na accepted this as a divine sign and built the temple in 1383.
+score: 8.7
 ---
 
 Wat Phra That Doi Suthep sits near the summit of Doi Suthep, the 1,601-metre peak that looms over Chiang Mai to the west. It's the city's most important temple and most visitors' first day trip. A 306-step stairway flanked by undulating naga serpents leads up to the golden chedi, which is said to enshrine a relic of the Buddha. On a clear day the views over the city, the Mae Ping river, and the surrounding countryside are spectacular.

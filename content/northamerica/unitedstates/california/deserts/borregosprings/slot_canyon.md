@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.5
 ---
 
 A narrow mudstone slot canyon in the Borrego Badlands, accessed by a rough four-wheel-drive road off Borrego Salton Seaway. The walls close in to less than a metre apart in places, and at one famous spot a fallen rock forms a natural bridge overhead — the canyon walls tower fifty feet above your head while you squeeze through sideways.

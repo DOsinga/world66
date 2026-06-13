@@ -7,6 +7,7 @@ tags:
 latitude: 37.1846
 longitude: -113.2780
 snippet: "Hand-excavated irrigation canal dug by Mormon settlers in the 1890s through nine years of solid rock."
+score: 7.2
 ---
 
 In the 1890s, Mormon settlers decided to open the arid east side of Hurricane to farming by diverting water from the Virgin River. The obstacle was a ridge of solid rock. With no mechanised equipment, they dug through it by hand — a project that took nine years and produced an 11-kilometre canal carved entirely with hand tools.

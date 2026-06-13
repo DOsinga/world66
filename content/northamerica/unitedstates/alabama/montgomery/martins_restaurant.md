@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, soul_food]
 latitude: 32.3531
 longitude: -86.2575
+score: 6.4
 ---
 
 A Carter Hill Road meat-and-three institution serving Montgomery since 1940. Fried chicken (the headline), country fried steak, fried catfish, cornbread, collard greens, fried okra, banana pudding — all the canonical Southern lunchtime plates, done the way the older generation does them.

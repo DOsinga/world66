@@ -10,6 +10,7 @@ tags:
 - testaccio
 title: Mercato di Testaccio
 type: poi
+score: 8.1
 ---
 
 The Testaccio covered market is the best everyday food market in Rome — a modern, clean space in the neighbourhood that was once the city's slaughterhouse district, where Roman cooking traditions are strongest. The stalls sell excellent vegetables, meat, cheese, bread, and prepared food at prices considerably below the tourist-zone equivalents.

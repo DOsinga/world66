@@ -9,6 +9,7 @@ tags:
 - swimming
 title: Dos Ojos Cenote
 type: poi
+score: 8.3
 ---
 
 Dos Ojos sits about 15 minutes south of Akumal, off the road to Tulum. The two open sinkholes — the eyes — are connected by an underwater passage, and both are open to snorkelers as well as certified cave divers. The water is fresh, cold, and so clear that the limestone formations on the bottom look close enough to touch.

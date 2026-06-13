@@ -15,6 +15,7 @@ story: >
   entirely, the lighthouse engineers simply built their new tower on and
   around the old convent walls — an unusual piece of engineering economy that
   gives the lighthouse its distinctive look of a tower rising from a ruined church.
+score: 8.6
 ---
 
 The lighthouse at the western tip of the Barrio Histórico peninsula is a landmark visible from the river for miles around. Completed in 1857, it is built partly on the ruins of the 17th-century convent of San Francisco Xavier — you can see the old convent walls surrounding the base of the tower, slowly being reclaimed by grass and vegetation.

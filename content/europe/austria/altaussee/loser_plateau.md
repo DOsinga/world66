@@ -6,6 +6,7 @@ longitude: 13.7711
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The high karst plateau north of Altaussee, reached by a steep panoramic road (the Loser-Panoramastrasse) or, in summer, by a chairlift from the village. From the road's end at about 1,600 metres, hiking trails run across a moonscape of bare limestone, sparse meadows, and shallow karst lakes — most notably the Augstsee, a small alpine tarn.

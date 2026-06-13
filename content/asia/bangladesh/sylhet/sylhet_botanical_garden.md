@@ -11,6 +11,7 @@ story: >
   first commercial tea estate in the Indian subcontinent — predating the more
   famous Assam plantations by several years and laying the foundation for an
   industry that still defines this part of Bangladesh.
+score: 7.9
 ---
 
 Malnicherra sits on the northern edge of Sylhet city and is, by reputation, the oldest commercial tea estate in the subcontinent. The terraces of clipped tea bushes spread across rolling hills only a few kilometres from the centre, and the working factory still processes leaves from the surrounding fields.

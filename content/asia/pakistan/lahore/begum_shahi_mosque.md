@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - walled_city
+score: 7.6
 ---
 
 The Begum Shahi Mosque is the oldest surviving Mughal mosque in Lahore — built in 1614 by Emperor Jahangir for his mother Maryam-uz-Zamani. It sits inside Akbari Gate (now Kashmiri Gate) on the eastern edge of the Walled City. The exterior is plain red brick; the interior holds spectacular Mughal frescoes on the prayer-hall ceiling that survive in fragments.

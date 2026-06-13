@@ -8,6 +8,7 @@ tags:
 - history
 title: Plurinational Legislative Assembly
 type: poi
+score: 6.6
 ---
 
 The Bolivian parliament — officially the Plurinational Legislative Assembly — occupies an imposing neoclassical building on the east side of Plaza Murillo, facing the presidential palace. The name changed from "National" to "Plurinational" under the 2009 constitution, which recognised Bolivia as a plurinational state acknowledging its 36 indigenous nations. The building itself dates from the late 19th century and is not open for casual visits, but it forms an essential part of the Plaza Murillo ensemble.

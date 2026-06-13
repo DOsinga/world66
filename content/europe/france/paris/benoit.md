@@ -12,6 +12,7 @@ tags:
 title: Benoit
 type: poi
 url: www.benoit-paris.com
+score: 7.0
 ---
 
 Benoit has been a Parisian institution since 1912 — a proper bouillon that somehow acquired a Michelin star and kept it, without becoming stuffy or losing its identity. The belle époque interior is protected as a historic monument: globe lamps, dark wood, etched mirrors, white-aproned waiters.

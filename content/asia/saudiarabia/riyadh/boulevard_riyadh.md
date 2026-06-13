@@ -8,6 +8,7 @@ latitude: 24.7620
 longitude: 46.7060
 story: >
   Boulevard Riyadh City opened in 2019 as the first major entertainment district in Saudi Arabia following the lifting of the ban on public entertainment that had been in place since the 1980s. The government had banned cinemas, concerts, and most forms of public amusement as part of the social conservatism of the post-1979 era. The reopening of the entertainment sector, announced by Crown Prince Mohammed bin Salman, happened faster than almost anyone expected.
+score: 6.0
 ---
 
 A large outdoor entertainment and dining complex in the northern part of Riyadh, one of several "boulevard" developments built under Saudi Arabia's Vision 2030 to create public spaces for leisure and entertainment. The complex has restaurants, cafes, retail, and event spaces, and hosts concerts, sports events, and cultural performances — all of which would have been inconceivable a decade ago.

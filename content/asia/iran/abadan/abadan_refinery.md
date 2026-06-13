@@ -14,6 +14,7 @@ story: >
   refinery in 1951 by Prime Minister Mosaddegh — and the British blockade and
   CIA-backed coup that followed — was one of the defining episodes of the Cold
   War in the Middle East.
+score: 8.7
 ---
 
 The Abadan refinery is the reason the city exists. The Anglo-Persian Oil Company (later Anglo-Iranian, later British Petroleum) began construction in 1909 and completed the first stage in 1912; by the mid-20th century it was the largest oil refinery in the world, and Abadan had grown into a peculiar company town of British bungalows, cricket grounds, cinemas, and swimming pools sitting alongside Iranian quarters on the flat alluvial island.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.219133
 longitude: 12.279119
+score: 6.8
 ---
 
 San Giacomo Apostolo stands on the Corso del Popolo, halfway down the spine of the old town. The current church was built in the 18th century in late baroque style, replacing a medieval predecessor that had stood here since the 12th century — the date is recorded in a worn inscription preserved inside.

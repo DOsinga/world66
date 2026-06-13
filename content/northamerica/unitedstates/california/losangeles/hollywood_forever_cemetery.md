@@ -15,6 +15,7 @@ tags:
 title: Hollywood Forever Cemetery
 type: poi
 url: www.hollywoodforever.com
+score: 7.8
 ---
 
 The resting place of Rudolph Valentino, Jayne Mansfield, Johnny Ramone, and Cecil B. DeMille, among many others. Weekend walking tours wind through the beautifully maintained grounds, past ornate mausoleums and hand-carved monuments. In summer, the cemetery hosts outdoor film screenings on the lawn — one of the more memorable ways to watch a movie in Los Angeles.

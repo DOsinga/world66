@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 15.2975
 longitude: -61.3853
+score: 7.4
 ---
 
 The cathedral, properly the Cathedral of Our Lady of Fair Haven of Roseau, took most of the nineteenth century to finish — building began in 1841 and the final tower was added in 1916. Built of dark volcanic stone in Gothic Revival style, it is one of the few major masonry buildings in a town largely built of wood.

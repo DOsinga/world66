@@ -7,6 +7,7 @@ tags:
 title: Yashiro Japanese Garden
 type: poi
 snippet: Compact strolling garden honouring Olympia's Japanese sister city
+score: 6.1
 ---
 
 A small but well-tended 1990 Japanese stroll garden marking Olympia's sister-city relationship with Yashiro, Japan. The garden packs a koi pond, a five-tier pagoda, a teahouse pavilion, a stone bridge and meticulous moss work into a quarter-acre lot on Plum Street.

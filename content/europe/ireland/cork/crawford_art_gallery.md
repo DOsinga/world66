@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 51.8998
 longitude: -8.4733
+score: 8.5
 ---
 
 Ireland's national gallery for the south, in the eighteenth-century Cork Custom House just off St Patrick's Street. The collection is strong on Irish art from the eighteenth century to the present — Daniel Maclise, John Lavery, Jack B. Yeats, Sean Scully, Eileen Gray — and includes a wing devoted to Greek and Roman sculpture casts from the Vatican collections.

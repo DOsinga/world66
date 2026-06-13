@@ -9,6 +9,7 @@ tags:
 - architecture
 snippet: "Vast medieval market hall and court of justice between two squares, with one of the world's largest unsupported wooden roofs"
 story: "Padua is sometimes called 'the city of the three withouts' — the saint without a name (St Anthony, always called simply Il Santo), the meadow without grass (the Prato della Valle), and the café without doors (Pedrocchi). A fourth — the capital without a column — is a stray Romanesque capital in the loggia of the Palazzo della Ragione that rests on nothing at all."
+score: 8.8
 ---
 
 The Palazzo della Ragione — sometimes simply 'Il Salone' — is the vast medieval hall that separates Piazza delle Erbe from Piazza della Frutta. Built in the early thirteenth century as Padua's law court and market hall, it has one of the largest unsupported wooden roofs in Europe: a single keel-shaped vault, 80 metres long, with no internal columns.

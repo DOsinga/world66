@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Málaga Cathedral
 type: poi
+score: 8.6
 ---
 
 Locally known as **La Manquita** ("the one-armed lady") because the south tower was never finished — funds raised for its completion were diverted in the 18th century to help the American colonies in their war of independence against Britain. Construction took 254 years (1528–1782), which is why the building is a layered jumble of Renaissance interior and Baroque facade.

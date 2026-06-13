@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.085
 longitude: 3.9444
+score: 8.0
 ---
 
 Hautvillers is known for the elaborate wrought-iron signs that hang above the doorways of its houses and champagne producers. Each sign is individually commissioned and depicts the trade or history of the property below: a cellar master with a barrel, a bunch of grapes, a monk's habit, or a riddling rack. There are over 130 of them in the village.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 18.9155
 longitude: 72.8316
+score: 7.6
 ---
 
 The southern tip of Mumbai, immediately behind the Gateway of India, is the neighbourhood most visitors encounter first. Colaba Causeway is the main commercial strip — a long run of stalls and shops selling everything from silver jewellery to printed kurtas, alongside proper boutiques and the old bars that have been here since the British era. The street is best explored on foot in the early morning before the crowds arrive, or in the evening when the stalls are illuminated and the pace quickens.

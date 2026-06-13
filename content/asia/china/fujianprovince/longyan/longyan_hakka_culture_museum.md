@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 25.0768
 longitude: 117.0173
+score: 8.3
 ---
 
 The Longyan Hakka Culture Museum is the best introduction to the history and culture of the Hakka people before heading out to the tulou villages. The displays cover the migrations that brought Hakka communities south from the Yellow River basin over many centuries, the distinctive dialect, the architecture, the food traditions, and the martial arts styles that developed in Hakka communities and later spread across southern China. There are photographs, models, and artefacts from the countryside around Longyan.

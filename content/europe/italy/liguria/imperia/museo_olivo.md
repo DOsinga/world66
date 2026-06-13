@@ -9,6 +9,7 @@ tags:
 - sight
 title: Museo dell'Olivo
 type: poi
+score: 8.1
 ---
 
 The Museo dell'Olivo in Oneglia is one of the better small museums in Liguria, funded and maintained by the Fratelli Carli olive oil company whose headquarters are next door. The collection covers olive cultivation and oil production from ancient Greece and Rome to the present — amphorae, millstones, pressing equipment, and a range of archaeological material showing how central olive oil was to every Mediterranean civilisation that preceded us. The section on historical pressing methods alone is worth the admission.

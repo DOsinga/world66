@@ -7,6 +7,7 @@ tags:
 - sight
 title: Woljongsa Temple
 type: poi
+score: 7.4
 ---
 
 Woljongsa is one of the better-preserved Buddhist sites in North Korea, set in a wooded valley on the southern slopes of Kuwolsan. The temple was founded in the Koryo period and rebuilt during the Choson dynasty; what survives today is a small complex of timber halls — a main worship hall, a bell tower, and a few subsidiary buildings — restored under government supervision in the late twentieth century.

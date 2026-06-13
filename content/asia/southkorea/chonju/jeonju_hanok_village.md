@@ -8,6 +8,7 @@ latitude: 35.8135
 longitude: 127.1530
 story: >
   The village survived the rapid modernisation of Korea in the 20th century partly by accident and partly by resistance: when developers proposed demolishing the hanok houses in the 1970s, local residents mounted one of the first successful heritage preservation campaigns in South Korea. Today nearly 800 traditional houses remain intact, making it one of the largest surviving hanok districts in the country.
+score: 9.1
 ---
 
 Jeonju Hanok Village is the beating heart of the old city — a dense quarter of nearly 800 traditional tile-roofed houses built in the curved, eave-heavy style of Joseon-era Korea. It is genuinely inhabited rather than a museum piece: families live here, restaurants operate out of century-old buildings, and the rhythm of the neighbourhood is unhurried and local.

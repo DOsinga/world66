@@ -8,6 +8,7 @@ tags:
 latitude: 42.28322
 longitude: -73.31586
 story: "The Mission House was built in 1739 for John Sergeant, a Yale-educated missionary who moved to Stockbridge to convert the local Mahican people. Sergeant died of a fever in 1749, aged 38, and the mission community he founded collapsed within a generation — the Mahicans were pushed west by expanding colonial settlement and eventually ended up in Wisconsin, where their descendants still live today as the Stockbridge-Munsee Community."
+score: 7.7
 ---
 
 The Mission House at 19 Main Street is one of the oldest buildings in Stockbridge, built in 1739 for John Sergeant, a young missionary who established the town as a 'praying town' — a planned community where Native Americans and English settlers would live together under Christian instruction. The experiment was short-lived but the house survives.

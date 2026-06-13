@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Rua Padre Chagas
 type: poi
+score: 6.4
 ---
 
 Rua Padre Chagas in Moinhos de Vento is Porto Alegre's most pleasant street for café life: a tree-lined residential street where the ground floors of the old apartment buildings have been gradually converted into restaurants, cafés, boutique shops, and wine bars. It is the kind of street that appears in almost every well-heeled Latin American city without ever becoming generic — the particular mix of establishments and the specific character of the neighbourhood give it its own atmosphere.

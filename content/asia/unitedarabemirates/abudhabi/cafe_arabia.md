@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 24.4602
 longitude: 54.3704
+score: 6.6
 ---
 
 A three-storey converted villa in Karama with a slightly bohemian feel — exposed brick, mismatched furniture, garden seating, a wide menu of Arabic, Mediterranean, and breakfast-all-day food. Strong Arabic coffee, fresh juices, and a dessert counter heavy on Middle Eastern sweets.

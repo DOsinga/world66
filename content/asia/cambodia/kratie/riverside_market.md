@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 12.6780
 longitude: 106.0180
+score: 8.8
 ---
 
 Kratie's main market is a lively, unpretentious place best visited in the early morning before the heat. It's a proper working market — frogs in nets, freshly grilled corn cakes, pork buns for a few cents, and live fish in buckets — rather than anything designed for tourists. The market extends along the riverfront and into the interior blocks behind, and the produce reflects what grows and lives in this stretch of the Mekong valley.

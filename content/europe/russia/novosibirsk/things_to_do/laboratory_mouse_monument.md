@@ -14,6 +14,7 @@ story: >
   upright, wearing glasses, and knitting a double helix of DNA — has become one of Siberia's 
   most photographed objects. It is installed near the Institute of Cytology and Genetics in 
   Akademgorodok, and scientists at the institute find it touching rather than strange.
+score: 6.5
 ---
 
 Outside the Institute of Cytology and Genetics in Akademgorodok stands a small bronze mouse, wearing round spectacles and sitting upright on a bench, knitting. The knitting project is a double helix of DNA. It is the monument to the laboratory mouse — an acknowledgement of the generations of small rodents whose contributions to genetics research made Akademgorodok's scientific programme possible.

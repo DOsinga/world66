@@ -6,6 +6,7 @@ tags:
   - wine
 latitude: -31.9493
 longitude: 115.8276
+score: 6.1
 ---
 
 MUST Winebar on Hay Street in Subiaco has been one of Perth's most respected wine bars since it opened in 2002. The format is classic bistro-bar: a long wine list weighted toward WA and French labels, a charcuterie and cheese menu, and a kitchen producing proper French-influenced food — terrines, duck confit, steak frites — that takes the wine seriously as a companion rather than an afterthought. It is the kind of place that has maintained its reputation through consistency rather than fashion, which in the restaurant business is rarer than it sounds.

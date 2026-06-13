@@ -3,6 +3,7 @@ title: "Tapas Bars"
 type: poi
 latitude: 40.964
 longitude: -5.663
+score: 6.8
 ---
 
 Salamanca keeps the excellent old tradition of serving a free tapa with every drink — a custom that has largely disappeared in Madrid and Barcelona but survives here. The area around Plaza Mayor and Calle Van Dyck is the epicentre, with dozens of bars competing for custom; the tapa quality and generosity varies, so it is worth trying several.

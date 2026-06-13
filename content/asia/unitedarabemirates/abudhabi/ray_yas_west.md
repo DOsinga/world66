@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 24.4651
 longitude: 54.3219
+score: 6.5
 ---
 
 The cocktail bar on the 62nd floor of the Etihad Towers (Tower 2), a level below the Observation Deck. Floor-to-ceiling windows on three sides, the marina and the Grand Mosque in the distance, a serious cocktail list.

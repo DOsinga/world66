@@ -7,6 +7,7 @@ tags:
 latitude: 25.730000
 longitude: 32.610000
 snippet: "The realm of the dead — temples, tombs, and desert, reached by public ferry from the East Bank"
+score: 8.0
 ---
 
 The West Bank of Luxor is quieter than the East, more agricultural and more ancient. The Nile flood plain narrows here, and the desert cliffs — which hide the Valley of the Kings and the Valley of the Queens — come close to the cultivation. A few villages, the most important being Gezira (on the river) and Qurna (near the tombs), are home to families who have lived here for generations, many with complex informal relationships to the archaeology below their feet.

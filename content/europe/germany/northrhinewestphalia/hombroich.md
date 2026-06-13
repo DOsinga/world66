@@ -9,6 +9,7 @@ tags:
 - museum
 title: Museum Insel Hombroich
 type: poi
+score: 8.7
 ---
 
 In a lush garden setting on a small island in a river, art and nature meet. The artist Erwin Heerich designed 11 walk-in pavilions scattered through meadows and woodland, each presenting works without labels or explanations — you encounter the art directly.

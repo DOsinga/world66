@@ -6,6 +6,7 @@ latitude: 46.0290
 longitude: -74.2219
 story: >
   The railway line that became the trail once brought wealthy Montrealers north every winter weekend from 1891 until 1981, making the Laurentians one of North America's earliest ski resort regions. At its peak in the 1940s and 1950s, ski trains ran every weekend carrying thousands of passengers. When the passenger service ended, the tracks were eventually pulled up and the railbed converted to trail — one of the earliest and most successful rail-trail conversions in Canada.
+score: 7.6
 ---
 
 The P'tit Train du Nord is a 232-kilometer multi-use trail running from Saint-Jérôme in the south to Mont-Laurier in the north, following the corridor of a former railway through the Laurentian Mountains. Val-David sits near the midpoint of the trail, making it a natural base for day trips in either direction.

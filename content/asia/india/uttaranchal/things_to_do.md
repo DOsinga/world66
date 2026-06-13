@@ -6,6 +6,7 @@ phone: '919897064001'
 title: Things to do
 type: poi
 url: www.dehradunflorist.com
+score: 1.0
 ---
 
 Flowers to Dehradun

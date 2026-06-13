@@ -7,6 +7,7 @@ tags:
   - skiing
 latitude: 40.6300
 longitude: -111.7400
+score: 8.3
 ---
 
 Big Cottonwood Canyon, the next major canyon north of Little Cottonwood, climbs from the city's eastern edge to the Brighton and Solitude ski resorts at the top — both excellent in winter, with Solitude tending toward gentler skiing and Brighton known for its terrain park and night skiing.

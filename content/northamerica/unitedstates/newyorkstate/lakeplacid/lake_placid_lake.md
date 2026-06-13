@@ -8,6 +8,7 @@ latitude: 44.3167
 longitude: -73.9667
 sources:
   - https://en.wikipedia.org/wiki/Lake_Placid_(New_York)
+score: 8.2
 ---
 
 The actual lake named Lake Placid is not the same as Mirror Lake in the village centre — it is a larger, wilder body of water about 3 kilometres north of the village, accessible by canoe, kayak, and motorboat but without the beach or walking path of Mirror Lake. The lake is surrounded by forested hills and has several islands; it is best experienced by water.

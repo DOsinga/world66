@@ -16,6 +16,7 @@ story: >
   were hanged here, one of whom — Richard Rowlands in 1862 — is said to have
   cursed the church clock as he climbed the scaffold; the clock kept poor
   time for decades afterwards.
+score: 8.0
 ---
 
 The Beaumaris Gaol, built in 1829 to a design by Hansom of hansom-cab fame, was considered a model prison of its era. It is unusually well preserved: the cells, treadwheel, punishment cell, women's wing, chapel, and condemned cell are all intact, and the visitor route follows the daily routine of a prisoner from reception to release — or to the gallows.

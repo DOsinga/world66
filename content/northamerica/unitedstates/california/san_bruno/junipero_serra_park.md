@@ -7,6 +7,7 @@ tags:
 latitude: 37.609
 longitude: -122.426
 snippet: 100-acre county park climbing into the coastal hills with bay views and oak woodland
+score: 6.8
 ---
 
 Junipero Serra County Park climbs the eastern slope of San Bruno Mountain in the southwestern corner of the city, a slice of the original Californian landscape preserved against the surrounding sprawl. The park covers about 100 acres of oak woodland, chaparral, and grassland, with a network of trails that lead to vista points looking across the bay to Oakland and the Berkeley hills.

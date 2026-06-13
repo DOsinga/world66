@@ -13,6 +13,7 @@ longitude: -0.3368
 snippet: One of England's great public schools, founded 1572, alumni include Byron, Churchill, and Nehru
 story: >
   Byron spent five years at Harrow School (1801–1805) and reputedly spent hours sitting on a flat tomb in St Mary's churchyard overlooking London. He mentioned the spot in a poem written at sixteen, and the tomb — known as "Byron's tomb" — is still there, still with the view he described.
+score: 8.2
 ---
 
 Harrow School was founded by royal charter in 1572, making it one of England's oldest boarding schools. Its alumni list reads like a survey of British (and occasionally global) public life: Byron, Sheridan, Trollope, Churchill, Nehru, and seven other British prime ministers all passed through. The school's buildings are scattered across the hilltop village, ranging from the Old Schools (the original 1615 building) to Victorian Gothic boarding houses and the Speech Room, an auditorium that hosts major events.

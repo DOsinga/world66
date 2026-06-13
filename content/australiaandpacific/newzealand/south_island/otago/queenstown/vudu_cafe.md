@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Lakefront cafe known for breakfast and people-watching
+score: 6.7
 ---
 
 A Queenstown institution since the early 2000s, on the corner of Rees Street and the lakefront. The interior is dark and woody, the front windows look straight onto Marine Parade, and the breakfast menu is one of the most reliable in town: thick-cut bacon, free-range eggs, salmon hash, properly made flat whites.

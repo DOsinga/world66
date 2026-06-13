@@ -11,6 +11,7 @@ story: >
   The Kenyah Dayak community in Pampang migrated here from the upper Mahakam region in the 1970s when their ancestral lands were threatened by logging. They rebuilt their longhouse traditions in a peri-urban village and have maintained them ever since — the cultural performances are not a reconstruction but an extension of genuine community practice.
 sources:
   - https://en.wikipedia.org/wiki/Pampang,_Samarinda_Utara,_Samarinda
+score: 7.6
 ---
 
 Pampang Cultural Village, about 23 kilometres north of central Samarinda, is a living Kenyah Dayak settlement that holds weekly cultural performances every Sunday morning. The Kenyah are one of the major Dayak groups of Borneo, known for their elaborate beadwork, large longhouses, and distinctive music played on the *sape*, a carved wooden lute.

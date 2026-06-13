@@ -8,6 +8,7 @@ tags:
 latitude: 47.7415
 longitude: 18.1220
 address: "Klapka György tér, Komárom"
+score: 5.4
 ---
 
 A reliable mid-priced Hungarian restaurant on the main square. The menu runs the standard repertoire — goulash, pörkölt, túrós csusza, fried pike-perch from the Danube — and the kitchen does the simple things well.

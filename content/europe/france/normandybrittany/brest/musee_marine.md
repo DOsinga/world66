@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.3813
 longitude: -4.4941
+score: 8.1
 ---
 
 The Musée de la Marine in Brest is one of the five national maritime museums in France, housed in the towers of the Château de Brest. The collection focuses on the history of the French navy and seafaring from the 17th century to the present, with particular strength in the Atlantic and Pacific exploration voyages of the 18th and early 19th centuries.

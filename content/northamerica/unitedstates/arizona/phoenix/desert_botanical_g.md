@@ -13,6 +13,7 @@ tags:
 title: Desert Botanical Gardens
 type: poi
 url: dbg.org
+score: 8.8
 ---
 
 More than 50,000 plants from the world's deserts, with a particular focus on the Sonoran Desert right outside the gates. Five themed trails cover plants and people, desert ecology, pollination, and wildflowers — none of them strenuous, making this accessible to anyone. The Cactus and Succulent galleries showcase everything from tiny barrel cacti to towering saguaros, some over a century old.

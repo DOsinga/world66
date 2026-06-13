@@ -8,6 +8,7 @@ tags:
 title: Ye Olde White Harte
 type: poi
 snippet: "Old Town pub tucked down a narrow alley off Silver Street, with a claim to a role in the English Civil War"
+score: 8.0
 ---
 
 Ye Olde White Harte is reached through an alleyway off Silver Street that opens into a small courtyard. Inside, it is wood-panelled, low-ceilinged, and stacked with curiosities: cannonballs, swords, and an upstairs room called the Plotting Parlour, where, according to local legend, Hull's governor Sir John Hotham decided to refuse Charles I entry to the town in 1642 — the act that helped trigger the English Civil War.

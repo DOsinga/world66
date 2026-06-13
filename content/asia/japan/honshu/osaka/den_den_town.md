@@ -6,6 +6,7 @@ tags:
 - shopping
 latitude: 34.6616
 longitude: 135.5067
+score: 6.6
 ---
 
 Osaka's electronics and anime district, occupying several blocks of Nipponbashi street south of Namba. The neighbourhood is roughly the equivalent of Tokyo's Akihabara: floors of used electronics, manga, anime merchandise, retro video games, figurines, and cosplay supplies spread across multi-storey shops and narrow specialist stores. The scale is smaller than Akihabara, but the density and the relative lack of tourists makes it feel less like a theme park and more like a working retail district.

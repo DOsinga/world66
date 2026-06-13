@@ -10,6 +10,7 @@ snippet: Hands-on science museum in a Zaha Hadid concrete-and-steel landmark
 latitude: 52.4289
 longitude: 10.7900
 story: "Zaha Hadid's only completed building in Germany, the Phaeno hovers on ten massive concrete cones above the open ground next to the station. The form is partly a piece of urban camouflage — the lifted underside lets the city's main pedestrian route slide unchanged beneath it."
+score: 8.9
 ---
 
 The Phaeno is one of the most striking buildings in Germany: a sculpted concrete hull that floats above the ground on a forest of angular pillars. Zaha Hadid designed it specifically to act as a gateway between the station and the Autostadt, and the long ramp underneath has become a kind of de facto public square.

@@ -8,6 +8,7 @@ latitude: 40.2524
 longitude: 116.2236
 story: >
   The Spirit Way leading to the tombs is lined with 36 pairs of stone figures — officials, warriors, and animals — that stand guard over the approach. Among the animals are mythical creatures: the xiezhi (a lion-like creature said to detect dishonesty) and the qilin (a chimeric beast that appears only in the reign of a virtuous ruler). The stone animals are the most photographed element of the Ming Tombs and arguably more interesting than the underground chambers themselves.
+score: 8.7
 ---
 
 The burial site of 13 of the 16 Ming dynasty emperors, located in a valley surrounded by mountains 50 km north of Beijing. The complex covers 40 square kilometres and was designed as a sacred landscape: the Spirit Way approach road, lined with stone figures, leads into the valley where the tomb mounds and their underground chambers are distributed. Only three of the thirteen tombs are open to visitors.

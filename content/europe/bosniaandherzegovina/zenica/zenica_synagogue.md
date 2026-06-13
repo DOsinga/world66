@@ -5,6 +5,7 @@ snippet: Early-20th-century Sephardic synagogue, now a cultural centre
 tags: [things_to_do, sight, architecture]
 latitude: 44.1994
 longitude: 17.9094
+score: 6.6
 ---
 
 The building that served Zenica's small Sephardic Jewish congregation from 1903 to 1941. The community, never large, was destroyed in the Holocaust and the building was repurposed under Yugoslavia. It now houses cultural functions and is undergoing slow restoration.

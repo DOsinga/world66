@@ -7,6 +7,7 @@ tags:
 latitude: 51.4842
 longitude: 11.9669
 story: "George Frideric Handel was born in this house on 23 February 1685, the son of a town barber-surgeon. His father wanted him to become a lawyer and discouraged him from music — Handel reportedly hid a clavichord in the attic to practise in secret."
+score: 8.0
 ---
 
 The yellow town house on the Grosse Nikolaistrasse is the building where George Frideric Handel was born and spent his first 17 years. He left for Hamburg, then London, and never came back; but the city has owned the building since 1948 and turned it into the major museum on his life and work.

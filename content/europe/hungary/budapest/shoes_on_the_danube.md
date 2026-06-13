@@ -9,6 +9,7 @@ tags:
 title: Shoes on the Danube
 type: poi
 story: "In the winter of 1944-45, Arrow Cross militiamen brought Jews to this stretch of the Danube embankment, ordered them to remove their shoes — shoes were valuable — then shot them so the bodies fell into the river. The memorial of 60 cast-iron shoes, created in 2005 by sculptor Gyula Pauer and film director Can Togay, marks the spot with deliberate simplicity."
+score: 7.8
 ---
 
 Sixty pairs of iron shoes stand along the Danube embankment, just north of the Parliament building. They are sized for men, women, and children. Period styles — lace-ups, heels, small boots — are cast in precise detail and fixed to the stone parapet at the edge of the water. The memorial commemorates the thousands of Jews murdered here during the final months of the war.

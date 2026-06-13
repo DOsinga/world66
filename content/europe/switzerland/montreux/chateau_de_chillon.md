@@ -9,6 +9,7 @@ latitude: 46.4142
 longitude: 6.9272
 story: >
   Lord Byron visited Chillon in 1816 and was so moved by the story of François Bonivard — a Genevois prior who spent four years chained to a pillar in the castle's dungeon for his political activities — that he wrote "The Prisoner of Chillon" in two days. Byron's name is still scratched into the pillar, though whether he carved it himself or someone else did it as a tribute has never been established. The poem made Chillon famous across Europe and began its history as a tourist destination.
+score: 9.2
 ---
 
 The Château de Chillon is the unmissable sight of the Lake Geneva region — a medieval castle perched on a rocky island in the lake, three kilometres south of Montreux. It's one of the best-preserved medieval castles in Europe and the most visited historic building in Switzerland, and the combination of dramatic lakeside location, well-maintained interiors, and genuine historical depth makes it entirely worth the crowds.

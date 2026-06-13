@@ -1,6 +1,7 @@
 ---
 title: "Massingir Dam"
 type: poi
+score: 6.8
 ---
 
 The Massingir Dam sits a few kilometres east of town, impounding the Rio dos Elefantes (Olifants River) to form one of the largest reservoirs in Mozambique. Construction began in the late 1960s and the dam was completed in 1977, though a partial wall failure in 1977 required repairs that stretched into the 1980s. At full capacity the reservoir stretches roughly 30 kilometres upstream into what is now Limpopo National Park, providing a vital dry-season water source for wildlife across the region.

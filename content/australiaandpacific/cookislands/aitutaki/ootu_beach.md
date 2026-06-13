@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: -18.905
 longitude: -159.755
+score: 7.6
 ---
 
 Ootu Beach runs along the eastern peninsula of Aitutaki's main island, a long, open stretch of white sand with the lagoon right there and almost nobody on it. Unlike the motu beaches that require a boat to reach, Ootu is accessible by road — a short drive or bicycle ride from most accommodation on the main island — which makes it the practical choice for a morning swim or an afternoon with a book and nowhere to be.

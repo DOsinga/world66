@@ -9,6 +9,7 @@ tags:
   - swimming
   - park
 snippet: A 200-acre lake just outside town with camping and boating
+score: 6.0
 ---
 
 Lake Miola is a 200-acre reservoir built in 1957 about three miles north of Paola, the town's main outdoor recreation spot. The lake is stocked with crappie, bass, and catfish, popular with weekend anglers; pontoon and rowboat rentals are available at the marina. The shoreline has a swimming beach (lifeguarded in summer), shaded picnic shelters, walking trails, and a campground with tent and RV sites.

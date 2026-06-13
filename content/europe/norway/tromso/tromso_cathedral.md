@@ -12,6 +12,7 @@ story: >
   given that Norway is famous for its wooden stave churches. Completed in 1861,
   it was designed by Christian Heinrich Grosch, the same architect responsible
   for the original buildings of the University of Oslo.
+score: 6.4
 ---
 
 Tromsø Cathedral sits in the city centre, a few minutes' walk from the harbour. Built in 1861, it is Norway's only wooden cathedral — a simple Gothic Revival structure in white-painted timber, modest by southern European standards but striking in the context of the far north. The steeple is a city landmark visible from most of the island.

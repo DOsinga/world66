@@ -8,6 +8,7 @@ latitude: 48.1183
 longitude: 21.4066
 story: >
   Tokaji Aszú, the legendary sweet wine made from botrytised grapes harvested in the Tokaj hills, was described by Louis XIV of France as "the wine of kings and the king of wines." The classification system for Hungarian wine was established for Tokaj in 1730 — a century before Bordeaux organised its own system. The Zemplén slopes around Sátoraljaújhely mark the northern edge of this historic wine region.
+score: 8.4
 ---
 
 Sátoraljaújhely sits at the northern fringe of the Tokaj-Hegyalja wine region, a UNESCO World Heritage landscape of volcanic hillside vineyards that produced Hungary's most famous wine for centuries. The town is a useful base for exploring the wine villages to the south.

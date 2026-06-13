@@ -7,6 +7,7 @@ tags:
   - sight
 title: Colobus Conservation
 type: poi
+score: 7.2
 ---
 
 The Colobus Trust runs conservation and education work to protect the Angolan colobus monkeys that live in the coastal forest behind Diani Beach. These striking black-and-white monkeys are endangered on the Kenyan coast, threatened by deforestation and road deaths. The trust operates a small visitor centre and organises guided forest walks where sightings are almost guaranteed.

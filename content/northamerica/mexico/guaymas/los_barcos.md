@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 27.9210
 longitude: -110.8975
+score: 6.6
 ---
 
 Los Barcos is a well-regarded downtown seafood restaurant, popular with local families and the kind of straightforward place where the fish was swimming this morning. The menu revolves around whatever the shrimp boats brought in: shrimp tacos, breaded shrimp plates, aguachile (raw shrimp cured in lime and chilli), and fish fillets served with rice and beans. Prices are low and the portions are generous.

@@ -11,6 +11,7 @@ story: >
   Tharros was founded by the Phoenicians around 730 BC on a narrow headland between two bays — a site chosen for the same reason as Carthage, for its defensibility and maritime access. The city was later occupied by Carthaginians, then Romans, then Byzantines, and finally abandoned around 1070 AD when the inhabitants moved inland to found what became Oristano. Over 1,800 years of continuous occupation make it one of the longest-inhabited sites in Sardinia.
 sources:
   - https://en.wikipedia.org/wiki/Tharros
+score: 9.1
 ---
 
 Tharros sits on the tip of the Sinis Peninsula, 20 kilometres west of Oristano, on a narrow strip of land between the sea and the Stagno di Cabras lagoon. The ruins occupy one of Sardinia's most dramatic settings: Phoenician, Punic, and Roman remains spread across a headland with sea views in three directions and the islands of San Pietro and Sant'Antioco visible on clear days.

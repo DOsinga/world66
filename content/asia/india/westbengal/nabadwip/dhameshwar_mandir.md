@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 23.4081
 longitude: 88.3690
+score: 7.1
 ---
 
 A second important Chaitanya temple a short walk south-east of Poramatala, on the bank of the Bhagirathi. The *deity* here is a black-stone image believed by some Gaudiya traditions to be the original one installed by Vishnupriya, Chaitanya's widow, after his death.

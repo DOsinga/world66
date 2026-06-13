@@ -12,6 +12,7 @@ story: >
   The lighthouse at the base of Beachy Head was not built until 1902, because the cliff was too high for any light at the top to be seen by ships below in fog. The previous Belle Tout lighthouse (still standing half a mile inland) proved useless for the same reason — it sat above the fog line. The current lighthouse, painted in red and white stripes, is therefore placed at the foot of the cliff rather than the top, which is why it appears so tiny when seen from above.
 sources:
   - https://en.wikipedia.org/wiki/Beachy_Head
+score: 9.4
 ---
 
 Beachy Head is the highest chalk sea cliff in Britain, dropping 162 metres vertically from grassland to water. The view from the top — usually with a brisk Channel wind in your face — is genuinely dramatic: the white chalk falls straight down to turquoise water, and the red-and-white lighthouse at the base looks impossibly small. On clear days you can see the coast of France.

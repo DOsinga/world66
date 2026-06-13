@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 8.7
 ---
 
 The Grand Stables were built between 1719 and 1735 by Jean Aubert for Louis Henri de Bourbon, and are an extraordinary piece of architecture — a curved stone building 186 metres long, capable of housing 240 horses and more than 500 hounds. They are among the finest examples of 18th-century French stable architecture anywhere.

@@ -6,6 +6,7 @@ longitude: 9.6442
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The ruined Solavers Castle sits on a wooded promontory across the Landquart river in the neighbouring municipality of Seewis. It was the seat of the von Solavers family, mentioned in records from the late 13th century onwards, and later passed to the von Aspermont and then to the bishops of Chur. By the 17th century it was already a ruin.

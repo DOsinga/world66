@@ -10,6 +10,7 @@ tags:
 - sight
 - history
 story: The adobe was built around 1840 by Cayetano Juárez, a former Mexican soldier who received a 9,000-acre land grant in the lower Napa Valley. The building survived the transition to American rule, fluctuating economies, two earthquakes, and the wholesale rebuilding of Napa around it — making it, by some distance, the oldest building still standing in the city.
+score: 7.0
 ---
 
 The Cayetano Juárez Adobe is the oldest building in Napa, a two-storey thick-walled adobe house built in the 1840s when this land was still part of Mexican California. It has spent most of the past century as a restaurant — currently Old Adobe Bar & Grill — and the dining rooms occupy the original adobe rooms, with their low ceilings and deep window reveals intact.

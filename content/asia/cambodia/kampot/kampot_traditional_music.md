@@ -14,6 +14,7 @@ story: >
   who preserved traditional forms. The revival of Cambodian classical music has required
   piecing together tradition from surviving students, diaspora knowledge, and a handful
   of old recordings.
+score: 4.4
 ---
 
 The Kampot Traditional Music school teaches traditional Cambodian music to young students, focusing on instruments and forms that were nearly extinguished during the Khmer Rouge period. Instruments include the roneat (a xylophone-like instrument of bamboo or hardwood), various types of fiddle, and percussion. Evening performances are held for visitors and serve as both fundraising and an opportunity to hear music that is genuinely endangered.

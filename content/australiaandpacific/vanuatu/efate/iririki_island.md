@@ -6,6 +6,7 @@ longitude: 168.3081
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Iririki is the small green island that sits directly across the harbour from Port Vila — close enough to swim, though almost everyone takes the free shuttle ferry that runs every few minutes from the wharf opposite the Grand Hotel.

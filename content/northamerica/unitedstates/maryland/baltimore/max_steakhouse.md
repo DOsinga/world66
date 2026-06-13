@@ -8,6 +8,7 @@ tags:
   - federal_hill
 latitude: 39.2780
 longitude: -76.6123
+score: 7.3
 ---
 
 LP Steamers is the best crab house in the Federal Hill area, a no-frills operation with communal picnic tables covered in brown paper where you eat steamed blue crabs by hand. The crabs come piled on the table, heavily seasoned with Old Bay, and you eat them with a wooden mallet and a lot of patience. It is messy, it takes skill, and it is one of the most specifically Baltimore experiences available.

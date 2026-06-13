@@ -4,6 +4,7 @@ type: poi
 latitude: 32.82217
 longitude: 34.99215
 tags: [sight, museum, wadi_nisnas]
+score: 6.9
 ---
 
 A small municipal museum next to the Haifa Museum of Art, dedicated to the city's history from the Ottoman period through the British Mandate to independence. The displays mix photographs, documents, and recreated interiors and are mostly bilingual.

@@ -8,6 +8,7 @@ tags:
 latitude: 0.3120
 longitude: 32.5640
 snippet: Anglican cathedral on its own hill, with a small museum and fine views
+score: 8.9
 ---
 
 St Paul's Cathedral on Namirembe Hill is the mother church of the Anglican Church of Uganda and, like its Catholic counterpart on Lubaga Hill across the valley, dates from the missionary era of the late 19th century. The current building was completed in 1919 — the fourth church on this site, its predecessors having burned or been destroyed.

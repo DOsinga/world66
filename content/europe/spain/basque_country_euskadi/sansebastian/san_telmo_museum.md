@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.3249
 longitude: -1.9849
+score: 8.8
 ---
 
 San Telmo is the finest museum in the Basque Country and one of the best in Spain, housed in a 16th-century Dominican convent at the foot of Monte Urgull in the Parte Vieja. The building is extraordinary: a cloister with Jose Maria Sert's 1929 murals of Basque history and mythology covering the nave walls in monumental canvases, and a contemporary steel-and-glass extension tucked against the hillside that doubles the museum's space without disrupting the historic fabric.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The Byzantine cathedral of Serres, rebuilt after the 1913 fire but preserving its eleventh-century plan
+score: 6.7
 ---
 
 The church of Saints Theodore Tyro and Theodore Stratelates was the cathedral of Serres throughout the Byzantine and Ottoman periods. The original eleventh-century basilica was burnt in 1913 when the retreating Bulgarian army set fire to most of the city, but the foundations and lower walls survived and the church was rebuilt on its original plan in the 1930s.

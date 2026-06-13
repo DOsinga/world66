@@ -9,6 +9,7 @@ tags:
 - sights
 title: Siong Lim Temple
 type: poi
+score: 7.2
 ---
 
 The oldest Buddhist temple in Singapore, built in 1898 — 79 years after the founding of modern Singapore. Construction was initiated by local businessman Low Kim Pong, with donations from across Southeast Asia. Built in the style of a cong lin monastery, its layout follows the standard Chinese Mahayana plan, making it a useful blueprint for understanding Buddhist monasteries in general.

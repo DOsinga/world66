@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.203
 longitude: 28.042
+score: 8.4
 ---
 
 Collectors Treasury bills itself as Africa's largest secondhand bookshop, and it is hard to argue with the claim. Crammed into a building near the CBD, it contains over a million items: books on every subject, vinyl records, old magazines, out-of-print maps, vintage prints, posters, and ephemera that defies easy classification. The organisation is idiosyncratic; finding something specific requires patience, but wandering and seeing what turns up is the point.

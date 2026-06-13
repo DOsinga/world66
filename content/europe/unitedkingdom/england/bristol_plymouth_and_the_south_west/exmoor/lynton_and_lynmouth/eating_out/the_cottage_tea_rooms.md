@@ -7,6 +7,7 @@ tags:
   - cafe
 title: The Cottage Tea Rooms
 type: poi
+score: 5.1
 ---
 
 A traditional tea room in Lynton serving cream teas, light lunches, and home-baked cakes. The Devon cream tea format — scones, clotted cream, jam, a pot of tea — is done well here, and at this latitude you're still in Devon so cream goes on first (a matter of local significance). Useful as a mid-morning or afternoon stop before or after the cliff railway.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.6712
 longitude: 11.9281
+score: 6.3
 ---
 
 Piazza Giorgione is the main square just inside the eastern gate of the walled town. Long and rectangular, lined with arcaded buildings in faded ochre and brick, it is named — like everything in Castelfranco — for the local painter, whose monument stands at the centre. The piazza is the centre of evening passeggiata, especially in spring and autumn when the cafe tables fill the colonnades.

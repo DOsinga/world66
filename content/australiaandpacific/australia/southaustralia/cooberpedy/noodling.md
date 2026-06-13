@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - activity
 story: "Noodling is the local word for fossicking through the heaps of mine tailings — the discarded rock dug up and dumped on the surface — looking for opal that the original miner missed. Locals will tell you the best opals in Coober Pedy were found by noodlers, not miners. They might even be telling the truth."
+score: 7.4
 ---
 
 The Jewellers Shop noodling area, off the road north of town, is a public fossicking ground where visitors are free to dig through the spoil heaps. Bring sturdy shoes, a hat, sunscreen, and plenty of water; a small pick or screwdriver helps but is not essential. Keep what you find.

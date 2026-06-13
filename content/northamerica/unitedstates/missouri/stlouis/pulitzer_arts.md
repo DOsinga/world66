@@ -8,6 +8,7 @@ tags:
 - grand_center
 latitude: 38.6385
 longitude: -90.2348
+score: 7.6
 ---
 
 The Pulitzer Arts Foundation is housed in one of the few American buildings by Japanese architect Tadao Ando — a long, low, walled enclosure of board-formed concrete and glass that wraps around a reflecting pool. It opened in 2001 and was funded by the Pulitzer family, owners of the Post-Dispatch.

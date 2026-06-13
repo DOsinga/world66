@@ -8,6 +8,7 @@ tags:
 latitude: 21.0262
 longitude: 105.8372
 snippet: "Early 19th-century citadel tower, the tallest in Hanoi's historic military quarter"
+score: 7.0
 ---
 
 The Hanoi Flag Tower (Cot Co Ha Noi) was built in 1812 during the Nguyen dynasty, as part of the Hanoi Citadel's southern fortifications. It stands 41 metres tall and is one of the most recognizable structures in the city — a three-tiered hexagonal base rising to an octagonal shaft topped by a flagpole that has flown the Vietnamese flag continuously since 1945. The tower is visible from several directions through the surrounding streets and from the grounds of the Vietnam Military History Museum next door.

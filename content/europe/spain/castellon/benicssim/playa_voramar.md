@@ -8,6 +8,7 @@ tags:
 - beach
 title: Playa de Voramar
 type: poi
+score: 6.8
 ---
 
 The northernmost of Benicàssim's four beaches, Voramar is the prettiest — a short, gently shelving stretch of fine sand with the 1934 Hotel Voramar (the oldest surviving bathing hotel in Castelló province) standing directly behind it. Pines and palms shade the promenade, and the rusted iron balconies of the old villas of the **Ruta de las Villas** front the boulevard.

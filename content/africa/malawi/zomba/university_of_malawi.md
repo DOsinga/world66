@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -15.3881
 longitude: 35.3475
+score: 6.1
 ---
 
 Chancellor College, the largest of the University of Malawi's constituent colleges, is on the eastern side of Zomba on a sprawling campus of low brick buildings and lawns. It was established in 1965 as part of the new country's flagship university and has been the country's leading academic institution ever since. The campus is open to visitors during the day; the main quadrangle and the surrounding gardens make for a pleasant walk.

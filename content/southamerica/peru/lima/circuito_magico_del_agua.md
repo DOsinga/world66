@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: World's largest fountain complex with nightly light shows
+score: 6.8
 ---
 
 The **Circuito Mágico del Agua** in the Parque de la Reserva is a complex of 13 illuminated fountains spread across a central-Lima park, opened in 2007 and certified by Guinness as the world's largest fountain complex. The main fountain throws water 80 metres into the air; other displays include tunnels of water arches, labyrinths of mist, and a fountain visitors can walk under without getting wet.

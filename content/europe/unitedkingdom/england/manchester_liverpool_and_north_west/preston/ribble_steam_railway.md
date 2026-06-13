@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 7.1
 ---
 
 The Ribble Steam Railway is a working heritage railway on the former dock branch line at Preston Docks, with an impressive collection of preserved industrial locomotives — including some unusual fireless steam shunters used in the chemical and paper industries. Trains run a 2.5-mile round trip along the river from Preston Riverside, hauled by a different locomotive each operating day.

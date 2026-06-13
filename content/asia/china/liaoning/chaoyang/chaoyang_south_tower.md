@@ -9,6 +9,7 @@ latitude: 41.5650
 longitude: 120.4450
 story: >
   The South Tower's construction date is debated by scholars — some date the core structure to the Northern Yan Dynasty in the early fifth century, which would make it older than the North Tower. The two pagodas anchor opposite ends of a Buddhist precinct that was once among the most important in northeast China.
+score: 7.7
 ---
 
 The Chaoyang South Tower stands at the southern end of the old city, its thirteen-tiered silhouette balancing the North Tower a kilometre to the north. Built during the Northern Yan or early Northern Wei period and subsequently repaired during the Liao Dynasty, the tower belongs to the same concentrated cluster of early Buddhist architecture that makes Chaoyang unusual among Chinese cities. The South Tower is somewhat less visited than the North Tower and consequently quieter — a better place to stand and look at the structure without a crowd.

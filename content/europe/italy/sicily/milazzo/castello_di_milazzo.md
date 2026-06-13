@@ -15,6 +15,7 @@ story: >
   systematic treatises on falconry (De Arte Venandi cum Avibus) sat in this same
   castle on the Sicilian coast and dictated instructions for training hawks.
   The book was still being read by European falconers four centuries later.
+score: 8.8
 ---
 
 The Castello di Milazzo is a sprawling fortified complex that covers the high ground above the old town — the largest in Sicily by area and one of the most stratified historically. Arab walls form the inner core; Norman builders added towers and expanded the circuit; the Spanish viceroys rebuilt the outer walls in the 16th century using the massive ashlar blocks that still dominate the approach from below.

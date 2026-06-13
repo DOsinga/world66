@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Selimiye Mosque
 type: poi
+score: 8.7
 ---
 
 Originally built as the Cathedral of Saint Sophia during the Lusignan period in the 13th century, this is one of the finest examples of French Gothic architecture in the eastern Mediterranean. Queen Alix de Champagne and Archbishop Thiryx oversaw the project, and after its consecration the cathedral served as the coronation church of the Lusignan kings.

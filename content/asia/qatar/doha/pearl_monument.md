@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.2978
 longitude: 51.5370
+score: 5.9
 ---
 
 The Pearl Monument on the Corniche commemorates Qatar's pre-oil economy, when pearl diving was the primary industry and Doha was a modest fishing port. A giant oyster shell opens to reveal an oversized pearl, and the fountain base references the diving vessels that once worked the shallow Gulf waters.

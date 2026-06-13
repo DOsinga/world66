@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.6570
 longitude: 20.2910
+score: 6.9
 ---
 
 One of the best-preserved examples of Albanian feudal domestic architecture in Kosovo, Tahir Bey's Palace is a fortified compound on the edge of Peja's old town. The architecture follows the pattern of the Dukagjin kulla — thick stone walls, high garden enclosures for privacy, a separate men's reception room (the oda) on the upper floor with carved wooden ceilings, and rifle-loop windows that blur the line between residence and defensive tower.

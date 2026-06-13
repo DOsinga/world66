@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.7
 ---
 
 The biggest of the northern beaches and the main party beach of Porto Seguro. Six kilometres north of the centre, reached by the coastal road or local bus, it is fronted by a strip of large *barracas* — Axé Moi, Barramares, and Tôa Tôa are the famous ones — each running its own daytime show with a live band, dance instructors leading *axé* and forró on the sand, and a stage for the evening *luau*.

@@ -12,6 +12,7 @@ story: >
   preserving them from medieval stone-robbers. When the peat was removed
   in 1857, the stones were found in almost perfect condition. Nobody knows
   whether the peat burial was deliberate or accidental.
+score: 9.7
 ---
 
 The Callanish Stones on Lewis are among the most significant prehistoric monuments in Europe, erected around 2900 BC — roughly contemporary with Stonehenge. The site consists of a central circle of 13 stones with four avenues radiating outward in a cross shape, unlike any other megalithic arrangement anywhere. They stand up to 4 metres high, grey Lewis gneiss worn smooth by Atlantic weather over five thousand years.

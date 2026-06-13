@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Striking early-20th-century Catholic college, still in use
+score: 6.8
 ---
 
 The Colegio del Sagrado Corazón is a private Catholic school occupying a vast neoclassical building in the heart of the historic centre. It was founded by the Sacred Heart Sisters in 1909 and remains one of the city's most respected primary and secondary schools, with a long list of distinguished Bolivian alumni. The facade — broad colonnades, a tall central pediment, and the characteristic Sucre white finish — fits the city's colonial mood despite being barely a century old.

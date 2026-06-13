@@ -6,6 +6,7 @@ latitude: 32.6563
 longitude: -16.8896
 story: >
   The garden occupies the grounds of a quinta that once belonged to the Reid family — the same family that founded Reid's Palace Hotel. The botanical collection began in the 1960s when the estate was donated to the regional government and has since grown into one of the most important botanical collections in Europe, with a particular focus on Macaronesian and Laurisilva species.
+score: 7.9
 ---
 
 The Botanical Garden (Jardim Botânico da Madeira) is set on the hillside east of the city center, with terraced beds arranged by geographic origin. The collection of around 2,000 species includes many plants endemic to Madeira and the Macaronesian archipelagos, along with a Japanese garden, cactus section, and orchid house.

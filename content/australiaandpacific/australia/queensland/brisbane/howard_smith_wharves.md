@@ -10,6 +10,7 @@ tags:
 latitude: -27.4621
 longitude: 153.0352
 snippet: "Restored heritage wharves under the Story Bridge with bars and restaurants"
+score: 7.4
 ---
 
 Tucked under the northern end of the Story Bridge, Howard Smith Wharves is a heritage precinct of restored 1930s wharves that now hosts some of Brisbane's best restaurants, bars, and a boutique hotel. The setting is exceptional — the curving river, the bridge looming overhead, and the gardens of Fortitude Valley behind. It is the kind of place that took decades of neglect and a serious renovation to get right, and Brisbane is lucky to have it.

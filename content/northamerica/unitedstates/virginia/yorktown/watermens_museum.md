@@ -7,6 +7,7 @@ tags:
   - maritime
 title: Watermen's Museum
 type: poi
+score: 6.3
 ---
 
 The Watermen's Museum shifts the focus from war to the Chesapeake Bay. Its exhibits cover boatbuilding, fishing, crabbing, and the working culture of the people who made a living from these tidal waters.

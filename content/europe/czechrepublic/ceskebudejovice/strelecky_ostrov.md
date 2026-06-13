@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Stadion_Střelecký_ostrov
+score: 5.8
 ---
 
 Střelecký Ostrov is a river island in the Vltava at the southern edge of the old town, connected to both banks by footbridges. The island is a pleasant public park — trees, benches, paths along the riverbank — and a favourite spot for an afternoon walk. The Budvar football stadium sits on the mainland nearby, but the island itself is peaceful.

@@ -15,6 +15,7 @@ tags:
 - sight
 title: Clermont-Ferrand International Short Film Festival
 type: poi
+score: 7.6
 ---
 
 The Clermont-Ferrand International Short Film Festival (Festival International du Court Métrage) is held every February and has become the world's most important marketplace for short films. Founded in 1979, it now attracts around 160,000 spectators over its ten days, with programmes running across multiple venues throughout the city. The competitive selection draws entries from over 80 countries; the parallel market is where industry professionals buy and sell short films for broadcast and distribution rights.

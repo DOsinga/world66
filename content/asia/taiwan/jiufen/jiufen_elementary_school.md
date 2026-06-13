@@ -7,6 +7,7 @@ tags:
 latitude: 25.1098
 longitude: 121.8451
 snippet: The school playground above the old town offers the best elevated view over Jiufen's rooftops
+score: 7.2
 ---
 
 The playground of Jiufen Elementary School, perched on the hillside above the old street, gives the best elevated view of the town — red tile roofs, the stepped lanes, and the sea below. The school was built during the Japanese colonial era and is still operating; the playground is accessible from the road above the old street and is not fenced during non-school hours.

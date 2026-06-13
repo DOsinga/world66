@@ -5,6 +5,7 @@ longitude: 73.494992
 opening_hours: 5 AM To 10 PM
 title: Sights in Mandi Bahauddin
 type: poi
+score: 3.6
 ---
 
 1. Mian waheed-u-deen park

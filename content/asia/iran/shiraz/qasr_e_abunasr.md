@@ -7,6 +7,7 @@ tags:
 - sight
 title: Qasr-e Abunasr
 type: poi
+score: 6.2
 ---
 
 Qasr-e Abunasr is a ruined fortified complex on a rocky outcrop about 9 km east of the city. The site was first occupied in the Achaemenid period and reused as a Sassanian-era stronghold, with later additions through the early Islamic centuries. The walls and bastions are clearly visible, and the hilltop gives wide views over the surrounding plain.

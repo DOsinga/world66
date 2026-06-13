@@ -7,6 +7,7 @@ tags:
 latitude: 13.0354
 longitude: 80.2352
 snippet: "One of Chennai's better specialty coffee shops, in the Adyar area."
+score: 5.7
 ---
 
 The Brew Room is part of Chennai's emerging specialty coffee scene — a proper third-wave coffee shop in the Adyar neighbourhood that takes its sourcing and preparation seriously. Single-origin beans, pour-over brewing, and knowledgeable staff put it in different territory from the traditional filter coffee houses.

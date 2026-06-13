@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.9165
 longitude: 73.6820
+score: 6.4
 ---
 
 Mahabaleshwar and the surrounding Panchgani plateau are India's most productive strawberry-growing area, and the fruits are the local obsession from November to April. The volcanic basalt soils and cool climate produce berries with more flavour than the hothouse varieties that dominate the Indian market, and the roadside stalls that line the approach roads from Panchgani are the best expression of this.

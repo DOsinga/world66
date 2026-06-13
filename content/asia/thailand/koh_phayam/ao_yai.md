@@ -9,6 +9,7 @@ latitude: 9.73
 longitude: 98.38
 story: >
   Koh Phayam remained off the Thai tourist map for decades partly because it had no ATMs until the 2010s and electricity came only from generators — a self-imposed slowness that the island's residents actively defended. Even today, cars are banned; transport is by motorbike or longtail boat.
+score: 7.7
 ---
 
 Ao Yai — Long Beach — runs for several kilometres along the western shore of Koh Phayam and faces directly into the Andaman sunset. The sand is fine and pale, the water clear and warm, and the beach is dotted with small bungalow resorts and beachside restaurants serving grilled fish and fresh cashew dishes. It is quiet in a way that is increasingly hard to find in Thailand.

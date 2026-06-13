@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.9443
 longitude: 11.577
+score: 6.9
 ---
 
 The Stadtkirche — the main Protestant parish church of Bayreuth — stands in the old market square at the heart of the historic centre, and its twin towers are one of the defining shapes of the city skyline. The current structure dates mostly from the late Gothic period (15th–16th centuries), with subsequent Baroque modifications. The interior is relatively plain compared to the Catholic churches of Bavaria, but the carved choir stalls and the Renaissance-era epitaphs on the walls are worth attention.

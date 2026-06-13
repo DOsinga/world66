@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - monastery
+score: 7.7
 ---
 
 Narga Selassie is an eighteenth-century monastery on Dek Island, one of Lake Tana's major islands. It is farther out than the Zege Peninsula churches, which means fewer casual visitors and a stronger sense of travelling into the lake rather than just across its edge.

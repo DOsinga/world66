@@ -9,6 +9,7 @@ latitude: 44.7564
 longitude: 14.7606
 sources:
   - https://en.wikipedia.org/wiki/Rab_(town)
+score: 9.1
 ---
 
 The old town of Rab occupies a narrow peninsula that juts into the sea, its skyline punctuated by four Romanesque bell towers that have served as a landmark for sailors since the Middle Ages. From the water the silhouette is unmistakable: the towers rise in a line above a tight cluster of terracotta roofs, with the sea on both sides.

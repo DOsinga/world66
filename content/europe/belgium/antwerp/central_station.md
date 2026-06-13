@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: "The 'railway cathedral' — voted the world's most beautiful station"
 story: "When the high-speed line to Brussels was extended in 2007, engineers tunnelled three new floors of platforms underneath the original 1905 train shed, leaving the historic structure entirely intact. The result is a station where you can stand on platform 24 below ground and look up through glass to the original Art Nouveau roof."
+score: 9.1
 ---
 
 The "Spoorwegkathedraal" — railway cathedral — opened in 1905 and is one of the great surviving early-twentieth-century terminals. The vaulted train shed of glass and steel is set above a domed waiting hall in marble and bronze, with the platforms now arranged on four levels. The lowest level was added in 2007 when the high-speed line was extended; engineers tunnelled new platforms underneath without disturbing the historic structure above.

@@ -13,6 +13,7 @@ story: >
   hundreds of women who filleted and packed fish by hand at extraordinary speed.
   The museum preserves much of the original factory machinery, and the smell of
   sardines, they say, still returns in certain weather.
+score: 8.3
 ---
 
 Museu de Portimão is one of the best regional museums in the Algarve, housed in a converted sardine-canning factory on the Arade waterfront. The building itself is a significant piece of industrial heritage from the early twentieth century, and the conversion has preserved the factory floor and much of its original equipment.

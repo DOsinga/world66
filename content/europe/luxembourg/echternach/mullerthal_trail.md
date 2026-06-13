@@ -14,6 +14,7 @@ story: >
   routes. The region's sandstone was used to build much of the medieval
   abbey at Echternach, which is why so many old quarries are tucked into
   the forest along the route.
+score: 9.0
 ---
 
 The Mullerthal Trail is a 112-kilometre marked walking route that loops through the forested sandstone country of eastern Luxembourg, with Echternach as its natural hub. It is laid out in three routes (Route 1, Route 2, Route 3) and a series of shorter "extra-tours" that fan out from villages along the way; the full circuit takes about a week of moderate days, but you can sample it in any direction with afternoon walks of two or three hours.

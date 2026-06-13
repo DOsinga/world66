@@ -7,6 +7,7 @@ tags:
 - sight
 title: Großes Heiliges Kreuz
 type: poi
+score: 7.6
 ---
 
 The "Great Holy Cross" was founded in 1254 as a hospice for poor pilgrims passing through Goslar, a kind of medieval combination of soup kitchen and short-stay lodging. The current half-timbered building on Hoher Weg dates from the late fifteenth century and is one of the longest surviving guildhall-style structures in the old town. The chapel on the ground floor, with its sandstone columns and painted ceiling, is the architectural showpiece.

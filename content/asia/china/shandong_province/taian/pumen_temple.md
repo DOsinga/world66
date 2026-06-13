@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 36.2280
 longitude: 117.0930
+score: 7.1
 ---
 
 Pumen Temple is one of the larger Buddhist establishments on Mount Tai, sitting on the western flank away from the main pilgrimage staircase and the crowds. The complex has been rebuilt several times — most recently in the Qing dynasty — and a handful of older steles and statues survive among the courtyards.

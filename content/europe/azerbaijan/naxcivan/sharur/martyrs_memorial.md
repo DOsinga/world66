@@ -6,6 +6,7 @@ longitude: 44.9842
 tags:
 - things_to_do
 - sight
+score: 4.8
 ---
 
 A modernist memorial in a park near the town stadium, dedicated to those killed in the First Nagorno-Karabakh War (1988–1994). Like the larger Şəhidlər Xiyabanı in Baku, it is an important place for local commemoration; the inscriptions are in Azerbaijani.

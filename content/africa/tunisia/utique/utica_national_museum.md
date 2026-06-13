@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.0521
 longitude: 10.0586
+score: 7.1
 ---
 
 The small site museum sits at the entrance, in a one-storey building that doubles as the ticket office. The displays are modest but useful — Phoenician pottery, Punic stelae, Roman lamps, glassware, and a few mosaics lifted from the houses on the hill for protection.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 7.3
 ---
 
 A Shiva temple at the top of a wooded hill about 15 km northeast of Alibaug, reached by a steep climb of around 750 stone steps through dense forest. The temple dates from the seventeenth century and is a popular pilgrimage stop on the festival days of Mahashivratri and Shravan Mondays.

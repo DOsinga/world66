@@ -8,6 +8,7 @@ latitude: 35.371805555555554
 longitude: 24.472916666666666
 story: >
   The museum is housed in a converted Ottoman prison — a single-storey building around a courtyard that served as the town jail through the 19th and early 20th centuries. Several of the individual cells have been incorporated into the display design, giving visitors an unexpected double layer of history: Minoan grave goods arranged in rooms that were holding cells within living memory.
+score: 7.4
 ---
 
 The Archaeological Museum of Rethymno occupies a converted Ottoman building near the Fortezza and holds finds from the region's Minoan, Mycenaean, and classical Greek sites. The collection is particularly strong on Minoan burial goods — pottery, jewellery, and figurines from tombs in the western Crete region — and on the later Archaic and classical periods.

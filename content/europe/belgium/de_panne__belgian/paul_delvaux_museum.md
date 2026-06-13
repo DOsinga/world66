@@ -8,6 +8,7 @@ tags:
 latitude: 51.1058
 longitude: 2.6103
 story: "Paul Delvaux spent much of his adult life in Sint-Idesbald and the museum occupies the house and studios where he worked. He began the project himself in 1979, at the age of 83, ensuring that his strange dreamlike canvases would have a permanent home in the dune village where he painted many of them."
+score: 8.4
 ---
 
 The Paul Delvaux Museum in Sint-Idesbald, a village that falls within the De Panne municipality, holds the world's largest collection of works by Belgium's great Surrealist painter. Delvaux is known for his haunting, moonlit scenes populated by naked women, skeleton figures, trams, and classical columns — images of strange desire and unease that feel both timeless and specific to mid-twentieth-century Belgium.

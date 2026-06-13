@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 address: 100 West Main Street, Saxonburg
+score: 6.6
 ---
 
 The Saxonburg Memorial Presbyterian Church was founded by the original German settlers in 1837, a few years after John Roebling and his brother led the colonisation of the area. The present white frame building dates to 1843 and is the architectural anchor of Main Street: a simple gabled meeting house with a slender steeple, set back behind a small graveyard.

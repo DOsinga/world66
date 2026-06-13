@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.49
 longitude: 121.967
+score: 8.0
 ---
 
 On Batan's north coast, a short detour from the road to Basco's lighthouse brings you to a rough concrete platform overlooking a dramatic stretch of cliffs and sea. The view from Chawa takes in layered basalt columns dropping to the water, with the Pacific opening out beyond. When the swell is up, waves crash against the cliff face far below. When it is calm, the sea is a deep blue-green and you can see the rocks under the surface.

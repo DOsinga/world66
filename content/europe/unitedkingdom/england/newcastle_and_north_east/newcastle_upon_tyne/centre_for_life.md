@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: Science centre with planetarium and an outdoor ice rink in winter
+score: 6.9
 ---
 
 A working science centre and research institute in a 2000 Terry Farrell complex behind Central Station. Hands-on exhibits, a 4D motion-ride cinema, a planetarium, and a strong programme of temporary exhibitions on space, the body, and technology. Good for kids of around 6 to 12.

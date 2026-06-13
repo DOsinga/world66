@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The National Library of Tatarstan moved in 2021 to the former Lenin Memorial Centre — a striking late-Soviet white-marble pyramid on Pushkin Street that had been designed in the early 1980s to commemorate Lenin's brief student years in Kazan. The conversion turned a memorial nobody quite knew what to do with into the country's most impressive regional library.

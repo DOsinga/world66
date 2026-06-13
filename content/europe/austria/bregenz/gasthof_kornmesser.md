@@ -8,6 +8,7 @@ tags:
   - oberstadt
   - restaurant
 neighbourhood: Oberstadt
+score: 5.6
 ---
 
 The Kornmesser is a traditional Austrian Gasthof tucked into the Oberstadt, serving solid regional food in the old town setting. The menu runs to Vorarlberger classics — Käsespätzle, Tafelspitz, schnitzel — and the wine list includes decent Austrian bottles. The dining room has the low-ceilinged warmth of a proper old inn, which is exactly what it is.

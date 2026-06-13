@@ -12,6 +12,7 @@ story: >
   Rockhampton's boom came from gold, not cattle. The Mount Morgan mine — 38 km to the southwest — was one of the most productive gold and copper mines in the world in the 1880s and 1890s, and much of the wealth it generated passed through Rockhampton's banks and trading houses on Quay Street. The buildings are the physical record of that extraordinary, brief prosperity.
 sources:
   - https://en.wikipedia.org/wiki/Rockhampton
+score: 8.3
 ---
 
 Quay Street runs along the south bank of the Fitzroy River and contains one of the finest concentrations of Victorian-era commercial architecture in Queensland. The buildings here — banks, trading houses, customs houses, and hotels built in the 1880s and 1890s from local sandstone and brick — have survived remarkably intact, a legacy of Rockhampton's gold rush prosperity and the subsequent economic quiet that meant little redevelopment occurred.

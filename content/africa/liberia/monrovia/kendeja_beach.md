@@ -12,6 +12,7 @@ story: Kendeja was established in the 19th century as a village where enslaved A
   government. Each ethnic group brought by ship was allocated a section of the village,
   and their descendants' craft traditions — particularly weaving and carving — have
   been maintained there for six generations.
+score: 6.7
 ---
 
 Kendeja, about 16 km from Monrovia, combines a beach with a living cultural village. Descendants of freed slaves resettled here in the 19th century still practise the crafts their ancestors brought — weaving, carving, and dyeing — and the village has become one of the few places in Liberia where traditional West African artisanal techniques can be observed.

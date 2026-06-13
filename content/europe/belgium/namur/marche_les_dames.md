@@ -7,6 +7,7 @@ latitude: 50.4844
 longitude: 4.9389
 story: >
   On 17 February 1934, King Albert I — the much-loved "soldier king" who had led the Belgian army through the First World War — went climbing alone on these cliffs and did not come back. His body was found at the foot of the rocks the next morning, broken by the fall. The cause of death (a slip? sabotage? a heart attack on the wall?) is still occasionally debated, but most accounts settle on the simplest explanation. A small stone cross marks the spot.
+score: 7.4
 ---
 
 About ten kilometres east of Namur, the wooded **Rochers de Marche-les-Dames** rise from the right bank of the Meuse — a long band of grey rock cliffs threaded with paths. The walk through the forest above and along the river is one of the prettiest near the city.

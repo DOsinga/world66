@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.0935
 longitude: 11.7955
+score: 7.2
 ---
 
 The most atmospheric corner of the old town, Piazza Leandra is a small irregular medieval square uphill from the port, with a fountain at the centre and the Baroque Church of the Stella to one side. The Stella houses the "Sacri Misteri" — wooden statues of the Passion that are carried in procession through the streets on Good Friday, one of Civitavecchia's most important traditional events.

@@ -18,6 +18,7 @@ story: >
   European natural history museums it set out to emulate. When it opened, the botanical and
   geological collections were considered serious contributions to science; today the whole
   accumulation reads as a portrait of 19th-century curiosity in its most ambitious form.
+score: 8.9
 ---
 
 The Indian Museum on Jawaharlal Nehru Road is the oldest and largest museum in Asia, founded in 1814. Its collection is staggering in range: a 4,000-year-old Egyptian mummy, an urn reputedly containing ashes of the Buddha, fossilised dinosaur remains, Gandharan sculpture, Mughal miniatures, coins, and natural history exhibits across 35 galleries. You could spend an entire day here without exhausting it. The building itself, a neo-classical pile arranged around a courtyard, is worth seeing. The Geological, Zoological, and Archaeological sections are the highlights.

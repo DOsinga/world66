@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.6455
 longitude: 103.4970
+score: 7.8
 ---
 
 The Sihanoukville Autonomous Port is Cambodia's only deep-water international port and the economic engine that gave the city its modern existence. It is not really a tourist sight, but the port-side promenade gives a good view of the cranes, the cargo ships, and the long, busy fishing fleet that works out of the inner harbour.

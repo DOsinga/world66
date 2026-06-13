@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, swimming]
 latitude: -3.6408
 longitude: 128.2886
+score: 7.2
 ---
 
 Natsepa Beach on the northern coast of Ambon Island is the most popular beach for locals and visiting Indonesians, and for good reason — the white sand and calm, clear water are excellent, and the atmosphere is lively and cheerful rather than tourist-resort sterile. The beach is famous throughout Maluku for its rujak — a traditional Indonesian fruit salad with a spicy, tangy sauce — sold by vendors along the shore.

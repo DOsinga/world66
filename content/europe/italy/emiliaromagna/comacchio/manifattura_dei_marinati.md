@@ -8,6 +8,7 @@ tags:
 latitude: 44.6960
 longitude: 12.1820
 story: "The eel fishing tradition of Comacchio dates to at least Roman times — Gaius Julius Caesar reportedly ordered 6,000 eels from the local fishermen to celebrate his triumphal return to Rome. The marination technique perfected here — slow-cooking the eels in vinegar and spices, then preserving them in terracotta vessels — allowed the product to travel to Venice, Rome, and beyond without refrigeration. At its peak in the 19th century, the factory processed over 500 tonnes of eels annually."
+score: 8.0
 ---
 
 The Manifattura dei Marinati is a working museum occupying the historic eel processing plant on the canal just behind the Trepponti bridge. Comacchio's economy for centuries depended on the eels caught in the surrounding valley lagoons — the Valle di Comacchio is one of the most productive eel habitats in Europe — and this building is where they were cleaned, roasted on large iron spits, and preserved in vinegar marinade for export across Italy and beyond.

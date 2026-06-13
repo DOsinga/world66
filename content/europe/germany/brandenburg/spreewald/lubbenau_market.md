@@ -8,6 +8,7 @@ latitude: 51.8617
 longitude: 13.9614
 story: >
   Lübbenau's market square was almost entirely rebuilt after World War II, but the church of St. Nikolai — a handsome baroque building with a distinctive onion dome — survived and has been the focal point of the town for over 300 years. The stork nests on the church roof are repaired and occupied every spring.
+score: 5.8
 ---
 
 Lübbenau's market square (Markt) is the departure point for most boat tours and kayak trips into the Spreewald. The square itself is pleasant if unremarkable — the main draw is the access it provides to the canal network immediately behind it. The Kahnhafen (boat harbour) is a short walk from the market, where dozens of flat-bottomed Kahn boats queue up for departure.

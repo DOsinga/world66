@@ -10,6 +10,7 @@ latitude: 55.8712
 longitude: -4.2892
 story: >
   Charles Rennie Mackintosh designed the interior of his own home with the same obsessive attention to detail he brought to his buildings. Every piece of furniture, every light fitting, every colour scheme was conceived as part of a unified whole. When the house was demolished in 1963, Glasgow University preserved the interiors exactly — the rooms were reconstructed in the Hunterian, every element in its correct position. You walk through a ghost, precisely maintained.
+score: 8.7
 ---
 
 The Mackintosh House is a reconstruction of the principal rooms from the home that Charles Rennie Mackintosh shared with his wife, the artist Margaret Macdonald, from 1906 to 1914. When the original building was demolished, the interiors were measured, catalogued, and rebuilt within the Hunterian Art Gallery at the University of Glasgow, allowing visitors to experience Mackintosh's domestic vision at full scale.

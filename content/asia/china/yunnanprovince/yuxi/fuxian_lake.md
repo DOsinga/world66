@@ -14,6 +14,7 @@ story: >
   ancient ruins or natural geological formations is disputed; the local tourist industry has
   enthusiastically promoted the "underwater ancient city" interpretation, which is probably
   ahead of the evidence.
+score: 8.4
 ---
 
 Fuxian Lake stretches 35 kilometres south of Chengjiang through three counties, making it one of Yunnan's largest lakes. At 155 metres it is the deepest lake in Yunnan and the third deepest in China, and the water clarity is remarkable — on calm days the bottom is visible in the shallows to considerable depth, and the water itself has a distinctive blue-green colour quite unlike the murkier plateau lakes further north.

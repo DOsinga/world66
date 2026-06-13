@@ -12,6 +12,7 @@ story: >
   is considered a masterwork of mestizo baroque, with indigenous imagery worked
   into what is ostensibly a European decorative vocabulary — a visual record
   of the cultural collision that Potosí represented.
+score: 7.9
 ---
 
 The Museo Nacional de Etnografía y Folklore (MUSEF) is housed in a spectacular colonial palace and covers the indigenous cultures of Bolivia with depth and seriousness. The permanent collection includes textiles, masks, musical instruments, ceramics, and ritual objects from across the country, with particularly strong holdings on Andean weaving traditions and the diverse cultures of the lowland regions.

@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 3.5264
 longitude: -76.3064
+score: 5.6
 ---
 
 The Estadio Francisco Rivera Escobar is a multi-purpose stadium on the southern edge of Palmira, home to Deportivo Palmira when they play in Colombia's lower football divisions. With a capacity of around 8,000, it is a modest ground, but attending a local football match here is a genuine local experience rather than a tourist spectacle — passionate, informal, and considerably cheaper than going to Cali's América or Deportivo.

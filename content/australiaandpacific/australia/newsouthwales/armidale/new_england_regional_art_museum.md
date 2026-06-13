@@ -9,6 +9,7 @@ latitude: -30.5252
 longitude: 151.6648
 sources:
   - https://en.wikipedia.org/wiki/New_England_Regional_Art_Museum
+score: 7.6
 ---
 
 NERAM, as it is universally known, holds one of the most significant regional art collections in Australia. The Howard Hinton Collection — assembled by a Sydney businessman who never lived in Armidale but donated everything to its people — contains thousands of works spanning Australian art from the nineteenth century to the mid-twentieth, including important pieces by Arthur Streeton, Tom Roberts, and Hans Heysen. A second major collection, the Chandler Coventry bequest, added more contemporary Australian works.

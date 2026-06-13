@@ -9,6 +9,7 @@ latitude: 36.8720
 longitude: 6.9060
 sources:
   - https://en.wikipedia.org/wiki/Skikda
+score: 8.3
 ---
 
 Skikda was founded as Philippeville in 1838 by French forces under General Galbois, named after King Louis-Philippe. The town was built on a military grid from scratch — there was no significant earlier settlement on the hilltop — and its regular plan of arcaded streets, a central square, and civic buildings in French provincial style survives largely intact.

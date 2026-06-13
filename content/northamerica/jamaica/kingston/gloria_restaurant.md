@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.9373
 longitude: -76.8454
+score: 6.8
 ---
 
 Gloria's Rendezvous in Port Royal is the most famous fish restaurant in the Kingston area — not because of its setting or service but because the cooking is genuinely excellent and the fish is as fresh as anywhere in Jamaica. The restaurant sits on the waterfront at Port Royal, reachable by ferry from Downtown Kingston, and the combination of the boat ride and the meal makes for one of the best afternoons available from the capital.

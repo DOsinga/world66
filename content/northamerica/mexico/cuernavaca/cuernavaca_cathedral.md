@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cuernavaca_Cathedral
 story: >
   During restoration work in 1957, workers uncovered frescoes of extraordinary rarity beneath layers of whitewash. Painted by indigenous artists in the 16th century, the images depict the martyrdom of 26 Christian missionaries in Japan in 1597 — executed by crucifixion on the orders of Toyotomi Hideyoshi. The fact that Japanese converts appear in a Mexican church fresco painted within decades of the martyrdom, using pre-Columbian pictorial techniques, is a testament to how fast and strange the early colonial world had become.
+score: 8.2
 ---
 
 The Cathedral of the Assumption in Cuernavaca is one of the oldest Christian churches in the Americas, founded in 1529 by Franciscan missionaries who arrived in Mexico just eight years after the conquest. The building has the fortified appearance common to early colonial churches — thick walls, battlements, and narrow windows — because the Spanish needed structures that could serve as refuges as well as places of worship.

@@ -9,6 +9,7 @@ tags:
 snippet: 1920s neo-Gothic cathedral by Charles Wolff Schoemaker
 latitude: -6.9168
 longitude: 107.6080
+score: 7.0
 ---
 
 The Roman Catholic Cathedral of St Peter (Katedral Santo Petrus) was designed by Charles Wolff Schoemaker — the same architect responsible for Villa Isola — and consecrated in 1922. The neo-Gothic style is unusual for tropical Indonesia: pointed arches, ribbed vaults, and an asymmetric facade with a single tall bell tower. Inside, the stained glass windows above the altar are worth a look.

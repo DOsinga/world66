@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.7154
 longitude: -78.8810
+score: 6.4
 ---
 
 Ripley's Aquarium inside Broadway at the Beach is the best non-beach attraction in Myrtle Beach for families. The collection includes a long underwater tunnel where sharks, rays, and large fish swim overhead, touch tanks with horseshoe crabs and other shallow-water species, and a genuine diversity of marine life from the Atlantic coast and tropical oceans. The operation is commercial but competent — well-maintained tanks, good signage, and knowledgeable staff.

@@ -9,6 +9,7 @@ tags:
   - beach
   - surfing
   - swimming
+score: 8.6
 ---
 
 The longer, less-developed beach immediately north of Baía dos Golfinhos, reached by a steep wooden staircase off the highway about two kilometres from the village. The bay is wide and shallow at low tide; dolphins regularly pass through, and the surf school operating from the southern end of the beach is the best place to take a first lesson — small consistent waves, sandy bottom, no rocks.

@@ -16,6 +16,7 @@ story: >
   of death, falling into the jaws of the underworld, with the World Tree
   rising behind him. A classic illustration of what people see when they don't
   know how to read the images in front of them.
+score: 9.5
 ---
 
 The Temple of the Inscriptions is the largest pyramid at Palenque and the most important funerary monument in the pre-Columbian world. Rising in nine terraces above the main plaza — each terrace representing one of the layers of the Maya underworld — it was built specifically as the burial monument of the ruler K'inich Janaab' Pakal, who died in 683 AD after a reign of 68 years.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.8512
 longitude: 7.6222
+score: 6.4
 ---
 
 A small, dim osteria tucked into the Terra a few steps from the castle climb. Stone walls, low ceilings, a handful of tables. The menu is short and traditional: ravioli with borage, rabbit with olives, snails when in season, and Rossese di Dolceacqua by the bottle or carafe.

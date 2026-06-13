@@ -8,6 +8,7 @@ tags:
   - vasilievsky_island
 latitude: 59.9290
 longitude: 30.2519
+score: 7.6
 ---
 
 Erarta is the largest private museum of contemporary art in Russia, opened in 2010 in a converted neoclassical office building on the western edge of Vasilievsky Island. The permanent collection holds around 3,000 works by some 300 Russian artists from the 1950s onward, and the temporary exhibitions are usually the most adventurous in the city.

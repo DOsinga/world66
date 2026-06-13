@@ -9,6 +9,7 @@ type: poi
 snippet: Well-excavated Buddhist site 5 km away, often visited together with Udayagiri
 sources:
   - https://en.wikipedia.org/wiki/Ratnagiri,_Odisha
+score: 8.6
 ---
 
 Ratnagiri, about 5 km from Udayagiri along the same road, is the better-known and more extensively excavated of the Buddhist triangle sites in Odisha. Its setting on a hilltop with views across the green countryside is dramatic, and the site museum holds an excellent collection of sculptures including a large Parinirvana Buddha and intricately carved doorjambs from the monastery entrance.

@@ -9,6 +9,7 @@ latitude: 55.1665
 longitude: 61.4017
 sources:
   - https://en.wikipedia.org/wiki/Chelyabinsk_Opera_and_Ballet_Theatre
+score: 7.3
 ---
 
 The Chelyabinsk State Academic Opera and Ballet Theatre — named after Mikhail Glinka — occupies a grand Stalin-era building on one of the city's main squares. Founded in 1956, it operates a full repertoire of Russian and European opera and classical ballet, performed by a company of professional dancers and singers that regularly attracts guest artists from Moscow and St Petersburg.

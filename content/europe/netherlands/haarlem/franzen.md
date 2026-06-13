@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Franzen
 type: poi
+score: 5.7
 ---
 
 A reliable French-style restaurant in the centre of Haarlem, on the Kleine Houtstraat near the Teaters (Haarlem's main theatre). The kitchen handles classic bistro dishes well — steak, fish, good sauces. Reserve on Fridays and Saturdays; it fills up.

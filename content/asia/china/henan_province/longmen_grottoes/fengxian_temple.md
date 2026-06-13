@@ -14,6 +14,7 @@ story: >
   cave was commissioned, and making the greatest Buddhist icon of the age
   resemble her was exactly the kind of propaganda move she favoured. The
   cave cost 80,000 strings of cash — allegedly drawn from her cosmetics budget.
+score: 9.7
 ---
 
 The Fengxian Temple is the crown of the Longmen Grottoes — an open-air complex cut into the cliff face at the widest part of the site, containing the largest and most accomplished sculptures in the entire ensemble. At its centre sits a Vairocana Buddha 17 metres high, flanked by two disciples, two bodhisattvas, two heavenly kings, and two guardian warriors in a complete sculptural programme of extraordinary range and sophistication. Commissioned by the Tang Empress Wu Zetian and completed in 672 CE, this is one of the supreme achievements of Tang Buddhist art.

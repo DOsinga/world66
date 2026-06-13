@@ -6,6 +6,7 @@ longitude: 4.4884
 tags:
 - things_to_do
 - museum
+score: 9.0
 ---
 
 The Dutch national museum for the history of science and medicine, housed in a former convent that later served as a plague hospital. The collection is exceptional: early microscopes by Van Leeuwenhoek, pendulum clocks by Huygens, a reconstruction of the world's first cryogenics lab where Kamerlingh Onnes liquefied helium in 1908, and medical instruments that will make you grateful for modern anaesthesia.

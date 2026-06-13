@@ -9,6 +9,7 @@ longitude: -107.6667
 story: "The Chepe train — the Ferrocarril Chihuahua al Pacífico — is one of the great railway journeys in the Americas, crossing 36 bridges and passing through 86 tunnels as it descends from the Sierra Tarahumara to the Pacific coast. It passes through the Copper Canyon system, offering views that no road can match."
 sources:
   - https://en.wikipedia.org/wiki/Copper_Canyon
+score: 9.3
 ---
 
 The Copper Canyon (Barrancas del Cobre) is a system of six distinct canyons in the Sierra Tarahumara of the Sierra Madre Occidental, on the border between Sonora and Chihuahua. Collectively the system is larger and deeper than the Grand Canyon in the United States, and in its upper reaches it is home to the Rarámuri (Tarahumara) indigenous people, who are famous as long-distance runners and maintain many traditional ways.

@@ -5,6 +5,7 @@ tags:
 - nature
 title: Parque de San Lázaro
 type: poi
+score: 5.6
 ---
 
 The Parque de San Lázaro is Ourense's main public garden, a long rectangular park lined with horse chestnut trees that shade the central promenade. It connects the old town to the newer commercial districts and is used throughout the year for the city's markets, outdoor concerts, and the Carnival procession. The park has a slightly formal 19th-century character, with benches, a bandstand, and flower beds that are taken seriously.

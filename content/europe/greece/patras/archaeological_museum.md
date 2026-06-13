@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 38.2488
 longitude: 21.7379
+score: 8.7
 ---
 
 The new Archaeological Museum of Patras, opened in 2009, is one of the best regional museums in Greece and worth seeking out beyond its immediate city context. The collection covers the archaeology of the broader Achaia region from prehistoric times through the Roman period, with particular strength in Roman mosaics — Patras was an important Roman colony called Colonia Augusta Aroe Patrensis, and the wealth of Roman material recovered from the area is exceptional.

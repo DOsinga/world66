@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 51.22
 longitude: -3.764
+score: 6.2
 ---
 
 The Staghunters Inn at Brendon is the social centre of this remote valley — a proper village pub with low beams, real ale, and a fire in winter. It also offers accommodation, making it the only practical base for visitors wanting to explore the area on foot over more than a day.

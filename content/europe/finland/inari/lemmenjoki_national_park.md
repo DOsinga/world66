@@ -7,6 +7,7 @@ snippet: "Finland's largest national park, with hiking, gold panning, and reinde
 tags:
 - things_to_do
 - sight
+score: 8.6
 ---
 
 Lemmenjoki, 50 kilometres southwest of Inari village, is Finland's largest national park — 2,860 square kilometres of pine forest, willow river valleys, and open fell. The Lemmenjoki river runs through the park; a long-running summer boat service ferries hikers up the river to the start of the marked trails.

@@ -13,6 +13,7 @@ story: >
   around 100 BC, but by whom and for exactly what purpose remains debated.
   The double-wall construction gave the structure its height and strength;
   the hollow walls contain a staircase still accessible today.
+score: 8.4
 ---
 
 Dun Carloway is one of the best-preserved Iron Age brochs in Scotland — a drystone circular tower built around 100 BC, with walls still standing to 9 metres on one side. Brochs were sophisticated defensive structures unique to Iron Age Scotland; Dun Carloway shows the double-wall construction, internal staircase, and gallery spaces typical of the form, all still clearly legible despite two thousand years of exposure.

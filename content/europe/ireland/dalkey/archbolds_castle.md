@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Twelfth-century tower house across the street from Dalkey Castle
+score: 6.5
 ---
 
 Archbold's Castle sits directly across Castle Street from Dalkey Castle and was built by the same family in the same period — one of the seven fortified merchants' houses that once lined the village. Three storeys of dark stone rise straight from the pavement, complete with a battered base and the narrow slit windows of a working stronghold.

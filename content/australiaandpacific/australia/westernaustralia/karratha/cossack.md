@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   Cossack was the site of the first permanent European settlement in the Pilbara, established in 1863. It thrived briefly as a pearling port and gateway to the pastoral stations — then was abandoned when the harbour silted up and the port moved to Onslow, then to Point Samson, then to Dampier. The buildings were left standing.
+score: 8.0
 ---
 
 Cossack was the original colonial port of the Pilbara — a pearling and pastoral supply town established in the 1860s that was abandoned at the turn of the 20th century when the harbour became too shallow for large vessels. What remains is one of the best-preserved ghost towns in Western Australia: a cluster of stone government buildings, the old gaol, the customs house, and several residences, all built from the buff-coloured Pilbara sandstone in the utilitarian colonial style of the period.

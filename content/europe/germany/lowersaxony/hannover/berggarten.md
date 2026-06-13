@@ -8,6 +8,7 @@ tags:
 latitude: 52.3939
 longitude: 9.7019
 snippet: Botanical garden across the canal from Herrenhausen, with a famous orchid collection
+score: 8.3
 ---
 
 The Berggarten, one of the four Herrenhausen royal gardens, was founded in 1666 as a vegetable plot and is today a serious botanical garden. The orchid hothouses are among the largest in Europe — more than 3,500 species, the entire collection housed in stepped glass pavilions. The Tropical Rainforest house re-creates a slice of Borneo undergrowth.

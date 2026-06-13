@@ -8,6 +8,7 @@ tags:
 snippet: Restaurant-dance hall hybrid with nightly two-stepping
 latitude: 30.1736
 longitude: -92.0167
+score: 6.8
 ---
 
 Randol's is the cleaner, more family-friendly version of a Cajun dance hall — a big seafood restaurant on one side, a wood-floored dance floor with live music on the other. Bands play every night the place is open, and the crowd ranges from grandparents to teenagers, all dancing.

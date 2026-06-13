@@ -9,6 +9,7 @@ latitude: 18.7507
 longitude: 110.1580
 story: >
   The garden was established in 1957 as a research station for the tropical crops that the returning overseas Chinese knew how to grow — coffee, pepper, cocoa, vanilla, and rubber. It is one of the oldest tropical botanical gardens in China, and the coffee plants here are direct descendants of the Arabica seedlings that the returnees brought back from Indonesia and Vietnam. The small cups of Xinglong coffee sold at the garden shop come from trees that have been growing on this site for nearly seventy years.
+score: 7.8
 ---
 
 Founded in 1957, the Xinglong Tropical Botanical Garden was originally established as an agricultural research station for the ethnic Chinese who had returned from Southeast Asia and brought their tropical farming knowledge with them. It has since grown into a proper botanical garden covering 400 hectares with over 1,200 plant species, many of them economic crops that are rarely seen in northern China: coffee, cacao, vanilla, black pepper, dragon blood trees, and dozens of varieties of tropical fruit.

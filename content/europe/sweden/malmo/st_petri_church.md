@@ -7,6 +7,7 @@ tags:
 - sight
 title: St Petri Church
 type: poi
+score: 8.5
 ---
 
 Malmo's oldest building dates to the early 14th century and is a fine example of Baltic Gothic brick architecture. The interior is worth a visit for its massive altarpiece, one of the largest medieval retables in northern Europe, and the Kramer Chapel with its Renaissance murals. The church sits at the heart of the old town, a short walk from Stortorget.

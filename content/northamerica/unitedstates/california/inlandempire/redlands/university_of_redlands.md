@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The University of Redlands campus, founded in 1907, occupies a 160-acre site at the northeastern edge of town. The architecture is a unified Mission Revival in stucco and red tile, set among mature oaks and orange trees. The Memorial Chapel — a 1928 Romanesque-Gothic building near the centre of campus — is open to visitors and worth a quick look.

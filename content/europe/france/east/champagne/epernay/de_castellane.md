@@ -8,6 +8,7 @@ longitude: 3.9694
 tags:
 - things_to_do
 - sight
+score: 7.9
 ---
 
 De Castellane sits at the far end of the Avenue de Champagne, recognisable from a distance by its tall brick tower with the company's St Andrew's cross logo near the top. The tower can be climbed (237 steps) for the best aerial view of Epernay and the surrounding vineyards.

@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
   - leopoldstadt
+score: 7.8
 ---
 
 The Kunst Haus Wien is the permanent museum of Friedensreich Hundertwasser's paintings, prints, and projects, housed in a former Thonet bentwood furniture factory that Hundertwasser himself redesigned in his characteristic anti-rectilinear style. Uneven floors, organic forms, and trees growing from balconies extend his architectural argument to a smaller scale than the Hundertwasserhaus next door.

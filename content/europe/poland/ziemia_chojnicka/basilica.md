@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Chojnice's massive 14th-century Gothic parish church, now a minor basilica.
+score: 7.2
 ---
 
 The brick mass of the parish church dominates the centre of Chojnice. Construction began in the second half of the 14th century under the Teutonic Order, and the church grew steadily over the following two centuries into the substantial hall-church that stands today: three naves of equal height, a steep tile roof, and a tall west tower that doubles as a landmark visible across the surrounding fields.

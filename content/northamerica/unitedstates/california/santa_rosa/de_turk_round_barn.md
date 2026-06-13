@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A restored 1891 round barn built by a Santa Rosa winemaker for his trotting horses.
+score: 6.1
 ---
 
 Isaac De Turk made his money in Sonoma wine and spent some of it on a stable for his racehorses — a 70-foot wooden round barn, three storeys high, with a central feeding ring and stalls radiating around it like spokes. It was completed in 1891, sat derelict for decades after racing went out of fashion, and was finally restored by the city in 2012 as a community event hall.

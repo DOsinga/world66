@@ -8,6 +8,7 @@ latitude: 18.4462
 longitude: -64.7492
 story: >
   Foxy's New Year's Eve party draws thousands of sailors and yachtspeople to this tiny bay every 31 December, making Great Harbour one of the most improbable party venues on the planet. Foxy Callwood — the proprietor, guitarist, and sometime-calypso poet — built his bar from scratch in 1968 and it became famous largely by word of mouth passed among the sailing community.
+score: 7.8
 ---
 
 Foxy's Tamarind Bar in Great Harbour is the most famous bar in Jost Van Dyke and one of the most celebrated in the entire Caribbean. The proprietor, Philicianno "Foxy" Callwood, is a living legend — he plays guitar, writes calypso lyrics about his guests on the spot, and has been receiving visitors here since 1968. The walls are covered in business cards, pennants, and trinkets left by decades of passing sailors.

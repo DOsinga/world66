@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1229
 longitude: -9.7594
+score: 7.5
 ---
 
 Kilmurvey Beach is the best beach on Inis Mór — a crescent of white sand on the sheltered north side of the island, protected from the full Atlantic swell by the western headland and with clear, cold water that is swimmable on calm summer days. The beach sits below the village of Kilmurvey, a short distance east of Dún Aonghasa, making it a natural stopping point on the way to or from the fort.

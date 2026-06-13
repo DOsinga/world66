@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
 story: "The gardens were originally laid out by the actress Madame Thébault, a friend of Monet, in 1905 — she planted them with rare specimens from her travels. They were left to ruin after the First World War and lay overgrown for nearly a century before the Russian landscape architect Alexandre Grivko restored and reimagined them in 2017. The result is one of Europe's strangest contemporary gardens — a topiary fantasy of spirals, waves, and giant carved leaves above a 70-metre drop to the sea."
+score: 8.1
 ---
 
 The Jardins d'Étretat sit at the top of the eastern cliff, just beyond the Notre-Dame chapel, and are the most surprising thing in town. Seven gardens by the Russian landscape designer Alexandre Grivko cover the cliff edge — clipped topiary in extraordinary geometric shapes, contemporary sculpture, and views straight down to the Channel.

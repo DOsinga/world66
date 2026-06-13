@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.78294
 longitude: -84.10699
+score: 6.7
 ---
 
 Located at Wright-Patterson Air Force Base adjacent to the National Museum of the United States Air Force, the National Aviation Hall of Fame honours the individuals who made American aviation history. Inductees include the Wright Brothers, Charles Lindbergh, Amelia Earhart, Chuck Yeager, and Neil Armstrong, as well as engineers, designers, and test pilots less known to the general public.

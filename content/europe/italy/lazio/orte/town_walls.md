@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4607
 longitude: 12.3848
+score: 7.6
 ---
 
 Most of Orte's medieval walls survive, wrapping the upper town around the rim of the tufa cliff. Several stretches have been turned into panoramic walkways, and from the belvederes on the eastern and southern flanks the Tiber valley opens up below — vineyards and olive groves giving way to the wooded ridges of the Umbrian foothills.

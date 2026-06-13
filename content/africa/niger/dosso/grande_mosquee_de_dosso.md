@@ -9,6 +9,7 @@ latitude: 13.0477
 longitude: 3.1965
 sources:
   - https://fr.wikipedia.org/wiki/Grande_Mosqu%C3%A9e_de_Dosso
+score: 6.6
 ---
 
 The Grande Mosquee de Dosso stands opposite the Zarmakoye palace, making the town centre a tight pairing of religious and traditional authority. Its pale walls and simple massing fit the Sahelian setting, and the building is at its best in the softer light of morning or late afternoon.

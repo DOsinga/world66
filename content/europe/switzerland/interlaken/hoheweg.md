@@ -7,6 +7,7 @@ tags:
 - sight
 title: Hoheweg
 type: poi
+score: 6.9
 ---
 
 The Hoheweg is the spine of Interlaken: a wide, tree-lined boulevard running for about a kilometre between the two train stations, flanked by the grand hotels that made the town's reputation in the 19th century. The Victoria-Jungfrau, the Metropole, and a dozen others of similar vintage line the road, their white facades and ornate gables unchanged from the era when Thomas Cook brought his first package tourists here.

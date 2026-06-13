@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 44.2465
 longitude: 8.4420
+score: 6.4
 ---
 
 The main beach is a narrow strip of coarse sand and shingle tucked between the railway embankment and the sea, facing directly onto the island. It is small by Riviera standards, which keeps it from becoming overwhelmed in July and August even when the larger beaches at [Spotorno](/europe/italy/liguria/italianriviera/rivieradellepalme/spotorno) and [Pietra Ligure](/europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure) are packed.

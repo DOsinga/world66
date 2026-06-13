@@ -9,6 +9,7 @@ longitude: 23.4921
 snippet: US-accredited liberal arts university that gives Blagoevgrad its cosmopolitan character
 sources:
   - https://en.wikipedia.org/wiki/American_University_in_Bulgaria
+score: 6.6
 ---
 
 Founded in 1991 in the immediate aftermath of communism's collapse, the American University in Bulgaria is the only US-accredited liberal arts college in southeastern Europe. It occupies a campus of handsome Communist-era buildings on the northern edge of Blagoevgrad and draws students from across Bulgaria, Eastern Europe, and beyond. The presence of around 1,000 students gives the city a notably livelier and more internationally oriented atmosphere than comparable Bulgarian cities of similar size.

@@ -12,6 +12,7 @@ story: "The church began as a votive chapel built by fishermen who survived ship
   at sea offered in thanks. The bell rings at sunset every evening and, in summer,
   the square fills with people from all over the island who come for no reason other
   than to watch the light die over the Tyrrhenian."
+score: 8.4
 ---
 
 Santa Maria del Soccorso stands on a promontory at the northern end of Forio's seafront, its whitewashed walls glowing against the blue of the sea. The church dates to the 14th century but has been rebuilt and extended several times since. The location alone would make it worth visiting: the terrace in front drops sharply to the sea on three sides, and on a clear day you can see all the way to the islands of Ponza and Ventotene on the horizon.

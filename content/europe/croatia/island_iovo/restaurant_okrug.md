@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.4945
 longitude: 16.2660
+score: 4.8
 ---
 
 The restaurant strip in Okrug Gornji runs back from the beach and along the main road through the village. Most places cater to the summer beach crowd with broad menus of grilled fish, pizza, and pasta, and quality varies considerably. The best strategy is to walk a couple of streets back from the beachfront where rents are lower and the cooking tends to be more careful.

@@ -11,6 +11,7 @@ story: >
   a description that has stuck because it is accurate. 
   The sea's unusual biology results from the mixing of cold Pacific upwellings with the warm, nutrient-rich gulf waters, 
   creating conditions that support more species of marine mammals than almost any other body of water on earth.
+score: 8.9
 ---
 
 The waters around Guaymas and San Carlos offer some of the best diving in the Americas: hammerhead sharks schooling at depth, whale sharks that pass through in summer, colonies of sea lions on the offshore rocks, manta rays, enormous schools of fish, and a seafloor covered in brilliant corals and sponges. Jacques Cousteau filmed here and called the Sea of Cortez "the aquarium of the world" — a reputation the waters still deserve.

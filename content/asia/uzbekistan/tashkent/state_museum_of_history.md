@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3114
 longitude: 69.2694
+score: 8.8
 ---
 
 The country's flagship museum, founded in 1876 by the Russian colonial administration as the Turkestan Museum. The collection runs from the Stone Age through Bactrian and Sogdian civilisations to the Soviet period — vastly more substantial than the patriotic Timurid story you get at the Amir Timur Museum.

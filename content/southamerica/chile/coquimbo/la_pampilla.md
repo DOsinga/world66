@@ -6,6 +6,7 @@ tags:
 - sight
 title: La Pampilla
 type: poi
+score: 5.5
 ---
 
 La Pampilla is a broad open area best known for Coquimbo's massive Fiestas Patrias celebrations in September. For a few days, it becomes one of northern Chile's great popular gatherings, with music, food, dancing, and a fairground mood.

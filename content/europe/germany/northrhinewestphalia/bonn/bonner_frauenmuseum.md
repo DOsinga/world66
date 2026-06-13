@@ -7,6 +7,7 @@ tags:
   - museum
 title: Frauenmuseum Bonn
 type: poi
+score: 6.7
 ---
 
 The Bonn Women's Museum was founded in 1981, making it one of the first museums in Germany dedicated to women's art and history. The programme combines historical exhibitions — the history of women's work, women in medicine, women and politics — with contemporary art by women artists.

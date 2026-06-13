@@ -10,6 +10,7 @@ tags:
 - cultural_sight
 title: Marché des Femmes
 type: poi
+score: 5.2
 ---
 
 The daily women's market, also known as the Petit Marché, sits next to the main market square. Smaller and quieter than the Monday market, it is a good place to buy everyday goods and see daily life in Djenné without the crowds.

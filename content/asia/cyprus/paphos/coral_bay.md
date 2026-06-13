@@ -8,6 +8,7 @@ tags:
 latitude: 34.8538
 longitude: 32.3686
 snippet: Wide crescent of sand with calm shallow water, the best beach near Paphos
+score: 6.0
 ---
 
 A 600-metre arc of golden sand 10 kilometres north of the town, sheltered between two limestone headlands. The water shelves gently and stays calm even when the rest of the coast is rough, which is why families flock here. Loungers, pedalos and a row of beach bars line the back of the sand.

@@ -12,6 +12,7 @@ story: >
   Spaander family for decades — yet never once made the journey to visit. When he
   died, a portrait painted from his photographs was hung in the bar, where it
   remains today.
+score: 7.9
 ---
 
 Since 1881, Hotel Spaander at Haven 15–19 has occupied a prime spot on the harbour front. In its early decades it became the gathering point for the artists who flooded into Volendam looking for picturesque fisherfolk in traditional dress. Many could not afford to pay their bills; instead, they left paintings — and the hotel took them. The result is a collection of several hundred works covering the corridors, stairwells, and bar, most depicting harbour scenes, boats, and local life.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.5829
 longitude: -79.4703
+score: 6.8
 ---
 
 The beach at Nombre de Dios is the village's living room. A wide crescent of dark volcanic sand — typical of Panama's Caribbean coast — with calm water and an almost complete absence of other tourists. Fishing boats are pulled up on the shore in the morning, and the rhythm of Afro-Caribbean village life plays out around you.

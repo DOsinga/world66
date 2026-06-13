@@ -1,6 +1,7 @@
 ---
 title: "Ayala Museum"
 type: poi
+score: 8.4
 ---
 
 The Ayala Museum is Makati's most serious cultural institution and one of the best museums in the Philippines. Its centrepiece is a series of 60 detailed dioramas tracing Philippine history from the pre-colonial era through to independence — a remarkable achievement that makes the broad sweep of the nation's story accessible and engaging even for visitors with little prior knowledge. Each scene is meticulously crafted and lit, and the accompanying text is unusually well written for a museum of this type.

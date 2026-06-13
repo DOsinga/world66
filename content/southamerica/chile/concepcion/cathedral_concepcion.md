@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - religious
+score: 5.8
 ---
 
 The current Cathedral of Concepción, the Catedral de la Santísima Concepción, was built in the 1940s after the previous one collapsed in the great earthquake of 1939. It is a sober reinforced-concrete building in restrained neoclassical style — practical, designed to survive whatever the fault throws at it next.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 23.2526
 longitude: 69.6699
 snippet: "Marble-and-gold Swaminarayan temple rebuilt after the 2001 quake"
+score: 6.3
 ---
 
 The original Swaminarayan temple in Bhuj, built in 1822 and one of the earliest temples of the Swaminarayan sect, was destroyed in the 2001 earthquake. The new temple, opened in 2010 a short walk from the original site, is a vast and lavish white-marble complex with gilded domes, carved colonnades and an enormous central shikhara.

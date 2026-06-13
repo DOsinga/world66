@@ -3,6 +3,7 @@ title: "USS Arkansas"
 type: poi
 tags:
   - diving
+score: 8.7
 ---
 
 The USS Arkansas was a Wyoming-class battleship commissioned in 1912, making her one of the oldest warships in the American fleet by the time she was brought to Bikini in 1946. She was positioned close to the underwater Baker detonation and was rolled and sunk almost immediately by the blast; she now lies inverted in around 33 metres of water, making her the shallowest of the major Bikini wrecks and one of the more accessible to divers who may not have deep-wreck specialties.

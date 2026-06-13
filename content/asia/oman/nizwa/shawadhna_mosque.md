@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 A small, much-restored mosque inside the old quarter, also known as Masjid al-Qiblatayn — the Mosque of the Two Qiblas — because it has two prayer niches in its wall. One is said to date from the very early Islamic period before the qibla was reoriented from Jerusalem to Mecca, although the architectural evidence is debated.

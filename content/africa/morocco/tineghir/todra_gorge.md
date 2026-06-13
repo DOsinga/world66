@@ -14,6 +14,7 @@ story: >
   with over 150 established routes on the canyon walls.
 sources:
   - https://en.wikipedia.org/wiki/Todgha_Gorge
+score: 8.9
 ---
 
 About 15km northeast of Tineghir, the Todra River has carved a spectacular canyon through the High Atlas. The gorge narrows to a corridor barely 10 metres wide at its tightest point, with sheer ochre and rust-coloured limestone walls rising up to 300 metres on either side. A shallow stream runs through the floor, cold even in summer, and local children sell mineral water from small stalls at the entrance.

@@ -7,6 +7,7 @@ tags:
   - art
 latitude: -4.0020
 longitude: -79.2050
+score: 6.9
 ---
 
 This unusual house-museum was created by local artists who transformed an ordinary family home into a large-scale piece of environmental art, using primarily recycled and found materials. Every surface of the house — walls, ceilings, floors, courtyard — has been incorporated into the artwork. The result is a vivid, slightly chaotic, entirely genuine expression of Loja's creative community.

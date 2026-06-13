@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.6400
 longitude: 8.3700
+score: 8.4
 ---
 
 Amrum is the smallest of the three main North Frisian Islands but has some of the finest beaches — the Kniepsand, a white sand beach on the western shore, is up to 1.5km wide at low tide and one of the widest beaches in Europe. The contrast between this vast open beach and the island's small size is striking: Amrum is barely 20 square kilometres, but the beach alone could swallow most of it.

@@ -9,6 +9,7 @@ tags:
 latitude: 36.5803
 longitude: -97.0247
 story: At its peak in the 1910s the 101 Ranch covered 110,000 acres and ran a touring Wild West show that travelled across the United States and Europe, employing such legendary figures as Bill Pickett, Tom Mix and the Miller brothers themselves. The 1911 discovery of oil on the ranch lands by E.W. Marland kicked off the boom that built Ponca City.
+score: 6.8
 ---
 
 About fifteen miles south of Ponca City, on the south bank of the Salt Fork River, lie the ruined headquarters of the famous 101 Ranch. Founded by Colonel George Miller in the 1890s, the ranch at its height covered 110,000 acres and ran a hugely successful Wild West show that toured America and Europe. The 1911 oil strike on ranch land brought E.W. Marland his first fortune and put Ponca City on the map.

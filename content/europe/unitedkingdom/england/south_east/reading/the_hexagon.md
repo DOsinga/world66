@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Reading's main performing arts venue, a 1970s concrete theatre with 1,400 seats
+score: 5.9
 ---
 
 The Hexagon is Reading's principal concert hall and theatre — a large brutalist venue from 1977 that holds around 1,400 people for touring theatre productions, stand-up comedy, rock and pop concerts, and ballet. It is the venue where the bigger names come when they are passing through the Thames Valley. The programming is broad rather than adventurous, but the scale and the central location make it the most practical option for large-format entertainment in Reading.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ranch de Ngaoundaba
 type: poi
+score: 8.1
 ---
 
 The Ranch de Ngaoundaba sits on the rim of a crater lake about 40 kilometres south of Ngaoundéré on the road to Meiganga. The lodge consists of stone bungalows in landscaped gardens, a colonial-era main building with a fireplace, and a small jetty on the lake.

@@ -14,6 +14,7 @@ story: >
   the capital moved to modern Guatemala City, many residents refused to leave.
   The palace was left standing, and the defiant residents who stayed became the
   seed of today's city.
+score: 7.7
 ---
 
 The Palacio de los Capitanes Generales anchors the south side of the Plaza Mayor and is the most imposing building on the square. Built in its current form in the 1760s, its long double arcade of arches facing the plaza is a defining image of Antigua — the kind of facade that ends up on postcards and guidebook covers. For two centuries it was the seat of the colonial government that administered the entire Captaincy General of Guatemala, which at its height stretched from the Yucatán Peninsula to Costa Rica.

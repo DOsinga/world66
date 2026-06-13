@@ -12,6 +12,7 @@ story: >
   inconsistent, but when it does snow, the desert landscape far below and the clarity
   of the high-altitude air make for an unusual experience. You can see into Texas on
   a clear day from the top of the mountain.
+score: 5.9
 ---
 
 Ski Cloudcroft is a small, family-oriented ski area with three lifts and a handful of runs. It is not a serious mountain destination, but it provides genuine skiing within a few hours' drive of El Paso, Roswell, and Alamogordo. The area is best suited to beginners and families — there is a ski school and rental equipment available.

@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0095
 longitude: -34.8475
 tags: [eating_out, restaurant]
+score: 7.8
 ---
 
 Strictly in Olinda rather than Recife, but the most famous restaurant in the metropolitan area and worth the short trip. Chef César Santos cooks an inventive northeastern menu built around jerimum (pumpkin) stuffed with shrimp, fish, or meat — the signature dish has won every regional award going.

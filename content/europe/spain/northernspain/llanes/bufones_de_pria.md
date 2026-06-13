@@ -13,6 +13,7 @@ story: >
   visitors may find the sea too calm for drama.
 sources:
   - https://en.wikipedia.org/wiki/Bufones_de_Pría
+score: 8.4
 ---
 
 The Bufones de Pría are natural blowholes in the limestone cliffs about 8 km east of Llanes, where the Atlantic waves, channelled through underground caves, burst upward through holes in the rock in spectacular geysers of spray and sound. In rough weather, the effect is extraordinary — the ground trembles, the spray reaches considerable heights, and the roar of compressed air is audible from a distance.

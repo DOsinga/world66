@@ -7,6 +7,7 @@ snippet: Former rail bed turned bike and walking trail through Embrun's countrys
 tags:
 - things_to_do
 - outdoors
+score: 6.2
 ---
 
 A long recreational trail following the old branch line of the New York Central Railroad that once passed through Embrun. When the railway company folded, the municipality bought the rail bed and converted it into a bike path — a common and sensible fate for disused lines.

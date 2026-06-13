@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 6.2
 ---
 
 A small, pretty park along the south bank of the River Avon, just below the city centre. The main draw is the view: from the garden you look across the river to Pulteney Bridge and the weir, one of Bath's most photographed scenes. There are well-kept flower beds, benches, and a cafe serving decent coffee and cake.

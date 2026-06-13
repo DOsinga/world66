@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Bab Er Rih
 type: poi
+score: 7.9
 ---
 
 **Bab Er Rih** ("Gate of the Winds") is the most dramatic viewpoint in Taza's medina, set in the western part of the old city wall at the highest point of the promontory. From here the whole Taza corridor opens up below — the broad agricultural valley that made the town strategically vital for centuries, flanked by the Rif mountains to the north and the Middle Atlas to the south. The olive groves on the slopes below the medina are visible in both directions.

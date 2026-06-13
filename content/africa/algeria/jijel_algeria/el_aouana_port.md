@@ -8,6 +8,7 @@ tags:
 - sight
 - harbour
 - coast
+score: 6.1
 ---
 
 El Aouana Port sits west of Jijel on the scenic coastal road, in a small fishing and leisure harbour backed by hills. The town was historically known as Cavallo, and the area still feels like a string of coastal villages rather than a single resort.

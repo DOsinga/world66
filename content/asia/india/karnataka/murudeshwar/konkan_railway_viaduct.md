@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 14.0960
 longitude: 74.4760
+score: 6.6
 ---
 
 The Konkan Railway passes close to Murudeshwar and one of its most dramatic stretches is the sea bridge near town, where the track appears to cross open water. The railway was one of India's major engineering achievements when it opened in 1998, cutting through the Western Ghats with hundreds of tunnels and bridges along the Maharashtra and Karnataka coast.

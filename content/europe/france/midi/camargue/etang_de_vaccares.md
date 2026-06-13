@@ -12,6 +12,7 @@ story: >
   The Étang de Vaccarès was designated a nature reserve in 1928, making it one of France's earliest protected areas. The lagoon supports over 400 species of birds recorded across a single year, including greater flamingo colonies that number in the tens of thousands during peak season.
 sources:
   - https://en.wikipedia.org/wiki/Camargue
+score: 7.6
 ---
 
 The largest lagoon in the Camargue stretches across 6,500 hectares at the heart of the regional nature park, separated from the Mediterranean by a narrow strip of land. It is strictly protected — public access to the water's edge is limited to designated observation points along the western shore — but the views across the shallow lagoon are dramatic and the birdlife extraordinary.

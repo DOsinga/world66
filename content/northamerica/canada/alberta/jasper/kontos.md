@@ -6,6 +6,7 @@ tags:
 title: Kontos
 type: poi
 snippet: "Family restaurant with Greek and Ukrainian home cooking"
+score: 5.5
 ---
 
 A comfortable family restaurant specialising in Greek and Ukrainian cooking. The perogies, stuffed cabbage rolls, moussaka, and souvlaki are all good. They also do pizza, pasta, steaks, and a bargain lunch special. Corner of Hazel Avenue and Patricia Street.

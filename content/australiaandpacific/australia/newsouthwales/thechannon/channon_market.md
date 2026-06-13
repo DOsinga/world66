@@ -9,6 +9,7 @@ tags:
   - market
 story: >
   The Channon market started in 1975, when the back-to-the-land commune movement was at its peak in the Northern Rivers hinterland. It was one of the first markets of its kind in Australia, and the surrounding community — largely artists, organic farmers, and people who had moved there specifically to drop out — was its original constituency. Fifty years later the community is more settled but the market keeps the same spirit, and the oval fills with several thousand visitors on the second Sunday of every month.
+score: 7.8
 ---
 
 The Channon Craft Market is held on the second Sunday of every month on a grassy oval in the centre of the village, and it is one of the best craft markets in Australia. Several hundred stalls sell handmade goods — pottery, jewellery, leatherwork, textiles, woodwork, soaps, candles — alongside an excellent range of food: wood-fired bread, fresh produce, Indonesian street food, coffee roasted locally, and a general informality that makes it a pleasure to browse for hours.

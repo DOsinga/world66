@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.1940
 longitude: -7.4155
+score: 6.8
 ---
 
 The promenade along the Guadiana river is Vila Real's best evening walk. Lined with palms and benches, it runs south from the ferry terminal along the riverbank with Spain — and the white town of Ayamonte — directly across the water. The views across the river are best at sunset when the light catches the Spanish hillside and the fishing boats heading back toward the docks.

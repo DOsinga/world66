@@ -8,6 +8,7 @@ snippet: "Long-running record-shop café on Sturt Street — Ballarat's best esp
 address: "417 Sturt Street"
 latitude: -37.5625
 longitude: 143.8541
+score: 5.7
 ---
 
 L'Espresso has been quietly excellent since the early 1990s — a narrow, tile-floored Italian-style café on Sturt Street with a record store at the back and Ballarat's most reliable espresso at the front. The food is small (pastries, simple breakfasts, a daily lunch); the coffee is the reason to go.

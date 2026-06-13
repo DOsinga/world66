@@ -7,6 +7,7 @@ tags:
 latitude: 50.8325
 longitude: 12.9195
 snippet: Traditional Saxon cooking in a no-nonsense neighbourhood restaurant near the centre
+score: 5.9
 ---
 
 One of the more reliable places in Chemnitz for straightforward Saxon food — **Sauerbraten** with potato dumplings, roast pork knuckle, and seasonal game dishes depending on the time of year. The room is plain and honest, the portions are large, and the local beer is on draught. It gets busy at lunchtime with workers from the surrounding offices and shops.

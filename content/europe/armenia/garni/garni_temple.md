@@ -10,6 +10,7 @@ story: >
   The entire colonnade of the temple collapsed in the earthquake of June 4, 1679 — the same earthquake that destroyed much of Yerevan. The rubble lay scattered around the site for nearly three centuries until Soviet Armenian archaeologists began a systematic reconstruction in 1969, using the anastylosis method: rebuilding from original stones where they existed, supplementing with new basalt from the same local quarry where possible. About one-third of what stands today is original; the rest is reconstruction. This makes it both more and less authentic than it appears.
 sources:
   - https://en.wikipedia.org/wiki/Garni_Temple
+score: 9.1
 ---
 
 The Temple of Garni is the only standing Greco-Roman colonnaded temple in Armenia — and in the entire former Soviet Union — and it stands on the lip of a dramatic gorge with a drop of 300 metres to the Azat river. Built around 77 AD by King Tiridates I and dedicated to the sun god Mihr (the Armenian equivalent of the Persian Mithra), it is a peristyle temple in Hellenistic style: a rectangular cella surrounded by a colonnade of basalt columns on a high platform.

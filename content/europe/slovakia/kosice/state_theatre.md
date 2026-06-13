@@ -19,6 +19,7 @@ story: >
   Slovakia.
 sources:
   - https://en.wikipedia.org/wiki/National_Theatre_Ko%C5%A1ice
+score: 7.9
 ---
 
 The State Theatre Košice occupies a grand Historicist building directly across Hlavná ulica from St. Michael Chapel and St. Elisabeth Cathedral, completing the architectural grouping at the centre of the promenade. The building is visually imposing — a Neo-Baroque façade with a prominent portico, flanked by statues, and topped by a dome — and its position facing the Gothic cathedral across a broad pedestrian space creates one of the more memorable urban set-pieces in Slovakia.

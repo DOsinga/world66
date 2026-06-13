@@ -8,6 +8,7 @@ tags:
   - cafe
 address: 538 Ramona Street
 snippet: "Venezuelan-owned café and Silicon Valley deal-making hangout"
+score: 6.7
 ---
 
 The unofficial coffee-and-arepas headquarters of mid-budget Silicon Valley deal-making — open

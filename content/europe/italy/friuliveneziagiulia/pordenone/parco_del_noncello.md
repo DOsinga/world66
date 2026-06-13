@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.9580
 longitude: 12.6550
+score: 6.4
 ---
 
 The Noncello river runs through the western edge of Pordenone's historic centre, and the parks along its banks provide a pleasant counterpoint to the architectural pleasures of the corso. The riverside path is popular with cyclists and walkers, and the green spaces here — shaded by large trees — are genuinely inviting on a warm afternoon.

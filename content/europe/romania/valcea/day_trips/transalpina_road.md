@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 45.3500
 longitude: 23.6700
+score: 8.2
 ---
 
 The Transalpina (DN67C) is the highest road in Romania, crossing the Southern Carpathians at over 2,100 metres and offering views across the full width of the range on a clear day. The road passes through the Parâng Mountains west of Vâlcea county, accessible from Novaci — about 80km from Râmnicu Vâlcea. The upper section is open from roughly June to October depending on snowfall.

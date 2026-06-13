@@ -8,6 +8,7 @@ story: "Niemeyer designed the plaza specifically so that no single building domi
 tags:
 - things_to_do
 - landmark
+score: 8.8
 ---
 
 The Praça dos Três Poderes is the ceremonial heart of the Brazilian federation. Three of Niemeyer's most important buildings sit on it — the [National Congress](/southamerica/brazil/brasilia/national_congress) (legislative) to the west, the [Planalto Palace](/southamerica/brazil/brasilia/palacio_do_planalto) (executive) to the north, and the [Supreme Federal Court](/southamerica/brazil/brasilia/supreme_court) (judicial) to the south.

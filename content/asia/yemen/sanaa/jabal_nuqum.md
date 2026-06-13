@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The mountain east of the city with the best view of Sana'a
+score: 7.9
 ---
 
 Jabal Nuqum is the rocky mountain that rises immediately east of the old city — a 2,892-metre peak that has loomed over Sana'a for as long as the city has existed and traditionally formed a defensive backdrop on its exposed eastern flank. The slopes are dotted with watchtowers and ruined fortifications, and a series of footpaths leads up from the city to the summit.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Vake Park
 type: poi
+score: 6.6
 ---
 
 Vake Park is the main green space of western Tbilisi, a large forested park on the hillside above the Vake district that serves as the city's de facto outdoor living room. The park has wide paths, a lake with paddle boats, an open-air amphitheatre, and the Eternal Flame war memorial at its entrance.

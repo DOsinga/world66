@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The collection draws on private owners across Virginia and West Virginia. Many of the machines are restored to playable condition by the museum's own technicians, who do their work in a glassed-in workshop visible to visitors — a glimpse of the increasingly specialised business of keeping 1960s electro-mechanical pinball running."
+score: 6.8
 ---
 
 The Roanoke Pinball Museum is on the lower level of Center in the Square, with around fifty playable pinball machines spanning the 1930s woodrail era through to modern Stern releases. Admission gets you unlimited play on every machine in the museum.

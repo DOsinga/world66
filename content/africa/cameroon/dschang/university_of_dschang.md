@@ -8,6 +8,7 @@ latitude: 5.45
 longitude: 10.066
 story: >
   The University of Dschang was founded in 1977 on the site of the former Dschang Agricultural School, and its agricultural and environmental science departments remain among the strongest in Cameroon. The university's position in the western highlands — surrounded by the farmland, forests, and ecological challenges of one of Cameroon's most intensively farmed regions — gives its research programmes a practical urgency that shapes the campus culture.
+score: 7.1
 ---
 
 The University of Dschang is the town's defining institution — a campus of some 25,000 students that gives this hill station the intellectual energy of a university town and sustains a market, restaurant scene, and social life well beyond what a town of its size would otherwise support. The campus itself is substantial, set on the hillside above the town centre with views over the surrounding highlands.

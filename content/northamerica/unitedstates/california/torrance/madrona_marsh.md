@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8336
 longitude: -118.3603
+score: 7.5
 ---
 
 Madrona Marsh is a 43-acre vernal freshwater wetland preserve at the corner of Plaza del Amo and Madrona, a small remnant of the seasonal marshes that once covered much of the LA basin. It is one of the last surviving vernal pool habitats in southern California — flooded in winter and spring, dry by late summer.

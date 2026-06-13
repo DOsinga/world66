@@ -9,6 +9,7 @@ tags:
 latitude: 42.1085
 longitude: -8.3260
 story: "Some of the pesqueiras in the Arbo stretch of the Miño are documented in 12th-century monastic records, when fishing rights were granted by the local lords to the abbey of Melón. They have been continuously rebuilt and re-used by the same families ever since — one of the oldest unbroken traditions of food production in Europe."
+score: 8.6
 ---
 
 The pesqueiras are the most extraordinary cultural object in Arbo: V-shaped stone walls built right out into the current of the Miño, designed to funnel migrating fish into wooden boxes or conical nets at their narrowest point. There are dozens of them in the river around Arbo, some isolated, others arranged in long lines, all of them dating in their basic form from the Middle Ages.

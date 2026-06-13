@@ -8,6 +8,7 @@ tags:
 latitude: 32.3338
 longitude: 35.7470
 snippet: Walking through centuries-old olive orchards in the Ajlun hills
+score: 6.7
 ---
 
 The hills around Ajlun are covered in olive orchards, many of them centuries old — gnarly, low-spreading trees with trunks like twisted rope. Walking through them, especially in October during the harvest, is one of the quieter pleasures of the area. Families spread nets under the trees and beat the branches with long poles; the air smells of crushed olives and woodsmoke.

@@ -7,6 +7,7 @@ snippet: The city park along the Fyris, with a summer outdoor stage
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The Stadsträdgården is Uppsala's main city park, stretching along the eastern bank of the Fyris River just south of the centre. Originally laid out in 1860 as an English-style landscape garden, it remains the daily green space where students sprawl on the grass between lectures and families bring kids to the playground.

@@ -7,6 +7,7 @@ tags:
 latitude: 43.3993
 longitude: -70.4367
 snippet: Long sandy beach on the north shore, the quietest and most scenic of the local beaches
+score: 7.9
 ---
 
 Goose Rocks Beach is a long, sandy barrier beach on the north shore of the cape, about 5 km from Dock Square. It's consistently the least crowded of Kennebunkport's beaches — partly because it requires a paid parking sticker in season and partly because it's slightly further from the town centre. The beach itself is wide and clean, with views across Goose Rocks Passage to the offshore islands.

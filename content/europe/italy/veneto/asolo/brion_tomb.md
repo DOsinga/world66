@@ -12,6 +12,7 @@ story: >
   Carlo Scarpa worked on the Brion Tomb from 1969 until his death in 1978, and never saw it completed. He designed every detail — the water channels, the interlocking concrete rings, the angle of light falling through a slit onto the double tomb of Onorina and Giuseppe Brion — with a precision that borders on the obsessive. He was buried there himself in 1978, in a small sarcophagus he had designed for the purpose.
 sources:
   - https://en.wikipedia.org/wiki/Brion_tomb
+score: 9.0
 ---
 
 In the village cemetery of San Vito d'Altivole, four kilometres south of Asolo, Carlo Scarpa designed a burial complex for the Brion family between 1969 and 1978 that has become a pilgrimage site for architects from around the world. The complex occupies an L-shaped garden adjoining the ordinary municipal cemetery and comprises several linked structures: a grass-covered arcosolio sheltering the double tomb, a meditation pavilion rising from a pool, a small chapel, and a propylaea entrance gate.

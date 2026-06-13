@@ -7,6 +7,7 @@ tags:
   - sight
 title: Hotel California
 type: poi
+score: 5.6
 ---
 
 Todos Santos has one famous tourist attraction that its residents view with a mixture of amusement and resignation: the Hotel California, a colonial-era building that has been marketed as the inspiration for the Eagles song of the same name. The claim is almost certainly false — the band always disputed any connection to the town — but the hotel has embraced the mythology with good humour, and the bar and restaurant are worth a visit regardless of the song.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.9180
 longitude: -78.8738
 snippet: Buffalo's liveliest neighbourhood strip, walkable and full of independent shops
+score: 8.1
 ---
 
 Elmwood Village is the twenty-block stretch of Elmwood Avenue between Allen Street and Forest Avenue — the most consistently lively and walkable part of Buffalo. The strip has independent restaurants, record shops, bookstores, coffee houses, and bars packed close enough together that you can spend an afternoon wandering without a plan.

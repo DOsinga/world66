@@ -7,6 +7,7 @@ tags:
 title: The George Hotel
 type: poi
 snippet: "Old Town pub on Land of Green Ginger, with England's smallest window facing the courtyard"
+score: 6.6
 ---
 
 The George stands on Land of Green Ginger and dates back to the 1700s. Its main claim to fame is a tiny postcard-sized window beside the courtyard entrance, sometimes promoted as England's smallest window — once used by an ostler to keep an eye out for guests arriving by coach. The interior is wood-panelled and intimate, with a small snug and an upstairs dining room.

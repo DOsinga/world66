@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6700
 longitude: 116.9900
+score: 7.4
 ---
 
 The Qihulin villa district, north of the main spring area, contains the most concentrated collection of early twentieth-century Western-style villas in Jinan — residences built for German, British, and other foreign traders and officials during the treaty port era. The houses are set in walled gardens along tree-lined streets, creating an atmosphere that has more in common with a German spa town than with modern Jinan.

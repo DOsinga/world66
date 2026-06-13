@@ -8,6 +8,7 @@ address: Calle Tundidores 3
 latitude: 37.8824
 longitude: -4.7724
 snippet: Oldest restaurant in Córdoba, open since 1879
+score: 7.0
 ---
 
 One of Córdoba's most reliable old-school restaurants, operating since 1879 in a traditional Andalusian house with a vine-covered patio. The menu runs through all the Cordoban classics — salmorejo, rabo de toro, berenjenas con miel — as well as grilled fish and regional stews. Portions are generous and prices fair for the quality.

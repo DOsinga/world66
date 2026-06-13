@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 46.117
 longitude: -74.604
+score: 6.2
 ---
 
 Saint-Arnould is a well-regarded microbrewery based in Mont-Tremblant proper (the town, not the resort), about 10 km from the ski village. The brewery produces a range of ales and lagers inspired by Belgian and Québécois brewing traditions, and the taproom serves flights alongside a food menu of burgers, sausages, and other pub staples.

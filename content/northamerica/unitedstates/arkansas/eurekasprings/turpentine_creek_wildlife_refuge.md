@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 36.3527
 longitude: -93.7167
+score: 7.8
 ---
 
 Turpentine Creek Wildlife Refuge is a large-cat sanctuary in the Ozark hills south of Eureka Springs, caring for tigers, lions, cougars, leopards, and other big cats rescued from illegal captivity, roadside zoos, and abusive situations. The refuge takes in animals that have no prospect of reintroduction to the wild and provides them with permanent naturalistic habitats. It is one of the larger accredited big cat sanctuaries in the United States.

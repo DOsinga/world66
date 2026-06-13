@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sandhammaren
 type: poi
+score: 8.3
 ---
 
 Sandhammaren, about 25 kilometres east of Ystad past Kåseberga, is regularly voted the best beach in Sweden: an unbroken stretch of fine white sand backed by tall dunes and pine forest. The water is clear by Baltic standards and shallow for a long way out. The beach is part of a nature reserve, with marked paths through the dunes.

@@ -10,6 +10,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Gonarezhou_National_Park
   - https://www.birdlifezimbabwe.org/gonarezhou-national-park/
+score: 4.4
 ---
 
 Where the Runde River finally meets the Save, the landscape opens into something different from the rest of Gonarezhou — a broad floodplain interspersed with lily-covered pans, groves of stately old baobabs, and stands of mahogany, ironwood, and winterthorn. This is the lowest point in Zimbabwe, and the flat, well-watered terrain supports a different assemblage of wildlife and birds from the mopane and sandstone country upstream.

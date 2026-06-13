@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9700
 longitude: 100.9100
+score: 5.3
 ---
 
 A short drive north of Jomtien is Mini Siam, a sprawling open-air park of miniature versions of famous monuments. The Thai side has scale models of Wat Arun, the Grand Palace, the Bridge over the River Kwai, the Sukhothai temples and others; the "Mini Europe" half adds Big Ben, the Eiffel Tower, the Acropolis and Tower Bridge.

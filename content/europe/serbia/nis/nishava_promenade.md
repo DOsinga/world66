@@ -6,6 +6,7 @@ tags:
   - sight
 title: Nišava Promenade
 type: poi
+score: 6.0
 ---
 
 The Nišava river runs through the heart of Niš, and the promenade along its banks — particularly the stretch between the fortress and the city centre — is where the city does its daily walking, cycling, and socialising. In the evenings the riverfront cafes and bars fill up, strung with lights reflecting in the slow green water. On summer weekends it has real energy.

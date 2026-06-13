@@ -9,6 +9,7 @@ phone: "+39 081 764 9873"
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 On the Nazario Sauro seafront, Rosolino serves Italian and seafood dishes in a setting that verges on nightclub. Homemade pasta, fresh vegetables, grilled fish. Live entertainment most evenings. Reservations required.

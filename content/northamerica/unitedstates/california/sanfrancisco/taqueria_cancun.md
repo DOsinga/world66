@@ -13,6 +13,7 @@ tags:
 - mission_district
 title: Taqueria Cancun
 type: poi
+score: 7.5
 ---
 
 There are two Cancun locations -- one in the Mission near 20th and Mission Street and another at 6th and Market downtown. Both serve the same fantastic Mexican food at rock-bottom prices. For less than five dollars you can wrap your hands around a super burrito with your choice of meat and a basket of chips with homemade salsas. The pollo asado (grilled chicken) is highly recommended in taco, burrito, or quesadilla form.

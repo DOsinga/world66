@@ -8,6 +8,7 @@ tags:
 - sight
 title: Napa Valley
 type: poi
+score: 8.2
 ---
 
 Napa Valley is one of the Bay Area stops that explains why this region keeps pulling visitors back. It works best when you give it time rather than treating it as a quick photo stop; the setting, history, and surrounding neighborhoods are part of the point.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mausoleum_of_Aga_Khan
 story: >
   Aga Khan III so loved Aswan that he wintered there every year. When he died in 1957, his wife — known as the Begum — had him buried on the hilltop with a view across the Nile that he had never tired of. For years after his death, she continued to place a single red rose on his tomb every day, and the ritual was maintained by staff after her death.
+score: 6.7
 ---
 
 The Mausoleum of Aga Khan III stands on a hilltop on the west bank of the Nile, visible from the Aswan corniche across the water. Sir Sultan Muhammad Shah, Aga Khan III, was the 48th Imam of the Shia Ismaili Muslims and spent his winters in Aswan for decades. His tomb, completed in 1960, is built of Aswan rose granite in a style that blends Fatimid and Mughal influences.

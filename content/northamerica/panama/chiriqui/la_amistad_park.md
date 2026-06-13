@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.1
 ---
 
 La Amistad — Friendship — is the largest protected area in Central America, straddling the Panama-Costa Rica border at over 4,000 square kilometres and recognised by UNESCO as a World Heritage Site. The Panamanian side is administered from the ranger station at Las Nubes, twelve kilometres above Cerro Punta.

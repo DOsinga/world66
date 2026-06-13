@@ -17,6 +17,7 @@ story: >
   partly to mask the fire damage to the original Romanesque portal.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_Ciutadella_de_Menorca
+score: 7.6
 ---
 
 The Cathedral of Santa Maria de Ciutadella is a Gothic church of real quality, particularly in the proportions of its single nave — an unusually wide and lofty space that gives the interior a feeling of openness not typical of Gothic architecture. The side chapels along both walls accumulate the religious art and family monuments of Menorca's aristocracy over six centuries; the overall impression is of a church that has been deeply inhabited by a community for a long time.

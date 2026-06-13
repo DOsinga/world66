@@ -7,6 +7,7 @@ tags:
 - sight
 title: Iglesia de San Mateo
 type: poi
+score: 7.4
 ---
 
 Tarifa's main church sits at the upper end of Calle Sancho IV el Bravo, the spine of the old town. The building was begun in the early sixteenth century on the site of the principal mosque, and the Mudéjar carpenters who worked on the ceiling left it visibly Islamic in geometry — a coffered timber roof of interlocking stars and crescents over a Gothic stone hall.

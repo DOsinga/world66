@@ -11,6 +11,7 @@ story: >
   The two massive domes of the nave are among the earliest examples of Romanesque domed architecture in France — they predate the more famous domed churches of Périgueux and predate most of the great Gothic cathedrals of the north. The cloister, added in the 14th century, contains an extraordinary carved doorway from an earlier Romanesque church that was incorporated whole into the new structure.
 sources:
   - https://en.wikipedia.org/wiki/Cahors_Cathedral
+score: 8.8
 ---
 
 The Cathedral of Saint-Étienne is one of the most imposing Romanesque churches in southwest France. The façade, facing the main square, is relatively plain — but the interior reveals two enormous domes covering the nave, each 18 metres in diameter, flooding the space with light in a way that Gothic structures do not. The cathedral dates from the 12th century, with later Gothic additions in the choir and the 14th-century cloister.

@@ -7,6 +7,7 @@ tags:
 latitude: 51.111
 longitude: 17.0357
 address: "Kuźnicza 48, 50-138 Wrocław"
+score: 6.4
 ---
 
 A classic communist-era milk bar — bar mleczny — serving subsidised cheap Polish home cooking in a no-frills cafeteria setting. Pierogi, naleśniki (pancakes), żurek soup, kompot, a full plate of food for less than ten zlotys. Order at the counter, take a number, find a table.

@@ -15,6 +15,7 @@ story: >
   inadvertent archive of a changing landscape.
 sources:
   - https://en.wikipedia.org/wiki/Roni_Horn
+score: 8.1
 ---
 
 The Library of Water occupies the old town library building on the hill above Stykkishólmur's harbour — a prominent white structure visible from most of the town. American artist Roni Horn installed the permanent work here in 2007: twenty-four tall glass columns, floor to ceiling, filled with water drawn from Icelandic glaciers. The light through the glass columns shifts as weather and time change outside, and the effect is simultaneously minimal and strange.

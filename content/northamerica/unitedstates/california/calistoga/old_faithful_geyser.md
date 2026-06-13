@@ -10,6 +10,7 @@ latitude: 38.6065
 longitude: -122.5996
 sources:
   - https://en.wikipedia.org/wiki/Calistoga,_California
+score: 6.7
 ---
 
 One of only a handful of geysers in the world with a reliably predictable eruption cycle, the Old Faithful Geyser of California shoots a column of 135-degree water roughly 18 metres into the air at intervals of about 30 minutes. The geyser taps into the same geothermal system that feeds Calistoga's famous hot springs, and the eruptions are a satisfying spectacle even on a cool day, with billowing clouds of steam rising from the hillside.

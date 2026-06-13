@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.1227
 longitude: 13.3471
+score: 8.0
 ---
 
 La Cuba, like La Zisa, is a surviving fragment of the Norman royal pleasure-garden complex that once stretched along the coast west of the city. Built in 1180 for William II, it was originally an island pavilion in a large artificial lake — the water gone now, but the rectangular block of pale stone still standing among the modern barracks that occupy the rest of the site.

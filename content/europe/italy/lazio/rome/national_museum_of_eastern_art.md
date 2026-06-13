@@ -11,6 +11,7 @@ tags:
 - museum
 title: National Museum of Eastern Art
 type: poi
+score: 6.3
 ---
 
 Officially the Museo Nazionale d'Arte Orientale "Giuseppe Tucci," this collection spans millennia of art and archaeology from Iran, Tibet, Nepal, China, Japan, and Southeast Asia. Housed in the Palazzo Brancaccio near the Esquiline Hill, it holds around 25,000 objects — Gandharan Buddhist sculptures, Luristan bronzes, Islamic ceramics, and a particularly strong collection of Tibetan thangka paintings.

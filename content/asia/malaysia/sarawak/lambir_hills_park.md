@@ -8,6 +8,7 @@ tags:
   - national_park
 latitude: 4.2000
 longitude: 114.0333
+score: 6.8
 ---
 
 A small national park half an hour south of Miri that is, in scientific terms, one of the most biodiverse plots on earth — researchers from the Smithsonian and the Harvard Arnold Arboretum have catalogued over 1,100 tree species in 52 hectares, more than in the whole of North America combined. Visitors don't see the science, but they do see the dense lowland mixed dipterocarp rainforest that supports it.

@@ -6,6 +6,7 @@ tags:
   - bars_and_cafes
 title: The Boardwalk
 type: poi
+score: 5.4
 ---
 
 A beachfront bar at the northern end of Diani with a large raised deck over the sand. It is a good spot for sundowners, catching the last of the light as the sun drops behind the casuarina trees. The drink list covers the standard range — Tusker on draft, cocktails, wine — and the kitchen produces snacks and light meals throughout the day.

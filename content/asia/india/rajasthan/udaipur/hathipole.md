@@ -6,6 +6,7 @@ longitude: 73.6878
 tags:
   - things_to_do
   - neighbourhood
+score: 6.1
 ---
 
 The "elephant gate" once led the maharana's processions out of the old city to the north; today **Hathipole** is the name of the busy shopping district that runs along the road outside it. Saris, jewellery, silver, mojari shoes, and tailored kurta-pyjamas can all be bought here for less than half what you would pay in the tourist lanes of Lal Ghat.

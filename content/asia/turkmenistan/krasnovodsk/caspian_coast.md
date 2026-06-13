@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.005
 longitude: 52.98
+score: 6.9
 ---
 
 The Caspian Sea comes as a genuine surprise after crossing the Central Asian desert. It is wide, calm, and a deep blue that seems improbable in this dry landscape. The coast near Krasnovodsk is almost entirely untouched by tourism — you can walk the shoreline in either direction without encountering another visitor. In the evening, the mountains behind the city cast long shadows over the port and the water takes on an orange tint.

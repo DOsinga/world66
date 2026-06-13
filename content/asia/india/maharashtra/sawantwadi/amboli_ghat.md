@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.9667
 longitude: 74.0
+score: 7.6
 ---
 
 Amboli is a small hill station in the Western Ghats about 30 km northeast of Sawantwadi, sitting at the top of the Amboli Ghat pass at around 690 metres. The surrounding forest is part of a globally recognized biodiversity hotspot — Amboli and the surrounding Sahyadri hills support an extraordinary number of endemic species of reptiles, amphibians, birds, and insects, many found nowhere else on earth.

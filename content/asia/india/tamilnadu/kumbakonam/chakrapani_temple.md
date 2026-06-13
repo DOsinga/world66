@@ -8,6 +8,7 @@ tags:
 - sight
 - temple
 snippet: "Vishnu temple where the deity is worshipped in the form of the discus"
+score: 7.0
 ---
 
 A rare temple in which Vishnu is worshipped not in human form but as the **chakra**, his discus weapon. The presiding image is an eight-armed disc held against a stone backdrop, an iconographic form found in very few places in India.

@@ -10,6 +10,7 @@ tags:
 - sight
 title: Pokrovsky Chamber Musical Theatre
 type: poi
+score: 7.8
 ---
 
 Founded by Boris Pokrovsky in 1972, this small theatre has built a devoted following by staging operas that the big houses ignore. The repertoire skips the warhorses in favour of rarely performed works by well-known composers -- Shostakovich's "The Nose," Salieri's "First the Music, Then the Words," and rediscovered Baroque pieces that would otherwise gather dust.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.27
 longitude: 2.37
+score: 5.8
 ---
 
 Tapoa is the park headquarters on the Niger side, the only place inside the park with accommodation and ranger services. The camp is basic — bungalows, a small canteen, and no air conditioning — but it is well-positioned for early morning game drives and evening walks along the nearby watercourse.

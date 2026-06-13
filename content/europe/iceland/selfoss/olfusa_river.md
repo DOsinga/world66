@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ölfusá River
 type: poi
+score: 5.9
 ---
 
 The Ölfusá is Iceland's most voluminous river by water flow, the outflow of the enormous Þórsa and Hvítá river systems. It runs through the centre of Selfoss, and the old suspension bridge over it — built in 1891 — was the longest bridge in Iceland when it was erected.

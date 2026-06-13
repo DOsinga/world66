@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.5843
 longitude: 12.179
+score: 5.4
 ---
 
 The Kaiserbad is Kufstein's main public swimming and spa complex, located on the eastern edge of the old town between the Inn River and the Weissache stream. It includes both indoor and outdoor pools, a sauna and wellness area, and a large outdoor sunbathing lawn. The outdoor pool is open from May to September; the indoor facilities run year-round.

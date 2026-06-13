@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.2728
 longitude: 146.3917
+score: 6.8
 ---
 
 The Hazelwood open-cut coal mine, just south of Morwell, was one of the largest open-cut mines in the world during its operational life — a crater-like excavation stretching several kilometres and reaching more than 100 metres below sea level. The mine closed in 2017 and is now being rehabilitated, but the sheer scale of what was carved out of the Latrobe Valley floor remains arresting from the public lookout on Brodribb Road.

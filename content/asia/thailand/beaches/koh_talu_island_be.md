@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
 snippet: Quiet Gulf island near Bang Saphan, good for snorkelling and seafood
+score: 7.7
 ---
 
 Koh Talu is a small island in the Gulf of Thailand, off the coast near Bang Saphan and Ban Krut on the Sunrise Coast. There's no nightlife and no shopping — this is a place for lazing on the beach, snorkelling, kayaking and eating Thai seafood.

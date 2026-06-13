@@ -7,6 +7,7 @@ tags:
 latitude: 53.2032
 longitude: 5.7903
 story: "Us Mem means 'our mother' in Frisian. The cow celebrates the famous Frisian Holstein dairy breed, which originated on these polders and was exported worldwide; the sculptor Gerard Bruning unveiled it in 1954."
+score: 5.0
 ---
 
 Standing in the square at the foot of the Oldehove, Us Mem is a life-sized bronze cow on a low plinth — and one of the most photographed monuments in the Netherlands. Frisian Holsteins, with their distinctive black-and-white pattern, are the world's most productive dairy breed and a source of regional pride. Us Mem stands as a deliberately understated tribute.

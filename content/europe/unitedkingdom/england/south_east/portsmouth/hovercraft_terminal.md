@@ -9,6 +9,7 @@ tags:
   - southsea
 neighbourhood: Southsea
 story: "Portsmouth to Ryde is the world's only year-round commercial hovercraft passenger service. The route has been operating continuously since 1965 — older than the Eurostar, the Channel Tunnel, and even most modern aircraft. The crossing takes ten minutes, regardless of tides."
+score: 6.8
 ---
 
 Tucked at the western end of Southsea Common is the world's longest-running passenger hovercraft service. Hovertravel runs a craft about every half hour across to Ryde on the Isle of Wight, ten minutes each way over the shallow Solent.

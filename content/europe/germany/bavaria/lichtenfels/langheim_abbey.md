@@ -8,6 +8,7 @@ latitude: 50.1122
 longitude: 11.11
 story: >
   Langheim was one of the great medieval Cistercian houses of Franconia, founded in 1132 and reaching its peak in the 13th and 14th centuries when it controlled vast lands across the region. Secularised in 1803 like Banz, it was largely demolished for building materials in the following decades. What remains — the gatehouse and some walls — was enough for the village of Klosterlangheim to develop its own Cistercian trail through the landscape, pointing out where the church, cloister, and grange buildings once stood.
+score: 6.6
 ---
 
 The ruins of Langheim Abbey, a Cistercian monastery founded in 1132, lie in the village of Klosterlangheim about 5 km east of Lichtenfels. The monastery was once one of the wealthiest and most influential in Franconia, with a church larger than many cathedrals. Secularised in 1803, it was subsequently dismantled and the stone reused for local building projects; today only the gatehouse and some walls survive.

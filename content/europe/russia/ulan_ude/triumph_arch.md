@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8326
 longitude: 107.5825
+score: 5.6
 ---
 
 The Tsar Gates are a reconstruction of the triumphal arch built in 1891 to greet the future Tsar Nicholas II as he passed through Verkhneudinsk (the original name of Ulan-Ude) on his great eastern tour. The original gate was demolished by the Bolsheviks; the modern copy was put up in 2006.

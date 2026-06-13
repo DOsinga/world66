@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.0
 ---
 
 The **Taman Tasik Taiping** are Malaysia's oldest public gardens, laid out in 1880 on the flooded workings of an old open-cast tin mine. The grounds cover 64 hectares and include ten lakes, lawns, formal flower beds, and several long avenues of rain trees that arch across the road and meet in the centre — one of the most photographed sights in northern Malaysia.

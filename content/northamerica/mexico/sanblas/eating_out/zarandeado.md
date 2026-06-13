@@ -8,6 +8,7 @@ tags:
   - restaurant
   - seafood
 snippet: The local dish — whole fish grilled over wood — at the open-air restaurants near the marina
+score: 6.6
 ---
 
 Pescado zarandeado is the definitive dish of the Nayarit coast and San Blas is one of its natural homes. The preparation is simple: a whole fresh fish (typically red snapper or mullet) is butterflied open, marinated in a mixture of chilli, garlic, citrus, and Worcestershire sauce, then grilled flat over a wood fire on a wire zarandeo frame. The result is smoky, slightly charred, and juicy.

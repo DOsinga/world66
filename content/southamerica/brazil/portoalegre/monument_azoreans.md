@@ -7,6 +7,7 @@ tags:
 - sight
 title: Monument to the Azoreans
 type: poi
+score: 4.8
 ---
 
 The Monumento ao Expedicionário Açoriano stands in a small square south of the city centre and commemorates the Azorean settlers who founded Porto Alegre in 1772. The monument — a group of bronze figures representing the original colonising families who came from the Portuguese Azores archipelago — is one of the clearer reminders that Porto Alegre's European identity predates the German and Italian immigration waves of the 19th century by a full century. The Azorean founders came with their fishing and farming traditions, their particular Portuguese dialect, and their saints, and they established the settlement that would eventually become a city of four million.

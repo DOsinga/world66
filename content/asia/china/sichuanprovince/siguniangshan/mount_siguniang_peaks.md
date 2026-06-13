@@ -8,6 +8,7 @@ latitude: 31.0717
 longitude: 102.8950
 story: >
   The four peaks are named after sisters in a local Qiang and Tibetan legend — four daughters of a deity who turned to stone while guarding the mountain from invaders. The tallest, Yaomei ("Youngest Sister"), reaches 6,250 metres and is technically one of China's more serious mountaineering objectives, with very few permitted ascents per year. The three shorter sisters, by contrast, can be seen clearly from the valley floors below.
+score: 8.1
 ---
 
 The four peaks of Siguniang Mountain — Dafeng, Erfeng, Sanfeng, and Yaomei — form the defining skyline of the national park. Yaomei, the highest at 6,250 metres, is a serious technical climb accessible only by permitted expedition teams. The three lower peaks, ranging from 5,355 to 5,664 metres, are visible from various points in Shuangqiao and Changping valleys and form the backdrop to the most iconic photographs taken in the park.

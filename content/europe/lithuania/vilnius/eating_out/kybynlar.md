@@ -9,6 +9,7 @@ tags:
   - restaurant
   - old_town
 neighbourhood: Old Town
+score: 6.9
 ---
 
 The Karaites are a Turkic ethnic group brought to Trakai by Grand Duke Vytautas in the 14th century as personal bodyguards. Their signature dish, **kibinai** (singular: kibinas), is a half-moon pastry filled with spiced lamb or mutton, the closest thing Lithuania has to a national snack food. Kybynlar on Stiklių Street is one of the few places in Vilnius to eat them well — most visitors encounter kibinai first in Trakai, the Karaite heartland 30 km away.

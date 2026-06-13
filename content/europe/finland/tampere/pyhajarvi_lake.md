@@ -7,6 +7,7 @@ tags:
   - lake
 latitude: 61.4750
 longitude: 23.7500
+score: 7.4
 ---
 
 Lake Pyhäjärvi is Tampere's southern lake, smaller than Näsijärvi but with excellent swimming beaches and more accessible shoreline close to the centre. The Pyynikki beach on the lake's north shore is the most popular city beach, with a traditional wooden changing house and clean water. The Rauhaniemi beach on the northeast shore is another good option and has a public sauna right on the waterfront — one of Tampere's beloved traditions.

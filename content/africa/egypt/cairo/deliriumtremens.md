@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Delirium Tremens
 type: poi
+score: 4.3
 ---
 
 An Indian restaurant in Maadi with live music most evenings and occasional themed nights at weekends. Popular with the expat crowd in this leafy Cairo suburb, it's a reliable option for a night out that combines decent food with entertainment.

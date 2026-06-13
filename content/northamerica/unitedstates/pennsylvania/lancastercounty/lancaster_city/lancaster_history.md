@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.0408
 longitude: -76.3470
+score: 7.9
 ---
 
 The LancasterHistory campus sits next to Wheatland on Marietta Avenue and combines a serious local history museum, archives, and the Tanger Arboretum on its grounds. The main galleries trace the county from its Susquehannock Indian past through the Conestoga wagon era to the rise of Lancaster as an industrial city.

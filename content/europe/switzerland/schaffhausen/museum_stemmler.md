@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.6958
 longitude: 8.6345
+score: 7.0
 ---
 
 Museum Stemmler is a remarkable private collection of taxidermied animals assembled over decades by a peltmonger who became an increasingly committed animal welfare advocate. The tension in that biography is reflected in the collection itself: the craftsmanship of the mounted specimens is exceptional, but the surrounding documentation makes clear the collector's evolving discomfort with the trade that funded it. It functions as a curiosity cabinet with a conscience.

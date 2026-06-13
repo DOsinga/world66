@@ -8,6 +8,7 @@ longitude: -3.8021
 tags:
   - bars_and_cafes
   - bar
+score: 5.6
 ---
 
 A former coaching inn opposite the church, the Royal Oak has been at the centre of Betws-y-Coed since the days when the Holyhead road ran through to the Irish packets. The wood-panelled bar still does a brisk evening trade in walkers, climbers and locals. Beers are decent and the food keeps reasonable hours by village standards.

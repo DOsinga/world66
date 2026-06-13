@@ -8,6 +8,7 @@ tags:
   - cafe
   - blloku
 neighbourhood: Blloku
+score: 5.7
 ---
 
 A bright daytime café in Blloku run by the same team as the better-known Komiteti Kafe Muzeum. Strong Albanian coffee, fresh bureks, and the city's best small-batch raki by the glass. Open from breakfast until late afternoon.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Estuarium
 type: poi
+score: 6.9
 ---
 
 The Estuarium is a small but well-designed public aquarium operated by the Dauphin Island Sea Lab, Alabama's primary marine research institution. The exhibits focus on the four ecosystems that define coastal Alabama: the Mobile-Tensaw Delta (one of the most biologically diverse river systems in North America), the Mobile Bay estuary, the barrier islands, and the open Gulf of Mexico. Each habitat is represented by live animals in tanks designed to reflect actual conditions.

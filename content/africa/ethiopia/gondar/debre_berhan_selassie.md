@@ -9,6 +9,7 @@ latitude: 12.6160
 longitude: 37.4770
 sources:
   - https://en.wikipedia.org/wiki/Debre_Berhan_Selassie
+score: 9.2
 ---
 
 The Church of Debre Berhan Selassie — "Trinity at the Mountain of Light" — is the most celebrated example of Gondarene ecclesiastical painting and one of the most beautiful interiors in Ethiopia. Built in the late 17th century under Emperor Iyasu I and reconstructed after an earlier church on the site was destroyed by lightning, it sits in a walled compound about 1.5km northeast of the Royal Enclosure.

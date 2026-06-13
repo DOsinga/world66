@@ -13,6 +13,7 @@ story: >
   still have fences made from whale bones — jaw bones of sperm whales set upright in the ground, 
   a practice that was once common across the East Frisian Islands as whalers brought trophies 
   home from the North Atlantic and Arctic.
+score: 7.6
 ---
 
 The Old Lighthouse is a squat, square tower that predates the Dutch golden age and has outlasted empires. Built in 1576, it served as the island's sole navigational light for three centuries before the newer, taller lighthouse took over. Today it stands in the middle of Borkum's old whaling quarter, surrounded by historic houses — several of which still have fences built from whale bones, a striking reminder of the industry that once defined island life here.

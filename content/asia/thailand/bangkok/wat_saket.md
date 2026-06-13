@@ -7,6 +7,7 @@ tags:
 - temple
 title: Wat Saket
 type: poi
+score: 8.1
 ---
 
 The Golden Mount is an artificial hill topped by a gilded pagoda, rising 80 metres above the old city. Built during the reigns of Rama III and IV, it remains one of Bangkok's most recognizable landmarks. The climb to the top — up a winding staircase lined with bells, ferns, and small shrines — rewards you with a panoramic view across the rooftops all the way to the Chao Phraya. Admission 50 baht.

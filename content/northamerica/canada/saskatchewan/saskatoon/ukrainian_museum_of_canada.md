@@ -13,6 +13,7 @@ story: >
   Ukrainian steppe being nearly identical to the prairie earth they would work here. 
   Their cultural imprint on Saskatchewan remains profound: you'll find Ukrainian Catholic 
   churches in almost every small town across the province.
+score: 7.3
 ---
 
 The Ukrainian Museum of Canada in Saskatoon holds one of the largest collections of Ukrainian art, textiles, and cultural artifacts outside Ukraine itself. The permanent collection includes over 35,000 items: embroidered clothing, decorated Easter eggs (pysanka), ceramics, woodwork, and archival photographs documenting the immigrant experience on the prairies.

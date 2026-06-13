@@ -9,6 +9,7 @@ latitude: 18.4430
 longitude: -65.9100
 story: >
   Piñones was one of the areas in Puerto Rico most severely affected by Hurricane Maria in 2017. The storm destroyed many of the roadside kiosks and flooded the mangrove forests. Recovery was slow and uneven — some kiosk operators returned quickly, others never did. The community's resilience in rebuilding what had been a beloved local food institution became a small symbol of Puerto Rican recovery more broadly.
+score: 8.3
 ---
 
 Piñones is the coastal stretch immediately east of Isla Verde, a wide swathe of mangrove lagoons, coconut groves, and sandy beaches fronted by a row of outdoor food kiosks. It is the most purely local food experience in the San Juan metro area, and a sharp contrast to the resort hotels of Isla Verde just a few kilometres to the west.

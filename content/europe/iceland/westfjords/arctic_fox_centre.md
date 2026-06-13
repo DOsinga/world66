@@ -15,6 +15,7 @@ story: >
   widespread. By the 20th century, intensive trapping had reduced the population to
   critical levels. The Westfjords now hold around 40 percent of Iceland's arctic fox
   population, and the Centre has been central to monitoring and protecting them.
+score: 6.9
 ---
 
 The Arctic Fox Centre in Súðavík is a combination research institute, exhibition, and small zoo where two resident foxes — white in winter, brown in summer — can be seen year-round. The exhibition covers the biology and ecology of the arctic fox, its history in Iceland, and the ongoing research the Centre conducts. It is genuinely informative and well-produced, making it one of the better small museums in Iceland.

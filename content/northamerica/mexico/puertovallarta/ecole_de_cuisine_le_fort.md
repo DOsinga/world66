@@ -11,6 +11,7 @@ tags:
 title: Ecole de Cuisine Le Fort
 type: poi
 url: www.lefort.com.mx
+score: 6.7
 ---
 
 If you spend one evening outside of Puerto Vallarta while visiting Banderas Bay, make it a point to have dinner chez Margarita and Gilles Le Fort.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The famous viewpoint over swirling white sand and turquoise tides
+score: 9.4
 ---
 
 At the northern end of Whitehaven Beach on Whitsunday Island, **Hill Inlet** is a tidal estuary where the bright white silica sand and turquoise water mix in shifting patterns as the tide moves in and out. The image you see on every Whitsundays brochure — sand swirled like a marbled cake into the green water — is taken from here.

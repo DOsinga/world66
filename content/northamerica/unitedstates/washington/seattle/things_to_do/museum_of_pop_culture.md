@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Pop_Culture
+score: 7.7
 ---
 
 The Museum of Pop Culture — MoPOP, formerly the Experience Music Project — is housed in one of Frank Gehry's most exuberant buildings: a swooping, multicoloured structure of stainless steel and painted aluminium that was designed, Gehry said, by smashing several Stratocaster guitars and rearranging the shards. It sits at the foot of the Space Needle in Seattle Center.

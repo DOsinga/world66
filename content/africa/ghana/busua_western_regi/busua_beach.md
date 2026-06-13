@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: 4.8000
 longitude: -1.9333
+score: 8.5
 ---
 
 Busua Beach is one of the best stretches of sand on Ghana's western coast — a wide arc of golden sand sheltered by a rocky headland to the south, with consistent waves that make it the most reliable surf break in the country. The beach is wide enough that even at its busiest (weekends, when Ghanaians from Takoradi drive down) it never feels crowded, and on weekdays you may have significant stretches to yourself.

@@ -10,6 +10,7 @@ address: Krishna Nagar, Brahampuri, Jaipur
 opening_hours: 10:00-17:30 daily
 snippet: Hilltop fort on the Aravalli ridge with the best views over Jaipur
 story: "The fort's name means 'Abode of Tigers' and refers to the spirit of Nahar Singh Bhomia, a Rathore prince whose ghost allegedly disturbed the original construction — every wall built during the day would collapse by morning until a shrine was built in his honor."
+score: 7.5
 ---
 
 Nahargarh Fort sits on the rocky Aravalli ridge above Jaipur and offers the best panoramic views over the Pink City and the surrounding landscape. Built by Maharaja Sawai Jai Singh II in 1734 as a defensive strongpoint, it was later extended under Sawai Ram Singh to include a row of queens' apartments — nine identical suites with a shared royal corridor, built so the king could visit each wife without any jealousy about who was favored.

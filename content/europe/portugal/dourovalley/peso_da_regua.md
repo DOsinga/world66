@@ -6,6 +6,7 @@ tags: [things_to_do, sight, town]
 latitude: 41.1653
 longitude: -7.7764
 story: "Régua was the administrative heart of the world's first demarcated wine region. In 1756 the Marquis of Pombal set up the Companhia Geral da Agricultura das Vinhas do Alto Douro to regulate port quality, drawing the original boundary stones still visible on hillsides throughout the valley — making the Douro the oldest officially demarcated wine region anywhere."
+score: 7.4
 ---
 
 Peso da Régua, usually just called Régua, sits on the north bank of the Douro where the river broadens and the steep schist terraces of the upper valley begin to spread out. It is the natural base for first-time visitors: the train from Porto terminates here, river cruises start and finish here, and the N222 — the route everyone tells you to drive — runs east from the town.

@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Moorten Botanical Garden
 type: poi
+score: 7.3
 ---
 
 A compact four-acre desert garden nurturing over 3,000 plant varieties from desert environments worldwide, founded in 1938 by Chester "Cactus Slim" Moorten and his wife Patricia. The plantings are arranged to simulate their original geographic settings — Sonoran, Mojave, Baja, and South American deserts each have their own zone. Native American artifacts, rocks, and crystals are displayed among the specimens.

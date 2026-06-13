@@ -9,6 +9,7 @@ tags:
 latitude: -41.3586
 longitude: 174.7257
 snippet: "South coast walk to Precambrian red basalt rocks and New Zealand fur seals"
+score: 7.5
 ---
 
 Red Rocks (Pariwhero) is on the south coast of Wellington, about 8 km from the city centre, and reached via a 4-km walk or drive along the rugged coastal road from Owhiro Bay. The rocks themselves are genuinely ancient — Precambrian red basalt formed over 500 million years ago — and striking against the grey-green sea. In winter (June to September) a colony of New Zealand fur seals hauls out here to rest and play in the rock pools.

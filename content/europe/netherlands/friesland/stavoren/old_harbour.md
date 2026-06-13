@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 52.8835
 longitude: 5.3610
+score: 7.8
 ---
 
 The inner harbour is the heart of what is left of historic Stavoren. Sailboats and smaller pleasure craft tie up along stone quays lined with stepped-gable houses, most of them dating from the seventeenth century when this was still a Hanseatic trading port. The scale is small, the proportions perfect, and the whole basin can be walked around in fifteen minutes.

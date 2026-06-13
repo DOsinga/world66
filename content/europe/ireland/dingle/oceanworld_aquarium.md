@@ -6,6 +6,7 @@ longitude: -10.2784
 tags:
   - things_to_do
   - museum
+score: 4.8
 ---
 
 Oceanworld is a small aquarium on the Dingle waterfront with a focus on the marine life of the Atlantic seabord and a respectable collection of cold-water tanks. It is unashamedly aimed at families with children, but the touch pool, the otter enclosure, and the shark tank are decent for a wet afternoon when the peninsula weather has turned and you have run out of ideas.

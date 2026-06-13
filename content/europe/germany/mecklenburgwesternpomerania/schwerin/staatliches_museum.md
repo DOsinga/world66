@@ -15,6 +15,7 @@ title: Staatliches Museum Schwerin
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Staatliches_Museum_Schwerin
+score: 8.1
 ---
 
 The State Museum houses one of the largest and finest collections of seventeenth and eighteenth-century Dutch and Flemish masters in northern Germany — Rubens, Rembrandt, Brueghel, Snyders. The building is a handsome classicist structure right on the Alter Garten square, directly opposite the State Theatre. Beyond the old masters, the collection runs to medieval art, nineteenth-century German painting, and a good contemporary section. Closed Mondays; plan for two hours minimum.

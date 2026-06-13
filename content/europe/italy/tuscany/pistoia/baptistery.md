@@ -8,6 +8,7 @@ tags:
 latitude: 43.9331
 longitude: 10.9171
 snippet: "14th-century octagonal baptistery in green and white marble facing the Cathedral"
+score: 7.6
 ---
 
 The octagonal Baptistery of San Giovanni in Corte faces the Cathedral across the Piazza del Duomo and was built in the 14th century to a design attributed to Cellino di Nese, working in the tradition of the Pisan Romanesque style. Its green and white marble striping mirrors the Cathedral façade, giving the square its distinctive chromatic unity. The Gothic doorway bears carved decoration by Giovanni Pisano.

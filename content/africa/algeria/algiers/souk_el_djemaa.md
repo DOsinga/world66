@@ -6,6 +6,7 @@ longitude: 3.0600
 tags:
   - shopping
   - market
+score: 7.2
 ---
 
 The Friday market of the lower Casbah is the most accessible souk for visitors to Algiers. Vendors spread across the lower alleys selling fabric, clothing, housewares, and a mix of new and second-hand goods. It is not a tourist market — the clientele is local and the goods practical — but it gives a vivid sense of how the Casbah functions as a living, working neighbourhood rather than a museum piece.

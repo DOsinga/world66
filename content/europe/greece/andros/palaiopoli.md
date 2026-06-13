@@ -10,6 +10,7 @@ longitude: 24.8319
 snippet: "Ancient capital of Andros, with ruins scattered along the west coast"
 sources:
   - https://en.wikipedia.org/wiki/Palaiopoli,_Andros
+score: 6.7
 ---
 
 Palaiopoli, on the west coast of Andros, was the island's ancient capital during the Classical and Hellenistic periods. The site is not extensively excavated, but the ruins are visible along a stretch of coastline where the hillside drops to the sea: parts of ancient walls, foundations, and the occasional column base emerge from the scrub. The Archaeological Museum in Andros town holds the finds from Palaiopoli, including the famous Hermes of Andros (a marble copy of an original by Praxiteles).

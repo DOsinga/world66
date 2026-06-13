@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -20.2002
 longitude: 57.7177
+score: 8.4
 ---
 
 The Sunday market at Centre de Flacq is the largest outdoor market in Mauritius and one of the most genuinely local experiences the island offers. It has been running for generations and draws people from across the east coast to buy and sell produce, spices, household goods, clothes, and street food. On Wednesdays a smaller version operates, but Sunday is the real event.

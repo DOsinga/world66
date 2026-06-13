@@ -6,6 +6,7 @@ longitude: -68.3700
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Suter is one of the oldest wineries in San Rafael, founded by a Swiss family in 1900. The original buildings — vaulted brick cellars, a small stone press house — still operate, and the visitor tour walks through them with the quiet pleasure of seeing genuinely old equipment still in use.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, casino]
 latitude: 32.515438
 longitude: -93.737054
+score: 4.7
 ---
 
 Margaritaville is the Jimmy Buffett-themed casino on the river, occupying the former Isle of Capri site after a major rebrand and renovation. The property leans hard into the parrothead aesthetic: tropical décor, frozen drinks, a LandShark Bar & Grill, and live music most nights.

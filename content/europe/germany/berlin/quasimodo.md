@@ -12,6 +12,7 @@ tags:
 title: Quasimodo
 type: poi
 url: www.quasimodo.de
+score: 7.5
 ---
 
 Berlin's best-known jazz club, running since 1975 in the basement of the Delphi cinema. An established programme of jazz, blues, and pop, with local bands on Tuesday and Wednesday (usually free). The café upstairs is a good place for a drink before the show.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 36.7826
 longitude: -4.1023
+score: 7.0
 ---
 
 The church of San Juan Bautista is the other major church of Vélez-Málaga's historic centre, located a short walk from Santa María la Mayor in the lower part of the old town. Also built in the late 15th and 16th centuries, it shows the transition from late Gothic to Renaissance styles that characterises Spanish ecclesiastical architecture of the period after the Reconquista.

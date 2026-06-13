@@ -7,6 +7,7 @@ tags:
 - sight
 title: Monkey Beach Stone Fish Traps
 type: poi
+score: 7.4
 ---
 
 About an hour's walk north of Canoa along the beach, accessible only at low tide, a series of stone structures emerge from the sand and shallows that were built by a pre-Columbian coastal civilisation as fish traps. The stones are arranged in curved walls that funnel fish into enclosures as the tide rises and strand them as it falls — a remarkably effective and durable fishing technology.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 46.4940
 longitude: 9.9026
+score: 8.0
 ---
 
 Pontresina is the base for mountaineers approaching the Bernina group: Piz Bernina (4,049 m), the highest peak in the Eastern Alps, is approached from here, as are several glaciated routes across the range toward Italy. The village is more serious in its alpine character than St. Moritz — less about looking at mountains, more about climbing them. The local alpine school (Pontresina Mountain Guide Association) is one of the best in Switzerland for guided ascents of the Bernina.

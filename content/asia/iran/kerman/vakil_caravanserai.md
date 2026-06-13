@@ -7,6 +7,7 @@ snippet: "Qajar caravanserai still functioning as a teahouse and crafts market"
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 A 19th-century Qajar caravanserai built into the Vakil Bazaar, restored as a working teahouse and a small market for carpets and crafts. The central courtyard, with its octagonal pool and the original brick vaulting overhead, is one of the most photogenic spots in Kerman.

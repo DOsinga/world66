@@ -8,6 +8,7 @@ latitude: 58.38972
 longitude: -5.14278
 sources:
   - https://en.wikipedia.org/wiki/Tarbet,_Sutherland
+score: 5.8
 ---
 
 The small hamlet of Tarbet, a few miles north of Scourie, is the departure point for the passenger ferry to Handa Island. The crossing takes about ten minutes and runs on demand throughout the season — typically from April to early September — weather permitting. There is no booking; you simply turn up, pay a modest fare, and wait for the ferryman to take a group across.

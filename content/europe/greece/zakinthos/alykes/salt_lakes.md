@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.833
 longitude: 20.757
+score: 6.8
 ---
 
 The shallow salt lakes behind Alykes beach were operational salt works until 1985, producing salt traded across the Ionian region. They are now a protected wetland and a good birdwatching spot, particularly in spring and autumn migration periods when waders, herons, and occasional greater flamingos use the shallow water. The surrounding reeds and scrub also attract a variety of passerines.

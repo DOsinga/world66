@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -7.5714
 longitude: 110.7926
+score: 8.3
 ---
 
 Laweyan is Solo's oldest batik district, a neighbourhood of high-walled merchant compounds where the batik industry has been centred for five centuries. The architecture is a mixture of traditional Javanese joglo houses and the solid Dutch colonial buildings of prosperous textile merchants, their walls hiding courtyards and workshops behind ornate gates.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.3136
 longitude: 9.4975
 story: "Opened in 1779, the Fridericianum was the first public museum building in continental Europe. It has been the spiritual home of the **documenta** since 1955 — the building's grand neoclassical facade has been wrapped, painted, and installation-occupied so often that empty between exhibitions feels almost wrong."
+score: 8.7
 ---
 
 The **Fridericianum** is the city's most important art building — a late-18th-century neoclassical pile on the Friedrichsplatz, originally built to house the elector's curiosity collection and library. Since 1955 it has been the central venue of the **documenta**, the world's most important exhibition of contemporary art, held in Kassel every five years.

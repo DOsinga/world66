@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Seasonal doughnut shop on Wisconsin Street, open since 1969, with summer queues out the door.
+score: 6.5
 ---
 
 World's Best Donuts is a small clapboard shop on Wisconsin Street, a block back from the Grand Marais harbour. It has been making cake doughnuts, raised doughnuts, and the local speciality "skizzles" (deep-fried doughnut twists rolled in sugar) since 1969, and is one of the most-visited businesses in town. The shop opens for the summer in mid-May and closes in October.

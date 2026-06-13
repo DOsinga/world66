@@ -9,6 +9,7 @@ latitude: 40.0368
 longitude: -3.5968
 story: >
   The Spanish royal family maintained an elaborate fleet of pleasure boats on the Tagus at Aranjuez — a practice that began with Philip II and continued until the mid-19th century. The boats were used for royal processions and entertainments on the river, and were built to the most ornate specifications: gilded figureheads, velvet interiors, painted oar blades. The fleet fell into decay after the fashion for river pageantry declined, and the surviving vessels were eventually housed in this dedicated museum.
+score: 7.7
 ---
 
 The Museum of Royal Barges (Museo de Falúas Reales) houses a collection of the ornate river vessels used by the Spanish royal family on the Tagus at Aranjuez from the 17th to the 19th centuries. The barges are extraordinary objects: elaborately gilded, painted, and decorated boats that were used for royal processions and entertainments on the river.

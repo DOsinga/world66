@@ -6,6 +6,7 @@ longitude: 5.9061
 tags:
 - things_to_do
 - sight
+score: 6.4
 ---
 
 Salmchâteau is a small village about 3 km south of Vielsam centre, sitting at the junction of the Salm and the Glain rivers. It takes its name from the Château de Salm, a medieval fortified seat of the Counts of Salm — a dynasty that controlled much of this corner of the Ardennes through the Middle Ages before the area passed through various hands to eventually become part of Belgium. The castle ruins are modest but the site is picturesque, set above the river confluence with good views over the valley.

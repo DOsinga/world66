@@ -8,6 +8,7 @@ latitude: 27.3301
 longitude: 88.6132
 sources:
   - https://en.wikipedia.org/wiki/Thakurbari_Temple,_Gangtok
+score: 5.8
 ---
 
 The Thakurbari Temple is one of the most visited Hindu temples in Gangtok, located in the heart of the town near the main commercial area. It is dedicated to Shiva and draws both local worshippers and visitors from across Sikkim. The temple is particularly busy during Hindu festivals such as Shivratri and during the Durga Puja season, when the surrounding streets fill with stalls and celebrants.

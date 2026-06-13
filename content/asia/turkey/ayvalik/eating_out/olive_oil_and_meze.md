@@ -1,6 +1,7 @@
 ---
 title: "Olive Oil and Meze"
 type: poi
+score: 7.2
 ---
 
 Ayvalık sits at the heart of one of Turkey's most important olive-growing regions, and local olive oil turns up in almost everything on the table. The region produces several varieties, from mild and buttery to grassy and slightly bitter, and buying a bottle to take home is one of the best things to do here. Several olive oil factories on the outskirts of town offer tours and tastings, particularly during and after harvest in late autumn — but shops and market stalls selling local oil operate year-round.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Restored colonial mansion housing the ASUR textile museum
+score: 7.4
 ---
 
 The Caserón de la Capellanía is one of the finest restored colonial mansions in Sucre, a long whitewashed building with a generous interior courtyard at the foot of the Recoleta hill. It was built in the 17th century as the residence of a chaplaincy fund (the capellanía was an endowment that paid for a priest to say masses for a wealthy family's souls) and now houses the ASUR Indigenous Art Museum, a cafe, and a fair-trade shop selling textiles directly from the Jalq'a and Tarabuco weaving communities.

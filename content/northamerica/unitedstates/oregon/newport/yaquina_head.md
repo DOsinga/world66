@@ -14,6 +14,7 @@ story: >
   The lens still works. The dark gravel of Cobble Beach below is volcanic
   basalt, the eroded remnant of a 14-million-year-old lava flow that
   pushed all the way to the Pacific from eastern Oregon.
+score: 9.1
 ---
 
 Yaquina Head is a long basalt promontory three miles north of central Newport, topped by a 93-foot lighthouse and ringed by some of the best tide pools on the coast. The rocky shoreline at low tide reveals chiton, sea stars, anemones, and the occasional octopus; in winter and spring, gray whales pass close enough to see the spray of their blows from the cliffs.

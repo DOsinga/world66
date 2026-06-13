@@ -6,6 +6,7 @@ longitude: -89.8918
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The small plaza in front of the cathedral, with a few palms, a bandstand, and a clear view across the lake — the social heart of the island. Tuk-tuks idle at the corners, kids play football in the late afternoon, and the basketball court doubles as the evening hangout.

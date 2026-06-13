@@ -8,6 +8,7 @@ tags:
 - sight
 - beach
 snippet: Open Atlantic beach with reliable surf
+score: 5.7
 ---
 
 The first of the Atlantic-facing beaches as you head north from Barra, fringing the residential neighbourhood of the same name. Ondina has decent surf, a long strip of beach barracas, and one of the better arenas for the Carnaval procession route — the trios elétricos pass directly behind the beach.

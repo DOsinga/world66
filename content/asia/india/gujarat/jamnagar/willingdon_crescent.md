@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Willingdon Crescent
 type: poi
+score: 7.1
 ---
 
 In the heart of old Jamnagar, a long curved colonnade of identical arched shopfronts faces onto a central square. This is the Willingdon Crescent — also called Chelmsford Market — built in the 1920s by Maharaja Ranjitsinhji as part of a sweeping reorganisation of the old city centre.

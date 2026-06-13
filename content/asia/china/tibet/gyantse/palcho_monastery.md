@@ -13,6 +13,7 @@ story: >
   to share the same complex. Across Tibet's fractious religious history, this kind of
   ecumenicism was almost unheard of. The different chapels still bear the distinctive
   stylistic marks of each tradition.
+score: 8.9
 ---
 
 Pelkor Chöde Monastery is the main monastic complex in Gyantse, a sprawling walled compound dating from 1427 that contains a functioning monastery, dozens of chapels, and the extraordinary Kumbum stupa. The complex is one of the best-preserved pre-20th-century religious sites in Tibet and one of the most artistically significant in Central Asia.

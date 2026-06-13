@@ -7,6 +7,7 @@ tags:
   - winter
 latitude: 68.4214
 longitude: 27.4177
+score: 6.8
 ---
 
 Snowmobiles are the workhorses of Lapland and the fastest way to cover ground in winter. Operators in Saariselkä run anything from a one-hour spin to full-day expeditions into the wilderness, often combined with a stop at a reindeer or husky farm, a fishing hut on a frozen lake, or a smoke sauna.

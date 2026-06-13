@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Wales_Millennium_Centre
 story: >
   The building's facade is inscribed with words by Welsh poet Gwyneth Lewis in both Welsh and English: "In these stones horizons sing" / "Creu gwir fel gwydr o ffwrnais awen" (Creating truth like glass from inspiration's furnace). Lewis was the first National Poet of Wales, appointed in 2005, and her text was chosen to wrap the entire front of the building — two languages sharing one meaning, which is perhaps the most Cardiff thing imaginable.
+score: 8.3
 ---
 
 The Wales Millennium Centre opened in 2004 and houses the Welsh National Opera, the BBC National Orchestra of Wales, and several other arts organisations under a single striking roof clad in local slate and oxidised steel. Architect Jonathan Adams's design is one of the best pieces of public architecture in 21st-century Britain: monumental without being pompous, and rooted in Welsh materials and identity.

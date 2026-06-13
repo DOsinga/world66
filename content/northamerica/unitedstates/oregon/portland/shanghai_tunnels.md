@@ -9,6 +9,7 @@ latitude: 45.5222
 longitude: -122.6707
 story: >
   The tunnels run under Old Town, connecting the basements of hotels and saloons to the waterfront. According to local legend, press gangs used them in the late 19th and early 20th centuries to kidnap men from the bars above — a practice known as "Shanghaiing" — and deliver them to ships that needed crew. The historical evidence for widespread kidnapping is disputed by some researchers, but the tunnels themselves are real, the conditions documented, and the practice of involuntary maritime labour was real in Pacific port cities of that era.
+score: 6.5
 ---
 
 Portland's Shanghai Tunnels are a network of passages running beneath the streets of Old Town, originally used as storage corridors connecting the basements of the hotels and saloons that lined the waterfront district. Tour operators run guided walking tours that descend into the tunnels and cover the history of the neighbourhood, the documented crimping trade (the Victorian-era system of debt bondage that supplied labour to ships), and the tunnels' later history as gambling dens and speakeasies.

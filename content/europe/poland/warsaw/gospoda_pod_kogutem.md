@@ -7,6 +7,7 @@ tags:
 latitude: 52.2270
 longitude: 21.0157
 snippet: "Warsaw's most famous surviving milk bar — Soviet-era canteen with incredible prices and long queues"
+score: 6.8
 ---
 
 Bar Mleczny Prasowy on Marszałkowska Street is the most popular milk bar in Warsaw and possibly in Poland. These state-subsidised canteens from the communist era serve simple Polish food at prices that seem impossibly low: a full hot meal with soup, main course, and kompot (stewed fruit drink) rarely exceeds five euros. The food is basic — boiled vegetables, fried pork cutlets, potato dumplings — but made fresh daily.

@@ -8,6 +8,7 @@ latitude: -6.4094
 longitude: -77.9312
 sources:
   - https://en.wikipedia.org/wiki/Ku%C3%A9lap
+score: 6.8
 ---
 
 The teleférico from Nuevo Tingo is the most comfortable way to reach Kuélap, carrying passengers from the valley floor to within walking distance of the fortress entrance in roughly 20 minutes. The three-gondola system climbs over a thousand metres of vertical relief, crossing above cloudforest and offering increasingly dramatic views of the Utcubamba valley as it rises.

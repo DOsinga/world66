@@ -6,6 +6,7 @@ longitude: 21.7640
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The Matsopoulos Mill is a beautifully restored nineteenth-century flour mill on the bank of the Lithaios river, right at the foot of the castle hill. For most of the year it operates as an events and cultural space, with an open-air courtyard and good views of the fortifications above. In December, it becomes the centrepiece of Trikala's Christmas festival — known locally as the "Christmas Village" — when the mill complex is elaborately decorated and transformed into a fantasy landscape with elves, lights, and themed installations that draws visitors from across Greece.

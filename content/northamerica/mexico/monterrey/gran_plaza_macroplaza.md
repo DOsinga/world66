@@ -11,6 +11,7 @@ story: >
   The Macroplaza was built in the 1980s during the tenure of Governor Alfonso Martínez Domínguez, who demolished 40 city blocks of 19th-century buildings to create it. The project was hugely controversial at the time — whole streets of the old city centre were erased to create what is, depending on your perspective, either an impressive civic statement or a catastrophic act of urban destruction.
 sources:
   - https://en.wikipedia.org/wiki/Macroplaza
+score: 7.4
 ---
 
 The Gran Plaza, officially known as the Macroplaza, is one of the largest public squares in the world — stretching for nearly 800 metres through the heart of Monterrey's city centre. It is flanked by the state government buildings, the cathedral, MARCO museum, and several monuments, connected by formal gardens and plazas at different levels.

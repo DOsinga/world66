@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Sucre's stately old seat of government on the central plaza
+score: 7.8
 ---
 
 The Casa de Gobierno occupies the north side of Plaza 25 de Mayo and was originally the headquarters of the Audiencia de Charcas, the Spanish high court that governed Upper Peru. After independence it became the presidential palace of Bolivia until the seat of government moved to La Paz at the end of the 19th century. Today the building houses the prefecture of Chuquisaca Department.

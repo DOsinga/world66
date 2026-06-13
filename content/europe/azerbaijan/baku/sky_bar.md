@@ -6,6 +6,7 @@ longitude: 49.8556
 tags:
   - bars_and_cafes
   - bar
+score: 5.6
 ---
 
 The 25th-floor bar at the Hilton Baku has the best skyline view in the city — the Flame Towers immediately to the west, the bay spread below, and Government House lit up on the seafront. Drinks are expensive, the cocktails are competent, and the service is the polished international-hotel kind.

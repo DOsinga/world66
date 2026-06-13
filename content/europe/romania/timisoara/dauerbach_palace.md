@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Dauerbach Palace at the northern end of Victory Square is one of the city's finest Secession buildings, completed in 1913 by the architect László Székely. The four-storey corner block, in pale stucco with intricate floral ornamentation across the upper window surrounds and roofline, anchors the western side of the square and is among the most photographed buildings in central Timisoara.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Aberdeen
 latitude: 8.5071
 longitude: -13.2854
+score: 6.4
 ---
 
 Cape Sierra Leone is the rocky headland at the northwestern tip of the peninsula. It marks the entrance to the great natural harbour and gave the country its name — the Portuguese explorer Pedro de Sintra called it Serra Leoa, "lion mountains", in 1462, supposedly for the thunder over the hills behind.

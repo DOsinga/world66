@@ -8,6 +8,7 @@ latitude: 45.2910
 longitude: 18.8060
 sources:
   - https://en.wikipedia.org/wiki/Vinkovci
+score: 6.6
 ---
 
 The Bosut river runs through the northern part of Vinkovci, and the tree-lined riverside park along its banks offers the town's best walking and cycling. On summer evenings, locals gather here for strolls, and the cafes overlooking the water fill up. It is a thoroughly relaxed, un-touristy scene.

@@ -6,6 +6,7 @@ longitude: 153.1180
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 Hells Gates is the rocky cleft at the far eastern tip of the Noosa National Park coastal walk — a forty-five minute walk from the headland trailhead. Two near-vertical cliffs frame a narrow gap directly above the open ocean, and the wind funnels through with enough force to make staying back from the edge an obvious idea.

@@ -8,6 +8,7 @@ latitude: 51.6772
 longitude: 8.3412
 sources:
   - https://www.stadttheater-lippstadt.de/
+score: 6.3
 ---
 
 The Stadttheater at Cappeltor 3 is Lippstadt's main performance venue, opened in 1973 and designed by Prof. Gerhard Graubner with an open stage concept that puts the audience unusually close to the action. The main hall seats 779 people; a smaller studio stage and the foyer handle more intimate productions.

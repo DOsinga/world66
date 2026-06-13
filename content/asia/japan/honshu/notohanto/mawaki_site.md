@@ -12,6 +12,7 @@ snippet: "A Jomon-period settlement with reconstructed timber circles and one of
 story: >
   Excavations at Mawaki revealed not only a large Jomon community from around 3,000 BCE but also dolphin bones in extraordinary quantities — over 60,000 individual animals — suggesting that the Mawaki people were sophisticated marine hunters who ran organised dolphin drives into the bay. 
   The technique is still practiced in parts of Japan today, making Mawaki one of the oldest documented examples of this controversial tradition.
+score: 7.4
 ---
 
 The Mawaki site on the eastern coast of the Noto Peninsula is one of the most significant Jomon-period archaeological sites in Japan. Inhabited for several thousand years, it contains the remains of large communal structures, middens, and what may be Japan's oldest known cemetery. Reconstructed pit dwellings and a timber circle give a sense of the original settlement.

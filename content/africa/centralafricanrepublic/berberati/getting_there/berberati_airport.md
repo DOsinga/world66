@@ -7,6 +7,7 @@ latitude: 4.2222
 longitude: 15.7861
 sources:
   - https://en.wikipedia.org/wiki/Berb%C3%A9rati_Airport
+score: 4.1
 ---
 
 Berberati Airport (IATA: BBT) is the town's main connection to the outside world. Scheduled services from Bangui are intermittent — timing and frequency depend on the airline (currently Karinou Airlines has operated this route) and the security situation. When flights are running, the journey to Bangui takes under an hour, compared to the twelve-hours-to-several-days ordeal by road.

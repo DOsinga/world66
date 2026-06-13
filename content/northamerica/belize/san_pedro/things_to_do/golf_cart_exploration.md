@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.1667
 longitude: -87.8333
+score: 6.1
 ---
 
 Renting a golf cart is the best way to get beyond the main tourist strip. The road runs north and south along the island, and a day's driving reveals the quieter, less-developed stretches of beach that most visitors staying in town never see.

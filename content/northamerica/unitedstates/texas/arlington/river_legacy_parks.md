@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.8057
 longitude: -97.0629
+score: 7.0
 ---
 
 River Legacy Parks is a 1,300-acre preserve of bottomland hardwood forest along the Trinity River — one of the few stretches of the North Texas floodplain left in anything close to its natural state. The park has over twenty kilometres of hiking and mountain biking trails that wind through forest thick enough to feel genuinely remote despite being entirely surrounded by suburban development.

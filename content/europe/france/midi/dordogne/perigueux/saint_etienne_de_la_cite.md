@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 45.1820
 longitude: 0.7157
+score: 7.6
 ---
 
 Before Saint-Front took over, this Romanesque church was the cathedral of Périgueux. Built in the 11th and 12th centuries on a similar domed plan, it lost two of its original four bays to Huguenot demolition in 1577 and was demoted to parish status in 1669, leaving Saint-Front to claim the title.

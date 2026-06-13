@@ -6,6 +6,7 @@ longitude: -111.8778
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The biggest aquarium in the southwestern United States, on the Salt River Pima-Maricopa Indian Community land at the eastern edge of Scottsdale. Two million gallons of water hold sharks, rays, sea turtles, otters, and a rotating carousel of penguins, sea lions, and tropical fish. The signature exhibit is the SeaTREK rotating theatre — a circular room of viewing windows that revolves through different aquariums.

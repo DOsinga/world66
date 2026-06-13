@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.3125
 longitude: -106.7836
+score: 7.2
 ---
 
 The Alameda-Depot Historic District covers several blocks of downtown Las Cruces centered on the old railroad depot and the Alameda Street corridor. The district contains some of the best-preserved late 19th and early 20th century architecture in the city — Victorian and Mission Revival commercial buildings, the remains of the railroad infrastructure that drove the city's growth in the 1880s, and several adobe houses from the territorial period.

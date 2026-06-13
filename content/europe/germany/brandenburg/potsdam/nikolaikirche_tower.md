@@ -9,6 +9,7 @@ latitude: 52.3845
 longitude: 13.0545
 sources:
   - https://en.wikipedia.org/wiki/Church_of_the_Redeemer_(Potsdam)
+score: 6.8
 ---
 
 The Church of the Redeemer (Erlöserkirche) in the Bornstedt district north of Sanssouci is an Italian Romanesque church from 1893, set in a park adjacent to the historic Bornstedt Royal Domain estate. The church's campanile and round apse rise above the surrounding trees with a distinctly Lombard character, and the churchyard is planted with mature trees that give it a sheltered, melancholic atmosphere.

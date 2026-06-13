@@ -13,6 +13,7 @@ story: >
   would draw visitors the way Gehry's Guggenheim Bilbao had transformed that city. It worked.
   The winery had been producing wine since 1858; Gehry's building, completed in 2006, brought
   it international fame for architecture rather than wine for the first time in its history.
+score: 7.8
 ---
 
 In the village of Elciego, a ten-minute drive from Laguardia, the Marqués de Riscal winery is capped by a billowing canopy of titanium and stainless steel designed by Frank Gehry. The building is deliberately extravagant — ribbons of gold, silver, and pink metal twist over the nineteenth-century winery buildings like a crumpled wrapper. It houses a luxury hotel, a spa, and two restaurants, but even visitors who can't afford to stay should make the drive to see it from the outside.

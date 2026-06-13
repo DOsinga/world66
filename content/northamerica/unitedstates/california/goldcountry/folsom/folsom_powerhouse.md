@@ -12,6 +12,7 @@ story: >
   When this station switched on in September 1895, it transmitted alternating current 35 kilometres to Sacramento — the longest AC power transmission in the United States at the time. The project, backed by Nikola Tesla's technology and General Electric's engineering, helped prove that AC power could travel long distances, settling a key argument in the so-called War of the Currents against Edison's direct-current system.
 sources:
   - https://en.wikipedia.org/wiki/Folsom_Powerhouse_State_Historic_Park
+score: 8.0
 ---
 
 The Folsom Powerhouse sits on the south bank of the American River just above historic Folsom, in a stone building completed in 1895. It was the site of the first long-distance alternating-current power transmission in the United States: electricity generated here travelled 35 kilometres to Sacramento along wooden poles, lighting the streets and powering the city's new electric railway.

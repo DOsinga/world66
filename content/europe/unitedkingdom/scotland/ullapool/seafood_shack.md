@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 57.8965
 longitude: -5.1601
+score: 6.5
 ---
 
 Operating from a converted horsebox on the waterfront, the Seafood Shack has become one of the most talked-about eating spots in the northwest Highlands. The menu is short and changes with the catch: crab claws, langoustines, smoked salmon, fish tacos, and fish chowder all appear regularly. Almost everything comes from local boats landing at the harbour a short walk away.

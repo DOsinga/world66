@@ -16,6 +16,7 @@ story: >
   was launched to fill them — but since no records survived of who the originals depicted, the 19th-century 
   commission largely invented a cast of historical figures, mixing real counts of Leuven with imaginary saints 
   and scholars.
+score: 9.0
 ---
 
 The Leuven Stadhuis is one of the most spectacular secular Gothic buildings in existence. Built between 1448 and 1469 under the direction of master builders Sulpitius van Vorst and Jan II Keldermans, it was designed as an emphatic statement of civic wealth at the height of the cloth trade. Three bays rise from the ground floor through a full five storeys, each crowned by an octagonal tower with a finial, the entire facade covered in ornamental tracery, pinnacles, and carved figures.

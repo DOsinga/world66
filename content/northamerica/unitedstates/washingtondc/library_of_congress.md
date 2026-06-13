@@ -10,6 +10,7 @@ latitude: 38.8887
 longitude: -77.0047
 story: >
   The Library of Congress owns a copy of the Gutenberg Bible — one of only three perfect vellum copies in existence. It also holds Thomas Jefferson's personal library, which formed the nucleus of the collection after the original library was destroyed in 1814. Jefferson sold his 6,487 books to the government for $23,950. The collection now exceeds 170 million items.
+score: 9.2
 ---
 
 The Library of Congress is the largest library in the world, housed in three buildings on Capitol Hill, of which the Thomas Jefferson Building (completed 1897) is the most spectacular. The building's great hall, with its elaborate mosaic floors, arched ceilings, and allegorical paintings, is one of the finest interior spaces in Washington and is open to the public without charge.

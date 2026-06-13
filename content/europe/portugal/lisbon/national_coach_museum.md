@@ -14,6 +14,7 @@ story: >
   every surface covered with allegorical sculpture — that they were considered
   too ostentatious even at the Baroque papal court. The Pope reportedly asked the
   Portuguese ambassador to tone down the display of wealth on future occasions.
+score: 7.8
 ---
 
 One of the finest collections of royal carriages in the world, housed in a purpose-built modern museum in Belém opened in 2015, with the original late 18th-century Royal Riding School next door still serving as an exhibition space. The coaches date from the 16th to the early 20th century and range from workaday royal transport to extraordinary diplomatic vehicles dripping with gilded allegorical figures.

@@ -6,6 +6,7 @@ longitude: 77.3100
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The ISKCON temple on the Noida-Greater Noida Expressway is one of the larger Hare Krishna complexes in the NCR. Built in white stone with traditional Vaishnava motifs, the temple complex includes the main prayer hall with deities of Radha-Krishna and Gaur-Nitai, a Vedic museum, a Govinda's vegetarian restaurant, and a bookshop.

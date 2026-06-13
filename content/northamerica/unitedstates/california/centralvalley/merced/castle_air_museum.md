@@ -7,6 +7,7 @@ tags:
 latitude: 37.3800
 longitude: -120.5680
 story: "Castle Air Force Base, which the museum commemorates, was home to the Strategic Air Command's 93rd Bomb Wing during the Cold War — the first B-52 wing in the Air Force and one of the units on constant airborne alert during the most tense periods of the nuclear standoff. The B-52 on display outside the museum flew those missions."
+score: 8.2
 ---
 
 The Castle Air Museum in Atwater, four miles north of Merced, displays 44 vintage military aircraft on outdoor concrete pads and in a hangar, spanning from World War II propeller aircraft through Cold War jets to a Lockheed SR-71 Blackbird and a B-52 Stratofortress. It is one of the larger outdoor aviation museums in the western United States and admission is inexpensive.

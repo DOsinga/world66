@@ -8,6 +8,7 @@ latitude: 41.7302
 longitude: 125.9471
 story: >
   Tonghua wine is made from the vitis amurensis grape — also called mountain grape or wild Amur grape — which grows naturally in the forests around Changbaishan and produces a sweet, high-acid wine unlike anything in European viticulture. The variety survives winters down to minus forty degrees Celsius, a hardiness that conventional wine grapes cannot approach. Tonghua has been producing wine from it since the 1910s, making this one of the oldest continuous wine-producing regions in China.
+score: 6.8
 ---
 
 Tonghua wine is genuinely distinctive — not a Chinese version of European wine but something specific to this mountainous corner of Jilin, made from wild mountain grapes that grow in the forests around Changbaishan. The wine is sweet, deeply coloured, and has the honest character of something produced because the raw material was locally abundant rather than because someone decided to imitate Bordeaux.

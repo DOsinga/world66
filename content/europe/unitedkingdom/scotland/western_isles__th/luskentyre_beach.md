@@ -14,6 +14,7 @@ story: >
   The turquoise colour of the water comes from the very fine white shell-sand,
   which reflects light differently from the grey quartz sand found on most
   British beaches. The water temperature, however, is unambiguously Scottish.
+score: 9.2
 ---
 
 Luskentyre is the beach people don't believe is in Scotland until they see it. The sand is white, the shallow water runs from turquoise to deep blue depending on the light, and the beach runs for several kilometres around the head of a sea loch on the west coast of Harris. In summer, on a clear day, it looks more like the Caribbean than the Hebrides — except for the temperature of the water and the Atlantic swell rolling in behind.

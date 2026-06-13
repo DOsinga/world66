@@ -6,6 +6,7 @@ tags:
   - market
 title: Duong Dong Night Market
 type: poi
+score: 7.7
 ---
 
 Duong Dong's night market, running along the waterfront near the bridge in the centre of town, is the best place on the island to eat like a local rather than a tourist. The stalls set up from around 5pm and run late into the evening, selling grilled seafood by weight, banh mi, com ga (chicken rice), and the island's best bun quay — a noodle soup with crab and shrimp peculiar to Phu Quoc.

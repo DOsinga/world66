@@ -7,6 +7,7 @@ tags:
 latitude: 38.7893
 longitude: 0.1652
 snippet: "Municipal archaeology museum in the old town with finds from the Bronze Age to Roman times"
+score: 6.9
 ---
 
 The Soler Blasco Archaeological and Ethnographic Museum in the old town holds collections spanning the Bronze Age, Iberian period, and Roman occupation of the area. The Jávea coast was well settled in antiquity — finds include ceramic vessels, coins, and everyday objects from successive cultures that occupied this naturally sheltered bay. The ethnographic section covers the traditional fishing and agricultural economy of the 19th and early 20th centuries.

@@ -12,6 +12,7 @@ story: >
   by Florentine sculptor Bruno Innocenti and erected in 1965, it is made of Carrara marble cement
   rather than the more common reinforced concrete. The statue faces inland rather than the sea —
   the opposite of Rio's — looking down on the historic centre of the town.
+score: 9.0
 ---
 
 The Cristo Redentore stands on the summit of Monte San Biagio at 644 metres, its arms outstretched over Maratea and the Tyrrhenian coast far below. It is the symbol of the town, visible from miles offshore, and the obvious destination for a day in Maratea. A road climbs from the lower town, and most visitors drive up and walk the last few hundred metres from the parking area, but the path from the old town up through the ruins of medieval Maratea Superiore makes a far more rewarding approach on foot.

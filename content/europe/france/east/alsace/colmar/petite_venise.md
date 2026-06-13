@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 - neighbourhood
+score: 8.3
 ---
 
 Petite Venise — Little Venice — is the half-kilometre stretch of the Lauch river running through the southern part of the old town, lined with half-timbered houses leaning out over the water, flower-boxed bridges and stretches of cobbled quay. It is unashamedly picturesque and crowded in summer.

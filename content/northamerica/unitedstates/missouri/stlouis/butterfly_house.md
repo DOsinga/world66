@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.6750
 longitude: -90.5350
+score: 6.2
 ---
 
 The Sophia M Sachs Butterfly House, run by the Missouri Botanical Garden, occupies a glass conservatory in Faust Park, about 30 minutes west of downtown. The central conservatory holds around 1,000 free-flying tropical butterflies from 60 species, in an environment kept at 80°F and 70% humidity year-round.

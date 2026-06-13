@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 4.9396
 longitude: -52.3273
+score: 7.1
 ---
 
 Canal Laussat, dug in 1777 and named for an early-19th-century governor, runs roughly through the middle of central Cayenne and gives its name to the surrounding **La Crique** quarter. Originally engineered to drain the swampy ground that hemmed in the colonial town, the canal is now a narrow waterway lined with weathered Creole houses on stilts.

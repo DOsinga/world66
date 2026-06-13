@@ -1,6 +1,7 @@
 ---
 title: "Altyn Asyr Bazaar (Tolkuchka)"
 type: poi
+score: 8.2
 ---
 
 The original Tolkuchka Bazaar on the northern edge of the city was once Central Asia's largest outdoor market — a sprawling weekend gathering of carpet dealers, livestock traders, food vendors, and ordinary Turkmen from across the country. The original site was demolished and the market relocated and partly formalised as the Altyn Asyr (Golden Age) Bazaar, further from the centre on the northern ring road. Weekend mornings, particularly Saturday and Sunday, are still when the market is most alive.

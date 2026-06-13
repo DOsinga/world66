@@ -7,6 +7,7 @@ snippet: Hidden alleys leading to tiny brick courtyards behind the merchants' ho
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 Lübeck's Altstadt is famous for its *Gänge* (passages) and *Höfe* (courtyards) — narrow alleys cut between the merchants' houses on the main streets that open into tiny inner squares lined with tiny dwellings. These were the housing of the urban poor in the late medieval and early modern city: dockworkers, washerwomen, day labourers crammed into one-room cottages behind the rich merchants' houses.

@@ -12,6 +12,7 @@ story: >
   year, the Eleans revoked his victory and removed his name from the records.
   He also competed in the herald's contest, singing in public, which Greeks
   found considerably more embarrassing than losing a chariot race.
+score: 6.2
 ---
 
 Near the northeastern corner of the site stand the foundations of a large Roman villa traditionally associated with the Emperor Nero, who visited Olympia in AD 67 to compete in the Olympic Games. The building replaced an earlier Greek structure and was constructed to a Roman floor plan with large rooms around a peristyle courtyard — architecture quite different in feel from the Greek buildings around it.

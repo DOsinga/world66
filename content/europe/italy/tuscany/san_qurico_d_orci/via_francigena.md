@@ -12,6 +12,7 @@ story: >
   from Rome, and San Quirico appears as "Sce Quiric" — one of the waypoints he listed with careful precision.
   Sigeric's itinerary became the route guide that subsequent pilgrims followed, making his diary the document
   that, in effect, created the Via Francigena as a named route.
+score: 7.8
 ---
 
 The Via Francigena, the medieval pilgrim road from Canterbury to Rome, passes directly through San Quirico d'Orcia. The town has been a waypoint on this route for over a thousand years, and it retains some of the character of a pilgrim station — the Collegiata faces the main street along which travellers would have walked, and the Horti Leonini were explicitly created as a resting place for those passing through.

@@ -13,6 +13,7 @@ tags:
 - restaurant
 title: Gino Sorbillo
 type: poi
+score: 7.5
 ---
 
 Founded in 1935 on Via dei Tribunali — the ancient Roman road through the centro storico that is now Naples' street of pizzerias. One of Naples' most iconic addresses, particularly popular with locals and food writers for its consistent margherita and the quality of its dough (long-fermented, blistered from a wood-burning oven at 485°C). Always has a queue.

@@ -9,6 +9,7 @@ tags:
 latitude: 8.1430
 longitude: -63.5478
 snippet: Bolívar's revolutionary printing press
+score: 7.4
 ---
 
 A single-storey colonial house on the Paseo Orinoco, once home to the printing press where Simón Bolívar produced *Correo del Orinoco*, the revolutionary newspaper that propagandised the cause of independence between 1818 and 1822. The Casa is now a small museum displaying original presses, printed copies, and personal effects of the staff who worked here under Bolívar's direction.

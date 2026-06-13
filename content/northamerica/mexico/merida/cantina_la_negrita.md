@@ -8,6 +8,7 @@ tags:
 latitude: 20.9694
 longitude: -89.6231
 snippet: Atmospheric old-school cantina with free botanas and live trova music
+score: 7.7
 ---
 
 La Negrita is the best of Mérida's cantinas — the traditional Mexican drinking establishments where the price of your drinks includes a rotating series of small plates of food (botanas). The system is exactly what it sounds like: you order a round of beers or mezcal, and the kitchen sends out plates of snacks — panuchos, queso relleno, salbutes, and other Yucatecan bar food — which arrive and are replaced as you drink. It is a good-value, social, and genuinely local way to spend an evening.

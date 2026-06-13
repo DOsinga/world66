@@ -14,6 +14,7 @@ story: >
   hollows — the kind of material culture that rarely makes it into bigger museums.
 sources:
   - https://en.wikipedia.org/wiki/Mountain_Gateway_Museum_and_Heritage_Center
+score: 8.0
 ---
 
 The Mountain Gateway Museum is a division of the North Carolina Museum of History, focused on the culture and history of the southern Appalachians. The collection covers everything from Cherokee history and the Revolutionary War frontier to the coming of the railroad and the textile mills of the late 19th century — the full sweep of what shaped this corner of the Blue Ridge.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, seafood]
 latitude: 28.9236
 longitude: -13.6484
+score: 5.8
 ---
 
 Casa Roja sits directly on the quayside of the Varadero old harbour, with a small terrace over the water and a chalkboard of whichever fish came in that morning. The kitchen does the simple things well — grilled vieja (parrotfish) and dorada (gilthead bream) with papas arrugadas and the standard red and green mojo sauces, fritura mixta, and a clean lemon-and-olive-oil dressed salad. The Lanzarote white wines on the list are well-chosen.

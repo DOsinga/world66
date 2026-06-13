@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.435
 longitude: 16.683
+score: 6.0
 ---
 
 The main beach at Omis is a long shingle and pebble strand running south from the mouth of the Cetina. It is not the finest beach on the Dalmatian coast — the stones are rounded rather than fine, and the water clarity is occasionally affected by the river mouth — but it is serviceable and backed by the dramatic cliffs that make Omis distinctive. Beach bars and rental equipment are available in summer.

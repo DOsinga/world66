@@ -6,6 +6,7 @@ longitude: -63.8051
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The natural deep bay at Pampatar is the reason the town exists — its shape gave the colonial fleet shelter from the Atlantic swells and the prevailing north-east winds, and it still serves as the anchorage for the fishing fleet and a scatter of small yachts. The water inside the bay is calm even on rough days, and the beach along the inner curve is one of the few in the area where children can swim without surf.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 19.3583
 longitude: 98.4394
+score: 6.6
 ---
 
 Rafting on the Pai River is one of the more popular activities for those wanting something more active than a motorbike day trip. Several guesthouses and tour agencies in town run half-day and full-day bamboo rafting trips on the river. The section most commonly used passes through scenic countryside with a mix of gentle stretches and modest rapids, suitable for beginners.

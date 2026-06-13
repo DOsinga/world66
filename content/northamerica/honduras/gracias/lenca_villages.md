@@ -8,6 +8,7 @@ latitude: 14.5500
 longitude: -88.5200
 story: >
   The Lenca are the largest indigenous group in Honduras and one of the least studied. Their language is a linguistic isolate — unrelated to any other known language family — which makes their pre-Columbian origins genuinely mysterious. The resistance leader Lempira, who held off the Spanish for two years from a mountain stronghold near Gracias before being killed in 1537, is now Honduras's national hero and his face is on the currency.
+score: 7.8
 ---
 
 The hills around Gracias are home to Lenca villages where traditional culture — distinctive pottery, weaving, and the slow-burning rituals of the Composturas ceremony — remains part of daily life. La Campa, about 25 km from Gracias on a rough mountain road, is the best-known village and has a small cooperative selling locally made ceramics in the pre-Columbian tradition.

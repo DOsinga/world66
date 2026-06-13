@@ -14,6 +14,7 @@ story: >
   unknown. Each head is thought to be a portrait of a specific ruler, and no two are alike.
 sources:
   - https://en.wikipedia.org/wiki/Xalapa_Museum_of_Anthropology
+score: 9.0
 ---
 
 The Museo de Antropologia de Xalapa (MAX) is the second most important anthropology museum in Mexico after the Museo Nacional in Mexico City, and for pre-Columbian Olmec material it arguably surpasses it. The collection includes ten of the seventeen known Olmec colossal heads — massive carved basalt portraits of Olmec rulers, some over three metres tall, displayed in outdoor garden settings where their scale can be properly appreciated.

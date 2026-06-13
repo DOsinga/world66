@@ -9,6 +9,7 @@ latitude: 51.15
 longitude: -116.98
 story: >
   The Columbia Wetlands form the headwaters of the Columbia River, which eventually flows 2,000 kilometres to the Pacific Ocean at Astoria, Oregon. This stretch south of Golden is one of the longest continuous wetlands in western North America and is recognized as a Wetland of International Significance under the Ramsar Convention.
+score: 8.2
 ---
 
 The Columbia Wetlands stretch for roughly 180 kilometres along the Rocky Mountain Trench south of Golden, forming one of the most ecologically significant wetland ecosystems in western Canada. The area supports more than 260 bird species, including trumpeter swans, great blue herons, osprey, and bald eagles. It is also important habitat for moose, deer, beaver, and black bear.

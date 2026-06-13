@@ -12,6 +12,7 @@ title: Cristo Re dei Secoli
 type: poi
 story: >
   The architect Adalberto Libera designed this cathedral after completing the Palazzo dei Congressi in Rome for the 1942 World's Fair. The La Spezia commission was his final major work — he died in 1963 before it was finished, and the building was completed posthumously and consecrated in 1975.
+score: 7.4
 ---
 
 La Spezia's cathedral, also known as Christ the King of Centuries, was designed by Adalberto Libera and completed in the 1970s. The bold modernist design stands in striking contrast to the city's nineteenth-century architecture, with a distinctive circular plan and clean concrete lines. The exterior reads as a series of curved concrete forms crowned by a slender campanile.

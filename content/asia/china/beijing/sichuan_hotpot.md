@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.9270
 longitude: 116.4380
+score: 5.8
 ---
 
 Sichuan hotpot is the great communal eating experience of Chinese restaurant culture, and Beijing has absorbed it enthusiastically. The format: a pot of fiery broth (or split pot with a mild side) at the centre of the table, raw ingredients — thinly sliced beef and lamb, offal, vegetables, tofu, noodles — dipped into it for a few seconds and eaten with sesame paste and raw garlic. The Sichuan variety is numbing as well as spicy, from the combination of dried chillies and huajiao (Sichuan peppercorns).

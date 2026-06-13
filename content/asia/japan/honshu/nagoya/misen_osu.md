@@ -8,6 +8,7 @@ tags:
 latitude: 35.1601
 longitude: 136.9005
 neighbourhood: Osu
+score: 7.0
 ---
 
 Misen opened in 1965 and invented Taiwan ramen, which is — despite the name — a Nagoya original: a fiery soup of soy and chili oil with crumbled spiced minced pork, garlic chives and bean sprouts. The shop's founder, a Taiwanese immigrant, adapted a dan dan noodle recipe to suit the local taste for stronger flavours, and the dish has since spread across Japan under his neighbourhood's branding.

@@ -1,6 +1,7 @@
 ---
 title: "Jomas iela"
 type: poi
+score: 7.5
 ---
 
 Jomas iela is Jurmala's pedestrian main street, running through the Majori district for about a kilometre and a half parallel to the beach. It's lined with restaurants, cafes, souvenir shops, and ice-cream stands, and in summer fills with a mix of local families and Riga day-trippers. The mood is unhurried — part seaside promenade, part outdoor market.

@@ -10,6 +10,7 @@ longitude: 13.8333
 story: "Motovun's walls were built in layers over several centuries — an outer ring, a middle belt, and the inner citadel. During the 15th century the town resisted Venetian pressure by playing the Republic of Venice against local Croatian lords, extracting privileges from both. The walls you walk today are largely Venetian-era construction, though the core of the inner town is much older."
 sources:
   - https://en.wikipedia.org/wiki/Motovun
+score: 9.0
 ---
 
 The walls of Motovun are the town's defining feature. Three rings of fortification, built between the 13th and 15th centuries, step up the hill and culminate in the campanile of St. Stephen's Church at the top. Walking the accessible stretch of outer wall gives views across the entire Mirna River valley — forests rolling south to the sea, other Istrian hill towns visible in the distance on clear days.

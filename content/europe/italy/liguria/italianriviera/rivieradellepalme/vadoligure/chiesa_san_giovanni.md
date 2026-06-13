@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.2714
 longitude: 8.4382
+score: 6.4
 ---
 
 The parish church of San Giovanni Battista is the main church of Vado Ligure, built over the ancient Santa Maria Vadensis and substantially reconstructed in baroque style in the 18th century. The baroque interior has the typical Ligurian combination of marble, gilding, and painted ceiling vaults.

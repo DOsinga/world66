@@ -12,6 +12,7 @@ story: >
   cowboys from across the country competing in traditional PRCA events — bull
   riding, steer wrestling, team roping, and barrel racing. The crowd, largely
   local, takes the competition more seriously than the tourist-rodeo circuit.
+score: 8.0
 ---
 
 The California Rodeo Salinas is one of the largest and oldest rodeos on the Professional Rodeo Cowboys Association circuit, held each year at the Salinas Sports Complex in mid-July. It draws top-ranked competitors in all the classic rodeo disciplines and is taken seriously by the professional rodeo world — this is not a tourist spectacle but a legitimate competition with significant prize money.

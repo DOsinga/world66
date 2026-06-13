@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The old stone Taylor County Courthouse and Jail at the centre of the village dates from 1879 and is the oldest standing courthouse in West Texas. When the county seat moved to Abilene in 1883 the building was abandoned; it sat empty until the 1950s when collector Ernest Wilson began acquiring it as the nucleus of an open-air museum."
+score: 8.3
 ---
 
 The Buffalo Gap Historic Village is a small open-air museum of about twenty preserved or relocated frontier buildings on a single grass site at the edge of town — a doctor's office, a one-room schoolhouse, a railroad section foreman's house, a blacksmith shop, a chapel, and the original Taylor County Courthouse and Jail from 1879. The collection grew out of the Wilson family's salvage of disappearing rural Texas buildings starting in the 1950s and is now operated by McMurry University.

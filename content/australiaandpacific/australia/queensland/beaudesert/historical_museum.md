@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Small volunteer-run museum covering Aboriginal history, timber-getting, and the dairy and beef industries of the Scenic Rim
+score: 6.4
 ---
 
 The **Beaudesert Historical Museum** occupies a cluster of old timber buildings and outbuildings — including a relocated 1880s slab cottage and a corrugated-iron school — on Brisbane Street near the centre of town. The exhibits work outward from local Yugambeh Aboriginal history, through the cedar-getting and saw-milling years that opened up the Scenic Rim in the late nineteenth century, to the dairy and beef cattle industries that still shape the valley.

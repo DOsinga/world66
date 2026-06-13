@@ -8,6 +8,7 @@ tags:
 address: "200 N Lea Ave, Roswell, NM"
 latitude: 33.3989
 longitude: -104.5278
+score: 6.0
 ---
 
 A small private museum housed in a historic downtown building, dedicated to miniatures — doll houses, model trains, miniature scenes, plus a wandering collection of curiosities that includes salt-and-pepper shaker collections, vintage toys, and Western memorabilia. It is a one-person passion project of the kind small American towns sometimes produce.

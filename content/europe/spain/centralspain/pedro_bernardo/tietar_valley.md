@@ -6,6 +6,7 @@ longitude: -4.9100
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 The Tiétar valley stretches south of Pedro Bernardo in a broad band of olive groves, vineyards, and tobacco fields between the sierra foothills and the mountains of Extremadura. The valley enjoys a notably mild climate — sheltered from north winds by the Gredos range — that allows the cultivation of subtropical fruits unusual this far north in Spain, including figs, pomegranates, and apricots.

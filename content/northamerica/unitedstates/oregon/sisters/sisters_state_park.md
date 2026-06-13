@@ -7,6 +7,7 @@ tags:
 - nature
 title: Sisters State Park
 type: poi
+score: 4.7
 ---
 
 Sisters State Park is a small day-use park on the southeast edge of town, an easy walk from the main downtown grid. It is mostly a picnic ground under a stand of mature ponderosa pines, with a few short walking trails and a small open meadow. The trail loop is about a kilometre and gives a peaceful break from the busier sights in town.

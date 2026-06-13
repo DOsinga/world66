@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.3528
 longitude: 8.3336
+score: 8.7
 ---
 
 Bremgarten's medieval old town occupies a narrow peninsula in a tight bend of the Reuss, with the river on three sides and the city wall on the fourth. The layout is unchanged since the thirteenth century: two main streets — the Marktgasse and the Antonigasse — converge on the central market square, with arcaded burgher houses lining both sides.

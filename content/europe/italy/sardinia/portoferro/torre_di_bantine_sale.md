@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.6821
 longitude: 8.2086
+score: 6.0
 ---
 
 The southern watchtower at Porto Ferro bay, less visited than Torre Negra at the north end, stands on a dune headland with views back along the full sweep of the beach. It is in rougher condition than its counterpart — the stonework has weathered badly — but it provides the better vantage point for watching the sunset over the sea.

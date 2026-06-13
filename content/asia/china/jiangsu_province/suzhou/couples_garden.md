@@ -12,6 +12,7 @@ longitude: 120.6115
 snippet: "UNESCO-listed garden notable for its complementary male and female sections"
 story: >
   The garden's Chinese name, Ou Yuan, means "couple's garden," but the etymology is more interesting than it sounds. It derives not from romance but from a homophone: the character for "couple" also sounds like the character for "hiding" or "seclusion." The official who built it in the 17th century was using the name to signal his own political retreat from court — a common coded message in Chinese garden naming.
+score: 7.9
 ---
 
 The Couple's Retreat Garden is one of the less-visited UNESCO-listed gardens in Suzhou, tucked into the canal district east of the old town centre. The name refers to a design concept in which the garden is divided into two complementary sections — the "male" half with bold rock formations and large open spaces, and the "female" half with more delicate plantings and intimate pavilions. Whether you buy the symbolism or not, the contrast between the two sections creates an interesting dynamic as you move through the space.

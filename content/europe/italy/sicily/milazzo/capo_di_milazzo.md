@@ -15,6 +15,7 @@ story: >
   that allowed Roman soldiers to turn a sea battle into something closer to a land
   fight. The victory was celebrated in Rome with a column in the Forum decorated with
   the prows of captured Carthaginian ships.
+score: 8.2
 ---
 
 The Capo di Milazzo is the tip of the peninsula beyond the castle — a rough, scrub-covered headland that ends in cliffs above clear water. A lighthouse marks the cape; the walking path along the cliff edge takes about 45 minutes each way from the castle and gives views in every direction across the Tyrrhenian. The Aeolians are directly visible to the north.

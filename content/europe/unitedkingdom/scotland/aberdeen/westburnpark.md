@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Westburn Park
 type: poi
+score: 4.6
 ---
 
 Westburn Road, Aberdeen. Tel: 01224 522734. Open all year. Children's cycle safety track, play area, sports facilities, bowling greens, indoor tennis centre, licensed restaurant. Disabled toilet.

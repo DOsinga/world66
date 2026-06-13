@@ -6,6 +6,7 @@ longitude: 73.6817
 tags:
   - things_to_do
   - architecture
+score: 6.8
 ---
 
 At the southern end of the City Palace complex, **Shiv Niwas Palace** was the personal residence of Maharana Fateh Singh in the early 20th century and is now a heritage hotel run by the Mewar royal family. The crescent-shaped facade with its arched verandahs faces directly onto Lake Pichola.

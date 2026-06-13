@@ -13,6 +13,7 @@ tags:
   - sight
 title: Plaza de la Democracia
 type: poi
+score: 5.8
 ---
 
 A broad, open plaza on the south side of the National Museum, built in 1989 to commemorate 100 years of Costa Rican democracy. It is not the most intimate of public spaces — the scale favours political rallies and official ceremonies — but the view from the plaza toward the bullet-scarred walls of the former fortress is striking.

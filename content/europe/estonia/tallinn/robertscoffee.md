@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Robert's Coffee
 type: poi
+score: 4.0
 ---
 
 Finnish coffee-chain branch on the main shopping street leading into the Old Town. Reliable espresso, free wifi, big windows for people-watching on Viru, Tallinn's busiest pedestrian street.

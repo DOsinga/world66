@@ -8,6 +8,7 @@ tags:
 latitude: -12.95
 longitude: 33.15
 story: "Kasungu was Malawi's largest national park and once held over 2,000 elephants, but heavy poaching in the 1980s and 1990s dropped that figure to a few hundred. A high-profile elephant translocation in 2022 — moving 263 elephants from Liwonde to Kasungu by truck — was one of the largest of its kind in southern Africa, and the population has been rebuilding since."
+score: 8.4
 ---
 
 Kasungu National Park covers around 2,000 sq km of miombo woodland, riverine forest, and grassy plains on the Zambian border west of Kasungu town. After decades of decline it is recovering — elephants have been re-introduced, anti-poaching effort has increased, and you stand a reasonable chance of seeing elephant, buffalo, sable antelope, roan, kudu, and a wide range of birds.

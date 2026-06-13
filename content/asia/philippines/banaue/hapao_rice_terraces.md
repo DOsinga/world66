@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.8779
 longitude: 121.0085
+score: 8.4
 ---
 
 Hapao is in the municipality of Hungduan, about an hour's drive west of Banaue town, and is the most photographed of the western terrace clusters. The terraces here are walled in stone and unusually wide; from the viewpoint above the village they fan out across a broad valley with the river running through the middle. A hot spring at the base of the village is a popular post-hike soak — it is rough and undeveloped, with concrete pools fed by a natural source.

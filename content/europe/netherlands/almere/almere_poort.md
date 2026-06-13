@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 52.3495
 longitude: 5.1514
+score: 6.6
 ---
 
 Almere-Poort is the newest of the city's districts, built from 2003 onwards on the strip of polder between the A6 motorway and the IJmeer. It is the most architecturally experimental of the four — long Mediterranean-influenced colonnades along the Europalaan, the *Citadel-Poort* development by MVRDV, and the **Olympiakwartier** sports cluster around the Topsportcentrum.

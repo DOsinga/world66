@@ -9,6 +9,7 @@ latitude: -41.4330
 longitude: 147.1300
 sources:
   - https://en.wikipedia.org/wiki/National_Automobile_Museum_of_Tasmania
+score: 6.5
 ---
 
 The National Automobile Museum of Tasmania on Cimitiere Street has a collection of over 95 classic cars and motorcycles on display at any one time, all privately owned, which means the exhibits rotate regularly — repeat visitors are rarely looking at the same collection twice. The vehicles range from pre-war brass-era cars to 1970s muscle cars and rare European rarities.

@@ -7,6 +7,7 @@ snippet: Specialty coffee from a respected local roaster, with branches in centr
 tags:
 - bars_and_cafes
 - cafe
+score: 6.4
 ---
 
 Meron is Cluj's best specialty coffee — locally roasted, properly extracted, served by people who care. The main branch on Strada Vasile Goldiș is a clean modern room with a long bar and a few tables, popular with students and remote workers; a smaller branch sits on Piața Unirii.

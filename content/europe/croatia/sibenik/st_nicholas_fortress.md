@@ -10,6 +10,7 @@ tags:
   - unesco
 story: >
   Built on a tiny islet in the narrow St Anthony Channel, St Nicholas was designed so that any ship entering Šibenik harbour had to pass directly under its guns. In four centuries no hostile fleet ever made it through. Venice required Šibenik to fund the whole thing — a tax burden so heavy the locals rioted in 1543.
+score: 8.1
 ---
 
 This is the second of Šibenik's UNESCO-listed monuments, registered in 2017 as part of the Venetian defensive works on the Adriatic. The triangular sea fortress sits on its own little island three kilometres from the old town, at the mouth of the channel between the harbour and the open sea.

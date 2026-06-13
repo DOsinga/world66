@@ -9,6 +9,7 @@ tags:
 title: Armenian Genocide Museum and Memorial
 type: poi
 story: "The twelve basalt slabs of the memorial lean inward around an eternal flame — one for each of the Armenian provinces of Ottoman Anatolia emptied of their people during 1915. The 44-metre stele beside it is split in two: the larger half stands for the surviving nation, the smaller for the western Armenians lost."
+score: 8.3
 ---
 
 Built into the Tsitsernakaberd hill above western Yerevan, this is a sober, restrained memorial to the 1.5 million Armenians killed by the Ottoman Empire between 1915 and 1923. The complex was inaugurated in 1967, after years of Soviet reluctance to permit any public commemoration. Twelve angled basalt slabs encircle the eternal flame; the underground museum, opened in 1995, traces the genocide through photographs, documents, survivor testimonies, and the records of foreign witnesses.

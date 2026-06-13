@@ -14,6 +14,7 @@ story: >
   courtyard with a fountain, iwan (arched reception room), and elaborate muqarnas decoration.
   Some of the finest surviving examples of this domestic architecture, dating from the 16th
   and 17th centuries, are here in Jdeide.
+score: 8.7
 ---
 
 The Jdeide quarter is the Christian neighbourhood of Aleppo's old city, its name meaning "the new quarter" — it was established in the 15th century when Aleppo's Armenian, Greek, and Syriac Christian communities settled outside the medieval walls. The area survived the civil war better than many parts of the old city, and it has been among the first to see reconstruction and reopening.

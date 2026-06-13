@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0686
 longitude: -34.8786
 tags: [things_to_do, sight, church, sao_jose]
+score: 6.4
 ---
 
 A late-baroque church a short walk south of Mercado de São José, dedicated to Our Lady of the Rock. The interior is more restrained than the showier Carmelite basilica — pale stone, simple altars — and the church remains a popular Marian pilgrimage site.

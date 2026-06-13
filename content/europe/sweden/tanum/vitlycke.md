@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "When archaeologists rediscovered the Vitlycke panel in the 19th century, the carvings were almost invisible against the grey granite. Modern visitors see them painted red — a controversial tourist enhancement that has angered purists for decades, but which makes the 3,000-year-old figures readable to the eye."
+score: 9.5
 ---
 
 Vitlycke is the central site of the UNESCO-listed Tanum rock carvings. The panel here is one of the largest in northern Europe, a sloping rock face covered with hundreds of figures — long-boats, sun symbols, hunters, the famous 'bridal couple' embracing, and a tall warrior with a raised axe.

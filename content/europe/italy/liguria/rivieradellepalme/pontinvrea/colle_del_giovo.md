@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 6.5
 ---
 
 The Colle del Giovo is the pass that separates the upper Erro valley around Pontinvrea from the coastal slope dropping down toward Savona. At about 520 metres it is a modest height, but the road over it is one of the classic minor climbs of the inland Ligurian Apennines, popular with road cyclists and bikers heading between the coast and the Piedmont side of the range.

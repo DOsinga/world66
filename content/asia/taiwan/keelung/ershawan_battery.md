@@ -6,6 +6,7 @@ longitude: 121.7575
 snippet: "19th-century cannon emplacement that once commanded the entrance to Keelung harbour"
 tags: [things_to_do, sight, history]
 story: "Ershawan Battery was built by the Qing government in 1840 as part of a coastal defence network after the First Opium War. When French forces attacked Keelung during the Sino-French War of 1884–85, the guns here held them off for months. The French eventually withdrew from Taiwan despite winning elsewhere — a fact Taiwanese locals remember with some pride."
+score: 8.4
 ---
 
 Ershawan Battery sits on the headland above the harbour entrance and is the best-preserved Qing-era fortification on the northern coast of Taiwan. The granite gun emplacements, magazines, and surrounding walls are largely intact, and the five original cannon positions still point out to sea. The site was designated a national monument and has been carefully maintained without being over-restored.

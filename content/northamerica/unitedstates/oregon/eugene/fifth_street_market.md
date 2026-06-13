@@ -9,6 +9,7 @@ snippet: "Indoor food and craft market in a renovated 1929 chicken-processing pl
 address: "296 E 5th Avenue"
 latitude: 44.0526
 longitude: -123.0902
+score: 6.6
 ---
 
 A two-storey covered market on the north edge of downtown, in what was originally a 1929 chicken-processing warehouse. The conversion has been done well — exposed brick, a central courtyard with a fountain, indoor seating around the food vendors.

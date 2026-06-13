@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 21.9453
 longitude: 120.7988
+score: 6.3
 ---
 
 Kenting Street (大灣路) is the main drag of the resort village and transforms into a night market each evening, running from around 5pm until midnight. Stalls sell grilled corn, fresh-cut fruit, squid on sticks, oyster omelettes, bubble tea, and a rotating cast of Taiwanese street food classics. It is louder and more commercial than the Hengchun Night Market but considerably more convenient for beach visitors who don't want to ride or drive to town.

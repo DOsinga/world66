@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.5011
 longitude: 47.7821
+score: 5.6
 ---
 
 The Imam Mosa Al Kadhim Grand Mosque is one of the largest Shia mosques in Basra, built to serve the city's predominantly Shia Muslim population. The mosque complex covers a substantial area and has the domes and minarets typical of Iraqi Shia religious architecture. It is an active place of worship and can be visited outside prayer times.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 27.8933
 longitude: 86.8300
+score: 7.4
 ---
 
 Dingboche (4,410m) is the main acclimatisation stop above Namche on the approach to Everest Base Camp and Island Peak, a small village of stone-walled teahouses set in a wide, flat-bottomed valley enclosed by stone field walls originally built to protect crops from yaks. At this altitude the sky is impossibly blue, the air thin, and the mountains overwhelming: Ama Dablam (6,812m) rises in a perfect pyramid directly above the village, one of the most beautiful mountain profiles in the Himalayas.

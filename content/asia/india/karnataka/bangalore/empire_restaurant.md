@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Empire Restaurant
 type: poi
+score: 5.9
 ---
 
 Empire Restaurant is Bangalore's most reliable late-night eating option, serving Mughlai food — chicken biryani, rumali roti, seekh kebabs, butter chicken, kheema — from multiple branches across the city at hours when most other restaurants are closed. The Church Street branch is the most centrally located and invariably busy; the queue at the door on weekend nights is almost a Bangalore institution in itself.

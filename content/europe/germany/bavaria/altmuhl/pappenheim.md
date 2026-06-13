@@ -16,6 +16,7 @@ story: >
   mouth of Wallenstein in his famous dramatic trilogy.
 sources:
   - https://en.wikipedia.org/wiki/Pappenheim
+score: 8.1
 ---
 
 Pappenheim is the most striking town in the Altmühl Valley, its castle rising on a rocky spur above the river with views stretching along the limestone cliffs in both directions. The castle complex — a mixture of Romanesque, Gothic, and Renaissance elements — is partially ruined and partially inhabited; the family has owned it since the 12th century.

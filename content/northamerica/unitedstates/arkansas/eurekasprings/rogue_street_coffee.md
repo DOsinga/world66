@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 36.4010
 longitude: -93.7382
+score: 5.7
 ---
 
 Rogue Street Coffee is the best coffee stop in Eureka Springs, a small independent roaster and cafe tucked into the historic district. The espresso drinks are made carefully and the space is relaxed and quiet in the mornings — a good place to sit with a laptop or a book before the town gets busy. They also do a decent selection of pastries and light breakfast items.

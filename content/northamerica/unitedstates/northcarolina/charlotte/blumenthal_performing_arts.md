@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2271
 longitude: -80.8415
+score: 7.0
 ---
 
 The Blumenthal Performing Arts Center is Charlotte's main venue for live performance, a multi-theatre complex in Uptown that hosts touring Broadway productions, opera, symphony, ballet, and comedy. The main stage, Belk Theater, seats nearly 2,200 people; the smaller Booth Playhouse and Spirit Square cater to more intimate productions and local companies.

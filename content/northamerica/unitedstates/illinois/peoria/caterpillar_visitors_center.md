@@ -12,6 +12,7 @@ story: >
   in 2012, analysts reported that the company was selling excavators faster
   in China than it could build them — a fact that says something both about
   Caterpillar's scale and about the pace of Chinese infrastructure development.
+score: 7.1
 ---
 
 The Caterpillar Visitors Center gives you a closer look at the world's largest manufacturer of construction and mining equipment than you might expect. The highlight is the ability to climb into full-size working machines — excavators, bulldozers, graders — and operate the controls in a supervised setting. It is more engaging than it sounds and genuinely fun for adults as much as children. The accompanying exhibits explain the engineering and the global reach of a company whose products helped build modern infrastructure on every continent.

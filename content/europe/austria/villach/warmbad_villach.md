@@ -15,6 +15,7 @@ story: >
   at around 29°C from a depth of several hundred metres — has a high radon
   content, which was considered medically beneficial in the Habsburg era and
   still draws people seeking treatment for rheumatic conditions today.
+score: 7.4
 ---
 
 Warmbad Villach is a thermal spa resort sitting a few kilometres south of the city centre in a forested valley. The thermal springs here have been in continuous use since antiquity, and the modern complex has developed into one of the most complete spa destinations in Austria, combining indoor and outdoor thermal pools, a large wellness centre, and a small resort village of hotels and treatment clinics.

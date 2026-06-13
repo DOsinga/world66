@@ -14,6 +14,7 @@ story: >
   of Tirupati and Yadagirigutta as sites of deep spiritual significance in Telangana.
 sources:
   - https://hindupad.com/nachagiri/
+score: 7.2
 ---
 
 About 15 kilometres from Wargal, perched on a rocky hillock near the village of Nachanpalli, the Nachagiri Narasimha Swamy Temple is one of the more important pilgrimage sites in northern Telangana. The temple enshrines a self-manifested (Swayambhu) idol of Lord Narasimha — the man-lion avatar of Vishnu — alongside Goddess Lakshmi, carved directly from the living rock of the hilltop. The temple is said to be around 600 years old, though its current stone construction is more recent.

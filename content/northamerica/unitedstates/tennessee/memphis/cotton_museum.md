@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - downtown
   - museum
+score: 7.2
 ---
 
 The Memphis Cotton Museum occupies the old Cotton Exchange building on Front Street — the place where, from 1874 to the mid-twentieth century, cotton traders gathered to buy and sell the crop that made Memphis one of the wealthiest cities in America. The original trading floor is preserved, with the ticker tape machines and the boards where prices were posted still in place. At its peak, more cotton passed through Memphis than anywhere else in the world.

@@ -13,6 +13,7 @@ story: >
   Clydesdale horses that pull the tram are rotated regularly to prevent overwork
   and are carefully monitored — they have become as much a symbol of Victor
   Harbor as the island itself.
+score: 7.4
 ---
 
 The Victor Harbor Horse Drawn Tram runs the 630-metre causeway between the foreshore and Granite Island, pulled by a pair of Clydesdale draft horses on timber rails. It is one of the last operating horse-drawn trams in the world and has been running in some form since 1894, making it a genuine piece of living transport history rather than a tourist novelty.

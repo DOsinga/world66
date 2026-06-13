@@ -9,6 +9,7 @@ tags:
 snippet: A Brule River waterfall where half the water plunges into a pothole and reappears no one knows where.
 story: >
   For decades visitors threw logs, dye, even ping-pong balls into the kettle and watched for them downstream — none ever turned up. In 2017 hydrologists measured the river flow above and below the falls and found they were essentially identical, suggesting the missing water simply rejoins the river just downstream through an unseen channel. The mystery is solved, but the falls are no less strange to watch.
+score: 8.8
 ---
 
 The Devil's Kettle is a waterfall on the Brule River in Judge C.R. Magney State Park, about 14 miles up the shore from Grand Marais. The river, dark with tannin, splits in two against a wedge of rhyolite at the lip of the falls. The eastern half drops as a normal waterfall into a pool below. The western half pours into a deep pothole — the "kettle" — and disappears.

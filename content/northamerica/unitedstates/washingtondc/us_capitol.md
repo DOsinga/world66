@@ -9,6 +9,7 @@ latitude: 38.8897
 longitude: -77.0089
 story: >
   The Capitol's dome is made of cast iron, not stone — a fact that surprises most visitors who assume it matches the marble base. It was completed during the Civil War at Lincoln's insistence, as a symbol that the Union would endure. The 9-million-pound iron dome visible today replaced a smaller wooden one that was already deteriorating when the war began.
+score: 8.6
 ---
 
 The United States Capitol is the seat of Congress — the House of Representatives and the Senate — and the building whose dome defines Washington's skyline. The east-facing front has been the site of presidential inaugurations since Andrew Jackson's in 1829. The west-facing side looks down the National Mall toward the Lincoln Memorial and is the view that appears in most photographs.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.0421
 longitude: -122.8776
+score: 9.3
 ---
 
 Point Reyes National Seashore is one of the great pieces of coastal wilderness within range of a major American city, and it rewards a full day or even an overnight stay. The peninsula juts into the Pacific about 40 miles northwest of San Rafael and encompasses dramatic cliffs, long sandy beaches, elk herds, and one of the best whale-watching spots on the California coast.

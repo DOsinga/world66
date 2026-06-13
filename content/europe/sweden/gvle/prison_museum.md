@@ -8,6 +8,7 @@ latitude: 60.6714
 longitude: 17.1428
 story: >
   One of the prisoners held in the Gävle city prison was Joe Hill — born Joel Hägglund in Gävle in 1879 — before he emigrated to the United States, became a labour organiser and songwriter for the IWW, and was executed in Utah in 1915 under disputed murder charges. Hill became a martyr of the American labour movement and the subject of songs and plays. A memorial to him stands outside the prison where he was briefly held as a young man.
+score: 7.8
 ---
 
 The Prison Museum of Sweden (Fängelsemuseet) occupies the former Gävle city prison, a well-preserved 19th-century jail that closed as an active facility in the 1990s. It is one of a small number of prison museums in Scandinavia and the only one to present Swedish incarceration history in this much depth.

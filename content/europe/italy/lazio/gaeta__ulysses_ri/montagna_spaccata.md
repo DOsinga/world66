@@ -8,6 +8,7 @@ latitude: 41.2044
 longitude: 13.5617
 sources:
   - https://en.wikipedia.org/wiki/Gaeta
+score: 9.4
 ---
 
 At the far southern tip of the Gaeta peninsula, a sheer cliff has been split vertically — from summit to sea — into two near-perfect halves. The gorge is deep enough to swallow the sky and the rock faces are streaked with mineral deposits in vivid ochres and greys. A Baroque sanctuary, the Santuario della Montagna Spaccata, clings to the cliff inside the chasm, reached by a steep staircase cut into the rock.

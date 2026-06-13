@@ -12,6 +12,7 @@ story: >
   people. The volcano is considered the world's most perfect volcanic cone 
   because, unlike most stratovolcanoes, it has no significant secondary craters 
   or lateral vents to distort its symmetry.
+score: 9.6
 ---
 
 Mayon Volcano is the dominant fact of life in Legazpi. At 2,462 metres, it rises from near sea level with almost mathematical regularity to a near-perfect cone, and it is visible — on clear mornings especially — from anywhere in the city and from aircraft approaching from Manila. It is the most active volcano in the Philippines and one of the most active in the world, with a persistent plume and intermittent eruptions that have shaped the landscape and culture of Albay province for centuries.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Stark_County_Courthouse_(Ohio)
+score: 7.1
 ---
 
 The Stark County Courthouse is a Romanesque Revival building in the centre of downtown Canton, completed in 1895 and listed on the National Register of Historic Places. The exterior is characterised by heavy sandstone masonry, deep-set arched windows, and a prominent corner tower. It's the kind of substantial Victorian civic building that once anchored every county seat in the Midwest, though many have since been demolished or replaced.

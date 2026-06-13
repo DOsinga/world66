@@ -9,6 +9,7 @@ latitude: 31.109
 longitude: 77.179
 story: >
   Chapslee was built in the 1830s and passed through several distinguished owners — including Sir Edward Buck, a prominent imperial civil servant, and then the Maharaja of Kapurthala — before becoming one of Shimla's most remarkable private hotels. The current owner, Reggie Singh, has been running it as a heritage property since the 1970s and has maintained the original character with more fidelity than most heritage hotels manage.
+score: 7.2
 ---
 
 Chapslee is a privately owned heritage estate in the Lakkar Bazaar area — a colonial-era mansion that has been operated as a small hotel for decades, with rooms and public spaces that retain original furniture, artworks, and atmosphere from the British period. It is one of the most carefully maintained examples of colonial domestic architecture in Shimla, and the current owners are genuinely knowledgeable about the building's history.

@@ -8,6 +8,7 @@ tags:
 latitude: -4.31
 longitude: 15.31
 snippet: A green refuge from the city, with tropical plants and a relatively quiet atmosphere
+score: 7.3
 ---
 
 The Kinshasa Botanical Garden offers something rare in this overwhelming city: relative quiet. Established in the colonial era, the garden preserves a collection of tropical plants and trees from across the Congo Basin and beyond, and its shaded paths give you a chance to breathe and think after the relentless noise of the streets. It is not the lushest or best-maintained botanical garden in Africa, but by Kinshasa's standards it is a genuine refuge.

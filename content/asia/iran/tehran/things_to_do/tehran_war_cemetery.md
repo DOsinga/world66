@@ -8,6 +8,7 @@ latitude: 35.7765
 longitude: 51.4387
 story: >
   Among the graves in the Tehran War Cemetery are those of several Commonwealth servicemen who died not in battle but as POWs or in transit — including some who survived combat in North Africa and died of disease while being transported across Iran as part of the Allied supply route to the Soviet Union. The cemetery is maintained by the Commonwealth War Graves Commission, which continues to care for it under a bilateral agreement with the Iranian government.
+score: 6.9
 ---
 
 The Tehran War Cemetery is a small Commonwealth War Graves Commission cemetery in the Gholhak district of northern Tehran, containing the graves of 2,082 servicemen from the two World Wars, predominantly from the Second World War. British, Indian, Australian, New Zealand, and other Commonwealth soldiers are buried here alongside a smaller number of Polish and other Allied forces.

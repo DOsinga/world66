@@ -14,6 +14,7 @@ story: >
   in Kokura, and Kokura itself narrowly escaped the atomic bomb on 9 August 1945.
   Cloud cover over the primary target diverted the Bockscar to Nagasaki. Tanga Market
   remains as an inadvertent beneficiary of weather.
+score: 8.0
 ---
 
 Tanga Market (Tanga Ichiba) in central Kokura is one of Kitakyushu's most atmospheric local experiences — a covered market with over 100 stalls selling fresh fish, vegetables, pickles, tofu, prepared foods, and street snacks. The market has been in continuous operation for over a century and retains the density and character of a genuine working market rather than a tourist reconstruction.

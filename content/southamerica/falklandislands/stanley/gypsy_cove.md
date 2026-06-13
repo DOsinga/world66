@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Gypsy Cove
 type: poi
+score: 8.4
 ---
 
 A picture-postcard cove of white sand and turquoise water about 30 minutes' drive east of Stanley, on the Cape Pembroke peninsula. The clear water and clean sand could be tropical were it not for the wind. Magellanic penguins nest in burrows in the dunes behind the beach and waddle down to swim throughout the day.

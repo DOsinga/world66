@@ -8,6 +8,7 @@ tags:
 - nature
 title: Luobi Cave
 type: poi
+score: 6.6
 ---
 
 Luobi Cave — the name translates as "Dropped Brush Cave" — is a karst cave system in the hills just north of Sanya, set in a scenic park of subtropical forest and rock formations. The main cave runs for about 70 metres and is fitted out with paths and coloured lighting that make it feel a little theme-park-ish, but the geology is genuine and the chambers are large.

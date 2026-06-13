@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 30.1864
 longitude: -85.8204
+score: 4.8
 ---
 
 Gulf World Marine Park is one of the few old-school marine parks still operating on the Florida Panhandle, with dolphins, sea lions, stingrays, and tropical fish in tanks and pools. It is a family attraction of the traditional kind — dolphin shows, interaction programs, a parrot garden, and guided tours of the tanks.

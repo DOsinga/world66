@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 52.1918
 longitude: -2.2221
+score: 6.8
 ---
 
 Huntingdon Hall is Worcester's main concert venue, housed in a remarkable Perpendicular Gothic building that was originally the Countess of Huntingdon's Connexion chapel, built in 1804. The interior retains its gallery, the original plasterwork, and the elegant proportions of a Georgian nonconformist chapel — making it an unusually atmospheric place to hear music.

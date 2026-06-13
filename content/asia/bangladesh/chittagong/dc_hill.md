@@ -7,6 +7,7 @@ tags:
 latitude: 22.3414
 longitude: 91.8351
 snippet: Hilltop park in the centre of the city, with views and old British buildings
+score: 8.0
 ---
 
 A small park on a steep wooded hill in the centre of Chittagong, named for the Deputy Commissioner whose colonial bungalow still sits at the top. The climb up to the open area is about ten minutes from the lower entrance, and the views over the old town and out to the river are some of the best you can get without leaving the centre.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Cave temple complex with bathing pools associated with the god Kartikeya
+score: 7.7
 ---
 
 The Rajpuri Caves, ten kilometres east of Panchgani in the village of Rajpuri, are a complex of rock-cut chambers and stepped bathing pools fed by a perennial spring. The site is dedicated to Kartikeya, the warrior god, and is a place of local pilgrimage; the central tank is believed to be a remedy for sins and skin ailments, and pilgrims still bathe in the pools at festival times.

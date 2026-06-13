@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -11.6047
 longitude: 34.2972
+score: 7.8
 ---
 
 The series of coves and headlands that make up Nkhata Bay are well suited to kayaking. Several lodges rent single and double sit-on-top kayaks by the hour or the day, and the water is calm enough most mornings that even inexperienced paddlers can handle it. A typical half-day trip works its way from the main bay around two or three headlands, with stops on small sandy beaches that are only accessible from the water.

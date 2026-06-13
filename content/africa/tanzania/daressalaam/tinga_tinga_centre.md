@@ -9,6 +9,7 @@ tags:
 - msasani
 title: Tinga Tinga Arts Cooperative
 type: poi
+score: 6.7
 ---
 
 The cooperative's main outlet, a modest open-fronted shed off Haile Selassie Road near the Msasani Slipway, is the best place in Tanzania to see the painting style at the source. Twenty or so artists work in the back yard, and stretched canvases line the walls — antelopes in green-blue silhouette, lions in fields of dots, giraffe pairs with elongated stylised necks.

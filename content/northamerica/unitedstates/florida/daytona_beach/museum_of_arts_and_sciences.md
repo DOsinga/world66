@@ -10,6 +10,7 @@ title: Museum of Arts and Sciences
 type: poi
 url: https://www.moas.org
 story: "The museum's centrepiece is the 13-foot, 130,000-year-old skeleton of a giant ground sloth that was unearthed in nearby Reed Canal in 1975 — the most complete specimen ever found in North America."
+score: 8.5
 ---
 
 The Museum of Arts and Sciences is the most rewarding indoor stop in Daytona Beach and one of the most eclectic regional museums in Florida. It sits in a quiet pine hammock on the west side of the Halifax River, and houses fine collections of Cuban art (assembled by the family of dictator Fulgencio Batista, who fled to Daytona Beach in 1959), American decorative arts, and Florida prehistory.

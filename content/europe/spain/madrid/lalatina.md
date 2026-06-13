@@ -6,6 +6,7 @@ longitude: -3.7100
 tags:
   - things_to_do
   - neighbourhood
+score: 8.2
 ---
 
 The old medieval quarter south-west of Plaza Mayor, narrow-streeted, scattered with small plazas and tucked-away churches, and the centre of Madrid's Sunday tapas culture. The neighbourhood gets its name from a long-vanished hospital founded by the 15th-century scholar Beatriz Galindo, nicknamed La Latina for her command of the language.

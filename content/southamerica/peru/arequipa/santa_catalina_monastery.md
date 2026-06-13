@@ -11,6 +11,7 @@ title: Monasterio de Santa Catalina
 type: poi
 url: santacatalina.org.pe
 story: "When Santa Catalina opened to the public in 1970, the world discovered that 175 nuns had been living inside without electricity or running water for nearly four hundred years. Their cells contained well-worn cooking pots, painted icons, and — among the wealthier sisters — silver tea services and African slaves."
+score: 9.7
 ---
 
 The Monasterio de Santa Catalina is the single most extraordinary place in Arequipa. Founded in 1579 to cloister the second daughters of wealthy Spanish families, it functioned for almost 400 years as a closed religious community, occupying a five-acre walled compound in the middle of the colonial centre. Most of the city was unaware of what it contained until the Vatican forced reforms in 1970 and the monastery opened its doors.

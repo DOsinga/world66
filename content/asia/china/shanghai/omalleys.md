@@ -10,6 +10,7 @@ tags:
   - bars_and_cafes
   - bar
   - french_concession
+score: 5.4
 ---
 
 Irish pub just off Hengshan Road, with a large beer garden, a decent pint of Guinness, and live music imported from Ireland. A reliable spot for a casual evening in the former French Concession, especially when the weather lets you sit outside.

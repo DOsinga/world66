@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 67.8558
 longitude: 20.2253
+score: 7.7
 ---
 
 Dog sledding is the quintessential Lapland winter activity and several operators around Kiruna offer it, from two-hour introductions to multi-day expeditions staying overnight in wilderness cabins. The experience of driving your own team of huskies across a frozen lake as temperatures hover around -15°C is one of the more visceral things you can do in Europe.

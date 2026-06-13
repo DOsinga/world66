@@ -6,6 +6,7 @@ longitude: -86.5500
 tags:
   - things_to_do
   - sport
+score: 5.7
 ---
 
 Country Creek is an 18-hole public course on the edge of Franklin, designed by Kentucky's own Kenny Perry — a 14-time PGA Tour winner who grew up in town. Perry built it on family land near where he was raised, and he still drops in. The course is open to the public at green fees a fraction of what a Perry-designed track elsewhere would cost.

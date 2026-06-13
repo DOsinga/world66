@@ -12,6 +12,7 @@ story: >
   and commemorates the Battle of Baltimore during the War of 1812. The monument appears
   on Baltimore's official seal and has done so since 1827, making it one of the oldest
   continuously used civic symbols in American municipal heraldry.
+score: 6.9
 ---
 
 The Battle Monument stands at the centre of Battle Monument Square, an elegant neoclassical column topped by a female figure representing Baltimore holding a laurel wreath. It was completed in 1825 to commemorate the soldiers who died defending Baltimore during the British invasion of 1814 — the same engagement that inspired the national anthem.

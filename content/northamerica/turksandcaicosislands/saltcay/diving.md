@@ -14,6 +14,7 @@ story: >
   dives in the Turks and Caicos.
 sources:
   - https://en.wikipedia.org/wiki/Salt_Cay,_Turks_Islands
+score: 8.9
 ---
 
 Salt Cay's diving is rated among the best in the Turks and Caicos, which is high praise in an archipelago known for exceptional reef diving. The barrier reef drops from about 12 metres directly into a 2,000-metre wall — dramatic topography with excellent clarity, abundant coral, sea fans, sponges, and fish life including reef sharks, rays, and turtles.

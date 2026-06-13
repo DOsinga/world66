@@ -8,6 +8,7 @@ tags:
 - sight
 - neighbourhood
 snippet: The single small settlement on South Caicos, a quiet fishing port wrapped around a deepwater bay
+score: 7.4
 ---
 
 **Cockburn Harbour** is South Caicos's only town and one of the prettiest natural ports in the Caribbean — a deep, sheltered bay that gives the island its other name, the "Big South" of the salt trade. The settlement is a loose grid of pastel cottages, two churches, a couple of small grocers, and a long concrete jetty where the conch and lobster fleets come and go. Government buildings cluster around Front Street; one or two have hung on from the 19th century.

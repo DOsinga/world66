@@ -8,6 +8,7 @@ tags:
 latitude: 45.0814
 longitude: 7.7676
 story: "On 4 May 1949 the plane carrying the entire Grande Torino football team home from a friendly in Lisbon crashed into the rear wall of the basilica in heavy fog. All thirty-one on board died, wiping out the team that had won five consecutive league titles. A simple memorial plaque on the back of the basilica still draws fans every anniversary."
+score: 8.8
 ---
 
 Filippo Juvarra's Baroque basilica crowns a hill 670 metres above the city to the east, dominating the skyline of Turin from almost every angle. The Savoys built it as a thanks-offering for the lifting of the French siege of 1706 — the king and the future architect of the Savoy palaces watched the battle from this hilltop and made the vow on the spot.

@@ -7,6 +7,7 @@ address: Via Piella 16/A
 snippet: Hand-rolled pasta in a small dining room near the famous canal window
 tags:
 - food
+score: 6.9
 ---
 
 A few doors down from the Finestrella di Via Piella, this small trattoria has built a steady reputation on hand-rolled pasta — tortellini, tagliatelle, lasagne — made in the kitchen each morning. The dining room is small and the tables tight, which is part of the charm.

@@ -9,6 +9,7 @@ tags:
 title: Calle del Sol
 type: poi
 snippet: The main commercial street of downtown Santiago
+score: 7.4
 ---
 
 The Calle del Sol runs through the old town from the Monumento up to the river — a long pedestrianised commercial drag with shops, banks, vendors, and the chaotic energy of a real Dominican downtown. It is the easiest place in the city to see daily life as locals live it, far from any beach resort.

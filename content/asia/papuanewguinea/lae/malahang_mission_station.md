@@ -11,6 +11,7 @@ story: >
   first Europeans to settle in what was then Kaiser Wilhelmsland under German colonial
   rule. The mission network he helped establish shaped Morobe Province profoundly — Lutheranism
   remains the dominant faith in the region to this day.
+score: 5.3
 ---
 
 The Malahang Mission Station is one of the oldest Lutheran mission sites in Papua New Guinea, located on Busu Road in the Malahang suburb northeast of central Lae. The station is now under the Evangelical Lutheran Church of Papua New Guinea, and the buildings are a mix of old mission-era structures and newer additions.

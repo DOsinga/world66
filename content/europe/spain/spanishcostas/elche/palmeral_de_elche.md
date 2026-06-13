@@ -8,6 +8,7 @@ tags:
 - sight
 - park
 story: "The Moors who planted this grove in the 10th century brought with them a sophisticated irrigation system called the acequia system — a network of open channels that still distributes water through the Palmeral today with a weekly schedule negotiated among farmers, almost unchanged from medieval practice. It is one of the oldest continuously operated water management systems in Europe."
+score: 9.0
 ---
 
 The Palmeral de Elche is Europe's largest palm grove, with over 200,000 date palms arranged in groves and gardens across the western edge of the city. The Moors established it sometime around the 10th century, though they were likely improving on earlier cultivation, and it has been maintained ever since. In 2000, UNESCO added it to the World Heritage list, recognising it as a unique survival of an Arab agricultural landscape on European soil. Walking through the denser sections of the grove, the dense canopy shuts out the sky and drops the temperature noticeably — on a summer afternoon in Elche, where the heat is relentless, this matters.

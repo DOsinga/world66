@@ -8,6 +8,7 @@ tags:
 - archaeology
 title: Rock Carvings in Backa
 type: poi
+score: 8.4
 ---
 
 The Backa rock carvings near Brastad are some of the more accessible of the thousands of Bronze Age petroglyphs scattered across Bohuslän. The main outcrop carries dozens of incised figures: ships, hunters with bows, horses, and the large isolated "Shoemaker" — a 1.7-metre tall stylised human that has become one of the icons of Scandinavian Bronze Age art.

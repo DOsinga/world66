@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Refined grill restaurant in a corner building near Austurvöllur
+score: 6.7
 ---
 
 Grillmarkaðurinn (the Grill Market) is a long-running upmarket restaurant in a corner building just off Lækjargata, with a downstairs dining room of wood, leather and warm lamps. The menu leans on Icelandic produce — minke whale, char, lamb fillet — much of it cooked over the open Josper grill that gives the place its name.

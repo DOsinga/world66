@@ -15,6 +15,7 @@ story: >
   intervals, and Han Chinese settlement was forbidden within the Miao side.
   The wall system remained in operation until the suppression of the last
   major Miao uprising in 1795.
+score: 7.6
 ---
 
 The Southern Great Wall (Miao Border Wall) stretches across the ridgelines northwest of Fenghuang, built over several centuries by the Qing dynasty specifically to separate the Miao population of western Hunan from the Han-controlled lowlands. Unlike the northern Great Wall, which kept external enemies out, this structure was designed to confine an internal population. The surviving sections offer dramatic views over terraced rice fields dropping toward the valley below.

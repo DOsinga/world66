@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.1150
 longitude: 124.3850
+score: 7.8
 ---
 
 The Yalu River promenade runs for several kilometres along the Dandong waterfront, and walking it is the simplest way to absorb the border experience. At night the Chinese side glitters with neon and riverside restaurants; across the water, Sinuiju is dark except for a few streetlights, the contrast so stark that visitors sometimes assume the North Korean side of the river is uninhabited.

@@ -9,6 +9,7 @@ tags:
   - eating_out
 snippet: Multicultural hub on Colfax where refugee chefs run small food stalls
 story: "Mango House was founded in 2012 by Dr. P.J. Parmar, a family physician treating Aurora's large refugee population, who realised many of his patients wanted to start food businesses but couldn't navigate American licensing. The building now houses a clinic, a legal aid centre, a youth program and the food hall — a model of integrated immigrant services that has been studied by cities across the U.S."
+score: 8.3
 ---
 
 Mango House is the unofficial heart of Aurora's refugee community — a converted retail building on Colfax that houses a medical clinic, immigration services, youth programs, and the most interesting eating experience in the city: a food hall where refugee chefs cook the food they cooked at home before they left.

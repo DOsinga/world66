@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.33
 longitude: 84.12
+score: 7.0
 ---
 
 Kalingapatnam is a long, quiet beach on the Bay of Bengal coast, about 30 kilometres east of Srikakulam town. The name marks its historical significance: this was one of the principal seaports of the ancient Kalinga kingdom, and later a busy trading post used by Arab merchants and eventually the East India Company. The remains of a lighthouse from the colonial period still stand near the waterfront, and the ruins of a Buddhist stupa survive close to the shore — physical evidence of the town's long mercantile and cultural history.

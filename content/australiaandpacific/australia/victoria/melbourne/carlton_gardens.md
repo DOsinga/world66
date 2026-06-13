@@ -11,6 +11,7 @@ title: Carlton Gardens
 type: poi
 story: >
   The Royal Exhibition Building hosted the opening of the first Commonwealth Parliament of Australia on 9 May 1901, when the Duke of York and around 12,000 invited guests gathered in the Great Hall. It was the only time a British royal opened an Australian parliament. The building and gardens were inscribed as a UNESCO World Heritage Site in 2004 — the first place in Victoria to receive that recognition.
+score: 8.9
 ---
 
 Carlton Gardens cover 26 hectares of formal Victorian parkland just north of the CBD and are among the best-preserved nineteenth-century gardens in Australia. The centrepiece is the Royal Exhibition Building, a vast domed hall built for the Melbourne International Exhibition of 1880. The building's Great Hall, with its ornate interior and soaring dome, is now a UNESCO World Heritage Site and one of the most significant buildings in the country.

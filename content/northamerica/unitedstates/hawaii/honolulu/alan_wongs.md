@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Alan Wong's Restaurant
 type: poi
+score: 7.6
 ---
 
 Alan Wong's is the restaurant that defined Hawaii Regional Cuisine — the movement that applied French technique to local Hawaiian ingredients and elevated Hawaiian food from plantation cooking to fine dining. Wong was one of the twelve chefs who founded the movement in 1991, and his restaurant on King Street in Moiliili has been the flagship ever since.
